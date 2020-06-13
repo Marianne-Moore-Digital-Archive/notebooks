@@ -103,11 +103,15 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg" n="0002-verso"/>
                     <desc>[Inside front cover.]</desc>
                     <lg>
-                        <l n="01">1250/4</l>
-                        <l n="02">                           <hi rend="underline">Jan.  1      1923</hi></l>
-                        <l n="03">                     See   Standard  142</l>
-                        <l n="04">          Book  III</l>
-                        <l n="05">            1923</l>
+                        <l n="01">                  M.   Moore</l>
+                        <l n="02">                    14  St.   Luke's    Place</l>
+                        
+                        <l n="03">          </l>
+                        <l n="04">1250/4</l>
+                        <l n="05">                           <hi rend="underline">Jan.  1      1923</hi></l>
+                        <l n="06">                     See   Standard  142</l>
+                        <l n="07">          Book  III</l>
+                        <l n="08">            1923</l>
                         </lg>
                 </div>
             </div>
