@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <?xml-model href="https://moorearchive.org/custom/mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
 <?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?>
-
 <TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
     <teiHeader>
@@ -476,7 +473,7 @@
 
                         <l n="02">[blank]W L George <note>George, Lionel Walter [1882-1926]. British author known for his popular fiction and writings on feminism. Author of The Intelligence of Woman (1916). </note>   <bibl>Art of Courtship. Harper's 1923</bibl><note>"The Art of Courtship," Harper's Bazaar January 1923: 212-218.</note></l>
 
-                        <l n="03">[blank]                         <quote/>(Generalizations on courtship)</l>
+                        <l n="03">[blank]                         <quote/>(Generalizations on courtship) </l>
 
                         <l n="04">[blank] They do not apply to super emotional people,</l>
 
