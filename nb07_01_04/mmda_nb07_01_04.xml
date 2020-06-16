@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?>
-<TEI xmlns="">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -465,18 +462,17 @@
             <div type="image" xml:id="nb07_01_04_0008_text">
                 <div type="page" n="v.0008" xml:id="nb07_01_04_0008_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0008-verso.jpeg" n="0008-verso"/>
-                    <desc>[Page-level Description]</desc>
-                    <lg>
-                        <l n="01">[blank]</l>
-                        <l n="02">[blank]</l>
-                        <l n="03">[blank]</l>
-                        <l n="04">[blank]</l>
-                        <l n="05">[blank]</l>
-                        <l n="06">[blank]</l>
-                        <l n="07">[blank]</l>
-                        <l n="08">[blank]</l>
-                        <l n="09">[blank]</l>
-                        <l n="10">[blank]</l>
+                    <desc>[Page-level Description] </desc><lg>
+                        <l n="01">[blank] <quote rend="begin quotation"/>must have a past provided it is past . . . . A woman<note>"The Art of Courtship" (see earlier note).</note></l>
+                        <l n="02">[blank] had better have only a present. A lover will do no harm</l>
+                        <l n="03">[blank] by occasionally sacrificing his beloved to his work. In my</l>
+                        <l n="04">[blank] notebook stands a case of a lover who went away to keep a</l>
+                        <l n="05">[blank] business appointment. She said I hate you for going</l>
+                        <l n="06">[blank] &amp; I shld have hated you if you had broken a bus.</l>
+                        <l n="07">[blank] engagement on my account. You see this art of c needs some management</l>
+                        <l n="08">[blank] <desc rend="opening parenthesis opens 3 rows of print">(</desc><add>All his</add></l>
+                        <l n="09">[blank] observations are in accordance w the laws of psychology but he</l>
+                        <l n="10">[blank] rottenizes it all.)<quote rend="end"/>     </l>
                         <l n="11">[blank]</l>
                         <l n="12">[blank]</l>
                         <l n="13">[blank]</l>
