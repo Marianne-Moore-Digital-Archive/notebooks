@@ -685,12 +685,12 @@
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <bibl rend="begin"/>An Unknown Quantity--Gerard Hopkins.<note>Hopkins, Gerard [? - 1961]. British translator, nephew of the poet Gerard Manley Hopkins. </note>  Dutton. <bibl rend="end"><note>Hopkins, Gerard. <hi rend="underline">An Unknown Quantity</hi>. (NY: E. P. Dutton &amp; Company, 1923). </note></bibl> </l>
-                        <l n="02">[blank] It was not that Jimmy's nature was inflammable . . . . but</l>
-                        <l n="03">[blank] expressibleonly through the medium of caresses</l>
+                        <l n="02">[blank] <quote rend="begin"/>It was not that Jimmy's nature was inflammable . . . . but</l>
+                        <l n="03">[blank] expressibleonly through the medium of caresses<quote rend="end"/>  </l>
                         <l n="04">[blank]</l>
-                        <l n="05">[blank] The Poor Man--Stella Benson--Macmillan Reviewed by</l>
-                        <l n="06">[blank]</l>
-                        <l n="07">[blank]</l>
+                        <l n="05">[blank] <bibl rend="begin"/>The Poor Man--Stella Benson--Macmillan Reviewed by</l>
+                        <l n="06">[blank] Will Cuppy<note>Cuppy, William Jacob [1884-1949]. American humorist and journalist, known for his satire and writing on the animal kingdom. Reviewed regularly for the <hi rend="underline">Tribune</hi>. </note>   Tribune 17 Mar 1923<bibl rend="end"/>--  <note>Benson, Stella. <hi rend="underline">The Poor Man</hi>. (NY: The Macmillan Company, 1923). Rev. by Will Cuppy, <hi rend="underline">Tribune</hi> March 17 1923.</note>   <quote rend="begin"/>Of course Emily</l>
+                        <l n="07">[blank] is loudly in love w the newspaper man </l>
                         <l n="08">[blank]</l>
                         <l n="09">[blank]</l>
                         <l n="10">[blank]</l>
