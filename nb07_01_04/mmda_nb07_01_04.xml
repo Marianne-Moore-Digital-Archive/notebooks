@@ -908,25 +908,25 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0016-verso.jpeg" n="0016-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
-                        <l n="01">[blank] Punch   Feb 21  1923                         An' they stirred</l>
-                        <l n="02">[blank]         The Little Young Lambs         when they heard </l>
+                        <l n="01">[blank] <bibl rend="begin"/>Punch   Feb 21  1923<bibl rend="end"/>                         <quote rend="begin"/>An' they stirred</l>
+                        <l n="02">[blank]         The Little Young Lambs<note>Chalmers, Patrick R. "The Little Young Lambs." <hi rend="italics">Punch</hi> February 1923. Chalmers was an Irish poet, writer, and banker [1872-1942].</note>         when they heard </l>
                         <l n="03">[blank]  In the fold                                     Did the little young lambs</l>
                         <l n="04">[blank] On the wold                                  Then they hopped, most absurd,</l>
                         <l n="05">[blank] There were little young lambs    From a-lee of their dams,</l>
                         <l n="06">[blank] <del>A</del> An' the wind blew so cold            An' they jumped &amp; they skipped</l>
-                        <l n="07">[blank] They laid less o' their dams,         with tip-toppetty skips,</l>
+                        <l n="07">[blank] They laid lees o' their dams,         with tip-toppetty skips,</l>
                         <l n="08">[blank]     An' a shepherd old man                As the little tune tripped</l>
-                        <l n="09">[blank] He leaned over the cotes,             From the reed at ths lifs,</l>
+                        <l n="09">[blank] He leaned over the cotes,             From the reed at the lifs,</l>
                         <l n="10">[blank]       An' a lilt he began                    of the crinkled old man o' the wold,</l>
                         <l n="11">[blank] With a flutter of motes,           As he piped 'em a merry downderry, </l>
                         <l n="12">[blank]                                                                   he did,</l>
                         <l n="13">[blank] The little young lambs all among;  Since he was so old.</l>
                         <l n="14">[blank] Oh, he piped 'em a derry downderry,</l>
                         <l n="15">[blank]             he did,</l>
-                        <l n="16">[blank] Since they were so young.       Punch Mar 14. Dear old</l>
+                        <l n="16">[blank] Since they were so young.<quote rend="end"/>       Punch Mar 14. Dear old</l>
                         <l n="17">[blank]                                                  lady buying cigars: "It's a</l>
                         <l n="18">[blank]                                                 perfectly charming box &amp; would</l>
-                        <l n="19">[blank]                                                 they be turkish or Virginian.</l>
+                        <l n="19">[blank]                                                 they be turkish or Virginian.<quote rend="end"/>   </l>
                         <l n="20">[blank]</l>
                         <l n="21">[blank]</l>
                         <l n="22">[blank]</l>
@@ -964,7 +964,7 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0017-recto.jpeg" n="0017-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
-                        <l n="01">[blank]</l>
+                        <l n="01">[blank]    </l>
                         <l n="02">[blank]</l>
                         <l n="03">[blank]</l>
                         <l n="04">[blank]</l>
