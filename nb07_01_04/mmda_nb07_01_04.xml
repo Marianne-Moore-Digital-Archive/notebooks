@@ -796,7 +796,7 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0014-verso.jpeg" n="0014-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
-                        <l n="01">[blank] P<note>MM quotes from material read at the Metropolitan Museum of Art Exhibition on Chinese Art in March and April 1923.</note>owerful is the painting of the Fang Hu mountains,<note><quote rend="begin">A manuscript poem by Du Fu, one of the greatest poets of the Tang dynasty, on Wang Wei's painting. The poem was displayed in the Metropolitan Museum exhibit. Mi Fei (or Mi Fu) was a painter, poet, and calligrapher of the Song dynasty.</quote>  </note></l>
+                        <l n="01">[blank] <note>MM quotes from material read at the Metropolitan Museum of Art Exhibition on Chinese Art in March and April 1923.</note><quote rend="begin"/>Powerful is the painting of the Fang Hu mountains,<note><quote rend="begin">A manuscript poem by Du Fu, one of the greatest poets of the Tang dynasty, on Wang Wei's painting. The poem was displayed in the Metropolitan Museum exhibit. Mi Fei (or Mi Fu) was a painter, poet, and calligrapher of the Song dynasty.</quote>  </note></l>
                         <l n="02">[blank] of the Kuen Lun Range, and high is it hung on</l>
                         <l n="03">[blank] on the spotless wall in the lofty hall of your mansion.<note>MM quotes the lines above in a letter to Bryher (May 5, 1923).</note></l>
                         <l n="04">[blank] In Pa Ling, the sun shines on the east of the</l>
@@ -812,7 +812,7 @@
                         <l n="14">[blank] The skill w which the distance and depth are </l>
                         <l n="15">[blank] depicted cannot be equalled. Within the short space</l>
                         <l n="16">[blank] of a foot 1000s of Li are made to appear. Ping</l>
-                        <l n="17">[blank] Chow |  with their keen blades I would<quote rend="end"/><quote rend="end"/> <quote rend="end"/></l>
+                        <l n="17">[blank] Chow |  with their keen blades I would<quote rend="end"/> </l>
                         <l n="18">[blank]</l>
                         <l n="19">[blank]</l>
                         <l n="20">[blank]</l>
@@ -908,7 +908,7 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0016-verso.jpeg" n="0016-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
-                        <l n="01">[blank] <bibl rend="begin"/>Punch   Feb 21  1923<bibl rend="end"/>                         <quote rend="begin"><seg type="verse begin"/></quote>An' they stirred</l>
+                        <l n="01">[blank] <bibl rend="begin"/>Punch   Feb 21  1923<bibl rend="end"/>                         <quote rend="begin"/>An' they stirred</l>
                         <l n="02">[blank]         The Little Young Lambs<note>Chalmers, Patrick R. "The Little Young Lambs."  February 1923. Chalmers was an Irish poet, writer, and banker [1872-1942].</note>         when they heard </l>
                         <l n="03">[blank]  In the fold                                     Did the little young lambs</l>
                         <l n="04">[blank] On the wold                                  Then they hopped, most absurd,</l>
@@ -964,7 +964,7 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0017-recto.jpeg" n="0017-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
-                        <l n="01">[blank]              <seg type="verse begin"><quote rend="begin"/></seg>For he blew<note>Chalmers, Patrick R. "The Little Young Lambs" (see earlier note)<hi rend="italics"/>.</note></l>
+                        <l n="01">[blank]              <seg type="verse begin"/>For he blew<note>Chalmers, Patrick R. "The Little Young Lambs" (see earlier note)<hi rend="italics"/>.</note></l>
                         <l n="02">[blank]          That he knew                                                                <bibl type="Source begin"/>Spectator Dec  30 1922       7</l>
                         <l n="03">[blank]    Why the seasons went round</l>
                         <l n="04">[blank]       An' why green the wheat grew                                  Terminology<note>Rickword, Edgell. "Terminology" was the first poem in Rickword's Invocation to Angels and The Happy New Year (London: Wishart, 1928).</note>: Edgell Rickword<note>Rickword.Edgell [1898-1982]. English poet, critic, journalist, who became one of the leading Communist intellectuals during the 1930s.</note><bibl type="source end"/></l>
@@ -977,8 +977,8 @@
                         <l n="11">[blank]               he did,                                                                       Shed their coarse husks</l>
                         <l n="12">[blank]       Along of it all.<seg type="verse end"/>                                                                              &amp; naked in Time's stream</l>
                         <l n="13">[blank]                                                                                                Stand up unsullied out of</l>
-                        <l n="14">[blank]                                                                                                the Sun's beam.</l>
-                        <l n="15">[blank]                                                            see Promenade Sentimentale<quote rend="end"/><note>Could refer to poem by Paul Verlaine [1844-1896], French poet associated with the Symbolist and Decadent movements. "Promenade sentimentale" appears in Verlaine's first book, Poèmes saturniens (1866). Several paintings and a piece by Claude Debussy [1862-1918] also take this title.</note>   Dec 30<note>[!NICK: I don't know how to indicate that there are 2 separate columns of verse here, the one on the right beginning several lines lower than on the left; ditto for markign "quotation"; i've marked whole page as 1 quot'n!]</note></l>
+                        <l n="14"><quote rend="end"/>[blank]                                                                                                the Sun's beam.</l>
+                        <l n="15">[blank]                                                            see Promenade Sentimentale<note>Perhaps a poem by Paul Verlaine [1844-1896], French poet associated with the Symbolist and Decadent movements. "Promenade sentimentale" appears in Verlaine's first book, <hi rend="italics">Poèmes saturniens</hi> (1866). Several paintings and a piece by Claude Debussy [1862-1918] also take this title.</note>   Dec 30<note>[!NICK: I don't know how to indicate that there are 2 separate columns of verse here, the one on the right beginning several lines lower than on the left; ditto for markign "quotation"; i've marked whole page as 1 quot'n!]</note></l>
                         <l n="16">[blank]</l>
                         <l n="17">[blank]</l>
                         <l n="18">[blank]</l>
@@ -1024,16 +1024,16 @@
                         <l n="02">[blank]    <quote rend="begin"/> She might just as well have written</l>
                         <l n="03">[blank]               <seg type="verse begin"/>The small flowers grew to be a hairy husk</l>
                         <l n="04">[blank]               That holds Eternity (in its tusk)</l>
-                        <l n="05">[blank]                                                        for musk.<seg type="verse end"><quote rend="end"/></seg></l>
+                        <l n="05">[blank]                                                        for musk.<seg type="verse end"/></l>
                         <l n="06">[blank] <bibl type="source begin"/>Lit. Digest International Book Rev.    Feb 1923</l>
                         <l n="07">[blank] Certain literary sins of Theodore Dreiser.   R LeGallienne<note>Le Gallienne, Richard. "Certain Literary Sins of Theodore Dreiser." <hi rend="italic">Literary Digest International Book Review</hi> 1 (February 1923): 10–11, 70–71.</note><bibl type="source end"/></l>
                         <l n="08">[blank] <quote rend="begin"/><del>(But for Mr. <hi rend="underline">Sumner</hi></del>) without his aid: (<hi rend="underline">Sumner's</hi>) Mr Cabell</l>
                         <l n="09">[blank] would have continued in his sacred seclusion as</l>
-                        <l n="10">[blank] a purveyor of imitation caviare for the dilettante</l>
+                        <l n="10">[blank] a purveyor of imitation caviare for the dilettanti</l>
                         <l n="11">[blank] &amp; Mr <del>?</del><add>L</add>awrence's genuine neurosis would have</l>
                         <l n="12">[blank] attracted only those readers similarly afflicted.<quote rend="end"/></l>
                         <l n="13">[blank]</l>
-                        <l n="14">[blank] <bibl type="source begin"/>Adventure in Bolivia C H Prodgers<note>Prodgers, Cecil Herbert. <hi rend="italics">Adventures in Bolivia</hi>. London: John Lane the Bodley Head Ltd. 1922.</note> intr. by </l>
+                        <l n="14">[blank] <bibl type="source begin"/>Adventures in Bolivia C H Prodgers<note>Prodgers, Cecil Herbert. <hi rend="italics">Adventures in Bolivia</hi>. London: John Lane the Bodley Head Ltd. 1922.</note> intr. by </l>
                         <l n="15">[blank] R B Cunninghame Graham<note>Graham, Robert Bontine Cunninghame [1852-1936]. Scottish politician, journalist, writer, and adventurer; founder of the Scottish Labour Party and the National Party of Scotland.</note>     Lane  London 1922<bibl type="source end"/></l>
                         <l n="16">[blank] C. G. </l>
                         <l n="17">[blank]   <quote rend="begin"/>He saw . . . the Alpine flore slowly give way to palms &amp;</l>
@@ -1076,12 +1076,12 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0019-recto.jpeg" n="0019-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
-                        <l n="01">[blank]</l>
-                        <l n="02">[blank]</l>
-                        <l n="03">[blank]</l>
-                        <l n="04">[blank]</l>
-                        <l n="05">[blank]</l>
-                        <l n="06">[blank]</l>
+                        <l n="01">[blank] <quote rend="begin"/>parasites<note>Prodgers, Cecil Herbert. <hi rend="italics">Adventures in Bolivia</hi> (see earlier note).</note> spring from the distorted roots, trunks of </l></lg><lg>
+                        <l n="02">[blank]Ceibas &amp; of Borgos &amp; butterflies, light &amp; dark blue, </l>
+                        <l n="03">[blank] purple &amp; yellow, flying about in flocks. Parrots</l>
+                        <l n="04">[blank] darted high above his head, chattering &amp; shrieking,</l>
+                        <l n="05">[blank] &amp; flights of green &amp; red macaws glided like hawks</l>
+                        <l n="06">[blank] about the clearings of the woods.  All this he saw &amp; </l>
                         <l n="07">[blank]</l>
                         <l n="08">[blank]</l>
                         <l n="09">[blank]</l>
@@ -1132,10 +1132,10 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0020-verso.jpeg" n="0020-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
-                        <l n="01">[blank]</l>
-                        <l n="02">[blank]</l>
+                        <l n="01">[blank] &amp; I shall always look back w pleasure to the</l>
+                        <l n="02">[blank] weeks spent w him &amp; his llamas &amp; hives.</l>
                         <l n="03">[blank]</l>
-                        <l n="04">[blank]</l>
+                        <l n="04">[blank] 91  Some beautiful birds</l>
                         <l n="05">[blank]</l>
                         <l n="06">[blank]</l>
                         <l n="07">[blank]</l>
