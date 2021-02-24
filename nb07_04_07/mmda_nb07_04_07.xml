@@ -135,6 +135,9 @@
    </teiHeader>
    <!-- Add facsimile element here with zone elements, when ready. -->
    <div type="image" xml:id="nb07_04_07_0001_text" facs="#nb07_04_07_0001_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0001-recto.jpeg"
+         n="0001-recto"/>
       <div type="page" n="r.0001" xml:id="nb07_04_07_0001_recto_text"
          facs="#nb07_04_07_0001_recto_surface">
          <l n="01" facs="#nb07_04_07_0001_recto_surface_line_01"
@@ -266,6 +269,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0002_text" facs="#nb07_04_07_0002_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0002" xml:id="nb07_04_07_0002_verso_text"
          facs="#nb07_04_07_0002_verso_surface">
          <l n="01" facs="#nb07_04_07_0002_verso_surface_line_01"
@@ -380,6 +386,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0003_text" facs="#nb07_04_07_0003_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0003-recto.jpeg"
+         n="0003-recto"/>
       <div type="page" n="r.0003" xml:id="nb07_04_07_0003_recto_text"
          facs="#nb07_04_07_0003_recto_surface">
          <l n="01" facs="#nb07_04_07_0003_recto_surface_line_01"
@@ -507,6 +516,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0004_text" facs="#nb07_04_07_0004_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0004-verso.jpeg"
+         n="0004-verso"/>
       <div type="page" n="v.0004" xml:id="nb07_04_07_0004_verso_text"
          facs="#nb07_04_07_0004_verso_surface">
          <l n="01" facs="#nb07_04_07_0004_verso_surface_line_01"
@@ -673,6 +685,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0005_text" facs="#nb07_04_07_0005_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0005-recto.jpeg"
+         n="0005-recto"/>
       <div type="page" n="r.0005" xml:id="nb07_04_07_0005_recto_text"
          facs="#nb07_04_07_0005_recto_surface">
          <l n="01" facs="#nb07_04_07_0005_recto_surface_line_01"
@@ -828,6 +843,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0006_text" facs="#nb07_04_07_0006_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0006-verso.jpeg"
+         n="0006-verso"/>
       <div type="page" n="v.0006" xml:id="nb07_04_07_0006_verso_text"
          facs="#nb07_04_07_0006_verso_surface">
          <l n="01" facs="#nb07_04_07_0006_verso_surface_line_01"
@@ -956,6 +974,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0007_text" facs="#nb07_04_07_0007_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0007-recto.jpeg"
+         n="0007-verso"/>
       <div type="page" n="r.0007" xml:id="nb07_04_07_0007_recto_text"
          facs="#nb07_04_07_0007_recto_surface">
          <l n="01" facs="#nb07_04_07_0007_recto_surface_line_01"
@@ -1126,6 +1147,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0008_text" facs="#nb07_04_07_0008_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0008-verso.jpeg"
+         n="0008-verso"/>
       <div type="page" n="v.0008" xml:id="nb07_04_07_0008_verso_text"
          facs="#nb07_04_07_0008_verso_surface">
          <l n="01" facs="#nb07_04_07_0008_verso_surface_line_01"
@@ -1256,6 +1280,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0009_text" facs="#nb07_04_07_0009_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0009-recto.jpeg"
+         n="0009-recto"/>
       <div type="page" n="r.0009" xml:id="nb07_04_07_0009_recto_text"
          facs="#nb07_04_07_0009_recto_surface">
          <l n="01" facs="#nb07_04_07_0009_recto_surface_line_01"
@@ -1386,6 +1413,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0010_text" facs="#nb07_04_07_0010_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0010-verso.jpeg"
+         n="0010-verso"/>
       <div type="page" n="v.0010" xml:id="nb07_04_07_0010_verso_text"
          facs="#nb07_04_07_0010_verso_surface">
          <l n="01" facs="#nb07_04_07_0010_verso_surface_line_01"
@@ -1489,6 +1519,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0011_text" facs="#nb07_04_07_0011_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0011-recto.jpeg"
+         n="0011-recto"/>
       <div type="page" n="r.0011" xml:id="nb07_04_07_0011_recto_text"
          facs="#nb07_04_07_0011_recto_surface">
          <l n="01" facs="#nb07_04_07_0011_recto_surface_line_01"
@@ -1503,6 +1536,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0012_text" facs="#nb07_04_07_0012_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0012-verso.jpeg"
+         n="0012-verso"/>
       <div type="page" n="v.0012" xml:id="nb07_04_07_0012_verso_text"
          facs="#nb07_04_07_0012_verso_surface">
          <l n="01" facs="#nb07_04_07_0012_verso_surface_line_01"
@@ -1521,6 +1557,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0013_text" facs="#nb07_04_07_0013_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0013-recto.jpeg"
+         n="0013-recto"/>
       <div type="page" n="r.0013" xml:id="nb07_04_07_0013_recto_text"
          facs="#nb07_04_07_0013_recto_surface">
          <l n="01" facs="#nb07_04_07_0013_recto_surface_line_01"
@@ -1625,6 +1664,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0014_text" facs="#nb07_04_07_0014_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0014" xml:id="nb07_04_07_0014_verso_text"
          facs="#nb07_04_07_0014_verso_surface">
          <l n="01" facs="#nb07_04_07_0014_verso_surface_line_01"
@@ -1707,6 +1749,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0015_text" facs="#nb07_04_07_0015_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0015" xml:id="nb07_04_07_0015_recto_text"
          facs="#nb07_04_07_0015_recto_surface">
          <l n="01" facs="#nb07_04_07_0015_recto_surface_line_01"
@@ -1806,6 +1851,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0016_text" facs="#nb07_04_07_0016_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0016" xml:id="nb07_04_07_0016_verso_text"
          facs="#nb07_04_07_0016_verso_surface">
          <l n="01" facs="#nb07_04_07_0016_verso_surface_line_01"
@@ -1897,6 +1945,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0017_text" facs="#nb07_04_07_0017_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0017" xml:id="nb07_04_07_0017_recto_text"
          facs="#nb07_04_07_0017_recto_surface">
          <l n="01" facs="#nb07_04_07_0017_recto_surface_line_01"
@@ -1995,6 +2046,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0018_text" facs="#nb07_04_07_0018_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0018" xml:id="nb07_04_07_0018_verso_text"
          facs="#nb07_04_07_0018_verso_surface">
          <l n="01" facs="#nb07_04_07_0018_verso_surface_line_01"
@@ -2117,6 +2171,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0019_text" facs="#nb07_04_07_0019_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0019" xml:id="nb07_04_07_0019_recto_text"
          facs="#nb07_04_07_0019_recto_surface">
          <l n="01" facs="#nb07_04_07_0019_recto_surface_line_01"
@@ -2203,6 +2260,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0020_text" facs="#nb07_04_07_0020_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0020" xml:id="nb07_04_07_0020_verso_text"
          facs="#nb07_04_07_0020_verso_surface">
          <l n="01" facs="#nb07_04_07_0020_verso_surface_line_01"
@@ -2304,6 +2364,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0021_text" facs="#nb07_04_07_0021_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0021" xml:id="nb07_04_07_0021_recto_text"
          facs="#nb07_04_07_0021_recto_surface">
          <l n="01" facs="#nb07_04_07_0021_recto_surface_line_01"
@@ -2426,6 +2489,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0022_text" facs="#nb07_04_07_0022_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0022" xml:id="nb07_04_07_0022_verso_text"
          facs="#nb07_04_07_0022_verso_surface">
          <l n="01" facs="#nb07_04_07_0022_verso_surface_line_01"
@@ -2534,6 +2600,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0023_text" facs="#nb07_04_07_0023_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0023" xml:id="nb07_04_07_0023_recto_text"
          facs="#nb07_04_07_0023_recto_surface">
          <l n="01" facs="#nb07_04_07_0023_recto_surface_line_01"
@@ -2647,6 +2716,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0024_text" facs="#nb07_04_07_0024_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0024" xml:id="nb07_04_07_0024_verso_text"
          facs="#nb07_04_07_0024_verso_surface">
          <l n="01" facs="#nb07_04_07_0024_verso_surface_line_01"
@@ -2751,6 +2823,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0025_text" facs="#nb07_04_07_0025_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0025" xml:id="nb07_04_07_0025_recto_text"
          facs="#nb07_04_07_0025_recto_surface">
          <l n="01" facs="#nb07_04_07_0025_recto_surface_line_01"
@@ -2775,6 +2850,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0026_text" facs="#nb07_04_07_0026_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0026" xml:id="nb07_04_07_0026_verso_text"
          facs="#nb07_04_07_0026_verso_surface">
          <l n="01" facs="#nb07_04_07_0026_verso_surface_line_01"
@@ -2793,6 +2871,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0027_text" facs="#nb07_04_07_0027_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0027" xml:id="nb07_04_07_0027_recto_text"
          facs="#nb07_04_07_0027_recto_surface">
          <l n="01" facs="#nb07_04_07_0027_recto_surface_line_01"
@@ -2810,6 +2891,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0028_text" facs="#nb07_04_07_0028_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0028" xml:id="nb07_04_07_0028_verso_text"
          facs="#nb07_04_07_0028_verso_surface">
          <l n="01" facs="#nb07_04_07_0028_verso_surface_line_01"
@@ -2835,6 +2919,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0029_text" facs="#nb07_04_07_0029_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0029" xml:id="nb07_04_07_0029_verso_text"
          facs="#nb07_04_07_0029_verso_surface">
          <l n="01" facs="#nb07_04_07_0029_verso_surface_line_01"
@@ -2860,6 +2947,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0030_text" facs="#nb07_04_07_0030_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0030" xml:id="nb07_04_07_0030_recto_text"
          facs="#nb07_04_07_0030_recto_surface">
          <l n="01" facs="#nb07_04_07_0030_recto_surface_line_01"
@@ -2895,6 +2985,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0031_text" facs="#nb07_04_07_0031_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0031" xml:id="nb07_04_07_0031_recto_text"
          facs="#nb07_04_07_0031_recto_surface">
          <l n="01" facs="#nb07_04_07_0031_recto_surface_line_01"
@@ -3024,6 +3117,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0032_text" facs="#nb07_04_07_0032_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0032" xml:id="nb07_04_07_0032_verso_text"
          facs="#nb07_04_07_0032_verso_surface">
          <l n="01" facs="#nb07_04_07_0032_verso_surface_line_01"
@@ -3168,6 +3264,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0033_text" facs="#nb07_04_07_0033_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0033" xml:id="nb07_04_07_0033_recto_text"
          facs="#nb07_04_07_0033_recto_surface">
          <l n="01" facs="#nb07_04_07_0033_recto_surface_line_01"
@@ -3188,6 +3287,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0034_text" facs="#nb07_04_07_0034_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0034" xml:id="nb07_04_07_0034_verso_text"
          facs="#nb07_04_07_0034_verso_surface">
          <l n="01" facs="#nb07_04_07_0034_verso_surface_line_01"
@@ -3207,6 +3309,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0035_text" facs="#nb07_04_07_0035_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0035" xml:id="nb07_04_07_0035_recto_text"
          facs="#nb07_04_07_0035_recto_surface">
          <l n="01" facs="#nb07_04_07_0035_recto_surface_line_01"
@@ -3331,6 +3436,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0036_text" facs="#nb07_04_07_0036_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0036" xml:id="nb07_04_07_0036_verso_text"
          facs="#nb07_04_07_0036_verso_surface">
          <l n="01" facs="#nb07_04_07_0036_verso_surface_line_01"
@@ -3443,6 +3551,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0037_text" facs="#nb07_04_07_0037_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0037" xml:id="nb07_04_07_0037_recto_text"
          facs="#nb07_04_07_0037_recto_surface">
          <l n="01" facs="#nb07_04_07_0037_recto_surface_line_01"
@@ -3555,6 +3666,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0038_text" facs="#nb07_04_07_0038_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0038" xml:id="nb07_04_07_0038_verso_text"
          facs="#nb07_04_07_0038_verso_surface">
          <l n="01" facs="#nb07_04_07_0038_verso_surface_line_01"
@@ -3632,6 +3746,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0039_text" facs="#nb07_04_07_0039_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0039" xml:id="nb07_04_07_0039_recto_text"
          facs="#nb07_04_07_0039_recto_surface">
          <l n="01" facs="#nb07_04_07_0039_recto_surface_line_01"
@@ -3728,6 +3845,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0040_text" facs="#nb07_04_07_0040_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0040" xml:id="nb07_04_07_0040_verso_text"
          facs="#nb07_04_07_0040_verso_surface">
          <l n="01" facs="#nb07_04_07_0040_verso_surface_line_01"
@@ -3888,6 +4008,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0041_text" facs="#nb07_04_07_0041_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0041" xml:id="nb07_04_07_0041_recto_text"
          facs="#nb07_04_07_0041_recto_surface">
          <l n="01" facs="#nb07_04_07_0041_recto_surface_line_01"
@@ -3903,6 +4026,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0042_text" facs="#nb07_04_07_0042_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0042" xml:id="nb07_04_07_0042_verso_text"
          facs="#nb07_04_07_0042_verso_surface">
          <l n="01" facs="#nb07_04_07_0042_verso_surface_line_01"
@@ -3919,6 +4045,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0043_text" facs="#nb07_04_07_0043_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0043" xml:id="nb07_04_07_0043_verso_text"
          facs="#nb07_04_07_0043_verso_surface">
          <l n="01" facs="#nb07_04_07_0043_verso_surface_line_01"
@@ -3954,6 +4083,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0044_text" facs="#nb07_04_07_0044_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0044" xml:id="nb07_04_07_0044_recto_text"
          facs="#nb07_04_07_0044_recto_surface">
          <l n="01" facs="#nb07_04_07_0044_recto_surface_line_01"
@@ -3978,6 +4110,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0045_text" facs="#nb07_04_07_0045_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0045" xml:id="nb07_04_07_0045_recto_text"
          facs="#nb07_04_07_0045_recto_surface">
          <l n="01" facs="#nb07_04_07_0045_recto_surface_line_01"
@@ -4137,6 +4272,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0046_text" facs="#nb07_04_07_0046_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0046" xml:id="nb07_04_07_0046_verso_text"
          facs="#nb07_04_07_0046_verso_surface">
          <l n="01" facs="#nb07_04_07_0046_verso_surface_line_01"
@@ -4264,6 +4402,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0047_text" facs="#nb07_04_07_0047_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0047" xml:id="nb07_04_07_0047_recto_text"
          facs="#nb07_04_07_0047_recto_surface">
          <l n="01" facs="#nb07_04_07_0047_recto_surface_line_01"
@@ -4428,6 +4569,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0048_text" facs="#nb07_04_07_0048_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0048" xml:id="nb07_04_07_0048_verso_text"
          facs="#nb07_04_07_0048_verso_surface">
          <l n="01" facs="#nb07_04_07_0048_verso_surface_line_01"
@@ -4436,6 +4580,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0049_text" facs="#nb07_04_07_0049_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0049" xml:id="nb07_04_07_0049_recto_text"
          facs="#nb07_04_07_0049_recto_surface">
          <l n="01" facs="#nb07_04_07_0049_recto_surface_line_01"
@@ -4542,6 +4689,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0050_text" facs="#nb07_04_07_0050_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0050" xml:id="nb07_04_07_0050_verso_text"
          facs="#nb07_04_07_0050_verso_surface">
          <l n="01" facs="#nb07_04_07_0050_verso_surface_line_01"
@@ -4632,6 +4782,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0051_text" facs="#nb07_04_07_0051_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0051" xml:id="nb07_04_07_0051_recto_text"
          facs="#nb07_04_07_0051_recto_surface">
          <l n="01" facs="#nb07_04_07_0051_recto_surface_line_01"
@@ -4650,6 +4803,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0052_text" facs="#nb07_04_07_0052_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0052" xml:id="nb07_04_07_0052_verso_text"
          facs="#nb07_04_07_0052_verso_surface">
          <l n="01" facs="#nb07_04_07_0052_verso_surface_line_01"
@@ -4672,6 +4828,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0053_text" facs="#nb07_04_07_0053_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0053" xml:id="nb07_04_07_0053_recto_text"
          facs="#nb07_04_07_0053_recto_surface">
          <l n="01" facs="#nb07_04_07_0053_recto_surface_line_01"
@@ -4703,6 +4862,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0054_text" facs="#nb07_04_07_0054_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0054" xml:id="nb07_04_07_0054_verso_text"
          facs="#nb07_04_07_0054_verso_surface">
          <l n="01" facs="#nb07_04_07_0054_verso_surface_line_01"
@@ -4711,6 +4873,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0055_text" facs="#nb07_04_07_0055_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0055" xml:id="nb07_04_07_0055_recto_text"
          facs="#nb07_04_07_0055_recto_surface">
          <l n="01" facs="#nb07_04_07_0055_recto_surface_line_01"
@@ -4789,6 +4954,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0056_text" facs="#nb07_04_07_0056_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0056" xml:id="nb07_04_07_0056_recto_text"
          facs="#nb07_04_07_0056_recto_surface">
          <l n="01" facs="#nb07_04_07_0056_recto_surface_line_01"
@@ -4798,6 +4966,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0057_text" facs="#nb07_04_07_0057_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="v.0057" xml:id="nb07_04_07_0057_verso_text"
          facs="#nb07_04_07_0057_verso_surface">
          <l n="01" facs="#nb07_04_07_0057_verso_surface_line_01"
@@ -4814,6 +4985,9 @@
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0058_text" facs="#nb07_04_07_0058_surface">
+      <pb
+         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
+         n="0002-verso"/>
       <div type="page" n="r.0058" xml:id="nb07_04_07_0058_recto_text"
          facs="#nb07_04_07_0058_recto_surface">
          <l n="01" facs="#nb07_04_07_0004_recto_surface_line_01"
