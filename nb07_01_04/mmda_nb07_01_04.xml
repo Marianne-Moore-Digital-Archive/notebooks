@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?>
-<TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <teiHeader>
             <fileDesc>
@@ -133,9 +132,7 @@
         <body>
             <div type="image" xml:id="nb07_01_04_0001_text">
                 <div type="page" n="r.0001" xml:id="nb07_01_04_0001_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0001-recto.jpeg"
-                        n="0001-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0001-recto.jpeg" n="0001-recto"/>
                     <desc>[Outside front cover.]</desc>
                     <lg>
                         <l n="01">[No handwriting on this page.]</l>
@@ -144,9 +141,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0002_text">
                 <div type="page" n="v.0002" xml:id="nb07_01_04_0002_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
-                        n="0002-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg" n="0002-verso"/>
                     <desc>[Inside front cover.]</desc>
                     <lg>
                         <l n="01"> M. Moore</l>
@@ -162,9 +157,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0003_text">
                 <div type="page" n="r.0003" xml:id="nb07_01_04_0003_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0003-recto.jpeg"
-                        n="0003-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0003-recto.jpeg" n="0003-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]Marianne Moore</l>
@@ -220,9 +213,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0004_text">
                 <div type="page" n="v.0004" xml:id="nb07_01_04_0004_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0004-verso.jpeg"
-                        n="0004-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0004-verso.jpeg" n="0004-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]</l>
@@ -278,9 +269,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0005_text">
                 <div type="page" n="r.0005" xml:id="nb07_01_04_0005_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0005-recto.jpeg"
-                        n="0005-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0005-recto.jpeg" n="0005-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] Jan. </l>
@@ -336,9 +325,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0006_text">
                 <div type="page" n="v.0006" xml:id="nb07_01_04_0006_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0006-verso.jpeg"
-                        n="0006-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0006-verso.jpeg" n="0006-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <note>"The Art of Courtship" (see earlier note).</note><quote rend="begin"/>In general it is inadvisable to refer to past rivals, even</l>
@@ -394,9 +381,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0007_text">
                 <div type="page" n="r.0007" xml:id="nb07_01_04_0007_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0007-recto.jpeg"
-                        n="0007-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0007-recto.jpeg" n="0007-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <note>"The Art of Courtship" (see earlier note).</note><quote rend="begin"/>to get more into one's life, but they seldom allow one to get </l>
@@ -452,9 +437,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0008_text">
                 <div type="page" n="v.0008" xml:id="nb07_01_04_0008_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0008-verso.jpeg"
-                        n="0008-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0008-verso.jpeg" n="0008-verso"/>
                     <desc>[Page-level Description] </desc>
                     <lg>
                         <l n="01">[blank]<quote rend="begin"/> must have a past provided it is past . . . . A woman<note>"The Art of Courtship" (see earlier note).</note></l>
@@ -515,9 +498,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0009_text">
                 <div type="page" n="r.0009" xml:id="nb07_01_04_0009_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0009-recto.jpeg"
-                        n="0009-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0009-recto.jpeg" n="0009-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <quote rend="begin"/>grows dangerously enchanting--a hasty adieu--<note>Tapp<hi rend="accent aigu">e</hi>, Herman Patrick. "The Encroaching Gulf Stream" (see earlier note).</note></l>
@@ -573,9 +554,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0010_text">
                 <div type="page" n="v.0010" xml:id="nb07_01_04_0010_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0010-verso.jpeg"
-                        n="0010-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0010-verso.jpeg" n="0010-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <quote rend="begin"/>W<seg type="verse begin"/>ith vague, moist mouths grown hungry to devour<note>Jennings, Leslie Nelson. "Interregnum" (see earlier note).</note></l>
@@ -631,9 +610,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0011_text">
                 <div type="page" n="r.0011" xml:id="nb07_01_04_0011_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0011-recto.jpeg"
-                        n="0011-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0011-recto.jpeg" n="0011-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <quote rend="begin"/>(Western Himalayas) late 18th c. under Raja Samsara Cand<note>Coomaraswarmy, Ananda K. "Indian Art in Boston" (see earlier note).<hi rend="underline"/></note>   <quote rend="end"/></l>
@@ -646,8 +623,7 @@
                         <l n="08">[blank]                --Oh most strange masker--<quote rend="end"/>"<seg type="verse end"/> </l>
                         <l n="09">[blank] </l>
                         <l n="10">[blank] <bibl rend="begin"/>Estelle Ross.<note type="glossary">Ross, Estelle [?-?]. Author of juvenile works, folklore, biographies, and history.</note>  Century--Book of noble dogs.<bibl rend="end"/>    </l>
-                        <note>Ross, Estelle. <hi rend="underline"
-                            >The Book of Noble Dogs</hi>. (NY: The Century Company, 1922). MM refers to this book on the first page of her 1922-1930 poetry notebook (07.04.04).<l n="10"/></note>
+                        <note>Ross, Estelle. <hi rend="underline">The Book of Noble Dogs</hi>. (NY: The Century Company, 1922). MM refers to this book on the first page of her 1922-1930 poetry notebook (07.04.04).<l n="10"/></note>
                         <l n="11">[blank] 52    <quote rend="begin"/>Sir John Harrington--translator of Ariosto.</l>
                         <l n="12">[blank] chose as his device a spaniel--"liking as he said the</l>
                         <l n="13">[blank] modesty of it. Portrait adorns folio edition of A's Or. Furioso</l>
@@ -691,9 +667,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0012_text">
                 <div type="page" n="v.0012" xml:id="nb07_01_04_0012_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0012-verso.jpeg"
-                        n="0012-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0012-verso.jpeg" n="0012-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <bibl rend="begin"/>An Unknown Quantity--Gerard Hopkins.<note>Hopkins, Gerard [? - 1961]. British translator, nephew of the poet Gerard Manley Hopkins. </note>  Dutton. <bibl rend="end"><note>Hopkins, Gerard. <hi rend="underline">An Unknown Quantity</hi>. (NY: E. P. Dutton &amp; Company, 1923). </note></bibl> </l>
@@ -749,9 +723,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0013_text">
                 <div type="page" n="r.0013" xml:id="nb07_01_04_0013_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0013-recto.jpeg"
-                        n="0013-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0013-recto.jpeg" n="0013-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <quote rend="begin"/>She hit him again &amp; again   EXIT Edward. Not long<note type="glossary">Benson, Stella. <hi rend="underline">The Poor Man</hi>. Rev. by Will Cuppy (see earlier note)<hi rend="underline"/>.</note></l>
@@ -815,9 +787,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0014_text">
                 <div type="page" n="v.0014" xml:id="nb07_01_04_0014_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0014-verso.jpeg"
-                        n="0014-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0014-verso.jpeg" n="0014-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <note>MM quotes from material read at the Metropolitan Museum of Art Exhibition on Chinese Art in March and April 1923, as attributed to Tu Muh (Du Mu).</note><quote rend="begin"/>Powerful is the painting of the Fang Hu mountains,  </l>
@@ -873,9 +843,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0015_text">
                 <div type="page" n="r.0015" xml:id="nb07_01_04_0015_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0015-recto.jpeg"
-                        n="0015-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0015-recto.jpeg" n="0015-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <quote rend="begin"/>I <note>MM quotes from material read at the Metropolitan Museum of Art (see earlier note).</note>would cut off a  portion of the river into which I could   </l>
@@ -932,9 +900,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0016_text">
                 <div type="page" n="v.0016" xml:id="nb07_01_04_0016_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0016-verso.jpeg"
-                        n="0016-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0016-verso.jpeg" n="0016-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <bibl rend="begin"/>Punch   Feb 21  1923<bibl rend="end"/>                         <quote rend="begin"/>An' they stirred</l>
@@ -990,9 +956,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0017_text">
                 <div type="page" n="r.0017" xml:id="nb07_01_04_0017_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0017-recto.jpeg"
-                        n="0017-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0017-recto.jpeg" n="0017-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]             <quote rend="begin"/> <seg type="verse begin"/>For he blew<note>Chalmers, Patrick R. "The Little Young Lambs" (see earlier note)<hi rend="italics"/>.</note></l>
@@ -1048,9 +1012,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0018_text">
                 <div type="page" n="v.0018" xml:id="nb07_01_04_0018_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0018-verso.jpeg"
-                        n="0018-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0018-verso.jpeg" n="0018-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <bibl type="source begin"/>Jan 20  1922   Spectator   Robert Risk<bibl type="source end"/></l>
@@ -1106,9 +1068,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0019_text">
                 <div type="page" n="r.0019" xml:id="nb07_01_04_0019_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0019-recto.jpeg"
-                        n="0019-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0019-recto.jpeg" n="0019-recto"/>
                     <desc>[Page-level Description ]</desc>
                     <lg>
                         <l n="01">[blank] <quote rend="begin"/>parasites<note>Prodgers, Cecil Herbert. <hi rend="italics">Adventures in Bolivia</hi> (see earlier note). MM repeats this title below.</note> spring from the distorted roots, trunks of                    8</l>
@@ -1166,9 +1126,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0020_text">
                 <div type="page" n="v.0020" xml:id="nb07_01_04_0020_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0020-verso.jpeg"
-                        n="0020-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0020-verso.jpeg" n="0020-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <quote rend="begin"/>&amp; I shall always look back w pleasure to the<note>Prodgers, Cecil Herbert. <hi rend="italics">Adventures in Bolivia</hi> (see earlier note).</note></l>
@@ -1224,9 +1182,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0021_text">
                 <div type="page" n="r.0021" xml:id="nb07_01_04_0021_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0021-recto.jpeg"
-                        n="0021-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0021-recto.jpeg" n="0021-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <quote rend="begin"/>other four; they were growing together as one plant                   9<note>Prodgers, Cecil Herbert. <hi rend="italics">Adventures in Bolivia</hi> (see earlier note).</note><hi rend="italics"/>     9</l>
@@ -1282,9 +1238,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0022_text">
                 <div type="page" n="v.0022" xml:id="nb07_01_04_0022_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0022-verso.jpeg"
-                        n="0022-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0022-verso.jpeg" n="0022-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <quote rend="begin">I</quote>n his book on wild life, Rowland Ward says<note>Prodgers, Cecil Herbert. <hi rend="italics">Adventures in Bolivia</hi> (see earlier note).</note><hi rend="italics"/></l>
@@ -1340,9 +1294,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0023_text">
                 <div type="page" n="r.0023" xml:id="nb07_01_04_0023_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0023-recto.jpeg"
-                        n="0023-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0023-recto.jpeg" n="0023-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <quote rend="begin"><note>Bridges, Robert. "Poetic Diction in English" (see earlier note).</note></quote>Keeping is taken from Painting &amp; has no convenient                  10</l>
@@ -1360,7 +1312,7 @@
                         <l n="15">[blank]     <l n="14">[blank] The Studio <note>Holme, Geoffrey, ed. <hi rend="italics">A Book of Old Embroidery</hi>.  London, New York: The Studio, Ltd. 1921.</note>Ltd Lond Paris NY <bibl rend="end"/>                         </l></l>
                         <l n="16">[blank]  plate 21   <quote rend="begin"/>17th c Panel of canvas eml'd w </l>
                         <l n="17">[blank]  colored silks &amp; wools &amp; gold thread in tent stitch</l>
-                        <l n="18">[blank] <add>l</add><add>b</add></l>
+                        <l n="18">[blank]                                            <add>l</add><add>b</add></l>
                         <l n="19">[blank]  of various sizes.  The em'd ground is blue, the</l>
                         <l n="20">[blank]  name is gold--the border is worked w wool</l>
                         <l n="21">[blank]  &amp;<quote rend="end"/> the middle in silk.</l>
@@ -1396,9 +1348,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0024_text">
                 <div type="page" n="v.0024" xml:id="nb07_01_04_0024_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0024-verso.jpeg"
-                        n="0024-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0024-verso.jpeg" n="0024-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <lg>
@@ -1457,9 +1407,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0025_text">
                 <div type="page" n="r.0025" xml:id="nb07_01_04_0025_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0025-recto.jpeg"
-                        n="0025-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0025-recto.jpeg" n="0025-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]           <quote rend="begin"><note>Edith King, "Useful Things" (see previous note).</note>                        <seg type="verse begin"/>W</quote>hen I am bathing in the sea</l>
@@ -1515,9 +1463,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0026_text">
                 <div type="page" n="v.0026" xml:id="nb07_01_04_0026_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0026-verso.jpeg"
-                        n="0026-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0026-verso.jpeg" n="0026-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]        <seg type="verse begin"/><quote rend="begin"/>In tabards trim they followed him,</l>
@@ -1581,9 +1527,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0027_text">
                 <div type="page" n="r.0027" xml:id="nb07_01_04_0027_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0027-recto.jpeg"
-                        n="0027-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0027-recto.jpeg" n="0027-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]   <note>Dugmore, Arthur Radclyffe. "Hunting Without Rifle" (see earlier note).</note><quote rend="begin"/>the top of a hill to extend their view. . . .  Every animal        </l>
@@ -1639,9 +1583,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0028_text">
                 <div type="page" n="v.0028" xml:id="nb07_01_04_0028_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0028-verso.jpeg"
-                        n="0028-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0028-verso.jpeg" n="0028-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]     <note>Němcová, Božena. The Disobedient Kids (see earlier note).</note><quote rend="begin"/>The frog &amp; Belinka.           See here she said gently</l>
@@ -1706,9 +1648,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0029_text">
                 <div type="page" n="r.0029" xml:id="nb07_01_04_0029_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0029-recto.jpeg"
-                        n="0029-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0029-recto.jpeg" n="0029-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]            <bibl type="begin"/>Current Events            May  28      June 1     1923                          13</l>
@@ -1765,9 +1705,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0030_text">
                 <div type="page" n="v.0030" xml:id="nb07_01_04_0030_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0030-verso.jpeg"
-                        n="0030-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0030-verso.jpeg" n="0030-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]     <note>"Chance for Investors" (see earlier note). </note>  <quote rend="begin"/>on the palate</l>
@@ -1823,9 +1761,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0031_text">
                 <div type="page" n="r.0031" xml:id="nb07_01_04_0031_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0031-recto.jpeg"
-                        n="0031-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0031-recto.jpeg" n="0031-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws curved lines linking lines 07-15 and
                 lines 16-17, labeling the first group 2 and the second 1!&amp;gt;</desc>
                     <lg>
@@ -1882,9 +1818,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0032_text">
                 <div type="page" n="v.0032" xml:id="nb07_01_04_0032_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0032-verso.jpeg"
-                        n="0032-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0032-verso.jpeg" n="0032-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]   <note>Galsworthy, John. <hi rend="italics">Forsyte Saga</hi> (see earlier note).</note><quote rend="begin"/>760     Mont came in.     I went to my own Dad, &amp;</l>
@@ -1940,9 +1874,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0033_text">
                 <div type="page" n="r.0033" xml:id="nb07_01_04_0033_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0033-recto.jpeg"
-                        n="0033-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0033-recto.jpeg" n="0033-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]   <note>Galsworthy, John. <hi rend="italics">Forsyte Saga</hi> (see earlier note).</note>   <quote rend="begin"/>My Dad seems to me a perfect babe . . .  But</l>
@@ -1998,9 +1930,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0034_text">
                 <div type="page" n="v.0034" xml:id="nb07_01_04_0034_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0034-verso.jpeg"
-                        n="0034-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0034-verso.jpeg" n="0034-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]      <note>Glover, W. J., Ed. <hi rend="italics">British Fairy and Folk Tales</hi> (see earlier note).</note><quote rend="begin"/>as in their talk &amp; saw a weariness of pain</l>
@@ -2056,9 +1986,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0035_text">
                 <div type="page" n="r.0035" xml:id="nb07_01_04_0035_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0035-recto.jpeg"
-                        n="0035-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0035-recto.jpeg" n="0035-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]      <note>Glover, W. J., Ed. <hi rend="italics">British Fairy and Folk Tales</hi> (see earlier note).</note><quote rend="begin"/>grown into a silver crown.     Never ask how                     16</l>
@@ -2114,9 +2042,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0036_text">
                 <div type="page" n="v.0036" xml:id="nb07_01_04_0036_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0036-verso.jpeg"
-                        n="0036-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0036-verso.jpeg" n="0036-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]                  <bibl type="begin"/>an answer to the Q.</l>
@@ -2172,9 +2098,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0037_text">
                 <div type="page" n="r.0037" xml:id="nb07_01_04_0037_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0037-recto.jpeg"
-                        n="0037-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0037-recto.jpeg" n="0037-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]           <note>Hunt, Leigh. <hi rend="italics">An Answer To The Question 'What Is Poetry?'</hi> (see earlier note).</note><quote rend="begin"/>[??]                  <seg type="verse">with moonshine that are gilded</seg>.</l>
@@ -2230,9 +2154,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0038_text">
                 <div type="page" n="v.0038" xml:id="nb07_01_04_0038_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0038-verso.jpeg"
-                        n="0038-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0038-verso.jpeg" n="0038-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]               <note>Hunt, Leigh. <hi rend="italics">An Answer To The Question 'What Is Poetry?'</hi> (see earlier note).</note><quote rend="begin"/><seg type="verse begin"/>That he should raise his mitred crest on high,</l>
@@ -2288,9 +2210,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0039_text">
                 <div type="page" n="r.0039" xml:id="nb07_01_04_0039_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0039-recto.jpeg"
-                        n="0039-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0039-recto.jpeg" n="0039-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]           <note>Hunt, Leigh. <hi rend="italics">An Answer To The Question 'What Is Poetry?'</hi> (see earlier note).</note><quote rend="begin"/>63    Dryden confessed that a rime often gave             18</l>
@@ -2346,9 +2266,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0040_text">
                 <div type="page" n="v.0040" xml:id="nb07_01_04_0040_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0040-verso.jpeg"
-                        n="0040-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0040-verso.jpeg" n="0040-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]       <note>Hunt, Leigh. <hi rend="italics">An Answer To The Question 'What Is Poetry?'</hi> (see earlier note).</note><quote rend="begin"/>the universal profoundly simple Chaucer; &amp; luxuriant</l>
@@ -2408,9 +2326,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0041_text">
                 <div type="page" n="r.0041" xml:id="nb07_01_04_0041_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0041-recto.jpeg"
-                        n="0041-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0041-recto.jpeg" n="0041-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]      <bibl rend="begin"/>Post   Lit    Rev.   16 June 1923                                   19 </l>
@@ -2466,9 +2382,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0042_text">
                 <div type="page" n="v.0042" xml:id="nb07_01_04_0042_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0042-verso.jpeg"
-                        n="0042-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0042-verso.jpeg" n="0042-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]       <bibl type="begin"/>Outlook      13   June        1923</l>
@@ -2529,9 +2443,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0043_text">
                 <div type="page" n="r.0043" xml:id="nb07_01_04_0043_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0043-recto.jpeg"
-                        n="0043-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0043-recto.jpeg" n="0043-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]          <note>"To Fellow-Fans" (see earlier note).</note><quote rend="begin"/>from somewhere in Mass. about as follows:</l>
@@ -2587,9 +2499,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0044_text">
                 <div type="page" n="v.0044" xml:id="nb07_01_04_0044_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0044-verso.jpeg"
-                        n="0044-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0044-verso.jpeg" n="0044-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]        <note>"To Fellow-Fans" (see earlier note).</note><quote rend="begin"/>ends as the darkness approaches</l>
@@ -2645,9 +2555,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0045_text">
                 <div type="page" n="r.0045" xml:id="nb07_01_04_0045_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0045-recto.jpeg"
-                        n="0045-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0045-recto.jpeg" n="0045-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]         <note>Ridgway, Gertrude M. "The Book Table" (see earlier note).</note><quote rend="begin"/><seg type="verse begin"/>To draw no envy (Shakespeare) on thy name</l>
@@ -2703,9 +2611,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0046_text">
                 <div type="page" n="v.0046" xml:id="nb07_01_04_0046_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0046-verso.jpeg"
-                        n="0046-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0046-verso.jpeg" n="0046-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]     <note>Ridgway, Gertrude M. "The Book Table" (see earlier note).</note><quote rend="begin"/><seg type="verse begin"/>The applause! delight!  the wonder of our Stage!</l>
@@ -2761,9 +2667,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0047_text">
                 <div type="page" n="r.0047" xml:id="nb07_01_04_0047_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0047-recto.jpeg"
-                        n="0047-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0047-recto.jpeg" n="0047-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]                           <note>Ridgway, Gertrude M. "The Book Table" (see earlier note).<quote rend="begin"/></note><seg type="verse begin"/>Euripides <del>&amp;</del> Sophocles to us,</l>
@@ -2819,9 +2723,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0048_text">
                 <div type="page" n="v.0048" xml:id="nb07_01_04_0048_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0048-verso.jpeg"
-                        n="0048-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0048-verso.jpeg" n="0048-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]         <bibl type="begin"/><del>L</del>Thomas Traherne :  The Poetical works of</l>
@@ -2877,9 +2779,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0049_text">
                 <div type="page" n="r.0049" xml:id="nb07_01_04_0049_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0049-recto.jpeg"
-                        n="0049-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0049-recto.jpeg" n="0049-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]      <note>Traherne, Thomas. <hi rend="italics">The Poetical Works</hi> (see earlier note).</note><quote rend="begin"/>The  Preparative        12              V                                             23</l>
@@ -2935,9 +2835,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0050_text">
                 <div type="page" n="v.0050" xml:id="nb07_01_04_0050_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0050-verso.jpeg"
-                        n="0050-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0050-verso.jpeg" n="0050-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]                          <note>Traherne, Thomas. <hi rend="italics">The Poetical Works</hi> (see earlier note).</note> <quote rend="begin"/>XIV</l>
@@ -2993,9 +2891,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0051_text">
                 <div type="page" n="r.0051" xml:id="nb07_01_04_0051_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0051-recto.jpeg"
-                        n="0051-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0051-recto.jpeg" n="0051-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]                                                  <note>Traherne, Thomas. <hi rend="italics">The Poetical Works</hi> (see earlier note).</note><quote rend="begin"/><seg type="verse begin"/>Silence                38                                                                        29</l>
@@ -3051,9 +2947,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0052_text">
                 <div type="page" n="v.0052" xml:id="nb07_01_04_0052_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0052-verso.jpeg"
-                        n="0052-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0052-verso.jpeg" n="0052-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]             <note>Traherne, Thomas. <hi rend="italics">The Poetical Works</hi> (see earlier note).</note><quote rend="begin"/><seg type="verse begin"/>The rude and ignorant: this was a thing</l>
@@ -3109,9 +3003,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0053_text">
                 <div type="page" n="r.0053" xml:id="nb07_01_04_0053_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0053-recto.jpeg"
-                        n="0053-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0053-recto.jpeg" n="0053-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]                                                          <note>Traherne, Thomas. <hi rend="italics">The Poetical Works</hi> (see earlier note).</note><quote rend="begin"/>                                                                                                                 25</l>
@@ -3167,9 +3059,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0054_text">
                 <div type="page" n="v.0054" xml:id="nb07_01_04_0054_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0054-verso.jpeg"
-                        n="0054-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0054-verso.jpeg" n="0054-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]          <note>Traherne, Thomas. <hi rend="italics">The Poetical Works</hi> (see earlier note).</note><quote rend="begin"/><seg type="verse begin"/>As in a Clock 'tis hinder'd Force doth bring</l>
@@ -3229,9 +3119,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0055_text">
                 <div type="page" n="r.0055" xml:id="nb07_01_04_0055_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0055-recto.jpeg"
-                        n="0055-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0055-recto.jpeg" n="0055-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]   <note> Continued from <hi rend="italics">Life</hi> (5 July 1923), previous page.</note><quote rend="begin"/>by his fire and was gradually getting calmed</l>
@@ -3286,9 +3174,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0056_text">
                 <div type="page" n="v.0056" xml:id="nb07_01_04_0056_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0056-verso.jpeg"
-                        n="0056-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0056-verso.jpeg" n="0056-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]  <bibl rend="begin"/> <bibl rend="begin"/><bibl>Spectator  Jan 6  The recreations of London</bibl>.<bibl rend="end"/><note>"The Recreations of London" (6 January 1923). This section was a recurring feature of the <hi rend="italics">Spectator</hi>.</note><bibl rend="end"/></l>
@@ -3344,9 +3230,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0057_text">
                 <div type="page" n="r.0057" xml:id="nb07_01_04_0057_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0057-recto.jpeg"
-                        n="0057-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0057-recto.jpeg" n="0057-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <lg>
@@ -3406,9 +3290,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0058_text">
                 <div type="page" n="v.0058" xml:id="nb07_01_04_0058_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0058-verso.jpeg"
-                        n="0058-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0058-verso.jpeg" n="0058-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]  <note>Cescinsky, Herbert. <hi rend="italics">Chinese Furniture</hi> (see earlier note).<quote rend="begin"/></note> save in an Oriental--that have gone to their</l>
@@ -3468,9 +3350,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0059_text">
                 <div type="page" n="r.0059" xml:id="nb07_01_04_0059_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0059-recto.jpeg"
-                        n="0059-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0059-recto.jpeg" n="0059-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]  <note>"Fighting Mosquitos" (see previous page).</note> <quote rend="begin"/>for mosquitoes is now bred on a large scale in Calif.[blank]</l>
@@ -3525,9 +3405,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0060_text">
                 <div type="page" n="v.0060" xml:id="nb07_01_04_0060_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0060-verso.jpeg"
-                        n="0060-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0060-verso.jpeg" n="0060-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]    <bibl rend="begin"/><bibl/>The Dilemma of Mariage  Alyse Gregory<note type="glossary">Gregory, Alyse [1884-1967]. American writer and editor, and a friend of MM's. She was managing editor of <hi rend="italics">The Dial</hi>, 1924-June 1925. </note> N. Rep.</l>
@@ -3585,9 +3463,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0061_text">
                 <div type="page" n="r.0061" xml:id="nb07_01_04_0061_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0061-recto.jpeg"
-                        n="0061-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0061-recto.jpeg" n="0061-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <note> Gregory, Alyse. "The Dilemma of Marriage" (see earlier note).</note>  <quote rend="begin"/>a new kind of mystical subjugation. . . Man may       29</l>
@@ -3647,9 +3523,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0062_text">
                 <div type="page" n="v.0062" xml:id="nb07_01_04_0062_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0062-verso.jpeg"
-                        n="0062-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0062-verso.jpeg" n="0062-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]   <quote rend="begin"/>other with blind experiments and circular traditions</l>
@@ -3705,9 +3579,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0063_text">
                 <div type="page" n="r.0063" xml:id="nb07_01_04_0063_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0063-recto.jpeg"
-                        n="0063-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0063-recto.jpeg" n="0063-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <lg>
@@ -3768,9 +3640,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0064_text">
                 <div type="page" n="v.0064" xml:id="nb07_01_04_0064_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0064-verso.jpeg"
-                        n="0064-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0064-verso.jpeg" n="0064-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]  <note>"Wit to Measure" advertisement (see previous page).</note> <quote rend="begin"/>shirts of Sea Island cotton . . . backless waist-coats</l>
@@ -3826,9 +3696,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0065_text">
                 <div type="page" n="r.0065" xml:id="nb07_01_04_0065_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0065-recto.jpeg"
-                        n="0065-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0065-recto.jpeg" n="0065-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]    <bibl rend="begin"/>Tragic Sense of Life  Don Miguel de Unamuno</l>
@@ -3884,9 +3752,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0066_text">
                 <div type="page" n="v.0066" xml:id="nb07_01_04_0066_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0066-verso.jpeg"
-                        n="0066-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0066-verso.jpeg" n="0066-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]     <note> Continued from previous page, <hi rend="italics">Life</hi> 9 August 1923.</note>  <quote rend="begin"/>Aye--the sea be fair saturated with 'em</l>
@@ -3942,9 +3808,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0067_text">
                 <div type="page" n="r.0067" xml:id="nb07_01_04_0067_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0067-recto.jpeg"
-                        n="0067-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0067-recto.jpeg" n="0067-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <note> Bernhardt, Sarah. <hi rend="italics">Ma Double Vie. Memoires de Sarah Bernhardt</hi> (see earlier note). The text translates: "and loved this pure creature. // I was introduced to the glacial mannequin // Cross gifted me six small cameleons, which resembled lizards, and one admirable cameleon, a fabulous prehistoric animal, a real chinese ornament passing from tender green to bronzed black, svelte and long. Like a lilly leaf and then suddenly swollen and stocky like a toad. It's eyes, in lorgnettes [opera glasses] like those of lobsters, did not rely on one another. Hi right eye looked forward and his left eye looked backward. I was delighted, enthused by this gift." </note>  <quote rend="begin"/><foreign xml:lang="French">et aim<hi rend="accent aigu">e</hi> cette pure cr<hi rend="accent aigu">e</hi>ature</foreign>.  </l>
@@ -4000,9 +3864,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0068_text">
                 <div type="page" n="v.0068" xml:id="nb07_01_04_0068_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0068-verso.jpeg"
-                        n="0068-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0068-verso.jpeg" n="0068-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]  <quote rend="begin"/> ; we shall be thankful if he does not question ours.<note> Firkins, Oscar  W. "A Sage's Lyre" (see earlier note). <hi rend="italics"/><hi rend="italics"/></note></l>
@@ -4057,9 +3919,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0069_text">
                 <div type="page" n="r.0069" xml:id="nb07_01_04_0069_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0069-recto.jpeg"
-                        n="0069-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0069-recto.jpeg" n="0069-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]  Harvard Classics <add>v.</add> 27  7.  Defense of Poesy    33<note><hi rend="italics">English Essays: From Sir Philip Sidney to Macauley</hi>. Ed. Charles W. Eliot, LL.D. Harvard Classics Vol. 27. NY: P. F. Collier &amp; Son, 1910. </note></l>
@@ -4115,9 +3975,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0070_text">
                 <div type="page" n="v.0070" xml:id="nb07_01_04_0070_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0070-verso.jpeg"
-                        n="0070-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0070-verso.jpeg" n="0070-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <note>Sir Philip Sidney. "The Defense of Poesy" (see earlier note).</note> <quote rend="begin"/> they now play the hedgehog that, being received into</l>
@@ -4175,9 +4033,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0071_text">
                 <div type="page" n="r.0071" xml:id="nb07_01_04_0071_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0071-recto.jpeg"
-                        n="0071-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0071-recto.jpeg" n="0071-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <note>Sir Philip Sidney's "The Defense of Poesy" (see earlier note).</note> <quote rend="begin"/> For all standeth upon dialogues; wherein he</l>
@@ -4233,9 +4089,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0072_text">
                 <div type="page" n="v.0072" xml:id="nb07_01_04_0072_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0072-verso.jpeg"
-                        n="0072-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0072-verso.jpeg" n="0072-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <note>Sir Philip Sidney's "The Defense of Poesy" (see earlier note).</note> 15  <quote rend="begin"/> the greatest part of poets have apparelled their</l>
@@ -4295,9 +4149,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0073_text">
                 <div type="page" n="r.0073" xml:id="nb07_01_04_0073_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0073-recto.jpeg"
-                        n="0073-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0073-recto.jpeg" n="0073-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <note>Sir Philip Sidney's "The Defense of Poesy" (see earlier note).</note> 21   <quote rend="begin"/>The philosopher teacheth . . . . them that are already</l>
@@ -4353,9 +4205,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0074_text">
                 <div type="page" n="v.0074" xml:id="nb07_01_04_0074_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0074-verso.jpeg"
-                        n="0074-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0074-verso.jpeg" n="0074-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]   <note>Sir Philip Sidney's "The Defense of Poesy" (see earlier note).</note><quote rend="begin"/>man shall have a near guess <del>at the latter</del> to the follower.</l>
@@ -4411,9 +4261,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0075_text">
                 <div type="page" n="r.0075" xml:id="nb07_01_04_0075_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0075-recto.jpeg"
-                        n="0075-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0075-recto.jpeg" n="0075-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]    <bibl rend="begin"/>A  Defence of Poetry<note>Shelley, Percy Bysshe. "A Defence of Poetry." Written in 1821 and published posthumously in 1840.</note>.  Shelley<bibl rend="end"/><note type="glossary">Shelley, Percy Bysshe [1792-1822]. English poet. MM refers to Shelley in letters and essays.</note></l>
@@ -4469,9 +4317,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0076_text">
                 <div type="page" n="v.0076" xml:id="nb07_01_04_0076_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0076-verso.jpeg"
-                        n="0076-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0076-verso.jpeg" n="0076-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]         <note>Shelley, Percy Bysshe. "A Defence of Poetry" (see earlier note). </note>                               <add>Herodotus, Plutarch, Livy</add></l>
@@ -4527,9 +4373,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0077_text">
                 <div type="page" n="r.0077" xml:id="nb07_01_04_0077_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0077-recto.jpeg"
-                        n="0077-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0077-recto.jpeg" n="0077-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]  <note>Shelley, Percy Bysshe. "A Defence of Poetry" (see earlier note). </note> . . . <quote rend="begin"/>But poetry defeats the curse which binds us to          37</l>
@@ -4585,9 +4429,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0078_text">
                 <div type="page" n="v.0078" xml:id="nb07_01_04_0078_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0078-verso.jpeg"
-                        n="0078-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0078-verso.jpeg" n="0078-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]   <bibl rend="begin"/>Ernst von Feuchtersleben  Prof of medicine</l>
@@ -4643,9 +4485,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0079_text">
                 <div type="page" n="r.0079" xml:id="nb07_01_04_0079_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0079-recto.jpeg"
-                        n="0079-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0079-recto.jpeg" n="0079-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]  <note>Feuchtersleben, Ernst von. <hi rend="italics">Health and Suggestion</hi> (see earlier note).</note> <quote rend="begin"/>my soul"  What of the man who bores himself?</l>
@@ -4701,9 +4541,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0080_text">
                 <div type="page" n="v.0080" xml:id="nb07_01_04_0080_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0080-verso.jpeg"
-                        n="0080-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0080-verso.jpeg" n="0080-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <note>Feuchtersleben, Ernst von. <hi rend="italics">Health and Suggestion</hi> (see earlier note).</note> <quote rend="begin"/> egoism, idleness, pedantry.</l>
@@ -4759,9 +4597,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0081_text">
                 <div type="page" n="r.0081" xml:id="nb07_01_04_0081_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0081-recto.jpeg"
-                        n="0081-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0081-recto.jpeg" n="0081-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]   <quote>art &amp; activity, the alpha &amp; omega of our wellbeing</quote>.</l>
@@ -4817,9 +4653,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0082_text">
                 <div type="page" n="v.0082" xml:id="nb07_01_04_0082_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0082-verso.jpeg"
-                        n="0082-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0082-verso.jpeg" n="0082-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]   <bibl rend="begin"/>Lit. review. Sept 29 1923</l>
@@ -4875,9 +4709,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0083_text">
                 <div type="page" n="r.0083" xml:id="nb07_01_04_0083_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0083-recto.jpeg"
-                        n="0083-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0083-recto.jpeg" n="0083-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]    <bibl rend="begin"/>Lit. Rev. 29 Sept 1923</l>
@@ -4933,9 +4765,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0084_text">
                 <div type="page" n="v.0084" xml:id="nb07_01_04_0084_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0084-verso.jpeg"
-                        n="0084-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0084-verso.jpeg" n="0084-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]     <quote rend="begin"/>There is nothing new under the sun once<note>Lawrence, D. H. "A Spiritual Record." Rev. of <hi rend="italics">A Second Contemporary Anthology</hi> (see earlier note). </note></l>
@@ -4968,9 +4798,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0085_text">
                 <div type="page" n="r.0085" xml:id="nb07_01_04_0085_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0085-recto.jpeg"
-                        n="0085-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0085-recto.jpeg" n="0085-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]   <note>Lawrence, D. H. "A Spiritual Record." Rev. of <hi rend="italics">A Second Contemporary Anthology</hi> (see earlier note). </note><quote rend="begin"><l n="12">[blank]   swearing Damns have had their day--</l></quote>Old soup of old bones of life, heated up again </l>
@@ -5025,9 +4853,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0086_text">
                 <div type="page" n="v.0086" xml:id="nb07_01_04_0086_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0086-verso.jpeg"
-                        n="0086-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0086-verso.jpeg" n="0086-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]   <note>Spenser, Edmund. <hi rend="italics">The Poetical Works of Spenser</hi> (see earlier note). <hi rend="it"/></note><quote rend="begin"/>Sonnet LVI</l>
@@ -5087,9 +4913,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0087_text">
                 <div type="page" n="r.0087" xml:id="nb07_01_04_0087_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0087-recto.jpeg"
-                        n="0087-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0087-recto.jpeg" n="0087-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]      <note>Spenser, Edmund. <hi rend="italics">The Poetical Works of Spenser</hi> (see earlier note). <hi rend="it"/></note>     <quote rend="begin"/>LIII</l>
@@ -5145,9 +4969,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0088_text">
                 <div type="page" n="v.0088" xml:id="nb07_01_04_0088_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0088-verso.jpeg"
-                        n="0088-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0088-verso.jpeg" n="0088-verso"/>
                     <desc>[Page-level Description] [!MM draws an upside down triangle of dots; right-side up this is the mathematical symbol for "therefore"!]</desc>
                     <lg>
                         <l n="01">[blank]  <note>Spenser, Edmund. <hi rend="italics">The Poetical Works of Spenser</hi> (see earlier note). <hi rend="it"/></note>  <quote rend="begin"/>precisely officious, I make you <add>a</add> present of this </l>
@@ -5203,9 +5025,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0089_text">
                 <div type="page" n="r.0089" xml:id="nb07_01_04_0089_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0089-recto.jpeg"
-                        n="0089-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0089-recto.jpeg" n="0089-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]  <note>Spenser, Edmund. <hi rend="italics">The Poetical Works of Spenser</hi> (see earlier note). <hi rend="it"/></note>  <quote rend="begin"/>Master H'<add>s</add> short but sharpe, &amp; learned</l>
@@ -5261,9 +5081,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0090_text">
                 <div type="page" n="v.0090" xml:id="nb07_01_04_0090_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0090-verso.jpeg"
-                        n="0090-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0090-verso.jpeg" n="0090-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]  <note>Spenser, Edmund. <hi rend="italics">The Poetical Works of Spenser</hi> (see earlier note). <hi rend="it"/></note> <hi rend="italics"/> <quote rend="begin"/>but out lyar out, thou lyest abominably in</l>
@@ -5318,9 +5136,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0091_text">
                 <div type="page" n="r.0091" xml:id="nb07_01_04_0091_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0091-recto.jpeg"
-                        n="0091-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0091-recto.jpeg" n="0091-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]    <bibl rend="begin"/>Christian Science Monitor--Oct 24 1923</l>
@@ -5376,9 +5192,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0092_text">
                 <div type="page" n="v.0092" xml:id="nb07_01_04_0092_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0092-verso.jpeg"
-                        n="0092-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0092-verso.jpeg" n="0092-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]   <bibl rend="b"/>N Y Times Nov 18. 1923<note><hi rend="italics">New York Times</hi> (18 November 1923). 31 October 1923, there was a brief notice that the cavern had been made a national monument.</note>        Gothic arch--</l>
@@ -5434,9 +5248,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0093_text">
                 <div type="page" n="r.0093" xml:id="nb07_01_04_0093_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0093-recto.jpeg"
-                        n="0093-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0093-recto.jpeg" n="0093-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]   <bibl rend="begin"/>Ill London News  Aug 11 1923<note>"A Summer 'Seaside' Visitor to be Avoided." Photographs by Dr. Francis Ward. <hi rend="italics">Illustrated London News</hi>, 11 September 1923: 21.</note><bibl rend="end"/>  <bibl rend="end"/>                                               45<note> MM takes notes toward drafting "An Octopus," first published <hi rend="italics">Dial</hi> December 1924. Her Notes to the poem refer to this article and claim to quote from Ward.</note></l>
@@ -5492,9 +5304,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0094_text">
                 <div type="page" n="v.0094" xml:id="nb07_01_04_0094_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0094-verso.jpeg"
-                        n="0094-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0094-verso.jpeg" n="0094-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]   <note>"A Summer 'Seaside' Visitor to be Avoided" (see earlier note).</note><quote rend="begin"/>When in use the suckers hearing survace alters its<note> MM takes notes toward drafting "An Octopus."</note></l>
@@ -5550,9 +5360,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0095_text">
                 <div type="page" n="r.0095" xml:id="nb07_01_04_0095_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0095-recto.jpeg"
-                        n="0095-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0095-recto.jpeg" n="0095-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]   <note>"A Summer 'Seaside' Visitor to be Avoided" (see earlier note).</note>This is done in a slow deliberate manner<note> MM takes notes toward drafting "An Octopus<hi rend="italics"/>"; in her Notes, she  attributes "ghostly pallor" to Francis Ward.</note></l>
@@ -5608,9 +5416,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0096_text">
                 <div type="page" n="v.0096" xml:id="nb07_01_04_0096_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0096-verso.jpeg"
-                        n="0096-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0096-verso.jpeg" n="0096-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]  <note>"A Summer 'Seaside' Visitor to be Avoided" (see earlier note).</note> <add>crus</add>. was hiding under a bunch of weeds. The cep.</l>
@@ -5665,9 +5471,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0097_text">
                 <div type="page" n="r.0097" xml:id="nb07_01_04_0097_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0097-recto.jpeg"
-                        n="0097-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0097-recto.jpeg" n="0097-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]  <note>Carey, M. C. "The Octopus in the Channel Islands" (see earlier note). </note> <quote rend="begin"/>timid creature &amp; <hi rend="underline">makes his home</hi> in the rock <note>MM takes notes toward drafting "An Octopus." and her Notes  to the poem refer to Carey.</note></l>
@@ -5723,9 +5527,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0098_text">
                 <div type="page" n="v.0098" xml:id="nb07_01_04_0098_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0098-verso.jpeg"
-                        n="0098-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0098-verso.jpeg" n="0098-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]  <note>Carey, M. C. "The Octopus in the Channel Islands" (see earlier note). </note> <quote rend="begin"/>are very scornful of the tourists' alarm of these queer <note>MM takes notes toward drafting "An Octopus" and attributes "picking periwinkles" to Carey.</note></l>
@@ -5781,9 +5583,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0099_text">
                 <div type="page" n="r.0099" xml:id="nb07_01_04_0099_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0099-recto.jpeg"
-                        n="0099-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0099-recto.jpeg" n="0099-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]     <bibl rend="begin"/>Vision and Design Roger Fry.  Brentano<note> Fry, Roger. <hi rend="italics">Vision and Design</hi>. London: Chatto and Windus, 1920; NY: Brentano's, 1923.</note>    48</l>
@@ -5839,9 +5639,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0100_text">
                 <div type="page" n="v.0100" xml:id="nb07_01_04_0100_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0100-verso.jpeg"
-                        n="0100-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0100-verso.jpeg" n="0100-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]  <note> Fry, Roger. <hi rend="italics">Vision and Design</hi> (see earlier note).</note><hi rend="italics"> <quote rend="begin"/></hi>Christian legend very much what Pindar did</l>
@@ -5897,9 +5695,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0101_text">
                 <div type="page" n="r.0101" xml:id="nb07_01_04_0101_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0101-recto.jpeg"
-                        n="0101-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0101-recto.jpeg" n="0101-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <note> Fry, Roger. <hi rend="italics">Vision and Design</hi> (see earlier note).</note> <quote rend="begin"/><hi rend="italics"/>peering for their needles' eyes, a half burnt</l>
@@ -5955,9 +5751,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0102_text">
                 <div type="page" n="v.0102" xml:id="nb07_01_04_0102_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0102-verso.jpeg"
-                        n="0102-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0102-verso.jpeg" n="0102-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <note> Fry, Roger. <hi rend="italics">Vision and Design</hi> (see earlier note).</note> <quote rend="begin"/> what seems to us the perfect &amp; delicate </l>
@@ -6013,9 +5807,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0103_text">
                 <div type="page" n="r.0103" xml:id="nb07_01_04_0103_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0103-recto.jpeg"
-                        n="0103-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0103-recto.jpeg" n="0103-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <note> <quote rend="begin">Fry, Roger.</quote> <hi rend="italics">Vision and Design</hi> (see earlier note).</note>  is kept flat and generally square in the</l>
@@ -6075,9 +5867,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0104_text">
                 <div type="page" n="v.0104" xml:id="nb07_01_04_0104_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0104-verso.jpeg"
-                        n="0104-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0104-verso.jpeg" n="0104-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]  <note>King, Georgiana Goddard. <hi rend="italics">Sardinian Painting</hi> (see earlier note).</note> <quote rend="begin"/>last decade of the 15th century brought</l>
@@ -6133,9 +5923,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0105_text">
                 <div type="page" n="r.0105" xml:id="nb07_01_04_0105_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0105-recto.jpeg"
-                        n="0105-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0105-recto.jpeg" n="0105-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <note>  <lg><l n="13"><note>Dolf, Wyllarde. <hi rend="italics">The Lavender Lad</hi> (see earlier note).</note></l></lg><lg/></note>  <quote rend="begin"/>his . . .   cheeks.</l>
@@ -6195,9 +5983,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0106_text">
                 <div type="page" n="v.0106" xml:id="nb07_01_04_0106_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0106-verso.jpeg"
-                        n="0106-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0106-verso.jpeg" n="0106-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <hi rend="italics"/> <seg type="verse begin"/><quote rend="begin"/><note> Gay, John. <hi rend="italics">The Poetical Works</hi> (see earlier note). </note> <hi rend="underline">His</hi> little boxes change the grain:</l>
@@ -6253,9 +6039,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0107_text">
                 <div type="page" n="r.0107" xml:id="nb07_01_04_0107_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0107-recto.jpeg"
-                        n="0107-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0107-recto.jpeg" n="0107-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]   <note> Gay, John. <hi rend="italics">The Poetical Works</hi> (see earlier note). </note>  <seg type="verse begin"/> <quote rend="begin"/>Blood stuff'd in skins is British Christian's food,</l>
@@ -6311,9 +6095,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0108_text">
                 <div type="page" n="v.0108" xml:id="nb07_01_04_0108_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0108-verso.jpeg"
-                        n="0108-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0108-verso.jpeg" n="0108-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]    <note> Gay, John. <hi rend="italics">The Poetical Works</hi> (see earlier note). </note>  <quote rend="begin"/>And on the hearth the milk white embers spread;</l>
@@ -6369,9 +6151,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0109_text">
                 <div type="page" n="r.0109" xml:id="nb07_01_04_0109_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0109-recto.jpeg"
-                        n="0109-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0109-recto.jpeg" n="0109-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]   <bibl rend="begin"/>Harpers Bazar  Dec 1923</l>
@@ -6427,9 +6207,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0110_text">
                 <div type="page" n="v.0110" xml:id="nb07_01_04_0110_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0110-verso.jpeg"
-                        n="0110-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0110-verso.jpeg" n="0110-verso"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws a curly bracket around the end of the last 4 lines of the quoted verse, before writing "Prologue"!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank] <note> Tapp<hi rend="accent aigu">e</hi>, Herman Patrick. <hi rend="italics">Harper's Bazar</hi> (see earlier note).<hi rend="accent aigu"/><hi rend="italics"/></note>  <quote rend="begin"/>all, a cloak of dull plum with a swirling</l>
@@ -6485,9 +6263,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0111_text">
                 <div type="page" n="r.0111" xml:id="nb07_01_04_0111_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0111-recto.jpeg"
-                        n="0111-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0111-recto.jpeg" n="0111-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <note>  Heller, Frank. <hi rend="italics">The Marriage of Yussuf Kahn </hi>(see earlier note). </note> 18 <quote rend="begin"/>The steamer's whistle tooted in its hoarse </l>
@@ -6551,9 +6327,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0112_text">
                 <div type="page" n="v.0112" xml:id="nb07_01_04_0112_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0112-verso.jpeg"
-                        n="0112-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0112-verso.jpeg" n="0112-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]    <bibl rend="begin"/>Yale Review:  January 1924</l>
@@ -6611,9 +6385,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0113_text">
                 <div type="page" n="r.0113" xml:id="nb07_01_04_0113_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0113-recto.jpeg"
-                        n="0113-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0113-recto.jpeg" n="0113-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <note>  Richardson, Caroline Francis. "Story Animals" (see earlier note).</note> <quote rend="begin"/>wolf's side of the quarrel, (" . . . I wot        55</l>
@@ -6669,9 +6441,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0114_text">
                 <div type="page" n="v.0114" xml:id="nb07_01_04_0114_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0114-verso.jpeg"
-                        n="0114-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0114-verso.jpeg" n="0114-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]  <note> McMurry, Oscar L., George W. Eggers, and Charles A. McMurry. <hi rend="italics">Teaching of Industrial Arts in the Elementary School</hi> (see earlier note).</note> p. 63   <quote rend="begin"/>Decoration contrasted w plain</l>
@@ -6729,9 +6499,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0115_text">
                 <div type="page" n="r.0115" xml:id="nb07_01_04_0115_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0115-recto.jpeg"
-                        n="0115-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0115-recto.jpeg" n="0115-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]  <note> Ad for Lotus and Delta Shoes (see earlier note).</note>  <quote>For all men &amp; most occasions</quote>                         56</l>
@@ -6787,9 +6555,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0116_text">
                 <div type="page" n="v.0116" xml:id="nb07_01_04_0116_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0116-verso.jpeg"
-                        n="0116-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0116-verso.jpeg" n="0116-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]  <note><hi rend="italics">Nursery Rhymes With Drawings by Leslie Brooke</hi> (see earlier note).</note> <seg type="verse begin"/><quote rend="begin"/>He rode till he came to my Lady Mouse hall</l>
@@ -6845,9 +6611,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0117_text">
                 <div type="page" n="r.0117" xml:id="nb07_01_04_0117_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0117-recto.jpeg"
-                        n="0117-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0117-recto.jpeg" n="0117-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]           <note><hi rend="italics">Nursery Rhymes With Drawings by Leslie Brooke</hi> (see earlier note).</note> <seg type="verse begin"/><quote rend="begin"/>The frog he came whistling thought the brook</l>
@@ -6903,9 +6667,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0118_text">
                 <div type="page" n="v.0118" xml:id="nb07_01_04_0118_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0118-verso.jpeg"
-                        n="0118-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0118-verso.jpeg" n="0118-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]           <note>Hardy, Thomas. "An Ancient to Ancients" (see earlier note).</note><quote rend="begin"/><seg type="verse begin"/>And crack creep; worms have fed upon</l>
@@ -6961,9 +6723,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0119_text">
                 <div type="page" n="r.0119" xml:id="nb07_01_04_0119_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0119-recto.jpeg"
-                        n="0119-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0119-recto.jpeg" n="0119-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]       <seg type="verse begin"/><note>Hardy, Thomas. "An Ancient to Ancients" (see earlier note).</note></l>
@@ -7024,9 +6784,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0120_text">
                 <div type="page" n="v.0120" xml:id="nb07_01_04_0120_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0120-verso.jpeg"
-                        n="0120-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0120-verso.jpeg" n="0120-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]        <note>Hardy, Thomas. "An Ancient to Ancients" (see earlier note).</note><seg type="verse begin"/> <quote rend="begin"/>the spider is sole denizen,</l>
@@ -7082,9 +6840,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0121_text">
                 <div type="page" n="r.0121" xml:id="nb07_01_04_0121_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0121-recto.jpeg"
-                        n="0121-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0121-recto.jpeg" n="0121-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]             <note>Hardy, Thomas. "An Ancient to Ancients" (see earlier note).</note><bibl rend="begin"/><quote rend="begin"/>Sophocles, Plato, Socrates</l>
@@ -7140,9 +6896,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0122_text">
                 <div type="page" n="v.0122" xml:id="nb07_01_04_0122_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0122-verso.jpeg"
-                        n="0122-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0122-verso.jpeg" n="0122-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]         <note>MM writes text across both pages in lines 10 and 14. Text across both pages reads: "Cescinsky chinese furniture 27" and "Chinese painting met. museum 5"</note>A.                                                                                                   Bridges           Poetic diction--10</l>
@@ -7198,9 +6952,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0123_text">
                 <div type="page" n="r.0123" xml:id="nb07_01_04_0123_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0123-recto.jpeg"
-                        n="0123-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0123-recto.jpeg" n="0123-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM circles two lines of cancelled text on the right-hand side of lines 12 and 13 in black pen. She shades the middle of the circle with blue pencil.!&amp;gt;</desc>
                     <lg>
                         <lg>
@@ -7264,9 +7016,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0124_text">
                 <div type="page" n="v.0124" xml:id="nb07_01_04_0124_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0124-verso.jpeg"
-                        n="0124-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0124-verso.jpeg" n="0124-verso"/>
                     <desc>[Page-level Description] &amp;lt;! MM draws a bracket from "the left of Belasco in line 4 to below "slightly nervous" in line 9.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]    I         Indian art, Coomaraswamy 3                   ma double vie--32</l>
@@ -7322,9 +7072,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0125_text">
                 <div type="page" n="r.0125" xml:id="nb07_01_04_0125_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0125-recto.jpeg"
-                        n="0125-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0125-recto.jpeg" n="0125-recto"/>
                     <desc>[Page-level Description] &amp;lt;! MM draws a bracket from the right of "Poor man" in line 6 to line 9. On left bottom margin, MM also draws a small upward arrow.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]               Mediaeval (unicorn) 11                                            Lawrence Fantasia--33</l>
@@ -7380,9 +7128,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0126_text">
                 <div type="page" n="v.0126" xml:id="nb07_01_04_0126_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0126-verso.jpeg"
-                        n="0126-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0126-verso.jpeg" n="0126-verso"/>
                     <desc>[Page-level Description] &amp;lt;! MM draws a line, with bracketed top, in the left margin from line 6 to line 9.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]         Shakespeare--tercentinary 1st folio--21              U</l>
@@ -7438,9 +7184,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0127_text">
                 <div type="page" n="v.0127" xml:id="nb07_01_04_0127_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0127-verso.jpeg"
-                        n="0127-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0127-verso.jpeg" n="0127-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]</l>
@@ -7496,9 +7240,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0128_text">
                 <div type="page" n="v.0128" xml:id="nb07_01_04_0128_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0128-verso.jpeg"
-                        n="0128-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0128-verso.jpeg" n="0128-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]</l>
@@ -7554,9 +7296,7 @@
             </div>
             <div type="image" xml:id="nb07_01_04_0129_text">
                 <div type="page" n="r.0129" xml:id="nb07_01_04_0129_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0129-recto.jpeg"
-                        n="0129-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0129-recto.jpeg" n="0129-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]</l>
