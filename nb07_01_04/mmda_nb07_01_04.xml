@@ -847,7 +847,7 @@
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <quote rend="begin"/>I <note>MM quotes from material read at the Metropolitan Museum of Art (see earlier note).</note>would cut off a  portion of the river into which I could   </l>
-                        <l n="02">[blank]                        <add>small</add>                                                                       6</l>
+                        <l n="02">[blank]                                                                       <add>small</add>                                                                       6</l>
                         <l n="03">[blank] empty half the waters of Hu Sung.</l>
                         <quote rend="end"/>
                         <l n="04">[blank]</l>
@@ -962,7 +962,7 @@
                         <l n="01">[blank]             <quote rend="begin"/> <seg type="verse begin"/>For he blew<note>Chalmers, Patrick R. "The Little Young Lambs" (see earlier note)<hi rend="italics"/>.</note></l>
                         <l n="02">[blank]          That he knew                                                                <bibl type="Source begin"/>Spectator Dec  30 1922       7</l>
                         <l n="03">[blank]    Why the seasons went round</l>
-                        <l n="04">[blank]      An' why green the wheat grew                                  Terminology<note>Rickword, Edgell. "Terminology" was the first poem in Rickword's Invocation to Angels and The Happy New Year (London: Wishart, 1928).</note>: Edgell Rickword<note type="glossary">Rickword.Edgell [1898-1982]. English poet, critic, journalist, who became one of the leading Communist intellectuals during the 1930s.</note><bibl type="source end"/></l>
+                        <l n="04">[blank]      An' why green the wheat grew                                  Terminology<note>Rickword, Edgell. "Terminology" was the first poem in Rickword's Invocation to Angels and The Happy New Year (London: Wishart, 1928).</note>: Edgell Rickword<note type="glossary">Rickword.Edgell [1898-1982]. English poet, critic, journalist, who became a leading Communist intellectual during the 1930s.</note><bibl type="source end"/></l>
                         <l n="05">[blank]  <seg type="verse begin">An' why rain follows sun,                                        The curious elephants,</seg></l>
                         <l n="06">[blank]    <seg type="verse">An' how sun follows rain,                                                              like women grown</seg></l>
                         <l n="07">[blank]    An' how everything's done                                    Too gentle in a habit not their</l>
@@ -1136,7 +1136,7 @@
                         <l n="05">[blank] . . . . They were about the size of doves, light green in body,</l>
                         <l n="06">[blank] w purple wings, scarlet breasts, yellow heads &amp;</l>
                         <l n="07">[blank] black beaks, but they were not of the parrot species.</l>
-                        <l n="08">[blank] This was <hi rend="shorthand the">the only spot in the forest whe<del>?</del>re I noticed</hi></l>
+                        <l n="08">[blank] This was <hi rend="shorthand the">the only spot in the forest wher<del>?</del><add>e</add> I noticed</hi></l>
                         <l n="09">[blank] these pretty birds, &amp; I saw them at the same place</l>
                         <l n="10">[blank] coming back.</l>
                         <l n="11">[blank] </l>
