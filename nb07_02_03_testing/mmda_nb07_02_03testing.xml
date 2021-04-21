@@ -1,7 +1,3 @@
-2 contributors
-@moritzet@entitiesofentities
-3192 lines (3161 sloc)  290 KB
-
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <teiHeader>
@@ -20,7 +16,7 @@
                     <respStmt>
                         <persName/>Proofreader</respStmt>
                     <editor>
-                        <persName>Nikolaus L. Wasmoen,</persName>
+                        <persName>Nikolaus Wasmoen,</persName>
                         <note>Digital Editor</note>
                     </editor>
                     <respStmt> </respStmt>
@@ -51,9 +47,7 @@
                 <sourceDesc>
                     <msDesc>
                         <msIdentifier>
-                            <repository> Marianne Moore Collection, Rosenbach Museum and Library,
-                                Philadelphia, PA
-                                (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
+                            <repository> Marianne Moore Collection, Rosenbach Museum and Library, Philadelphia, PA (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
                             <idno>VII.01.04</idno>
                         </msIdentifier>
                     </msDesc>
@@ -70,36 +64,67 @@
             </sourceDesc>
         </fileDesc>
         <!-- <encodingDesc>
+
             <classDecl>
+
                 <taxonomy source="https://arc-staging.dh.tamu.edu/index.php/Submitting_RDF">
+
                     <category source="collex" xml:id="discipline">
+
                         <catDesc>Literature</catDesc>
+
                         <catDesc>Manuscript Studies</catDesc>
+
                     </category>
+
                     <category source="collex" xml:id="genre">
+
                         <catDesc>Advertisement</catDesc>
+
                         <catDesc>Criticism</catDesc>
+
                         <catDesc>Ephemera</catDesc>
+
                         <catDesc>Poetry</catDesc>
+
                         <catDesc>Religion</catDesc>
+
                         <catDesc>Review</catDesc>
+
                         <catDesc>Speech</catDesc>
+
                         <catDesc>Visual Art</catDesc>
+
                     </category>
+
                     <category source="collex" xml:id="thumbnail">
+
                         <catDesc>[thumbnail image URL for notebook/object]</catDesc>
+
                     </category>
+
                     <category source="collex" xml:id="text">
+
                         <catDesc>[plain text URL]</catDesc>
+
                     </category>
+
                     <category source="dc" xml:id="date">
+
                         <catDesc>1930-43</catDesc>
+
                     </category>
+
                     <category source="dcterms" xml:id="hasPart">
+
                         <catDesc>[notebook page RDF objects]</catDesc>
+
                     </category>
+
                 </taxonomy>
+
             </classDecl>
+
         </encodingDesc> -->
     </teiHeader>
     <!-- Add facsimile element here with zone elements, when ready. -->
