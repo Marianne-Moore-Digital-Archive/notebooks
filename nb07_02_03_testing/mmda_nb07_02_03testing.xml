@@ -1,78 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+2 contributors
+@moritzet@entitiesofentities
+3192 lines (3161 sloc)  290 KB
+
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <teiHeader>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Notebook 07.01.04</title>
+                    <author>Marianne Moore</author>
+                    <editor>
+                        <persName>Cristanne Miller, Claire Nashar</persName>
+                        <note>Notebook Editor, June 12, 2020 - present</note>
+                    </editor>
+                    <respStmt>
+                        <persName/>
+                        <resp>Proofreader</resp>
+                    </respStmt>
+                    <respStmt>
+                        <persName/>Proofreader</respStmt>
+                    <editor>
+                        <persName>Nikolaus L. Wasmoen,</persName>
+                        <note>Digital Editor</note>
+                    </editor>
+                    <respStmt> </respStmt>
+                    <respStmt>
+                        <persName>Edward J. Sobczak,</persName>
+                        <resp>Web Administrator</resp>
+                    </respStmt>
+                </titleStmt>
+                <publicationStmt>
+                    <publisher>Marianne Moore Digital Archive (moorearchive.org)</publisher>
+                    <date>[Pub Date]</date>
+                    <availability/>
+                </publicationStmt>
+            </fileDesc>
+        </teiHeader>
+    </teiHeader>
+    <p>[Copyright and Usage Statement]</p>
+    <teiHeader>
+        <teiHeader>
+            <fileDesc>
+                <publicationStmt>
+                    <availability>
+                        <licence>[License info]</licence>
+                    </availability>
+                    <idno>07.01.04</idno>
+                    <date>1923</date>
+                </publicationStmt>
+                <sourceDesc>
+                    <msDesc>
+                        <msIdentifier>
+                            <repository> Marianne Moore Collection, Rosenbach Museum and Library,
+                                Philadelphia, PA
+                                (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
+                            <idno>VII.01.04</idno>
+                        </msIdentifier>
+                    </msDesc>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+    </teiHeader>
+    <p>[Notebook description here.]</p>
+    <p>Relevant to publications: [list of publications here].</p>
     <teiHeader>
         <fileDesc>
-            <titleStmt>
-                <title>Notebook 07.02.02</title>
-                <author>Marianne Moore</author>
-                <editor>
-                    <persName>Robin Gail Schulze,</persName>
-                    <note>Notebook Editor, June 6, 2015 - January 2016</note>
-                </editor>
-                <editor>
-                    <persName>Jeff Westover,</persName>
-                    <note>Notebook Editor, January 2017 - present</note>
-                </editor>
-                <respStmt>
-                    <persName>Cristanne Miller,</persName>
-                    <resp>Proofreader</resp>
-                </respStmt>
-                <respStmt>
-                    <persName>Claire Nashar,</persName>
-                    <resp>Proofreader</resp>
-                </respStmt>
-                <respStmt>
-                    <persName>Kathleen Naughton,</persName>
-                    <resp>Proofreader</resp>
-                </respStmt>
-                <editor>
-                    <persName>Nikolaus L. Wasmoen,</persName>
-                    <note>Digital Editor</note>
-                </editor>
-                <respStmt>
-                    <persName>Tejas Magar,</persName>
-                    <resp>Web Developer</resp>
-                </respStmt>
-                <respStmt>
-                    <persName>Edward J. Sobczak,</persName>
-                    <resp>Web Administrator</resp>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Marianne Moore Digital Archive (moorearchive.org)</publisher>
-                <date>[Pub Date]</date>
-                <availability>
-                    <p>[Copyright and Usage Statement]</p>
-                    <licence>[License info]</licence>
-                </availability>
-                <idno>07.02.02</idno>
-                <date>Pub Date</date>
-            </publicationStmt>
             <sourceDesc>
-                <msDesc>
-                    <msIdentifier>
-                        <repository> Marianne Moore Collection, Rosenbach Museum and Library,
-                            Philadelphia, PA
-                            (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
-                        <idno>VII.02.02</idno>
-                    </msIdentifier>
-                    <p>The Standard Diary for 1923, published by the Standard Diary Company,
-                        Cambridgeport, MA, red leather binding, 460 pages in 230 leaves. Includes 39
-                        pages of pre-printed information of various kinds, e.g. public holidays,
-                        population of states and cities, weights and measures, time zones, tide
-                        tables, and important dates of WWI, followed by lined calendar pages with
-                        each leaf containing one date, such as Mon. Jan. 1, 1923. First image with
-                        MM’s writing is the Standard Diary for 1923 title page, the first of the 39
-                        pre-printed pages. RML number written in pencil on inside front cover,
-                        1250/6</p>
-                    <p>Relevant to publications: "No Swan So Fine," “The Plumet Basilisk,” "The
-                        Frigate Pelican," “The Jerboa,” “O To Be a Dragon,” “The Frigate Pelican,”
-                        “The Student,” “Nine Nectarines and other Porcelain,” “Camellia Sabina,”
-                        “The Buffalo,” “The Paper Nautiluls,” “Half Deity,” “Smooth Gnarled Crape
-                        Myrtle,” “In Distrust of Merits,” “Walking-Sticks and Paperweights and
-                        Watermarks,” “Virginia Britannia,” and essays “Feeling and Precision,”
-                        “Idiosyncrasy and Technique,” “Charlotte Bronte,” and “Humility,
-                        Concentration, and Gusto.”</p>
-                </msDesc>
+                <msDesc/>
             </sourceDesc>
         </fileDesc>
         <!-- <encodingDesc>
