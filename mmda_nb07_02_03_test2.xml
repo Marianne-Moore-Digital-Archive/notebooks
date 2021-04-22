@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?>
+<TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <teiHeader>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Notebook 07.01.04</title>
+                    <author>Marianne Moore</author>
+                    <editor>
+                        <persName>Cristanne Miller, Claire Nashar</persName>
+                        <note>Notebook Editor, June 12, 2020 - present</note>
+                    </editor>
+                    <respStmt>
+                        <persName/>
+                        <resp>Proofreader</resp>
+                    </respStmt>
+                    <respStmt>
+                        <persName/>Proofreader</respStmt>
+                    <editor>
+                        <persName>Nikolaus Wasmoen,</persName>
+                        <note>Digital Editor</note>
+                    </editor>
+                    <respStmt> </respStmt>
+                    <respStmt>
+                        <persName>Edward J. Sobczak,</persName>
+                        <resp>Web Administrator</resp>
+                    </respStmt>
+                </titleStmt>
+                <publicationStmt>
+                    <publisher>Marianne Moore Digital Archive (moorearchive.org)</publisher>
+                    <date>[Pub Date]</date>
+                    <availability/>
+                </publicationStmt>
+            </fileDesc>
+        </teiHeader>
+    </teiHeader>
+    <p>[Copyright and Usage Statement]</p>
+    <teiHeader>
+        <teiHeader>
+            <fileDesc>
+                <publicationStmt>
+                    <availability>
+                        <licence>[License info]</licence>
+                    </availability>
+                    <idno>07.01.04</idno>
+                    <date>1923</date>
+                </publicationStmt>
+                <sourceDesc>
+                    <msDesc>
+                        <msIdentifier>
+                            <repository> Marianne Moore Collection, Rosenbach Museum and Library,
+                                Philadelphia, PA
+                                (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
+                            <idno>VII.01.04</idno>
+                        </msIdentifier>
+                    </msDesc>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+    </teiHeader>
+    <p>[Notebook description here.]</p>
+    <p>Relevant to publications: [list of publications here].</p>
+    <teiHeader>
+        <fileDesc>
+            <sourceDesc>
+                <msDesc/>
+            </sourceDesc>
+        </fileDesc>
+        <!-- <encodingDesc>
+
+            <classDecl>
+
+                <taxonomy source="https://arc-staging.dh.tamu.edu/index.php/Submitting_RDF">
+
+                    <category source="collex" xml:id="discipline">
+
+                        <catDesc>Literature</catDesc>
+
+                        <catDesc>Manuscript Studies</catDesc>
+
+                    </category>
+
+                    <category source="collex" xml:id="genre">
+
+                        <catDesc>Advertisement</catDesc>
+
+                        <catDesc>Criticism</catDesc>
+
+                        <catDesc>Ephemera</catDesc>
+
+                        <catDesc>Poetry</catDesc>
+
+                        <catDesc>Religion</catDesc>
+
+                        <catDesc>Review</catDesc>
+
+                        <catDesc>Speech</catDesc>
+
+                        <catDesc>Visual Art</catDesc>
+
+                    </category>
+
+                    <category source="collex" xml:id="thumbnail">
+
+                        <catDesc>[thumbnail image URL for notebook/object]</catDesc>
+
+                    </category>
+
+                    <category source="collex" xml:id="text">
+
+                        <catDesc>[plain text URL]</catDesc>
+
+                    </category>
+
+                    <category source="dc" xml:id="date">
+
+                        <catDesc>1930-43</catDesc>
+
+                    </category>
+
+                    <category source="dcterms" xml:id="hasPart">
+
+                        <catDesc>[notebook page RDF objects]</catDesc>
+
+                    </category>
+
+                </taxonomy>
+
+            </classDecl>
+
+        </encodingDesc> -->
+    </teiHeader>
+    <!-- Add facsimile element here with zone elements, when ready. -->
+    <text>
+        <body>
+            <div type="image" xml:id="nb07_02_03_0001_text">
+                <div type="page" n="r.0001" xml:id="nb07_02_03_0001_recto_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0001-recto.jpeg"
+                        n="0001-recto"/>
+                    <desc>[Outside front cover.]</desc>
+                    <lg>
+                        <l n="01">[No handwriting on this page.]</l>
+                        <l n="02">[blank]</l>
+                        <l n="03">[blank]</l>
+                        <l n="04">[blank]</l>
+                        <l n="05">[blank]</l>
+                        <l n="06">[blank]</l>
+                        <l n="07">[blank]</l>
+                        <l n="08">[blank]</l>
+                        <l n="09">[blank]</l>
+                        <l n="10">[blank]</l>
+                        <l n="11">[blank]</l>
+                        <l n="12">[blank]</l>
+                        <l n="13">[blank]</l>
+                        <l n="14">[blank]</l>
+                        <l n="15">[blank]</l>
+                        <l n="16">[blank]</l>
+                        <l n="17">[blank]</l>
+                        <l n="18">[blank]</l>
+                        <l n="19">[blank]</l>
+                        <l n="20">[blank]</l>
+                        <l n="21">[blank]</l>
+                        <l n="22">[blank]</l>
+                        <l n="23">[blank]</l>
+                        <l n="24">[blank]</l>
+                        <l n="25">[blank]</l>
+                        <l n="26">[blank]</l>
+                        <l n="27">[blank]</l>
+                        <l n="28">[blank]</l>
+                        <l n="29">[blank]</l>
+                        <l n="30">[blank]</l>
+                        <l n="31">[blank]</l>
+                        <l n="32">[blank]</l>
+                        <l n="33">[blank]</l>
+                        <l n="34">[blank]</l>
+                        <l n="35">[blank]</l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]</l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0002_text">
+                <div type="page" n="v.0002" xml:id="nb07_02_03_0002_verso_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0002-verso.jpeg"
+                        n="0002-verso"/>
+                    <desc>[Inside front cover.]</desc>
+                    <lg>
+                        <l n="01">[blank] <hi rend="pencil">1250/4</hi> <note>These numbers were entered by Rosenbach staff before they moved to the roman numeral system (VII.02.03 for this notebook).</note></l>
+                        <l n="02">[blank]</l>
+                        <l n="03">[blank]</l>
+                        <l n="04">[blank]</l>
+                        <l n="05">[blank]</l>
+                        <l n="06">[blank]</l>
+                        <l n="07">[blank]</l>
+                        <l n="08">[blank]</l>
+                        <l n="09">[blank]</l>
+                        <l n="10">[blank]</l>
+                        <l n="11">[blank]</l>
+                        <l n="12">[blank]</l>
+                        <l n="13">[blank]</l>
+                        <l n="14">[blank]</l>
+                        <l n="15">[blank]</l>
+                        <l n="16">[blank]</l>
+                        <l n="17">[blank]</l>
+                        <l n="18">[blank]</l>
+                        <l n="19">[blank]</l>
+                        <l n="20">[blank]</l>
+                        <l n="21">[blank]</l>
+                        <l n="22">[blank]</l>
+                        <l n="23">[blank]</l>
+                        <l n="24">[blank]</l>
+                        <l n="25">[blank]</l>
+                        <l n="26">[blank]</l>
+                        <l n="27">[blank]</l>
+                        <l n="28">[blank]</l>
+                        <l n="29">[blank]</l>
+                        <l n="30">[blank]</l>
+                        <l n="31">[blank]</l>
+                        <l n="32">[blank]</l>
+                        <l n="33">[blank]</l>
+                        <l n="34">[blank]</l>
+                        <l n="35">[blank]</l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]</l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line] &amp;lt;!Entire left margin!&amp;gt;<hi rend="pencil"><seg type="prose">All success is partial &amp; a bridge to something else</seg></hi> </l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0003_text">
+                <div type="page" n="r.0003" xml:id="nb07_02_03_0003_recto_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0003-recto.jpeg"
+                        n="0003-recto"/>
+                    <desc>[Page-level Description]</desc>
+                    <lg>
+                        <l n="01"/>
+                        <l n="02">[blank]                  <hi rend="pencil">Exeter   Carhart &amp; McGhee   Magic Casement</hi>s <note>Carhart, George S.  and McGhee, Paul A., eds. <hi rend="italics">Through Magic Casements</hi>. New York: Macmillan, 1941. A popular collection of poetry first published in 1926.</note></l>
+                        <l n="03">[blank]                                  <hi rend="pencil">Froude: Seamen of the 17th c.</hi> <note>Froude, James Anthony. <hi rend="italics">English Seamen in the Sixteenth Century: Lectures Delivered at Oxford, Easter Terms, 1893–4</hi>. New York: Scribner's, 1895.</note></l>
+                        <l n="04">[blank]                                      <hi rend="pencil">Woolley’s College   Handbook of Comp.</hi> <note>Woolley, Edwin C.; Scott, Franklin W. <hi rend="italics">College Handbook Of Composition</hi>. Boston: D.C. Heath, 1928.</note></l>
+                        <l n="05">[blank]</l>
+                        <l n="06">[blank]</l>
+                        <l n="07">[blank]</l>
+                        <l n="08">[blank]</l>
+                        <l n="09">[blank]</l>
+                        <l n="10">[blank]</l>
+                        <l n="11">[blank]</l>
+                        <l n="12">[blank]</l>
+                        <l n="13">[blank]</l>
+                        <l n="14">[blank]</l>
+                        <l n="15">[blank]</l>
+                        <l n="16">[blank]</l>
+                        <l n="17">[blank]</l>
+                        <l n="18">[blank]</l>
+                        <l n="19">[blank]</l>
+                        <l n="20">[blank]</l>
+                        <l n="21">[blank]</l>
+                        <l n="22">[blank]</l>
+                        <l n="23">[blank]</l>
+                        <l n="24">[blank]</l>
+                        <l n="25">[blank]                                 <hi rend="pencil">Demetrius<note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds and trans. <hi rend="italics">Aristotle, The Poetics; "Longinus": On the Sublime; Demetrius, On Style</hi>. [1927.] Revised edition. Loeb Classical Library. London: Heinemann, 1932. </note> p. 19</hi> </l>
+                        <l n="26">[blank]                        <quote rend="begin"/><hi rend="pencil">Homer’s fearful pleasantries</hi><quote rend="end"/></l>
+                        <l n="27">[blank]</l>
+                        <l n="28">[blank]</l>
+                        <l n="29">[blank]</l>
+                        <l n="30">[blank]</l>
+                        <l n="31">[blank]</l>
+                        <l n="32">[blank]</l>
+                        <l n="33">[blank]</l>
+                        <l n="34">[blank]</l>
+                        <l n="35">[blank]</l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]</l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0004_text">
+                <div type="page" n="v.0004" xml:id="nb07_02_03_0004_verso_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0004-verso.jpeg"
+                        n="0004-verso"/>
+                    <desc>[No handwriting on this page.]</desc>
+                    <lg>
+                        <l n="01">[blank]</l>
+                        <l n="02">[blank]</l>
+                        <l n="03">[blank]</l>
+                        <l n="04">[blank]</l>
+                        <l n="05">[blank]</l>
+                        <l n="06">[blank]</l>
+                        <l n="07">[blank]</l>
+                        <l n="08">[blank]</l>
+                        <l n="09">[blank]</l>
+                        <l n="10">[blank]</l>
+                        <l n="11">[blank]</l>
+                        <l n="12">[blank]</l>
+                        <l n="13">[blank]</l>
+                        <l n="14">[blank]</l>
+                        <l n="15">[blank]</l>
+                        <l n="16">[blank]</l>
+                        <l n="17">[blank]</l>
+                        <l n="18">[blank]</l>
+                        <l n="19">[blank]</l>
+                        <l n="20">[blank]</l>
+                        <l n="21">[blank]</l>
+                        <l n="22">[blank]</l>
+                        <l n="23">[blank]</l>
+                        <l n="24">[blank]</l>
+                        <l n="25">[blank]</l>
+                        <l n="26">[blank]</l>
+                        <l n="27">[blank]</l>
+                        <l n="28">[blank]</l>
+                        <l n="29">[blank]</l>
+                        <l n="30">[blank]</l>
+                        <l n="31">[blank]</l>
+                        <l n="32">[blank]</l>
+                        <l n="33">[blank]</l>
+                        <l n="34">[blank]</l>
+                        <l n="35">[blank]</l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]</l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0005_text">
+                <div type="page" n="r.0005" xml:id="nb07_02_03_0005_recto_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0005-recto.jpeg"
+                        n="0005-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of lines 10-11 is in
+                        pencil. MM places a right curly bracket to the left of "Plato" at the end of
+                        lines 10 and 11.!&amp;gt;</desc>
+                    <lg>
+                        <l n="01">[blank]                                       <bibl type="begin"/>Aristotle: The Poetics</l>
+                        <l n="02">[blank]                                      "Longinus" on the Sublime                                   1932</l>
+                        <l n="03">[blank]              With an Eng. Trans by W. Hamilton Fyfe. London Wm. Heinemann</l>
+                        <l n="04">[blank]               also Demetrius on Style.<bibl type="end"/><note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. and trans. Aristotle, <hi rend="italics">The Poetics</hi>; "Longinus": <hi rend="italics">On the Sublime</hi>; Demetrius, <hi rend="italics">On Style</hi>. [1927.] Revised edition. London: Heinemann, 1932. This Loeb Classical Library edition (originally published in 1927) brought together Fyfe's new translations of Aristotle and Longinus with Roberts's well established 1902 translation of Demetrius. </note></l>
+                        <l n="05">[blank]  X  <quote rend="begin"><note>MM takes notes on Fyfe's "Introduction" to Aristotle and Longinus on this and the next page.</note></quote>Even Aristotle was catholic enough to maintain that "the many" are better</l>
+                        <l n="06">[blank]       judges of poetry than the expert few.     IX In the 5th c. their "ethical twist" puts</l>
+                        <l n="07">[blank]       them out of court as literary critics.     X Plato is the first Greek who</l>
+                        <l n="08">[blank]       really graduated in literary criticism. He valued art for its moral effect on</l>
+                        <l n="09">[blank]       conduct . . . But he valued it too for its own sake.</l>
+                        <l n="10">[blank]      <hi rend="pencil">|</hi> <hi rend="underline">[The artist’s] power is a spiritual magnetism . . . . . this fascination—a</hi> </l>
+                        <l n="11">[blank]            <foreign xml:lang="grc">ψυχαγωγία</foreign> <hi rend="underline">or conjuring of the soul—is the object of Art</hi>.<note>MM cites these phrases in "Feeling and Precision" (<hi rend="italics">Prose</hi> 398). </note>                       Plato</l>
+                        <l n="12">[blank]       Wonderful creatures, these poets, but out they must go. They endanger the ideals</l>
+                        <l n="13">[blank]       of citizenship . . . . ."Art does not deal in truth. It is 3 removes fr. truth."</l>
+                        <l n="14">[blank]   . . . . What do we want with an imitation of an imitation? And in the <hi rend="underline">Phaedrus</hi>—</l>
+                        <l n="15">[blank]       where his enthus. for literature is not concealed . . . books are unsatisfactory,</l>
+                        <l n="16">[blank]       because <del>they</del> you can’t cross-examine them. "They go on saying the same thing</l>
+                        <l n="17">[blank]       over and over."</l>
+                        <l n="18">[blank]            It is this view that Aristotle combats, finding the answer in</l>
+                        <l n="19">[blank]       Plato’s own mouth. It is not the "particulars" of sense that Art</l>
+                        <l n="20">[blank]       represents but "universal" Truths,—the inner interpretation of</l>
+                        <l n="21">[blank]       the mind . . . . . So Poetry is not 3 removes fr. truth: it comes nearer</l>
+                        <l n="22">[blank]       the truth than any other human process, since it records "not what</l>
+                        <l n="23">[blank]       did happen but what would happen." <del>and</del> Poetics ch. IX §1</l>
+                        <l n="24">[blank]                                            <add>human</add> </l>
+                        <l n="25">[blank]       and disentangles from incidents the principles on which life works. </l>
+                        <l n="26">[blank]       The truth of art is higher than the truth of fact.</l>
+                        <l n="27">[blank]                              <add>. . .</add> </l>
+                        <l n="28">[blank]            Of course    emotions are dangerous . . . . but Art is their medical </l>
+                        <l n="29">[blank]        outlet (<foreign xml:lang="grc">κάθαρσις</foreign>)                                 <add>not</add></l>
+                        <l n="30">[blank]            That one’s emotions can be stirred by the facts of life but by their</l>
+                        <l n="31">[blank]      artistic representation seems to have been Aristotles own discovery.</l>
+                        <l n="32">[blank]                                                                                                     <add>what makes it diff</add> </l>
+                        <l n="33">[blank]            Also his treatment of style: a poem is diff. from prose . . . Not only the metre</l>
+                        <l n="34">[blank]      but the vocabulary. “Strange words” a mixture of strange and ordinary<quote rend="end"/> </l>
+                        <l n="35">[blank]</l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]</l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0006_text">
+                <div type="page" n="v.0006" xml:id="nb07_02_03_0006_verso_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0006-verso.jpeg"
+                        n="0006-verso"/>
+                    <desc>[Page-level Description] &amp;lt;!MM circles the numbers 1, 2, 3 and 4 in
+                        lines 01-05.!&amp;gt;</desc>
+                    <lg>
+                        <l n="01">[blank]                  <quote rend="begin"/><note>Fyfe, “Introduction.” Fyfe and Roberts, <hi rend="italics">Poetics</hi> (see earlier note). </note>And it is the same with "plot" 1 A plot must <hi rend="underline">have unity</hi> be <hi rend="underline">one</hi></l>
+                        <l n="02">[blank]                    story not                                      several</l>
+                        <l n="03">[blank]                 2 <hi rend="underline">must not be so long</hi> the audience forgets the beginning</l>
+                        <l n="04">[blank]                 3 hero must be "heroic" &amp; cause his fate but not deserve it.</l>
+                        <l n="05">[blank]                 4 chorus must play its part, psychology must be subordinate to plot</l>
+                        <l n="06">[blank]                     His conclusions are impeccable but they allow the crudest</l>
+                        <l n="07">[blank]                     melodrama to rank with the Oedipus Tyrannus &amp; above the Agamemnon.</l>
+                        <l n="08">[blank]                     That the Gr. tragedians were prophets he seems unaware</l>
+                        <l n="09">[blank]                     not a hint that Tragedy arose as a means of interpreting <del>history</del> the</l>
+                        <l n="10">[blank]                     saga stories in the light of a later morality.</l>
+                        <l n="11">[blank]                             . . . . His dissection discovers all the great first principles</l>
+                        <l n="12">[blank]                     except the principle of life.</l>
+                        <l n="13">[blank] </l>
+                        <l n="14">[blank]          XVI  All rules for writing are rules for writing badly—</l>
+                        <l n="15">[blank]                    the supreme quality is infecting <del>with</del> his audience w. enthusiasm</l>
+                        <l n="16">[blank]        XVII   This supreme quality “Longinus” possesses. Gibbon in his</l>
+                        <l n="17">[blank]                    Journal: Till now, I was acquainted only with 2 ways of</l>
+                        <l n="18">[blank]                    criticizing a beautiful passage, . . . to show by exact anatomy whence</l>
+                        <l n="19">[blank]                    they <del>had</del> sprung; the other an idle exclamation or encomium</l>
+                        <l n="20">[blank]                    Longinus has shown me that there is a third. He tells</l>
+                        <l n="21">[blank]                    me his own feelings upon reading it,—&amp; tells them with</l>
+                        <l n="22">[blank] ENERGY  such energy that he communicates them.</l>
+                        <l n="23">[blank]                   (<foreign xml:lang="grc">ἔκστσις</foreign>)  expression of a forceful human character</l>
+                        <l n="24">[blank]                    Just as fine glass or well cast iron rings true to the stroke,</l>
+                        <l n="25">[blank]                    so grandeur or sublimity in art gives the unmistakable</l>
+                        <l n="26">[blank]                   “ring” of a great soul. Style is the shadow of a personality.”</l>
+                        <l n="27">[blank]                    The chief means by which personality can thus be expressed</l>
+                        <l n="28">[blank]                    are beautiful words, but . . . . sincerity is essential, a mind full</l>
+                        <l n="29">[blank]                    of meaning</l>
+                        <l n="30">[blank]                    Longinus: The one essential is genuine feeling</l>
+                        <l n="31">[blank]                   . . . here is a critic who makes it clear at that lit. is a function</l>
+                        <l n="32">[blank]                   of life and that those who, having something to say, have learnt</l>
+                        <l n="33">[blank]                    how to say it create a revelation as sweet to the world as the making</l>
+                        <l n="34">[blank]                   of it is to them.<quote rend="end"/> </l>
+                        <l n="35">[blank]</l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]</l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
