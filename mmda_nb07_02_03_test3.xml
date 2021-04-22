@@ -10239,6 +10239,8 @@
                     </lg>
                 </div>
             </div>
+            <!-- begin first batch of invalid objects 
+                
             <div type="image" xml:id="nb07_02_03_0169_text">
                 <div type="page" n="r.0169" xml:id="nb07_02_03_0169_recto_text">
                     <pb
@@ -10417,6 +10419,8 @@
                     </lg>
                 </div>
             </div>
+            -->
+            
         </body>
     </text>
 </TEI>
