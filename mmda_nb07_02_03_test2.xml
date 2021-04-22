@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?>
-<TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <teiHeader>
             <fileDesc>
@@ -50,9 +47,7 @@
                 <sourceDesc>
                     <msDesc>
                         <msIdentifier>
-                            <repository> Marianne Moore Collection, Rosenbach Museum and Library,
-                                Philadelphia, PA
-                                (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
+                            <repository> Marianne Moore Collection, Rosenbach Museum and Library, Philadelphia, PA (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
                             <idno>VII.01.04</idno>
                         </msIdentifier>
                     </msDesc>
@@ -132,7 +127,6 @@
 
         </encodingDesc> -->
     </teiHeader>
-    <!-- Add facsimile element here with zone elements, when ready. -->
     <!-- Add facsimile element here with zone elements, when ready. -->
     <text>
         <body>
@@ -10410,7 +10404,7 @@
                         <l n="40">[blank]</l>
                     </lg>
                     <lg type="vertical">
-                        <l n="v01">[vertical line] &amp;lt;!desc: lines36-27, left margin, to right of page number on line 32!&amp;gt;split bet. form &amp; content</l>
+                        <l n="v01">[vertical line] &amp;lt;!desc: lines 36-27, left margin, to right of page number on line 32!&amp;gt;split bet. form &amp; content</l>
                         <l n="v02">[vertical line]</l>
                         <l n="v03">[vertical line]</l>
                         <l n="v04">[vertical line]</l>
