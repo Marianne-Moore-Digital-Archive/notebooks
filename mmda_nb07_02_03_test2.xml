@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?>
 <TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <teiHeader>
@@ -130,6 +132,7 @@
 
         </encodingDesc> -->
     </teiHeader>
+    <!-- Add facsimile element here with zone elements, when ready. -->
     <!-- Add facsimile element here with zone elements, when ready. -->
     <text>
         <body>
