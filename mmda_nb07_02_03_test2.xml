@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?>
+<TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <teiHeader>
             <fileDesc>
@@ -47,7 +48,9 @@
                 <sourceDesc>
                     <msDesc>
                         <msIdentifier>
-                            <repository> Marianne Moore Collection, Rosenbach Museum and Library, Philadelphia, PA (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
+                            <repository> Marianne Moore Collection, Rosenbach Museum and Library,
+                                Philadelphia, PA
+                                (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
                             <idno>VII.01.04</idno>
                         </msIdentifier>
                     </msDesc>
@@ -6427,7 +6430,6 @@
                     </lg>
                 </div>
             </div>
-            <!--
             <div type="image" xml:id="nb07_02_03_0106_text">
                 <div type="page" n="v.0106" xml:id="nb07_02_03_0106_verso_text">
                     <pb
@@ -7337,7 +7339,6 @@
                     </lg>
                 </div>
             </div>
-            
             <div type="image" xml:id="nb07_02_03_0121_text">
                 <div type="page" n="r.0121" xml:id="nb07_02_03_0121_recto_text">
                     <pb
@@ -10415,7 +10416,6 @@
                     </lg>
                 </div>
             </div>
-            -->
         </body>
     </text>
 </TEI>
