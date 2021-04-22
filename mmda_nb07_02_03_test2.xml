@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?>
+<TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <teiHeader>
             <fileDesc>
@@ -134,7 +135,9 @@
         <body>
             <div type="image" xml:id="nb07_02_03_0001_text">
                 <div type="page" n="r.0001" xml:id="nb07_02_03_0001_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0001-recto.jpeg" n="0001-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0001-recto.jpeg"
+                        n="0001-recto"/>
                     <desc>[Outside front cover.]</desc>
                     <lg>
                         <l n="01">[No handwriting on this page.]</l>
@@ -190,7 +193,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0002_text">
                 <div type="page" n="v.0002" xml:id="nb07_02_03_0002_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0002-verso.jpeg" n="0002-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0002-verso.jpeg"
+                        n="0002-verso"/>
                     <desc>[Inside front cover.]</desc>
                     <lg>
                         <l n="01">[blank] <hi rend="pencil">1250/4</hi> <note>These numbers were entered by Rosenbach staff before they moved to the roman numeral system (VII.02.03 for this notebook).</note></l>
@@ -246,7 +251,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0003_text">
                 <div type="page" n="r.0003" xml:id="nb07_02_03_0003_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0003-recto.jpeg" n="0003-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0003-recto.jpeg"
+                        n="0003-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01"/>
@@ -302,7 +309,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0004_text">
                 <div type="page" n="v.0004" xml:id="nb07_02_03_0004_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0004-verso.jpeg" n="0004-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0004-verso.jpeg"
+                        n="0004-verso"/>
                     <desc>[No handwriting on this page.]</desc>
                     <lg>
                         <l n="01">[blank]</l>
@@ -358,7 +367,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0005_text">
                 <div type="page" n="r.0005" xml:id="nb07_02_03_0005_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0005-recto.jpeg" n="0005-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0005-recto.jpeg"
+                        n="0005-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 10-11 is in
                         pencil. MM places a right curly bracket to the left of "Plato" at the end of
                         lines 10 and 11.!&amp;gt;</desc>
@@ -416,7 +427,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0006_text">
                 <div type="page" n="v.0006" xml:id="nb07_02_03_0006_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0006-verso.jpeg" n="0006-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0006-verso.jpeg"
+                        n="0006-verso"/>
                     <desc>[Page-level Description] &amp;lt;!MM circles the numbers 1, 2, 3 and 4 in
                         lines 01-05.!&amp;gt;</desc>
                     <lg>
@@ -473,7 +486,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0007_text">
                 <div type="page" n="r.0007" xml:id="nb07_02_03_0007_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0007-recto.jpeg" n="0007-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0007-recto.jpeg"
+                        n="0007-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM places a left curly bracket to the
                         left of the two phrases beginning "partly by" that end lines 07 and
                         08.&amp;gt;</desc>
@@ -531,7 +546,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0008_text">
                 <div type="page" n="v.0008" xml:id="nb07_02_03_0008_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0008-verso.jpeg" n="0008-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0008-verso.jpeg"
+                        n="0008-verso"/>
                     <desc>[Page-level Description] &amp;lt;!MM places a right curly bracket to the
                         right of the six words (from "plot" to "song") listed in lines 08-13. MM
                         circles the numbers 1, 2, and 3 in lines 21-22.!&amp;gt;</desc>
@@ -587,7 +604,9 @@
                     </lg>
                 </div>
                 <div type="page" n="r.0009" xml:id="nb07_02_03_0009_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0009-recto.jpeg" n="0009-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0009-recto.jpeg"
+                        n="0009-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws a vertical stroke to the left
                         of the text on lines 16-17. She places a right curly bracket to the right of
                         the words of the first half of lines 16-17 and a left curly bracket to the
@@ -646,7 +665,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0010_text">
                 <div type="page" n="v.0010" xml:id="nb07_02_03_0010_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0010-verso.jpeg" n="0010-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0010-verso.jpeg"
+                        n="0010-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] 43   <quote rend="begin"/><note>Aristotle, <hi rend="italics">Poetics</hi>. Fyfe and Roberts, <hi rend="italics">Poetics</hi> (see earlier note).</note>Constituent parts,—Prologue, Episode, Exode, Choral Song—</l>
@@ -706,7 +727,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0011_text">
                 <div type="page" n="r.0011" xml:id="nb07_02_03_0011_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0011-recto.jpeg" n="0011-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0011-recto.jpeg"
+                        n="0011-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM places a left curly bracket pointing
                         to the word "plot" to the left of the four words listed at the beginning of
                         lines 17-20. She places right curly bracket to the right of the first two
@@ -769,7 +792,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0012_text">
                 <div type="page" n="v.0012" xml:id="nb07_02_03_0012_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0012-verso.jpeg" n="0012-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0012-verso.jpeg"
+                        n="0012-verso"/>
                     <desc>[Page-level Description] &amp;lt;!In line 03 MM draws a series of
                         individual strokes beneath the underlining. Parentheses enclose the phrases
                         at the ends of lines 07 and 08. She places a right curly bracket to the
@@ -833,7 +858,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0013_text">
                 <div type="page" n="r.0013" xml:id="nb07_02_03_0013_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0013-recto.jpeg" n="0013-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0013-recto.jpeg"
+                        n="0013-recto"/>
                     <desc>[Page-level Description] &amp;lt;! A vertical bar is placed to the left of
                         lines 07-08. MM draws a series of x's through the underlining on line
                         25.!&amp;gt;</desc>
@@ -891,7 +918,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0014_text">
                 <div type="page" n="v.0014" xml:id="nb07_02_03_0014_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0014-verso.jpeg" n="0014-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0014-verso.jpeg"
+                        n="0014-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] Dionysius or LONGINUS on the Sublime</l>
@@ -947,7 +976,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0015_text">
                 <div type="page" n="r.0015" xml:id="nb07_02_03_0015_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0015-recto.jpeg" n="0015-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0015-recto.jpeg"
+                        n="0015-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 01 is in red
                         pencil. In line 14 the "5" is doubly underlined. MM circles the number 1 on
                         line 15 and the numbers from 2 to 5 on lines 19-22. A right curly bracket
@@ -1006,7 +1037,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0016_text">
                 <div type="page" n="v.0016" xml:id="nb07_02_03_0016_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0016-verso.jpeg" n="0016-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0016-verso.jpeg"
+                        n="0016-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] 157   <quote rend="begin"/><note>Longinus, <hi rend="italics">On the Sublime</hi>. Fyfe and Roberts, <hi rend="italics">Poetics</hi> (see earlier note).</note>She chooses the most striking &amp; combines them into a single whole.</l>
@@ -1062,7 +1095,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0017_text">
                 <div type="page" n="r.0017" xml:id="nb07_02_03_0017_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0017-recto.jpeg" n="0017-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0017-recto.jpeg"
+                        n="0017-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws a vertical bar in pencil to the
                         left of lines 15-17. In line 17 the underlining is triple and in pencil. In
                         line 18 the underlining is double.!&amp;gt;</desc>
@@ -1120,7 +1155,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0018_text">
                 <div type="page" n="v.0018" xml:id="nb07_02_03_0018_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0018-verso.jpeg" n="0018-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0018-verso.jpeg"
+                        n="0018-verso"/>
                     <desc>[Page-level Description] &amp;lt;!Underlining of line 21 is in red
                         pencil.!&amp;gt;</desc>
                     <lg>
@@ -1177,7 +1214,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0019_text">
                 <div type="page" n="r.0019" xml:id="nb07_02_03_0019_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0019-recto.jpeg" n="0019-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0019-recto.jpeg"
+                        n="0019-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM underlines lines 01-02 and marks a
                         double bar to the left of the text with red pencil. She places a vertical
                         bar to the left of the text on lines 04-05. She places a left curly bracket
@@ -1237,7 +1276,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0020_text">
                 <div type="page" n="v.0020" xml:id="nb07_02_03_0020_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0020-verso.jpeg" n="0020-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0020-verso.jpeg"
+                        n="0020-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining in line 23 is in pencil.
                         MM draws a curly bracket to connect the words listed in lines
                         26-29.!&amp;gt;</desc>
@@ -1296,7 +1337,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0021_text">
                 <div type="page" n="r.0021" xml:id="nb07_02_03_0021_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0021-recto.jpeg" n="0021-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0021-recto.jpeg"
+                        n="0021-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM connects lines 05-06 with a left
                         parenthesis. She places two vertical bars in pencil to the left of the page
                         number for lines 07-08. From lines 10-12 MM draws a line to set off the
@@ -1357,7 +1400,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0022_text">
                 <div type="page" n="v.0022" xml:id="nb07_02_03_0022_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0022-verso.jpeg" n="0022-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0022-verso.jpeg"
+                        n="0022-verso"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws a vertical bar in pencil to the
                         left of the text on lines 23-25.!&amp;gt;</desc>
                     <lg>
@@ -1414,7 +1459,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0023_text">
                 <div type="page" n="r.0023" xml:id="nb07_02_03_0023_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0023-recto.jpeg" n="0023-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0023-recto.jpeg"
+                        n="0023-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 8 is in pencil.
                         MM draws a vertical bar in pencil to the left of the text on lines 31-33.
                         The five vertical bars to the left of line 29 are in pencil. The underlining
@@ -1473,7 +1520,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0024_text">
                 <div type="page" n="v.0024" xml:id="nb07_02_03_0024_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0024-verso.jpeg" n="0024-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0024-verso.jpeg"
+                        n="0024-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]                       <quote rend="begin"/><note>Demetrius, <hi rend="italics">On Style</hi>. Fyfe and Roberts, <hi rend="italics">Poetics</hi> (see earlier note).</note>“Her bow lay strung, her quiver full, her buckler by her head;”</l>
@@ -1529,7 +1578,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0025_text">
                 <div type="page" n="r.0025" xml:id="nb07_02_03_0025_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0025-recto.jpeg" n="0025-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0025-recto.jpeg"
+                        n="0025-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 21 is
                         double.!&amp;gt;</desc>
                     <lg>
@@ -1586,7 +1637,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0026_text">
                 <div type="page" n="v.0026" xml:id="nb07_02_03_0026_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0026-verso.jpeg" n="0026-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0026-verso.jpeg"
+                        n="0026-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining in lines 09, 11 and 12
                         is double. MM draws two short slashes in the middle of the double underline
                         of line 12.!&amp;gt;</desc>
@@ -1644,7 +1697,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0027_text">
                 <div type="page" n="r.0027" xml:id="nb07_02_03_0027_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0027-recto.jpeg" n="0027-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0027-recto.jpeg"
+                        n="0027-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The word "brutally" is contained within
                         two long slashes. MM places a left curly bracket to the left of the text of
                         lines 18-21.!&amp;gt;</desc>
@@ -1702,7 +1757,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0028_text">
                 <div type="page" n="v.0028" xml:id="nb07_02_03_0028_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0028-verso.jpeg" n="0028-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0028-verso.jpeg"
+                        n="0028-verso"/>
                     <desc>[Page-level Description] &amp;lt;!MM places a left curly bracket to the
                         left of the phrase "The graceful and / The plain" across lines 14 and 15.
                         The underlining of line 16 and line 27 is double. MM circles the numbers 1
@@ -1761,7 +1818,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0029_text">
                 <div type="page" n="r.0029" xml:id="nb07_02_03_0029_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0029-recto.jpeg" n="0029-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0029-recto.jpeg"
+                        n="0029-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]               <quote rend="begin"/><note>Demetrius, <hi rend="italics">On Style</hi>. Fyfe and Roberts, <hi rend="italics">Poetics</hi> (see earlier note).</note>symbolic expressions are forcible yr cicadas shall chirp from the</l>
@@ -1816,7 +1875,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0030_text">
                 <div type="page" n="v.0030" xml:id="nb07_02_03_0030_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0030-verso.jpeg" n="0030-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0030-verso.jpeg"
+                        n="0030-verso"/>
                     <desc>[Page-level Description] &amp;lt;!MM places a left curly bracket to the
                         left of the phrases listed at the end of lines 04-06.!&amp;gt;</desc>
                     <lg>
@@ -1873,7 +1934,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0031_text">
                 <div type="page" n="r.0031" xml:id="nb07_02_03_0031_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0031-recto.jpeg" n="0031-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0031-recto.jpeg"
+                        n="0031-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]                   <quote rend="begin"/>  <note>Demetrius, <hi rend="italics">On Style</hi>. Fyfe and Roberts, <hi rend="italics">Poetics</hi> (see earlier note).</note>By use of “yon” the pride of Craterus is rebuked.</l>
@@ -1929,7 +1992,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0032_text">
                 <div type="page" n="v.0032" xml:id="nb07_02_03_0032_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0032-verso.jpeg" n="0032-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0032-verso.jpeg"
+                        n="0032-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]                         <bibl type="begin"/>The Songs of Robert Burns<note>Burns, Robert (1759-1796). Scottish poet and lyricist who wrote in Scots dialect as well as in English. </note>                                Burns b. 1759</l>
@@ -1985,7 +2050,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0033_text">
                 <div type="page" n="r.0033" xml:id="nb07_02_03_0033_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0033-recto.jpeg" n="0033-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0033-recto.jpeg"
+                        n="0033-recto"/>
                     <desc>[Page-level Description] &amp;lt;!In line 08 "strathspeys" is doubly
                         underlined. MM draws a vertical line to the right of lines
                         14-16.!&amp;gt; </desc>
@@ -2043,7 +2110,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0034_text">
                 <div type="page" n="v.0034" xml:id="nb07_02_03_0034_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0034-verso.jpeg" n="0034-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0034-verso.jpeg"
+                        n="0034-verso"/>
                     <desc>[Page-level Description] &amp;lt;!In lines 08 and 09 "Museum" and "Scotish
                         Airs" are doubly underlined.!&amp;gt;</desc>
                     <lg>
@@ -2100,7 +2169,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0035_text">
                 <div type="page" n="r.0035" xml:id="nb07_02_03_0035_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0035-recto.jpeg" n="0035-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0035-recto.jpeg"
+                        n="0035-recto"/>
                     <desc>[Page-level Description] </desc>
                     <lg>
                         <l n="01">[blank]         <quote rend="begin"/><note>Dick, <hi rend="italics">Burns</hi> (see earlier note).</note> He undertook the cost of printing &amp; publishing. Burns</l>
@@ -2156,7 +2227,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0036_text">
                 <div type="page" n="v.0036" xml:id="nb07_02_03_0036_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0036-verso.jpeg" n="0036-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0036-verso.jpeg"
+                        n="0036-verso"/>
                     <desc>[Page-level Description] &amp;lt;!In line 01 "Auld Lang Syne" is doubly
                         underlined. In line 25 MM draws a line under and to the left of "thairfor"
                         to connect it to the text above.!&amp;gt;</desc>
@@ -2214,7 +2287,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0037_text">
                 <div type="page" n="r.0037" xml:id="nb07_02_03_0037_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0037-recto.jpeg" n="0037-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0037-recto.jpeg"
+                        n="0037-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM doubly underlines the capital "T" and
                         "W" on line 04.!&amp;gt;</desc>
                     <lg>
@@ -2271,7 +2346,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0038_text">
                 <div type="page" n="v.0038" xml:id="nb07_02_03_0038_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0038-verso.jpeg" n="0038-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0038-verso.jpeg"
+                        n="0038-verso"/>
                     <desc>[Page-level Description] &amp;lt;!Parentheses enclose "weaver" and
                         "webster" across lines 02 and 03. MM draws musical notes on lines
                         11-12.!&amp;gt;</desc>
@@ -2329,7 +2406,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0039_text">
                 <div type="page" n="r.0039" xml:id="nb07_02_03_0039_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0039-recto.jpeg" n="0039-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0039-recto.jpeg"
+                        n="0039-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <lg>
@@ -2390,7 +2469,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0040_text">
                 <div type="page" n="v.0040" xml:id="nb07_02_03_0040_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0040-verso.jpeg" n="0040-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0040-verso.jpeg"
+                        n="0040-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] p. 369<quote rend="begin"/>       <note>Dick, <hi rend="italics">Burns</hi> (see earlier note).</note>No. 51     <seg type="versebegin"/>Adown winding Nith I did wander</l>
@@ -2446,7 +2527,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0041_text">
                 <div type="page" n="r.0041" xml:id="nb07_02_03_0041_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0041-recto.jpeg" n="0041-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0041-recto.jpeg"
+                        n="0041-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <lg>
@@ -2506,7 +2589,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0042_text">
                 <div type="page" n="v.0042" xml:id="nb07_02_03_0042_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0042-verso.jpeg" n="0042-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0042-verso.jpeg"
+                        n="0042-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <lg>
@@ -2568,7 +2653,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0043_text">
                 <div type="page" n="r.0043" xml:id="nb07_02_03_0043_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0043-recto.jpeg" n="0043-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0043-recto.jpeg"
+                        n="0043-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM's underlining on lines 20-21 is a
                         series of strokes.!&amp;gt;</desc>
                     <lg>
@@ -2629,7 +2716,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0044_text">
                 <div type="page" n="v.0044" xml:id="nb07_02_03_0044_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0044-verso.jpeg" n="0044-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0044-verso.jpeg"
+                        n="0044-verso"/>
                     <desc>[Page-level Description] &amp;lt;!MM encloses the two words at the end of
                         lines 04 and 05 in curly brackets. She doubly underlines the title in line
                         08.!&amp;gt;</desc>
@@ -2687,7 +2776,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0045_text">
                 <div type="page" n="r.0045" xml:id="nb07_02_03_0045_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0045-recto.jpeg" n="0045-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0045-recto.jpeg"
+                        n="0045-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <quote rend="begin"/><note>Dick, <hi rend="italics">Burns</hi> (see earlier note). </note>This Dunlop Manuscript, incomplete, is in the possession of</l>
@@ -2743,7 +2834,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0046_text">
                 <div type="page" n="v.0046" xml:id="nb07_02_03_0046_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0046-verso.jpeg" n="0046-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0046-verso.jpeg"
+                        n="0046-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]                    454     <quote rend="begin"/> <note>Dick, <hi rend="italics">Burns</hi> (see earlier note).</note> 264          <hi rend="underline">The Curse</hi>, written after the Union was</l>
@@ -2799,7 +2892,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0047_text">
                 <div type="page" n="r.0047" xml:id="nb07_02_03_0047_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0047-recto.jpeg" n="0047-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0047-recto.jpeg"
+                        n="0047-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] 479     <quote rend="begin"/><note>Dick, <hi rend="italics">Burns</hi> (see earlier note).</note> No 319      Ken ye ought o’ Captain Grose?                Captain Grose the</l>
@@ -2855,7 +2950,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0048_text">
                 <div type="page" n="v.0048" xml:id="nb07_02_03_0048_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0048-verso.jpeg" n="0048-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0048-verso.jpeg"
+                        n="0048-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]             <quote rend="begin"/> <note>Dick, <hi rend="italics">Burns</hi> (see earlier note).  </note><del>It</del> I have not ascertained whether Burns communicated to</l>
@@ -2911,7 +3008,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0049_text">
                 <div type="page" n="r.0049" xml:id="nb07_02_03_0049_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0049-recto.jpeg" n="0049-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0049-recto.jpeg"
+                        n="0049-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM doubly underlines title in line
                         10.!&amp;gt;</desc>
                     <lg>
@@ -2968,7 +3067,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0050_text">
                 <div type="page" n="v.0050" xml:id="nb07_02_03_0050_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0050-verso.jpeg" n="0050-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0050-verso.jpeg"
+                        n="0050-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]  230     <quote rend="begin"/> <note>Dick, <hi rend="italics">Burns</hi> (see earlier note).</note>No 254:</l>
@@ -3024,7 +3125,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0051_text">
                 <div type="page" n="r.0051" xml:id="nb07_02_03_0051_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0051-recto.jpeg" n="0051-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0051-recto.jpeg"
+                        n="0051-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM doubly underlines the title in line
                         10. She adds a wavy line beneath the underlining in line 20.!&amp;gt;</desc>
                     <lg>
@@ -3081,7 +3184,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0052_text">
                 <div type="page" n="v.0052" xml:id="nb07_02_03_0052_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0052-verso.jpeg" n="0052-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0052-verso.jpeg"
+                        n="0052-verso"/>
                     <desc>[Page-level Description] &amp;lt;!In lines 19-20 MM distinguishes James's
                         underscores from her own by doubling his with a wavy line. She circles the
                         "4" in line 26. She draws a red vertical bar to the left of the text on
@@ -3141,7 +3246,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0053_text">
                 <div type="page" n="r.0053" xml:id="nb07_02_03_0053_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0053-recto.jpeg" n="0053-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0053-recto.jpeg"
+                        n="0053-recto"/>
                     <desc>[Page-level Description] &amp;lt;MM draws a vertical bar in red pencil to
                         the left of lines 06-08. The underlining in line 07 is in red pencil. The
                         "i" of "Piazza" in line 19 is dotted with red pencil. The "a" of "case" in
@@ -3203,7 +3310,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0054_text">
                 <div type="page" n="v.0054" xml:id="nb07_02_03_0054_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0054-verso.jpeg" n="0054-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0054-verso.jpeg"
+                        n="0054-verso"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws short slashes through the
                         underlining of the four words on line 10. The underlining of the words on
                         lines 11, 22, and 23 is doubled with a wavy line.!&amp;gt;</desc>
@@ -3261,7 +3370,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0055_text">
                 <div type="page" n="r.0055" xml:id="nb07_02_03_0055_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0055-recto.jpeg" n="0055-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0055-recto.jpeg"
+                        n="0055-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM rewrites an ellipsis under another
                         one in line 12. She draws three small horizontal strokes through the opening
                         parenthesis of line 15. The page at the end of lines 29-31 is water stained.
@@ -3321,7 +3432,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0056_text">
                 <div type="page" n="v.0056" xml:id="nb07_02_03_0056_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0056-verso.jpeg" n="0056-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0056-verso.jpeg"
+                        n="0056-verso"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws a red vertical bar to the left
                         of the text on lines 30-31. She draws two wavy lines through lines 19-20 to
                         include the added word below.!&amp;gt;</desc>
@@ -3379,7 +3492,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0057_text">
                 <div type="page" n="r.0057" xml:id="nb07_02_03_0057_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0057-recto.jpeg" n="0057-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0057-recto.jpeg"
+                        n="0057-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws a vertical bar in pencil to the
                         left of the text on lines 12-13. The underlining of line 36 is doubled with
                         a wavy line.!&amp;gt;</desc>
@@ -3445,7 +3560,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0058_text">
                 <div type="page" n="v.0058" xml:id="nb07_02_03_0058_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0058-verso.jpeg" n="0058-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0058-verso.jpeg"
+                        n="0058-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 07 is doubled
                         with a wavy line. The underlining of the deleted word on line 29 is doubled
                         with a wavy line.!&amp;gt;</desc>
@@ -3505,7 +3622,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0059_text">
                 <div type="page" n="r.0059" xml:id="nb07_02_03_0059_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0059-recto.jpeg" n="0059-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0059-recto.jpeg"
+                        n="0059-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]                           <quote rend="begin"/> <note>James, <hi rend="italics">Novel</hi> (see earlier note).</note> more deeply wondering, to the really sentient.</l>
@@ -3561,7 +3680,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0060_text">
                 <div type="page" n="v.0060" xml:id="nb07_02_03_0060_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0060-verso.jpeg" n="0060-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0060-verso.jpeg"
+                        n="0060-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining in lines 16-17 is in red
                         pencil. The first instance of the word "are" in line 16 is underlined doubly
                         with a wavy line.!&amp;gt;</desc>
@@ -3619,7 +3740,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0061_text">
                 <div type="page" n="r.0061" xml:id="nb07_02_03_0061_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0061-recto.jpeg" n="0061-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0061-recto.jpeg"
+                        n="0061-recto"/>
                     <desc>[Page-level Description] &amp;lt;!A light stroke is drawn through the word
                         "thick" in line 22.!&amp;gt;</desc>
                     <lg>
@@ -3676,7 +3799,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0062_text">
                 <div type="page" n="v.0062" xml:id="nb07_02_03_0062_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0062-verso.jpeg" n="0062-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0062-verso.jpeg"
+                        n="0062-verso"/>
                     <desc>[Page-level Description]  </desc>
                     <lg>
                         <l n="01">[blank]                      <quote rend="begin"/><note>James, <hi rend="italics">Novel</hi> (see earlier note).</note> Miriam . . . in a complexity of relations finer than any</l>
@@ -3732,7 +3857,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0063_text">
                 <div type="page" n="r.0063" xml:id="nb07_02_03_0063_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0063-recto.jpeg" n="0063-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0063-recto.jpeg"
+                        n="0063-recto"/>
                     <desc>[Page-level Description] <desc>&amp;lt;!A long opening parenthesis is
                             faintly drawn to the left of the text on lines 19-25 and a small faint
                             circle is placed to the left of it. MM draws a vertical bar in pencil to
@@ -3792,7 +3919,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0064_text">
                 <div type="page" n="v.0064" xml:id="nb07_02_03_0064_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0064-verso.jpeg" n="0064-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0064-verso.jpeg"
+                        n="0064-verso"/>
                     <desc>[Page-level Description] &amp;lt;!<desc><desc>A long opening parenthesis
                                 is faintly drawn to the left of the text on lines 06-08 and a small
                                 faint circle is placed to the left of it. In line 22 a long concave
@@ -3852,7 +3981,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0065_text">
                 <div type="page" n="r.0065" xml:id="nb07_02_03_0065_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0065-recto.jpeg" n="0065-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0065-recto.jpeg"
+                        n="0065-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws a vertical bar in pencil to the
                         left of the main text on lines 03-06. She places an opening parenthesis to
                         the left of the text of lines 07-08. She draws two vertical bars in pencil
@@ -3911,7 +4042,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0066_text">
                 <div type="page" n="v.0066" xml:id="nb07_02_03_0066_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0066-verso.jpeg" n="0066-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0066-verso.jpeg"
+                        n="0066-verso"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws a vertical bar in pencil to the
                         left of the text of lines 15-19.!&amp;gt;</desc>
                     <lg>
@@ -3968,7 +4101,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0067_text">
                 <div type="page" n="r.0067" xml:id="nb07_02_03_0067_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0067-recto.jpeg" n="0067-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0067-recto.jpeg"
+                        n="0067-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]                            155<quote rend="begin"/>            <note>James, <hi rend="italics">Novel</hi> (see earlier note).</note>To criticize is to appreciate, to appropriate, to take</l>
@@ -4024,7 +4159,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0068_text">
                 <div type="page" n="v.0068" xml:id="nb07_02_03_0068_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0068-verso.jpeg" n="0068-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0068-verso.jpeg"
+                        n="0068-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 01, 16, 19 and
                         23 is doubled with a wavy line.!&amp;gt;</desc>
                     <lg>
@@ -4081,7 +4218,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0069_text">
                 <div type="page" n="r.0069" xml:id="nb07_02_03_0069_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0069-recto.jpeg" n="0069-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0069-recto.jpeg"
+                        n="0069-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM places a horizontal bar above and
                         below the word "of" on line 11.!&amp;gt;</desc>
                     <lg>
@@ -4138,7 +4277,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0070_text">
                 <div type="page" n="v.0070" xml:id="nb07_02_03_0070_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0070-verso.jpeg" n="0070-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0070-verso.jpeg"
+                        n="0070-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 03 and 24 is
                         doubled with a wavy line. An arrow beginning at "The Liar" in line 26 curves
                         downward to point to the first words of line 29.!&amp;gt;</desc>
@@ -4196,7 +4337,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0071_text">
                 <div type="page" n="r.0071" xml:id="nb07_02_03_0071_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0071-recto.jpeg" n="0071-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0071-recto.jpeg"
+                        n="0071-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 02, 14, 18, and
                         28 is doubled with a wavy line.!&amp;gt;</desc>
                     <lg>
@@ -4253,7 +4396,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0072_text">
                 <div type="page" n="v.0072" xml:id="nb07_02_03_0072_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0072-verso.jpeg" n="0072-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0072-verso.jpeg"
+                        n="0072-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 02, 04, and 11
                         is doubled with a wavy line.  To the right of the first use of the word
                         "Europe" on line 08 MM draws the lower half of a square bracket, like an
@@ -4313,7 +4458,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0073_text">
                 <div type="page" n="r.0073" xml:id="nb07_02_03_0073_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0073-recto.jpeg" n="0073-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0073-recto.jpeg"
+                        n="0073-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 05 and 15 and 
                         is doubled with a wavy line. MM draws a vertical line to the left of the
                         text on lines 13-15.!&amp;gt;</desc>
@@ -4371,7 +4518,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0074_text">
                 <div type="page" n="v.0074" xml:id="nb07_02_03_0074_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0074-verso.jpeg" n="0074-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0074-verso.jpeg"
+                        n="0074-verso"/>
                     <desc>[Page-level Description] &amp;lt;!"Figure in the Carpet" is faintly
                         legible in erased pencil to the left of the text on lines 13-14 and to the
                         right of that MM draws a left curly bracket with pencil. She draws a
@@ -4430,7 +4579,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0075_text">
                 <div type="page" n="r.0075" xml:id="nb07_02_03_0075_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0075-recto.jpeg" n="0075-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0075-recto.jpeg"
+                        n="0075-recto"/>
                     <desc>[Page-level Description] &amp;lt;!A short horizontal stroke is drawn from
                         the top of the opening parenthesis on line 20. The underlining of line 25 is
                         doubled with a wavy line.!&amp;gt;</desc>
@@ -4488,7 +4639,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0076_text">
                 <div type="page" n="v.0076" xml:id="nb07_02_03_0076_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0076-verso.jpeg" n="0076-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0076-verso.jpeg"
+                        n="0076-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining in lines 06 and 12-13 is
                         in red pencil.!&amp;gt;</desc>
                     <lg>
@@ -4545,7 +4698,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0077_text">
                 <div type="page" n="r.0077" xml:id="nb07_02_03_0077_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0077-recto.jpeg" n="0077-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0077-recto.jpeg"
+                        n="0077-recto"/>
                     <desc>[Page-level Description] &amp;lt;!Beneath the "m" of "metaphor" on line 06
                         is a convex arc in red pencil. MM places a vertical bar to the left of the
                         text on lines 06-09 in red pencil. The underlining of line 27 is double.
@@ -4605,7 +4760,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0078_text">
                 <div type="page" n="v.0078" xml:id="nb07_02_03_0078_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0078-verso.jpeg" n="0078-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0078-verso.jpeg"
+                        n="0078-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 15-16 is in red
                         pencil.!&amp;gt;</desc>
                     <lg>
@@ -4662,7 +4819,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0079_text">
                 <div type="page" n="r.0079" xml:id="nb07_02_03_0079_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0079-recto.jpeg" n="0079-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0079-recto.jpeg"
+                        n="0079-recto"/>
                     <desc>[Page-level Description] &amp;lt;!An opening parenthesis in red pencil is
                         placed to the left of the text on lines 02-03. A vertical stroke in red
                         pencil is placed to the left of the text on lines 04-06. The underlining of
@@ -4706,6 +4865,1259 @@
                         <l n="35">[blank]</l>
                         <l n="36">[blank]</l>
                         <l n="37">[blank]                      </l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0080_text">
+                <div type="page" n="v.0080" xml:id="nb07_02_03_0080_verso_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0080-verso.jpeg"
+                        n="0080-verso"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining in lines 08, 12, 17, and
+                        28 are doubled with a wavy line. The underlining of line 16 has four dots
+                        beneath it.!&amp;gt;</desc>
+                    <lg>
+                        <l n="01">[blank]                               <quote rend="begin"/> <note>James, <hi rend="italics">Novel</hi> (see earlier note).</note>I am able to estimate</l>
+                        <l n="02">[blank]                      309  The Ambassadors as . . . quite the best, “all round,” of my productions</l>
+                        <l n="03">[blank]</l>
+                        <l n="04">[blank]                      312   the artist sows his seed at the risk of too thick a crop;</l>
+                        <l n="05">[blank]                                . . . yet must keep his head at any price.</l>
+                        <l n="06">[blank]</l>
+                        <l n="07">[blank]                     320   the first person in the long piece is a form foredoomed to looseness</l>
+                        <l n="08">[blank]                     320   I couldn’t make other people tell <hi rend="underline">each other</hi> about him, blest</l>
+                        <l n="09">[blank]                                resource, blest necessity, of the drama, which reaches its</l>
+                        <l n="10">[blank]                                effects of unity . . . by paths . . . opposite to the paths of the</l>
+                        <l n="11">[blank]                               novel:</l>
+                        <l n="12">[blank]                      321   I could make him tell <hi rend="underline">them</hi> whatever . . . . he must;</l>
+                        <l n="13">[blank]                                          <add>equip him w the privilege of</add> </l>
+                        <l n="14">[blank]                      321   Why not ‸ subject &amp; object . . . as in Gil Blas &amp; D. Copperfield</l>
+                        <l n="15">[blank]                                                                                               <add>. . . . . . .</add> </l>
+                        <l n="16">[blank]                                only if prepared <hi rend="underline">not</hi> to make certain dis criminations.</l>
+                        <l n="17">[blank]                      321   conditions that forbid the terrible <hi rend="underline">fluidity</hi> of self-revelation</l>
+                        <l n="18">[blank]                                . . . I had thus inevitably to set him up a confidant or two.</l>
+                        <l n="19">[blank]</l>
+                        <l n="20">[blank]                      322   Maria Gostrey . without even the pretext of her being Strether’s</l>
+                        <l n="21">[blank]                                friend. She is the reader’s friend much rather</l>
+                        <l n="22">[blank]                                . . . fr beginning to end of the book. She is an</l>
+                        <l n="23">[blank]                                enrolled, a direct, aid to lucidity . . .</l>
+                        <l n="24">[blank]                                                                                                                                 <add>. . . . . . .</add> </l>
+                        <l n="25">[blank]                      324   how make Miss Gostrey’s false connexion carry itself as a</l>
+                        <l n="26">[blank]                                real one.</l>
+                        <l n="27">[blank]                           <add>Since however</add> </l>
+                        <l n="28">[blank]                      324   All art is <hi rend="underline">expression</hi>, &amp; is thereby vividness . . .</l>
+                        <l n="29">[blank]</l>
+                        <l n="30">[blank]                      326   the Novel remains . . . the most independent, most elastic,</l>
+                        <l n="31">[blank]                                most prodigious of literary forms<quote rend="end"/> </l>
+                        <l n="32">[blank]</l>
+                        <l n="33">[blank]</l>
+                        <l n="34">[blank]</l>
+                        <l n="35">[blank]</l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]</l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0081_text">
+                <div type="page" n="r.0081" xml:id="nb07_02_03_0081_recto_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0081-recto.jpeg"
+                        n="0081-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of lines 03-05 and 09-10
+                        is in red pencil. The underlining in lines 13 and 22 is doubled with a wavy
+                        line. MM places a vertical bar to the left of the text on lines 09-10. She
+                        places a left square bracket in red pencil to the left of the text on lines
+                        26-29!&amp;gt;</desc>
+                    <lg>
+                        <l n="01">[blank]                                 <quote rend="begin"/> <note>James, <hi rend="italics">Novel</hi> (see earlier note).</note>Preface to The Golden Bowl XXIII in NY ed.</l>
+                        <l n="02">[blank]                  327   I have . . . betrayed as an accepted habit, . . . my preference for</l>
+                        <l n="03">[blank]                            dealing with my subject-matter, for “<hi rend="underline">seeing my story</hi>,”</l>
+                        <l n="04">[blank]                            <hi rend="underline">through . . . the sensibility of some . . . interested &amp; intelligent</hi></l>
+                        <l n="05">[blank]                            <hi rend="underline">witness</hi> or reporter . . .</l>
+                        <l n="06">[blank]                            Again &amp; again, . . . the shorter things in especial have ranged</l>
+                        <l n="07">[blank]                            themselves not as my own impersonal account . . . but as my</l>
+                        <l n="08">[blank]                            account of somebody’s impression of it—the terms</l>
+                        <l n="09">[blank]                            of this person’s access to it &amp; estimate of <hi rend="underline">it contrib</hi>-</l>
+                        <l n="10">[blank]                            <hi rend="underline">uting thus . . . intensification of interest</hi></l>
+                        <l n="11">[blank]                            The somebody is often . . . but an unwarranted participant.</l>
+                        <l n="12">[blank]</l>
+                        <l n="13">[blank]                  328   the case <hi rend="underline">plus</hi> some near individual view of it;</l>
+                        <l n="14">[blank]</l>
+                        <l n="15">[blank]                            . . . the (author) . . . chanter can never be responsible <hi rend="underline">enough</hi> </l>
+                        <l n="16">[blank]                                          <add>painter</add> </l>
+                        <l n="17">[blank]                  330   It is the Prince who opens the door to half our light upon</l>
+                        <l n="18">[blank]                            Maggie, just as it is she who opens it to half our light upon</l>
+                        <l n="19">[blank]                            himself;</l>
+                        <l n="20">[blank]                       <add>our series of frontispieces</add> </l>
+                        <l n="21">[blank]                  332   <del>the illustrations</del>. Anything that relieves responsible prose</l>
+                        <l n="22">[blank]                            of the duty of being . . . good enough <add>. . . . .</add> <hi rend="underline">in itself</hi>    does it</l>
+                        <l n="23">[blank]                            the worst of services . . . They were to remain at the</l>
+                        <l n="24">[blank]                            most small pictures of our “set” stage with the actors left</l>
+                        <l n="25">[blank]                             out; . . . the street scenery of London—</l>
+                        <l n="26">[blank]                   337   tidying-up of the uncanny brood . . . [the novels]</l>
+                        <l n="27">[blank]                     <hi rend="pencilred">M</hi>    the rapid flash of an anxious needle . . . all in</l>
+                        <l n="28">[blank]                            consideration of the searching radiance of drawing-room</l>
+                        <l n="29">[blank]                            lamps as compared with nursery candles.</l>
+                        <l n="30">[blank]</l>
+                        <l n="31">[blank]                  338   To revise is to see, or to look over, again—</l>
+                        <l n="32">[blank]</l>
+                        <l n="33">[blank]                  339   the immense array of terms, perceptional and expressional, . . .</l>
+                        <l n="34">[blank]                            like alert winged creatures, perched on those diminished</l>
+                        <l n="35">[blank]                            summits and aspired to a clearer air.</l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]                  339   these intenser lights of experience—<quote rend="end"/> </l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0082_text">
+                <div type="page" n="v.0082" xml:id="nb07_02_03_0082_verso_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0082-verso.jpeg"
+                        n="0082-verso"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of lines 05, 06, 27,
+                        29-31, 36 and 37 is in red pencil. In line 06 the "is" in red pencil is
+                        overwritten in regular pencil. The underlining in lines 13 and 17 is doubled
+                        with a wavy line.!&amp;gt; </desc>
+                    <lg>
+                        <l n="01">[blank]                     340   <quote rend="begin"/><note>James, <hi rend="italics">Novel</hi> (see earlier note).</note>to linger . . . is in a manner to retrace the whole </l>
+                        <l n="02">[blank] <hi rend="pencil">linger</hi>                    growth of                                                         one's “taste” . . . . </l>
+                        <l n="03">[blank]                                The “taste” of the poet is . . . his active sense of life.</l>
+                        <l n="04">[blank]</l>
+                        <l n="05">[blank]                                The seer . . . is <hi rend="underline">the “poet”</hi> whatever his form.</l>
+                        <l n="06">[blank]                        <hi rend="underline"><hi rend="pencilred">is the</hi> (see-er)</hi> </l>
+                        <l n="07">[blank]                                his impulse &amp; passion are general &amp; comprehensive . . .</l>
+                        <l n="08">[blank]                                a provision . . . that makes but a mouthful of so minor</l>
+                        <l n="09">[blank]                                a distinction . . . as that between verse &amp; prose.</l>
+                        <l n="10">[blank]</l>
+                        <l n="11">[blank]                      342   criticism was to find . . . arrests and surprises, emotions . . . of</l>
+                        <l n="12">[blank]                               disappointment &amp; of elation . . . all of which means that the</l>
+                        <l n="13">[blank]                                whole thing was a <hi rend="underline">living</hi> affair.                                    <add>. . .</add> </l>
+                        <l n="14">[blank]</l>
+                        <l n="15">[blank]                      345   I have prayed that the finer air of the better form may . . . seem</l>
+                        <l n="16">[blank]                                to hang about them &amp; gild them over—at least for readers,</l>
+                        <l n="17">[blank]                                however few, at all <hi rend="underline">curious</hi> of questions of air and form—</l>
+                        <l n="18">[blank]                                                                                            <add>own</add> </l>
+                        <l n="19">[blank]                      345   The prime consequence on one's own part of reperusal is a</l>
+                        <l n="20">[blank]                                sense for ever so many more of the shining silver fish afloat</l>
+                        <l n="21">[blank]                                in the deep sea of one’s endeavour than the net of widest</l>
+                        <l n="22">[blank]                                casting could pretend to gather in;</l>
+                        <l n="23">[blank]                                We may traverse                               acres of . . . prose from which</l>
+                        <l n="24">[blank]                      346   the touch that operates <del>of</del> for closeness &amp; for charm, for</l>
+                        <l n="25">[blank]                                conviction &amp; illusion, for communication, in a word, is</l>
+                        <l n="26">[blank]                                unsurpassably absent.</l>
+                        <l n="27">[blank]                                [we are talking] of the mind <hi rend="underline">led captive by a charm &amp; a spell</hi>.</l>
+                        <l n="28">[blank]</l>
+                        <l n="29">[blank]                       347   as the <hi rend="underline">whole conduct of life consists of things done, which</hi> </l>
+                        <l n="30">[blank]                                <hi rend="underline">do other things in their turn, just so our behaviour</hi> </l>
+                        <l n="31">[blank]                                and <hi rend="underline">its fruits are essentially one &amp; continuous</hi> &amp; </l>
+                        <l n="32">[blank]                                persistent &amp; unquenchable,</l>
+                        <l n="33">[blank]                                           <add>the</add>           <add>. . .</add> </l>
+                        <l n="34">[blank]                      348   (on all ground<del>s</del> . . . ) there reigns one sovereign truth— . . .</l>
+                        <l n="35">[blank]                                      <add>omit</add>                                  <add>[able to be an example]</add> </l>
+                        <l n="36">[blank]                                <del>that is</del> art is nothing if not exemplary   <hi rend="underline">care</hi> nothing </l>
+                        <l n="37">[blank]                                if not active, <hi rend="underline">finish</hi> nothing if not consistent,  <del>the</del> <quote rend="end"/> </l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0083_text">
+                <div type="page" n="r.0083" xml:id="nb07_02_03_0083_recto_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0083-recto.jpeg"
+                        n="0083-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of line 17 is doubled
+                        with a wavy line.!&amp;gt;</desc>
+                    <lg>
+                        <l n="01">[blank]                                   <bibl type="begin"/>I A Richards<note>Richards, Ivor Armstrong (1893-1979). Influential English philosopher and literary critic whose work in the 1920s played an important role in founding the theory and practice of the New Criticism in the United States.  In 1939 he became a professor of English at Harvard University. </note></l>
+                        <l n="02">[blank]                       <hi rend="underline">The Philosophy of Rhetoric</hi> <bibl type="end"/><note>Richards, I.A. <hi rend="italics">The Philosophy of Rhetoric</hi>. New York: Oxford UP, 1936. The book consists of the Mary Flexner Lectures on the Humanities, delivered by Richards at Bryn Mawr College in 1936. MM had accepted an invitation to attend these lectures and to meet Richards but was prevented by a sudden illness (<hi rend="italics">Letters</hi> 362).  She eventually met him in December 1941 when he was in the audience for the lecture that eventually became "Humility, Concentration, and Gusto" (*). </note></l>
+                        <l n="03">[blank]                  p. 4   <quote rend="begin"/>It is little use appealing to the hearer as Berkeley did:</l>
+                        <l n="04">[blank]                  “I do . . . once for all desire whoever shall think it worth</l>
+                        <l n="05">[blank]                  his while to understand . . . that he would not stick in this</l>
+                        <l n="06">[blank]                  or that phrase, or manner of expression, but candidly collect</l>
+                        <l n="07">[blank]                  my meaning from the whole sum &amp; tenor of my discourse,</l>
+                        <l n="08">[blank]                  &amp; laying aside the words as much as possible, consider</l>
+                        <l n="09">[blank]                  the bare notions themselves</l>
+                        <l n="10">[blank]</l>
+                        <l n="11">[blank]                  5.   That “as much as possible” is not very much;<quote rend="end"/> </l>
+                        <l n="12">[blank]</l>
+                        <l n="13">[blank]            <seg type="prose">[cf. Lachaise: I read for the facts]</seg> <note>Lachaise, Gaston (1882-1935). French sculptor who moved to the United States in 1906 and lived and worked in New York City from 1912 until his death. The comment attributed to him, which is likely to have occurred in conversation, is illuminated by MM's observation in her "Retrospect" on <hi rend="italics">The Dial</hi> that Lachaise's attitude to work "made frivolities or time-killings a short of poison to him" (<hi rend="italics">Prose</hi> 362). In a 1931 profile of Lachaise, Gilbert Seldes writes: “When he worked twenty hours a day,  his single relaxation came at four in the morning as he read the records of Arctic and Antarctic exploration before going to sleep for an hour or two. This choice of reading is characteristic . . . ” “Hewer of Stone.” <hi rend="italics">The New Yorker</hi> (April 4 1931): 30-31.</note></l>
+                        <l n="14">[blank]</l>
+                        <l n="15">[blank]                  5   <quote rend="begin"/>It begins of course w Aristotle, &amp; may perhaps be said to end</l>
+                        <l n="16">[blank]                  with Archbishop Whately, who wrote a treatise on Rhetoric</l>
+                        <l n="17">[blank]                  for the <hi rend="underline">Encyclopaedia Metropolitana</hi> that Coleridge<note>Coleridge, Samuel Taylor (see earlier note). When he delivered these lectures in 1936, Richards had recently published <hi rend="italics">Coleridge on Imagination</hi> (London: Kegan Paul, 1934), a reassessment of Coleridge's theory of imagination that was important to the emergence of the New Criticism.   </note> planned.</l>
+                        <l n="18">[blank]            6   I may remark, in passing, that Coleridge’s own <hi rend="underline">Essay</hi></l>
+                        <l n="19">[blank]                  <hi rend="underline">on Method</hi>, the preface to that Encyclopaedia has</l>
+                        <l n="20">[blank]                  itself more bearing on a possible future for</l>
+                        <l n="21">[blank]                  Rhetoric than anything I know of in the official literature.</l>
+                        <l n="22">[blank]                  (Whately) is according to Jebb, the best modern writer.</l>
+                        <l n="23">[blank]                  Another epigram: “Preachers nobly aim at nothing at all &amp; hit it!”</l>
+                        <l n="24">[blank]                  Whately decides that Rhetoric is <hi rend="underline">the</hi> art of discourse—</l>
+                        <l n="25">[blank]                  . . . a philosophic discipline aiming at a mastery of the</l>
+                        <l n="26">[blank]                  fundamental laws of the use of language, not just a set of</l>
+                        <l n="27">[blank]                  dodges that will be found to work sometimes. That claim</l>
+                        <l n="28">[blank]                  —that Rhetoric must go deep, must take a broad</l>
+                        <l n="29">[blank]                  philosophical view of the principles of the Art—is the climax</l>
+                        <l n="30">[blank]                  of his Introduction; . . . yet nothing of the sort is attempted,</l>
+                        <l n="31">[blank]                  nor is it in any other treatise that I know of.<quote rend="end"/> </l>
+                        <l n="32">[blank]</l>
+                        <l n="33">[blank]</l>
+                        <l n="34">[blank]</l>
+                        <l n="35">[blank]</l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]</l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0084_text">
+                <div type="page" n="v.0084" xml:id="nb07_02_03_0084_verso_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0084-verso.jpeg"
+                        n="0084-verso"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of line 11 is doubled
+                        with a wavy line.!&amp;gt;</desc>
+                    <lg>
+                        <l n="01">[blank]                             10    <quote rend="begin"/><note>Richards, <hi rend="italics">Rhetoric</hi> (see earlier note). </note>we have to . . . take account of the structures of the smallest discussable units</l>
+                        <l n="02">[blank]                                      of meaning &amp; the ways in which these vary as they are put with other</l>
+                        <l n="03">[blank]                                      units.</l>
+                        <l n="04">[blank]                               11   words with fixed meanings are fewer than we suppose.</l>
+                        <l n="05">[blank]</l>
+                        <l n="06">[blank]              19             Hobbes condenses what he had learnt from his master, Bacon:</l>
+                        <l n="07">[blank]                                “The end of knowledge is power; &amp; the use of theorems . . . is for the</l>
+                        <l n="08">[blank]                                construction of problems; &amp;, lastly, the scope of all speculation</l>
+                        <l n="09">[blank]                                is the performance of some action, or thing to be done.”</l>
+                        <l n="10">[blank]</l>
+                        <l n="11">[blank]              33             he sums up by saying that meaning is <hi rend="underline">delegated efficacy</hi> </l>
+                        <l n="12">[blank]</l>
+                        <l n="13">[blank]              34             a word—takes over the duties of parts which can then</l>
+                        <l n="14">[blank]                                be omitted from the recurrence—(when a whole cluster</l>
+                        <l n="15">[blank]                                of events recur together)</l>
+                        <l n="16">[blank]                34           If we ask how this abridgement happens, how a sign</l>
+                        <l n="17">[blank]                                comes to stand for an absent cause &amp; conditions.  . . . . . </l>
+                        <l n="18">[blank]                                no one knows.</l>
+                        <l n="19">[blank]</l>
+                        <l n="20">[blank]                35            what a word means is the missing parts of the contexts</l>
+                        <l n="21">[blank]                                 from which it draws its delegated efficacy.</l>
+                        <l n="22">[blank]</l>
+                        <l n="23">[blank]                36            “fixities and definites” Coleridge called them . . .</l>
+                        <l n="24">[blank]</l>
+                        <l n="25">[blank]                37            The whole business of Rhetoric: comparisons between</l>
+                        <l n="26">[blank]                                the meanings of words,</l>
+                        <l n="27">[blank]</l>
+                        <l n="28">[blank]                40           the old Rhetoric treated ambiguity as a fault . . . the new</l>
+                        <l n="29">[blank]                                Rhetoric sees it as an inevitable consequence of the powers of</l>
+                        <l n="30">[blank]                                language . . . . . . . </l>
+                        <l n="31">[blank]</l>
+                        <l n="32">[blank]                40           The extra meaning that comes in when a sentence, in</l>
+                        <l n="33">[blank]                                addition to making a statement is meant to be insulting,</l>
+                        <l n="34">[blank]                                or flattering—we may call it emotive meaning—</l>
+                        <l n="35">[blank]                                is not so diff. from plain statement as we are apt to<quote rend="end"/> </l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]</l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0085_text">
+                <div type="page" n="r.0085" xml:id="nb07_02_03_0085_recto_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0085-recto.jpeg"
+                        n="0085-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of line 07 is doubled.
+                        The underlining of line 28 is doubled with a wavy line.!&amp;gt;</desc>
+                    <lg>
+                        <l n="01">[blank]                       <quote rend="begin"/> <note>Richards, <hi rend="italics">Rhetoric</hi> (see earlier note). </note>suppose.</l>
+                        <l n="02">[blank]</l>
+                        <l n="03">[blank]          41          pure exposition is a relatively rare occurrence . . .</l>
+                        <l n="04">[blank]</l>
+                        <l n="05">[blank]          43          next lecture: Usage and the Interinanimation of Words</l>
+                        <l n="06">[blank]                                                                                      III</l>
+                        <l n="07">[blank]                        David Hartley    <hi rend="underline">On Man</hi> </l>
+                        <l n="08">[blank]</l>
+                        <l n="09">[blank]          48         The  sentence . . . as Aristotle taught, is the unit of discourse.</l>
+                        <l n="10">[blank]          48         The mutual dependence of words varies . . . with the type of discourse.</l>
+                        <l n="11">[blank]          48         a large proportion are independent. They mean the same</l>
+                        <l n="12">[blank]                       whatever other words they are put with;</l>
+                        <l n="13">[blank]</l>
+                        <l n="14">[blank]          48        some have no fixed . . . meaning separable from those</l>
+                        <l n="15">[blank]                      of the other words they occur with.</l>
+                        <l n="16">[blank]    </l>
+                        <l n="17">[blank]          49        We have change as the sentence develops. In “The cat</l>
+                        <l n="18">[blank]                       is on the mat” we begin with the cat &amp; end with the mat.</l>
+                        <l n="19">[blank]</l>
+                        <l n="20">[blank]                       In the extreme case it will go on moving as long as we</l>
+                        <l n="21">[blank]                       bring fresh wits to study it.</l>
+                        <l n="22">[blank]</l>
+                        <l n="23">[blank]                      When Octavius Caesar is gazing down at Cleopatra</l>
+                        <l n="24">[blank]                      dead, he says,</l>
+                        <l n="25">[blank]                                                  <seg type="versebegin"/>She looks like sleep.</l>
+                        <l n="26">[blank]                                              As she would catch another Antony</l>
+                        <l n="27">[blank]                                              In her strong toil of grace.<seg type="verseend"/> </l>
+                        <l n="28">[blank]                      . . . Where do the meanings here of <hi rend="underline">toil</hi> and <hi rend="underline">grace</hi> come to </l>
+                        <l n="29">[blank]                     <add>you would understand</add>                                                              rest? </l>
+                        <l n="30">[blank]           49       if I said “a triangle”’ But in most prose . . . the</l>
+                        <l n="31">[blank]                      opening words have to wait for those that follow</l>
+                        <l n="32">[blank]                      to settle what they shall mean— . . .</l>
+                        <l n="33">[blank]</l>
+                        <l n="34">[blank]            50     and as with meaning, so with intonations</l>
+                        <l n="35">[blank]            51      no word can be judged as to whether it is good or bad,</l>
+                        <l n="36">[blank]                      correct or incorrect, beautiful or ugly . . . in isolation<quote rend="end"/> </l>
+                        <l n="37">[blank] <seg type="prose">cf Henry James with “bristle” and “portentous”</seg><note>James, Henry (see earlier note). Both of these words, particularly "bristle," appear frequently in James’s prefaces. MM cites “bristle” from <hi rend="italics">Art of the Novel</hi> (see earlier note) on p. 0074-verso above; on "portentous," MM may have in mind James’s comment in his preface to <hi rend="italics">Wings of the Dove</hi> that it is a "word I rejoice in" (<hi rend="italics">Art of the Novel</hi>, 303).</note></l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0086_text">
+                <div type="page" n="v.0086" xml:id="nb07_02_03_0086_verso_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0086-verso.jpeg"
+                        n="0086-verso"/>
+                    <desc>[Page-level Description] &amp;lt;!Two parallel vertical bars are placed to
+                        the left of the text on lines 12-14. The underlining of line 20 is double.
+                        An opening parenthesis is placed to the left of the text on lines 26-27. The
+                        parentheses on line 31 are each marked with short horizontal
+                        strokes.!&amp;gt;</desc>
+                    <lg>
+                        <l n="01">[blank]           51<quote rend="begin"/>     <note>Richards, <hi rend="italics">Rhetoric</hi> (see earlier note).</note>     See George Campbell’s Philosophy of Rhetoric</l>
+                        <l n="02">[blank]</l>
+                        <l n="03">[blank]            54     words [in most rhetorics] are supposed just sheerly</l>
+                        <l n="04">[blank]                      to possess their sense, as men have their names in the</l>
+                        <l n="05">[blank]                      reverse case, &amp; to carry this meaning with them into</l>
+                        <l n="06">[blank]                      sentences regardless of the neighbour words.</l>
+                        <l n="07">[blank]</l>
+                        <l n="08">[blank]            55     (The Usage Doctrine) takes the senses of an author’s</l>
+                        <l n="09">[blank]                      words to be things we know before we read, him . . .</l>
+                        <l n="10">[blank]                      Instead, they are resultants which we arrive at only</l>
+                        <l n="11">[blank]                      through the interplay of the interpretative possibilities</l>
+                        <l n="12">[blank]                      of the whole utterance. In brief, we have to guess</l>
+                        <l n="13">[blank]                      them &amp; we guess much better when we realize we</l>
+                        <l n="14">[blank]                      are guessing . . . than when we think we know.</l>
+                        <l n="15">[blank]</l>
+                        <l n="16">[blank]             57     words in the background . . . expressive, symbolic, or</l>
+                        <l n="17">[blank]             58     simulative words . . . flip, flap, flop, flitter, flimmer,</l>
+                        <l n="18">[blank]                       flicker, flutter, flash</l>
+                        <l n="19">[blank]                          <add>Leonard</add> </l>
+                        <l n="20">[blank]                       See Bloomfield, <hi rend="underline">LANGUAGE</hi></l>
+                        <l n="21">[blank]</l>
+                        <l n="22">[blank]              59     a morpheme: Two or more words are said to share a</l>
+                        <l n="23">[blank]                       morpheme when they have, at the same time, something in common</l>
+                        <l n="24">[blank]                       in their meaning &amp; something in common</l>
+                        <l n="25">[blank]                       in their <del>sense</del> sound . . . flimmer <del>slither</del> </l>
+                        <l n="26">[blank]                          slither has no meaning in common so <add>has</add> <del>not</del> no                        </l>
+                        <l n="27">[blank]                          common morpheme.</l>
+                        <l n="28">[blank]             59      </l>
+                        <l n="29">[blank]                      words with a common morpheme      skid &amp; skate</l>
+                        <l n="30">[blank]                       have an influence on the pronunciation of other words</l>
+                        <l n="31">[blank]                       are a strong reason (against an English convention)</l>
+                        <l n="32">[blank]     ski             for saying skee rather than shee.</l>
+                        <l n="33">[blank]                    <add>It was</add> </l>
+                        <l n="34">[blank]             62       Aristotle who said that there can be no natural connection<quote rend="end"/> </l>
+                        <l n="35">[blank]</l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]</l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0087_text">
+                <div type="page" n="r.0087" xml:id="nb07_02_03_0087_recto_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0087-recto.jpeg"
+                        n="0087-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of lines o6 and 28 is
+                        doubled with a wavy line.!&amp;gt;</desc>
+                    <lg>
+                        <l n="01">[blank]                   <quote rend="begin"/> <note>Richards, <hi rend="italics">Rhetoric</hi> (see earlier note). </note> between the sound of any language &amp; the things signified,</l>
+                        <l n="02">[blank]                    . . . and we shall have to agree with him</l>
+                        <l n="03">[blank]</l>
+                        <l n="04">[blank]          70     . . . the meaning we find for a word comes to it only with</l>
+                        <l n="05">[blank]                    respect to the meanings of the other words we take with </l>
+                        <l n="06">[blank]                    . . . also <hi rend="underline">unuttered</hi> words . . .                                              it.</l>
+                        <l n="07">[blank]                    As in perceiving the size or shape or distance of a thing</l>
+                        <l n="08">[blank]                    all sorts of actions we might take in walking towards it,</l>
+                        <l n="09">[blank]                    or grasping it, come in— . . . to guide our interpretation</l>
+                        <l n="10">[blank]</l>
+                        <l n="11">[blank]          70     these criteria   precision, vividness, expressiveness, clarity,</l>
+                        <l n="12">[blank]                    beauty, . . . are misleading . . . to study unless we use them</l>
+                        <l n="13">[blank]                    with a due recognition of this interdependence among</l>
+                        <l n="14">[blank]                    the words we use them to describe . . .</l>
+                        <l n="15">[blank]</l>
+                        <l n="16">[blank]                    . . . ; a completely isolated word would be meaningless.</l>
+                        <l n="17">[blank]</l>
+                        <l n="18">[blank]          70     The view that meanings belong to words in their own right . . .</l>
+                        <l n="19">[blank]                    is a branch of sorcery, a relic of the magical theory</l>
+                        <l n="20">[blank]                    of names.</l>
+                        <l n="21">[blank]</l>
+                        <l n="22">[blank]          73     The remedy is not to resist these shifts (of meaning) but</l>
+                        <l n="23">[blank]                    to learn to follow them . . . they have similar plans and</l>
+                        <l n="24">[blank]                    common patterns.</l>
+                        <l n="25">[blank]          74 e.g. book . . . a formidable volume, but it’s not a book. He has</l>
+                        <l n="26">[blank]                    his mind full of his book . . .  Binding a book.</l>
+                        <l n="27">[blank]                    Rearranging the books in the catalogue. In each of these</l>
+                        <l n="28">[blank]                    we have shifted the sense of <hi rend="underline">book</hi>.</l>
+                        <l n="29">[blank]</l>
+                        <l n="30">[blank]          75     Why worry ourselves with it?  that we may better find out what</l>
+                        <l n="31">[blank]                    we &amp; others are thinking.</l>
+                        <l n="32">[blank]</l>
+                        <l n="33">[blank]          75     We can say of the single word what Donne said of single</l>
+                        <l n="34">[blank]                    sentences, “Sentences in Scripture, like hairs in horsetails,</l>
+                        <l n="35">[blank]                    concur in one root of beauty and strength; but being plucked</l>
+                        <l n="36">[blank]                    out one by one, serve only for springes &amp; snares.<quote rend="end"/> </l>
+                        <l n="37">[blank]</l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line] &amp;lt;!desc: lines 14-02, left margin!&amp;gt;69  some criteria of words</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0088_text">
+                <div type="page" n="v.0088" xml:id="nb07_02_03_0088_verso_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0088-verso.jpeg"
+                        n="0088-verso"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of lines 13 and  is
+                        doubled with a wavy line.</desc>
+                    <lg>
+                        <l n="01">[blank]       7<quote rend="begin"/>6       <note>Richards, <hi rend="italics">Rhetoric</hi> (see earlier note). </note>as many as 30 new words a year have been coming into use</l>
+                        <l n="02">[blank]                    . . . A new word commonly stirs up complaints . . . &amp; these</l>
+                        <l n="03">[blank]                    complaints throw light upon current assumptions about </l>
+                        <l n="04">[blank]                                                                                                                  lang. </l>
+                        <l n="05">[blank]                    <del>you</del> e.g. that words are awkward to pronounce or too</l>
+                        <l n="06">[blank]                    long.      extravert &amp; introvert not found in</l>
+                        <l n="07">[blank]                    2 vol. shorter Ox. Dic.</l>
+                        <l n="08">[blank]         77       Sir James Murray in his Preface to the Ox. Dictionary <del>sa</del> <add>notes</add></l>
+                        <l n="09">[blank]                    that, on applying “directly to the introducer of a word, to</l>
+                        <l n="10">[blank]                    know how he pronounces it . . . the answer received was</l>
+                        <l n="11">[blank]                    he has never thought of its pronunc. . . . or leaves it to</l>
+                        <l n="12">[blank]                    people to pronounce as they like, or to the <hi rend="underline">Dict</hi>ionary</l>
+                        <l n="13">[blank]                    to say what is the <hi rend="underline">right</hi> pronunc.</l>
+                        <l n="14">[blank]</l>
+                        <l n="15">[blank]                    This, Sir James complained, inverts the established order</l>
+                        <l n="16">[blank]                    by which speech comes first . . . But how a word</l>
+                        <l n="17">[blank]                    is pronounced, is <del>part</del> a matter requiring reference</l>
+                        <l n="18">[blank]                    to how the other words in the lang. are pronounced.</l>
+                        <l n="19">[blank]</l>
+                        <l n="20">[blank]         78       as usual it is easier to say what you will <hi rend="underline">not</hi> do than</l>
+                        <l n="21">[blank]                    what you will.                                                 <add>. . . .</add> </l>
+                        <l n="22">[blank]        78       Control by usage. . . . snob(bish) control is wide &amp; rigorous</l>
+                        <l n="23">[blank]                    dates from 17th Century . . In Shakespeare’s age . . . There</l>
+                        <l n="24">[blank]                    was less need to be scornful . . . 18th c differentiation</l>
+                        <l n="25">[blank]                    between a gentleman &amp; his valet . . . a lady &amp; a mantua-maker.</l>
+                        <l n="26">[blank]</l>
+                        <l n="27">[blank]                    grammar-book merchants . . . (Steele is an example)</l>
+                        <l n="28">[blank]                    purveyed instruction to the new gentry about how they</l>
+                        <l n="29">[blank]                    were to make it clear that they were really gentry.</l>
+                        <l n="30">[blank]</l>
+                        <l n="31">[blank]                    There is a worthier side of the Rule of the Club Spirit</l>
+                        <l n="32">[blank]                    it did give some indication of culture in a deeper sense.<quote rend="end"/> </l>
+                        <l n="33">[blank]</l>
+                        <l n="34">[blank]</l>
+                        <l n="35">[blank]</l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]</l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0089_text">
+                <div type="page" n="r.0089" xml:id="nb07_02_03_0089_recto_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0089-recto.jpeg"
+                        n="0089-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of lines 17, 22, and 31
+                        is doubled with a wavy line. The underlining of line is 23 is a wavy
+                        line.!&amp;gt;</desc>
+                    <lg>
+                        <l n="01">[blank]   80           <quote rend="begin"/><note>Richards, <hi rend="italics">Rhetoric</hi> (see earlier note). </note>Even extensive reading in prose translations . . . will not</l>
+                        <l n="02">[blank]                    protect us from . . . saying Saloam, or Penny-lope or Hermy </l>
+                        <l n="03">[blank]                                                                                                                         one. </l>
+                        <l n="04">[blank]                    an auto-didact from Manchester . . . Desperately keen on Dant &amp; Goath.</l>
+                        <l n="05">[blank]                                                                                                                           Dante       Goethe. </l>
+                        <l n="06">[blank]   80-81    Jeremy Bentham: “Conciseness &amp; pronunciability,</l>
+                        <l n="07">[blank]                    are merits in a new-coined word” . . . though</l>
+                        <l n="08">[blank]                    he coined as key-terms in the analysis of metaphor</l>
+                        <l n="09">[blank]                    archetypation &amp; phr<del>aseo</del>-plerosis: for the discovery</l>
+                        <l n="10">[blank]                                                   <add>phraseo-</add> </l>
+                        <l n="11">[blank]                    of the ground of the shift of meaning &amp; the filling in of</l>
+                        <l n="12">[blank]                    the phrase to represent that ground.</l>
+                        <l n="13">[blank]</l>
+                        <l n="14">[blank]                    length may be a merit in a word . . . especially when</l>
+                        <l n="15">[blank]                    the meaning is complex</l>
+                        <l n="16">[blank]        80       a word may be tainted, for many, by its associations with</l>
+                        <l n="17">[blank]                    unhappy uses.        e.g. <hi rend="underline">colorful</hi> . . . &amp; <hi rend="underline">tasteful</hi></l>
+                        <l n="18">[blank]                                                                1890                    <add>full of color does the</add> </l>
+                        <l n="19">[blank]                                                                                                                       <add>work</add> </l>
+                        <l n="20">[blank]                    we do not say soundful or lightful or laughterful, but none</l>
+                        <l n="21">[blank]                    of these objections                             will bear xamination.</l>
+                        <l n="22">[blank]                    The objection concerns vulgarity. Tho to some <hi rend="underline">popular</hi> </l>
+                        <l n="23">[blank]                    means what <hi rend="underline">vulgar</hi> means. To compare its meaning</l>
+                        <l n="24">[blank]                    is the way to judge it. We would not judge a quadruped</l>
+                        <l n="25">[blank]                    without deciding whether it is a dog or a horse.</l>
+                        <l n="26">[blank]                    . . . a good ferret makes a bad rabbit. What then</l>
+                        <l n="27">[blank]                    are the utilities of the word <hi rend="underline">colorful</hi>?<note>MM touches on this argument in connection with "fearful" in "Feeling and Precision" (<hi rend="italics">Prose</hi> 400). </note> </l>
+                        <l n="28">[blank]</l>
+                        <l n="29">[blank]           1.      the ironical implications . . . like does his best, well-intentioned</l>
+                        <l n="30">[blank]</l>
+                        <l n="31">[blank]        85       Gross uses of <hi rend="underline">beautiful</hi> might make the word itself</l>
+                        <l n="32">[blank]                    a thing suited only to gross uses.</l>
+                        <l n="33">[blank]                    When people talk of ‘beautiful food’ some are apt to shudder.</l>
+                        <l n="34">[blank]</l>
+                        <l n="35">[blank]        86       A discussion of the reasons for the choice of words—can become an</l>
+                        <l n="36">[blank]                    introduction to the theory of all choices.<quote rend="end"/> </l>
+                        <l n="37">[blank]</l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0090_text">
+                <div type="page" n="v.0090" xml:id="nb07_02_03_0090_verso_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0090-verso.jpeg"
+                        n="0090-verso"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of lines 12, 17 and 34
+                        is doubled with a wavy line.!&amp;gt;</desc>
+                    <lg>
+                        <l n="01">[blank]       89        <quote rend="begin"/><note>Richards, <hi rend="italics">Rhetoric</hi> (see earlier note). </note>Metaphor. It was Aristotle who said, in The</l>
+                        <l n="02">[blank]                    Poetics, “The greatest thing by far is to have a command</l>
+                        <l n="03">[blank]                    of metaphor . . . This alone cannot be imparted to another:</l>
+                        <l n="04">[blank]                    it is the mark of genius, for to make good metaphors</l>
+                        <l n="05">[blank]                    implies an eye for resemblances.”</l>
+                        <l n="06">[blank]</l>
+                        <l n="07">[blank]        90       our command of metaphor . . . It is all imparted to us from others</l>
+                        <l n="08">[blank]                    ? ? ? ? ?  w. &amp; through the language we learn.</l>
+                        <l n="09">[blank]                  [Not the eye for resemblances.]</l>
+                        <l n="10">[blank]                       Throughout the history of Rhetoric, metaphor has been</l>
+                        <l n="11">[blank]                    treated as a sort of happy extra trick with words.</l>
+                        <l n="12">[blank]                    . . . a grace or ornament or <hi rend="underline">added</hi> power of lang., not</l>
+                        <l n="13">[blank]                    its constitutive form.</l>
+                        <l n="14">[blank] (Bacon, Hobbes, Bentham, Coleridge, F. H. Bradley, Vaihinger)</l>
+                        <l n="15">[blank]</l>
+                        <l n="16">[blank]        92       we think increasingly by means of metaphors that</l>
+                        <l n="17">[blank]                    we profess <hi rend="underline">not</hi> to be relying on</l>
+                        <l n="18">[blank]</l>
+                        <l n="19">[blank]        92       The metaphors we are avoiding steer our</l>
+                        <l n="20">[blank]                    thought as much as those we accept.</l>
+                        <l n="21">[blank]</l>
+                        <l n="22">[blank]                    It is less easy to know what we are saying than what we are not saying.</l>
+                        <l n="23">[blank]</l>
+                        <l n="24">[blank]                    And in philosophy, of which this is almost a definition, I</l>
+                        <l n="25">[blank]                    wld hold w Bradley that our pretence to do without</l>
+                        <l n="26">[blank]                    metaphor is never more than a bluff . . .</l>
+                        <l n="27">[blank]</l>
+                        <l n="28">[blank]        93       when we use a metaphor we have 2 thoughts of different</l>
+                        <l n="29">[blank]                    things active together &amp; supported by a single word . . . . . </l>
+                        <l n="30">[blank]                    whose meaning is a resultant of their interaction.</l>
+                        <l n="31">[blank]</l>
+                        <l n="32">[blank] Dr. Johnson .  “metaphorical expression . . . gives you two ideas for one”</l>
+                        <l n="33">[blank]</l>
+                        <l n="34">[blank]        94       metaphor is a borrowing between <hi rend="underline">thoughts</hi>, a transaction</l>
+                        <l n="35">[blank]                    between contexts.</l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]        95       Raise our recognitions into distinctions.  In asking<quote rend="end"/> </l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0091_text">
+                <div type="page" n="r.0091" xml:id="nb07_02_03_0091_recto_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0091-recto.jpeg"
+                        n="0091-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!MM places a left curly bracket to the
+                        left of "the tenor &amp;" and "the vehicle" at the end of lines 11-12. The
+                        underlining of lines 23, 26 and 27 is doubled with a wavy
+                        line.!&amp;gt;</desc>
+                    <lg>
+                        <l n="01">[blank]                           <quote rend="begin"/><note>Richards, <hi rend="italics">Rhetoric</hi> (see earlier note). </note> how language works we ask about how thought &amp; feeling proceed,</l>
+                        <l n="02">[blank]                            &amp; how we are to learn to live &amp; how that “greatest thing of all,”</l>
+                        <l n="03">[blank]                            a command of metaphor—which is great only because it</l>
+                        <l n="04">[blank]                            is a command of life—may best, in spite of Aristotle, “be</l>
+                        <l n="05">[blank]                            imparted to another.”</l>
+                        <l n="06">[blank]                  95     Our theory . . . as it has its roots in practice, must also have its fruit in</l>
+                        <l n="07">[blank]                            improved skill. I am the child whose father is his son, &amp; the</l>
+                        <l n="08">[blank]                            wine whose vine is its jar,” said the Sufi mystic  summing up . . .</l>
+                        <l n="09">[blank]                            the whole process of [that] meditation . . .</l>
+                        <l n="10">[blank] TENOR             </l>
+                        <l n="11">[blank] Vehicle    96     the two ideas that any metaphor gives us. Let me call them the tenor &amp;</l>
+                        <l n="12">[blank]                                                                                                                                        the vehicle</l>
+                        <l n="13">[blank]                   97     we use ‘the meaning’ sometimes for the work <add>that</add> the whole</l>
+                        <l n="14">[blank]</l>
+                        <l n="15">[blank]                   97     what would . . . arithmetic feel like, if we used the word twelve (12)</l>
+                        <l n="16">[blank]                            sometimes for the number (<del>2</del>) (1), sometimes for the number (2), &amp;</l>
+                        <l n="17">[blank]                                "        "        "     "        "       (21)</l>
+                        <l n="18">[blank]</l>
+                        <l n="19">[blank]                  97     best teacher I ever knew. G. E. Moore</l>
+                        <l n="20">[blank]</l>
+                        <l n="21">[blank]                  98     The words ‘figure’ &amp; ‘image’ are misleading</l>
+                        <l n="22">[blank]</l>
+                        <l n="23">[blank]                 102    Lord Kames’ <hi rend="underline">Elements of Criticism</hi> </l>
+                        <l n="24">[blank]</l>
+                        <l n="25">[blank]                106    once we begin ‘to examine attentively’ interactions which do not</l>
+                        <l n="26">[blank]                           work through <hi rend="underline">resemblances</hi> between tenor &amp; vehicle, but depend</l>
+                        <l n="27">[blank]                           upon other relations between them including <hi rend="underline">disparities</hi>, some</l>
+                        <l n="28">[blank]                           of our . . . over-simple assumptions about metaphors as</l>
+                        <l n="29">[blank]                          comparisons are soon exposed.</l>
+                        <l n="30">[blank]                                                                      <add>the</add> </l>
+                        <l n="31">[blank]              108    ‘giddy brink’ . though it is man that totters in vertigo . . .</l>
+                        <l n="32">[blank]                        Our world is a projected world, shot through with characters</l>
+                        <l n="33">[blank]                        lent to it from our own life. “We receive but what we give.”</l>
+                        <l n="34">[blank]</l>
+                        <l n="35">[blank]              116    the term metaphor . . . whreby we speak of something as tho it were another</l>
+                        <l n="36">[blank]                        . . . or feel about one thing in terms of another . . .<quote rend="end"/> </l>
+                        <l n="37">[blank]</l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0092_text">
+                <div type="page" n="v.0092" xml:id="nb07_02_03_0092_verso_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0092-verso.jpeg"
+                        n="0092-verso"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of line 02 is doubled
+                        with a wavy line.!&amp;gt;</desc>
+                    <lg>
+                        <l n="01">[blank]         117      <quote rend="begin"/><note rend="italics">Richards, <hi rend="italics">Rhetoric</hi> (see earlier note). </note>he speaks of the leg of a table. How does it differ</l>
+                        <l n="02">[blank]                      from a literal use of the word, in <hi rend="underline">the leg of a horse</hi>, say?</l>
+                        <l n="03">[blank]                      A table does not walk with its legs; they only hold it up . . .</l>
+                        <l n="04">[blank]</l>
+                        <l n="05">[blank]                      the common characteristics are the ground of the metaphor</l>
+                        <l n="06">[blank]</l>
+                        <l n="07">[blank]          117      But if we call someone a pig or a duck, it is little use</l>
+                        <l n="08">[blank]                      looking for actual ground. <hi rend="underline">The Oxford Dic</hi> defines a “duck”</l>
+                        <l n="09">[blank]                      in this use as “a charming or delightful object.”  tender &amp;</l>
+                        <l n="10">[blank]                      amused regard . . . that it is possible to have towards ducks is</l>
+                        <l n="11">[blank]                      being felt towards a person.</l>
+                        <l n="12">[blank]</l>
+                        <l n="13">[blank]          117 . . . metaphors work through some direct resemblance between 2 things</l>
+                        <l n="14">[blank]                     the tenor &amp; vehicle, &amp; those which work through some common</l>
+                        <l n="15">[blank]                     attitude which we may take towards both.</l>
+                        <l n="16">[blank]                                                 <add>. . .</add>                                                                <add>e.g.</add> </l>
+                        <l n="17">[blank]                      A word may be both literal &amp; metaphorical . . . (a wooden leg)</l>
+                        <l n="18">[blank]          120      a metaphor involves comparison</l>
+                        <l n="19">[blank]</l>
+                        <l n="20">[blank]          125      As Mr. Empson well says (in his Seven Types of Ambiguity p. 32)</l>
+                        <l n="21">[blank]                      Statements are made as if they were connected &amp; the reader is</l>
+                        <l n="22">[blank]                      forced to consider their relations for himself . . . he will</l>
+                        <l n="23">[blank]                      invent a variety of reasons (why the statements were selected)</l>
+                        <l n="24">[blank]                      and order them in his own mind. This is the essential</l>
+                        <l n="25">[blank]                      fact about the poetical use of language.</l>
+                        <l n="26">[blank]</l>
+                        <l n="27">[blank]          131      Words are the meeting points at which regions of experience . . .</l>
+                        <l n="28">[blank]                      come together. They are the . . . means of that growth which</l>
+                        <l n="29">[blank]                      is the mind’s endless endeavour to order itself.</l>
+                        <l n="30">[blank]</l>
+                        <l n="31">[blank]        134      words are not a medium in which to copy life.</l>
+                        <l n="32">[blank]                      Their true works is to restore life itself to order.</l>
+                        <l n="33">[blank]</l>
+                        <l n="34">[blank]          137      that at least was Plato’s hope, as it was Spinoza’s belief</l>
+                        <l n="35">[blank]                      that there is but one end for the sciences.</l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]          137      Plato (the Timaeus) music hath been given by<quote rend="end"/> </l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0093_text">
+                <div type="page" n="r.0093" xml:id="nb07_02_03_0093_recto_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0093-recto.jpeg"
+                        n="0093-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of line 30 is doubled
+                        with a wavy line.!&amp;gt;</desc>
+                    <lg>
+                        <l n="01">[blank]                     <quote rend="begin"/> <note>Richards, <hi rend="italics">Rhetoric</hi> (see earlier note). </note>the Muses to be a helper to the man who . . . shall use</l>
+                        <l n="02">[blank]                       their art, not for the getting of unreasonable pleasure—. . . but</l>
+                        <l n="03">[blank]                       for the ordering of the circuit of our soul which hath fallen</l>
+                        <l n="04">[blank]                       out of Harmony.”<quote rend="end"/>        I.A. Richards. </l>
+                        <l n="05">[blank] <hi rend="underline">TS Eliot</hi> <note>Eliot, Thomas Stearns (1888-1965). American modernist poet whose literary criticism was from the beginning of his career in the 1910s as influential as his innovative poetry. His criticism and the example of his poetry were foundational to the New Criticism of the 1930s and 1940s.</note>  _________________________________</l>
+                        <l n="06">[blank]           21      <quote rend="begin"/><note>Eliot, T.S. <hi rend="italics">The Use of Poetry and the Use of Criticism: Studies in the Relation of Criticism to Poetry in England</hi>. London: Faber &amp; Faber, 1933. As MM indicates on page 0095-recto, these entries are continuous with the ones for pages 16-17 of Eliot's <hi rend="italics">Use of Poetry</hi>.</note> If poetry is a form of “communication” yet that which is to be</l>
+                        <l n="07">[blank]                        communicated is the poem itself, &amp; only incidentally the experience</l>
+                        <l n="08">[blank]                        &amp; the thought which have gone into it. The poem’s existence</l>
+                        <l n="09">[blank]                        is somewhere between the writer and the reader; it has a reality</l>
+                        <l n="10">[blank]                        which is not simply the reality of what the writer<del>is</del> is trying</l>
+                        <l n="11">[blank]                        to “express,” or of his experience of writing it, or of the experience of</l>
+                        <l n="12">[blank]                        the reader or of the writer as reader.</l>
+                        <l n="13">[blank]</l>
+                        <l n="14">[blank]            21  . . . But a poem is not just either what the poet “planned” or what</l>
+                        <l n="15">[blank]                      the reader conceives, nor is its “use” restricted wholly to what</l>
+                        <l n="16">[blank]                      the author intended or to what it actually docs for readers.</l>
+                        <l n="17">[blank]</l>
+                        <l n="18">[blank]            22  . . . there is no doubt that a poet wishes to give pleasure, to</l>
+                        <l n="19">[blank]                    entertain or divert people; &amp; he should</l>
+                        <l n="20">[blank]                    normally be glad to be able to feel that the entertainment or</l>
+                        <l n="21">[blank]                    diversion is enjoyed by as large &amp; various a number of</l>
+                        <l n="22">[blank]                    people as possible.</l>
+                        <l n="23">[blank]</l>
+                        <l n="24">[blank]            25  (In youth) We do not really see it (the poem) as something with an</l>
+                        <l n="25">[blank]                  existence outside ourselves;</l>
+                        <l n="26">[blank]                  <add>Before</add> </l>
+                        <l n="27">[blank]          26   <del>Beyond</del> that stage he can only be expected to distinguish between</l>
+                        <l n="28">[blank]                  the genuine and the sham—</l>
+                        <l n="29">[blank]</l>
+                        <l n="30">[blank]         26    The perception of <hi rend="underline">why</hi> Shakespeare, or Dante, or Sophocles</l>
+                        <l n="31">[blank]                  holds the place he has is something which comes only very</l>
+                        <l n="32">[blank]                  slowly in the course of living.</l>
+                        <l n="33">[blank]</l>
+                        <l n="34">[blank]        27     To set before oneself the goal of being able to enjoy, &amp; in the proper</l>
+                        <l n="35">[blank]                  objective order of merit, all good poetry, is to pursue a phantom.</l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]        27     For the development of genuine taste, founded on genuine feeling<quote rend="end"/> </l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0094_text">
+                <div type="page" n="v.0094" xml:id="nb07_02_03_0094_verso_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0094-verso.jpeg"
+                        n="0094-verso"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of line 01 is doubled
+                        with a wavy line.!&amp;gt;</desc>
+                    <lg>
+                        <l n="01">[blank]      T. S. E                          <bibl type="begin"/><hi rend="underline">The Use of Poetry &amp; the Use of Criticism</hi> <bibl type="end"/>      Nov. 4, 1932 </l>
+                        <l n="02">[blank]                                   3   <quote rend="begin"/><note>Eliot, <hi rend="italics">Use of Poetry</hi> (see earlier note). </note> To do the useful thing, to say the courageous thing, to contemplate</l>
+                        <l n="03">[blank] Chas. Eliot Norton      the beautiful thing: that is enough for one man’s life.</l>
+                        <l n="04">[blank]</l>
+                        <l n="05">[blank]                                  4    The usual . . . man of public affairs, is rarely able to go to the “public place”</l>
+                        <l n="06">[blank]                                        without assuming the “public face”: Norton always preserved his</l>
+                        <l n="07">[blank]                                         privacy.</l>
+                        <l n="08">[blank]                                  5     The poetry of a people takes its life from the people’s speech &amp; in turn</l>
+                        <l n="09">[blank]                                        gives life to it; &amp; represents its highest point of consciousness,</l>
+                        <l n="10">[blank]</l>
+                        <l n="11">[blank]                                12     The important moment for the appearance of criticism seems to be the</l>
+                        <l n="12">[blank]                                         time when poetry ceases to be the expression of the mind of a</l>
+                        <l n="13">[blank]                                        whole people.</l>
+                        <l n="14">[blank]</l>
+                        <l n="15">[blank]                                13     W P. Kerr.  ; the poets are eclectic students &amp; critics, &amp; they are justified</l>
+                        <l n="16">[blank]                                        as explorers are justified; they sacrifice what explorers sacrifice when</l>
+                        <l n="17">[blank]                                        they leave their native home . . .</l>
+                        <l n="18">[blank]                                   <add>the great work</add> </l>
+                        <l n="19">[blank]                               14  ‸  Dryden in criticism is, I think, that at the right moment</l>
+                        <l n="20">[blank]                                        he became conscious of the necessity of affirming</l>
+                        <l n="21">[blank]                                        the native element                                       in literature.</l>
+                        <l n="22">[blank]                               15     Where Elizabethan critics were aware of something to be</l>
+                        <l n="23">[blank]                                        borrowed or adapted from abroad, Dryden was aware of</l>
+                        <l n="24">[blank]                                        something to be preserved at home.</l>
+                        <l n="25">[blank]</l>
+                        <l n="26">[blank]                              15     I wish that we might dispose more attention to the correctness</l>
+                        <l n="27">[blank]                                        of expression, to the clarity or obscurity, to the grammatical</l>
+                        <l n="28">[blank]                                        precision or inaccuracy, to the choice of words whether</l>
+                        <l n="29">[blank]                                        just or improper, exalted or vulgar, of our verse; in</l>
+                        <l n="30">[blank]                                        short to the good or bad breeding of our poets.</l>
+                        <l n="31">[blank]</l>
+                        <l n="32">[blank]                               16     Wordsworth and Coleridge are revolting against a whole social</l>
+                        <l n="33">[blank]                                        order . . . If Wordsworth thought that he was occupied</l>
+                        <l n="34">[blank]                                               <add>reform</add> </l>
+                        <l n="35">[blank]                                        w <del>revolution</del> of language, he was deceived; he was    "      with</l>
+                        <l n="36">[blank]                                        revolution of language; &amp; his own lang. was as capable of</l>
+                        <l n="37">[blank]                                        artificiality, &amp; no more cap. of naturalness, than<quote rend="end"/> </l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0095_text">
+                <div type="page" n="r.0095" xml:id="nb07_02_03_0095_recto_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0095-recto.jpeg"
+                        n="0095-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!The marginal note on lines 24-25 is
+                        circled, as is the asterisk. MM draws an arrow along line 24 from the
+                        asterisk to the end of the first third of the page.!&amp;gt; </desc>
+                    <lg>
+                        <l n="01">[blank]                 16  <quote rend="begin"/><note>Eliot, <hi rend="italics">Use of Poetry</hi> (see earlier note). </note> that of Pope—as Byron felt, and as Coleridge candidly pointed out</l>
+                        <l n="02">[blank] _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ </l>
+                        <l n="03">[blank] </l>
+                        <l n="04">[blank]                27  p. 89 continued. <note>MM resumes the page sequence of the entries on p. 0093-recto above. </note> is inextricable from the devel. of personality</l>
+                        <l n="05">[blank]                        and character.</l>
+                        <l n="06">[blank]</l>
+                        <l n="07">[blank]                27   Genuine taste is always imperfect taste</l>
+                        <l n="08">[blank]</l>
+                        <l n="09">[blank]          27-28   One’s taste in poetry . . . must be limited as oneself is limited</l>
+                        <l n="10">[blank]</l>
+                        <l n="11">[blank]               29    Everyone has read Campion’s <hi rend="underline">Observations in the Art of</hi></l>
+                        <l n="12">[blank]                        <hi rend="underline">English Poesie</hi> &amp; Daniel’s <hi rend="underline">Defence of <del>Rhyme</del> Ryme</hi>.</l>
+                        <l n="13">[blank]</l>
+                        <l n="14">[blank]             29      Campion, who except for Shakes. was the most accomplished master</l>
+                        <l n="15">[blank]                        of rhymed lyric of his time, was certainly in a weak position</l>
+                        <l n="16">[blank]                        for attacking rhyme, as Daniel in his reply was not slow</l>
+                        <l n="17">[blank]                        to observe.</l>
+                        <l n="18">[blank]              30     The result of the controversy between Campion &amp; Daniel is to establish</l>
+                        <l n="19">[blank]                       both that Latin metres cannot be copied in Eng, &amp; that</l>
+                        <l n="20">[blank]                       rhyme is neither an essential nor a superfluity. Furthermore,</l>
+                        <l n="21">[blank]                       no prosodic system ever invented can teach anyone to write</l>
+                        <l n="22">[blank]                       good English verse. It is, as Mr. Pound has so often</l>
+                        <l n="23">[blank]                       remarked,                                              the musical phrase that</l>
+                        <l n="24">[blank] see page ❋  matters.</l>
+                        <l n="25">[blank] 118     31      The 2nd greatest accomplishment of the age was the lyric;</l>
+                        <l n="26">[blank]                       &amp; the lyric of Shakes. and Campion owes its beauty not</l>
+                        <l n="27">[blank]                       primarily to its use of rhyme or to its perfection of a “verse form,”</l>
+                        <l n="28">[blank]                       but to the fact that it is written to musical form; it is written</l>
+                        <l n="29">[blank]                       to be sung.</l>
+                        <l n="30">[blank]</l>
+                        <l n="31">[blank]            33      Now the desire for “comic relief” on the part of an audience is, I believe,</l>
+                        <l n="32">[blank]                       a permanent craving of human nature; but that does not mean</l>
+                        <l n="33">[blank]                       that it is a craving that ought to be gratified. It springs from</l>
+                        <l n="34">[blank]                       a lack of the capacity for concentration.</l>
+                        <l n="35">[blank]</l>
+                        <l n="36">[blank]            34      To my mind, Racine’s Bérénice represents about the</l>
+                        <l n="37">[blank]                       summit of civilisation in tragedy.<quote rend="end"/> </l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0096_text">
+                <div type="page" n="v.0096" xml:id="nb07_02_03_0096_verso_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0096-verso.jpeg"
+                        n="0096-verso"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of lines 05 and 14-15 is
+                        doubled with a wavy line. Opening parentheses are placed to the left of the
+                        text on lines 28-29 and 32-34.!&amp;gt;</desc>
+                    <lg>
+                        <l n="01">[blank]                 <add>Shakes’</add> </l>
+                        <l n="02">[blank]           36   <quote rend="begin"/> <note>Eliot, <hi rend="italics">Use of Poetry</hi> (see earlier note).</note>His success must always be reckoned in understanding of</l>
+                        <l n="03">[blank]                     what he attempted;</l>
+                        <l n="04">[blank]</l>
+                        <l n="05">[blank]           39     Unity, says Butcher, in his edition of the <hi rend="underline">Poetics</hi>,</l>
+                        <l n="06">[blank]                     is manifested mainly in two ways: First, in the causal connexion</l>
+                        <l n="07">[blank]                     that binds together the several parts of a play . . . the xternal</l>
+                        <l n="08">[blank]                     events being inextricably interwoven.</l>
+                        <l n="09">[blank]                     Secondly, in the fact that the whole series of events, with</l>
+                        <l n="10">[blank]                     all the moral forces that are brought into collision, are</l>
+                        <l n="11">[blank]                     directed to a single end . . . The end is linked to the</l>
+                        <l n="12">[blank]                     beginning with inevitable certainty, . . .</l>
+                        <l n="13">[blank] </l>
+                        <l n="14">[blank]            38     every play which observes them (the unities) <hi rend="underline">in so far as its material</hi> </l>
+                        <l n="15">[blank]                      <hi rend="underline">allows</hi> is in that respect &amp; degree superior to plays which</l>
+                        <l n="16">[blank]                      observe them less.</l>
+                        <l n="17">[blank]</l>
+                        <l n="18">[blank]            40     The authority for the Unity of Place is . . . held to be Castelvetro.</l>
+                        <l n="19">[blank]                      It is not, of course, an Aristotelian doctrine.</l>
+                        <l n="20">[blank]</l>
+                        <l n="21">[blank]             41     infl. of Spens. upon Marlowe . . . &amp; Marlowe’s great</l>
+                        <l n="22">[blank]                      disciple Milton showed what could be done</l>
+                        <l n="23">[blank]                      with blank verse in a long poem.</l>
+                        <l n="24">[blank]             44     The works of Sir Philip Sidney, excepting a few sonnets,</l>
+                        <l n="25">[blank]                      are not among those to which one can return for perpetual</l>
+                        <l n="26">[blank]                      refreshment; the Arcadia is a monument of dullness.</l>
+                        <l n="27">[blank]            44     The worst fault that poetry can commit is to be dull;</l>
+                        <l n="28">[blank]                     &amp; the Elizabethan dramatists were <add>. . . .</add> saved from dulless . . .</l>
+                        <l n="29">[blank]      B            by the necessity to amuse. Their livelihood depended</l>
+                        <l n="30">[blank]                    upon it: they had to amuse or starve.</l>
+                        <l n="31">[blank]</l>
+                        <l n="32">[blank]                     you cannot draw a line &amp; say here is backwater, here is the main</l>
+                        <l n="33">[blank]      A            stream. In the drama, . . . we seem to have . . . almost the whole body</l>
+                        <l n="34">[blank]                     of men of letters, a crowd of scholars coming down from Oxford and Camb.</l>
+                        <l n="35">[blank]                                                                                                          <add>almost</add> </l>
+                        <l n="36">[blank]                      to pick a poor living in London, needy &amp; often ‸ desperate men of</l>
+                        <l n="37">[blank]                      talent; &amp; on the other an alert, curious, semi-barbarous public, fond</l>
+                        <l n="38">[blank]                      of beer &amp; bawdry . . .<quote rend="end"/> </l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0097_text">
+                <div type="page" n="r.0097" xml:id="nb07_02_03_0097_recto_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0097-recto.jpeg"
+                        n="0097-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of lines 11, 22, and 27
+                        is doubled with a wavy line.!&amp;gt;</desc>
+                    <lg>
+                        <l n="01">[blank]             44              <quote rend="begin"/><note>Eliot, <hi rend="italics">Use of Poetry</hi> (see earlier note). </note>The Age of Dryden</l>
+                        <l n="02">[blank]</l>
+                        <l n="03">[blank]                          Ben Jonson: “to judge of poets is only the faculty of poets; &amp; not of all</l>
+                        <l n="04">[blank]                          poets, but the best.” Nevertheless, though I am not a good enough</l>
+                        <l n="05">[blank]                          poet to judge of Jonson, I have already tried to do so, &amp;</l>
+                        <l n="06">[blank]                          cannot now make matters worse.</l>
+                        <l n="07">[blank]</l>
+                        <l n="08">[blank]              Between Sidney &amp; Campion in the latter part of the 16th c, &amp; Jonson</l>
+                        <l n="09">[blank]                          . . . the greatest period of Eng. poetry is comprehended;</l>
+                        <l n="10">[blank]</l>
+                        <l n="11">[blank]                          . . . Jonson called his <hi rend="underline">Discoveries</hi> also <hi rend="underline">Timber</hi>, &amp; it is</l>
+                        <l n="12">[blank]                          timber w much undergrowth &amp; dead wood in it, but also</l>
+                        <l n="13">[blank]                          living trees.</l>
+                        <l n="14">[blank]</l>
+                        <l n="15">[blank]                          J’s list of the merits of poetry . . . is no more convincing than a</l>
+                        <l n="16">[blank]                          patent medicine circular; &amp; it has some of the heavy</l>
+                        <l n="17">[blank]                          sententiousness of Francis Bacon.</l>
+                        <l n="18">[blank]</l>
+                        <l n="19">[blank]                51     Dryden, Johnson, Wordsworth and Coleridge [critical minds]</l>
+                        <l n="20">[blank]                          Addison is a conspicuous example of this embarrassing mediocrity</l>
+                        <l n="21">[blank]</l>
+                        <l n="22"><hi rend="pencil">[blank]                56     (Dr. J<add>ohnson</add>) He could not even very much <hi rend="underline">like</hi> the poetry of his age . . .</hi></l>
+                        <l n="23">[blank]                          if more than just to Collins, he was no more than severe to Gray.</l>
+                        <l n="24">[blank]                          He himself, I am convinced, is their superior as a poet,</l>
+                        <l n="25">[blank]                          not in sensibility, not in metrical dexterity or aptness of</l>
+                        <l n="26">[blank]                          phrase, but in a moral elevation just short of sublimity.</l>
+                        <l n="27">[blank]                  57     . . . I view Johnson’s <hi rend="underline">Lives of the Poets</hi> as a masterpiece of the</l>
+                        <l n="28">[blank]                          judicial bench.</l>
+                        <l n="29">[blank]</l>
+                        <l n="30">[blank]                  71     Coleridge . . . in the form in which Mr. Richards<note>Richards, I.A. (see earlier note). </note> has abbreviated it: </l>
+                        <l n="31">[blank]                    . . . . imagination <add>. .</add> . . . reveals itself in . . . the sense of novelty </l>
+                        <l n="32">[blank]                        and freshness, with old &amp; familiar objects; a more than usual</l>
+                        <l n="33">[blank]                  <add>state of emotion, with more than usual order . . . . . .</add> </l>
+                        <l n="34">[blank]                        . . . the power of reducing multitude into variety of effect, &amp;</l>
+                        <l n="35">[blank]                        modifying a series of thoughts by some one predominant thought or</l>
+                        <l n="36">[blank]                        feeling.<note>Eliot cites Coleridge as abbreviated by I.A. Richards in <hi rend="italics">The Principles of Literary Criticism</hi> (London: Routledge &amp; Kegan Paul, 1924): 242.</note>                                              <hi rend="pencil">stasis</hi> </l>
+                        <l n="37">[blank]                         72 Dryden &amp; Johnson an age of <hi rend="underline">stasis</hi>: Words. &amp; Coler . . . an</l>
+                        <l n="38">[blank]                                                                                                              age of change<quote rend="end"/> </l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line] &amp;lt;!desc: lines 36-30, left margin!&amp;gt;Coleridge </l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line] </l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0098_text">
+                <div type="page" n="v.0098" xml:id="nb07_02_03_0098_verso_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0098-verso.jpeg"
+                        n="0098-verso"/>
+                    <desc>[Page-level Description] &amp;lt;!MM places two vertical bars to the left
+                        of the text on lines 25-27.!&amp;gt;</desc>
+                    <lg>
+                        <l n="01">[blank]         95     <quote rend="begin"/><note>Eliot, <hi rend="italics">Use of Poetry</hi> (see earlier note). </note>though he speaks to us of discipline (Arnold), it is the</l>
+                        <l n="02">[blank]                    discipline of culture, not the discipline of suffering.</l>
+                        <l n="03">[blank]</l>
+                        <l n="04">[blank]          96     Even if the delight we get from Arnold’s writings, prose &amp; verse,</l>
+                        <l n="05">[blank]                    be moderate, yet he is in some respects the most satisfactory</l>
+                        <l n="06">[blank]                    man of letters of his age . . . Arnold was not a man</l>
+                        <l n="07">[blank]                    of vast or exact scholarship, &amp; he had neither walked</l>
+                        <l n="08">[blank]                    in hell nor been <del>wrapt</del> rapt to heaven; but what he did</l>
+                        <l n="09">[blank]                    know, of books &amp; men, was in its way well-balanced and</l>
+                        <l n="10">[blank]                    well-marshalled.</l>
+                        <l n="11">[blank]          97     In philos. &amp; theology he was an undergraduate; in</l>
+                        <l n="12">[blank]                    religion a Philistine.</l>
+                        <l n="13">[blank]          97     I cannot but think of <hi rend="underline">Tristram and Iseult</hi> &amp; The <hi rend="underline">Forsaken</hi> </l>
+                        <l n="14">[blank]                    <hi rend="underline">Merman</hi> as charades</l>
+                        <l n="15">[blank]       97-8   With all his fastidiousness &amp; superciliousness &amp; officiality, Arnold</l>
+                        <l n="16">[blank]                    is more intimate with us than Browning, than Tennyson</l>
+                        <l n="17">[blank]                    ever is except at moments, as in the passionate flights in <hi rend="underline">In</hi> </l>
+                        <l n="18">[blank]                                                                                                                   <hi rend="underline">Memoriam</hi> </l>
+                        <l n="19">[blank]          98     I suspect                                            Arnold of helping to fix</l>
+                        <l n="20">[blank]                    the wholly mistaken notion of Burns as a singular untutored</l>
+                        <l n="21">[blank]                    English dialect poet, instead of as a decadent</l>
+                        <l n="22">[blank]                    representative of a great alien tradition.</l>
+                        <l n="23">[blank]</l>
+                        <l n="24">[blank]            98   . . . the essential advantage for a poet is not to have a</l>
+                        <l n="25">[blank]                    beautiful world w. wh. to deal: it is to be able to see</l>
+                        <l n="26">[blank]                    beneath both beauty &amp; ugliness; to see the boredom,</l>
+                        <l n="27">[blank]                    and the horror, &amp; the glory.</l>
+                        <l n="28">[blank]</l>
+                        <l n="29">[blank]         100    One feels that the writing of poetry brought him little of that</l>
+                        <l n="30">[blank]                    excitement, that joyful loss of self in the workmanship of art</l>
+                        <l n="31">[blank]                    that intense &amp; transitory relief which comes at the moment of</l>
+                        <l n="32">[blank]                    completion &amp; is the chief reward of creative work.</l>
+                        <l n="33">[blank]</l>
+                        <l n="34">[blank]         103    Arnold: “Poetry is at bottom a criticism of life.” <add>. . . .</add> We bring</l>
+                        <l n="35">[blank]                    back very little fr. our rare descents, and that is not criticism.<quote rend="end"/> </l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]</l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0099_text">
+                <div type="page" n="r.0099" xml:id="nb07_02_03_0099_recto_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0099-recto.jpeg"
+                        n="0099-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of line 16 is doubled
+                        with a wavy line.</desc>
+                    <lg>
+                        <l n="01">[blank]         108       <quote rend="begin"/><note>Eliot, <hi rend="italics">Use of Poetry</hi> (see earlier note).</note>Shd not proceed to think of the poetry as being primarily the</l>
+                        <l n="02">[blank]                       vehicle of                                    communication</l>
+                        <l n="03">[blank]</l>
+                        <l n="04">[blank]      109-110    There are also dangers arising fr. being too sure that one knows</l>
+                        <l n="05">[blank]                      what “genuine poetry” is.</l>
+                        <l n="06">[blank]                                                                         <add>for him,</add> </l>
+                        <l n="07">[blank]          111      He was so conscious of what ‸ poetry was <hi rend="underline">for</hi>, that he could not</l>
+                        <l n="08">[blank]                      altogether see it for what it is.</l>
+                        <l n="09">[blank]</l>
+                        <l n="10">[blank]          111      What I call the “auditory imagination” is the feeling for syllable</l>
+                        <l n="11">[blank]                      &amp; rhythm, penetrating far below the conscious levels of thought</l>
+                        <l n="12">[blank]                      &amp; feeling, invigorating every word;</l>
+                        <l n="13">[blank]</l>
+                        <l n="14">[blank]          112             <hi rend="underline">The Modern Mind</hi>    Mar<add>ch</add> 17, 1933</l>
+                        <l n="15">[blank]                      Morgann’s Essay on the character of Falstaff &amp; Coleridge’s</l>
+                        <l n="16">[blank]                      <hi rend="underline">Lectures on Shakespeare</hi> [in conn. w. progress in self-consiousness]</l>
+                        <l n="17">[blank]                                            <add>(Dante)</add> </l>
+                        <l n="18">[blank]          118     What the poet experienced is not poetry but poetic material.</l>
+                        <l n="19">[blank]</l>
+                        <l n="20">[blank]          118     Mr. Richards<note>Richards, I.A. (see earlier note). </note> is much occupied w the religious problem simply</l>
+                        <l n="21">[blank]                     in the attempt to avoid it.</l>
+                        <l n="22">[blank]</l>
+                        <l n="23">[blank]          122     the poet does many things upon instinct, for which he can give</l>
+                        <l n="24">[blank]                      no better account than anybody else.</l>
+                        <l n="25">[blank]</l>
+                        <l n="26">[blank]          133     Mr. Yeats’s <hi rend="underline">Autobiographies</hi> . . . He was very much</l>
+                        <l n="27">[blank]                      fascinated by self-induced trance states . . . mediums,</l>
+                        <l n="28">[blank]                      theosophy, crystal-gazing, folklore &amp; hobgoblins.</l>
+                        <l n="29">[blank]                      Golden apples, archers, black pigs &amp; such paraphernalia</l>
+                        <l n="30">[blank]                      abounded . . . but you cannot take heaven</l>
+                        <l n="31">[blank]                      by magic, espec. if you are, like Mr. Yeats,</l>
+                        <l n="32">[blank]                      a very sane person. (Best analysis of the weakness</l>
+                        <l n="33">[blank]                      of Mr. Yeats’s poetry that I know is in Mr. Richards’s</l>
+                        <l n="34">[blank]                      <hi rend="underline">Science and Poetry</hi>.</l>
+                        <l n="35">[blank]</l>
+                        <l n="36">[blank]           145     anything that can be said as well in prose can be said</l>
+                        <l n="37">[blank]                      better in prose—<quote rend="end"/> </l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0100_text">
+                <div type="page" n="r.0100" xml:id="nb07_02_03_0100_recto_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0100-recto.jpeg"
+                        n="0100-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of line 23 is
+                        doubled.!&amp;gt;</desc>
+                    <lg>
+                        <l n="01">[blank]         146      <quote rend="begin"/><note>Eliot, <hi rend="italics">Use of Poetry</hi> (see earlier note). </note>The ideal medium for poetry, to my mind. . . . <del>is the</del> &amp;</l>
+                        <l n="02">[blank]                      the most direct means of social “usefulness” for poetry,</l>
+                        <l n="03">[blank]                      is the theatre. In a play of Shakes you get several </l>
+                        <l n="04">[blank]                      levels of significance. For the simplest auditors</l>
+                        <l n="05">[blank]                      there is the plot, for the more thoughtful the char &amp;</l>
+                        <l n="06">[blank]                      conflict of character, for the more literary the words</l>
+                        <l n="07">[blank]                      &amp; phrasing, for the more musically sensitive the</l>
+                        <l n="08">[blank]                      rhythm, &amp; for auditors of greater sensitiveness</l>
+                        <l n="09">[blank]                      &amp; understanding a meaning which reveals itself</l>
+                        <l n="10">[blank]                      gradually.</l>
+                        <l n="11">[blank]          146     the sensitiveness of every auditor is acted on by all</l>
+                        <l n="12">[blank]                      these elements at once—</l>
+                        <l n="13">[blank]</l>
+                        <l n="14">[blank]          147     Every poet would like, I fancy, to be able to think</l>
+                        <l n="15">[blank]                      that he had some direct social utility . . .</l>
+                        <l n="16">[blank]</l>
+                        <l n="17">[blank]                      to give an immediate compensation for the pains</l>
+                        <l n="18">[blank]                      of turning blood into ink.</l>
+                        <l n="19">[blank]</l>
+                        <l n="20">[blank]          149     . . . our lives are mostly a constant evasion of ourselves,</l>
+                        <l n="21">[blank]                    and an evasion of the visible &amp; sensible world.<quote rend="end"/> </l>
+                        <l n="22">[blank]</l>
+                        <l n="23">[blank]                                        <bibl type="begin"/><hi rend="underline">Selected Essays</hi>   Oct. 1934<bibl type="end"/> </l>
+                        <l n="24">[blank]                                                                                                                  <add>(1917)</add> </l>
+                        <l n="25">[blank]                              T.S. Eliot            [Tradition and the Individual Talent]</l>
+                        <l n="26">[blank]          14   <quote rend="begin"/> <note>Eliot, T.S. <hi rend="italics">Selected Essays</hi>. Second edition, revised and enlarged. London: Faber &amp; Faber, 1934. </note>We dwell w. satisfaction upon the poet’s difference fr. his</l>
+                        <l n="27">[blank]                    predecessors . . . Whereas if we approach a poet without</l>
+                        <l n="28">[blank]                    this prejudice we shall often find that not only the</l>
+                        <l n="29">[blank]                    best, but the most individual parts of his work may</l>
+                        <l n="30">[blank]                    be those in which the dead poets, his ancestors,</l>
+                        <l n="31">[blank]                    assert their immortality most vigorously.</l>
+                        <l n="32">[blank]</l>
+                        <l n="33">[blank]           14     Tradition . . . cannot be inherited . . . . . It involves,</l>
+                        <l n="34">[blank]                    in the first <del>place</del> place, the historical sense, . . . . . . . . </l>
+                        <l n="35">[blank]                    &amp; the historical sense involves a perception, not only of the<quote rend="end"/></l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]</l>
                         <l n="38">[blank]</l>
                         <l n="39">[blank]</l>
                         <l n="40">[blank]</l>
