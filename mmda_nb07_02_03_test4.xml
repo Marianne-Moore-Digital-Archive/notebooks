@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?>
+<TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <teiHeader>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Notebook 07.01.04</title>
+                    <author>Marianne Moore</author>
+                    <editor>
+                        <persName>Cristanne Miller, Claire Nashar</persName>
+                        <note>Notebook Editor, June 12, 2020 - present</note>
+                    </editor>
+                    <respStmt>
+                        <persName/>
+                        <resp>Proofreader</resp>
+                    </respStmt>
+                    <respStmt>
+                        <persName/>Proofreader</respStmt>
+                    <editor>
+                        <persName>Nikolaus Wasmoen,</persName>
+                        <note>Digital Editor</note>
+                    </editor>
+                    <respStmt> </respStmt>
+                    <respStmt>
+                        <persName>Edward J. Sobczak,</persName>
+                        <resp>Web Administrator</resp>
+                    </respStmt>
+                </titleStmt>
+                <publicationStmt>
+                    <publisher>Marianne Moore Digital Archive (moorearchive.org)</publisher>
+                    <date>[Pub Date]</date>
+                    <availability/>
+                </publicationStmt>
+            </fileDesc>
+        </teiHeader>
+    </teiHeader>
+    <p>[Copyright and Usage Statement]</p>
+    <teiHeader>
+        <teiHeader>
+            <fileDesc>
+                <publicationStmt>
+                    <availability>
+                        <licence>[License info]</licence>
+                    </availability>
+                    <idno>07.01.04</idno>
+                    <date>1923</date>
+                </publicationStmt>
+                <sourceDesc>
+                    <msDesc>
+                        <msIdentifier>
+                            <repository> Marianne Moore Collection, Rosenbach Museum and Library,
+                                Philadelphia, PA
+                                (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
+                            <idno>VII.01.04</idno>
+                        </msIdentifier>
+                    </msDesc>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+    </teiHeader>
+    <p>[Notebook description here.]</p>
+    <p>Relevant to publications: [list of publications here].</p>
+    <teiHeader>
+        <fileDesc>
+            <sourceDesc>
+                <msDesc/>
+            </sourceDesc>
+        </fileDesc>
+        <!-- <encodingDesc>
+
+            <classDecl>
+
+                <taxonomy source="https://arc-staging.dh.tamu.edu/index.php/Submitting_RDF">
+
+                    <category source="collex" xml:id="discipline">
+
+                        <catDesc>Literature</catDesc>
+
+                        <catDesc>Manuscript Studies</catDesc>
+
+                    </category>
+
+                    <category source="collex" xml:id="genre">
+
+                        <catDesc>Advertisement</catDesc>
+
+                        <catDesc>Criticism</catDesc>
+
+                        <catDesc>Ephemera</catDesc>
+
+                        <catDesc>Poetry</catDesc>
+
+                        <catDesc>Religion</catDesc>
+
+                        <catDesc>Review</catDesc>
+
+                        <catDesc>Speech</catDesc>
+
+                        <catDesc>Visual Art</catDesc>
+
+                    </category>
+
+                    <category source="collex" xml:id="thumbnail">
+
+                        <catDesc>[thumbnail image URL for notebook/object]</catDesc>
+
+                    </category>
+
+                    <category source="collex" xml:id="text">
+
+                        <catDesc>[plain text URL]</catDesc>
+
+                    </category>
+
+                    <category source="dc" xml:id="date">
+
+                        <catDesc>1930-43</catDesc>
+
+                    </category>
+
+                    <category source="dcterms" xml:id="hasPart">
+
+                        <catDesc>[notebook page RDF objects]</catDesc>
+
+                    </category>
+
+                </taxonomy>
+
+            </classDecl>
+
+        </encodingDesc> -->
+    </teiHeader>
+    <!-- Add facsimile element here with zone elements, when ready. -->
+    <text>
+        <body>
+            <div type="image" xml:id="nb07_02_03_0169_text">
+                <div type="page" n="r.0169" xml:id="nb07_02_03_0169_recto_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0169-recto.jpeg"
+                        n="0169-recto"/>
+                    <desc>[Page-level Description]</desc>
+                    <lg>
+                        <l n="01">[blank]                   <quote rend="begin"/><note>Matthiessen, <hi rend="italics">Renaissance</hi> (see earlier note). </note>that he cld hear every day in the street or workshop.</l>
+                        <l n="02">[blank]</l>
+                        <l n="03">[blank]           38     E’s continual joy in the homeliest speech . . . or in the understatements</l>
+                        <l n="04">[blank]                    of the farmers who referred to mountain peaks . . . as ‘them ere rises’</l>
+                        <l n="05">[blank]</l>
+                        <l n="06">[blank]           38     Professor Francis Bowen (in the review of <hi rend="underline">Nature</hi>): ‘Emerson is in</l>
+                        <l n="07">[blank]                           <add>trans. of Tocqueville</add> </l>
+                        <l n="08">[blank]                    love with the old Saxon idiom, yet there is a spice of affectation</l>
+                        <l n="09">[blank]                    in his mode of using it. He is sometimes coarse &amp; blunt, that he</l>
+                        <l n="10">[blank]                    may avoid the imputation of sickly refinement, . . . e.g. Whilst we</l>
+                        <l n="11">[blank]                    use this grand cipher to expedite the affairs of our pot &amp; kettle.</l>
+                        <l n="12">[blank]</l>
+                        <l n="13">[blank]           39     Manifest Destiny, Democracy, Freedom, fine names for an</l>
+                        <l n="14">[blank]                    ugly thing. They call it otto of rose and lavender,—I call it bilge-</l>
+                        <l n="15">[blank]                                                                                                                                 water.’</l>
+                        <l n="16">[blank]                    vocab. of new discoveries, Humboldt’s ‘magnetic storms,’</l>
+                        <l n="17">[blank]                    and ‘veins inosculate,’ or in that electric phrase, ‘arrested</l>
+                        <l n="18">[blank]                    development,’ in Chambers’s <hi rend="underline">Vestiges of Creation</hi>.</l>
+                        <l n="19">[blank]</l>
+                        <l n="20">[blank]           40     Em.   Literature ‘the finest tool of all’ in being ‘nearest to the mind.’</l>
+                        <l n="21">[blank]</l>
+                        <l n="22">[blank]                    5   ‘The Light of the Body is the Eye’</l>
+                        <l n="23">[blank]                    He held it the poet’s function to cast enchantment over just</l>
+                        <l n="24">[blank]                    such seemingly humble &amp; trivial objects. (as the sea-shell)</l>
+                        <l n="25">[blank]           45                                  <seg type="versebegin"/>Being’s tide</l>
+                        <l n="26">[blank]                              Swells hitherward, &amp; myriads of forms</l>
+                        <l n="27">[blank]                              Live robed w. beauty, painted by the sun;</l>
+                        <l n="28">[blank]                              Their dust, pervaded by the nerves of God,</l>
+                        <l n="29">[blank]                              Throbs w an overmastering energy</l>
+                        <l n="30">[blank]                              Knowing and doing.</l>
+                        <l n="31">[blank]                                                            . . . ebbs the tide, they lie</l>
+                        <l n="32">[blank]                              White hollow shells upon the desert shore.<seg type="verseend"/> </l>
+                        <l n="33">[blank]</l>
+                        <l n="34">[blank]           45     When I got home I could find nothing that I gathered—</l>
+                        <l n="35">[blank]                    nothing but some dry, ugly mussel &amp; snail shells. Thence I learned</l>
+                        <l n="36">[blank]                    that composition was more important than the beauty of individual forms<quote rend="end"/> </l>
+                        <l n="37">[blank]</l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0170_text">
+                <div type="page" n="v.0170" xml:id="nb07_02_03_0170_verso_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0170-verso.jpeg"
+                        n="0170-verso"/>
+                    <desc>[Page-level Description] &amp;lt;!MM draws a vertical bar to the right of
+                        the marginal note on line 21 and the left of the text on lines
+                        19-22.!&amp;gt;</desc>
+                    <lg>
+                        <l n="01">[blank]             <note>Matthiessen, <hi rend="italics">Renaissance</hi> (see earlier note). </note><quote rend="begin"/>to effect. On the shore they lay wet &amp; social by the sea &amp; under</l>
+                        <l n="02">[blank]              the sky.’</l>
+                        <l n="03">[blank]                              cf. ‘Each &amp; All’ . . . :  ‘the perfect whole.’</l>
+                        <l n="04">[blank]           46     The irregularity with which he tried to</l>
+                        <l n="05">[blank]                                                                <seg type="versebegin"/>mount to paradise</l>
+                        <l n="06">[blank]                                              By the stairway of surprise,”<seg type="verseend"/>  </l>
+                        <l n="07">[blank]                    was not Merlin’s, but more nearly an echo of what Herbert</l>
+                        <l n="08">[blank]                    and Donne had suggested to him. But lacking their</l>
+                        <l n="09">[blank]                    dramatic concentration, his conceits could often run to seed,</l>
+                        <l n="10">[blank]                    as in the dizzy waywardness of ‘The Humble Bee.’</l>
+                        <l n="11">[blank]</l>
+                        <l n="12">[blank]           47   . . . wrote to Lydia Jackson shortly before their marriage in 1835:</l>
+                        <l n="13">[blank]                     I am born a poet,—of a low class without doubt, yet a poet.</l>
+                        <l n="14">[blank]                  . . . My singing, be sure, is very husky, &amp; is for the most part</l>
+                        <l n="15">[blank]                    in prose. Still I am a poet in the sense of a perceiver</l>
+                        <l n="16">[blank]                    &amp; dear lover of the harmonies that are in the soul</l>
+                        <l n="17">[blank]                    &amp; in matter, &amp; specially of the correspondences bet. these &amp;</l>
+                        <l n="18">[blank]                                                                                                                    those.’</l>
+                        <l n="19">[blank]          48     What else is it to be a poet? . . . What but a sensibility so keen</l>
+                        <l n="20">[blank]                    that the scent of an elder-blow, or the timberyard &amp; corporation</l>
+                        <l n="21">[blank]  poet            works of a nest of pismires is event enough for him,—all</l>
+                        <l n="22">[blank]                    emblems and personal appeals to him.</l>
+                        <l n="23">[blank]</l>
+                        <l n="24">[blank]           49     The Rhodora  cf To a Waterfowl (Bryant)</l>
+                        <l n="25">[blank]</l>
+                        <l n="26">[blank]           49     chapter in <hi rend="underline">Nature</hi> that deals w ‘<del>b</del>Beauty’ Beauty</l>
+                        <l n="27">[blank]                    the simple perception of natural forms is a delight.</l>
+                        <l n="28">[blank]</l>
+                        <l n="29">[blank]           49     ‘For other things, I make poetry of them, but the moral</l>
+                        <l n="30">[blank]                    sentiment makes poetry of me.’ Wanted the sentiment</l>
+                        <l n="31">[blank]                    ‘to blend with &amp; pervade the whole. Beauty could</l>
+                        <l n="32">[blank]                    express it, without apology; yet even in saying that,</l>
+                        <l n="33">[blank]                    he betrays his background. A lingering trace of doubt<quote rend="end"/> </l>
+                        <l n="34">[blank]</l>
+                        <l n="35">[blank]</l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]</l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line]</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_03_0171_text">
+                <div type="page" n="r.0171" xml:id="nb07_02_03_0171_recto_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0171-recto.jpeg"
+                        n="0171-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!MM places a vertical bar to the left of
+                        the text on lines 01-02 and another between the marginal comment and the
+                        text on lines 32-34.!&amp;gt;</desc>
+                    <lg>
+                        <l n="01">[blank]                   <quote rend="begin"/><note>Matthiessen, <hi rend="italics">Renaissance</hi> (see earlier note). </note>causes him to make an excuse in the very act of saying</l>
+                        <l n="02">[blank]                    that one is not needed.</l>
+                        <l n="03">[blank]                                     proportion</l>
+                        <l n="04">[blank]           50                      economy</l>
+                        <l n="05">[blank]                                     avoidance of surface embellishments</l>
+                        <l n="06">[blank]</l>
+                        <l n="07">[blank]           50     his almost exclusive absorption with seeing.</l>
+                        <l n="08">[blank]                    . . . said he had not a musical car, he had ‘musical eyes.’</l>
+                        <l n="09">[blank]                    . . . there is no object that intense light will not make beautiful.</l>
+                        <l n="10">[blank]           51     the poet is the man ‘whose eye can integrate all the parts.’</l>
+                        <l n="11">[blank]</l>
+                        <l n="12">[blank]           52     Emerson: ‘the sensual man conforms thoughts to things; the poet</l>
+                        <l n="13">[blank]                    conforms things to his thoughts.’           could be interpreted</l>
+                        <l n="14">[blank]                    variously, but the drift of E’s meaning is shown by</l>
+                        <l n="15">[blank]                    his acceptance of Bacon’s formula for poetry—</l>
+                        <l n="16">[blank]                         “Poetry, not finding the actual world xactly conformed</l>
+                        <l n="17">[blank]                    to its idea of good and fair, seeks to accommodate the</l>
+                        <l n="18">[blank]                    shows of things to the desires of the mind, &amp; to create an</l>
+                        <l n="19">[blank]                    ideal world better than the world of xperience.’   cf. the view</l>
+                        <l n="20">[blank]       that the greatest art comes fr. immersion in the complexities of experience</l>
+                        <l n="21">[blank]                                    <add>oesie</add> </l>
+                        <l n="22">[blank]                    Bacon: (P.) was ever thought to have some participation of divineness</l>
+                        <l n="23">[blank]                    bec. it doth raise &amp; erect the mind, by submitting the shows</l>
+                        <l n="24">[blank]                    of things to the desires of the mind; whereas reason doth</l>
+                        <l n="25">[blank]                    buckle &amp; bow the mind into the nature of things.’</l>
+                        <l n="26">[blank]                    cf. Bacon’s: “For as for Poesy, it is rather a pleasure or</l>
+                        <l n="27">[blank]                    play of Imagination, than a work or duty thereof”; &amp;</l>
+                        <l n="28">[blank]                     “History is the best of all the liberal arts—I had</l>
+                        <l n="29">[blank]                    almost said of only use; for poets I can commend none,</l>
+                        <l n="30">[blank]                    being resolved to be ever a stranger to them.”</l>
+                        <l n="31">[blank]</l>
+                        <l n="32">[blank]           53     his four-beat couplet seems to be pounding on monotonously</l>
+                        <l n="33">[blank]                 . . . not fused with the phrases that are brought to fit it.</l>
+                        <l n="34">[blank]                    Thoreau to Emerson: “The tune is al<del>together</del> unworthy of the</l>
+                        <l n="35">[blank]                    thoughts. You slope too quickly to the rhyme . . . It sounds</l>
+                        <l n="36">[blank]                    like parody . . . Yet I love your poetry when you get fairly round the</l>
+                        <l n="37">[blank]                    end of the line, &amp; are not thrown back upon the rocks.”<quote rend="end"/> </l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
+                    </lg>
+                    <lg type="vertical">
+                        <l n="v01">[vertical line] &amp;lt;!desc: lines 36-27, left margin, to right of page number on line 32!&amp;gt;split bet. form &amp; content</l>
+                        <l n="v02">[vertical line]</l>
+                        <l n="v03">[vertical line]</l>
+                        <l n="v04">[vertical line]</l>
+                        <l n="v05">[vertical line]</l>
+                        <l n="v06">[vertical line]</l>
+                    </lg>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
