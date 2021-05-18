@@ -1,84 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?>
-<TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-    <!-- <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <teiHeader>
+        <!--<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"> -->
-    <teiHeader>
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>Notebook 07.04.05</title>
-                    <author>Marianne Moore</author>
-                    <editor>
-                        <persName>Elizabeth Gregory</persName>
-                        <note>Notebook Editor, November 5, 2015 - April 25, 2021</note>
-                    </editor>
-                    <respStmt>
-                        <persName>Cristanne Miller,</persName>
-                        <resp>Proofreader</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Claire Nashar,</persName>
-                        <resp>Proofreader</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Heather Cass White,</persName>
-                        <resp>Proofreader</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Emelie Griffin,</persName>
-                        <resp>Editorial Assistant</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Abigale Ramos,</persName>
-                        <resp>Editorial Assistant</resp>
-                    </respStmt>
-                    <editor>
-                        <persName>Nikolaus Wasmoen,</persName>
-                        <note>Digital Editor</note>
-                    </editor>
-                    <respStmt> </respStmt>
-                    <respStmt>
-                        <persName>Edward J. Sobczak,</persName>
-                        <resp>Web Administrator</resp>
-                    </respStmt>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Marianne Moore Digital Archive (moorearchive.org)</publisher>
-                    <date>[Pub Date]</date>
-                    <availability/>
-                </publicationStmt>
-            </fileDesc>
-        </teiHeader>
-    </teiHeader>
-    <p>[Copyright and Usage Statement]</p>
-    <teiHeader>
-        <teiHeader>
-            <fileDesc>
-                <publicationStmt>
-                    <availability>
-                        <licence>[License info]</licence>
-                    </availability>
-                    <idno>07.01.04</idno>
-                    <date>1923</date>
-                </publicationStmt>
-                <sourceDesc>
-                    <msDesc>
-                        <msIdentifier>
-                            <repository> Marianne Moore Collection, Rosenbach Museum and Library,
-                                Philadelphia, PA
-                                (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
-                            <idno>VII.04.05</idno>
-                        </msIdentifier>
-                    </msDesc>
-                </sourceDesc>
-            </fileDesc>
-        </teiHeader>
-    </teiHeader>
-    <p>Study Assignments book, with calendars on first page for 1959 & 
-1960, blue leather binding with gold decorations and lettering on cover. The 2 words 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>-->
+        <fileDesc>
+            <titleStmt>
+                <title>Notebook 07.04.05</title>
+                <author>Marianne Moore</author>
+                <editor>
+                    <persName>Elizabeth Gregory</persName>
+                    <note>Notebook Editor, November 5, 2015 - April 25, 2021</note>
+                </editor>
+                <respStmt>
+                    <persName>Cristanne Miller,</persName>
+                    <resp>Proofreader</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Claire Nashar,</persName>
+                    <resp>Proofreader</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Heather Cass White,</persName>
+                    <resp>Proofreader</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Emelie Griffin,</persName>
+                    <resp>Editorial Assistant</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Abigale Ramos,</persName>
+                    <resp>Editorial Assistant</resp>
+                </respStmt>
+                <editor>
+                    <persName>Nikolaus Wasmoen,</persName>
+                    <note>Digital Editor</note>
+                </editor>
+                
+                <respStmt>
+                    <persName>Edward J. Sobczak,</persName>
+                    <resp>Web Administrator</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Marianne Moore Digital Archive (moorearchive.org)</publisher>
+                <date>[Pub Date]</date>
+                <availability>
+                    <licence>[License info]</licence>
+                </availability>
+                <idno>07.01.04</idno>
+                <date>1923</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository> Marianne Moore Collection, Rosenbach Museum and Library,
+                            Philadelphia, PA
+                            (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
+                        <idno>VII.04.05</idno>
+                    </msIdentifier>
+                    <p>Study Assignments book, with calendars on first page for 1959 &amp; 1960, blue leather binding with gold decorations and lettering on cover. The 2 words 
 Study / Assignments are stacked vertically, on the cover.  RML number written in pencil 1251/10 on image003. Pages are lined, with 34 lines per page, plus space at the top in which MM sometimes writes one or more lines of notes. Pages are numbered on odd/recto pages only, in blue ink, by hand through p. 31 [image 0037; no numbers thereafter]. Verso pages have the words STUDY ASSIGNMENTS printed in ink at top [through image 0078; after that all pages are unlined with no printing], and the lines below are divided into 5 sections, each with CLASS and DATE printed on the first line of the section, with room to write that information in. The first four sections are 7 lines each, the fifth is 6 lines. Recto pages are blank but are effectively lined because the lines from the reverse page show through. Moore uses black ink except as noted. Old RML notebook number: 1251-10.
 
 <!-- Editorial Note: 
@@ -86,11 +69,8 @@ For ease of proofing, I mark passages written vertically or in clusters independ
         -->
 
 </p>
-    <p>Relevant to publications: “An Expedient—Leonardo da Vinci’s—and a Query,” “Arthur Mitchell,” “Avec Ardeur,” “Baseball and Writing,” “Blue Bug,” “Charity Overcoming Envy,” “Dream,” “Enough (1969),” “Foreword” to the Marianne Moore Reader, “Mercifully,” “Old Amusement Park,” “Prevalent at One Time,” “Reminiscent of a Wave at the Curl,” “Rescue with Yul Brynner,” “The Camperdown Elm,” “The Magician’s Retreat,” “The Mind, Intractable Thing,” “To a Giraffe,” “To Victor Hugo of My Crow Pluto,” “W. S. Landor”!</p>
-    <teiHeader>
-        <fileDesc>
-            <sourceDesc>
-                <msDesc/>
+                    <p>Relevant to publications: “An Expedient—Leonardo da Vinci’s—and a Query,” “Arthur Mitchell,” “Avec Ardeur,” “Baseball and Writing,” “Blue Bug,” “Charity Overcoming Envy,” “Dream,” “Enough (1969),” “Foreword” to the Marianne Moore Reader, “Mercifully,” “Old Amusement Park,” “Prevalent at One Time,” “Reminiscent of a Wave at the Curl,” “Rescue with Yul Brynner,” “The Camperdown Elm,” “The Magician’s Retreat,” “The Mind, Intractable Thing,” “To a Giraffe,” “To Victor Hugo of My Crow Pluto,” “W. S. Landor”!</p>
+                </msDesc>
             </sourceDesc>
         </fileDesc>
         <!-- <encodingDesc>
