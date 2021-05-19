@@ -590,7 +590,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="10">  I don't  mind the mists of fairyland</l>
                         <l n="11">   <del>I have</del> a rock on which t<hi rend="pencil">o</hi> stand.<hi rend="pencil">?</hi></l>
                         <l n="12">  <hi rend="pencil">     Where is</hi></l>
-                        <l n="13"><hi rend="pencil"> my great ple<del/></hi><hi rend="red">ea   plea</hi></l>
+                        <l n="13"><hi rend="pencil"> my great ple<del><gap extent="1" resp="eg"/></del></hi><hi rend="red">ea   plea</hi></l>
                         <l n="14"><hi rend="pencil">   is: <hi rend="underline">neglect me</hi></hi></l>
                         <l n="15"><hi rend="pencil"> <seg type="genre-read-begin"/><bibl type="begin"/>Old M Hubbard's Cottage  Aug         1961  </hi></l>
                         <l n="16"><hi rend="pencil">       in the Listener<note n="n033"> Sparrow, Kenneth. "Did You Hear That?: Mother Hubbard."<hi rend="italic">BBC Listener</hi>  66.1688 (3 August 1961): 161. This tells the story of a nursery rhyme (published 1805) by Sarah Catherine Martin, a maiden aunt who turned down a marriage proposal from the crown prince. </note><bibl type="end"/>                                    is quite is pleasing to me</hi></l>
@@ -708,39 +708,39 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                 <div type="page" n="v.0022" xml:id="nb_07_04_05_0022_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0022-verso.jpg" n="0022-verso"/>
                     <lg>
-                        <l n="01"> <seg type="draft-begin"/><hi rend="red">a parody of course<note n="n041"> MM drafts toward "Baseball and Writing."</note></hi></l>
-                        <l n="02"> <hi rend="red"> 	  		?  at source</hi></l>
-                        <l n="03"> <hi rend="red">but a eulog<del>log</del>ergy </hi><del>perforce</del></l>
-                        <l n="04">  excitement</l>
-                        <l n="05">  			<hi rend="red">the source</hi></l>
-                        <l n="06"> Title: <hi rend="underline">Writing &amp; Baseball</hi>  <hi rend="pencil">that circumstances</hi></l>
-                        <l n="07"><hi rend="pencil">  						  	nurse</hi></l>
-                        <l n="08"> <hi rend="underline">Writing is exciting</hi></l>
-                        <l n="09"> and baseball is <del>exciting</del> like <del>baseball</del>writing  </l>
-                        <l n="10">  <del>the same</del> like <del>principles apply</del></l>
-                        <l n="11">  	<del>judgements</del></l>
+                        <l n="01"><hi rend="red">            a parody of course<note n="n041"> MM drafts toward "Baseball and Writing."</note></hi></l>
+                        <l n="02"> <hi rend="red">                                   ?  at source</hi></l>
+                        <l n="03"> <hi rend="red">             but a eulog<del>log</del>ergy </hi><del>perforce</del></l>
+                        <l n="04">                        excitement</l>
+                        <l n="05">  			<hi rend="red">                                             the source</hi></l>
+                        <l n="06"> Title:    <hi rend="underline">Writing &amp; Baseball</hi>       <hi rend="pencil">that circumstances</hi></l>
+                        <l n="07"><hi rend="pencil">                                                                            nurse</hi></l>
+                        <l n="08">         Writing is exciting                         <add>writing</add>                      </l>
+                        <l n="09">          and baseball is <del>exciting</del> like <del>baseball</del></l>
+                        <l n="10">             <del>the same</del> like <del>principles apply</del></l>
+                        <l n="11">  	                                     <del>judgements</del></l>
                         <l n="12"/>
-                        <l n="13"> 		 You never know <del>with either</del></l>
+                        <l n="13">         You never know <del>with either</del></l>
                         <l n="14">  with either, how it will go</l>
-                        <l n="15">  		<del>you have to wait &amp; see</del>			 	</l>
-                        <l n="16">  		  work	  5 innings, or nine,</l>
-                        <l n="17">  		you work nine innings		or two</l>
-                        <l n="18">  		you work 9 months for years	don't know</l>
-                        <l n="19"> the thing is entertaining	 and	  what you will</l>
-                        <l n="20">  obstructions are detaining		do</l>
-                        <l n="21">  		<hi rend="pencil">but it generates fanatics</hi></l>
-                        <l n="22">  Cereal a protein, vitamins, nutriment</l>
-                        <l n="23">  		  <hi rend="pencil">what is there to excite</hi></l>
-                        <l n="24"><hi rend="pencil"> 		a fan is a fanatic</hi></l>
-                        <l n="25"><hi rend="pencil">  		  whose emotions you ignite</hi></l>
+                        <l n="15">  		        <del>you have to wait &amp; see</del>			 	</l>
+                        <l n="16">                            work                 5 innings, or nine,</l>
+                        <l n="17">     you work nine innings                         or two</l>
+                        <l n="18">        you work 9 months for years    don't know</l>
+                        <l n="19">  the thing is entertaining            <del>and</del>    what you will</l>
+                        <l n="20">                    obstructions are detaining                    do</l>
+                        <l n="21">  		<hi rend="pencil">                   but it generates fanatics</hi></l>
+                        <l n="22">  Cereal a protein, vitamins, nutriment</l>
+                        <l n="23">  		  <hi rend="pencil">                      what is there to excite</hi></l>
+                        <l n="24"><hi rend="pencil">     a fan is a fanatic</hi></l>
+                        <l n="25"><hi rend="pencil">                whose emotions you ignite</hi></l>
                         <l n="26">  </l>
                         <l n="27"><hi rend="red">This is excitement not vacuus babble</hi></l>
-                        <l n="28"><hi rend="red">  		  <bibl type="begin"/>NYT Sept 11	Jack Gould<note n="n042"> Gould, Jack [1914-1993],<hi rend="italic">New York Times</hi>  TV critic. He described daytime TV as appropriately interruptable for viewing by busy housewives in the article Moore may refer to here: "Television Therapy: Daytime Shows Don't Divert the Mind," <hi rend="italic">New York Times</hi>(Sept. 10, 1961): X23.</note><bibl type="end"/></hi></l>
+                        <l n="28"><hi rend="red"><bibl type="begin"/>              NYT    Sept 11        Jack Gould<note n="n042"> Gould, Jack [1914-1993],<hi rend="italic">New York Times</hi>  TV critic. He described daytime TV as appropriately interruptable for viewing by busy housewives in the article Moore may refer to here: "Television Therapy: Daytime Shows Don't Divert the Mind," <hi rend="italic">New York Times</hi>(Sept. 10, 1961): X23.</note><bibl type="end"/></hi></l>
                         <l n="29"><hi rend="red"> </hi></l>
-                        <l n="30"><hi rend="red"> In the ball tribe One detects a similarity to the writing </hi></l>
-                        <l n="31"><hi rend="red"> 			a need for privacy	<del>crew</del>	</hi></l>
-                        <l n="32"><hi rend="red"> but they tell us in the papers			tribe  </hi></l>
-                        <l n="33"><hi rend="red"> 		  if you read the papers</hi><seg type="draft-end"/></l>
+                        <l n="30"><hi rend="red"> <add>In the ball tribe</add> One detects a similarity to the writing </hi></l>
+                        <l n="31"><hi rend="red">                       a need for privacy                             <del>crew</del>	</hi></l>
+                        <l n="32"><hi rend="red"> but they tell us in the papers                                tribe  </hi></l>
+                        <l n="33"><hi rend="red">                          if you read the papers</hi><seg type="draft-end"/></l>
                     </lg>
                     <lg type="vertical">
                         <l n="v34"><!-- span lines 27-21, left margin  -->  <hi rend="red">BABBLE</hi> </l>
@@ -2011,7 +2011,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="04"><hi rend="green">  </hi></l>
                         <l n="05"><hi rend="green">  the mul<del>p</del>tiple artist  </hi></l>
                         <l n="06"><hi rend="green">  I leave the decision to the test of experience</hi></l>
-                        <l n="07"><hi rend="green">  <del/></hi></l>
+                        <l n="07"><hi rend="green">  <del><gap extent="2" resp="eg"/></del></hi></l>
                         <l n="08"><hi rend="green">  170  strive to be universal. There is great lack</hi></l>
                         <l n="09"><hi rend="green">  of dignity in one thing well, another badly</hi></l>
                         <l n="10"><hi rend="green">  </hi></l>
@@ -2263,7 +2263,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="36"><hi rend="blue">  <del>and the</del></hi></l>
                         <l n="37"><hi rend="blue">  <del>From the bomb—and tomb</del></hi></l>
                         <l n="38"><hi rend="blue">  <del>with the bomb plus</del> who <del>do gas</del> dropped plume-gas</hi></l>
-                        <l n="39"><hi rend="blue">  <del/> poison<del>ed</del>s grass</hi></l>
+                        <l n="39"><hi rend="blue">  <del><gap extent="2" resp="eg"/></del> poison<del>ed</del>s grass</hi></l>
                     </lg>
                     <lg type="vertical">
                         <l n="v40"><!-- span lines 17-2, left margin, --><hi rend="blue">Having seen <del>this</del> a photograph</hi></l>
@@ -4044,7 +4044,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="16"><hi rend="pencil">  <foreign xml:lang="it">sera</foreign> evening	<foreign xml:lang="it">buna sera</foreign> good evening </hi></l>
                         <l n="17"><hi rend="pencil">  <foreign xml:lang="it">notta</foreign> night 			all words ending</hi></l>
                         <l n="18"><hi rend="pencil">  <foreign xml:lang="it">bon giorno</foreign> day			  w a feminine</hi></l>
-                        <l n="19"><hi rend="pencil">  	b<del/>uon<hi rend="underline">o</hi> masculine		no <unclear resp="eg"><del>s</del>strinth</unclear> at all</hi></l>
+                        <l n="19"><hi rend="pencil">  	b<del><gap extent="1" resp="eg"/></del>uon<hi rend="underline">o</hi> masculine		no <unclear resp="eg"><del>s</del>strinth</unclear> at all</hi></l>
                         <l n="20"><hi rend="pencil">  <foreign xml:lang="it">borna nooti</foreign></hi></l>
                         <l n="21"><hi rend="pencil">  <foreign xml:lang="it">uomo</foreign> man</hi></l>
                         <l n="22"><hi rend="pencil">  <foreign xml:lang="it">donna</foreign> lady</hi></l>
@@ -4160,7 +4160,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="05"><hi rend="blue">  				  	this cost</hi></l>
                         <l n="06"><hi rend="blue">  <foreign xml:lang="it">Q<hi rend="underline">ua</hi>nto costa q<hi rend="underline">ue</hi>sto?</foreign> How much does</hi></l>
                         <l n="07"><hi rend="blue">  si</hi></l>
-                        <l n="08"><hi rend="blue">  27  <foreign xml:lang="it">Il negozio <del/>i trova in</foreign>  the store is</hi></l>
+                        <l n="08"><hi rend="blue">  27  <foreign xml:lang="it">Il negozio <del><gap extent="1" resp="eg"/></del>i trova in</foreign>  the store is</hi></l>
                         <l n="09"><hi rend="blue">  39  				á</hi></l>
                         <l n="10"><hi rend="blue">  <foreign xml:lang="it">Il mio <hi rend="underline">nu</hi>mero di tel<hi rend="underline">e</hi><hi rend="underline">f</hi>ono</foreign></hi></l>
                         <l n="11"><hi rend="blue">  40  <foreign xml:lang="it">mia casa</foreign>	cahsa</hi></l>
