@@ -110,9 +110,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
         <body>
             <div type="image" xml:id="nb07_04_05_0001_text">
                 <div type="page" n="v.0001" xml:id="nb_07_04_05_0001_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0001-recto.jpg"
-                        n="0001-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0001-recto.jpg" n="0001-recto"/>
                     <lg>
                         <l n="01">[No handwriting on this page.]</l>
                     </lg>
@@ -120,26 +118,22 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0002_text">
                 <div type="page" n="v.0002" xml:id="nb_07_04_05_0002_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0002-verso.jpg"
-                        n="0002-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0002-verso.jpg" n="0002-verso"/>
                     <lg>
                         <l n="01"> </l>
                         <l n="02"> </l>
-                        <l n="03"> <hi rend="blue">Metropolitan Museum<note n="n000"> The 1512 "Portrait of a Man in Red Chalk" by Leonardo da Vinci (1452-1519) may be clipped from materials for the Metropolitan Museum's exhibition of the Mona Lisa in 1963.</note></hi></l>
+                        <l n="03"> <hi rend="blue">               Metropolitan Museum<note n="n000"> The 1512 "Portrait of a Man in Red Chalk" by Leonardo da Vinci (1452-1519) may be clipped from materials for the Metropolitan Museum's exhibition of the Mona Lisa in 1963.</note></hi></l>
                         <l n="04"> </l>
-                        <l n="05"><hi rend="blue">  1964</hi></l>
+                        <l n="05"><hi rend="blue">                                                                       1964</hi></l>
                         <l n="06"><hi rend="blue">  National Geographic April 64</hi></l>
                         <l n="07"> </l>
-                        <l n="08"><hi rend="blue">  A cuckoo<note n="n001"> Roadrunner photographed by James Blair [1931- ], on staff at<hi rend="italic">National Geographic</hi>  from 1962-1994. Ralph Gray. "From Sun-Clad Sea to Shining Mountains." <hi rend="italic">National Geographic</hi>  125 (April 1964): 563. </note></hi></l>
+                        <l n="08"><hi rend="blue">      A cuckoo<note n="n001"> Roadrunner photographed by James Blair [1931- ], on staff at<hi rend="italic">National Geographic</hi>  from 1962-1994. Ralph Gray. "From Sun-Clad Sea to Shining Mountains." <hi rend="italic">National Geographic</hi>  125 (April 1964): 563. </note></hi></l>
                     </lg>
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0003_text">
                 <div type="page" n="v.0003" xml:id="nb_07_04_05_0003_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0003-recto.jpg"
-                        n="0003-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0003-recto.jpg" n="0003-recto"/>
                     <lg>
                         <l n="01">[No handwriting on this page.] </l>
                     </lg>
@@ -147,66 +141,59 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0004_text">
                 <div type="page" n="v.0004" xml:id="nb_07_04_05_0004_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0004-verso.jpg"
-                        n="0004-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0004-verso.jpg" n="0004-verso"/>
                     <lg>
-                        <l n="01"><hi rend="blue">Marianne Moore</hi></l>
-                        <l n="02"><hi rend="blue">						260 Cumberland Street</hi></l>
-                        <l n="03"><hi rend="blue">						Brooklyn 5 NY</hi></l>
-                        <l n="04"><hi rend="blue">						UL 8 – 5444<note n="n002"> The UL telephone exchange stood for ULSTER.</note></hi></l>
+                        <l n="01"><hi rend="blue">Marianne Moore                      260 Cumberland Street</hi></l>
+                        <l n="02"/>
+                        <l n="03"><hi rend="blue">                                                        Brooklyn 5 NY</hi></l>
+                        <l n="04"><hi rend="blue">                                                          <del>S</del> UL 8 – 5444<note n="n002"> The UL telephone exchange stood for ULSTER.</note></hi></l>
                     </lg>
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0005_text">
                 <div type="page" n="v.0005" xml:id="nb_07_04_05_0005_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0005-recto.jpg"
-                        n="0005-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0005-recto.jpg" n="0005-recto"/>
                     <lg>
                         <l n="01">  August 7 1960 <hi rend="blue">1</hi> </l>
-                        <l n="02">  <hi rend="underline">Near the raspberry patch</hi>						  </l>
+                        <l n="02">         <hi rend="underline">Near the raspberry patch</hi>						  </l>
                         <l n="03"> African-brown butterfly</l>
-                        <l n="04">  with a mouse's face</l>
+                        <l n="04">       with a mouse's face</l>
                         <l n="05"> and white dot in a <hi rend="sub">v</hi>  peacocks eye,</l>
-                        <l n="06">		 black</l>
+                        <l n="06">                               black</l>
                         <l n="07"> <del>up high</del> in a pumpkin-yellow square <del>u</del>, up high</l>
-                        <l n="08">  on the wing<hi rend="sub">v</hi>  among the tall dry weeds —</l>
-                        <l n="09">	  flying		</l>
-                        <l n="10"> there<del>s</del> is something in protective</l>
-                        <l n="11"> 	coloration— must <del>be</del> be</l>
-                        <l n="12"> <del>be</del></l>
-                        <l n="13"> 	  red</l>
+                        <l n="08">         on the wing<hi rend="sub">v</hi>  among the tall dry weeds —</l>
+                        <l n="09">                           flying		</l>
+                        <l n="10"> there<del>s</del> <add>is</add> something in protective</l>
+                        <l n="11">           coloration— must <del>be</del> be</l>
+                        <l n="12"> <del>  be</del></l>
+                        <l n="13">                        red</l>
                         <l n="14"> The enormous raspberry  shaped like a beehive</l>
                         <l n="15"/>
                         <l n="16"> The Bassett hound.</l>
                         <l n="17"> When little irrelevant things 	xhaust you</l>
-                        <l n="18"> <del>you</del> <hi rend="underline">are</hi> ill, or growing old, insouciant butterfly</l>
-                        <l n="19">			  of the</l>
+                        <l n="18">     <del>you</del> <hi rend="underline">are</hi> ill, or growing old, insouciant butterfly</l>
+                        <l n="19">                                  of the</l>
                         <l n="20"> near the ruby dome<del>d</del> raspberry</l>
                         <l n="21"> These </l>
                         <l n="22"> depredating gypsies</l>
                         <l n="23"/>
                         <l n="24"> A brown butterfly</l>
-                        <l n="25"> 	  cigar  color, w. on each wing</l>
+                        <l n="25">                 cigar  color, w. on each wing</l>
                         <l n="26"> <del>with on each wing</del> a yellow patch, a square  —</l>
-                        <l n="27">  and <hi rend="underline">in</hi> it a peacocks eye</l>
+                        <l n="27">  and <hi rend="underline">in</hi> it a peacocks eye</l>
                         <l n="28">  		</l>
-                        <l n="29"> <seg type="draft-begin"/>Patience I say 			  The Gordian knot<note n="n003"> Starting in these lines, MM may draft toward "Charity Overcoming Envy," first published<hi rend="italic">The New Yorker</hi>  39 (30 March1963): 44; one phrase appears in the published poem.</note> </l>
+                        <l n="29"> <seg type="draft-begin"/>Patience I say       The Gordian knot<note n="n003"> Starting in these lines, MM may draft toward "Charity Overcoming Envy," first published<hi rend="italic">The New Yorker</hi>  39 (30 March1963): 44; one phrase appears in the published poem.</note> </l>
                         <l n="30"> </l>
-                        <l n="31"> <hi rend="pencil">wrecked</hi>  		need not be cut</l>
+                        <l n="31"> <hi rend="pencil">wrecked</hi>                 need not be cut</l>
                         <l n="32"> <hi rend="pencil">by vanity unchecked</hi></l>
                         <l n="33"> </l>
-                        <l n="34"> <hi rend="pencil">connect disrespect of </hi><seg type="draft-end"/>  </l>
-                        <desc> In line 34, MM makes a v-like squiggle </desc>
-                    </lg>
+                        <l n="34"> <hi rend="pencil">connect disrespect of<note>This<desc> v-like squiggle has unclear significance.</desc></note> </hi><seg type="draft-end"/>  </l>
+                        </lg>
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0006_text">
                 <div type="page" n="v.0006" xml:id="nb_07_04_05_0006_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0006-verso.jpg"
-                        n="0006-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0006-verso.jpg" n="0006-verso"/>
                     <lg>
                         <l n="01"> <seg type="genre-read-begin"/><hi rend="pencil">a swing on a rope &amp; a dive fr a big tree</hi> </l>
                         <l n="02">  <bibl type="begin"/><hi rend="pencil"><unclear resp="eg">Times</unclear> magazine</hi>August 21 '60<note n="n004"> The scene MM describes is not onthe <hi rend="italic">NY Times Magazine</hi>  or <hi rend="italic">Time</hi>  cover for the week of August 21.</note><bibl type="end"/></l>
@@ -253,9 +240,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0007_text">
                 <div type="page" n="v.0007" xml:id="nb_07_04_05_0007_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0007-recto.jpg"
-                        n="0007-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0007-recto.jpg" n="0007-recto"/>
                     <lg>
                         <l n="01"> <hi rend="pencil">My <unclear resp="eg">cyguent</unclear><note n="n999">The unclear word "cyguent" may read "unguent".</note> Candidate<note n="n007"> MM drafts toward "Rescue with Yul Brynner,"  first published in <hi rend="italic">The New Yorker</hi>  37 (20 May 1961): 40. </note></hi> <hi rend="blue">3</hi> </l>
                         <l n="02">  <hi rend="pencil">is an ointment	  debate</hi></l>
@@ -298,9 +283,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0008_text">
                 <div type="page" n="v.0008" xml:id="nb_07_04_05_0008_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0008-verso.jpg"
-                        n="0008-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0008-verso.jpg" n="0008-verso"/>
                     <lg>
                         <l n="01"> <seg type="draft-begin"/>Hunary and Hungary<note n="n013"> MM drafts toward "Rescue with Yul Brynner."</note></l>
                         <l n="02"> </l>
@@ -342,9 +325,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0009_text">
                 <div type="page" n="v.0009" xml:id="nb_07_04_05_0009_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0009-recto.jpg"
-                        n="0009-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0009-recto.jpg" n="0009-recto"/>
                     <lg>
                         <l n="01">  							<hi rend="blue">5</hi></l>
                         <l n="02">  </l>
@@ -360,9 +341,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0010_text">
                 <div type="page" n="v.0010" xml:id="nb_07_04_05_0010_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0010-verso.jpg"
-                        n="0010-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0010-verso.jpg" n="0010-verso"/>
                     <lg>
                         <l n="01">[No handwriting on this page.]  </l>
                     </lg>
@@ -370,9 +349,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0011_text">
                 <div type="page" n="v.0011" xml:id="nb_07_04_05_0011_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0011-recto.jpg"
-                        n="0011-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0011-recto.jpg" n="0011-recto"/>
                     <lg>
                         <l n="01">  The Bull resting on a hill	<hi rend="blue">7</hi></l>
                         <l n="02">  his bulk tapering like a wedge		</l>
@@ -388,9 +365,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0012_text">
                 <div type="page" n="v.0012" xml:id="nb_07_04_05_0012_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0012-verso.jpg"
-                        n="0012-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0012-verso.jpg" n="0012-verso"/>
                     <lg>
                         <l n="!THIS IMAGE IS AN ERROR – though it is blank, you can read through to the previous page, and it is the same image as 0010 – disregard!"/>
                     </lg>
@@ -398,9 +373,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0013_text">
                 <div type="page" n="v.0013" xml:id="nb_07_04_05_0013_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0013-recto.jpg"
-                        n="0013-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0013-recto.jpg" n="0013-recto"/>
                     <lg>
                         <l n="!ERROR –This text repeats IMAGENUMBER=0011 – disregard. Moore's handwritten page numbers make it clear that the page after image 0011 should be image 0014!"/>
                     </lg>
@@ -408,9 +381,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0014_text">
                 <div type="page" n="v.0014" xml:id="nb_07_04_05_0014_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0014-recto.jpg"
-                        n="0014-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0014-recto.jpg" n="0014-recto"/>
                     <lg>
                         <l n="01">[No handwriting on this page.]</l>
                     </lg>
@@ -418,13 +389,11 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0015_text">
                 <div type="page" n="v.0015" xml:id="nb_07_04_05_0015_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0015-recto.jpg"
-                        n="0015-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0015-recto.jpg" n="0015-recto"/>
                     <lg>
                         <l n="01"> <seg type="draft-begin"/><hi rend="blue">9My crow, Pluto</hi> 			The Jewel<note n="n017"> MM drafts toward "To Victor Hugo of My Crow Pluto," first published<hi rend="italic">Harper's Bazaar</hi>  95 (1 October 1961): 120; midway down the page, she also drafts toward "To a Giraffe," first published in <hi rend="italic">Poetry in Crystal </hi>(New York: Steuben Glass, Inc., 1963): 44.</note> </l>
                         <l n="02">  <hi rend="blue">a blow; </hi>		<foreign xml:lang="it">gio jello</foreign></l>
-                        <l n="03">  <hi rend="blue">and so  &lt;  <foreign xml:lang="it">caro corvo</foreign><note n="n018"> The &lt; mark indicates that "caro corvo" belongs below "and so."</note></hi></l>
+                        <l n="03">  <hi rend="blue">and so  &amp;lt;  <foreign xml:lang="it">caro corvo</foreign><note n="n018"> The &amp;lt; mark indicates that "caro corvo" belongs below "and so."</note></hi></l>
                         <l n="04"><hi rend="blue">  had to</hi></l>
                         <l n="05">						<foreign xml:lang="it">lucro: profit</foreign></l>
                         <l n="06">  <hi rend="blue">let you</hi><foreign xml:lang="it">minuto minute</foreign> very small</l>
@@ -463,9 +432,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0016_text">
                 <div type="page" n="v.0016" xml:id="nb_07_04_05_0016_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0016-verso.jpg"
-                        n="0016-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0016-verso.jpg" n="0016-verso"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/><hi rend="blue">  Oh well<note n="n021"> MM drafts toward "To a Giraffe"; some lines appear there.  </note></hi></l>
                         <l n="02"><hi rend="blue">  I am not going to be literal</hi></l>
@@ -506,9 +473,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0017_text">
                 <div type="page" n="v.0017" xml:id="nb_07_04_05_0017_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0017-recto.jpg"
-                        n="0017-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0017-recto.jpg" n="0017-recto"/>
                     <lg>
                         <l n="01"> 		<seg type="draft-begin"/>  No<note n="n023"> MM drafts toward "To a Giraffe."</note><hi rend="blue">11</hi> </l>
                         <l n="02"> 		Unhumility—<del>no</del> oh enviable animal</l>
@@ -558,9 +523,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0018_text">
                 <div type="page" n="v.0018" xml:id="nb_07_04_05_0018_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0018-verso.jpg"
-                        n="0018-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0018-verso.jpg" n="0018-verso"/>
                     <lg>
                         <l n="01"> 	  <seg type="draft-begin"/>July 11 . 1961<note n="n026"> MM drafts toward "Baseball and Writing," first published <hi rend="italic">The New Yorker</hi>  37 (9 December 1961): 48. The poem discusses the 1961 baseball season. The line "O Fons Bandusa" also appears in "In Lieu of the Lyre," first published <hi rend="italic">Harvard Advocate</hi>  100 (November 1965): 5. </note></l>
                         <l n="02"> Sentiment</l>
@@ -615,9 +578,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0019_text">
                 <div type="page" n="v.0019" xml:id="nb_07_04_05_0019_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0019-recto.jpg"
-                        n="0019-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0019-recto.jpg" n="0019-recto"/>
                     <lg>
                         <l n="01"> <seg type="genre-read-begin"/><quote>"Foremost of the Peach Orchard"</quote><note n="n031">Title awarded to female impersonator and actor Mei Lan-Fang [1894-1962]. </note>	<hi rend="blue">13</hi></l>
                         <l n="02">			<bibl type="begin"/>NYT Aug 9 1961<note n="n032"> "Stage Actor, Dies: Top Chinese Star Was Noted Female Impersonator."<hi rend="italic">New York Times</hi>  (9 August 1961): 33. Obituary for Mei Lan-Fang, 67. The piece clarifies that the title "Foremost of the Peach Orchard" indicated that Mei was "without a peer as an actor in China." The actor emerged from retirement after WWII and became a deputy of the National People's Congress in 1955; he did not join the Communist Party until 1959. </note><bibl type="end"/><seg type="genre-read-end"/></l>
@@ -631,7 +592,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="10"> I don't  mind the mists of fairyland</l>
                         <l n="11"> <del>I have</del> a rock on which t<hi rend="pencil">o</hi> stand.<hi rend="pencil">?</hi></l>
                         <l n="12">  <hi rend="pencil">Where is</hi></l>
-                        <l n="13"><hi rend="pencil"> my great ple<del><gap extent="1" resp="eg"/></del></hi><hi rend="red">ea  plea</hi></l>
+                        <l n="13"><hi rend="pencil"> my great ple<del/></hi><hi rend="red">ea  plea</hi></l>
                         <l n="14"><hi rend="pencil"> is: <hi rend="underline">neglect me</hi></hi></l>
                         <l n="15"><hi rend="pencil"> <seg type="genre-read-begin"/><bibl type="begin"/>Old M Hubbard's Cottage Aug 3 1961  </hi></l>
                         <l n="16"><hi rend="pencil">  in the Listener<note n="n033"> Sparrow, Kenneth. "Did You Hear That?: Mother Hubbard."<hi rend="italic">BBC Listener</hi>  66.1688 (3 August 1961): 161. This tells the story of a nursery rhyme (published 1805) by Sarah Catherine Martin, a maiden aunt who turned down a marriage proposal from the crown prince. </note><bibl type="end"/> is quite is pleasing to me</hi></l>
@@ -659,9 +620,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0020_text">
                 <div type="page" n="v.0020" xml:id="nb_07_04_05_0020_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0020-verso.jpg"
-                        n="0020-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0020-verso.jpg" n="0020-verso"/>
                     <lg>
                         <l n="01"> 	 <seg type="draft-begin"/><hi rend="pencil">In Heroic Detachment<note n="n034"> MM drafts toward "Baseball and Writing."</note></hi></l>
                         <l n="02"><hi rend="pencil"> 		Something to write about, talk about, see</hi></l>
@@ -702,9 +661,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0021_text">
                 <div type="page" n="v.0021" xml:id="nb_07_04_05_0021_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0021-recto.jpg"
-                        n="0021-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0021-recto.jpg" n="0021-recto"/>
                     <lg>
                         <l n="01"> <seg type="draft-begin"/><hi rend="red">What is the fascination</hi><note n="n039"> MM drafts toward "Baseball and Writing."</note> <hi rend="blue">15</hi></l>
                         <l n="02"> <hi rend="red">What i<del>s</del></hi><hi rend="pencil">s</hi> <hi rend="red">the charm</hi></l>
@@ -751,9 +708,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0022_text">
                 <div type="page" n="v.0022" xml:id="nb_07_04_05_0022_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0022-verso.jpg"
-                        n="0022-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0022-verso.jpg" n="0022-verso"/>
                     <lg>
                         <l n="01"> <seg type="draft-begin"/><hi rend="red">a parody of course<note n="n041"> MM drafts toward "Baseball and Writing."</note></hi></l>
                         <l n="02"> <hi rend="red"> 	  		?  at source</hi></l>
@@ -798,9 +753,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0023_text">
                 <div type="page" n="v.0023" xml:id="nb_07_04_05_0023_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0023-recto.jpg"
-                        n="0023-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0023-recto.jpg" n="0023-recto"/>
                     <lg>
                         <l n="01"> <seg type="draft-begin"/>An adastrium of runs<note n="n043"> MM drafts toward "Baseball and Writing."  </note><hi rend="blue">17</hi></l>
                         <l n="02">  		<del>for</del> in one season</l>
@@ -854,9 +807,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0024_text">
                 <div type="page" n="v.0024" xml:id="nb_07_04_05_0024_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0024-verso.jpg"
-                        n="0024-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0024-verso.jpg" n="0024-verso"/>
                     <lg>
                         <l n="01"> <seg type="draft-begin"/>James M. Grant<note n="n045"> Grant, James "Mudcat" [1935 - ]. Pitcher, Cleveland Indians 1958-64, African American.</note> next  pitchers are<note n="n046"> MM drafts toward "Baseball and Writing"; some lines and phrases appear in published poem. </note> </l>
                         <l n="02"> Study assignment		  peculiar</l>
@@ -904,9 +855,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0025_text">
                 <div type="page" n="v.0025" xml:id="nb_07_04_05_0025_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0025-recto.jpg"
-                        n="0025-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0025-recto.jpg" n="0025-recto"/>
                     <lg>
                         <l n="01"> <seg type="draft-begin"/><hi rend="red">S. 20  I m very satisfied<note n="n048"> MM drafts toward "Baseball and Writing."</note></hi>	  <hi rend="blue">19</hi> </l>
                         <l n="02"> <hi rend="red">We won the pennant;— <hi rend="underline">we.</hi></hi></l>
@@ -947,9 +896,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0026_text">
                 <div type="page" n="v.0026" xml:id="nb_07_04_05_0026_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0026-verso.jpg"
-                        n="0026-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0026-verso.jpg" n="0026-verso"/>
                     <lg>
                         <l n="01">[No handwriting on this page.]</l>
                     </lg>
@@ -957,9 +904,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0027_text">
                 <div type="page" n="v.0027" xml:id="nb_07_04_05_0027_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0027-recto.jpg"
-                        n="0027-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0027-recto.jpg" n="0027-recto"/>
                     <lg>
                         <l n="01"> <seg type="draft-begin"/>Dr. Raworth Williams by Gerald Holland<note n="n051"> MM drafts toward "Blue Bug," firstpublished <hi rend="italic">The New Yorker</hi>  38 (26 May 1962): 40. </note></l>
                         <l n="02">  	<hi rend="blue">Blue Bug</hi>	Holland	<hi rend="blue">(21</hi></l>
@@ -999,9 +944,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0028_text">
                 <div type="page" n="v.0028" xml:id="nb_07_04_05_0028_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0028-verso.jpg"
-                        n="0028-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0028-verso.jpg" n="0028-verso"/>
                     <lg>
                         <l n="01"> <seg type="draft-begin"/> <hi rend="blue">I can imagine -<note n="n057"> MM drafts toward "Blue Bug."</note></hi></l>
                         <l n="02"><hi rend="blue">  		or can I?</hi></l>
@@ -1037,9 +980,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0029_text">
                 <div type="page" n="v.0029" xml:id="nb_07_04_05_0029_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0029-recto.jpg"
-                        n="0029-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0029-recto.jpg" n="0029-recto"/>
                     <lg>
                         <l n="01"> <seg type="draft-begin"/> Yes, I envy<note n="n058"> MM drafts toward "Charity Overcoming Envy."</note> <hi rend="blue">23</hi></l>
                         <l n="02"><hi rend="blue">  			Charity</hi></l>
@@ -1091,9 +1032,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0030_text">
                 <div type="page" n="v.0030" xml:id="nb_07_04_05_0030_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0030-verso.jpg"
-                        n="0030-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0030-verso.jpg" n="0030-verso"/>
                     <lg>
                         <l n="01"> <seg type="draft-begin"/>The postman, the telephone<note n="n060"> MM drafts toward "Charity Overcoming Envy."</note></l>
                         <l n="02">  		The florist the telegraph boy</l>
@@ -1138,9 +1077,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0031_text">
                 <div type="page" n="v.0031" xml:id="nb_07_04_05_0031_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0031-recto.jpg"
-                        n="0031-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0031-recto.jpg" n="0031-recto"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/>irritation<note n="n062"> MM drafts toward "Charity Overcoming Envy."</note><hi rend="blue">25</hi></l>
                         <l n="02">  with no eyes for effrontery vengeance, disdain</l>
@@ -1187,9 +1124,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0032_text">
                 <div type="page" n="v.0032" xml:id="nb_07_04_05_0032_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0032-verso.jpg"
-                        n="0032-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0032-verso.jpg" n="0032-verso"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/>O eternity O my Soul  or as we used to say<note n="n064"> MM drafts toward "Charity Overcoming Envy."</note></l>
                         <l n="02">  								soul and body</l>
@@ -1235,9 +1170,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0033_text">
                 <div type="page" n="v.0033" xml:id="nb_07_04_05_0033_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0033-recto.jpg"
-                        n="0033-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0033-recto.jpg" n="0033-recto"/>
                     <lg>
                         <l n="01"> 	 <seg type="draft-begin"/>a thousand flowers<note n="n067"> MM drafts toward "Charity Overcoming Envy."</note> <hi rend="blue">27</hi></l>
                         <l n="02">  		of <del>the</del> kind that do not weigh				</l>
@@ -1278,9 +1211,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0034_text">
                 <div type="page" n="v.0034" xml:id="nb_07_04_05_0034_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0034-verso.jpg"
-                        n="0034-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0034-verso.jpg" n="0034-verso"/>
                     <lg>
                         <l n="01"> <seg type="draft-begin"/> that elephant viewed with relish<note n="n072"> MM drafts toward "Charity Overcoming Envy."</note></l>
                         <l n="02"> H. Holts			little great-horned				</l>
@@ -1327,9 +1258,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0035_text">
                 <div type="page" n="v.0035" xml:id="nb_07_04_05_0035_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0035-recto.jpg"
-                        n="0035-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0035-recto.jpg" n="0035-recto"/>
                     <lg>
                         <l n="01"> <seg type="draft-begin"/><hi rend="blue">29</hi></l>
                         <l n="02"><hi rend="blue"> 	like the lizards of Delos little dinosaurs<note n="n075"> MM drafts toward "Charity Overcoming Envy."</note></hi></l>
@@ -1377,9 +1306,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0036_text">
                 <div type="page" n="v.0036" xml:id="nb_07_04_05_0036_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0036-verso.jpg"
-                        n="0036-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0036-verso.jpg" n="0036-verso"/>
                     <lg>
                         <l n="01">  		<seg type="draft-begin"/><hi rend="pencil">my</hi><note n="n076"> MM drafts toward "Charity Overcoming Envy."</note></l>
                         <l n="02">  		<hi rend="pencil">deliver me fr  self-blinded dark</hi></l>
@@ -1417,9 +1344,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0037_text">
                 <div type="page" n="v.0037" xml:id="nb_07_04_05_0037_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0037-recto.jpg"
-                        n="0037-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0037-recto.jpg" n="0037-recto"/>
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/><hi rend="blue"><bibl type="begin"/>Routledge &amp; Kegan Paul Ltd		31  </hi></l>
                         <l n="02">  		<hi rend="blue">Athens &amp; the Greek Miracle</hi></l>
@@ -1458,9 +1383,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0038_text">
                 <div type="page" n="v.0038" xml:id="nb_07_04_05_0038_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0038-verso.jpg"
-                        n="0038-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0038-verso.jpg" n="0038-verso"/>
                     <lg>
                         <l n="01">  	  <seg type="draft-begin"/>Titian and the Musician<note n="n079"> MM drafts toward "Charity Overcoming Envy."</note></l>
                         <l n="02">  					</l>
@@ -1503,9 +1426,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0039_text">
                 <div type="page" n="v.0039" xml:id="nb_07_04_05_0039_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0039-recto.jpg"
-                        n="0039-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0039-recto.jpg" n="0039-recto"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/><hi rend="pencil">"a thousand flowers at the height of<note n="n081"> MM drafts toward "Charity Overcoming Envy."</note></hi></l>
                         <l n="02">  					not rooted, massed				</l>
@@ -1540,9 +1461,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0040_text">
                 <div type="page" n="v.0040" xml:id="nb_07_04_05_0040_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0040-verso.jpg"
-                        n="0040-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0040-verso.jpg" n="0040-verso"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/><seg type="genre-read-begin"/>cloaked in legend	deep in flowers<note n="n082"> MM drafts toward "Charity Overcoming Envy.".</note></l>
                         <l n="02">				  found</l>
@@ -1567,9 +1486,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0041_text">
                 <div type="page" n="v.0041" xml:id="nb_07_04_05_0041_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0041-recto.jpg"
-                        n="0041-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0041-recto.jpg" n="0041-recto"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/> implement<note n="n085"> MM drafts toward "Charity Overcoming Envy."</note>		</l>
                         <l n="02">  Charity's uncharitable <del>perquisite</del>, a sword</l>
@@ -1613,9 +1530,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0042_text">
                 <div type="page" n="v.0042" xml:id="nb_07_04_05_0042_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0042-verso.jpg"
-                        n="0042-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0042-verso.jpg" n="0042-verso"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/> such things 	I save<note n="n086"> MM drafts toward "Avec Ardeur," first published as a Lowell House Separatum limited edition entitled<hi rend="italic">Occasionem Cognosce: A Poem </hi>(Stinehour Press, May 1963). MM renamed it "I've Been Thinking" in <hi rend="italic">Complete Poems</hi>  (1967); editors renamed it "Avec Ardeur" in <hi rend="italic">Complete Poems</hi>  (1981).</note></l>
                         <l n="02">  	(<del>not rings</del>)	and have				</l>
@@ -1664,9 +1579,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0043_text">
                 <div type="page" n="v.0043" xml:id="nb_07_04_05_0043_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0043-recto.jpg"
-                        n="0043-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0043-recto.jpg" n="0043-recto"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/>  I may have to go<note n="n089"> MM drafts toward "Avec Ardeur."</note>			I resign  seek Spain</l>
                         <l n="02"> I possess  to Tibidabo						may have to go	</l>
@@ -1719,9 +1632,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0044_text">
                 <div type="page" n="v.0044" xml:id="nb_07_04_05_0044_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0044-verso.jpg"
-                        n="0044-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0044-verso.jpg" n="0044-verso"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/> refuse		a cross?	Atlas	Yes? No<note n="n090"> MM drafts toward "Avec Ardeur."</note></l>
                         <l n="02">  to use				</l>
@@ -1750,9 +1661,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0045_text">
                 <div type="page" n="v.0045" xml:id="nb_07_04_05_0045_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0045-recto.jpg"
-                        n="0045-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0045-recto.jpg" n="0045-recto"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/> da Vinci Dr. Henry Noss, Feb. 28<note n="n093"> MM drafts toward "An Expedient—Leonardo da Vinci's—&amp; a Query." </note></l>
                         <l n="02">  <hi rend="green">Who has access to the fountain does not go to the waterpot</hi></l>
@@ -1803,9 +1712,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0046_text">
                 <div type="page" n="v.0046" xml:id="nb_07_04_05_0046_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0046-verso.jpg"
-                        n="0046-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0046-verso.jpg" n="0046-verso"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/>Title 	a category of one<note n="n096"> MM drafts toward "An Expedient—Leonardo da Vinci's—&amp; a Query."</note></l>
                         <l n="02">  End 2 He invented invention				</l>
@@ -1842,9 +1749,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0047_text">
                 <div type="page" n="v.0047" xml:id="nb_07_04_05_0047_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0047-recto.jpg"
-                        n="0047-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0047-recto.jpg" n="0047-recto"/>
                     <lg>
                         <l n="01"><hi rend="blue">	 seclusion 	</hi></l>
                         <l n="02"><hi rend="blue">  Like	A Young Katydid			</hi></l>
@@ -1890,9 +1795,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0048_text">
                 <div type="page" n="v.0048" xml:id="nb_07_04_05_0048_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0048-verso.jpg"
-                        n="0048-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0048-verso.jpg" n="0048-verso"/>
                     <lg>
                         <l n="01">  Want	, _Resentless	Philip Ward<note n="n100"> Ward,Philip  [1938- ]. British poet, author of <hi rend="italic">Collected Poems</hi>  (<hi rend="background-color(#ffffff)">North Harrow, England: Philip Ward, </hi>1960). </note>	A Family</l>
                         <l n="02">  assurances				Man</l>
@@ -1928,9 +1831,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0049_text">
                 <div type="page" n="r.0049" xml:id="nb_07_04_05_0049_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0049-recto.jpg"
-                        n="0049-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0049-recto.jpg" n="0049-recto"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/> <hi rend="green"> May 18 63	The durable blossom</hi><note n="n101"> MM drafts toward "An Expedient—Leonardo da Vinci's—&amp; a Query."</note></l>
                         <l n="02"><hi rend="green">  	of the catalpa.  Half frozen, battered</hi></l>
@@ -1967,9 +1868,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0050_text">
                 <div type="page" n="v.0050" xml:id="nb_07_04_05_0050_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0050-verso.jpg"
-                        n="0050-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0050-verso.jpg" n="0050-verso"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/> Yes Thomas<note n="n105"> MM drafts toward "An Expedient—Leonardo da Vinci's—&amp; a Query" and, on bottom half of page, "W.S. Landor," first published in <hi rend="italic">The New Yorker</hi>  40 (22 February, 1964): 26.</note></l>
                         <l n="02">  		 <del>How not like</del>a Kempis<note n="n106"> Kempis, Thomas à [c. 1380-1471]. Author of<hi rend="italic">The Imitation of Christ</hi>, a renowned Christian devotional book.</note>				</l>
@@ -2011,9 +1910,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0051_text">
                 <div type="page" n="v.0051" xml:id="nb_07_04_05_0051_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0051-recto.jpg"
-                        n="0051-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0051-recto.jpg" n="0051-recto"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/> <seg type="genre-read-begin"/><quote type="begin"/>The Open Book: A Riddle<note n="n107"> MM drafts toward "An Expedient—Leonardo da Vinci's—&amp; a Query," and cites a poem by Philip Ward from his self-published <hi rend="italic">Collected Poems </hi>(1960):14, entitled "An Open Book: a riddle.".</note>	</l>
                         <l n="02">  	  	-_ -_ <hi rend="underline">-  </hi>5 lines<note n="n108"> Ellipsis – followed by the number of lines MM skipped (5). MM cites line 6 of Ward's poem, beginning "Leap"; da Vinci's line; then line 8 of Ward's poem, beginning "Breathe."</note>				</l>
@@ -2059,9 +1956,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0052_text">
                 <div type="page" n="v.0052" xml:id="nb_07_04_05_0052_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0052-verso.jpg"
-                        n="0052-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0052-verso.jpg" n="0052-verso"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/><seg type="genre-read-begin"/><hi rend="pencil">Patience</hi><hi rend="green">,</hi> <hi rend="pencil">as clothes the body can protect<del>ing</del> the soul</hi><note n="n109"> MM drafts toward "An Expedient—Leonardo da Vinci's—&amp; a Query"; she evolves phrases from various books about da Vinci, including her copy of <hi rend="italic">Selections from the Notebooks of Leonardo da Vinci</hi><hi rend="background-color(#ffffff)"> (New York: Oxford, 1952), </hi>translated by Irma Richter.  </note></l>
                         <l n="02">  	<hi rend="green">Patience—the solution is inward</hi>				</l>
@@ -2110,9 +2005,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0053_text">
                 <div type="page" n="v.0053" xml:id="nb_07_04_05_0053_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0053-recto.jpg"
-                        n="0053-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0053-recto.jpg" n="0053-recto"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/><seg type="genre-read-begin"/><hi rend="green">They who took as their standard anything</hi><note n="n112"> MM drafts toward "An Expedient—Leonardo da Vinci's—&amp; a Query." </note></l>
                         <l n="02"><hi rend="green">  A other than nature the supreme guide of all the				</hi></l>
@@ -2120,7 +2013,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="04"><hi rend="green">  </hi></l>
                         <l n="05"><hi rend="green">  the mul<del>p</del>tiple artist  </hi></l>
                         <l n="06"><hi rend="green">  I leave the decision to the test of experience</hi></l>
-                        <l n="07"><hi rend="green">  <del><gap extent="2" resp="eg"/></del></hi></l>
+                        <l n="07"><hi rend="green">  <del/></hi></l>
                         <l n="08"><hi rend="green">  170  strive to be universal. There is great lack</hi></l>
                         <l n="09"><hi rend="green">  of dignity in one thing well, another badly</hi></l>
                         <l n="10"><hi rend="green">  </hi></l>
@@ -2137,9 +2030,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0054_text">
                 <div type="page" n="v.0054" xml:id="nb_07_04_05_0054_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0054-verso.jpg"
-                        n="0054-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0054-verso.jpg" n="0054-verso"/>
                     <lg>
                         <l n="01">  <hi rend="red"> Another Katydid</hi></l>
                         <l n="02">  <hi rend="underline">Oh Did</hi>		<hi rend="red">Be natural</hi></l>
@@ -2176,9 +2067,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0055_text">
                 <div type="page" n="v.0055" xml:id="nb_07_04_05_0055_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0055-recto.jpg"
-                        n="0055-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0055-recto.jpg" n="0055-recto"/>
                     <lg>
                         <l n="01">  		Winter is here</l>
                         <l n="02">  		which I must bear	</l>
@@ -2212,9 +2101,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0056_text">
                 <div type="page" n="v.0056" xml:id="nb_07_04_05_0056_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0056-verso.jpg"
-                        n="0056-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0056-verso.jpg" n="0056-verso"/>
                     <lg>
                         <l n="01">  		Scripps Calendar 1964<note n="n113"> MM lectured at Scripps College in 1959 and evidently received calendars from them thereafter.</note></l>
                         <l n="02">  I confuse the Hesperides				</l>
@@ -2256,9 +2143,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0057_text">
                 <div type="page" n="v.0057" xml:id="nb_07_04_05_0057_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0057-recto.jpg"
-                        n="0057-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0057-recto.jpg" n="0057-recto"/>
                     <lg>
                         <l n="01">  		<hi rend="blue">Full Moon</hi></l>
                         <l n="02"><hi rend="blue">  				  see it	</hi></l>
@@ -2305,9 +2190,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0058_text">
                 <div type="page" n="v.0058" xml:id="nb_07_04_05_0058_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0058-verso.jpg"
-                        n="0058-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0058-verso.jpg" n="0058-verso"/>
                     <lg>
                         <l n="01">  <hi rend="blue">	Appreciation of appreciator</hi></l>
                         <l n="02">  			Ditty with Banjo	</l>
@@ -2342,9 +2225,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0059_text">
                 <div type="page" n="v.0059" xml:id="nb_07_04_05_0059_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0059-recto.jpg"
-                        n="0059-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0059-recto.jpg" n="0059-recto"/>
                     <lg>
                         <l n="01"> <hi rend="blue">on a fair I decided</hi>  <del>I thought</del> <hi rend="blue">is fair</hi></l>
                         <l n="02"><hi rend="blue"> 	  day yes / 				on a day <del>that</del>	</hi></l>
@@ -2384,7 +2265,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="36"><hi rend="blue">  <del>and the</del></hi></l>
                         <l n="37"><hi rend="blue">  <del>From the bomb—and tomb</del></hi></l>
                         <l n="38"><hi rend="blue">  <del>with the bomb plus</del> who <del>do gas</del> dropped plume-gas</hi></l>
-                        <l n="39"><hi rend="blue">  <del><gap extent="2" resp="eg"/></del> poison<del>ed</del>s grass</hi></l>
+                        <l n="39"><hi rend="blue">  <del/> poison<del>ed</del>s grass</hi></l>
                     </lg>
                     <lg type="vertical">
                         <l n="v40"><!-- span lines 17-2, left margin, --><hi rend="blue">Having seen <del>this</del> a photograph</hi></l>
@@ -2397,9 +2278,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0060_text">
                 <div type="page" n="v.0060" xml:id="nb_07_04_05_0060_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0060-verso.jpg"
-                        n="0060-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0060-verso.jpg" n="0060-verso"/>
                     <lg>
                         <l n="01">  <hi rend="blue">Musk oxen are</hi></l>
                         <l n="02"><hi rend="blue">  	  <del>The musk ox is</del> 	my envy	The musk-ox				</hi></l>
@@ -2436,9 +2315,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0061_text">
                 <div type="page" n="v.0061" xml:id="nb_07_04_05_0061_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0061-recto.jpg"
-                        n="0061-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0061-recto.jpg" n="0061-recto"/>
                     <lg>
                         <l n="01">  <hi rend="blue">The Tum ti-tum of the drum</hi></l>
                         <l n="02">  					<hi rend="blue">cymbals</hi></l>
@@ -2470,9 +2347,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0062_text">
                 <div type="page" n="v.0062" xml:id="nb_07_04_05_0062_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0062-verso.jpg"
-                        n="0062-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0062-verso.jpg" n="0062-verso"/>
                     <lg>
                         <l n="01"><hi rend="blue"><seg type="draft-begin"/><hi rend="blue">Old Amusement Park  <seg type="genre-read-begin"/><bibl type="begin"/>May 23 1964</hi><note n="n122"> MM drafts toward "The Old Amusement Park," first published <hi rend="italic">The New Yorker</hi>  40 (29 August 1964): 34. MM also quotes on the first third of the page from Brendan Gill,"The Current Cinema: Danger! Virtue at Work," <hi rend="italic">The New Yorker</hi>  (23 May 1964): 152. Brief rev. of a documentary on the 1960 Olympics. Gill sent MM the postcard on which the poem is based.</note></hi></l>
                         <l n="02"><hi rend="blue">  					N Yorker<bibl type="end"/>			</hi></l>
@@ -2511,9 +2386,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0063_text">
                 <div type="page" n="v.0063" xml:id="nb_07_04_05_0063_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0063-recto.jpg"
-                        n="0063-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0063-recto.jpg" n="0063-recto"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/><hi rend="blue"><seg type="genre-read-begin"/>Landor's dialogues cameos of indignation</hi><note n="n125"> MM drafts toward "W. S. Landor." As indicated in her published note to this poem, she draws on Havelock Ellis's Introduction to Landor's <hi rend="italic">Imaginary Conversations: A Selection</hi>, edited by Ellis (London: J. M. Dent &amp; Sons, and New York: E. P. Dutton &amp; Co., multiple editions).</note></l>
                         <l n="02">  <hi rend="blue">Landor I pant! I fight </hi><del><hi rend="pencil">sit down</hi></del><hi rend="blue">I write</hi></l>
@@ -2565,9 +2438,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0064_text">
                 <div type="page" n="v.0064" xml:id="nb_07_04_05_0064_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0064-verso.jpg"
-                        n="0064-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0064-verso.jpg" n="0064-verso"/>
                     <lg>
                         <l n="01"><seg type="draft-begin"/> The Spectacled owl in Gerald Durrell's<note n="n127"> MM drafts toward "Old Amusement Park."</note></l>
                         <l n="02">  	Photo EDH Johnson<note n="n128"> Johnson, Edward Dudley Hume [1911-1995]. Princeton Professor of English.</note>						Jersey Zoo<note n="n129"> Durrell, Gerald [1925-1995]. Naturalist who collected pen portraits of some of the animals in his personal zoo on the island of Jersey.</note> </l>
@@ -2611,9 +2482,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0065_text">
                 <div type="page" n="v.0065" xml:id="nb_07_04_05_0065_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0065-recto.jpg"
-                        n="0065-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0065-recto.jpg" n="0065-recto"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/>Ah 	Ah me!<note n="n132"> MM drafts toward "The Mind, Intractable Thing," first published <hi rend="italic">The New Yorker</hi>  41 (27 November 1965): 60.</note></l>
                         <l n="02">  				O bee—	</l>
@@ -2658,9 +2527,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0066_text">
                 <div type="page" n="v.0066" xml:id="nb_07_04_05_0066_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0066-verso.jpg"
-                        n="0066-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0066-verso.jpg" n="0066-verso"/>
                     <lg>
                         <l n="01"> <seg type="draft-begin"/> <hi rend="pencil"> &amp; pent up emotion  home of for the</hi><note n="n136"> MM drafts toward "The Mind, Intractable Thing."</note></l>
                         <l n="02"> </l>
@@ -2692,9 +2559,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0067_text">
                 <div type="page" n="v.0067" xml:id="nb_07_04_05_0067_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0067-recto.jpg"
-                        n="0067-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0067-recto.jpg" n="0067-recto"/>
                     <lg>
                         <l n="01">	  <seg type="draft-begin"/><hi rend="pencil">fox ran the north</hi><note n="n137"> MM drafts toward "The Mind, Intractable Thing."</note></l>
                         <l n="02"><hi rend="pencil">  	quivered uncertain till finding					</hi></l>
@@ -2713,9 +2578,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0068_text">
                 <div type="page" n="v.0068" xml:id="nb_07_04_05_0068_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0068-verso.jpg"
-                        n="0068-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0068-verso.jpg" n="0068-verso"/>
                     <lg>
                         <l n="01">[No handwriting on this page.] </l>
                     </lg>
@@ -2723,9 +2586,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0069_text">
                 <div type="page" n="v.0069" xml:id="nb_07_04_05_0069_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0069-recto.jpg"
-                        n="0069-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0069-recto.jpg" n="0069-recto"/>
                     <lg>
                         <l n="01"> Some things are not said because too</l>
                         <l n="02"> much felt 				</l>
@@ -2759,9 +2620,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0070_text">
                 <div type="page" n="v.0070" xml:id="nb_07_04_05_0070_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0070-verso.jpg"
-                        n="0070-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0070-verso.jpg" n="0070-verso"/>
                     <lg>
                         <l n="01">[No handwriting on this page.] </l>
                     </lg>
@@ -2769,9 +2628,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0071_text">
                 <div type="page" n="v.0071" xml:id="nb_07_04_05_0071_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0071-recto.jpg"
-                        n="0071-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0071-recto.jpg" n="0071-recto"/>
                     <lg>
                         <l n="01"> 	<seg type="draft-begin"/> The younger not stronger<note n="n141"> MM drafts toward "Dream," first published<hi rend="italic">The New Yorker</hi>  41 (16 October 1965): 52.</note> </l>
                         <l n="02">  		the older not wiser					</l>
@@ -2819,9 +2676,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0072_text">
                 <div type="page" n="v.0072" xml:id="nb_07_04_05_0072_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0072-verso.jpg"
-                        n="0072-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0072-verso.jpg" n="0072-verso"/>
                     <lg>
                         <l n="01">  	<seg type="draft-begin"/> he  <hi rend="pencil">compose<note n="n143"> MM drafts toward "Dream."</note></hi></l>
                         <l n="02">  	At the Thomas-kirche had had to produce<note n="n144"> Bach spent his last 27 years (1723–1750) in service to and writing cantatas for St. Thomas Church (Thomaskirche) in Leipzig, Germany.</note>					</l>
@@ -2836,9 +2691,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0073_text">
                 <div type="page" n="v.0073" xml:id="nb_07_04_05_0073_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0073-verso.jpg"
-                        n="0073-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0073-verso.jpg" n="0073-verso"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/><hi rend="blue">I am 	Would I were</hi><note n="n145"> MM drafts toward "Mercifully," first published<hi rend="italic">The New Yorker</hi>  44 (20 July 1968): 34.</note></l>
                         <l n="02"><hi rend="blue"> 						  	only stone</hi></l>
@@ -2876,16 +2729,13 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="34">  		of which she had no</l>
                         <l n="35">	<unclear resp="eg">once</unclear> of men of <unclear resp="eg">g</unclear><seg type="draft-end"/></l>
                         <desc>Lines 29 to 34 involve extensive erasure and overwriting; line 33 MM
-                            may write and then erase "there here" and then an ineligible 3<hi
-                                rend="sup">rd</hi> word </desc>
+                            may write and then erase "there here" and then an ineligible 3<hi rend="sup">rd</hi> word </desc>
                     </lg>
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0074_text">
                 <div type="page" n="v.0074" xml:id="nb_07_04_05_0074_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0074-verso.jpg"
-                        n="0074-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0074-verso.jpg" n="0074-verso"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/>Such lofty language<note n="n146"> MM drafts toward "Mercifully."</note></l>
                         <l n="02">  					</l>
@@ -2897,9 +2747,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0075_text">
                 <div type="page" n="v.0075" xml:id="nb_07_04_05_0075_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0075-recto.jpg"
-                        n="0075-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0075-recto.jpg" n="0075-recto"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/>	The Camperdown Elm<note n="n147"> MM drafts toward "The Camperdown Elm," first published <hi rend="italic">The New Yorker</hi>  43 (23 September 1967): 48.</note></l>
                         <l n="02">  <hi rend="blue">Thomas	Bryant &amp; Asher Durand</hi>	</l>
@@ -2936,9 +2784,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0076_text">
                 <div type="page" n="v.0076" xml:id="nb_07_04_05_0076_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0076-verso.jpg"
-                        n="0076-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0076-verso.jpg" n="0076-verso"/>
                     <lg>
                         <l n="01"><seg type="draft-begin"/><hi rend="blue">Sep–Oct</hi><note n="n150"> MM drafts toward "Mercifully."</note></l>
                         <l n="02"/>
@@ -2988,9 +2834,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0077_text">
                 <div type="page" n="v.0077" xml:id="nb_07_04_05_0077_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0077-recto.jpg"
-                        n="0077-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0077-recto.jpg" n="0077-recto"/>
                     <lg>
                         <l n="01">  	  <hi rend="pencil">O moon</hi></l>
                         <l n="02"> </l>
@@ -3033,9 +2877,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0078_text">
                 <div type="page" n="v.0078" xml:id="nb_07_04_05_0078_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0078-verso.jpg"
-                        n="0078-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0078-verso.jpg" n="0078-verso"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/>1 I am hard to disgust<note n="n154"> MM drafts toward "Mercifully."</note> </l>
                         <l n="02">  	an pretentious poet can do it				</l>
@@ -3078,9 +2920,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0079_text">
                 <div type="page" n="v.0079" xml:id="nb_07_04_05_0079_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0079-recto.jpg"
-                        n="0079-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0079-recto.jpg" n="0079-recto"/>
                     <lg>
                         <l n="01">  			 <seg type="draft-begin"/> The panther sacred to him<note n="n155"> MM drafts toward "Reminiscent of a Wave at the Curl," first published <hi rend="italic">The New Yorker</hi>  45 (29 November 1969): 44, as "Like a Wave at the Curl." The new title appeared in the 1981 edition of MM's <hi rend="italic">Complete Poems</hi>. </note></l>
                         <l n="02">   		Dionysis Kitten					</l>
@@ -3116,9 +2956,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0080_text">
                 <div type="page" n="v.0080" xml:id="nb_07_04_05_0080_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0080-verso.jpg"
-                        n="0080-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0080-verso.jpg" n="0080-verso"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/>A Aside<note n="n156"> MM drafts toward "Mercifully."</note></l>
                         <l n="02">  I am hard to disgust					</l>
@@ -3164,9 +3002,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0081_text">
                 <div type="page" n="v.0081" xml:id="nb_07_04_05_0081_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0081-recto.jpg"
-                        n="0081-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0081-recto.jpg" n="0081-recto"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/>Never mind what I said<note n="n157"> MM drafts toward "Mercifully."</note> </l>
                         <l n="02">  						Said<note n="n158"> MM cut off the top of page 81,then began writing on the top of 83, apparently not noticing that there were two different pages now overlapping. When she reached the point of overlap, she wrote a few words with their upper portions on 83 and the lower on 81. She continued on 81, so that upper 83 and lower 81 are a continuous text. The lower part of 83 was thus blank and available for further use later.</note>			</l>
@@ -3191,9 +3027,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0082_text">
                 <div type="page" n="v.0082" xml:id="nb_07_04_05_0082_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0082-verso.jpg"
-                        n="0082-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0082-verso.jpg" n="0082-verso"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/> 2 In an uproar of conversation<note n="n160"> MM drafts toward "Mercifully."</note></l>
                         <l n="02">  in which harmony loses its force					</l>
@@ -3218,9 +3052,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0083_text">
                 <div type="page" n="v.0083" xml:id="nb_07_04_05_0083_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0083-recto.jpg"
-                        n="0083-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0083-recto.jpg" n="0083-recto"/>
                     <lg>
                         <l n="01">  a bolt fr heaven<note n="n161"> The top of this page aligns with the bottom of image 0081 (see note there).</note></l>
                         <l n="02">  		lightning rod				</l>
@@ -3247,9 +3079,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0084_text">
                 <div type="page" n="v.0084" xml:id="nb_07_04_05_0084_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0084-verso.jpg"
-                        n="0084-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0084-verso.jpg" n="0084-verso"/>
                     <lg>
                         <l n="01">[No handwriting on this page.] </l>
                     </lg>
@@ -3257,9 +3087,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0085_text">
                 <div type="page" n="v.0085" xml:id="nb_07_04_05_0085_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0085-recto.jpg"
-                        n="0085-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0085-recto.jpg" n="0085-recto"/>
                     <lg>
                         <l n="01">  		<seg type="draft-begin"/>  Moon<note n="n162"> MM drafts toward "Reminiscent of a Wave at the Curl," largely in the second half of the page. Elements trickle into drafts of "The Magician's Retreat" (cats's eye and moon). </note></l>
                         <l n="02">  		Rock Crystal prism <del>nutria coal coat</del>					</l>
@@ -3302,9 +3130,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0086_text">
                 <div type="page" n="v.0086" xml:id="nb_07_04_05_0086_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0086-verso.jpg"
-                        n="0086-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0086-verso.jpg" n="0086-verso"/>
                     <lg>
                         <l n="01"> 		 <seg type="draft-begin"/>In heavy trouble<note n="n164"> MM drafts toward "Reminiscent of a Wave at the Curl."</note></l>
                         <l n="02">  		Sealpoints					</l>
@@ -3334,9 +3160,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0087_text">
                 <div type="page" n="v.0087" xml:id="nb_07_04_05_0087_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0087-recto.jpg"
-                        n="0087-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0087-recto.jpg" n="0087-recto"/>
                     <lg>
                         <l n="01"> 	 <seg type="draft-begin"/>Suffering from austerity<note n="n165"> MM drafts toward "Enough 1969," first published <hi rend="italic">The New Yorker</hi>  46 (17 January 1970): 28.</note></l>
                         <l n="02">  		This is writing perhaps without care of posterity			</l>
@@ -3371,9 +3195,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0088_text">
                 <div type="page" n="v.0088" xml:id="nb_07_04_05_0088_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0088-verso.jpg"
-                        n="0088-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0088-verso.jpg" n="0088-verso"/>
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/><hi rend="underline">R Southey</hi><note n="n167"> Southey, Robert [1774-1843]. English poet, associated with Romanticism. Moore pastes in a section of a newspaper article on his work that she apparently clipped in 1916 and retained. It is comprised of two of Southey's poems, "The Locust" and "The Sea Anemone," with annotations, presumably hers. We reproduce here only her notes and the lines she annotates.</note>	<bibl type="begin"/>NY. Times	May 7) 1916</l>
                         <l n="02">  								</l>
@@ -3413,9 +3235,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0089_text">
                 <div type="page" n="v.0089" xml:id="nb_07_04_05_0089_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0089-recto.jpg"
-                        n="0089-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0089-recto.jpg" n="0089-recto"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/> — <note n="n169"> MM drafts toward "The Magician's Retreat," first published <hi rend="italic">The New Yorker</hi>  46 (21 February 1970): 40. </note></l>
                         <l n="02"> 	<hi rend="blue">The Magician's Retreat</hi></l>
@@ -3454,9 +3274,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0090_text">
                 <div type="page" n="v.0090" xml:id="nb_07_04_05_0090_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0090-verso.jpg"
-                        n="0090-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0090-verso.jpg" n="0090-verso"/>
                     <lg>
                         <l n="01"> <seg type="draft-begin"/> bowed	new moon</l>
                         <l n="02">  	of moderate height					</l>
@@ -3493,9 +3311,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0091_text">
                 <div type="page" n="v.0091" xml:id="nb_07_04_05_0091_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0091-recto.jpg"
-                        n="0091-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0091-recto.jpg" n="0091-recto"/>
                     <lg>
                         <l n="01"> 	 <seg type="draft-begin"/> The Magician's Retreat<note n="n173"> MM drafts toward "The Magician's Retreat."</note></l>
                         <l n="02"> A square <del>of with</del> mansard <del>of roof</del>roof 	No		</l>
@@ -3542,9 +3358,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0092_text">
                 <div type="page" n="v.0092" xml:id="nb_07_04_05_0092_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0092-verso.jpg"
-                        n="0092-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0092-verso.jpg" n="0092-verso"/>
                     <lg>
                         <l n="01"><seg type="draft-begin"/>May 6, 1969<note n="n174"> MM drafts toward "Prevalent at One Time." </note></l>
                         <l n="02">  				All black		</l>
@@ -3590,9 +3404,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0093_text">
                 <div type="page" n="v.0093" xml:id="nb_07_04_05_0093_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0093-recto.jpg"
-                        n="0093-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0093-recto.jpg" n="0093-recto"/>
                     <lg>
                         <l n="01">  	<seg type="draft-begin"/>  <hi rend="pencil">My conveyance<note n="n175"> MM drafts toward "Prevalent at One Time."</note></hi></l>
                         <l n="02">			Al onde</l>
@@ -3631,9 +3443,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0094_text">
                 <div type="page" n="v.0094" xml:id="nb_07_04_05_0094_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0094-verso.jpg"
-                        n="0094-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0094-verso.jpg" n="0094-verso"/>
                     <lg>
                         <l n="01"><seg type="draft-begin"/><hi rend="pencil">  	Then<note n="n177"> MM drafts toward "Prevalent at One Time."</note><unclear resp="eg">on<gap extent="2" resp="eg"/></unclear></hi></l>
                         <l n="02">  	<hi rend="pencil">Beside the a</hi> tigerskin pug</l>
@@ -3652,9 +3462,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0095_text">
                 <div type="page" n="v.0095" xml:id="nb_07_04_05_0095_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0095-recto.jpg"
-                        n="0095-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0095-recto.jpg" n="0095-recto"/>
                     <lg>
                         <l n="01"><seg type="draft-begin"/><hi rend="pencil">  At one time prevalent<note n="n178"> MM drafts toward "Prevalent at One Time."</note></hi></l>
                         <l n="02">  	I've always wanted a gig				</l>
@@ -3698,9 +3506,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0096_text">
                 <div type="page" n="v.0096" xml:id="nb_07_04_05_0096_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0096-verso.jpg"
-                        n="0096-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0096-verso.jpg" n="0096-verso"/>
                     <lg>
                         <l n="01">[No handwriting on this page.] </l>
                     </lg>
@@ -3708,9 +3514,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0097_text">
                 <div type="page" n="v.0097" xml:id="nb_07_04_05_0097_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0097-recto.jpg"
-                        n="0097-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0097-recto.jpg" n="0097-recto"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin"/> <hi rend="pencil"> 		Prevalent  at  One Time<note n="n180"> MM drafts toward "Prevalent at One Time."</note></hi></l>
                         <l n="02">  	I've always wanted a gig					</l>
@@ -3729,9 +3533,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0098_text">
                 <div type="page" n="v.0098" xml:id="nb_07_04_05_0098_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0098-verso.jpg"
-                        n="0098-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0098-verso.jpg" n="0098-verso"/>
                     <lg>
                         <l n="01">[No handwriting on this page.] </l>
                     </lg>
@@ -3739,9 +3541,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0099_text">
                 <div type="page" n="v.0099" xml:id="nb_07_04_05_0099_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0099-recto.jpg"
-                        n="0099-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0099-recto.jpg" n="0099-recto"/>
                     <lg>
                         <l n="01">[No handwriting on this page.]</l>
                     </lg>
@@ -3749,9 +3549,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0100_text">
                 <div type="page" n="v.0100" xml:id="nb_07_04_05_0100_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0100-verso.jpg"
-                        n="0100-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0100-verso.jpg" n="0100-verso"/>
                     <lg>
                         <l n="01">[No handwriting on this page]</l>
                     </lg>
@@ -3759,9 +3557,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0101_text">
                 <div type="page" n="v.0101" xml:id="nb_07_04_05_0101_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0101-recto.jpg"
-                        n="0101-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0101-recto.jpg" n="0101-recto"/>
                     <lg>
                         <l n="01">  Bull ring</l>
                         <l n="02">  not killed but very	injured</l>
@@ -3771,9 +3567,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0102_text">
                 <div type="page" n="v.0102" xml:id="nb_07_04_05_0102_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0102-verso.jpg"
-                        n="0102-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0102-verso.jpg" n="0102-verso"/>
                     <lg>
                         <l n="01"><seg type="genre-travel-begin"/><hi rend="blue">		Islands Palma majorca 10 months</hi><note n="n181"> MM travelled to Europe by boat in 1962 with college friend Frances Browne and Frances's sister Norvelle, departing July 25, returning October 11. They visited Azores, Madeira, Lisbon, Majorca, Italy, and Greece. Some notes here were made on that trip, including Italian language practice.The purser lectured the group on the sites they would visit.</note> </l>
                         <l n="02"><hi rend="blue">  		in a year—prices good</hi></l>
@@ -3812,9 +3606,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0103_text">
                 <div type="page" n="v.0103" xml:id="nb_07_04_05_0103_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0103-recto.jpg"
-                        n="0103-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0103-recto.jpg" n="0103-recto"/>
                     <lg>
                         <l n="01">  <seg type="genre-travel-begin"/>  everything burned—piano— mask; each</l>
                         <l n="02">  	cell had a small garden <unclear resp="eg"><hi rend="underline">love</hi></unclear><hi rend="underline"> </hi>planted ? ?			</l>
@@ -3847,9 +3639,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0104_text">
                 <div type="page" n="v.0104" xml:id="nb_07_04_05_0104_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0104-verso.jpg"
-                        n="0104-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0104-verso.jpg" n="0104-verso"/>
                     <lg>
                         <l n="01"><seg type="genre-travel-begin"/><foreign xml:lang="it">Augosto</foreign> 3 Print shop = <foreign xml:lang="it"><note n="n184"> MM took Italian lessons on the cruise over (beginning July 28th, per her appointment book) and she takes notes here.</note>tipographia</foreign> </l>
                         <l n="02">  We try to learn a few phrases					</l>
@@ -3890,9 +3680,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0105_text">
                 <div type="page" n="v.0105" xml:id="nb_07_04_05_0105_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0105-recto.jpg"
-                        n="0105-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0105-recto.jpg" n="0105-recto"/>
                     <lg>
                         <l n="01">  	  <seg type="genre-travel-begin"/><foreign xml:lang="it"><del>4</del> persoe, vicino all orche</foreign></l>
                         <l n="02">  	<foreign xml:lang="it">un tavolo per quattro</foreign></l>
@@ -3911,9 +3699,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0106_text">
                 <div type="page" n="v.0106" xml:id="nb_07_04_05_0106_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0106-verso.jpg"
-                        n="0106-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0106-verso.jpg" n="0106-verso"/>
                     <lg>
                         <l n="01">  	  <seg type="genre-travel-begin"/>August 1, 1962</l>
                         <l n="02">  <foreign xml:lang="it">La spugna  lè spugne</foreign>					</l>
@@ -3958,12 +3744,10 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0107_text">
                 <div type="page" n="v.0107" xml:id="nb_07_04_05_0107_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0107-recto.jpg"
-                        n="0107-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0107-recto.jpg" n="0107-recto"/>
                     <lg>
                         <l n="01">  <seg type="genre-travel-begin"/>1-12 then 13 14 15</l>
-                        <l n="02">  	<foreign xml:lang="it">l'aero à undici questa sera></foreign><note n="n186"> Translation line 2: The plane at 11 this evening; line 3: When will we arrive? Lines 4-5: Where will we find our bags? Line 6: I think that today this</note></l>
+                        <l n="02">  	<foreign xml:lang="it">l'aero à undici questa sera&amp;gt;</foreign><note n="n186"> Translation line 2: The plane at 11 this evening; line 3: When will we arrive? Lines 4-5: Where will we find our bags? Line 6: I think that today this</note></l>
                         <l n="03">  <foreign xml:lang="it">quando arriveremo?</foreign>	<hi rend="underline"><hi rend="underline">when?</hi></hi></l>
                         <l n="04">				<foreign xml:lang="it">valigie?</foreign></l>
                         <l n="05">  <foreign xml:lang="it">dove troveremo le nostre <del>villagie?</del></foreign></l>
@@ -3977,9 +3761,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0108_text">
                 <div type="page" n="v.0108" xml:id="nb_07_04_05_0108_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0108-verso.jpg"
-                        n="0108-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0108-verso.jpg" n="0108-verso"/>
                     <lg>
                         <l n="01">  	  <seg type="genre-travel-begin"/>July 31	  a few idiomatic phrases</l>
                         <l n="02">  to have  auxil  <foreign xml:lang="it">Essere</foreign> to be	<foreign xml:lang="it">Io sono</foreign> I am</l>
@@ -4024,9 +3806,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0109_text">
                 <div type="page" n="v.0109" xml:id="nb_07_04_05_0109_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0109-recto.jpg"
-                        n="0109-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0109-recto.jpg" n="0109-recto"/>
                     <lg>
                         <l n="01">  <seg type="genre-travel-begin"/>  <foreign xml:lang="it">Primo Commissario</foreign> First purser	Liborio Ligustri<note n="n189"> While on cruise, MM takes notes on a pre-excursion lecture give by the purser Liborio Ligustri (also mentioned in MM's appointment Book, July 31 and Aug. 4, 1962). They arrived in Lisbon on Aug. 2; Majorca on Aug. 3; Palermo, Sicily on Aug. 4.</note> </l>
                         <l n="02">  <hi rend="blue">Lisbon you will ask the same question</hi></l>
@@ -4076,9 +3856,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0110_text">
                 <div type="page" n="v.0110" xml:id="nb_07_04_05_0110_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0110-verso.jpg"
-                        n="0110-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0110-verso.jpg" n="0110-verso"/>
                     <lg>
                         <l n="01"> <seg type="genre-travel-begin"/><hi rend="blue">  	July 30  Monday</hi></l>
                         <l n="02"><hi rend="blue">  2 masc articles 	il and lo				</hi></l>
@@ -4121,9 +3899,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0111_text">
                 <div type="page" n="v.0111" xml:id="nb_07_04_05_0111_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0111-recto.jpg"
-                        n="0111-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0111-recto.jpg" n="0111-recto"/>
                     <lg>
                         <l n="01">  <seg type="genre-travel-begin"/><hi rend="blue">  Only 3 conjugations		infinitive</hi></l>
                         <l n="02"><hi rend="blue">  1st	2nd	3rd  according to ending of t<note n="n192"> Possibly shorthand for "the" (as in "the ending of the infinitive").</note></hi></l>
@@ -4158,9 +3934,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0112_text">
                 <div type="page" n="v.0112" xml:id="nb_07_04_05_0112_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0112-verso.jpg"
-                        n="0112-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0112-verso.jpg" n="0112-verso"/>
                     <lg>
                         <l n="01">  <seg type="genre-travel-begin"/><hi rend="blue"><foreign xml:lang="it">ieri  28</foreign></hi></l>
                         <l n="02"><hi rend="blue">  <foreign xml:lang="it">Comminciamo  con la seconda lesione</foreign><note n="n193"> MM writes, in Italian, "yesterday 28 / we began the second lesson / today is the 28 of July"; on the rest of the page she writes primarily days of the week and numbers.</note></hi></l>
@@ -4193,9 +3967,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0113_text">
                 <div type="page" n="v.0113" xml:id="nb_07_04_05_0113_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0113-recto.jpg"
-                        n="0113-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0113-recto.jpg" n="0113-recto"/>
                     <lg>
                         <l n="01"><seg type="genre-travel-begin"/><hi rend="blue"><foreign xml:lang="it">Gennaio—Febbraio	Marzo	Aprile</foreign></hi><note n="n194"> MM writes months of the year and the seasons in Italian, also practicing her use of plural "le."</note></l>
                         <l n="02"><hi rend="blue">  <foreign xml:lang="it">Maggio 	Giugno  Juglio Agosto</foreign></hi></l>
@@ -4217,9 +3989,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0114_text">
                 <div type="page" n="v.0114" xml:id="nb_07_04_05_0114_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0114-verso.jpg"
-                        n="0114-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0114-verso.jpg" n="0114-verso"/>
                     <lg>
                         <l n="01">  <seg type="genre-travel-begin"/><hi rend="pencil">a = ah			a = ah</hi><note n="n195"> MM gives pronunciation for words in Italian and rules for different pronunciation of "c."</note></l>
                         <l n="02"><hi rend="pencil">  <foreign xml:lang="it">mese</foreign></hi></l>
@@ -4256,9 +4026,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0115_text">
                 <div type="page" n="v.0115" xml:id="nb_07_04_05_0115_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0115-recto.jpg"
-                        n="0115-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0115-recto.jpg" n="0115-recto"/>
                     <lg>
                         <l n="01">  			  <seg type="genre-travel-begin"/><hi rend="pencil">cf</hi></l>
                         <l n="02"><hi rend="pencil">  Penna. State Coll. 	Faculty: Pres Pasey					</hi></l>
@@ -4278,7 +4046,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="16"><hi rend="pencil">  <foreign xml:lang="it">sera</foreign> evening	<foreign xml:lang="it">buna sera</foreign> good evening </hi></l>
                         <l n="17"><hi rend="pencil">  <foreign xml:lang="it">notta</foreign> night 			all words ending</hi></l>
                         <l n="18"><hi rend="pencil">  <foreign xml:lang="it">bon giorno</foreign> day			  w a feminine</hi></l>
-                        <l n="19"><hi rend="pencil">  	b<del><gap extent="1" resp="eg"/></del>uon<hi rend="underline">o</hi> masculine		no <unclear resp="eg"><del>s</del>strinth</unclear> at all</hi></l>
+                        <l n="19"><hi rend="pencil">  	b<del/>uon<hi rend="underline">o</hi> masculine		no <unclear resp="eg"><del>s</del>strinth</unclear> at all</hi></l>
                         <l n="20"><hi rend="pencil">  <foreign xml:lang="it">borna nooti</foreign></hi></l>
                         <l n="21"><hi rend="pencil">  <foreign xml:lang="it">uomo</foreign> man</hi></l>
                         <l n="22"><hi rend="pencil">  <foreign xml:lang="it">donna</foreign> lady</hi></l>
@@ -4290,9 +4058,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0116_text">
                 <div type="page" n="v.0116" xml:id="nb_07_04_05_0116_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0116-verso.jpg"
-                        n="0116-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0116-verso.jpg" n="0116-verso"/>
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/><hi rend="blue"><bibl type="begin"/>Living Language</hi></l>
                         <l n="02"><hi rend="blue">  Conversation Manual					</hi></l>
@@ -4321,9 +4087,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0117_text">
                 <div type="page" n="v.0117" xml:id="nb_07_04_05_0117_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0117-recto.jpg"
-                        n="0117-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0117-recto.jpg" n="0117-recto"/>
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/>August 23 1960	Record 2  Side 1  Band 1<note n="n199"> MM took notes on her Italian studies with records in 1960, two years before her 1962 cruise to Italy. Martin, Genevieve A., and Mario Ciatti.<hi rend="italic">Living Language conversational Italian</hi>  (see earlier note).</note></l>
                         <l n="02">  p 16					</l>
@@ -4356,9 +4120,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0118_text">
                 <div type="page" n="v.0118" xml:id="nb_07_04_05_0118_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0118-verso.jpg"
-                        n="0118-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0118-verso.jpg" n="0118-verso"/>
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/><hi rend="blue">20 <foreign xml:lang="it">È lontano da qui?</foreign> 	Is it far<note n="n200"> Martin, Genevieve A., and Mario Ciatti.<hi rend="italic">Living Language conversational Italian</hi>  (see earlier note).</note>fr here</hi></l>
                         <l n="02"><hi rend="blue">  	<foreign xml:lang="it">noi		voi		</foreign></hi></l>
@@ -4391,9 +4153,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0119_text">
                 <div type="page" n="v.0119" xml:id="nb_07_04_05_0119_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0119-recto.jpg"
-                        n="0119-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0119-recto.jpg" n="0119-recto"/>
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/><hi rend="blue">o</hi></l>
                         <l n="02"><hi rend="blue"> 	<foreign xml:lang="it">cento settanto</foreign>	170</hi></l>
@@ -4402,7 +4162,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="05"><hi rend="blue">  				  	this cost</hi></l>
                         <l n="06"><hi rend="blue">  <foreign xml:lang="it">Q<hi rend="underline">ua</hi>nto costa q<hi rend="underline">ue</hi>sto?</foreign> How much does</hi></l>
                         <l n="07"><hi rend="blue">  si</hi></l>
-                        <l n="08"><hi rend="blue">  27  <foreign xml:lang="it">Il negozio <del><gap extent="1" resp="eg"/></del>i trova in</foreign>  the store is</hi></l>
+                        <l n="08"><hi rend="blue">  27  <foreign xml:lang="it">Il negozio <del/>i trova in</foreign>  the store is</hi></l>
                         <l n="09"><hi rend="blue">  39  				á</hi></l>
                         <l n="10"><hi rend="blue">  <foreign xml:lang="it">Il mio <hi rend="underline">nu</hi>mero di tel<hi rend="underline">e</hi><hi rend="underline">f</hi>ono</foreign></hi></l>
                         <l n="11"><hi rend="blue">  40  <foreign xml:lang="it">mia casa</foreign>	cahsa</hi></l>
@@ -4422,9 +4182,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0120_text">
                 <div type="page" n="v.0120" xml:id="nb_07_04_05_0120_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0120-verso.jpg"
-                        n="0120-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0120-verso.jpg" n="0120-verso"/>
                     <lg>
                         <l n="01"> 					<hi rend="pencil">diagrammed but explained</hi></l>
                         <l n="02">  		<seg type="draft-begin"/> Preface<note n="n201"> Moore is drafting toward the Foreword to the<hi rend="italic">Marianne Moore Reader</hi>  (1961). That essay's second sentence ("The magazine was discontinued") is echoed below.</note>			</l>
@@ -4475,9 +4233,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0121_text">
                 <div type="page" n="v.0121" xml:id="nb_07_04_05_0121_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0121-recto.jpg"
-                        n="0121-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0121-recto.jpg" n="0121-recto"/>
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/> at the time must have been more burdensome<note n="n203"> MM continues note-taking on Diana Holman-Hunt's memoir (see earlier note).</note></l>
                         <l n="02">  than appealing; for the reader of 1961, however, 					</l>
@@ -4489,9 +4245,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0122_text">
                 <div type="page" n="v.0122" xml:id="nb_07_04_05_0122_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0122-verso.jpg"
-                        n="0122-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0122-verso.jpg" n="0122-verso"/>
                     <lg>
                         <l n="01">[No handwriting on this page.] </l>
                     </lg>
@@ -4499,9 +4253,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0123_text">
                 <div type="page" n="v.0123" xml:id="nb_07_04_05_0123_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0123-recto.jpg"
-                        n="0123-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0123-recto.jpg" n="0123-recto"/>
                     <lg>
                         <l n="01">[No handwriting on this page.] </l>
                     </lg>
@@ -4509,9 +4261,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0124_text">
                 <div type="page" n="v.0124" xml:id="nb_07_04_05_0124_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0124-verso.jpg"
-                        n="0124-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0124-verso.jpg" n="0124-verso"/>
                     <lg>
                         <l n="01">[No handwriting on this page.] </l>
                     </lg>
@@ -4519,9 +4269,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0125_text">
                 <div type="page" n="v.0125" xml:id="nb_07_04_05_0125_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0125-recto.jpg"
-                        n="0125-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0125-recto.jpg" n="0125-recto"/>
                     <lg>
                         <l n="01">[No handwriting on this page.] </l>
                     </lg>
@@ -4529,9 +4277,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0126_text">
                 <div type="page" n="v.0126" xml:id="nb_07_04_05_0126_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0126-verso.jpg"
-                        n="0126-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0126-verso.jpg" n="0126-verso"/>
                     <lg>
                         <l n="01">[No handwriting on this page.] </l>
                     </lg>
@@ -4539,9 +4285,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0127_text">
                 <div type="page" n="v.0127" xml:id="nb_07_04_05_0127_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0127-recto.jpg"
-                        n="0127-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0127-recto.jpg" n="0127-recto"/>
                     <lg>
                         <l n="01">  Technique			in the way of</l>
                         <l n="02">  We are subjected to a great deal of chaos (that					</l>
@@ -4555,9 +4299,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0128_text">
                 <div type="page" n="v.0128" xml:id="nb_07_04_05_0128_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0128-verso.jpg"
-                        n="0128-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0128-verso.jpg" n="0128-verso"/>
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/><bibl type="begin"/>NY Times	Aug. 19 1960		Class for Politicians<bibl type="end"/><note n="n206"> Benjamin, Philip. "TV-Manship Lesson for Politicians: How to Project Sincerity Imagewise."<hi rend="italic">New York Times</hi>  (August 19, 1960): 25.</note></l>
                         <l n="02">  <quote type="begin"/>attended by some fifty politicians. —conducted</l>
@@ -4598,9 +4340,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0129_text">
                 <div type="page" n="v.0129" xml:id="nb_07_04_05_0129_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0129-recto.jpg"
-                        n="0129-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0129-recto.jpg" n="0129-recto"/>
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/><bibl type="begin"/>Newsweek Aug. 29 1960<bibl type="end"/>  Olympiad<note n="n213"> "The Olympics: Sports Summit at Rome" (issue title).<hi rend="italic">Newsweek </hi>(29 August 1960).</note> </l>
                         <l n="02">  Cover<note n="n214"> Van Houten, Norbert [dates unknown], designed the cover of the Rome Olympics issue of<hi rend="italic">Newsweek</hi>. MM cites the description of his work in the masthead. </note> Norbert van Houten has painted the					</l>
@@ -4641,9 +4381,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0130_text">
                 <div type="page" n="v.0130" xml:id="nb_07_04_05_0130_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0130-verso.jpg"
-                        n="0130-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0130-verso.jpg" n="0130-verso"/>
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/>Exploring the Unknown		Alcoa Aluminum<note n="n219"> <hi rend="italic">Newsweek</hi>  (August 22, 1960):  MM cites ad for Alcoa Aluminum (p. 79) and sketches their logo.  </note></l>
                         <l n="02">  		Aluminum Co of America			</l>
@@ -4674,9 +4412,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0131_text">
                 <div type="page" n="v.0131" xml:id="nb_07_04_05_0131_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0131-recto.jpg"
-                        n="0131-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0131-recto.jpg" n="0131-recto"/>
                     <lg>
                         <l n="01"> <hi rend="blue"><seg type="draft-begin"/><seg type="genre-read-begin"/>Landor Imaginary Conversations His effort</hi><note n="n221"> MM drafts toward "W.S. Landor."</note></l>
                         <l n="02"><hi rend="blue">  	for concentration results in obscurity<note n="n222">MM summarizes points from Havelock Ellis's "Introduction" to his Selection of Landor's <hi rend="italic">Imaginary Conversations</hi>  (see earlier note). </note>				</hi></l>
@@ -4730,9 +4466,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0132_text">
                 <div type="page" n="v.0132" xml:id="nb_07_04_05_0132_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0132-verso.jpg"
-                        n="0132-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0132-verso.jpg" n="0132-verso"/>
                     <lg>
                         <l n="01">  <hi rend="underline">Poems</hi>	1961—70<note n="n228">Cataloguing note from Rosenbach Museum and Library with early cataloguing number (1251/10) and an incomplete list of poems MM drafts toward in this notebook. The dates in line 1 refer to the publication dates of poems developed herein, not to the dates of use of the notebook.</note></l>
                         <l n="02">  		1251/10			</l>
@@ -4750,9 +4484,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0133_text">
                 <div type="page" n="v.0133" xml:id="nb_07_04_05_0133_recto_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0133-recto.jpg"
-                        n="0133-recto"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0133-recto.jpg" n="0133-recto"/>
                     <lg>
                         <l n="01">[No handwriting on this inside of back cover.] </l>
                     </lg>
@@ -4760,9 +4492,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
             </div>
             <div type="image" xml:id="nb07_04_05_0134_text">
                 <div type="page" n="v.0134" xml:id="nb_07_04_05_0134_verso_text">
-                    <pb
-                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0134-verso.jpg"
-                        n="0134-verso"/>
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0134-verso.jpg" n="0134-verso"/>
                     <lg>
                         <l n="01">[No handwriting on this back cover.]</l>
                     </lg>
