@@ -1341,7 +1341,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0037-recto.jpg" n="0037-recto"/>
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/><hi rend="blue"><bibl type="begin"/>Routledge &amp; Kegan Paul Ltd		31  </hi></l>
-                        <l n="02">  		<hi rend="blue">Athens &amp; the Greek Miracle</hi></l>
+                        <l n="02">  		<hi rend="blue">                    Athens &amp; the Greek Miracle</hi></l>
                         <l n="03"><hi rend="blue">  Broadway House 68-71  Carter Lane EC1</hi></l>
                         <l n="04"><hi rend="blue">  </hi></l>
                         <l n="05"><hi rend="blue">  by C P Rodocanachi<note n="n077"> Rhodokankes, Konstantinos P. (aka C. P. Rodocanachi).<hi rend="italic">Athens and the Greek Miracle</hi>. London: Routledge &amp; Keagan Paul, 1948. Reference recurs.</note><bibl type="end"/></hi></l>
@@ -1366,10 +1366,10 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="24"><hi rend="blue">  <hi rend="underline">who said or did it is not the</hi></hi></l>
                         <l n="25"><hi rend="blue">  <hi rend="underline">concern of poetry</hi><quote type="end"/></hi></l>
                         <l n="26"><hi rend="blue">		</hi></l>
-                        <l n="27">  unembarassingly impersonal<seg type="genre-read-end"/></l>
+                        <l n="27">     </l></lg></div><div type="page" n="v.0037" xml:id="nb_07_04_05_0037_recto_text"><lg><l n="27">          unembarassingly impersonal<seg type="genre-read-end"/></l>
                         <l n="28">  </l>
                         <l n="29"> <seg type="draft-begin"/> <hi rend="blue">Charty is there  <hi rend="underline">a principle in a person</hi></hi><note n="n078"> MM is drafting toward "Charity Overcoming Envy."</note></l>
-                        <l n="30">  <hi rend="blue">on an animal</hi><seg type="draft-end"/></l>
+                        <l n="30">  <hi rend="blue">     on an animal</hi><seg type="draft-end"/></l>
                         <desc>Line 29, MM draws a double underline, once in blue ink, once in
                             pencil</desc>
                     </lg>
