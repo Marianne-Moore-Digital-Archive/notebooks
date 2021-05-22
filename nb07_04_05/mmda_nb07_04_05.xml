@@ -2458,50 +2458,49 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                     </lg>
                     <lg type="vertical">
                         <l n="v31"><!-- span lines 13-04, left side --><hi rend="pencil"><bibl type="begin"/>J. Masefield<bibl type="end"/></hi><note n="n131"> Masefield, John Edward [1878-1967]. English poet, and Poet Laureate 1930-1967.</note><seg type="draft-end"/>	</l>
-                        <desc>Lines 13-06 long MM draws curly bracket on left side</desc>
-                    </lg>
+                        <desc>Lines 6-12, MM draws a long curly bracket on the left margin, pointing to her vertical note "J Masefield."</desc></lg>
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0065_text">
                 <div type="page" n="v.0065" xml:id="nb_07_04_05_0065_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0065-recto.jpg" n="0065-recto"/>
                     <lg>
-                        <l n="01">  <seg type="draft-begin"/>Ah 	Ah me!<note n="n132"> MM drafts toward "The Mind, Intractable Thing," first published <hi rend="italic">The New Yorker</hi>  41 (27 November 1965): 60.</note></l>
-                        <l n="02">  				O bee—	</l>
-                        <l n="03">	   <hi rend="pencil">by</hi>	</l>
-                        <l n="04">  			<del>O</del>	Bewick</l>
+                        <l n="01">  <seg type="draft-begin"/>         Ah               Ah me!<note n="n132"> MM drafts toward "The Mind, Intractable Thing," first published <hi rend="italic">The New Yorker</hi>  41 (27 November 1965): 60.</note></l>
+                        <l n="02">                                 O bee—	</l>
+                        <l n="03">	   <hi rend="pencil">                        by</hi>	</l>
+                        <l n="04">  			<del>                    O</del>	Bewick</l>
                         <l n="05"/>
-                        <l n="06">  			O Zeus &amp; O destiny</l>
+                        <l n="06">                     O Zeus &amp; O destiny</l>
                         <l n="07">  (End)</l>
-                        <l n="08">  			  	everywhere</l>
-                        <l n="09">  		Imagnifico			its body</l>
-                        <l n="10">  	  you—		disobliging &amp; fitful, oh no</l>
-                        <l n="11">  	like <del>that</del> the excellent cuckoo  its body</l>
-                        <l n="12">  spangled		with dashes of black all over its body  running;</l>
-                        <l n="13">  whom it took the photographer<del>,</del></l>
-                        <l n="14">  		two hours to <del>pictu capture</del> <hi rend="pencil">picture</hi></l>
-                        <l n="15">  	(to picture) <hi rend="pencil">road runner odd kind of cuckoo<note n="n133"> May refer to James Blair photograph of a roadrunner clipped from Ralph Gray, "From Sun-Clad Sea to Shining Mountains," which MM labels "a cuckoo" on Image 0002.</note></hi>	</l>
-                        <l n="16">  	 	 Did you not bring me the foxgrapes</l>
-                        <l n="17">  	 	  and pale road w shadows	 	</l>
-                        <l n="18">  <hi rend="pencil">its small</hi>  </l>
-                        <l n="19">  		and wild <del>small sized</del> ripening persimmon</l>
-                        <l n="20">  		Not—insubtantial or <del>fitful</del></l>
-                        <l n="21">  		  disobliging or fitful	<hi rend="pencil">I don't knownow the</hi></l>
-                        <l n="22">  <hi rend="underline">Stay</hi> here, at my elbow,  <hi rend="pencil"> procedure</hi></l>
-                        <l n="23">  		____________<hi rend="pencil">how poets wd say it</hi></l>
-                        <l n="24">  O <hi rend="pencil">I</hi>Magnifico	 <hi rend="pencil"><del>namely</del> </hi>		</l>
-                        <l n="25">  we say poets</l>
-                        <l n="26"> 	<hi rend="blue"><del>Ah</del></hi> O wizard in words;	<del>namely</del></l>
-                        <l n="27">		as Alfredo Panzini<note n="n134"> Panzini, Alfredo [1863-1939]. Italian writer and lexicographer, author of eccentric<hi rend="italic">Dizionario Moderno</hi>.</note>  defines <del>him</del> <hi rend="pencil">you</hi></l>
+                        <l n="08">                                          everywhere</l>
+                        <l n="09">          Imagnifico                          its body</l>
+                        <l n="10">       you—		disobliging &amp; fitful, oh no</l>
+                        <l n="11">       like <del>that</del> the excellent cuckoo  its body</l>
+                        <l n="12">  spangled    with dashes of black all over its body  running;</l>
+                        <l n="13">           whom it took the photographer<del>,</del></l>
+                        <l n="14">                       two hours to <del>pictu capture</del> <hi rend="pencil">picture</hi></l>
+                        <l n="15">           (to picture) <hi rend="pencil">road runner odd kind of cuckoo<note n="n133"> May refer to James Blair photograph of a roadrunner clipped from Ralph Gray, "From Sun-Clad Sea to Shining Mountains," which MM labels "a cuckoo" on Image 0002.</note></hi>	</l>
+                        <l n="16">               Did you not bring me the foxgrapes</l>
+                        <l n="17">                  and pale road w shadows	 	</l>
+                        <l n="18">  <hi rend="pencil">                                          its small</hi>  </l>
+                        <l n="19">                and wild <del>small sized</del> ripening persimmon</l>
+                        <l n="20">               Not—insubtantial or <del>fitful</del></l>
+                        <l n="21">                        disobliging or fitful     <hi rend="pencil">I don't know<add>now</add> the</hi></l>
+                        <l n="22">                 <hi rend="underline">Stay</hi> here, at my elbow,  <hi rend="pencil"> procedure</hi></l>
+                        <l n="23">           ____________<hi rend="pencil">how poets wd say it</hi></l>
+                        <l n="24">           O <hi rend="pencil">I</hi>Magnifico	 <hi rend="pencil"><del>namely</del> </hi>		</l>
+                        <l n="25">                                        we say poets</l>
+                        <l n="26"> 	<hi rend="blue">     <del>Ah</del></hi> O wizard in words;	<del>namely</del></l>
+                        <l n="27">             as Alfredo Panzini<note n="n134"> Panzini, Alfredo [1863-1939]. Italian writer and lexicographer, author of eccentric<hi rend="italic">Dizionario Moderno</hi>.</note>                                                 defines <del>him</del> <hi rend="pencil">you</hi></l>
                         <l n="28">  <hi rend="pencil">casting bright on the wall wall the mermaids mirror</hi><note n="n135"> In her note to "The Mind, Intractable Thing," MM refers to "The Ballad of the Mermaid of Zennor" by Vernon Watkins.</note></l>
-                        <l n="29">	<del>like</del> the fox grape-festoon by the roadside</l>
-                        <l n="30">  		no <del>or Merano Vendage</del></l>
-                        <l n="31">		<del>half revealing</del> in <del>its plenty</del>  	  </l>
-                        <l n="32">  as sere leaves fall <del>by</del> on the <del>pale</del> road</l>
-                        <l n="33">  <hi rend="pencil">flecked by long</hi></l>
-                        <l n="34"><del><hi rend="pencil">flecked</hi>where</del> sun <del>crosses the</del> shadows </l>
-                        <l n="35">  <hi rend="pencil">kind of  close</hi></l>
-                        <l n="36">	  like the road-runner (cuckoo) w  spangles of black		</l>
+                        <l n="29">	            <del>like</del> the fox grape-festoon by the roadside</l>
+                        <l n="30">            no <del>or Merano Vendage</del></l>
+                        <l n="31">		          <del>half revealing</del> in <del>its plenty</del>  	  </l>
+                        <l n="32">      as sere leaves fall <del>by</del> on the <del>pale</del> road</l>
+                        <l n="33">  <hi rend="pencil">                                  flecked by long</hi></l>
+                        <l n="34"><del><hi rend="pencil">flecked</hi>where</del> sun <del>crosses the</del> shadows                                           </l>
+                        <l n="35">  <hi rend="pencil">                                 kind of  close</hi></l>
+                        <l n="36">      like the road-runner (cuckoo) w  spangles of black		</l>
                         <l n="37">  (close) 	<del>or half</del> all over the body—disguise it<seg type="draft-end"/></l>
                         <desc>MM underlines "Stay" in pencil, line 21</desc>
                     </lg>
