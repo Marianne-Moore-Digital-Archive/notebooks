@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notebook 07.11.02</title>
+            <author>Marianne Moore</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Marianne Moore Digital Archive (moorearchive.org)</publisher>
+            <availability>
+               <p>Intended for Marianne Moore and the Archives Conference Workshop Use
+               Only</p>
+            </availability>
+            <idno>07.11.02</idno>
+            <date>1942 – c.1960s</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository> Marianne Moore Collection, Rosenbach Museum and Library,
+                     Philadelphia, PA
+                     (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
+                  <idno>VII.11.02</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="image" xml:id="nb07_11_02_0001_text">
+            <div type="page" n="v.0001" xml:id="nb07_11_02_0001_verso_text">
+               <pb
+                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_11_02_0001-verso.jpg"
+                  n="0001-verso"/>
+               <desc>[Page-level Description]</desc>
+               <lg>
+                  <l n="01">[blank]</l>
+                  <l n="02">[blank]</l>
+                  <l n="03">[blank]</l>
+                  <l n="04">[blank]</l>
+                  <l n="05">[blank]</l>
+                  <l n="06">[blank]</l>
+                  <l n="07">[blank]</l>
+                  <l n="08">[blank]</l>
+                  <l n="09">[blank]</l>
+                  <l n="10">[blank]</l>
+                  <l n="11">[blank]</l>
+                  <l n="12">[blank]</l>
+                  <l n="13">[blank]</l>
+                  <l n="14">[blank]</l>
+                  <l n="15">[blank]</l>
+                  <l n="16">[blank]</l>
+                  <l n="17">[blank]</l>
+                  <l n="18">[blank]</l>
+                  <l n="19">[blank]</l>
+                  <l n="20">[blank]</l>
+                  <l n="21">[blank]</l>
+                  <l n="22">[blank]</l>
+                  <l n="23">[blank]</l>
+                  <l n="24">[blank]</l>
+                  <l n="25">[blank]</l>
+                  <l n="26">[blank]</l>
+                  <l n="27">[blank]</l>
+                  <l n="28">[blank]</l>
+                  <l n="29">[blank]</l>
+                  <l n="30">[blank]</l>
+                  <l n="31">[blank]</l>
+                  <l n="32">[blank]</l>
+                  <l n="33">[blank]</l>
+                  <l n="34">[blank]</l>
+                  <l n="35">[blank]</l>
+                  <l n="36">[blank]</l>
+                  <l n="37">[blank]</l>
+                  <l n="38">[blank]</l>
+                  <l n="39">[blank]</l>
+                  <l n="40">[blank]</l>
+               </lg>
+               <lg type="vertical">
+                  <l n="v01">[vertical line]</l>
+                  <l n="v02">[vertical line]</l>
+                  <l n="v03">[vertical line]</l>
+                  <l n="v04">[vertical line]</l>
+                  <l n="v05">[vertical line]</l>
+                  <l n="v06">[vertical line]</l>
+               </lg>
+            </div>
+         </div>
+         <div type="image" xml:id="nb07_11_02_0002_text">
+            <div type="page" n="v.0002" xml:id="nb07_11_02_0002_verso_text">
+               <pb
+                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_11_02_0002-verso.jpg"
+                  n="0002-verso"/>
+               <desc>[Page-level Description]</desc>
+               <lg>
+                  <l n="01">[blank]</l>
+                  <l n="02">[blank]</l>
+                  <l n="03">[blank]</l>
+                  <l n="04">[blank]</l>
+                  <l n="05">[blank]</l>
+                  <l n="06">[blank]</l>
+                  <l n="07">[blank]</l>
+                  <l n="08">[blank]</l>
+                  <l n="09">[blank]</l>
+                  <l n="10">[blank]</l>
+                  <l n="11">[blank]</l>
+                  <l n="12">[blank]</l>
+                  <l n="13">[blank]</l>
+                  <l n="14">[blank]</l>
+                  <l n="15">[blank]</l>
+                  <l n="16">[blank]</l>
+                  <l n="17">[blank]</l>
+                  <l n="18">[blank]</l>
+                  <l n="19">[blank]</l>
+                  <l n="20">[blank]</l>
+                  <l n="21">[blank]</l>
+                  <l n="22">[blank]</l>
+                  <l n="23">[blank]</l>
+                  <l n="24">[blank]</l>
+                  <l n="25">[blank]</l>
+                  <l n="26">[blank]</l>
+                  <l n="27">[blank]</l>
+                  <l n="28">[blank]</l>
+                  <l n="29">[blank]</l>
+                  <l n="30">[blank]</l>
+                  <l n="31">[blank]</l>
+                  <l n="32">[blank]</l>
+                  <l n="33">[blank]</l>
+                  <l n="34">[blank]</l>
+                  <l n="35">[blank]</l>
+                  <l n="36">[blank]</l>
+                  <l n="37">[blank]</l>
+                  <l n="38">[blank]</l>
+                  <l n="39">[blank]</l>
+                  <l n="40">[blank]</l>
+               </lg>
+               <lg type="vertical">
+                  <l n="v01">[vertical line]</l>
+                  <l n="v02">[vertical line]</l>
+                  <l n="v03">[vertical line]</l>
+                  <l n="v04">[vertical line]</l>
+                  <l n="v05">[vertical line]</l>
+                  <l n="v06">[vertical line]</l>
+               </lg>
+            </div>
+         </div>
+         <div type="image" xml:id="nb07_11_02_0003_text">
+            <div type="page" n="v.0003" xml:id="nb07_11_02_0003_verso_text">
+               <pb
+                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_11_02_0003-verso.jpg"
+                  n="0003-verso"/>
+               <desc>[Page-level Description]</desc>
+               <lg>
+                  <l n="01">[blank]</l>
+                  <l n="02">[blank]</l>
+                  <l n="03">[blank]</l>
+                  <l n="04">[blank]</l>
+                  <l n="05">[blank]</l>
+                  <l n="06">[blank]</l>
+                  <l n="07">[blank]</l>
+                  <l n="08">[blank]</l>
+                  <l n="09">[blank]</l>
+                  <l n="10">[blank]</l>
+                  <l n="11">[blank]</l>
+                  <l n="12">[blank]</l>
+                  <l n="13">[blank]</l>
+                  <l n="14">[blank]</l>
+                  <l n="15">[blank]</l>
+                  <l n="16">[blank]</l>
+                  <l n="17">[blank]</l>
+                  <l n="18">[blank]</l>
+                  <l n="19">[blank]</l>
+                  <l n="20">[blank]</l>
+                  <l n="21">[blank]</l>
+                  <l n="22">[blank]</l>
+                  <l n="23">[blank]</l>
+                  <l n="24">[blank]</l>
+                  <l n="25">[blank]</l>
+                  <l n="26">[blank]</l>
+                  <l n="27">[blank]</l>
+                  <l n="28">[blank]</l>
+                  <l n="29">[blank]</l>
+                  <l n="30">[blank]</l>
+                  <l n="31">[blank]</l>
+                  <l n="32">[blank]</l>
+                  <l n="33">[blank]</l>
+                  <l n="34">[blank]</l>
+                  <l n="35">[blank]</l>
+                  <l n="36">[blank]</l>
+                  <l n="37">[blank]</l>
+                  <l n="38">[blank]</l>
+                  <l n="39">[blank]</l>
+                  <l n="40">[blank]</l>
+               </lg>
+               <lg type="vertical">
+                  <l n="v01">[vertical line]</l>
+                  <l n="v02">[vertical line]</l>
+                  <l n="v03">[vertical line]</l>
+                  <l n="v04">[vertical line]</l>
+                  <l n="v05">[vertical line]</l>
+                  <l n="v06">[vertical line]</l>
+               </lg>
+            </div>
+         </div>
+         <div type="image" xml:id="nb07_11_02_0004_text">
+            <div type="page" n="r.0004" xml:id="nb07_11_02_0004_recto_text">
+               <pb
+                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_11_02_0004-recto.jpg"
+                  n="0004-recto"/>
+               <desc>[Page-level Description]</desc>
+               <lg>
+                  <l n="01">[blank]</l>
+                  <l n="02">[blank]</l>
+                  <l n="03">[blank]</l>
+                  <l n="04">[blank]</l>
+                  <l n="05">[blank]</l>
+                  <l n="06">[blank]</l>
+                  <l n="07">[blank]</l>
+                  <l n="08">[blank]</l>
+                  <l n="09">[blank]</l>
+                  <l n="10">[blank]</l>
+                  <l n="11">[blank]</l>
+                  <l n="12">[blank]</l>
+                  <l n="13">[blank]</l>
+                  <l n="14">[blank]</l>
+                  <l n="15">[blank]</l>
+                  <l n="16">[blank]</l>
+                  <l n="17">[blank]</l>
+                  <l n="18">[blank]</l>
+                  <l n="19">[blank]</l>
+                  <l n="20">[blank]</l>
+                  <l n="21">[blank]</l>
+                  <l n="22">[blank]</l>
+                  <l n="23">[blank]</l>
+                  <l n="24">[blank]</l>
+                  <l n="25">[blank]</l>
+                  <l n="26">[blank]</l>
+                  <l n="27">[blank]</l>
+                  <l n="28">[blank]</l>
+                  <l n="29">[blank]</l>
+                  <l n="30">[blank]</l>
+                  <l n="31">[blank]</l>
+                  <l n="32">[blank]</l>
+                  <l n="33">[blank]</l>
+                  <l n="34">[blank]</l>
+                  <l n="35">[blank]</l>
+                  <l n="36">[blank]</l>
+                  <l n="37">[blank]</l>
+                  <l n="38">[blank]</l>
+                  <l n="39">[blank]</l>
+                  <l n="40">[blank]</l>
+               </lg>
+               <lg type="vertical">
+                  <l n="v01">[vertical line]</l>
+                  <l n="v02">[vertical line]</l>
+                  <l n="v03">[vertical line]</l>
+                  <l n="v04">[vertical line]</l>
+                  <l n="v05">[vertical line]</l>
+                  <l n="v06">[vertical line]</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
