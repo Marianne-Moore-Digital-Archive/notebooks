@@ -2744,7 +2744,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                 <div type="page" n="v.0074" xml:id="nb_07_04_05_0074_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0074-verso.jpg" n="0074-verso"/>
                     <lg>
-                        <l n="01">  <seg type="draft-begin"/>Such lofty language<note n="n146"> MM drafts toward "Mercifully."</note></l>
+                        <l n="01">         Such lofty language<note n="n146"> MM drafts toward "Mercifully."</note></l>
                         <l n="02">  					</l>
                         <l n="03">  </l>
                         <l n="04">  I am hard to disgust</l>
@@ -2756,34 +2756,34 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                 <div type="page" n="r.0075" xml:id="nb_07_04_05_0075_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0075-recto.jpg" n="0075-recto"/>
                     <lg>
-                        <l n="01">  <seg type="draft-begin"/>	The Camperdown Elm<note n="n147"> MM drafts toward "The Camperdown Elm," first published <hi rend="italic">The New Yorker</hi>  43 (23 September 1967): 48.</note></l>
-                        <l n="02">  <hi rend="blue">Thomas	Bryant &amp; Asher Durand</hi>	</l>
-                        <l n="03">  				should be here</l>
-                        <l n="04">  	Timothy Cole<del>if you only were</del> here<note n="n148"> Cole, Thomas [1801-1848] and Asher Brown Durand [1796-1886], American painters of the Hudson Valley School, and William Cullen Bryant [1794-1878], American poet. Durand portrays Cole and Bryant in his "Kindred Spirits."MM initially wrote "Timothy" here, then corrected it above. "Timothy" appeared in the first published text of the poem and in the 1967 <hi rend="italic">Complete Poems</hi>. It was corrected in the 1981 edition.  </note>					</l>
-                        <l n="05">  <hi rend="blue"><unclear resp="eg">chos</unclear></hi>	to xplain the whole thing</l>
-                        <l n="06">  It's not unlike <del>Kindred Spirits</del> Asher Durands</l>
-                        <l n="07">  			<del>boughs</del> upward <del>boughs</del></l>
-                        <l n="08">  Kindred Spirits	<del>upward boughs that</del> climb</l>
-                        <l n="09">  <hi rend="blue"> not weeping</hi>  <del>boughs not as weepy</del></l>
-                        <l n="10">  			<del>not not a</del> weepy</l>
-                        <l n="11">  	<del>also</del> upward boughs <del>up</del>	</l>
-                        <l n="12">  				up &amp; down</l>
-                        <l n="13">  		  but not weeping</l>
-                        <l n="14">  <hi rend="pencil">"I declare Mr. Lancaster the money</hi></l>
-                        <l n="15">  		<hi rend="pencil">is there</hi>   <hi rend="blue">the crowning</hi></l>
-                        <l n="16">  				  <hi rend="blue">Curio</hi></l>
-                        <l n="17">  					  <hi rend="blue">is this</hi><seg type="draft-end"/></l>
-                        <l n="18">  	 	<hi rend="blue"><bibl type="begin"/>Wilderness Kingdom</hi></l>
-                        <l n="19"><hi rend="blue">  			Journals &amp; paintings of</hi></l>
-                        <l n="20"><hi rend="blue">  		of Father Nicholas Point</hi></l>
-                        <l n="21"><hi rend="blue">  		Holt, Rinehart &amp; Winston</hi></l>
-                        <l n="22"><hi rend="blue">  						  S. J.</hi></l>
-                        <l n="23"><hi rend="blue">  Trans. &amp; introduced by Joseph P. Donnelly</hi></l>
-                        <l n="24"><hi rend="blue">  w an appreciation by John C. Ewers<bibl type="end"/><note n="n149"> Point, Father Nicolas.<hi rend="italic">Wilderness Kingdom: Indian Life in the Rocky Mountains 1840-1847: The Journals &amp; Paintings of Nicolas Point</hi>. Trans. Joseph P. Donnelly, S.J. New York: Holt, Rinehart and Winston, 1967.</note></hi></l>
+                        <l n="01">  <seg type="draft-begin">                                 </seg>	The Camperdown Elm<note n="n147"> MM drafts toward "The Camperdown Elm," first published <hi rend="italic">The New Yorker</hi>  43 (23 September 1967): 48.</note></l>
+                        <l n="02">  <hi rend="blue">Thomas                                          Bryant &amp; Asher Durand</hi>	</l>
+                        <l n="03">                                                  should be here</l>
+                        <l n="04">    Timothy Cole<del>if you only were</del> here<note n="n148"> Cole, Thomas [1801-1848] and Asher Brown Durand [1796-1886], American painters of the Hudson Valley School, and William Cullen Bryant [1794-1878], American poet. Durand portrays Cole and Bryant in his "Kindred Spirits."MM initially wrote "Timothy" here, then corrected it above. "Timothy" appeared in the first published text of the poem and in the 1967 <hi rend="italic">Complete Poems</hi>. It was corrected in the 1981 edition.  </note>					</l>
+                        <l n="05">  <hi rend="blue"><unclear resp="eg">  chos</unclear></hi>	to xplain the whole thing</l>
+                        <l n="06">   It's not unlike <del>Kindred Spirits</del> Asher Durands</l>
+                        <l n="07">  			                                     <del>boughs</del> upward <del>boughs</del></l>
+                        <l n="08">      Kindred Spirits	<del>upward boughs that</del> climb</l>
+                        <l n="09">  <hi rend="blue">            not weeping</hi>  <del>boughs not as weepy</del></l>
+                        <l n="10">  			                                <del>not not a</del> weepy</l>
+                        <l n="11">  	            <del>also</del> upward boughs <del>up</del></l>
+                        <l n="12">                                                 up &amp; down</l>
+                        <l n="13">                      but not weeping</l>
+                        <l n="14">  <hi rend="pencil">  "I declare Mr. Lancaster the money</hi></l>
+                        <l n="15">  		<hi rend="pencil">                        is there</hi>      <hi rend="blue">the crowning</hi></l>
+                        <l n="16">  				  <hi rend="blue">                                                             Curio</hi></l>
+                        <l n="17">  					  <hi rend="blue">                                                             is this</hi><seg type="draft-end"/></l>
+                        <l n="18">  	 	<hi rend="blue">      Wilderness Kingdom</hi></l>
+                        <l n="19"><hi rend="blue">            Journals &amp; paintings of</hi></l>
+                        <l n="20"><hi rend="blue">   of Father Nicholas Point</hi></l>
+                        <l n="21"><hi rend="blue">      Holt, Rinehart &amp; Winston</hi></l>
+                        <l n="22"><hi rend="blue">                                                         S. J.</hi></l>
+                        <l n="23"><hi rend="blue">   Trans. &amp; introduced by Joseph P. Donnelly</hi></l>
+                        <l n="24"><hi rend="blue">  w an appreciation by John C. Ewers<bibl type="end"/><note n="n149"> Point, Father Nicolas.<hi rend="italic">Wilderness Kingdom: Indian Life in the Rocky Mountains 1840-1847: The Journals &amp; Paintings of Nicolas Point</hi>. Trans. Joseph P. Donnelly, S.J. New York: Holt, Rinehart and Winston, 1967.</note></hi></l>
                         <l n="25"><hi rend="blue">  </hi></l>
-                        <l n="26"><hi rend="blue">	244 <seg type="genre-read-begin"/>An eagle returning to its nest	</hi></l>
-                        <l n="27"><hi rend="blue">  in the tree under wh little Josette,</hi></l>
-                        <l n="28"><hi rend="blue">  	daughter of the pilot, was born</hi><seg type="genre-read-end"/></l>
+                        <l n="26"><hi rend="blue">	244   <seg type="genre-read-begin"/>An eagle returning to its nest	</hi></l>
+                        <l n="27"><hi rend="blue">  <add>in</add> the tree under wh little Josette,</hi></l>
+                        <l n="28"><hi rend="blue">   daughter of the pilot, was born</hi><seg type="genre-read-end"/></l>
                         <desc>Line 04, MM makes unidentifiable mark at the beginning of the
                             line</desc>
                     </lg>
@@ -2797,37 +2797,37 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="02"/>
                         <l n="03"><hi rend="blue">  I am hard to disgust					</hi></l>
                         <l n="04"><hi rend="blue">  </hi></l>
-                        <l n="05"><hi rend="blue">  <del>but</del> thee who bother <del>this</del> a benefactor can do</hi></l>
-                        <l n="06"><hi rend="blue">  							can do it, <del>however</del></hi></l>
+                        <l n="05"><hi rend="blue">  <del>but</del> thee who bother <del>this</del>  <add>a</add> benefactor can do</hi></l>
+                        <l n="06"><hi rend="blue">                                           can do it, <del>however</del></hi></l>
                         <l n="07"><hi rend="blue">  	and those who can't keep a secret</hi></l>
                         <l n="08"><hi rend="blue">  </hi></l>
-                        <l n="09"><hi rend="blue">  <del>and those who want a picture regardless</del></hi></l>
-                        <l n="10"><hi rend="blue">  	those who think you look well altho</hi></l>
-                        <l n="11"><hi rend="blue">  			alltho lethally mortally ill</hi></l>
-                        <l n="12"><hi rend="blue">  I am, Hard to disgust		ill</hi></l>
-                        <l n="13"><hi rend="blue">  	  do</hi></l>
+                        <l n="09"><hi rend="blue">  <del>and those who want a picture regardless</del></hi></l>
+                        <l n="10"><hi rend="blue">  those who think you look well altho</hi></l>
+                        <l n="11"><hi rend="blue">                                alltho lethally <add>mortally ill</add></hi></l>
+                        <l n="12"><hi rend="blue">  I am, Hard to disgust                      ill</hi></l>
+                        <l n="13"><hi rend="blue">                                          do</hi></l>
                         <l n="14"><hi rend="blue">  	A pretentious poet can <del>go</del> it			 	</hi></l>
-                        <l n="15"><hi rend="blue">  Is Even a t<del>iny</del></hi><hi rend="pencil">ittel</hi><hi rend="blue"> bit of greed</hi></l>
+                        <l n="15"><hi rend="blue">  Is Even a t<del>iny</del></hi><hi rend="pencil"><add>ittel</add></hi><hi rend="blue"> bit of greed</hi></l>
                         <l n="16">  	 				 	</l>
-                        <l n="17"><hi rend="blue">  Can make one very ill indeed</hi></l>
+                        <l n="17"><hi rend="blue">  Can make one very ill indeed</hi></l>
                         <l n="18"><hi rend="blue">  </hi></l>
-                        <l n="19"><hi rend="blue">  Scent of evergreen</hi></l>
-                        <l n="20"><hi rend="blue">  			<hi rend="underline">Strengthened physically</hi> by</hi></l>
-                        <l n="21"><hi rend="blue">  		  	salt air</hi></l>
-                        <l n="22"><hi rend="blue">  &amp; controversy</hi></l>
-                        <l n="23">  	<hi rend="red">but I <unclear resp="eg">love controversy</unclear></hi>		<hi rend="blue">outlawed by <unclear resp="eg">me</unclear></hi></l>
-                        <l n="24"><hi rend="blue">  Hard<unclear resp="eg">way</unclear> 337  war to the knife on</hi></l>
-                        <l n="25"><hi rend="blue">		pretension &amp; snobbery</hi></l>
+                        <l n="19"><hi rend="blue">  <add>Scent of</add> </hi></l>
+                        <l n="20"><hi rend="blue">       evergreen  <hi rend="underline">Strengthened physically by</hi></hi></l>
+                        <l n="21"><hi rend="blue">                                                        salt air</hi></l>
+                        <l n="22"><hi rend="blue">                     &amp; controversy</hi></l>
+                        <l n="23">  	<hi rend="red">                        but I <unclear resp="eg">love controversy</unclear></hi>   <hi rend="blue">outlawed by <unclear resp="eg">me</unclear></hi></l>
+                        <l n="24"><hi rend="blue">  Hard<unclear resp="eg">way</unclear> 337   war to the knife on</hi></l>
+                        <l n="25"><hi rend="blue">        pretension &amp; snobbery</hi></l>
                         <l n="26"><hi rend="blue">			</hi></l>
-                        <l n="27"><hi rend="blue">  		  mood</hi></l>
-                        <l n="28"><hi rend="blue">		my mood mood is</hi></l>
-                        <l n="29"><hi rend="blue"> 	If <del>I find myself</del>melancholy</hi></l>
-                        <l n="30"><hi rend="blue">  		Of course I deplore it	</hi></l>
-                        <l n="31"><hi rend="blue">	But Michel Eyquem de Montaigne<note n="n151"> De Montaigne, Michel Eyquem (1533-1592), French philosopher and essayist, whom MM quotes or mentions in several essays.</note></hi></l>
+                        <l n="27"><hi rend="blue">                 mood</hi></l>
+                        <l n="28"><hi rend="blue">          my mood mood is</hi></l>
+                        <l n="29"><hi rend="blue">    If <del>I find myself</del>melancholy</hi></l>
+                        <l n="30"><hi rend="blue">         Of course I deplore it	</hi></l>
+                        <l n="31"><hi rend="blue">     But Michel Eyquem de Montaigne<note n="n151"> De Montaigne, Michel Eyquem (1533-1592), French philosopher and essayist, whom MM quotes or mentions in several essays.</note></hi></l>
                         <l n="32"><hi rend="blue">  </hi></l>
-                        <l n="33"><hi rend="blue">  does a grt deal to 	restore it</hi></l>
-                        <l n="34"><hi rend="blue">	  who won &amp; kept the ear of the world largely		</hi></l>
-                        <l n="35"><hi rend="blue">  of 	by never having planned to gain it</hi></l>
+                        <l n="33"><hi rend="blue">     does a grt deal to 	restore it</hi></l>
+                        <l n="34"><hi rend="blue">          who won &amp; kept the ear of the world largely		</hi></l>
+                        <l n="35"><hi rend="blue">   of    by never having planned to gain it</hi></l>
                         <l n="36"><hi rend="blue">  Language to Logic Goodness &amp; Reason Professor</hi></l>
                         <l n="37"><hi rend="blue">	Ayer said</hi><seg type="draft-end"/><note n="n999"> Lewis, H.D. "Letter to the Editor: Counter-Claims."<hi rend="italic">  BBC Listener </hi>78:2009 (28 September 1967): 397.Lewis  refers to Sir AJ Ayer's (1910-1989) book <hi rend="italic">Language, Truth and Logic</hi>  (1946) and Brand Blanshard's (1892-1987) Gifford Lecture on <hi rend="italic">Reason and Goodness</hi>  (1951). </note></l>
                     </lg>
