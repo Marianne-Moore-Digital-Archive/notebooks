@@ -3204,9 +3204,9 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                 <div type="page" n="v.0088" xml:id="nb_07_04_05_0088_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0088-verso.jpg" n="0088-verso"/>
                     <lg>
-                        <l n="01">  <seg type="genre-read-begin"/><hi rend="underline">R Southey</hi><note n="n167"> Southey, Robert [1774-1843]. English poet, associated with Romanticism. Moore pastes in a section of a newspaper article on his work that she apparently clipped in 1916 and retained. It is comprised of two of Southey's poems, "The Locust" and "The Sea Anemone," with annotations, presumably hers. We reproduce here only her notes and the lines she annotates.</note>	<bibl type="begin"/>NY. Times	May 7) 1916</l>
+                        <l n="01">  <seg type="genre-read-begin"/><hi rend="underline">R Southey</hi><note n="n167"> Southey, Robert [1774-1843]. English poet, associated with Romanticism. Moore pastes in a section of a newspaper article on his work that she apparently clipped in 1916 and retained, containing two of Southey's poems. The annotations are hers.  </note>	<bibl type="begin"/>                                           NY. Times	May 7) 1916<note><desc>MM cancels "nearer as she gazed" in the penultimate line and "tremblingly" in the final line of "The Locust"; she draws parentheses around "Sea"  in the title of "The Sea Anemone" and numbers words in its first line to change their order; she underlines the penultimate and cancels the final line of this poem.</desc></note></l>
                         <l n="02">  								</l>
-                        <l n="03">  					May 7, 1916<bibl type="end"/><note n="n168"> Artz, V. T."Letters from Book Review Readers." <hi rend="italic">New York Times</hi>  (7 May 1916): B197. Letter to the editor defending the continued value of Southey's poetry in 1916, and the view that he is still appreciated by some discriminating readers.</note></l>
+                        <l n="03">                                                          May 7, 1916<bibl type="end"/><note n="n168"> Artz, V. T."Letters from Book Review Readers." <hi rend="italic">New York Times</hi>  (7 May 1916): B197. Letter to the editor defending the continued value of Southey's poetry in 1916, and the view that he is still appreciated by some discriminating readers.</note></l>
                         <l n="04"> </l>
                         <l n="05">  </l>
                         <l n="06">  </l>
@@ -3219,25 +3219,23 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="13">  </l>
                         <l n="14">  </l>
                         <l n="15">  </l>
-                        <l n="16">  [PRINTED: That <del>nearer as she gazed</del>  ]</l>
-                        <l n="17">  [PRINTED: Bent <del>tremblingly</del> before her breath.]</l>
+                        <l n="16"/>
+                        <l n="17"/>
                         <l n="18">  </l>
-                        <l n="19">  [PRINTED: THE (SEA) ANEMONE.]</l>
-                        <l n="20">  						3	2	  1</l>
-                        <l n="21">  [PRINTED: Meanwhile with fuller reach (and stronger) (swell,)]</l>
+                        <l n="19"/>
+                        <l n="20">                        3   2     1</l>
+                        <l n="21"/>
                         <l n="22"/>
                         <l n="23"/>
                         <l n="24"/>
                         <l n="25"/>
                         <l n="26"> </l>
-                        <l n="27">  [PRINTED: 		<hi rend="underline">Awakening, blossoms out</hi>]</l>
-                        <l n="28">  [PRINTED:  		<del>All its green anther necks.</del>]  <seg type="genre-read-end"/> 	</l>
+                        <l n="27"/>
+                        <l n="28"> <seg type="genre-read-end"/> 	</l>
                         <l n="17">  </l>
-                        <desc>Two printed poems by Robert Southey. MM cancels words in the last two
-                            lines of "The Locust" and underlines the penultimate line of "The Sea
+                        <desc>Two printed poems by Robert Southey. MM cancels "nearer as she gazed" in the penultimate line and "tremblingly" in the final line of "The Locust" and underlines the penultimate line of "The Sea
                             Anemone" and cancels the final line. She puts "Sea" in parentheses, in
-                            the title of this poem</desc>
-                    </lg>
+                            the title of this poem, and numbers the final words of its first line 3, 2, 1, apparently to change their order.</desc></lg>
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0089_text">
