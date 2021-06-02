@@ -3906,33 +3906,33 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                 <div type="page" n="r.0111" xml:id="nb_07_04_05_0111_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0111-recto.jpg" n="0111-recto"/>
                     <lg>
-                        <l n="01">  <seg type="genre-travel-begin"/><hi rend="blue">  Only 3 conjugations		infinitive</hi></l>
-                        <l n="02"><hi rend="blue">  1st	2nd	3rd  according to ending of t<note n="n192"> Possibly shorthand for "the" (as in "the ending of the infinitive").</note></hi></l>
-                        <l n="03"><hi rend="blue">  a few irregular verb only a <hi rend="underline">few</hi> changes</hi></l>
-                        <l n="04"><hi rend="blue">  		mostly following the rule</hi></l>
-                        <l n="05"><hi rend="blue">  (fear)</hi></l>
-                        <l n="06"><hi rend="blue">  <foreign xml:lang="it">parlare		temere  	  sentire</foreign>  to hear</hi></l>
-                        <l n="07"><hi rend="blue">  	<foreign xml:lang="it">amare	 	io temo</foreign>  I fear	<foreign xml:lang="it">dire</foreign>  to say</hi></l>
-                        <l n="08"><hi rend="blue">  <foreign xml:lang="it">donar  			  	morire</foreign></hi></l>
-                        <l n="09"><hi rend="blue">  <foreign xml:lang="it">contare	  	tu temi		  	perire</foreign></hi></l>
-                        <l n="10"><hi rend="blue">  <foreign xml:lang="it">Io parlo	<del>a</del>egli teme		dormire</foreign></hi></l>
-                        <l n="11"><hi rend="blue">  	  <foreign xml:lang="it">parli  	(ell<unclear resp="eg">a</unclear></foreign>)</hi></l>
-                        <l n="12"><hi rend="blue">  		  	<foreign xml:lang="it">elle teme		io sento</foreign> I hear</hi></l>
-                        <l n="13"><hi rend="blue">  	<foreign xml:lang="it">egli parla  noi temiamo		tu senti</foreign></hi></l>
-                        <l n="14"><hi rend="blue">  	<foreign xml:lang="it">elle parla	voi temete</foreign>		very confidential</hi></l>
-                        <l n="15"><hi rend="blue">  						in the prayer</hi></l>
-                        <l n="16"><hi rend="blue">  	<foreign xml:lang="it">noi parliamo  essi temiamo</foreign>		talking w God 	</hi></l>
-                        <l n="17"><hi rend="blue">  <foreign xml:lang="it">voi parlate				egli sente</foreign></hi></l>
-                        <l n="18"><hi rend="blue">  	<foreign xml:lang="it">essi parlamo</foreign></hi></l>
-                        <l n="19"><hi rend="blue">							<foreign xml:lang="it">elle sente</foreign></hi></l>
-                        <l n="20"><hi rend="blue">  		<foreign xml:lang="it">grazie				noi sentiamo</foreign></hi></l>
-                        <l n="21"><hi rend="blue">  you fear? what				<foreign xml:lang="it">voi sentite</foreign></hi></l>
-                        <l n="22"><hi rend="blue">  <foreign xml:lang="it">io temo che</foreign> (kay)			<foreign xml:lang="it">essi sentono</foreign></hi></l>
-                        <l n="23"><hi rend="blue">  		<foreign xml:lang="it">domani				voi instead of tu</foreign></hi></l>
-                        <l n="24"><hi rend="blue">  <foreign xml:lang="it"><del>e</del>Egli temi</foreign>	  archer</hi></l>
-                        <l n="25"><hi rend="blue">  	<foreign xml:lang="it">io sento <del>sint</del>		  Lei</foreign></hi></l>
+                        <l n="01">  <seg type="genre-travel-begin"/><hi rend="blue">      Only 3 conjugations                               infinitive</hi></l>
+                        <l n="02"><hi rend="blue">      1st	2nd	3rd  according to ending of t<note n="n192"> Possibly shorthand for "the" (as in "the ending of the infinitive").</note></hi></l>
+                        <l n="03"><hi rend="blue">  a few irregular verb only a <hi rend="underline">few</hi> changes</hi></l>
+                        <l n="04"><hi rend="blue">                mostly following the rule</hi></l>
+                        <l n="05"><hi rend="blue">                                 (fear)</hi></l>
+                        <l n="06"><hi rend="blue">  <foreign xml:lang="it">parlare            temere                sentire</foreign> to hear</hi></l>
+                        <l n="07"><hi rend="blue"><foreign xml:lang="it">  amare             io temo</foreign>  I fear   <foreign xml:lang="it">dire</foreign>  to say</hi></l>
+                        <l n="08"><hi rend="blue">  <foreign xml:lang="it">donar                                            morire</foreign></hi></l>
+                        <l n="09"><hi rend="blue"><foreign xml:lang="it">   contare           tu temi              perire</foreign></hi></l>
+                        <l n="10"><hi rend="blue">  <foreign xml:lang="it">Io parlo            <del>a</del>egli teme         dormire</foreign></hi></l>
+                        <l n="11"><hi rend="blue"><foreign xml:lang="it">        parli          (ell<unclear resp="eg">a</unclear></foreign>)</hi></l>
+                        <l n="12"><hi rend="blue"><foreign xml:lang="it">                             elle teme         io sento</foreign> I hear</hi></l>
+                        <l n="13"><hi rend="blue">  	<foreign xml:lang="it">egli parla           noi temiamo   tu senti</foreign></hi></l>
+                        <l n="14"><hi rend="blue">  	<foreign xml:lang="it">elle parla            voi temete</foreign>    very confidential</hi></l>
+                        <l n="15"><hi rend="blue">                                                     in the prayer</hi></l>
+                        <l n="16"><hi rend="blue">  	<foreign xml:lang="it">noi parliamo     essi temiamo</foreign>   talking w God 	</hi></l>
+                        <l n="17"><hi rend="blue"><foreign xml:lang="it">  voi parlate                               egli sente</foreign></hi></l>
+                        <l n="18"><hi rend="blue">  	<foreign xml:lang="it">essi  parlamo</foreign></hi></l>
+                        <l n="19"><hi rend="blue"><foreign xml:lang="it">                                                     elle sente</foreign></hi></l>
+                        <l n="20"><hi rend="blue"><foreign xml:lang="it">             grazie                            noi sentiamo</foreign></hi></l>
+                        <l n="21"><hi rend="blue">  you fear? what                         <foreign xml:lang="it">voi sentite</foreign></hi></l>
+                        <l n="22"><hi rend="blue"><foreign xml:lang="it">   io temo che</foreign> (kay)                  <foreign xml:lang="it">essi sentono</foreign></hi></l>
+                        <l n="23"><hi rend="blue"><foreign xml:lang="it">                  domani                voi instead of tu</foreign></hi></l>
+                        <l n="24"><hi rend="blue"><foreign xml:lang="it">             <del>e</del><add>E</add>gli temi</foreign>                     archer</hi></l>
+                        <l n="25"><hi rend="blue"><foreign xml:lang="it">    io sento <del>sint</del>                         Lei</foreign></hi></l>
                         <l n="26"><hi rend="blue">	Tomorrow  to have &amp; to be 	 	<foreign xml:lang="it">tu sei contento</foreign></hi></l>
-                        <l n="27"><hi rend="blue">  	<foreign xml:lang="it">(¡sentire</foreign> means even fear) <foreign xml:lang="it">lei è contenta</foreign><seg type="genre-travel-end"/></hi></l>
+                        <l n="27"><hi rend="blue"><foreign xml:lang="it">  (¡sentire</foreign> means <add>even</add> fear)    <foreign xml:lang="it">lei è contenta</foreign><seg type="genre-travel-end"/></hi></l>
                         <desc>MM circles "tu" line 13</desc>
                     </lg>
                 </div>
