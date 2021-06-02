@@ -4065,16 +4065,16 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                 <div type="page" n="v.0116" xml:id="nb_07_04_05_0116_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0116-verso.jpg" n="0116-verso"/>
                     <lg>
-                        <l n="01">  <seg type="genre-read-begin"/><hi rend="blue"><bibl type="begin"/>Living Language</hi></l>
-                        <l n="02"><hi rend="blue">  Conversation Manual					</hi></l>
-                        <l n="03"><hi rend="blue">  	Italian</hi></l>
-                        <l n="04"><hi rend="blue">  by  Genevieve A. Martin and</hi></l>
-                        <l n="05"><hi rend="blue">  		Mario Ciatti</hi></l>
-                        <l n="06"><hi rend="blue">  Based on the method devised by</hi></l>
-                        <l n="07"><hi rend="blue">  	Ralph Weimar</hi></l>
-                        <l n="08"><hi rend="blue">  formerly chief of language section</hi></l>
-                        <l n="09"><hi rend="blue">  U S War Department</hi></l>
-                        <l n="10"><hi rend="blue">  	Crown Publishers, Inc NY<bibl type="end"/></hi><note n="n198"> Martin, Genevieve A., and Mario Ciatti.<hi rend="italic">Living Language conversational Italian: a complete course in everyday Italian. </hi>New York: Crown Publishers, 1956.  Included a book and several LPs.</note></l>
+                        <l n="01">  <seg type="genre-read-begin"/><hi rend="blue"><bibl type="begin"/>         Living Language</hi></l>
+                        <l n="02"><hi rend="blue">        Conversation Manual					</hi></l>
+                        <l n="03"><hi rend="blue">                Italian</hi></l>
+                        <l n="04"><hi rend="blue">    by  Genevieve A. Martin and</hi></l>
+                        <l n="05"><hi rend="blue">               Mario Ciatti</hi></l>
+                        <l n="06"><hi rend="blue">    Based on the method devised by</hi></l>
+                        <l n="07"><hi rend="blue">                  Ralph Weimar</hi></l>
+                        <l n="08"><hi rend="blue">    formerly chief of language section</hi></l>
+                        <l n="09"><hi rend="blue">                 U S War Department</hi></l>
+                        <l n="10"><hi rend="blue">             Crown Publishers, Inc NY<bibl type="end"/></hi><note n="n198"> Martin, Genevieve A., and Mario Ciatti.<hi rend="italic">Living Language conversational Italian: a complete course in everyday Italian. </hi>New York: Crown Publishers, 1956.  Included a book and several LPs.</note></l>
                         <l n="11"/>
                         <l n="12"/>
                         <l n="13"/>
@@ -4082,10 +4082,10 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="15"/>
                         <l n="16"/>
                         <l n="17"/>
-                        <l n="18"> <foreign xml:lang="it">scimmia</foreign>	monkey cf simian</l>
-                        <l n="19"> 	<hi rend="underline"><hi rend="underline">shee</hi></hi>-me-ah </l>
-                        <l n="20"> el 	 <del>sciottolo</del>	squirrel</l>
-                        <l n="21">	  <hi rend="blue">scoiattolo</hi><seg type="genre-read-end"/></l>
+                        <l n="18"> <foreign xml:lang="it">     scimmia</foreign>	monkey cf simian</l>
+                        <l n="19"> 	             <hi rend="underline">shee</hi>-me-ah </l>
+                        <l n="20">     el 	 <del>sciottolo</del>	squirrel</l>
+                        <l n="21">	  <hi rend="blue">          scoiattolo</hi><seg type="genre-read-end"/></l>
                         <desc>MM cancels "sciottolo" in blue ink</desc>
                     </lg>
                 </div>
