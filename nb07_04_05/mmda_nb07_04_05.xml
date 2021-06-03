@@ -3204,9 +3204,9 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                 <div type="page" n="v.0088" xml:id="nb_07_04_05_0088_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0088-verso.jpg" n="0088-verso"/>
                     <lg>
-                        <l n="01">  <seg type="genre-read-begin"/><hi rend="underline">R Southey</hi><note n="n167"> Southey, Robert [1774-1843]. English poet, associated with Romanticism. Moore pastes in a section of a newspaper article on his work that she apparently clipped in 1916 and retained, containing two of Southey's poems. The annotations are hers.  </note>	<bibl type="begin"/>                                           NY. Times	May 7) 1916<note><desc>MM cancels "nearer as she gazed" in the penultimate line and "tremblingly" in the final line of "The Locust"; she draws parentheses around "Sea"  in the title of "The Sea Anemone" and numbers words in its first line to change their order; she underlines the penultimate and cancels the final line of this poem.</desc></note></l>
+                        <l n="01">  <seg type="genre-read-begin"/><hi rend="underline">R Southey</hi><note n="n167"> Southey, Robert [1774-1843]. English poet, associated with Romanticism. MM pastes in and annotates a newspaper clipping from 1916, containing two of Southey's poems.  </note>	<bibl type="begin"/>                                           NY. Times	May 7) 1916<note><desc>MM cancels "nearer as she gazed" in the penultimate line and "tremblingly" in the final line of "The Locust"; she draws parentheses around "Sea"  in the title of "The Sea Anemone" and numbers words in its first line to change their order; she underlines the penultimate and cancels the final line of this poem.</desc></note></l>
                         <l n="02">  								</l>
-                        <l n="03">                                                          May 7, 1916<bibl type="end"/><note n="n168"> Artz, V. T."Letters from Book Review Readers." <hi rend="italic">New York Times</hi>  (7 May 1916): B197. Letter to the editor defending the continued value of Southey's poetry in 1916, and the view that he is still appreciated by some discriminating readers.</note></l>
+                        <l n="03">                                                          May 7, 1916<bibl type="end"/><note n="n168"> Artz, V. T. "Letters from Book Review Readers." <hi rend="italic">New York Times</hi>  (7 May 1916): B197. Letter to the editor defending the continued value of Southey's poetry in 1916 and the view that he is still appreciated by some discriminating readers.</note></l>
                         <l n="04"> </l>
                         <l n="05">  </l>
                         <l n="06">  </l>
@@ -3246,7 +3246,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="02"> 	<hi rend="blue">              The Magician's Retreat</hi></l>
                         <l n="03"><hi rend="blue">                                <del>by me a</del>	at first glance	</hi></l>
                         <l n="04"><hi rend="blue">                                               silhouette of trees</hi></l>
-                        <l n="05">  cd not be	<hi rend="blue">mistakes for <del>the Domain of Lights</del><note n="n170"> Magritte,René François Ghislain [1898-1967]. Belgian surrealist painter. Painted a  27-painting series titled <hi rend="italic">L'empire des lumières</hi>, translated into English initially as "Domain of Lights," but now retitled "Empire of Light."  The phrase "silhouette of trees" cites the caption of one of this series reproduced 19 January 1969 in the<hi rend="italic">New York Times</hi>. </note>                                                                                   Magritte's</hi></l>
+                        <l n="05">  cd not be	<hi rend="blue">mistakes for <del>the Domain of Lights</del><note n="n170"> Magritte, René François Ghislain [1898-1967]. Belgian surrealist painter. Painted a  27-painting series titled <hi rend="italic">L'empire des lumières</hi>, translated into English as "Domain of Lights," but now retitled "Empire of Light."  The phrase "silhouette of trees" cites the caption of one of this series reproduced 19 January 1969 in the <hi rend="italic">New York Times</hi>. </note>                                                                                   Magritte's</hi></l>
                         <l n="06">                                               the home of a potentate</l>
                         <l n="07">  	<hi rend="blue">           of <del>by</del> René Magritte</hi></l>
                         <l n="08"><hi rend="blue">                                                   his    house &amp;</hi></l>
@@ -3319,7 +3319,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0091-recto.jpg" n="0091-recto"/>
                     <lg>
                         <l n="01"> 	 <seg type="draft-begin">            </seg> The Magician's Retreat<note n="n173"> MM drafts toward "The Magician's Retreat."</note></l>
-                        <l n="02"> A square <del>of with</del> mansard <del>of roof</del>roof     No		</l>
+                        <l n="02"> A square <del>of with</del> mansard <del>of roof</del><add>roof</add>     No		</l>
                         <l n="03">      and a wrought iron gallery out along the <unclear resp="eg">roof</unclear></l>
                         <l n="04">       of eave La lequeu roof edge           <unclear resp="eg">elephant </unclear></l>
                         <l n="05">           facing out from each angle,               <unclear resp="eg">elephant</unclear></l>
@@ -3354,11 +3354,9 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="32">     commandingly plain with sky enough for  3    <del>quare</del></l>
                         <l n="33">                                                                         crazed <del>new</del> moon  </l>
                         <l n="34">                                                                             trees moons</l>
-                        <l n="35">      {Last line <del>but</del> 	<hi rend="underline">above all; discreet</hi>}<seg type="draft-end"/></l>
+                        <l n="35">      [Last line <del>but</del> 	<hi rend="underline">above all; discreet</hi>]<seg type="draft-end"/></l>
                         <desc>Lines 02-05, MM writes in pen over faint penciled words; she draws
-                            some mark before "born," line 13; MM draws square brackets around line
-                            35</desc>
-                    </lg>
+                            some mark before "born," line 13.</desc></lg>
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0092_text">
@@ -3389,7 +3387,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="22">  			  <hi rend="pencil">                                           at each end</hi></l>
                         <l n="23">  		                        <del>why not</del>           <unclear>sit</unclear></l>
                         <l n="24">                      __________	<hi rend="pencil">gig</hi></l>
-                        <l n="25">		<hi rend="underline">                I've always</hi>  wanted a gig</l>
+                        <l n="25">		                <hi rend="underline">I've always want</hi>ed a gig</l>
                         <l n="26">         and a very</l>
                         <l n="27">    I've always wanted a gig</l>
                         <l n="28">  for <del>one</del> thin person <del>driver</del> or tall</l>
