@@ -2700,7 +2700,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                 <div type="page" n="v.0073" xml:id="nb_07_04_05_0073_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0073-verso.jpg" n="0073-verso"/>
                     <lg>
-                        <l n="01">  <seg type="draft-begin">         </seg><hi rend="blue">I am                                 Would I were</hi><note n="n145"> MM drafts toward "Mercifully," first published<hi rend="italic">The New Yorker</hi>  44 (20 July 1968): 34.</note></l>
+                        <l n="01">  <seg type="draft-begin">         </seg><hi rend="blue">I am                                 Would I were</hi><note n="n145"> MM drafts toward "Mercifully," first published <hi rend="italic">The New Yorker</hi>  44 (20 July 1968): 34.</note></l>
                         <l n="02"><hi rend="blue">                                                          only stone</hi></l>
                         <l n="03"><hi rend="blue">  Hard to Disgust ?                            yes I am			</hi></l>
                         <l n="04"><hi rend="blue">                            am at least</hi></l>
@@ -2725,8 +2725,8 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="23"><hi rend="blue">            wd   bewildered feet</hi></l>
                         <l n="24"><hi rend="blue">          even                                with eyes that star</hi></l>
                         <l n="25"><hi rend="blue">	can <unclear resp="eg"><gap extent="4" resp="eg"/>mount</unclear>                       and worthless feet</hi></l>
-                        <l n="26"><hi rend="blue">  <del>the  in </del> debris of <del>a</del> flood    useless</hi></l>
-                        <l n="27"><hi rend="blue">         as of battle—  <del>no</del>we must</hi></l>
+                        <l n="26"><hi rend="blue">  <del>the  in</del> debris of <del>a</del> flood    useless</hi></l>
+                        <l n="27"><hi rend="blue">         as of battle—  <del>no</del><add>w</add>e must</hi></l>
                         <l n="28"><hi rend="blue">           the</hi></l>
                         <l n="29">       Hard to disgust like a 		nurse in gory</l>
                         <l n="30">                     such lofy hopes <hi rend="pencil">language</hi>  mishap</l>
@@ -2748,7 +2748,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="02">  					</l>
                         <l n="03">  </l>
                         <l n="04">  I am hard to disgust</l>
-                        <l n="05">  A<del>the</del> pretentious poet can do it<seg type="draft-end"/></l>
+                        <l n="05">  A <del>the</del> pretentious poet can do it<seg type="draft-end"/></l>
                     </lg>
                 </div>
             </div>
@@ -2757,9 +2757,9 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0075-recto.jpg" n="0075-recto"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin">                                 </seg>	The Camperdown Elm<note n="n147"> MM drafts toward "The Camperdown Elm," first published <hi rend="italic">The New Yorker</hi>  43 (23 September 1967): 48.</note></l>
-                        <l n="02">  <hi rend="blue">Thomas                                          Bryant &amp; Asher Durand</hi>	</l>
-                        <l n="03">                                                  should be here</l>
-                        <l n="04">    Timothy Cole<del>if you only were</del> here<note n="n148"> Cole, Thomas [1801-1848] and Asher Brown Durand [1796-1886], American painters of the Hudson Valley School, and William Cullen Bryant [1794-1878], American poet. Durand portrays Cole and Bryant in his "Kindred Spirits."MM initially wrote "Timothy" here, then corrected it above. "Timothy" appeared in the first published text of the poem and in the 1967 <hi rend="italic">Complete Poems</hi>. It was corrected in the 1981 edition.  </note>					</l>
+                        <l n="02">  <hi rend="blue">Thomas                                     Bryant &amp; Asher Durand</hi>	</l>
+                        <l n="03">                                                should be here</l>
+                        <l n="04">    Timothy Cole   <del>if you only were</del> here<note n="n148"> Cole, Thomas [1801-1848] and Asher Brown Durand [1796-1886], American painters of the Hudson Valley School, and William Cullen Bryant [1794-1878], American poet. Durand portrays Cole and Bryant in his "Kindred Spirits."MM initially wrote "Timothy" here, then corrected it above. "Timothy" appeared in the first published text of the poem and in the 1967 <hi rend="italic">Complete Poems</hi>. It was corrected in the 1981 edition.  </note>					</l>
                         <l n="05">  <hi rend="blue"><unclear resp="eg">  chos</unclear></hi>	to xplain the whole thing</l>
                         <l n="06">   It's not unlike <del>Kindred Spirits</del> Asher Durands</l>
                         <l n="07">  			                                     <del>boughs</del> upward <del>boughs</del></l>
@@ -2779,7 +2779,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="21"><hi rend="blue">      Holt, Rinehart &amp; Winston</hi></l>
                         <l n="22"><hi rend="blue">                                                         S. J.</hi></l>
                         <l n="23"><hi rend="blue">   Trans. &amp; introduced by Joseph P. Donnelly</hi></l>
-                        <l n="24"><hi rend="blue">  w an appreciation by John C. Ewers<bibl type="end"/><note n="n149"> Point, Father Nicolas.<hi rend="italic">Wilderness Kingdom: Indian Life in the Rocky Mountains 1840-1847: The Journals &amp; Paintings of Nicolas Point</hi>. Trans. Joseph P. Donnelly, S.J. New York: Holt, Rinehart and Winston, 1967.</note></hi></l>
+                        <l n="24"><hi rend="blue">  w an appreciation by John C. Ewers<bibl type="end"/><note n="n149"> Point, Father Nicolas. <hi rend="italic">Wilderness Kingdom: Indian Life in the Rocky Mountains 1840-1847: The Journals &amp; Paintings of Nicolas Point</hi>. Trans. Joseph P. Donnelly, S.J. New York: Holt, Rinehart and Winston, 1967.</note></hi></l>
                         <l n="25"><hi rend="blue">  </hi></l>
                         <l n="26"><hi rend="blue">	244   <seg type="genre-read-begin"/>An eagle returning to its nest	</hi></l>
                         <l n="27"><hi rend="blue">  <add>in</add> the tree under wh little Josette,</hi></l>
@@ -2821,15 +2821,15 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="26"><hi rend="blue">			</hi></l>
                         <l n="27"><hi rend="blue">                 mood</hi></l>
                         <l n="28"><hi rend="blue">          my mood mood is</hi></l>
-                        <l n="29"><hi rend="blue">    If <del>I find myself</del>melancholy</hi></l>
+                        <l n="29"><hi rend="blue">    If <del>I find myself</del> melancholy</hi></l>
                         <l n="30"><hi rend="blue">         Of course I deplore it	</hi></l>
-                        <l n="31"><hi rend="blue">     But Michel Eyquem de Montaigne<note n="n151"> De Montaigne, Michel Eyquem (1533-1592), French philosopher and essayist, whom MM quotes or mentions in several essays.</note></hi></l>
+                        <l n="31"><hi rend="blue">     But Michel Eyquem de Montaigne<note n="n151"> De Montaigne, Michel Eyquem [1533-1592]. French philosopher and essayist, whom MM quotes or mentions in several essays.</note></hi></l>
                         <l n="32"><hi rend="blue">  </hi></l>
                         <l n="33"><hi rend="blue">     does a grt deal to 	restore it</hi></l>
                         <l n="34"><hi rend="blue">          who won &amp; kept the ear of the world largely		</hi></l>
                         <l n="35"><hi rend="blue">   of    by never having planned to gain it</hi></l>
                         <l n="36"><hi rend="blue">  Language to Logic Goodness &amp; Reason Professor</hi></l>
-                        <l n="37"><hi rend="blue">	Ayer said</hi><seg type="draft-end"/><note n="n999"> Lewis, H.D. "Letter to the Editor: Counter-Claims."<hi rend="italic">  BBC Listener </hi>78:2009 (28 September 1967): 397.Lewis  refers to Sir AJ Ayer's (1910-1989) book <hi rend="italic">Language, Truth and Logic</hi>  (1946) and Brand Blanshard's (1892-1987) Gifford Lecture on <hi rend="italic">Reason and Goodness</hi>  (1951). </note></l>
+                        <l n="37"><hi rend="blue">	Ayer said</hi><seg type="draft-end"/><note n="n999"> Lewis, H.D. "Letter to the Editor: Counter-Claims."<hi rend="italic">  BBC Listener </hi>78:2009 (28 September 1967): 397. Lewis  refers to Sir A. J. Ayer's <hi rend="italic">Language, Truth and Logic</hi>  (1946) and Brand Blanshard's Gifford Lecture on <hi rend="italic">Reason and Goodness</hi>  (1951). </note></l>
                     </lg>
                     <lg type="vertical">
                         <l n="v38"><!-- span lines 37-34, left margin --><hi rend="blue"><bibl type="begin"/>28 Sept Listener</hi><bibl type="end"/></l>
@@ -2864,18 +2864,18 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="19">  	 	 <hi rend="green">       in fav<del>or</del><add>or</add> of joy</hi>     I am in favor of joy</l>
                         <l n="20">            favor</l>
                         <l n="21">  </l>
-                        <l n="22">  <seg type="genre-read-begin">  </seg><hi rend="green"> 18 The Pilgrims Progress . . .    their</hi></l>
+                        <l n="22">  <seg type="genre-read-begin">  </seg><hi rend="green"> 18 The Pilgrims Progress . . .      their</hi></l>
                         <l n="23">  	<hi rend="green">name, their garb &amp; their <del>function</del> function</hi></l>
                         <l n="24">  	<hi rend="green">   did intoxicate &amp; bewitch him   </hi>	<hi rend="blue">function</hi></l>
                         <l n="25"> </l>
-                        <l n="26"><hi rend="blue">  <bibl type="begin"/>Listener<bibl type="end"/> <quote type="begin">   </quote>Anthony Kenny claims tha Robt Bolt<note n="n152"> Bolt, Robert [1924-1995]. English playwright, author of<hi rend="italic">A Man for All Seasons</hi>, on Sir Thomas More.  </note></hi></l>
+                        <l n="26"><hi rend="blue">  <bibl type="begin"/>Listener<bibl type="end"/> <quote type="begin">   </quote>Anthony Kenny claims tha Robt Bolt<note n="n152"> Bolt, Robert [1924-1995]. English playwright, author of <hi rend="italic">A Man for All Seasons</hi>, on Sir Thomas More.  </note></hi></l>
                         <l n="27"><hi rend="blue">  		</hi></l>
                         <l n="28"><hi rend="blue">    ha misread the char of <del>Thomas</del> More  	</hi></l>
                         <l n="29"><hi rend="blue">  </hi></l>
                         <l n="30"><hi rend="blue">  Swift not Dr. Johnson who writing of More</hi></l>
                         <l n="31"><hi rend="blue">	  		</hi></l>
                         <l n="32"><hi rend="blue">  a civilsed ironist like himself—called</hi></l>
-                        <l n="33"><hi rend="blue">  <add>him</add> (More) a person "of "of the greatest virtue</hi></l>
+                        <l n="33"><hi rend="blue">  <add>him</add> (More) a person "of" of the greatest virtue</hi></l>
                         <l n="34"><hi rend="blue">  	this kingdom ever produced<quote type="end"/>		  </hi></l>
                         <l n="35"><hi rend="blue"><bibl type="begin">                                       </bibl>Joseph Quinn</hi></l>
                         <l n="36"><hi rend="blue">	Listener Sept 28 1967<bibl type="end"/> </hi><seg type="genre-read-end"/><note n="n153"> Quinn, Joseph. "Letter to the Editor: Sir Thomas More."<hi rend="italic">  BBC Listener </hi>78:2009 (28 September 1967): 397.</note></l>
@@ -2914,7 +2914,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="26"> a  pretentious poet can dot</l>
                         <l n="27">  or a person without a tap root</l>
                         <l n="28">          <del>imperc</del></l>
-                        <l n="29">  4  <del>and</del>impercipience does it</l>
+                        <l n="29">  4  <del>and</del> impercipience does it</l>
                         <l n="30">     I mean 	  </l>
                         <l n="31">       But<seg type="draft-end"/></l>
                         <desc>MM draws circles around the numbers 1, 2, and 3 lines 01, 03, 05; she
@@ -3012,7 +3012,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0081-recto.jpg" n="0081-recto"/>
                     <lg>
                         <l n="01">  <seg type="draft-begin">               </seg>Never mind what I said<note n="n157"> MM drafts toward "Mercifully."</note> </l>
-                        <l n="02">                                                  Said<note n="n158"> MM cut off the top of page 81,then began writing on the top of 83, apparently not noticing that there were two different pages now overlapping. When she reached the point of overlap, she wrote a few words with their upper portions on 83 and the lower on 81. She continued on 81, so that upper 83 and lower 81 are a continuous text. The lower part of 83 was thus blank and available for further use later.</note>			</l>
+                        <l n="02">                                                  Said<note n="n158"> MM cut off the top of page 81, then began writing on the top of 83, apparently not noticing that there were two different pages now overlapping. When she reached the point of overlap, she wrote a few words with their upper portions on 83 and the lower on 81. She continued on 81, so that upper 83 and lower 81 are a continuous text. The lower part of 83 was thus blank and available for further use later.</note>			</l>
                         <l n="03">           You have broken the thread</l>
                         <l n="04">                I was enraptured plain fact comple<unclear resp="eg">x fact</unclear></l>
                         <l n="05">          <del>y</del>   <del>is</del> a life without music    is flat</l>
@@ -3042,14 +3042,14 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="04">  	<hi rend="blue">      which in an uproar of    conversation</hi></l>
                         <l n="05">  	<hi rend="blue">      loses its force</hi></l>
                         <l n="06">  <hi rend="pencil">This and that is <unclear resp="eg">something</unclear> that</hi></l>
-                        <l n="07"><hi rend="pencil">  or the      the that is inadequate</hi></l>
+                        <l n="07"><hi rend="pencil">  or the      the  that is inadequate</hi></l>
                         <l n="08"><hi rend="pencil">  this whole <add>thing</add> notion is valueless</hi></l>
                         <l n="09"><hi rend="pencil">      I prefer    a strange art</hi></l>
                         <l n="10"><hi rend="pencil">  nothing gay at this</hi></l>
                         <l n="11"><hi rend="pencil">  something   functions and  <unclear resp="eg">below</unclear></hi></l>
                         <l n="12"><hi rend="pencil">                        music musc	</hi></l>
                         <l n="13"><hi rend="pencil">  <add>men were</add>               without</hi></l>
-                        <l n="14"><hi rend="pencil">    dying unjustly  Life if that</hi></l>
+                        <l n="14"><hi rend="pencil">    dying unjustly    Life if that</hi></l>
                         <l n="15"><hi rend="pencil">    in any case            without music			 	</hi></l>
                         <l n="16"><hi rend="pencil">                                           is flat</hi><seg type="draft-end"/></l>
                         <desc>Top of page has been cut off, see note image 0081; in line 7 the word
@@ -3075,9 +3075,9 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="12">                A What?</l>
                         <l n="13">              Cumquat 			 	</l>
                         <l n="14">             with as many seeds—</l>
-                        <l n="15">               as <del>there are</del>sections				 	</l>
+                        <l n="15">               as <del>there are</del> sections				 	</l>
                         <l n="16">                     each</l>
-                        <l n="17">             involving as many<hi rend="strikethrough">or</hi></l>
+                        <l n="17">             involving as many <hi rend="strikethrough"><del>or</del></hi></l>
                         <l n="18">                 obligations</l>
                         <desc>Material beginning l. 12 is written separately from the material
                             above; see note to image 0081.</desc>
@@ -3096,7 +3096,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                 <div type="page" n="r.0085" xml:id="nb_07_04_05_0085_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0085-recto.jpg" n="0085-recto"/>
                     <lg>
-                        <l n="01">  		<seg type="draft-begin">                               </seg>  Moon<note n="n162"> MM drafts toward "Reminiscent of a Wave at the Curl," largely in the second half of the page. Elements trickle into drafts of "The Magician's Retreat" (cats's eye and moon). </note></l>
+                        <l n="01">  		<seg type="draft-begin">                               </seg>  Moon<note n="n162"> MM drafts toward "Reminiscent of a Wave at the Curl," largely in the second half of the page; some elements anticipate "The Magician's Retreat."</note></l>
                         <l n="02">                Rock Crystal prism <del>nutria coal coat</del>					</l>
                         <l n="03">                  Nutria coat <del>and a telegram</del></l>
                         <l n="04"> mascots <del>talismans</del> all</l>
@@ -3129,9 +3129,9 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="31">					                           <hi rend="underline">you want to go Siam</hi></l>
                         <l n="32">  <del>a protes</del>(ter call out)</l>
                         <l n="33">  (Someone  They may histoplasmosis there</l>
-                        <l n="34">  <hi rend="underline">Oh rats</hi>                <del>and</del> I want <del>both</del>of you <hi rend="underline">back</hi></l>
+                        <l n="34">  <hi rend="underline">Oh rats</hi>                <del>and</del> I want <del>both</del> of you <hi rend="underline">back</hi></l>
                         <l n="35">                                                           you	both</l>
-                        <l n="36">    histoplasmosis  (the starling disease)<lb/>[37] 		<foreign xml:lang="it">Al onde</foreign>, little cats<seg type="draft-end"/></l>
+                        <l n="36">    histoplasmosis  (the starling disease)<lb/>[37]                      <foreign xml:lang="it">Al onde</foreign>, little cats<seg type="draft-end"/></l>
                     </lg>
                 </div>
             </div>
@@ -3144,7 +3144,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="03">                                                    seablue eyes</l>
                         <l n="04">               with dark ears		and aqua <unclear resp="eg">inarises</unclear></l>
                         <l n="05">           Two tiny cats each the others prey</l>
-                        <l n="06">           infuriated apparently<del>each the</del></l>
+                        <l n="06">           infuriated apparently <del>each the</del></l>
                         <l n="07">               <del>the others prey</del>  tails lashing</l>
                         <l n="08">     no one pair ivory  one <add>pair</add>,  black one pair pale</l>
                         <l n="09">                                                                         large &amp; long</l>
