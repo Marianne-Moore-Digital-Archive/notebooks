@@ -560,7 +560,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="36">                                    <del>mortal</del></l>
                         <l n="37">        this <hi rend="underline">the</hi> <del>and</del> of <del>every</del> refreshers       refreshers</l>
                         <l n="38">                      solace    any</l>
-                        <l n="39"> <del>of the</del>gastronomes                           the one human solace  </l>
+                        <l n="39"> <del>of the</del> gastronomes                           the one human solace  </l>
                         <l n="40">			                                    <del>human nature</del>     one solace<seg type="draft-end"/> <!-- I accepted changes above because I couldn't tell any longer what the screen would look like --></l>
                     </lg>
                     <lg type="vertical">
@@ -629,7 +629,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="08"/>
                         <l n="09"><hi rend="pencil"> Seen by Mr Hutchinsons<note n="n037"> Hutchinson, Fred [1919-1964]. Manager of the Cincinnati Reds, the Yankees' opponent in the 1961 World Series. The Yankees won in 5 games.</note>                                             experienced eye</hi></l>
                         <l n="10"><hi rend="pencil">                                               say</hi></l>
-                        <l n="11"><hi rend="pencil">                    and in solitary ^ solitude by me</hi></l>
+                        <l n="11"><hi rend="pencil">                    and in solitary <add>^</add> solitude by me</hi></l>
                         <l n="12"><hi rend="pencil">                                   detachment</hi></l>
                         <l n="13"/>
                         <l n="14"><hi rend="pencil"> appraised by Mr Hs experienced eye</hi></l>
@@ -661,7 +661,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0021-recto.jpg" n="0021-recto"/>
                     <lg>
                         <l n="01"> <seg type="draft-begin">              </seg><hi rend="red">What is the fascination</hi><note n="n039"> MM drafts toward "Baseball and Writing."</note> <hi rend="blue">                                                                                                                          15</hi></l>
-                        <l n="02"> <hi rend="red">   What i<del>s</del></hi><hi rend="pencil">s</hi> <hi rend="red">the charm</hi></l>
+                        <l n="02"> <hi rend="red">   What i<del>s</del></hi><hi rend="pencil"><add>s</add></hi> <hi rend="red">the charm</hi></l>
                         <l n="03"><hi rend="red">   Elston Howard<note n="n040"> Howard, Elston [1929-1980].  Left fielder/catcher/power hitter, and the first African American to play for the Yankees (1955-1967).</note>                                 there is no rhyme</hi></l>
                         <l n="04">                      enthusiast??   <!-- is this a gap or just two ?'s -->  <hi rend="red">that could apply</hi></l>
                         <l n="05"><hi rend="red"> and  Who</hi><hi rend="pencil">,</hi> <hi rend="red">the admirer ?</hi></l>
@@ -671,12 +671,12 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="09"><hi rend="red">       It  	the ball it is the way the ball</hi></l>
                         <l n="10"><hi rend="red"> _______________________________</hi></l>
                         <l n="11"><hi rend="red">             behaves <del>and</del> for the individual</hi></l>
-                        <l n="12">           you might say—  	  a</l>
-                        <l n="13">  <hi rend="red">             a—diamond— miracle</hi></l>
+                        <l n="12">           you might say—  	  <add>a</add></l>
+                        <l n="13">  <hi rend="red">              a—diamond—     miracle</hi></l>
                         <l n="14"><hi rend="red"> It is not milk  or cereal or cokes</hi></l>
                         <l n="15"><hi rend="red">  or <del>what the</del> —or any unathletic kind</hi></l>
                         <l n="16"> the unathletic  <hi rend="red"><del>of</del> nonsense about tobacco smoke</hi></l>
-                        <l n="17"><hi rend="red"> Wheat that is so crisp</hi>	  <hi rend="pencil">tobacco smoke</hi></l>
+                        <l n="17"><hi rend="red"> Wheat that is so crisp                      </hi>	  <hi rend="pencil">tobacco smoke</hi></l>
                         <l n="18">  <hi rend="red">  as obstrective <unclear resp="eg">only</unclear> smoked smoke</hi></l>
                         <l n="19"><hi rend="red"> which     <del>unwar</del></hi></l>
                         <l n="20"><hi rend="red">  as what the unwary smoke</hi>r</l>
@@ -709,7 +709,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                     <lg>
                         <l n="01"><hi rend="red">            a parody of course<note n="n041"> MM drafts toward "Baseball and Writing."</note></hi></l>
                         <l n="02"> <hi rend="red">                                   ?  at source</hi></l>
-                        <l n="03"> <hi rend="red">             but a eulog<del>log</del>ergy </hi><del>perforce</del></l>
+                        <l n="03"> <hi rend="red">             but a eulog<del>log</del><add>ergy</add> </hi><del>perforce</del></l>
                         <l n="04">                        excitement</l>
                         <l n="05">  			<hi rend="red">                                             the source</hi></l>
                         <l n="06"> Title:    <hi rend="underline">Writing &amp; Baseball</hi>       <hi rend="pencil">that circumstances</hi></l>
@@ -734,7 +734,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="25"><hi rend="pencil">                whose emotions you ignite</hi></l>
                         <l n="26">  </l>
                         <l n="27"><hi rend="red">This is excitement not vacuus babble</hi></l>
-                        <l n="28"><hi rend="red"><bibl type="begin"/>              NYT    Sept 11        Jack Gould<note n="n042"> Gould, Jack [1914-1993],<hi rend="italic">New York Times</hi>  TV critic. He described daytime TV as appropriately interruptable for viewing by busy housewives in the article Moore may refer to here: "Television Therapy: Daytime Shows Don't Divert the Mind," <hi rend="italic">New York Times</hi>(Sept. 10, 1961): X23.</note><bibl type="end"/></hi></l>
+                        <l n="28"><hi rend="red"><bibl type="begin"/>              NYT    Sept 11        Jack Gould<note n="n042"> Gould, Jack [1914-1993]. <hi rend="italic">New York Times</hi>  TV critic. He described daytime TV as appropriately interruptable for viewing by busy housewives in the article Moore may refer to here: "Television Therapy: Daytime Shows Don't Divert the Mind," <hi rend="italic">New York Times</hi> (Sept. 10, 1961): X23.</note><bibl type="end"/></hi></l>
                         <l n="29"><hi rend="red"> </hi></l>
                         <l n="30"><hi rend="red"> <add>In the ball tribe</add> One detects a similarity to the writing </hi></l>
                         <l n="31"><hi rend="red">                       a need for privacy                             <del>crew</del>	</hi></l>
