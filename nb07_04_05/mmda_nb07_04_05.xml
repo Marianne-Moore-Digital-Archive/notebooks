@@ -3489,7 +3489,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="20">        for a very fas horse</l>
                         <l n="21">  		 <hi rend="pencil">        with long tail for for 1 person of</hi></l>
                         <l n="22">  		  <hi rend="pencil">                with a silver toned pug 	course</hi></l>
-                        <l n="23">  		<hi rend="pencil">      In <del>a  glossy     </del></hi> Conveyance</l>
+                        <l n="23">  		<hi rend="pencil">      In <del>a  glossy</del></hi>    Conveyance</l>
                         <l n="24">		<hi rend="pencil">      I am no hypochondriac</hi>		</l>
                         <l n="25">                     A Conveyance </l>
                         <l n="26">   ____________________________________</l>
@@ -3612,7 +3612,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0103-recto.jpg" n="0103-recto"/>
                     <lg>
                         <l n="01">  <seg type="genre-travel-begin"/>  everything burned—piano—   mask; each</l>
-                        <l n="02">   cell had a small garden <unclear resp="eg"><hi rend="underline">love</hi></unclear><hi rend="underline"> </hi>planted ? ?			</l>
+                        <l n="02">   cell had a small garden <unclear resp="eg"><hi rend="underline">love</hi></unclear><hi rend="underline"/> planted ? ?			</l>
                         <l n="03">  Catedral w a rose window considered<note n="n183"> La Seu, also known as the Cathedral of Majorca and the Cathedral of Palma, is said to contain the largest Gothic rose window in the world.</note></l>
                         <l n="04">  the biggest in the world—not northern</l>
                         <l n="05">  Gothic—     Discover old fresco</l>
@@ -3755,9 +3755,9 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="04">				<foreign xml:lang="it">                                                  valigie?</foreign></l>
                         <l n="05">  <foreign xml:lang="it">dove troveremo le nostre <del>villagie?</del></foreign></l>
                         <l n="06">  <foreign xml:lang="it">io pense que</foreign><note n="n187"> Perhaps intended "Penso che" (I think that).</note>  <foreign xml:lang="it">                       oggi             </foreign>quest less</l>
-                        <l n="07">  to have <foreign xml:lang="it">avere         <del>ca</del>cercare</foreign>   to find out</l>
+                        <l n="07">  to have <foreign xml:lang="it">avere         <del>ca</del><add>ce</add>rcare</foreign>   to find out</l>
                         <l n="08">  <foreign xml:lang="it">vorrei un Bicchiere</foreign>  glass</l>
-                        <l n="09">          una <del>comp</del>gonna di seta</l>
+                        <l n="09">          una <del>comp</del> gonna di seta</l>
                         <l n="10">                a skirt of silk<seg type="genre-travel-end"/></l>
                     </lg>
                 </div>
@@ -3793,7 +3793,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="25">				<foreign xml:lang="it">                               piu o meno</foreign></l>
                         <l n="26">  	<del>Being</del>   __________ 	  <unclear resp="eg">men</unclear></l>
                         <l n="27"> <foreign xml:lang="it">Prego</foreign>  . . . excuse me <foreign xml:lang="it">scusatemi</foreign></l>
-                        <l n="28">    being alone =<foreign xml:lang="it">solo</foreign>or <foreign xml:lang="it"><unclear resp="eg"><del>unico</del></unclear></foreign></l>
+                        <l n="28">    being alone = <foreign xml:lang="it">solo</foreign>or <foreign xml:lang="it"><unclear resp="eg"><del>unico</del></unclear></foreign></l>
                         <l n="29">	<foreign xml:lang="it">essendo solo</foreign> being alon</l>
                         <l n="30">  little <foreign xml:lang="it">poco</foreign>  but <foreign xml:lang="it">ma</foreign> </l>
                         <l n="31">  much <foreign xml:lang="it">tanto molto cosi</foreign></l>
@@ -3811,12 +3811,12 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                 <div type="page" n="r.0109" xml:id="nb_07_04_05_0109_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0109-recto.jpg" n="0109-recto"/>
                     <lg>
-                        <l n="01">  <seg type="genre-travel-begin"/><foreign xml:lang="it"> Primo Commissario</foreign> First purser    Liborio Ligustri<note n="n189"> While on cruise, MM takes notes on a pre-excursion lecture give by the purser Liborio Ligustri (also mentioned in MM's appointment Book, July 31 and Aug. 4, 1962). They arrived in Lisbon on Aug. 2; Majorca on Aug. 3; Palermo, Sicily on Aug. 4.</note> </l>
+                        <l n="01">  <seg type="genre-travel-begin"/><foreign xml:lang="it"> Primo Commissario</foreign> First purser    Liborio Ligustri<note n="n189"> While on cruise, MM takes notes on a pre-excursion lecture give by the purser Liborio Ligustri (also mentioned in her appointment book, July 31 and Aug. 4, 1962). They arrived in Lisbon on Aug. 2; Majorca on Aug. 3; Palermo, Sicily on Aug. 4.</note> </l>
                         <l n="02">  <hi rend="blue">   Lisbon you will ask the same question</hi></l>
                         <l n="03"><hi rend="blue">  (<hi rend="underline">Lisbona</hi>)</hi></l>
                         <l n="04"><hi rend="blue">                                  you ask the word street</hi></l>
                         <l n="05"><hi rend="blue">  excursion for 3 hours to see the most</hi></l>
-                        <l n="06"><hi rend="blue"> Lisbon the gate of Europe not a very old<note n="n190"> Estoril and theManueline <emph><hi rend="italic">Cloister</hi></emph>of the Monastery of St. Jerome in Belém are sites outside Lisbon, likely not visited.</note></hi></l>
+                        <l n="06"><hi rend="blue"> Lisbon the gate of Europe not a very old<note n="n190"> Estoril and the Manueline <emph><hi rend="italic">Cloister </hi></emph>of the Monastery of St. Jerome in Belém are sites outside Lisbon, likely not visited.</note></hi></l>
                         <l n="07"><hi rend="blue">                                                                        city	</hi></l>
                         <l n="08"><hi rend="blue"> 1755 destroyed completely &amp; fire for 3 days</hi></l>
                         <l n="09"><hi rend="blue">  Tower of — just a skeleton.</hi></l>
@@ -3832,7 +3832,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="19"><hi rend="blue">    be there 3 oclock— Taxis running like</hi></l>
                         <l n="20"><hi rend="blue">    crazy very cheap. I never heard of an <del>accident</del> </hi></l>
                         <l n="21"><hi rend="blue">                                                                       accident</hi></l>
-                        <l n="22"><hi rend="blue">    money:<foreign xml:lang="pt">escudos</foreign> only bills in  Amer. money</hi></l>
+                        <l n="22"><hi rend="blue">    money:  <foreign xml:lang="pt">escudos</foreign> only bills in  Amer. money</hi></l>
                         <l n="23"><hi rend="blue">  Lisbon not a very hot time but a breeze</hi></l>
                         <l n="24"><hi rend="blue">  million inhabitants but still a <unclear resp="eg">fri</unclear></hi></l>
                         <l n="25"><hi rend="blue">         very sensible.  I suggest an overcoat	</hi></l>
@@ -4034,7 +4034,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="01">  			  <seg type="genre-travel-begin"/><hi rend="pencil">                                                   cf</hi></l>
                         <l n="02"><hi rend="pencil">  Penna. State Coll.    Faculty: Pres Pasey					</hi></l>
                         <l n="03"><hi rend="pencil">                        dissatisf. w methodical thinking alone</hi></l>
-                        <l n="04"><hi rend="pencil">  Geo. Groscz,<note n="n197"> Grosz, George [1893-1959]. German Dadaist, known for his caricatural drawing and paintings of Berlin in the 1920s. MM quotes Grosz in "Poetry and Criticism," 1965. She quotes the same statement again in a letter to the editor,<hi rend="italic">Writer's Digest</hi>  46 (January 1966): 15.</note>                             a relatively small place in art</hi></l>
+                        <l n="04"><hi rend="pencil">  Geo. Groscz,<note n="n197"> Grosz, George [1893-1959]. German Dadaist, known for his caricatural drawing and paintings of Berlin in the 1920s. MM quotes Grosz in "Poetry and Criticism," 1965. She quotes the same statement again in a letter to the editor, <hi rend="italic">Writer's Digest</hi>  46 (January 1966): 15.</note>                             a relatively small place in art</hi></l>
                         <l n="05"><hi rend="pencil">                                       for satire &amp; gossip</hi></l>
                         <l n="06"><hi rend="pencil"><foreign xml:lang="it"> gala</foreign>                                    before o   a</hi></l>
                         <l n="07"><hi rend="pencil">  <foreign xml:lang="it">gufo</foreign></hi></l>
@@ -4072,7 +4072,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="07"><hi rend="blue">                  Ralph Weimar</hi></l>
                         <l n="08"><hi rend="blue">    formerly chief of language section</hi></l>
                         <l n="09"><hi rend="blue">                 U S War Department</hi></l>
-                        <l n="10"><hi rend="blue">             Crown Publishers, Inc NY<bibl type="end"/></hi><note n="n198"> Martin, Genevieve A., and Mario Ciatti.<hi rend="italic">Living Language conversational Italian: a complete course in everyday Italian. </hi>New York: Crown Publishers, 1956.  Included a book and several LPs.</note></l>
+                        <l n="10"><hi rend="blue">             Crown Publishers, Inc NY<bibl type="end"/></hi><note n="n198"> Martin, Genevieve A., and Mario Ciatti. <hi rend="italic">Living Language conversational Italian: a complete course in everyday Italian. </hi>New York: Crown Publishers, 1956.  Included book and several LPs.</note></l>
                         <l n="11"/>
                         <l n="12"/>
                         <l n="13"/>
@@ -4092,7 +4092,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                 <div type="page" n="r.0117" xml:id="nb_07_04_05_0117_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0117-recto.jpg" n="0117-recto"/>
                     <lg>
-                        <l n="01">  <seg type="genre-read-begin"/>       August 23 1960          Record 2    Side 1    Band 1<note n="n199"> MM took notes on her Italian studies with records in 1960, two years before her 1962 cruise to Italy. Martin, Genevieve A., and Mario Ciatti.<hi rend="italic">Living Language conversational Italian</hi>  (see earlier note).</note></l>
+                        <l n="01">  <seg type="genre-read-begin"/>       August 23 1960          Record 2    Side 1    Band 1<note n="n199"> MM took notes on her Italian studies with records in 1960, two years before her 1962 cruise to Italy. Martin, Genevieve A., and Mario Ciatti. <hi rend="italic">Living Language conversational Italian</hi>  (see earlier note).</note></l>
                         <l n="02">  p 16					</l>
                         <l n="03">  <foreign xml:lang="it">    si io parlo italiano</foreign></l>
                         <l n="04">  <foreign xml:lang="it">    in <hi rend="underline">po</hi>co tempo   Non è molto difficile</foreign></l>
@@ -4125,7 +4125,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                 <div type="page" n="v.0118" xml:id="nb_07_04_05_0118_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0118-verso.jpg" n="0118-verso"/>
                     <lg>
-                        <l n="01">  <seg type="genre-read-begin"/><hi rend="blue">20  <foreign xml:lang="it">È lontano da qui?</foreign>       Is it far<note n="n200"> Martin, Genevieve A., and Mario Ciatti.  <hi rend="italic">Living Language conversational Italian</hi>  (see earlier note).</note>                                                              fr here</hi></l>
+                        <l n="01">  <seg type="genre-read-begin"/><hi rend="blue">20  <foreign xml:lang="it">È lontano da qui?</foreign>       Is it far<note n="n200"> Martin, Genevieve A., and Mario Ciatti. <hi rend="italic">Living Language conversational Italian</hi>  (see earlier note).</note>                                                              fr here</hi></l>
                         <l n="02"><hi rend="blue"><foreign xml:lang="it">         noi          voi		</foreign></hi></l>
                         <l n="03"><hi rend="blue">  21  <foreign xml:lang="it">no-ie        voi-ie</foreign> (you)</hi></l>
                         <l n="04"><hi rend="blue">  	  we</hi></l>
@@ -4188,7 +4188,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0120-verso.jpg" n="0120-verso"/>
                     <lg>
                         <l n="01"> 					<hi rend="pencil">                                                                                diagrammed but explained</hi></l>
-                        <l n="02">  		<seg type="draft-begin"/>                              Preface<note n="n201"> Moore is drafting toward the Foreword to the<hi rend="italic">Marianne Moore Reader</hi>  (1961). That essay's second sentence ("The magazine was discontinued") is echoed below.</note>			</l>
+                        <l n="02">  		<seg type="draft-begin"/>                              Preface<note n="n201"> Moore is drafting toward the Foreword to the <hi rend="italic">Marianne Moore Reader</hi>  (1961). That essay's second sentence ("The magazine was discontinued") is echoed below.</note>			</l>
                         <l n="03">  Verse sh<del><gap extent="1" resp="eg"/>a</del><add>o</add>uld <del>be</del> <add>give</add> pleasure <del>to read &amp;</del></l>
                         <l n="04">                 "     have been a pleasure or say satisfaction</l>
                         <l n="05">                                               It</l>
@@ -4216,7 +4216,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="27"/>
                         <l n="28">	<seg type="genre-read-begin"/>One should be able to speak of a novel as 	</l>
                         <l n="29">  Alan Pryce-Jones speaks of Diana</l>
-                        <l n="30"> Holman-Hunt's <hi rend="underline">My Grandmothers &amp; I</hi><note n="n202"> Pryce-Jones, Alan. Rev. of<hi rend="italic">My Grandmothers &amp; I</hi> by Diana Holman-Hunt.<hi rend="italic">Harper's Magazine</hi>  (April 1961): 103-104. </note></l>
+                        <l n="30"> Holman-Hunt's <hi rend="underline">My Grandmothers &amp; I</hi><note n="n202"> Pryce-Jones, Alan. Rev. of <hi rend="italic">My Grandmothers &amp; I</hi> by Diana Holman-Hunt. <hi rend="italic">Harper's Magazine</hi>  (April 1961): 103-104. </note></l>
                         <l n="31">                W W Norton Co. 	$3. 95	</l>
                         <l n="32">	  Where Diana H-H. excels is in striking  	</l>
                         <l n="33">  exactly the right note for these artless</l>
@@ -4227,7 +4227,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="38">  <hi rend="underline">for bringing the past to life again</hi>. The experience</l>
                     </lg>
                     <lg type="vertical">
-                        <l n="v40"><!-- span lines 33-01, left margin, in four rows of script --> <hi rend="blue">past text past substance / What makes substance worth while </hi><hi rend="pencil">Reprint as a service convenience to one's self or others/ and in what light a service </hi>/<hi rend="blue"> I remember? why not as a revenge as a <del>spur</del> spur <del>or performe</del> mem<gap extent="3" resp="eg"/>.</hi>	</l>
+                        <l n="v40"><!-- span lines 33-01, left margin, in four rows of script --> <hi rend="blue">past text past substance / What makes substance worth while </hi><hi rend="pencil">Reprint as a service convenience to one's self or others / and in what light a service </hi>/<hi rend="blue"> I remember? why not as a revenge as a <del>spur</del> spur <del>or performe</del> mem<gap extent="3" resp="eg"/>.</hi>	</l>
                         <desc>MM draws line from "but" in line 01 to "disorganized" in line 06; she
                             circles "not" in pencil, line 14</desc>
                     </lg>
@@ -4295,7 +4295,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="04">  <hi rend="pencil"><add>No</add> </hi> 	punctuation <hi rend="pencil">(</hi>presented<hi rend="pencil">)</hi> as innovation</l>
                         <l n="05">                   Charles Sorley<note n="n204"> Sorley, Charles Hamilton [1895–1915]. Scottish poet and soldier who died in the Battle of Loos at age 20.</note>                                              : The Idea</l>
                         <l n="06">                    It was  . . .  my own		  that have blown</l>
-                        <l n="07">                    I have guarded it . . .  from the winds<note n="n205"> MM cites Sorley's "The Idea" in her<hi rend="italic">Voice of America</hi>  interview "Poetry and Criticism" (1965), referring to its example of "the unaccented syllable (the light rhyme) as meant for me." </note></l>
+                        <l n="07">                    I have guarded it . . .  from the winds<note n="n205"> MM cites Sorley's "The Idea" in her <hi rend="italic">Voice of America</hi>  interview "Poetry and Criticism" (1965), referring to its example of "the unaccented syllable (the light rhyme) as meant for me." </note></l>
                     </lg>
                 </div>
             </div>
@@ -4303,19 +4303,19 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                 <div type="page" n="v.0128" xml:id="nb_07_04_05_0128_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0128-verso.jpg" n="0128-verso"/>
                     <lg>
-                        <l n="01">  <seg type="genre-read-begin"/><bibl type="begin"/>NY Times             Aug. 19 1960               Class for Politicians<bibl type="end"/><note n="n206"> Benjamin, Philip. "TV-Manship Lesson for Politicians: How to Project Sincerity Imagewise."<hi rend="italic">New York Times</hi>  (August 19, 1960): 25.</note></l>
+                        <l n="01">  <seg type="genre-read-begin"/><bibl type="begin"/>NY Times             Aug. 19 1960               Class for Politicians<bibl type="end"/><note n="n206"> Benjamin, Philip. "TV-Manship Lesson for Politicians: How to Project Sincerity Imagewise." <hi rend="italic">New York Times</hi>  (August 19, 1960): 25.</note></l>
                         <l n="02">  <quote type="begin"/>attended by some fifty politicians. —conducted</l>
                         <l n="03">                                                    ss				</l>
                         <l n="04">  by WABC-TV	Lessons in dress &amp; looking</l>
                         <l n="05">  sincere were included.<quote type="end"/><note n="n207"> MM quotes a photograph caption.</note> </l>
                         <l n="06">  __________</l>
-                        <l n="07">  Bernard Baruch.<note n="n208"> Baruch, Bernard [1870–1965]. American financier and investor, advised Presidents Wilson and Roosevelt.</note>90 today 	4 E. <del>60</del>66th<note n="n209"> Baruch's home address, cited in "Baruch, 90 Today, Short on Advice."<hi rend="italic">New York Times</hi> (August 19, 1960): 25.</note></l>
+                        <l n="07">  Bernard Baruch.<note n="n208"> Baruch, Bernard [1870–1965]. American financier and investor, advised Presidents Wilson and Roosevelt.</note>90 today 	4 E. <del>60</del>66th<note n="n209"> Baruch's home address, cited in "Baruch, 90 Today, Short on Advice." <hi rend="italic">New York Times</hi> (August 19, 1960): 25.</note></l>
                         <l n="08">  The room was crowded with television</l>
                         <l n="09">  technicians and cluttered w electric cables,  </l>
                         <l n="10">  floodlights and other equipment. ¶ He seemed</l>
                         <l n="11">  <quote type="begin"/>strong and keen.</l>
-                        <l n="12">  <bibl type="begin"/>Time 22 Aug. 1960           Radical from Connecticut<bibl type="end"/><note n="n210"> "Radical from Connecticut."<hi rend="italic">Time</hi>  76.8 (August 22, 1960): 36. Article about Ives begins by citing Schoenberg. </note></l>
-                        <l n="13">   Arnold Schoenberg:<note n="n211"> Schoenberg, Arnold [1874–1951]. Austrian-born composer and music theorist, whose modernist, atonal work significantly influenced 20th-century music. MM quotes Schoenberg in her review, "A Draft of XXX Cantos,"<hi rend="italic">The Criterion</hi>  13 (April 1934): 482-85.</note>There is a great man</l>
+                        <l n="12">  <bibl type="begin"/>Time 22 Aug. 1960           Radical from Connecticut<bibl type="end"/><note n="n210"> "Radical from Connecticut." <hi rend="italic">Time</hi>  76.8 (August 22, 1960): 36. Article about Ives begins by citing Schoenberg. </note></l>
+                        <l n="13">   Arnold Schoenberg:<note n="n211"> Schoenberg, Arnold [1874–1951]. Austrian-born composer and music theorist, whose modernist, atonal work significantly influenced 20th-century music. MM quotes Schoenberg in her review, "A Draft of XXX Cantos," <hi rend="italic">The Criterion</hi>  13 (April 1934): 482-85.</note>There is a great man</l>
                         <l n="14">  living in this country. He has solved the</l>
                         <l n="15">  problem of how to preserve one's self and 				 	</l>
                         <l n="16">  to learn . . .     His name is Ives<note n="n212"> Ives, Charles [1874–1954]. American modernist composer. In "Foreword" to <hi rend="italic">A Marianne Moore Reader</hi>  (NY: Viking, 1961), MM repeats Ives's statement on the "fabric of existence."  </note>. </l>
@@ -4326,7 +4326,7 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                         <l n="21">  insurance business. —   clerk at Life</l>
                         <l n="22">  Mutual later formed the firm of</l>
                         <l n="23">  Ives &amp; Myrick wh. by 1930 was the</l>
-                        <l n="24">  largest insurance <del>business</del>in the </l>
+                        <l n="24">  largest insurance <del>business</del> in the </l>
                         <l n="25">  nation.                     agency</l>
                         <l n="26">     The fabric of existence weaves	</l>
                         <l n="27">  itself whole. You cannot set an art</l>
@@ -4344,32 +4344,32 @@ For ease of proofing, I mark passages written vertically or in clusters independ
                 <div type="page" n="r.0129" xml:id="nb_07_04_05_0129_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0129-recto.jpg" n="0129-recto"/>
                     <lg>
-                        <l n="01">  <seg type="genre-read-begin"/><bibl type="begin"/>Newsweek Aug. 29 1960<bibl type="end"/>  Olympiad<note n="n213"> "The Olympics: Sports Summit at Rome" (issue title).<hi rend="italic">Newsweek </hi>(29 August 1960).</note> </l>
-                        <l n="02">  Cover<note n="n214"> Van Houten, Norbert [dates unknown], designed the cover of the Rome Olympics issue of<hi rend="italic">Newsweek</hi>. MM cites the description of his work in the masthead. </note> Norbert van Houten has painted the					</l>
-                        <l n="03">  5 interlocking r<del>ings</del>   Olympic rings against</l>
-                        <l n="04">  the Italian flag &amp; symbolic discus thrower</l>
+                        <l n="01">  <seg type="genre-read-begin"/><bibl type="begin">    </bibl>Newsweek Aug. 29 1960<bibl type="end"/>     Olympiad<note n="n213"> "The Olympics: Sports Summit at Rome" (issue title).<hi rend="italic">Newsweek </hi>(29 August 1960).</note> </l>
+                        <l n="02">  Cover<note n="n214"> Van Houten, Norbert [dates unknown], designed the cover of the Rome Olympics issue of<hi rend="italic">Newsweek</hi>. MM cites the description of his work in the masthead. </note>             Norbert van Houten has painted the					</l>
+                        <l n="03">   5 interlocking r<del>ings</del>   Olympic rings against</l>
+                        <l n="04">    the Italian flag &amp; symbolic discus thrower</l>
                         <l n="05">  p. 9  "A Well-Informed Public Is America's</l>
-                        <l n="06">  Greatest Security"<note n="n215"> <hi rend="italic">Newsweek</hi>  motto. </note> Cf NY Times. "All</l>
-                        <l n="07">  the news that's fit to print."<note n="n216"> <hi rend="italic">New York Times</hi>  motto.</note></l>
-                        <l n="08">  37  The Travellers Ins Companies</l>
-                        <l n="09">  One man, one plan, one monthly check to pay—</l>
-                        <l n="10">  that's the modern Travelers way!"</l>
-                        <l n="11">  Shelter for yr whole way of life" <hi rend="blue">(</hi>giant</l>
-                        <l n="12">  			  <hi rend="blue">(</hi>all caps<hi rend="blue">)</hi></l>
-                        <l n="13">  	on a red umbrella<note n="n217"> MM cites ad for The Travellers Insurance Companies (p. 37) and sketches their umbrella logo. Below, she cites ad for Northern Pacific Railway (p. 76) and sketches their logo three times.</note></l>
+                        <l n="06">   Greatest Security"<note n="n215"> <hi rend="italic">Newsweek</hi>  motto. </note>                                       Cf NY Times. "All</l>
+                        <l n="07">    the news that's fit to print."<note n="n216"> <hi rend="italic">New York Times</hi>  motto.</note></l>
+                        <l n="08">  37    The Travellers Ins Companies</l>
+                        <l n="09">   One man, one plan, one monthly check to pay—</l>
+                        <l n="10">   that's the modern Travelers way!"</l>
+                        <l n="11">   Shelter for yr whole way of life" <hi rend="blue">(</hi>giant</l>
+                        <l n="12">  			  <hi rend="blue">                                      (</hi>all caps<hi rend="blue">)</hi></l>
+                        <l n="13">  on a red umbrella<note n="n217"> MM cites ad for The Travellers Insurance Companies (p. 37) and sketches their umbrella logo. Below, she cites ad for Northern Pacific Railway (p. 76) and sketches their logo three times.</note></l>
                         <l n="14">  	 	</l>
                         <l n="15">  Swiss National Tourist Office (photographs)</l>
-                        <l n="16">  Northern Pacific Railway	Route of the Vista Dome	 		</l>
-                        <l n="17">  North Coast Limited</l>
+                        <l n="16">  Northern Pacific Railway   Route of the Vista Dome	 		</l>
+                        <l n="17">   North Coast Limited</l>
                         <l n="18"> __________________________________________</l>
-                        <l n="19">  For shipping logs or hogs or catalogs</l>
-                        <l n="20">  <bibl type="begin"/>Newsweek 	The better way is Santa Fe</l>
-                        <l n="21">  Aug 22<bibl type="end"/><note n="n218"> MM cites ads for Santa Fe Railway, First National City Bank, and Bankers Trust Company (p. 44, 58, 1) and sketches logo for Santa Fe RR.</note></l>
-                        <l n="22">  Aug 22 Newsweek  The First N City Bank</l>
-                        <l n="23">  view of island fr a plane  Are you overlooking</l>
-                        <l n="24">  opportunities in greater NY?</l>
-                        <l n="25">  22 Banker's Trust  no pun—more sincere</l>
-                        <l n="26">	Today's most perplexing pension problem	 To invest</l>
+                        <l n="19">Santa Fe  For shipping logs or hogs or catalogs</l>
+                        <l n="20">  <bibl type="begin"/>Newsweek    The better way is Santa Fe</l>
+                        <l n="21">   Aug 22<bibl type="end"/><note n="n218"> MM cites ads for Santa Fe Railway, First National City Bank, and Bankers Trust Company (p. 44, 58, 1) and sketches logo for Santa Fe RR.</note></l>
+                        <l n="22">  Aug 22 Newsweek     The First N City Bank</l>
+                        <l n="23">             view of island fr a plane  Are you overlooking</l>
+                        <l n="24">           opportunities in greater NY?</l>
+                        <l n="25">  22  Banker's Trust  no pun—more sincere</l>
+                        <l n="26">	Today's most perplexing pension problem   To invest</l>
                         <l n="27">  today's benefits to compensate for changes in <del>tomorrow's</del><seg type="genre-read-end"/></l>
                     </lg>
                     <lg type="vertical">
