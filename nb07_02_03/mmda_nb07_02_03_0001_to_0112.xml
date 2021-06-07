@@ -6,8 +6,7 @@
                     <title>Notebook 07.02.03</title>
                     <author>Marianne Moore</author>
                     <editor>
-                        <persName>Luke Carson,</persName>
-                        <note>Notebook Editor</note>
+                        <persName>Luke Carson</persName><note>Notebook Editor</note>
                     </editor>
                     <respStmt>
                         <persName/>
@@ -71,7 +70,7 @@
     <p>Relevant to publications: ["Emily Dickinson" (1933); "We Will Walk Like the Tapir" (1943);
         "There is a War That Never Ends" (1943); "One Times One" (1944); "Feeling and Precision"
         (1944); "Humility, Concentration, and Gusto" (1949); "E. McKnight Kauffer" (1949); "W.H.
-        Auden" (1952); note to "To a Snail" in CP (1952)].</p>
+        Auden" (1952); note to "To a Snail" in Collected Poems (1952)].</p>
     <teiHeader>
         <fileDesc>
             <sourceDesc>
@@ -248,7 +247,7 @@
                         <l n="40">[blank]</l>
                     </lg>
                     <lg type="vertical">
-                        <l n="v01">[vertical line] &amp;lt;!Entire left margin!&amp;gt;<hi rend="pencil"><seg type="prose">All success is partial &amp; a bridge to something else</seg></hi> </l>
+                        <l n="v01">[vertical line] &amp;lt;!desc: entire left margin!&amp;gt;<hi rend="pencil"><seg type="prose">All success is partial &amp; a bridge to something else</seg></hi> </l>
                         <l n="v02">[vertical line]</l>
                         <l n="v03">[vertical line]</l>
                         <l n="v04">[vertical line]</l>
@@ -705,7 +704,7 @@
                     </lg>
                     <lg type="vertical">
                         <lg type="vertical">
-                            <l n="v01">[vertical line] &amp;lt;!desc!: lines 16-01, left margin, written as two rows of script!&amp;gt;<hi rend="pencil">a not really bad man w a certain defect or two</hi> / <hi rend="pencil">falls into misfortune</hi> </l>
+                            <l n="v01">[vertical line] &amp;lt;!desc: lines 16-01, left margin, written as two rows of script!&amp;gt;<hi rend="pencil">a not really bad man w a certain defect or two</hi> / <hi rend="pencil">falls into misfortune</hi> </l>
                         </lg>
                     </lg>
                     <lg type="vertical">
