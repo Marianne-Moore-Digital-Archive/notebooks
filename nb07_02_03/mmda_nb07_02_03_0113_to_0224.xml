@@ -737,11 +737,11 @@
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 10 is doubled
                         with a wavy line. The underlining of line 24 is in pencil.!&amp;gt;</desc>
                     <lg>
-                        <l n="01">[blank]                         Bohemian          Rainer Maria Rilke<note>Rilke, Rainer Maria (1875-1926): Bohemian-Austrian poet whose work was extensively translated into English in the 1930s.  </note>    born Dec. 1875 </l>
+                        <l n="01">[blank]                         Bohemian          Rainer Maria Rilke<note>  </note>    born Dec. 1875 </l>
                         <l n="02">[blank]                                                                                                                 <add>Mrs.</add>   <add>Died 1927</add> </l>
                         <l n="03">[blank]                         <bibl type="begin"/>Letters to a Young Poet (Franz Xaver Kappus) trans. M. D. Herter</l>
                         <l n="04">[blank]                                                                                                                                        Norton</l>
-                        <l n="05">[blank]                                  (1934) W. W. Norton<bibl type="end"/> <note>Rilke, Rainer Maria. <hi rend="italics">Letters to a Young Poet</hi>. Trans M.D. Herter Norton. New York: Norton, 1934. </note>     <quote rend="begin"/>sent to Sankt-Pölten lower military school</l>
+                        <l n="05">[blank]                                  (1934) W. W. Norton<bibl type="end"/> <note>Rilke, Rainer Maria. <hi rend="italics">Letters to a Young Poet</hi>. Trans M.D. Herter Norton. New York: Norton, 1934.</note><note>Rilke, Rainer Maria [1875-1926]: Bohemian-Austrian poet whose work was extensively translated into English in the 1930s.</note>     <quote rend="begin"/>sent to Sankt-Pölten lower military school</l>
                         <l n="06">[blank]                83     that he might become an officer . . . was there 5 years—left in 1891 at</l>
                         <l n="07">[blank]                88     15 ½ stayed w. his Uncle Jaroslav in Smichov (suburb of Prague)</l>
                         <l n="08">[blank]                          studied at U. of Berlin, 1899 when went to Moscow; also 1900, w. to Moscow</l>
