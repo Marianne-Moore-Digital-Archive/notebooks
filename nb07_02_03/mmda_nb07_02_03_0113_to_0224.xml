@@ -1714,7 +1714,7 @@
                     <lg>
                         <l n="01">[blank]                            <bibl type="begin"/>Stéphane Mallarmé </l>
                         <l n="02">[blank]                  translated by Roger Fry  w commentaries by Charles</l>
-                        <l n="03">[blank]              N.Y. Ox. U. Press 1937                                             Mauron <note>Fry, Roger. <hi rend="italics">Stéphane Mallarmé: Poems</hi>. With Commentaries by Charles Mauron (New York: Oxford UP, 1937).</note><note>Fry, Roger [1866-1934]. English painter and critic, member of the Bloomsbury Group.</note><note>Mauron, Charles [1899-1906]. French literary critic and translator associated with the Bloomsbury Group. As a literary critic, he developed a psychoanalytic method of criticism; his commentary on Fry's translations provided the basis for his 1941 book <hi rend="italics">Mallarmé l'obscur</hi> (Paris: Denoël, 1941).</note> </l>
+                        <l n="03">[blank]              N.Y. Ox. U. Press 1937                                             Mauron<bibl type="end"/> <note>Fry, Roger. <hi rend="italics">Stéphane Mallarmé: Poems</hi>. With Commentaries by Charles Mauron (New York: Oxford UP, 1937).</note><note>Fry, Roger [1866-1934]. English painter and critic, member of the Bloomsbury Group.</note><note>Mauron, Charles [1899-1906]. French literary critic and translator associated with the Bloomsbury Group. As a literary critic, he developed a psychoanalytic method of criticism; his commentary on Fry's translations provided the basis for his 1941 book <hi rend="italics">Mallarmé l'obscur</hi> (Paris: Denoël, 1941).</note> </l>
                         <l n="04">[blank]     2     <quote rend="begin"/>Intro. (Mauron ) (Roger Fry) <del>He</del> he set himself to translate.</l>
                         <l n="05">[blank]            His reactions were immediate. But they were so numerous</l>
                         <l n="06">[blank]            that the comings &amp; goings in his nervous system might be</l>
@@ -1942,8 +1942,8 @@
                         lines 07-11.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                                    <bibl type="begin"/><hi rend="underline">On the Poetry of Pope</hi>  </l>
-                        <l n="02">[blank]                                    by Geoffrey Tillotson<note>Tillotson, Geoffrey (1905-1969). English literary scholar specializing in 18th- and 19th-century English literature. When this book was published he was a lecturer at University College London; from 1944 until his death he was Professor of English Literature at Birkbeck College, London.. </note></l>
-                        <l n="03">[blank]          Oxford: at the Clarendon Press 1938<bibl type="end"/> <note>Tillotson, Geoffrey. <hi rend="italics">On the Poetry of Pope</hi>. Oxford: Oxford UP, 1938. </note>                       <quote rend="begin"/>J. Spence</l>
+                        <l n="02">[blank]                                    by Geoffrey Tillotson </l>
+                        <l n="03">[blank]          Oxford: at the Clarendon Press 1938<bibl type="end"/> <note>Tillotson, Geoffrey. <hi rend="italics">On the Poetry of Pope</hi>. Oxford: Oxford UP, 1938.</note><note/>                       <quote rend="begin"/>J. Spence</l>
                         <l n="04">[blank</l>
                         <l n="05">[blank]          Correctness. 1. ‘Nature’                         Pope told Spence that</l>
                         <l n="06">[blank]       1               About fifteen [i.e. 1703 or thereabouts], I got acquainted</l>
