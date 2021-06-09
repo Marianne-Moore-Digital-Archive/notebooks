@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?>
+<TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <teiHeader>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Notebook 07.03.07</title>
+                    <author>Marianne Moore</author>
+                    <editor>
+                        <persName>Luke Carson,</persName>
+                        <note>Notebook Editor</note>
+                    </editor>
+                    <respStmt>
+                        <persName/>
+                        <resp>Proofreader</resp>
+                    </respStmt>
+                    <respStmt>
+                        <persName/>Proofreader</respStmt>
+                    <editor>
+                        <persName></persName>
+                        <note>Digital Editor</note>
+                    </editor>
+                    <respStmt> </respStmt>
+                    <respStmt>
+                        <persName></persName>
+                        <resp>Web Administrator</resp>
+                    </respStmt>
+                </titleStmt>
+                <publicationStmt>
+                    <publisher>Marianne Moore Digital Archive (moorearchive.org)</publisher>
+                    <date>[Pub Date]</date>
+                    <availability/>
+                </publicationStmt>
+            </fileDesc>
+        </teiHeader>
+    </teiHeader>
+    <p>[Copyright and Usage Statement]</p>
+    <teiHeader>
+        <teiHeader>
+            <fileDesc>
+                <publicationStmt>
+                    <availability>
+                        <licence>[License info]</licence>
+                    </availability>
+                    <idno>07.03.07</idno>
+                    <date></date>
+                </publicationStmt>
+                <sourceDesc>
+                    <msDesc>
+                        <msIdentifier>
+                            <repository></repository>
+                            <idno></idno>
+                        </msIdentifier>
+                    </msDesc>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+    </teiHeader>
+    <teiHeader>
+        <fileDesc>
+            <sourceDesc>
+                <msDesc/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="image" xml:id="nb07_02_03_0001_text"><!--each page gets assigned one of these divs with a pb element linking to the facs image at the top-->
+                <div type="page" n="r.0001" xml:id="nb07_03_07_0001_recto_text"><!--update page id-->
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_03_07_0001-recto.jpeg" n="0001-recto"/><!--update image link-->
+                    <desc>page descriptoin</desc>
+                    <lg>
+                        <l n="01"></l>
+                    </lg>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
