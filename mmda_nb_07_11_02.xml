@@ -30,12 +30,10 @@
       <body>
          <div type="image" xml:id="nb07_11_02_0001_text">
             <div type="page" n="v.0001" xml:id="nb07_11_02_0001_verso_text">
-               <pb
-                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_11_02_0001-verso.jpg"
-                  n="0001-verso"/>
+               <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_11_02_0001-verso.jpg" n="0001-verso"/>
                <desc>[Page-level Description]</desc>
                <lg>
-                  <l n="01">[blank]</l>
+                  <l n="01">[blank]Testing 1  2   3    4     5          10                   20                                           Bunch</l>
                   <l n="02">[blank]</l>
                   <l n="03">[blank]</l>
                   <l n="04">[blank]</l>
@@ -88,9 +86,7 @@
          </div>
          <div type="image" xml:id="nb07_11_02_0002_text">
             <div type="page" n="v.0002" xml:id="nb07_11_02_0002_verso_text">
-               <pb
-                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_11_02_0002-verso.jpg"
-                  n="0002-verso"/>
+               <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_11_02_0002-verso.jpg" n="0002-verso"/>
                <desc>[Page-level Description]</desc>
                <lg>
                   <l n="01">[blank]</l>
@@ -146,9 +142,7 @@
          </div>
          <div type="image" xml:id="nb07_11_02_0003_text">
             <div type="page" n="v.0003" xml:id="nb07_11_02_0003_verso_text">
-               <pb
-                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_11_02_0003-verso.jpg"
-                  n="0003-verso"/>
+               <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_11_02_0003-verso.jpg" n="0003-verso"/>
                <desc>[Page-level Description]</desc>
                <lg>
                   <l n="01">[blank]</l>
@@ -204,9 +198,7 @@
          </div>
          <div type="image" xml:id="nb07_11_02_0004_text">
             <div type="page" n="r.0004" xml:id="nb07_11_02_0004_recto_text">
-               <pb
-                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_11_02_0004-recto.jpg"
-                  n="0004-recto"/>
+               <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_11_02_0004-recto.jpg" n="0004-recto"/>
                <desc>[Page-level Description]</desc>
                <lg>
                   <l n="01">[blank]</l>
