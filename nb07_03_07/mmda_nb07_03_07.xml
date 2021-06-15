@@ -65,10 +65,46 @@
     </teiHeader>
     <text>
         <body>
-            <div type="image" xml:id="nb07_02_03_0001_text"><!--each page gets assigned one of these divs with a pb element linking to the facs image at the top-->
-                <div type="page" n="r.0001" xml:id="nb07_03_07_0001_recto_text"><!--update page id-->
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_03_07_0001-recto.jpeg" n="0001-recto"/><!--update image link-->
-                    <desc>page descriptoin</desc>
+            <div type="image" xml:id="nb07_03_07_0001_text">
+                <div type="page" n="r.0001" xml:id="nb07_03_07_0001_recto_text">
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_03_07_0001-recto.jpg" n="0001-recto"/>
+                    <desc>page description</desc>
+                    <lg>
+                        <l n="01"></l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_03_07_0002_text">
+                <div type="page" n="r.0001" xml:id="nb07_03_07_0002_verso_text">
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_03_07_0002-verso.jpg" n="0002-verso"/>
+                    <desc>page description</desc>
+                    <lg>
+                        <l n="01"></l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_03_07_0003_verso_text">
+                <div type="page" n="r.0001" xml:id="nb07_03_07_0003_verso_text">
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_03_07_0003-verso.jpg" n="0003-recto"/>
+                    <desc>page description</desc>
+                    <lg>
+                        <l n="01"></l>
+                    </lg>
+                </div>
+            </div>
+                        <div type="image" xml:id="nb07_03_07_0004_recto_text">
+                <div type="page" n="r.0001" xml:id="nb07_03_07_0004_recto_text">
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_03_07_0004-recto.jpg" n="0004-recto"/>
+                    <desc>page description</desc>
+                    <lg>
+                        <l n="01"></l>
+                    </lg>
+                </div>
+            </div>
+                        <div type="image" xml:id="nb07_03_07_0005_verso_text">
+                <div type="page" n="r.0001" xml:id="nb07_03_07_0005_verso_text">
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_03_07_0005-verso.jpg" n="0005-recto"/>
+                    <desc>page description</desc>
                     <lg>
                         <l n="01"></l>
                     </lg>
