@@ -6060,8 +6060,7 @@
             <div type="image" xml:id="nb07_02_03_0103_text">
                 <div type="page" n="r.0103" xml:id="nb07_02_03_0103_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0103-recto.jpeg" n="0103-recto"/>
-                    <desc>[Page-level Description]</desc>
-                    <lg>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of line 36 is doubled with a wavy line.!&amp;gt;</desc><lg>
                         <l n="01">[blank]                   <quote rend="begin"/><note>Eliot, <hi rend="italics">Selected Essays</hi> (see note). </note> A Dialogue on Dramatic Poetry   43.</l>
                         <l n="02">[blank]            E. &amp; B.  cf. Aristotle &amp; Corneille &amp; Dryden</l>
                         <l n="03">[blank]            44     B: As for us, we know too much, &amp; are convinced of too little.</l>
@@ -6093,11 +6092,11 @@
                         <l n="29">[blank]                                                                                                                    <hi rend="pencil">Mass</hi> </l>
                         <l n="30">[blank]            48     <del>but</del> If we are religious, then we shall only be aware of the Mass</l>
                         <l n="31">[blank]                      as art, in so far as it is badly done &amp; interferes with</l>
-                        <l n="32">[blank]                      our devotion . . .   . .        <add>is not in the frame of mind of a person attending</add> </l>
-                        <l n="33">[blank]                                                                                                                                               <add>a drama,</add> </l>
-                        <l n="34">[blank]            49     A devout person, in assisting at Mass<add>,</add> ‸ for he is participating</l>
+                        <l n="32">[blank]                      our devotion . . .   . . .      <add>is not in the frame of mind of a person attending</add> </l>
+                        <l n="33">[blank]                                                                                                                                     <add>a drama,</add> </l>
+                        <l n="34">[blank]            49     A devout person, in assisting at Mass<add>,</add> ‸ for he is <hi rend="underline">participating</hi></l>
                         <l n="35">[blank]</l>
-                        <l n="36">[blank]            49     The more definite the relig. . . . principles, the more freely</l>
+                        <l n="36">[blank]            49     <unclear>B</unclear>: The more definite the relig. . . . principles, the more freely</l>
                         <l n="37">[blank]                      the drama can move towards what is now called photography.</l>
                         <l n="38">[blank]                      The more chaotic the relig. &amp; ethical beliefs, the more the</l>
                         <l n="39">[blank]                      drama must tend in the direction of liturgy.</l>
