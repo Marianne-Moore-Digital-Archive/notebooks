@@ -785,50 +785,50 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0012-verso.jpeg" n="0012-verso"/>
                     <desc>[Page-level Description] &amp;lt;!In line 03 MM draws a series of
                         individual strokes beneath the underlining. Parentheses enclose the phrases
-                        at the ends of lines 07 and 08. She places a right curly bracket to the
-                        right of the phrases beginning lines 09 and 10. Parentheses enclose the
-                        words at the end of lines 14 and 15. Two sets of parentheses enclose word
-                        groups on lines 16-17: one contains "to be clear &amp;" and "ordinary words"
+                        at the ends of lines 08 and 09. She places a right curly bracket to the
+                        right of the phrases beginning lines 10 and 11. Parentheses enclose the
+                        words at the end of lines 16 and 17. Two sets of parentheses enclose word
+                        groups on lines 18-19: one contains "to be clear &amp;" and "ordinary words"
                         while the other contains "commonplace." and "strange ones." MM places two
-                        vertical bars to the left of the text on lines 24-25. The underlining of
+                        vertical bars to the left of the text on lines 27-28. The underlining of
                         line 26 is doubled.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]       81                <quote rend="begin"/><note>Aristotle, <hi rend="italics">Poetics</hi> (see earlier note).</note>A word may be both ordinary &amp; rare but not in relation to the<quote rend="end"/> </l>
                         <l n="02">[blank] <seg type="prose">See I.A. Richards</seg>                                                                                                  <quote rend="begin"/>same people.<quote rend="end"/> </l>
-                        <l n="03">[blank] <seg type="prose">p. 86</seg>                <quote rend="begin"/><hi rend="underline">Metaphor</hi> is the application of a strange term transferred from the genus &amp;<quote rend="end"/> </l>
-                        <l n="04">[blank] <seg type="prose">&amp; 91 below</seg>     <quote rend="begin"/>applied to the species      Here stands my ship (riding at anchor is standing)<quote rend="end"/> </l>
-                        <l n="05">[blank]                          <quote rend="begin"/>from the species &amp; applied to the genus (Indeed 10,000 noble things</l>
-                        <l n="06">[blank]                          Odysseus did     for 10000 a species of many used instead of many)</l>
-                        <l n="07">[blank]                          Old age is to life as evening is to day     day’s old age</l>
-                        <l n="08">[blank]                                                                                                 life’s setting sun</l>
-                        <l n="09">[blank]                 83     to scatter seed is to sow</l>
-                        <l n="10">[blank]                           the sun scatters its fire          sowing the god-created fire</l>
-                        <l n="11">[blank]                          call a thing by the strange name &amp; deny it some attribute of that name.</l>
-                        <l n="12">[blank]                          call the shield a “wineless cup.”</l>
-                        <l n="13">[blank]                                    [Love: Venus’s bloodless war—.] Note</l>
-                        <l n="14">[blank]                          An invented word: a coined one   sprouters for horns </l>
-                        <l n="15">[blank]                                                                                       a pray-er, a priest</l>
-                        <l n="16">[blank]                 85     The merit of diction is  to be clear &amp; not commonplace. </l>
-                        <l n="17">[blank]                                                                     ordinary words      strange ones </l>
-                        <l n="18">[blank]                 85     If a poet writes entirely in such words (unfamiliar) the result will</l>
-                        <l n="19">[blank]                                                                                                                       be jargon</l>
-                        <l n="20">[blank]                          A medley of rare words is jargon</l>
-                        <l n="21">[blank]</l>
-                        <l n="22">[blank]                89     Take     I that am small, of no account nor goodly;</l>
-                        <l n="23">[blank]                          substitute ordinary words:     I that am little and weak and ugly.</l>
-                        <l n="24">[blank]                91     Double words &amp; rare words, but by far the <hi rend="underline">greatest thing is the use</hi></l>
-                        <l n="25">[blank]                          <hi rend="underline">of metaphor</hi></l>
-                        <l n="26">[blank]                          The right use of metaphor <hi rend="underline">means an eye for resemblances</hi><quote rend="end"/>  </l>
-                        <l n="27">[blank]    <seg type="prose">IAR</seg>    To make good metaphors implies an eye for resemblances</l>
-                        <l n="28">[blank]               91   <quote rend="begin"/>1  The story must be constructed round a single piece of action.</l>
-                        <l n="29">[blank]                      2  There must be the same varieties of epic as of tragedy</l>
-                        <l n="30">[blank]                                                                        simple</l>
-                        <l n="31">[blank]                                                                        complex</l>
-                        <l n="32">[blank]                                                            turn on character or</l>
-                        <l n="33">[blank]                                                                          calamity<quote rend="end"/> </l>
-                        <l n="34">[blank]</l>
-                        <l n="35">[blank]</l>
-                        <l n="36">[blank]</l>
+                        <l n="03">[blank] <seg type="prose">p. 86</seg>                <quote rend="begin"/><hi rend="underline">Metaphor</hi> is the application of a strange term transferred fr the genus &amp;<quote rend="end"/> </l>
+                        <l n="04">[blank] <seg type="prose">&amp; 91 below</seg>     <quote rend="begin"/>applied to the species   <del>or</del>   Here stands my ship (riding at anchor is standing)<quote rend="end"/> </l>
+                        <l n="05">[blank]                          <quote rend="begin"/>from the species &amp; applied to the genus (Indeed 10 000 noble things</l>
+                        <l n="06">[blank]                          Odysseus did     for 10 000 a species of many is used instead of many)</l>
+                        <l n="07">[blank]</l>
+                        <l n="08">[blank]                          Old age is to life as evening is to day     day’s old age</l>
+                        <l n="09">[blank]                                                                                                 life’s setting sun</l>
+                        <l n="10">[blank]                 83     to scatter seed is to sow</l>
+                        <l n="11">[blank]                           the sun scatters its fire          sowing the god-created fire</l>
+                        <l n="12">[blank]</l>
+                        <l n="13">[blank]                          call a thing by the strange name &amp; deny it some attribute of the name.</l>
+                        <l n="14">[blank]                          call the shield a “wineless cup.”</l>
+                        <l n="15">[blank]                                    [Love: Venus’s bloodless war—.] Note</l>
+                        <l n="16">[blank]                          An invented word: a coined one   sprouters for horns </l>
+                        <l n="17">[blank]                                                                                       a pray-er, a priest</l>
+                        <l n="18">[blank]                 85     The merit of diction is  to be clear &amp; not commonplace. </l>
+                        <l n="19">[blank]                                                                     ordinary words      strange ones </l>
+                        <l n="20">[blank]                 85     If a poet writes entirely in such words (unfamiliar) the result will</l>
+                        <l n="21">[blank]                                                                                                                       be jargon</l>
+                        <l n="22">[blank]                          A medley of rare words is jargon</l>
+                        <l n="23">[blank]</l>
+                        <l n="24">[blank]                89     Take     I that am small, of no account nor goodly;</l>
+                        <l n="25">[blank]                          substitute ordinary words:     I that am little &amp; weak &amp; ugly.</l>
+                        <l n="26">[blank]</l>
+                        <l n="27">[blank]                91     Double words &amp; rare words, but by far the <hi rend="underline">greatest thing is the use</hi></l>
+                        <l n="28">[blank]                          <hi rend="underline">of metaphor</hi></l>
+                        <l n="29">[blank]                          The right use of metaphor <hi rend="underline">means an eye for resemblances</hi><quote rend="end"/>  </l>
+                        <l n="30">[blank]    <seg type="prose">IAR</seg>    To make good metaphors implies an eye for resemblances</l>
+                        <l n="31">[blank]               91   <quote rend="begin"/>1  The story must be constructed round a single piece of action.</l>
+                        <l n="32">[blank]                      2  There must be the same varieties of epic as of tragedy</l>
+                        <l n="33">[blank]                                                                        simple</l>
+                        <l n="34">[blank]                                                                        complex</l>
+                        <l n="35">[blank]                                                            turn on character or</l>
+                        <l n="36">[blank]                                                                          calamity<quote rend="end"/> </l>
                         <l n="37">[blank]</l>
                         <l n="38">[blank]</l>
                         <l n="39">[blank]</l>
