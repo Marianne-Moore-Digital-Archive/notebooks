@@ -5359,34 +5359,35 @@
                         <l n="04">[blank]                         The Wright Brothers</l>
                         <l n="05">[blank]                     Bleriot crossed the channel in 1909</l>
                         <l n="06">[blank]                      Alcock &amp; Brown fr. Newfoundland &amp; Ireland  1919</l>
-                        <l n="07">[blank]                       Lindbergh to Paris 1927[blank]</l>
-                        <l n="09">[blank]            II   p. 11  the plane is subject to forces caused by the air but all are</l>
-                        <l n="10">[blank]                  represented by 4 major forces.          <add>a</add> </l>
-                        <l n="11">[blank]                                Gravity     always the same w slight variation due to fuel consumption</l>
-                        <l n="12">[blank]                                lift    &amp;gt; or &amp;lt;   weight of the plan depending on energy for forward</l>
-                        <l n="13">[blank]                                Pull    of the propeller counteracted by                                <add>motion</add> </l>
-                        <l n="14">[blank]                                drag    (air resistance)</l>
-                        <l n="15">[blank]                 Drag               (the drag is always equal to the pull) tho the pull can be</l>
-                        <l n="16">[blank]                                                                                                                                 varied </l>
+                        <l n="07">[blank]                       Lindbergh to Paris 1927</l>
+                        <l n="08">[blank]            II   p. 11  the plane is subject to forces caused by the air but all are</l>
+                        <l n="09">[blank]                  represented by 4 major forces.          <add>a</add> </l>
+                        <l n="10">[blank]                                Gravity     always the same w slight variation due to fuel consumption</l>
+                        <l n="11">[blank]                                lift    &amp;gt; or &amp;lt;   weight of the plan depending on energy for forward</l>
+                        <l n="12">[blank]                                Pull    of the propeller counteracted by                                motion </l>
+                        <l n="13">[blank]                                drag    (air resistance)</l>
+                        <l n="14">[blank]                 Drag               (the drag is always equal to the pull) tho the pull can be</l>
+                        <l n="15">[blank]                                                                                                                                 varied </l>
+                        <l n="16">[blank]</l>
                         <l n="17">[blank]</l>
                         <l n="18">[blank]</l>
-                        <l n="19">[blank]</l>
-                        <l n="20">[blank]                                 like a fish (least drag)<quote rend="end"/> </l>
-                        <l n="21">[blank] <hi rend="pencil">Donald</hi> </l>
-                        <l n="22">[blank] <hi rend="pencil">Windham</hi> <note>Windham, Donald [1920-2010]. American writer from Atlanta who moved to New York in 1939, where he became friends with Tennessee Williams and W.H. Auden, among others.</note> 273     <quote rend="begin"/>In flight, the air under the wing is as solid as the railroad track under the train<quote rend="end"/></l>
-                        <l n="23">[blank]</l>
-                        <l n="24">[blank]                       <bibl type="begin"/>Words for Music      VC Clinton-Baddeley<note>Clinton-Baddeley, Victor Vaughan Reynolds Geraint Clinton [1900-1970]. English actor, author, and playwright.</note>    Cambridge Press 1941<bibl type="end"/> <note>Clinton-Baddeley, V.C. <hi rend="italics">Words for Music</hi>. New York: Cambridge UP, 1941. </note> </l>
-                        <l n="25">[blank]                       14      <quote rend="begin"/>see, see, mine own jewel,</l>
-                        <l n="26">[blank]                                 See what I have here for my darling:</l>
-                        <l n="27">[blank]                                 A robin-redbreast &amp; a starling</l>
-                        <l n="28">[blank]                                 This I give both, in hope to move thee—                                      <add>Ault</add> </l>
-                        <l n="29">[blank]                                 And yet thou say’st I do no love thee.<seg type="verseend"/>    reconstruction of Norman </l>
-                        <l n="30">[blank]                                                                                                                   in Eliz. Lyrics (1925)</l>
-                        <l n="31">[blank]                      23    <seg type="versebegin"/>When-as I view your comely grace</l>
-                        <l n="32">[blank]                               Caleno—Custure Me,</l>
-                        <l n="33">[blank]                               Your golden hairs and your angel face<seg type="verseend"/>—Pistol refers to this in Henry V</l>
-                        <l n="34">[blank]                               <seg type="verse">Caleno etc.</seg>                                                                                         Act iv  Sc. 4</l>
-                        <l n="35">[blank]                      33    The “incompleteness” of the written word takes special form in different types of<quote rend="end"/> </l>
+                        <l n="19">[blank]                                 like a fish (least drag)<quote rend="end"/> </l>
+                        <l n="20">[blank] <hi rend="pencil">Donald</hi> </l>
+                        <l n="21">[blank] <hi rend="pencil">Windham</hi> <note>Windham, Donald [1920-2010]. American writer from Atlanta who moved to New York in 1939, where he became friends with Tennessee Williams and W.H. Auden, among others.</note> 273     <quote rend="begin"/>In flight, the air under the wing is as solid as the railroad<quote rend="end"/></l>
+                        <l n="22">[blank]                                track under the train.</l>
+                        <l n="23">[blank]                       <bibl type="begin"/>Words for Music      VC Clinton-Baddeley<note>Clinton-Baddeley, Victor Vaughan Reynolds Geraint Clinton [1900-1970]. English actor, author, and playwright.</note>    Cambridge Press 1941<bibl type="end"/> <note>Clinton-Baddeley, V.C. <hi rend="italics">Words for Music</hi>. New York: Cambridge UP, 1941. </note> </l>
+                        <l n="24">[blank]                       14      <quote rend="begin"/>see, see, mine own jewel,</l>
+                        <l n="25">[blank]                                 See what I have here for my darling:</l>
+                        <l n="26">[blank]                                 A robin-redbreast &amp; a starling</l>
+                        <l n="27">[blank]                                 This I give both, in hope to move thee—                                      <add>Ault</add> </l>
+                        <l n="28">[blank]                                 And yet thou say’st I do no love thee.<seg type="verseend"/>    reconstruction of Norman </l>
+                        <l n="29">[blank]                                                                                                                   in Eliz. Lyrics (1925)</l>
+                        <l n="30">[blank]                      23    <seg type="versebegin"/>When-as I view your comely grace</l>
+                        <l n="31">[blank]                               Caleno—Custure Me,</l>
+                        <l n="32">[blank]                               Your golden hairs and your angel face<seg type="verseend"/>—Pistol refers to this in Henry V</l>
+                        <l n="33">[blank]                               <seg type="verse">Caleno etc.</seg>                                                                                         Act iv  Sc. 4</l>
+                        <l n="34">[blank]                      33    The “incompleteness” of the written word takes special form in different types of<quote rend="end"/> </l>
+                        <l n="35">[blank]</l>
                         <l n="36">[blank]</l>
                         <l n="37">[blank]</l>
                         <l n="38">[blank]</l>
