@@ -488,7 +488,7 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0007-recto.jpeg" n="0007-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM places a left curly bracket to the
                         left of the two phrases beginning "partly by" that end lines 07 and
-                        08.&amp;gt;</desc>
+                        08.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                          <add>describes</add> </l>
                         <l n="02">[blank] POETICS Plato  :   <quote rend="begin"/><note>Aristotle, <hi rend="italics">Poetics</hi> (see earlier note). </note>mere technical display as “a beastly noise.”<note>MM cites this in "Feeling and Precision" (<hi rend="italics">Prose</hi> 398). </note>    <hi rend="pencil">||</hi> </l>
@@ -4205,8 +4205,7 @@
             <div type="image" xml:id="nb07_02_03_0071_text">
                 <div type="page" n="r.0071" xml:id="nb07_02_03_0071_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0071-recto.jpeg" n="0071-recto"/>
-                    <desc>[Page-level Description] &amp;lt;!The underlining of lines 02, 14, 18, and
-                        28 is doubled with a wavy line.!&amp;gt;</desc>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of lines 02, 16, 21, and 31 is doubled with a wavy line.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                         <quote rend="begin"/> <note>James, <hi rend="italics">Novel</hi> (see earlier note).</note>Preface to “The Reverberator” (1888) Macmillan’s Mag.</l>
                         <l n="02">[blank]                180   a <hi rend="underline">jeu d’esprit</hi> . . . an exemplary anecdote, and at the same time . . .</l>
@@ -4250,7 +4249,7 @@
                         <l n="40">[blank]</l>
                     </lg>
                     <lg type="vertical">
-                        <l n="v01">[vertical line] &amp;lt;!desc: lines 36-30, left margin!&amp;gt;was to be stored up.</l>
+                        <l n="v01">[vertical line] &amp;lt;!desc: lines 39-33, left margin!&amp;gt;was to be stored up.</l>
                         <l n="v02">[vertical line]</l>
                         <l n="v03">[vertical line]</l>
                         <l n="v04">[vertical line]</l>
