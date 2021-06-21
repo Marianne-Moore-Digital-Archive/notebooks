@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?>
-<TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <teiHeader>
             <fileDesc>
@@ -12,17 +11,17 @@
                     </editor>
                     <respStmt>
                         <persName/>
-                        <resp>Proofreader</resp>
+                        <resp>Proofreader: Cristanne Miller</resp>
                     </respStmt>
                     <respStmt>
                         <persName/>Proofreader</respStmt>
                     <editor>
-                        <persName></persName>
+                        <persName/>
                         <note>Digital Editor</note>
                     </editor>
                     <respStmt> </respStmt>
                     <respStmt>
-                        <persName></persName>
+                        <persName/>
                         <resp>Web Administrator</resp>
                     </respStmt>
                 </titleStmt>
@@ -43,13 +42,13 @@
                         <licence>[License info]</licence>
                     </availability>
                     <idno>07.03.07</idno>
-                    <date></date>
+                    <date/>
                 </publicationStmt>
                 <sourceDesc>
                     <msDesc>
                         <msIdentifier>
-                            <repository></repository>
-                            <idno></idno>
+                            <repository/>
+                            <idno/>
                         </msIdentifier>
                     </msDesc>
                 </sourceDesc>
@@ -70,7 +69,7 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_03_07_0001-recto.jpg" n="0001-recto"/>
                     <desc>page description</desc>
                     <lg>
-                        <l n="01"></l>
+                        <l n="01"/>
                     </lg>
                 </div>
             </div>
@@ -79,7 +78,7 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_03_07_0002-verso.jpg" n="0002-verso"/>
                     <desc>page description</desc>
                     <lg>
-                        <l n="01"></l>
+                        <l n="01"/>
                     </lg>
                 </div>
             </div>
@@ -88,7 +87,7 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_03_07_0003-verso.jpg" n="0003-recto"/>
                     <desc>page description</desc>
                     <lg>
-                        <l n="01"></l>
+                        <l n="01"/>
                     </lg>
                 </div>
             </div>
@@ -97,7 +96,7 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_03_07_0004-recto.jpg" n="0004-recto"/>
                     <desc>page description</desc>
                     <lg>
-                        <l n="01"></l>
+                        <l n="01"/>
                     </lg>
                 </div>
             </div>
@@ -106,7 +105,7 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_03_07_0005-verso.jpg" n="0005-recto"/>
                     <desc>page description</desc>
                     <lg>
-                        <l n="01"></l>
+                        <l n="01"/>
                     </lg>
                 </div>
             </div>
