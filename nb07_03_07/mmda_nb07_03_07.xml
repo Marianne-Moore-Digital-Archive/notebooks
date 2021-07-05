@@ -113,9 +113,9 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_03_07_0002_text">
-                <div type="page" n="r.0001" xml:id="nb07_03_07_0002_verso_text">
+                <div type="page" n="v.0001" xml:id="nb07_03_07_0002_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_03_07_0002-verso.jpg" n="0002-verso"/>
-                    <desc>page description</desc>
+                    <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]</l>
                         <l n="02">[blank]</l>
@@ -160,10 +160,10 @@
                     </lg>
                 </div>
             </div>
-            <div type="image" xml:id="nb07_03_07_0003_verso_text">
-                <div type="page" n="r.0001" xml:id="nb07_03_07_0003_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_03_07_0003-verso.jpg" n="0003-recto"/>
-                    <desc>page description</desc>
+            <div type="image" xml:id="nb07_03_07_0003_text">
+                <div type="page" n="r.0001" xml:id="nb07_03_07_0003_recto_text">
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_03_07_0003-recto.jpg" n="0003-recto"/>
+                    <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]</l>
                         <l n="02">[blank]</l>
@@ -208,10 +208,10 @@
                     </lg>
                 </div>
             </div>
-                        <div type="image" xml:id="nb07_03_07_0004_recto_text">
-                <div type="page" n="r.0001" xml:id="nb07_03_07_0004_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_03_07_0004-recto.jpg" n="0004-recto"/>
-                    <desc>page description</desc>
+                        <div type="image" xml:id="nb07_03_07_0004_text">
+                <div type="page" n="v.0001" xml:id="nb07_03_07_0004_verso_text">
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_03_07_0004-verso.jpg" n="0004-verso"/>
+                    <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]</l>
                         <l n="02">[blank]</l>
@@ -256,12 +256,51 @@
                     </lg>
                 </div>
             </div>
-                        <div type="image" xml:id="nb07_03_07_0005_verso_text">
-                <div type="page" n="r.0001" xml:id="nb07_03_07_0005_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_03_07_0005-verso.jpg" n="0005-recto"/>
-                    <desc>page description</desc>
+                        <div type="image" xml:id="nb07_03_07_0005_text">
+                <div type="page" n="r.0001" xml:id="nb07_03_07_0005_recto_text">
+                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_03_07_0005-recto.jpg" n="0005-recto"/>
+                    <desc>[Page-level Description]</desc>
                     <lg>
-                        <l n="01"/>
+                        <l n="01">[blank]</l>
+                        <l n="02">[blank]</l>
+                        <l n="03">[blank]</l>
+                        <l n="04">[blank]</l>
+                        <l n="05">[blank]</l>
+                        <l n="06">[blank]</l>
+                        <l n="07">[blank]</l>
+                        <l n="08">[blank]</l>
+                        <l n="09">[blank]</l>
+                        <l n="10">[blank]</l>
+                        <l n="11">[blank]</l>
+                        <l n="12">[blank]</l>
+                        <l n="13">[blank]</l>
+                        <l n="14">[blank]</l>
+                        <l n="15">[blank]</l>
+                        <l n="16">[blank]</l>
+                        <l n="17">[blank]</l>
+                        <l n="18">[blank]</l>
+                        <l n="19">[blank]</l>
+                        <l n="20">[blank]</l>
+                        <l n="21">[blank]</l>
+                        <l n="22">[blank]</l>
+                        <l n="23">[blank]</l>
+                        <l n="24">[blank]</l>
+                        <l n="25">[blank]</l>
+                        <l n="26">[blank]</l>
+                        <l n="27">[blank]</l>
+                        <l n="28">[blank]</l>
+                        <l n="29">[blank]</l>
+                        <l n="30">[blank]</l>
+                        <l n="31">[blank]</l>
+                        <l n="32">[blank]</l>
+                        <l n="33">[blank]</l>
+                        <l n="34">[blank]</l>
+                        <l n="35">[blank]</l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]</l>
+                        <l n="38">[blank]</l>
+                        <l n="39">[blank]</l>
+                        <l n="40">[blank]</l>
                     </lg>
                 </div>
             </div>
