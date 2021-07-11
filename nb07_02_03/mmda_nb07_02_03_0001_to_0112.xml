@@ -2874,7 +2874,7 @@
                         <l n="10">[blank]                         . . . . . . </l>
                         <l n="11">[blank]      No 344      <seg type="versebegin"/>But the night is Hallowe’en, lady,</l>
                         <l n="12">[blank]                              The morn is Hallowday</l>
-                        <l n="13">[blank]                                <add>turn</add> </l>
+                        <l n="13">[blank]                                <add>. . .</add> <add>turn</add> </l>
                         <l n="14">[blank]                  They'll turn me in your arms, lady,                 And last they’ll turn me in your arms</l>
                         <l n="15">[blank]                         Into an esk and adder,                                       Into the burning lead:</l>
                         <l n="16">[blank]                    But hold me fast and fear me not                    Then throw me into well water;</l>
@@ -2883,10 +2883,10 @@
                         <l n="19">[blank]                  They'll turn me to a bear sae grim,               And then I'll be your ain true love,</l>
                         <l n="20">[blank]                         And then a lion bold;                             _____                . . . . . </l>
                         <l n="21">[blank]                     But hold me fast and fear me not,                     Gloomy, gloomy was the night,</l>
-                        <l n="22">[blank]                        As ye shall love your child.                       <del>About the middle o' the night</del> </l>
-                        <l n="23">[blank]                                                                                                        And eerie was the way,</l>
+                        <l n="22">[blank]                        As ye shall love your child.                      <del>About the middle o' the night</del> </l>
+                        <l n="23">[blank]                                                                                             ^           And eerie was the way,</l>
                         <l n="24">[blank]                    Again they'll turn me in your arms             As fair Jenny in her green mantle,</l>
-                        <l n="25">[blank]                         To a red het gaud of airn;                      ____ To Milecross she did gae.</l>
+                        <l n="25">[blank]                         To a red het gaud of <del>iron</del> airn;                      ____ To Milecross she did gae.</l>
                         <l n="26">[blank]                    But hold me fast &amp; fear me not,                  About the middle o’ the night,</l>
                         <l n="27">[blank]                         I'll do to you nae harm.                                      She heard the bridles ring;</l>
                         <l n="28">[blank]                                                                                                   This lady was as glad at that</l>
