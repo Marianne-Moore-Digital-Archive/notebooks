@@ -3005,7 +3005,7 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0053-recto.jpeg" n="0053-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
-                        <l n="01">[blank]                                                          <note>Traherne, Thomas. <hi rend="italics">The Poetical Works</hi> (see earlier note).</note><quote rend="begin"/>                                                                                                                 25</l>
+                        <l n="01">[blank]                                                          <note>Traherne, Thomas. <hi rend="italics">The Poetical Works</hi> (see earlier note).</note><quote rend="begin">                                                                               </quote>                                                                                                                 25</l>
                         <l n="02">[blank]                                 <seg type="verse begin"/>What powerful Spirit lives within!</l>
                         <l n="03">[blank]                            What active Angel doth inhabit here!</l>
                         <l n="04">[blank]                                 What heavenly light inspires my skin,</l>
@@ -3062,7 +3062,7 @@
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]          <note>Traherne, Thomas. <hi rend="italics">The Poetical Works</hi> (see earlier note).</note><quote rend="begin"/><seg type="verse begin"/>As in a Clock 'tis hinder'd Force doth bring</l>
-                        <l n="02">[blank]          The Wheels to ordered Motion by a Spring;</l>
+                        <l n="02">[blank]          The wheels to ordered Motion by a Spring;</l>
                         <l n="03">[blank]          Which order'd Motion guides a steddy Hand</l>
                         <l n="04">[blank]          In useful sort at Figures just to stand;</l>
                         <l n="05">[blank]          Which, were it not by Counter-ballance staid,</l>
@@ -3121,7 +3121,7 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0055-recto.jpeg" n="0055-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
-                        <l n="01">[blank]   <note> Continued from <hi rend="italics">Life</hi> (5 July 1923), previous page.</note><quote rend="begin"/>by his fire and was gradually getting calmed</l>
+                        <l n="01">[blank]   <note> Continued from <hi rend="italics">Life</hi> (5 July 1923), previous page.</note><quote rend="begin"/>by his fire and was gradually getting calmed                    26           </l>
                         <l n="02">[blank]   down when the cat, which had been sitting there</l>
                         <l n="03">[blank]   too, got up slowly and walked across the room.</l>
                         <l n="04">[blank]               The master turned on her and said indignantly,</l>
