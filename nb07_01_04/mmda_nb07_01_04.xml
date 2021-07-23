@@ -6041,14 +6041,14 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0107-recto.jpeg" n="0107-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
-                        <l n="01">[blank]   <note> Gay, John. <hi rend="italics">The Poetical Works</hi> (see earlier note). </note>  <seg type="verse begin"/> <quote rend="begin"/>Blood stuff'd in skins is British Christian's food,</l>
-                        <l n="02">[blank]      And France robs marshes of the croaking brood;</l>
-                        <l n="03">[blank]      Spongy morels in strong ragouts are found,</l>
-                        <l n="04">[blank]      And in the soup the slimy snail is drown'd.<seg type="verse end"/><quote rend="end"/></l>
+                        <l n="01">[blank]   <note> Gay, John. <hi rend="italics">The Poetical Works</hi> (see earlier note). </note>  <seg type="verse begin"/> <quote rend="begin">       </quote>Blood stuff'd in skins is British Christian's food,</l>
+                        <l n="02">[blank]     And France robs marshes of the croaking brood;            52</l>
+                        <l n="03">[blank]     Spongy morels in strong ragouts are found,</l>
+                        <l n="04">[blank]      And in the soup the slimy snail is drown'd.<seg type="verse end"/><quote rend="end"/></l>
                         <l n="05">[blank]</l>
                         <l n="06">[blank]</l>
-                        <l n="07">[blank]      Advertisement (to Trivia) p. 204</l>
-                        <l n="08">[blank]    <quote rend="begin"/>gentlemen if there be anything in the Poem good</l>
+                        <l n="07">[blank]        Advertisement (to Trivia) p. 204</l>
+                        <l n="08">[blank]    <quote rend="begin">   </quote>gentlemen if there be anything in the Poem good</l>
                         <l n="09">[blank]   enough to displease you, and if it be any advantage to</l>
                         <l n="10">[blank]   you to ascribe it to some persons of greater merit, I</l>
                         <l n="11">[blank]   shall acquaint you for your comfort, that among</l>
@@ -6056,9 +6056,9 @@
                         <l n="13">[blank]   it to Dr. Swift. . . . etc.</l>
                         <l n="14">[blank]</l>
                         <l n="15">[blank]   The Shepherds week: Thursday or the Spell 55</l>
-                        <l n="16">[blank]      <seg type="verse begin"/>upon a gooseberry bush a snail I found.</l>
-                        <l n="17">[blank]      . . . . . . . . . </l>
-                        <l n="18">[blank]      I seiz'd the vermin, home I quickly sped<quote rend="end"/></l>
+                        <l n="16">[blank]      <seg type="verse begin">         </seg>upon a gooseberry bush a snail I found.</l>
+                        <l n="17">[blank]               . . . . . . . . . </l>
+                        <l n="18">[blank]          I seiz'd the vermin, home I quickly sped<quote rend="end"/></l>
                         <l n="19">[blank]</l>
                         <l n="20">[blank]</l>
                         <l n="21">[blank]</l>
@@ -6102,7 +6102,7 @@
                         <l n="03">[blank]      In the soft ashes mark<del>e</del>'d a curious L:</l>
                         <l n="04">[blank]  61                                                <add>(dairy)</add>     </l>
                         <l n="05">[blank]      Friday; or, the Dirge.    For there her goodly countenance I've seen</l>
-                        <l n="06">[blank]                                                off w kerchief starch'd &amp; cinners clean.</l>
+                        <l n="06">[blank]                                                off w kerchief starch'd &amp; pinners clean.</l>
                         <l n="07">[blank]       Sometimes, like wax, she rolls the butter round,</l>
                         <l n="08">[blank]       Or with the wooden lily prints the pound.<seg type="verse end"/><quote rend="end"/></l>
                         <l n="09">[blank]</l>
