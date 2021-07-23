@@ -6501,8 +6501,8 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0115-recto.jpeg" n="0115-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
-                        <l n="01">[blank]  <note> Ad for Lotus and Delta Shoes (see earlier note).</note>  <quote>For all men &amp; most occasions</quote>                         56</l>
-                        <l n="02">[blank]                                        drawings by</l>
+                        <l n="01">[blank]  <note> Ad for Lotus and Delta Shoes (see earlier note).</note>  <quote>For all men &amp; most occasions                                          </quote>                         56</l>
+                        <l n="02">[blank]                           drawings by</l>
                         <l n="03">[blank]   <bibl rend="begin"/>Nursery Rhymes:  Leslie Brooke</l>
                         <l n="04">[blank]   F. Warne &amp; Co. London<bibl rend="end"/>.<note>  <hi rend="italics">Nursery Rhymes With Drawings by Leslie Brooke</hi>. London: Frederick Warne &amp; Co., 1916.</note>   </l>
                         <l n="05">[blank] </l>
@@ -6626,12 +6626,12 @@
                         <l n="11">[blank]               The knight he loves his bright sword,</l>
                         <l n="12">[blank]     The lady--loves her will.<seg type="verse end"/></l>
                         <l n="13">[blank]</l>
-                        <l n="14">[blank]             <bibl type="begin"/>Best Poems of 1922       Thos. Moult  Harcourt</l>
+                        <l n="14">[blank]             <bibl type="begin">  </bibl>Best Poems of 1922       Thos. Moult  Harcourt</l>
                         <l n="15">[blank]         Thomas Hardy<note>  Hardy, Thomas [1840-1928]. English novelist and poet. MM reviewed some of his fiction and referred to him frequently in her essays.</note>: An Ancient to Ancients<bibl type="end"/><note>Hardy, Thomas. "An Ancient to Ancients." <hi rend="italics">The Best Poems of 1922.</hi> Ed. Thomas Moult. New York: Harcourt, 1923.</note></l>
                         <l n="16">[blank]               </l>
-                        <l n="17">[blank]                <seg type="verse begin"/><quote rend="begin"/>Where once we danced, where once we sang,</l>
-                        <l n="18">[blank]                            Gentlemen</l>
-                        <l n="19">[blank]                The floors are sunken, cobwebs hang,<seg type="verse end"/><quote rend="end"/></l>
+                        <l n="17">[blank]                <seg type="verse begin"/><quote rend="begin">      </quote>Where once we danced, where once we sang,</l>
+                        <l n="18">[blank]                 gentlemen</l>
+                        <l n="19">[blank]       The floors are sunken, cobwebs hang,<seg type="verse end"/><quote rend="end"/></l>
                         <l n="20">[blank]</l>
                         <l n="21">[blank]</l>
                         <l n="22">[blank]</l>
@@ -6669,12 +6669,12 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0118-verso.jpeg" n="0118-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
-                        <l n="01">[blank]           <note>Hardy, Thomas. "An Ancient to Ancients" (see earlier note).</note><quote rend="begin"/><seg type="verse begin"/>And crack creep; worms have fed upon</l>
+                        <l n="01">[blank]           <note>Hardy, Thomas. "An Ancient to Ancients" (see earlier note).</note><quote rend="begin"/><seg type="verse begin"/>And cracks creep; worms have fed upon</l>
                         <l n="02">[blank]     The doors. Yea! sprightlier times were then</l>
                         <l n="03">[blank]     Than now, with harps and tabrets gone,</l>
                         <l n="04">[blank]                       Gentlemen!</l>
                         <l n="05">[blank]          Where once we rowed, where once we sailed,</l>
-                        <l n="06">[blank]                       Gentlemen,</l>
+                        <l n="06">[blank]                       Gentlemen.</l>
                         <l n="07">[blank]           And damsels took the tiller, veiled</l>
                         <l n="08">[blank]           Against too strong a stare (God wot</l>
                         <l n="09">[blank]           Their fancy, then or anywhen!)</l>
