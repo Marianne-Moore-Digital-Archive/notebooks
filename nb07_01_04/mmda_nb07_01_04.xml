@@ -959,21 +959,21 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0017-recto.jpeg" n="0017-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
-                        <l n="01">[blank]             <quote rend="begin"/> <seg type="verse begin"/>For he blew<note>Chalmers, Patrick R. "The Little Young Lambs" (see earlier note)<hi rend="italics"/>.</note></l>
-                        <l n="02">[blank]          That he knew                                                                <bibl type="Source begin"/>Spectator Dec  30 1922       7</l>
+                        <l n="01">[blank]             <quote rend="begin"/>     <seg type="verse begin"/>For he blew<note>Chalmers, Patrick R. "The Little Young Lambs" (see earlier note)<hi rend="italics"/>.</note></l>
+                        <l n="02">[blank]     That he knew                                                                <bibl type="Source begin">                                     </bibl>Spectator Dec  30 1922        7</l>
                         <l n="03">[blank]    Why the seasons went round</l>
-                        <l n="04">[blank]      An' why green the wheat grew                                  Terminology<note>Rickword, Edgell. "Terminology" was the first poem in Rickword's Invocation to Angels and The Happy New Year (London: Wishart, 1928).</note>: Edgell Rickword<note type="glossary">Rickword.Edgell [1898-1982]. English poet, critic, journalist, who became a leading Communist intellectual during the 1930s.</note><bibl type="source end"/></l>
-                        <l n="05">[blank]  <seg type="verse begin">An' why rain follows sun,                                        The curious elephants,</seg></l>
-                        <l n="06">[blank]    <seg type="verse">An' how sun follows rain,                                                              like women grown</seg></l>
-                        <l n="07">[blank]    An' how everything's done                                    Too gentle in a habit not their</l>
-                        <l n="08">[blank]    To be started again,                                                                                                   own,</l>
-                        <l n="09">[blank]  Till the stars like ripe acorns shall fall;                                   And all fierce lives</l>
-                        <l n="10">[blank]  An' he piped 'em his derry down derry,                                         Subdued to what they seem,</l>
-                        <l n="11">[blank]               he did,                                                              Shed their coarse husks</l>
-                        <l n="12">[blank]      Along of it all.<seg type="verse end"/>                                                                              &amp; naked in Time's stream</l>
-                        <l n="13">[blank]                                                                                         Stand up unsullied out of</l>
-                        <l n="14"><quote rend="end"/>[blank]                                                                                                             <seg type="verse end">the Sun's beam.<quote rend="end"/></seg></l>
-                        <l n="15">[blank]                                                            see Promenade Sentimentale<note type="glossary">Perhaps a poem by Paul Verlaine [1844-1896], French poet associated with the Symbolist and Decadent movements. "Promenade sentimentale" appears in Verlaine's first book, <hi rend="italics">Poèmes saturniens</hi> (1866). Several paintings and a piece by Claude Debussy [1862-1918] also take this title.</note>   Dec 30<note>[!NICK: I don't know how to indicate that there are 2 separate columns of verse here, the one on the right beginning several lines lower than on the left; ditto for marking "quotation"; i've marked whole page as 1 quot'n!]</note></l>
+                        <l n="04">[blank]     An' why green the wheat grew        Terminology<note>Rickword, Edgell. "Terminology" was the first poem in Rickword's Invocation to Angels and The Happy New Year (London: Wishart, 1928).</note>: Edgell Rickword<note type="glossary">Rickword.Edgell [1898-1982]. English poet, critic, journalist, who became a leading Communist intellectual during the 1930s.</note><bibl type="source end"/></l>
+                        <l n="05">[blank]       <seg type="verse begin">An' why rain follows sun,             The curious elephants,</seg></l>
+                        <l n="06">[blank]      <seg type="verse">An' how sun follows rain,                                     like women grown</seg></l>
+                        <l n="07">[blank]       An' how everything's done            Too gentle in a habit not their</l>
+                        <l n="08">[blank]    To be started again,                                                                     own,</l>
+                        <l n="09">[blank]  Till the stars like ripe acorns shall fall;    And all fierce lives</l>
+                        <l n="10">[blank]  An' he piped 'em his derry down derry,              Subdued to what they seem,</l>
+                        <l n="11">[blank]                 he did,                                     Shed their coarse husks</l>
+                        <l n="12">[blank]               Along of it all.<seg type="verse end"/>                                         &amp; naked in Time's stream</l>
+                        <l n="13">[blank]                                                                  Stand up unsullied out of</l>
+                        <l n="14"><quote rend="end"/>[blank]                                                                                     <seg type="verse end">the Sun's beam.<quote rend="end"/></seg></l>
+                        <l n="15">[blank]                                               see Promenade Sentimentale<note type="glossary">Perhaps a poem by Paul Verlaine [1844-1896], French poet associated with the Symbolist and Decadent movements. "Promenade sentimentale" appears in Verlaine's first book, <hi rend="italics">Poèmes saturniens</hi> (1866). Several paintings and a piece by Claude Debussy [1862-1918] also take this title.</note>   Dec 30<note>[!NICK: I don't know how to indicate that there are 2 separate columns of verse here, the one on the right beginning several lines lower than on the left; ditto for marking "quotation"; i've marked whole page as 1 quot'n!]</note></l>
                         <l n="16">[blank]</l>
                         <l n="17">[blank]</l>
                         <l n="18">[blank]</l>
