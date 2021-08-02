@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -30,7 +26,7 @@
             <p><orgName>Rosenbach Museum and Library</orgName>,<placeName>Philadelphia</placeName></p>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
+      <xenoData/><encodingDesc>
          <projectDesc>
             <p>Project Description</p>
          </projectDesc>
