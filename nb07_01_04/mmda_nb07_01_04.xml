@@ -6501,25 +6501,25 @@
                     <pb xmlns="" facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0115-recto.jpeg" n="0115-recto"/>
                     <desc xmlns="">[Page-level Description]</desc>
                     <lg xmlns="">
-                        <l xmlns="" n="01">[blank]  <note xmlns=""> Ad for Lotus and Delta Shoes (see earlier note).</note>  <quote xmlns="">For all men &amp; most occasions                                          </quote>                         56</l>
-                        <l xmlns="" n="02">[blank]                           drawings by</l>
-                        <l xmlns="" n="03">[blank]   <bibl xmlns="" rend="begin"/>Nursery Rhymes:  Leslie Brooke</l>
-                        <l xmlns="" n="04">[blank]   F. Warne &amp; Co. London<bibl xmlns="" rend="end"/>.<note xmlns="">  <hi xmlns="" rend="italics">Nursery Rhymes With Drawings by Leslie Brooke</hi>. London: Frederick Warne &amp; Co., 1916.</note>   </l>
+                        <l xmlns="" n="01">[blank]  <note xmlns=""> Ad for Lotus and Delta Shoes (see earlier note).</note>  <quote xmlns="">             For all men &amp; most occasions                                          </quote>                         56</l>
+                        <l xmlns="" n="02">[blank]                                drawings by</l>
+                        <l xmlns="" n="03">[blank]     <bibl xmlns="" rend="begin"/>Nursery Rhymes:   Leslie Brooke</l>
+                        <l xmlns="" n="04">[blank]      F. Warne &amp; Co. London<bibl xmlns="" rend="end"/>.<note xmlns="">  <hi xmlns="" rend="italics">Nursery Rhymes With Drawings by Leslie Brooke</hi>. London: Frederick Warne &amp; Co., 1916.</note>   </l>
                         <l xmlns="" n="05">[blank] </l>
-                        <l xmlns="" n="06">[blank]   <seg xmlns="" type="verse begin"/><quote xmlns="" rend="begin"/>There was a frog lived in a well</l>
-                        <l xmlns="" n="07">[blank]     Kitty alone, Kitty alone;</l>
+                        <l xmlns="" n="06">[blank]   <seg xmlns="" type="verse begin">    </seg><quote xmlns="" rend="begin"/>There was a frog lived in a well</l>
+                        <l xmlns="" n="07">[blank]         Kitty alone, Kitty alone;</l>
                         <l xmlns="" n="08">[blank]     There was a frog liv'd in a well</l>
                         <l xmlns="" n="09">[blank]         Kitty alone &amp; I!</l>
                         <l xmlns="" n="10">[blank]</l>
-                        <l xmlns="" n="11">[blank]   There was a frog lived in a well,</l>
-                        <l xmlns="" n="12">[blank]     And a farce mouse in a <del xmlns="">n</del><add xmlns="">m</add>ill</l>
-                        <l xmlns="" n="13">[blank]         Cock me carry, Kitty alone</l>
+                        <l xmlns="" n="11">[blank]     There was a frog lived in a well,</l>
+                        <l xmlns="" n="12">[blank]        And a farce mouse in a <del xmlns="">n</del><add xmlns="">m</add>ill</l>
+                        <l xmlns="" n="13">[blank]              Cock me carry,  Kitty alone</l>
                         <l xmlns="" n="14">[blank]                                       "        "       &amp; I</l>
-                        <l xmlns="" n="15">[blank]   This frog he would a-wooing ride</l>
-                        <l xmlns="" n="16">[blank]     Kitty etc</l>
-                        <l xmlns="" n="17">[blank]   "     "     "        "     "      "     "   "</l>
-                        <l xmlns="" n="18">[blank]      and on a snail he got astride</l>
-                        <l xmlns="" n="19">[blank]         Cock me carry etc<seg xmlns="" type="verse end"/><quote xmlns="" rend="end"/></l>
+                        <l xmlns="" n="15">[blank]     This frog he would a-wooing ride</l>
+                        <l xmlns="" n="16">[blank]           Kitty etc</l>
+                        <l xmlns="" n="17">[blank]      "     "     "        "     "      "     "   "</l>
+                        <l xmlns="" n="18">[blank]           and on a snail he got astride</l>
+                        <l xmlns="" n="19">[blank]                   Cock me carry etc<seg xmlns="" type="verse end"/><quote xmlns="" rend="end"/></l>
                         <l xmlns="" n="20">[blank]</l>
                         <l xmlns="" n="21">[blank]</l>
                         <l xmlns="" n="22">[blank]</l>
