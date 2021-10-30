@@ -6613,8 +6613,8 @@
                     <pb xmlns="" facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0117-recto.jpeg" n="0117-recto"/>
                     <desc xmlns="">[Page-level Description]</desc>
                     <lg xmlns="">
-                        <l xmlns="" n="01">[blank]           <note xmlns=""><hi xmlns="" rend="italics">Nursery Rhymes With Drawings by Leslie Brooke</hi> (see earlier note).</note> <seg xmlns="" type="verse begin">                </seg><quote xmlns="" rend="begin"> </quote>The frog he came whistling through the brook</l>
-                        <l xmlns="" n="02">[blank]    . .     "</l>
+                        <l xmlns="" n="01">[blank]           <note xmlns=""><hi xmlns="" rend="italics">Nursery Rhymes With Drawings by Leslie Brooke</hi> (see earlier note).</note> <seg xmlns="" type="verse begin">                </seg><quote xmlns="" rend="begin">  </quote>The frog he came whistling through the brook</l>
+                        <l xmlns="" n="02">[blank]     . .     "</l>
                         <l xmlns="" n="03">[blank]       And there he met with a dainty duck</l>
                         <l xmlns="" n="04">[blank]          . . .</l>
                         <l xmlns="" n="05">[blank]     This duck she swallowed him up with a pluck,</l>
@@ -6627,11 +6627,11 @@
                         <l xmlns="" n="12">[blank]          The lady--loves her will.<seg xmlns="" type="verse end"/></l>
                         <l xmlns="" n="13">[blank]</l>
                         <l xmlns="" n="14">[blank]       Best Poems of   1922     Thos. Moult  Harcourt</l>
-                        <l xmlns="" n="15">[blank]      Thomas Hardy<note xmlns="">  Hardy, Thomas [1840-1928]. English novelist and poet. MM reviewed some of his fiction and referred to him frequently in her essays.</note>                     : An Ancient to Ancients<bibl xmlns="" type="end"/><note xmlns="">Hardy, Thomas. "An Ancient to Ancients." <hi xmlns="" rend="italics">The Best Poems of 1922.</hi> Ed. Thomas Moult. New York: Harcourt, 1923.</note></l>
+                        <l xmlns="" n="15">[blank]    Thomas Hardy<note xmlns="">  Hardy, Thomas [1840-1928]. English novelist and poet. MM reviewed some of his fiction and referred to him frequently in her essays.</note>                     : An Ancient to Ancients<bibl xmlns="" type="end"/><note xmlns="">Hardy, Thomas. "An Ancient to Ancients." <hi xmlns="" rend="italics">The Best Poems of 1922.</hi> Ed. Thomas Moult. New York: Harcourt, 1923.</note></l>
                         <l xmlns="" n="16">[blank]               </l>
-                        <l xmlns="" n="17">[blank]                <seg xmlns="" type="verse begin"/><quote xmlns="" rend="begin">            </quote>Where once we danced, where once we sang,</l>
+                        <l xmlns="" n="17">[blank]                <seg xmlns="" type="verse begin"/><quote xmlns="" rend="begin">          </quote>Where once we danced, where once we sang,</l>
                         <l xmlns="" n="18">[blank]                    gentlemen</l>
-                        <l xmlns="" n="19">[blank]             The floors are sunken, cobwebs hang,<seg xmlns="" type="verse end"/><quote xmlns="" rend="end"/></l>
+                        <l xmlns="" n="19">[blank]           The floors are sunken, cobwebs hang,<seg xmlns="" type="verse end"/><quote xmlns="" rend="end"/></l>
                         <l xmlns="" n="20">[blank]</l>
                         <l xmlns="" n="21">[blank]</l>
                         <l xmlns="" n="22">[blank]</l>
