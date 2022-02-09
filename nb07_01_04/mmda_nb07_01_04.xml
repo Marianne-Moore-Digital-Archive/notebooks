@@ -254,7 +254,7 @@
                         <l n="01">[blank] Jan. </l>
                         <l n="02">[blank]W L George <note type="glossary">George, Lionel Walter [1882-1926]. British author known for his popular fiction and writings on feminism. Author of The Intelligence of Woman (1916). </note> <bibl>Art of Courtship. Harper's 1923</bibl><note>George, Lionel Walter. "The Art of Courtship." <hi rend="italics">Harper's Bazar</hi> (January 1923): 212-218.</note></l>
                         <l n="03">[blank]                             <quote/>(Generalizations on courtship) </l>
-                        <l n="04">[blank] <quote rend="begin"/>They do not apply to super emotional people,</l>
+                        <l n="04">[blank] <quote rend="begin"><date/></quote>They do not apply to super emotional people,</l>
                         <l n="05">[blank]to artists, . . or to the unduly intellectual</l>
                         <l n="06">blank] Such monsters must look after themselves</l>
                         <l n="07">[blank] in the lists of love. . . . Success today</l>
@@ -314,7 +314,7 @@
                         <l n="05">[blank] for not running down a rival even if he be druken or</l>
                         <l n="06">[blank] faithless, is not so much that one enlists . <add>. . .</add> sympathy for</l>
                         <l n="07">[blank] the under dog . . . . to depreciate a previous lover reflects on</l>
-                        <l n="08">[blank] her good taste.    A certain amount of boasting is</l>
+                        <l n="08">[blank] her good taste.    A certain amount of <del/>boasting is</l>
                         <l n="09">[blank] desirable. <add>. . . .</add> Probably the best form consists in mock modesty,</l>
                         <l n="10">[blank] because anything a human being says to another excites</l>
                         <l n="11">[blank] contradiction . . . It is wrong to say, the boss wanted</l>
@@ -364,7 +364,7 @@
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <note>"The Art of Courtship" (see earlier note).</note><quote rend="begin"/>to get more into one's life, but they seldom allow one to get </l>
-                        <l n="02">[blank] as much out. If he varies his suggestions he ceases to be                      2</l>
+                        <l n="02">[blank] as much out. If he varies his suggestions he <att/>ceases to be                      2</l>
                         <l n="03">[blank] Dick who-takes-me to the theater . . . . . There is, it is true, an advanced</l>
                         <l n="04">[blank] course for lovers, where habits are intentionally formed, so that</l>
                         <l n="05">[blank] from time to time they may be broken, the object being to give pain.</l>
@@ -374,7 +374,7 @@
                         <l n="09">[blank] must today deal w a type of woman more intell . . . . than the</l>
                         <l n="10">[blank] beautiful, selfish revengeful animal <del>idiots</del> idiots represented</l>
                         <l n="11">[blank] by Shakes. Tenn., Homer Dante etc. Women did not</l>
-                        <l n="12">[blank] have a psychology until the 17<hi rend="superscript">th</hi> c. The awakening</l>
+                        <l n="12">[blank] have a <date/>psychology until the 17<hi rend="superscript">th</hi> c. The awakening</l>
                         <l n="13">[blank] of jealousy shld not be risked unless for the melting of an</l>
                         <l n="14">[blank] emotional iceberg.     Of gifts--I would say only 2 things,</l>
                         <l n="15">[blank] the 2<hi rend="superscript">nd</hi> being very English. They shd be varied. The</l>
@@ -420,7 +420,7 @@
                     <desc>[Page-level Description] </desc>
                     <lg>
                         <l n="01">[blank]<quote rend="begin"/> must have a past provided it is past . . . . A woman<note>"The Art of Courtship" (see earlier note).</note></l>
-                        <l n="02">[blank] had better have only a present. A lover will do no harm</l>
+                        <l n="02">[blank] had better have only a present. <elementSpec/>A lover will do no harm</l>
                         <l n="03">[blank] by occasionally sacrificing his beloved to his work. In my</l>
                         <l n="04">[blank] notebook stands a case of a lover who went away to keep a</l>
                         <l n="05">[blank] business appointment. She said I hate you for going</l>
@@ -609,7 +609,7 @@
                         <l n="12">[blank]      chose as his device a spaniel--"liking as he said the</l>
                         <l n="13">[blank]      modesty of it. Portrait adorns folio edition of A's Or. Furioso</l>
                         <l n="14">[blank] his "rare dogge Bungey"<note>The spaniel's portrait is on the title page of Sir John Harrington's translation of Ariosto's <hi rend="underline">Orlando Furioso</hi>.</note> </l>
-                        <l n="15">[blank]      64     The said prince Grittin is newly gone to Oxford</l>
+                        <l n="15">[blank]      64     The said prince Grittin is newly gone to Oxford<msDesc/></l>
                         <l n="16">[blank]        to lay the wager &amp; make up the Match.</l>
                         <l n="17">[blank]      To him Pudel   Bite him peper<quote rend="end"/>    <note>MM quotes the inscription and dialogue of a 1643 print reproduced from a yet older woodcut, "Pudel and Peper."</note> </l>
                         <l n="18">[blank]</l>
@@ -1353,7 +1353,7 @@
                         <l n="15">[blank]             Then when the flies are troublesome</l>
                         <l n="16">[blank]              I'd like to have a tail,</l>
                         <l n="17">[blank]              And when I'm battling with the wasps</l>
-                        <l n="18">[blank]              The beetle's coat of mail<seg type="verse end"/>.<quote rend="end"/></l>
+                        <l n="18">[blank]              The beetle's coat of mail<seg type="verse end"/>.<elementSpec/><quote rend="end"/></l>
                         <l n="19">[blank]   </l>
                         <l n="20">[blank]</l>
                         <l n="21">[blank]</l>
@@ -1393,7 +1393,7 @@
                     <lg>
                         <l n="01">[blank]           <quote rend="begin"><note>King, Edith. "Useful Things" (see previous note).</note>                        <seg type="verse begin">              </seg>W</quote>hen I am bathing in the sea</l>
                         <l n="02">[blank]                And find it hard to float,                                                        11</l>
-                        <l n="03">[blank]                  I'd like to borrow from the duck</l>
+                        <l n="03">[blank]                  I'd like to <gap/>borrow from the duck</l>
                         <l n="04">[blank]                 Her web &amp; oily coat.</l>
                         <l n="05">[blank]</l>
                         <l n="06">[blank]                 For thus provided I could live</l>
@@ -2041,7 +2041,7 @@
                         <l n="13">[blank]      <del>Fancy.</del>   Fancy.      Drayton's     Nymphidia:</l>
                         <l n="14">[blank] </l>
                         <l n="15">[blank]        (The fairy made)</l>
-                        <l n="16">[blank]                        <seg type="verse begin"/>The windows of the eyes of cats:</l>
+                        <l n="16">[blank]                        <seg type="verse begin"></seg>The windows of the eyes of cats:</l>
                         <l n="17">[blank]                         And for the roof, insted of slats</l>
                         <l n="18">[blank]                        Is covered w the wings of of bats<seg type="verse end"/><quote rend="end"/></l>
                         <l n="19">[blank]</l>
@@ -2383,7 +2383,7 @@
                         <l n="10">[blank]    scrappy cock-a-hoop aggregation that captured</l>
                         <l n="11">[blank]        games any old way they could.           He caught</l>
                         <l n="12">[blank]        Morse's 1st smoker on the end of his bat</l>
-                        <l n="13">[blank]         &amp; laced it over the field in centre field.</l>
+                        <l n="13">[blank]         &amp; laced it over the field in centre <add/>field.</l>
                         <l n="14">[blank]        We nosed out a victory after 10 innings that</l>
                         <l n="15">[blank]         nearly made nervous wrecks of some of the</l>
                         <l n="16">[blank]         spectators.</l>
@@ -2427,7 +2427,7 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0043-recto.jpeg" n="0043-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
-                        <l n="01">[blank]          <note>"To Fellow-Fans" (see earlier note).</note><quote rend="begin"/>        from somewhere in Mass. about as follows:</l>
+                        <l n="01">[blank]<msDesc/>          <note>"To Fellow-Fans" (see earlier note).</note><quote rend="begin"/>        from somewhere in Mass. about as follows:</l>
                         <l n="02">[blank]                                                                                                        20</l>
                         <l n="03">[blank]             dear Sir mr Mernanne has forward yor leter</l>
                         <l n="04">[blank]           to Me and ime the verry guy youse lookin for.</l>
@@ -3627,7 +3627,7 @@
                         <l n="01">[blank]  <note>"Wit to Measure" advertisement (see previous page).</note> <quote rend="begin"/>  shirts of Sea Island cotton . . . backless waist-coats</l>
                         <l n="02">[blank]   . . . Spitalfields silk cravats.” etc</l>
                         <l n="03">[blank]       -- -- --</l>
-                        <l n="04">[blank]   . . .  <seg type="verse begin"/>Not from a backless waistcoat--shirt to match--</l>
+                        <l n="04">[blank]   . . .  <seg type="verse begin"/>Not from a backless waistcoat<del/>--shirt to match--</l>
                         <l n="05">[blank]                 Nor from a silken tie of wondrous knit</l>
                         <l n="06">[blank]         Shall I seek counsel, Sir, when I despatch</l>
                         <l n="07">[blank]                          My sparkling shafts of wit.</l>
@@ -3810,7 +3810,7 @@
                         <l n="16">[blank]    <bibl rend="begin"/>Post. Lit. Rev.  15 Sept. 1923</l>
                         <l n="17">[blank]      A Sage's Lyre--  Poems. G. Santayana<bibl rend="end"/><note type="glossary"> Santayana, George (born Jorge Agust<hi rend="accent aigu">i</hi>n Nicol<hi rend="accent aigu">a</hi>s Ruiz de Santayana y Borr<hi rend="accent aigu">a</hi>s) [1886-1912]. Immigrated to U.S. at 8. American philosopher and writer. MM quotes him in an essay on Sir Francis Bacon (1924). See earlier note. </note>. Scrib. 1.50</l>
                         <l n="18">[blank]   O W <del>o</del><add>F</add>irkins<note>Firkins, Oscar W. "The Sage's Lyre: Santayana's Poems." <hi rend="italics">New York Evening Post</hi> (15 September 1923): 40.</note><bibl rend="end"/> . . . <quote rend="begin"/>Nobody who know's Mr. S's  prose or</l>
-                        <l n="19">[blank]    verse will question his property in the Eng. lang.<quote rend="end"/></l>
+                        <l n="19">[blank]    verse will question his pr<foreign/>operty in the Eng. lang.<quote rend="end"/></l>
                         <l n="20">[blank]</l>
                         <l n="21">[blank]</l>
                         <l n="22">[blank]</l>
@@ -4417,9 +4417,9 @@
                         <l n="02">[blank]    in the U. of Vienna.  translated by L. Lewisohn Huebsch 1910</l>
                         <l n="03">[blank]    Health &amp; Suggestion: The Dietetics of the mind<note>Feuchtersleben, Ernst von. <hi rend="italics">Health and Suggestion: The Dietetics of the Mind</hi>. Translated, Ludwig Lewisohn  (NY: Huebsch, 1910).</note>.<bibl rend="end"/></l>
                         <l n="04">[blank]   80</l>
-                        <l n="05">[blank]    <quote rend="begin"/>In the possibility of . . . .  intellectualized emotion--</l>
+                        <l n="05">[blank]    <quote rend="begin"></quote>In the possibility of . . . .  intellectualized emotion--</l>
                         <l n="06">[blank]    the ethico-religious, for instance--lies the differentiation</l>
-                        <l n="07">[blank] of Humanity from all else.   81 . . . spiritual &amp; bodily</l>
+                        <l n="07">[blank]  of Humanity from all else.   81 . . . spiritual &amp; bodily</l>
                         <l n="08">[blank]    life are . . . . (some think) every gratification of the</l>
                         <l n="09">[blank]    senses is a deadly attack upon <hi rend="shorthand the">the</hi> spirit wh can be</l>
                         <l n="10">[blank]   cultivated only at the expense of the body . . . . It may</l>
@@ -4540,7 +4540,7 @@
                         <l n="13">[blank]     the fate of the untalented. But, <hi rend="shorthand the">the</hi> true poet se may</l>
                         <l n="14">[blank]      similarly wreck his soul. For he loses se even more</l>
                         <l n="15">[blank]      thoroughly in the abysses of egomania, mistakes</l>
-                        <l n="16">[blank]      hypochondriacal moon gazing for poetic creation</l>
+                        <l n="16">[blank]      hypochondriacal <persName/>moon gazing for poetic creation</l>
                         <l n="17">[blank]      &amp; at last suffers that frightful cleavage of his</l>
                         <l n="18">[blank]      inner life to which the tyro can only pretend.<quote rend="end"/></l>
                         <l n="19">[blank]</l>
@@ -4587,7 +4587,7 @@
                         <l n="04">[blank]    Scepticism &amp; Animal Faith. G. Santayana  Scribner 1923<note> See earlier note on review of Santayana's <hi rend="italics">Poems</hi>, 15 September 1923. <hi rend="italics">Scepticism and Animal Faith</hi> (NY: Charles Scribner's Sons, 1923).</note></l>
                         <l n="05">[blank]    Rev'd by Dickinson Sargent Miller<bibl rend="end"/>. Cf Scholasticism</l>
                         <l n="06">[blank]    <quote rend="begin"/>"An imperceptible cognitive energy, whose essence is</l>
-                        <l n="07">[blank]    2    intuition"--how redolent of mediaeval science is</l>
+                        <l n="07">[blank]    2    <att/>intuition"--how redolent of mediaeval science is</l>
                         <l n="08">[blank]    such a phrase!  It presents us w a mental equivalent</l>
                         <l n="09">[blank]    of the alchemic essence or the vital principle, it explains</l>
                         <l n="10">[blank]    poetically w rich ideas, instead of resolving prosaically</l>
@@ -5855,7 +5855,7 @@
                         <l n="01">[blank]  <note>King, Georgiana Goddard. <hi rend="italics">Sardinian Painting</hi> (see earlier note).</note> <quote rend="begin">              </quote>last  decade of the 15th century   brought</l>
                         <l n="02">[blank]    their offerings to the palace of the King of</l>
                         <l n="03">[blank]    Portugal, or to the great hall of the  Duke of <del>Alvah</del></l>
-                        <l n="04">[blank]    Alva on the Tarnes, while Gil Vicente and</l>
+                        <l n="04">[blank]    Alva on the Tarnes, while <note/>Gil Vicente and</l>
                         <l n="05">[blank]    Juan del Encina recited the lines  they  had</l>
                         <l n="06">[blank]    written for the christmas midnight  and pages</l>
                         <l n="07">[blank]    sang such <hi rend="underline">villancicos</hi>  as that  long</l>
