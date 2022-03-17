@@ -227,7 +227,7 @@
                         <l n="15">[blank]                                              And slow how ere my marches be,</l>
                         <l n="16">[blank]                                              I shall at last sit down by Thee.<seg type="verseend"/> </l>
                         <l n="17">[blank]</l>
-                        <l n="18">[blank]           284     M. Jean Epstein   :    <seg type="versebegin"></seg><foreign xml:lang="fr">Elle est bien loin, elle pleure</foreign>,</l>
+                        <l n="18">[blank]           284     M. Jean Epstein   :    <seg type="versebegin"/><foreign xml:lang="fr">Elle est bien loin, elle pleure</foreign>,</l>
                         <l n="19">[blank]                                                             <foreign xml:lang="fr">La grand vent se lámente aussi</foreign> . . . .<seg type="verseend"/> </l>
                         <l n="20">[blank]                      <seg type="prose">cf La figlia que piange</seg><note>Eliot, T.S. "La Figlia che Piange." C<hi rend="italics">ollected Poems</hi>, 1909-1935 (New York: Harcourt, Brace, 1936): 39. </note></l>
                         <l n="21">[blank]</l>
@@ -1292,15 +1292,15 @@
                     <lg>
                         <l n="01">[blank]                  18     <quote rend="begin"/><note>Rilke, <hi rend="italics">Later Poems</hi> (see earlier note). </note>the principle acc to which I have arranged them:</l>
                         <l n="02">[blank]                            Greek Antiquity, the Old Testament, the New Testament,</l>
-                        <l n="03">[blank]                             The Middle Ages, The Present Day</l>
+                        <l n="03">[blank]                             The Middle Ages, The Present Day. </l>
                         <l n="04">[blank]</l>
-                        <l n="05">[blank]                     II   Moments of Vision I have borrowed fr. Hardy</l>
+                        <l n="05">[blank]                     II   Moments of Vision I have borrowed fr. Hardy. </l>
                         <l n="06">[blank]</l>
                         <l n="07">[blank]                   21    fragmentary in content rather than in form, fragments</l>
                         <l n="08">[blank]                           of . . . some vision of reality, that is being felt after,</l>
                         <l n="09">[blank]                           but never completely found.<quote rend="end"/> </l>
                         <l n="10">[blank]</l>
-                        <l n="11">[blank]                                       <bibl type="begin"/>Duino Elegies </l>
+                        <l n="11">[blank]                                       <bibl type="begin"/>D<del>o</del>uoino Elegies </l>
                         <l n="12">[blank]                   Schloss Duino near Trieste 1911-12  Dec-April</l>
                         <l n="13">[blank]           home of Princess Marie von Thurn &amp; Taxis-Hohenlohe</l>
                         <l n="14">[blank]</l>
@@ -1308,8 +1308,8 @@
                         <l n="16">[blank]          &amp; Stephen Spender       W.W. Norton 1939)<bibl type="end"/> <note>Rilke, Rainer Maria. <hi rend="italics">Duino Elegies</hi>. Trans. with introduction and commentary by J.B. Leishman and Stephen Spender. New York: W.W. Norton, 1939.</note> </l>
                         <l n="17">[blank]                                                                                               <quote rend="begin"/><add>Toledo pushed this tend-</add> </l>
                         <l n="18">[blank]    p. 10     In 1915 he wrote of the Spanish landscape . . . . . . . </l>
-                        <l n="19">[blank]              <add>ency to an extreme,—reproducing it as the equivalent for an inner experience</add> </l>
-                        <l n="20">[blank]              Everywhere appearance &amp; vision are, as it were, together</l>
+                        <l n="19">[blank]              <add>ency to an extreme, . . . <del>to</del> reproduc<del>e</del>ing it as the equivalent for an inner experience</add> </l>
+                        <l n="20">[blank]              Everywhere appearance &amp; vision come, as it were, together</l>
                         <l n="21">[blank]              in the object, in each a whole inner</l>
                         <l n="22">[blank]              world was exhibited, as though an angel in whom space was</l>
                         <l n="23">[blank]              included, were blind &amp; looking into himself . . . This</l>
@@ -1322,9 +1322,9 @@
                         <l n="30">[blank]              Swiss friend, Frau Wunderly-Volkart</l>
                         <l n="31">[blank]</l>
                         <l n="32">[blank]              wrote Princess Marie: In the book (for I can’t give you what has</l>
-                        <l n="33">[blank]              belonged to you from the beginning) I don’t intend there to be any dedication</l>
-                        <l n="34">[blank]              but: the property of . . . .<quote rend="end"/> </l>
-                        <l n="35">[blank]</l>
+                        <l n="33">[blank]                                                                                                        <add>there</add> </l>
+                        <l n="34">[blank]              belonged to you from the beginning) I don’t intend a dedication</l>
+                        <l n="35">[blank]              but: the property of . . . .<quote rend="end"/> </l>
                         <l n="36">[blank]</l>
                         <l n="37">[blank]</l>
                         <l n="38">[blank]</l>
