@@ -1071,7 +1071,7 @@
                         <l n="25">[blank]                           Out there is all:                                                    <note>Text across both pages reads: <foreign xml:lang="de">und der Freund und der Feind und das Mahl im Saal</foreign> </note> <foreign xml:lang="de">und der Freund und der Feind und das</foreign> </l>
                     </lg>
                     <lg>
-                        <l n="26">[blank]                           the friend, the foe, the valley, the day,            <note>Text across both pages reads: <foreign xml:lang="de">und der Mai und die Maid und der Wald und der Gral</foreign>, </note> <foreign xml:lang="de">und der Mai und die Maid und der</foreign> </l>
+                        <l n="26">[blank]                           the friend  the foe  the valley, the day            <note>Text across both pages reads: <foreign xml:lang="de">und der Mai und die Maid und der Wald und der Gral</foreign>, </note> <foreign xml:lang="de">und der Mai und die Maid und der</foreign> </l>
                         <l n="27">[blank]                           the meal in the hall,                                              <foreign xml:lang="de">und Gott ist selber vieltausendmal</foreign> </l>
                         <l n="28">[blank]                            the maid &amp; the wood &amp; the month of May,     <foreign xml:lang="de">an alle Strassen gestellt</foreign>. </l>
                         <l n="29">[blank]                            &amp; the Holy Grail,</l>
@@ -1234,10 +1234,10 @@
                         <l n="01">[blank]     68 <quote rend="begin"/><note>Rilke, <hi rend="italics">Fifty</hi> (see earlier note). </note><seg type="versebegin"/><foreign xml:lang="de">Der Schwan</foreign>                                                                              The Swan </l>
                         <l n="02">[blank] <foreign xml:lang="de">Diese Mühsal, durch noch Ungetanes</foreign>                        This misery that through the still-undone</l>
                         <l n="03">[blank] <foreign xml:lang="de">schwer und wie gebunden hinzugehn,</foreign>                       must pass, bound &amp; heavily weighed down,</l>
-                        <l n="04">[blank] <foreign xml:lang="de">gleicht dem ungeschaff<del>e</del>nen Gang des Schwanes.</foreign>   is like the awkward walking of the swan.</l>
+                        <l n="04">[blank] <foreign xml:lang="de">gleicht dem ungeschaff<del>e</del>nen Gang des Schwanes.</foreign>   is like the awkward walking of the Swan.</l>
                         <l n="05">[blank]                                            <add>N</add> </l>
                         <l n="06">[blank] <foreign xml:lang="de">Und das Sterben, dieses Nichtmehrfassen</foreign>               And death, where we no longer comprehend</l>
-                        <l n="07">[blank] <foreign xml:lang="de">jenes Grunds, auf dem wir täglich stehn,</foreign>                 the very ground on which we daily stand</l>
+                        <l n="07">[blank] <foreign xml:lang="de">jenes Grunds, auf dem wir täglich stehn,</foreign>                 the very ground on which we daily stand,</l>
                         <l n="08">[blank] <foreign xml:lang="de">seinem ängstlichen Sich-Niederlassen—:</foreign>                 is like anxious letting-himself-go</l>
                         <l n="09">[blank]</l>
                         <l n="10">[blank] <foreign xml:lang="de">in die Wasser, die ihn sanft empfangen</foreign>                    into the water, soft against his breast,</l>
@@ -1245,7 +1245,7 @@
                         <l n="12">[blank] <foreign xml:lang="de">unter ihm zurückziehn, Flut um Flut;</foreign>                        behind him in a little wake of waves . . .</l>
                         <l n="13">[blank] <foreign xml:lang="de">während er unendlich still und sicher</foreign>                       while he, infinitely silent, self-possessed,</l>
                         <l n="14">[blank] <foreign xml:lang="de">immer mündiger und königlicher</foreign>                              and ever more mature, is pleased to move</l>
-                        <l n="15">[blank] <foreign xml:lang="de">und gelassener zu ziehn geruht.</foreign>                                                      <del>in</del> </l>
+                        <l n="15">[blank] <foreign xml:lang="de">und gelassener zu ziehn geruht </foreign>                                                      <del>in</del> </l>
                         <l n="16">[blank]                                                                                            Serene<del>ly</del> on ‸ his majestic way<seg type="verseend"/> <quote rend="end"/> </l>
                         <l n="17">[blank]</l>
                         <l n="18">[blank]                                        Rainer Maria Rilke</l>
@@ -1257,17 +1257,17 @@
                         <l n="24">[blank] <note>The following five books, headed "By the same author," appear on the verso facing the title page. </note>cf Poems tr. by JBL </l>
                         <l n="25">[blank]      The Duinese <hi rend="underline">Elegies The Original German</hi> w a verse trans by E &amp; V Sackville-</l>
                         <l n="26">[blank]                                                                      <add>1910</add>                                                               West </l>
-                        <l n="27">[blank]      The Notebook of <hi rend="underline">Malte Laureds Brigge</hi> 1910 Trans. by John Linton</l>
+                        <l n="27">[blank]      The Notebook of <hi rend="underline">Malte Laureds Brigge</hi>. Tras. by John Linton</l>
                         <l n="28">[blank]      Requiem &amp; Other Poems. Trans. by JB. Leishman</l>
                         <l n="29">[blank]      Sonnets to Orpheus. The orig. German, w a verse trans. by JB Leishman</l>
                         <l n="30">[blank] <seg type="prose">Brahms</seg></l>
-                        <l n="31">[blank] <seg type="prose">op. 115</seg>                    1st  2 Elegies written at Schloss Duino 1912, &amp; 1922</l>
+                        <l n="31">[blank] <seg type="prose">op. 115</seg>                    1st  2 Elegies written a Schloss Duino 1912, &amp; 1922</l>
                         <l n="32">[blank] cf. Mozart Quintet      3rd Paris 1913</l>
                         <l n="33">[blank]                  <seg type="prose">in “A”</seg>            4th Munich 1915</l>
-                        <l n="34">[blank] <seg type="prose">clarinet (?)</seg>                    Fragments of 6th &amp; 9th between 1912 &amp; 1914 at various places</l>
+                        <l n="34">[blank] <seg type="prose">clarinet (?)</seg>                    fragments of 6th &amp; 9th between 1912 &amp; 1914 at various places</l>
                         <l n="35">[blank]                          completed at Château de Muzat.</l>
                         <l n="36">[blank]</l>
-                        <l n="37">[blank]                                Only 4 before 1912 &amp; 8 after 1922</l>
+                        <l n="37">[blank]                                only 4 before 1912 &amp; 8 after 1922</l>
                         <l n="38">[blank]</l>
                         <l n="39">[blank]</l>
                         <l n="40">[blank]</l>
