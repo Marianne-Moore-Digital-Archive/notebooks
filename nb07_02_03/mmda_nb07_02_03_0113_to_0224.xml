@@ -9,8 +9,7 @@
                         <persName>Luke Carson</persName><note>Notebook Editor</note>
                     </editor>
                     <respStmt>
-                        <persName/>
-                        <resp>Proofreader</resp>
+                        <persName/><resp>Proofreader</resp>
                     </respStmt>
                     <respStmt>
                         <persName/>Proofreader</respStmt>
@@ -741,7 +740,7 @@
                         <l n="02">[blank]                                                                                                                 <add>Mrs.</add>   <add>Died 1927</add> </l>
                         <l n="03">[blank]                         <bibl type="begin"/>Letters to a Young Poet (Franz Xaver Kappus) trans. M. D. Herter</l>
                         <l n="04">[blank]                                                                                                                                        Norton</l>
-                        <l n="05">[blank]                                  (1934) W. W. Norton<bibl type="end"/> <note>Rilke, Rainer Maria. <hi rend="italics">Letters to a Young Poet</hi>. Trans M.D. Herter. Norton (New York: Norton, 1934).</note>     <quote rend="begin"/>sent to Sankt-Pölten lower military school</l>
+                        <l n="05">[blank]                                  (1934) W. W. Norton<bibl type="end"/> <note>Rilke, Rainer Maria. <hi rend="italics">Letters to a Young Poet</hi>. Trans M. D. Herter. Norton (New York: Norton, 1934).</note>     <quote rend="begin"/>sent to Sankt-Pölten lower military school</l>
                         <l n="06">[blank]                83     that he might become an officer . . . was there 5 years—left in 1891 at</l>
                         <l n="07">[blank]                88     15 ½ stayed w. his Uncle Jaroslav in Smichov (suburb of Prague).</l>
                         <l n="08">[blank]                          studied at U. of Berlin, 1899 <del>when</del> went to Moscow; also 1900, w. to Moscow.</l>
@@ -828,7 +827,7 @@
                         <l n="29">[blank]                               what is there truly done, that is not prayer?</l>
                         <l n="30">[blank]                      <add>country house near</add> </l>
                         <l n="31">[blank] <hi rend="pencil"><seg type="prose">humanitarian</seg></hi>     Göteborg &amp; visited the Samskola, modern community</l>
-                        <l n="32">[blank] <hi rend="pencil"><seg type="prose">cf Miss Frazier</seg><note>Frazier, Katherine (18??-1944). Founder of the Cummington School of the Arts and Director of the School until her retirement because of illness in 1943. Teachers and students were welcome to bring their families to reside with them during sessions.</note></hi>   school for boys &amp; girls—“an encouragement goes</l>
+                        <l n="32">[blank] <hi rend="pencil"><seg type="prose">cf Miss Frazier</seg><note>Frazier, Katherine (18??-1944). Founder and Director of the progressive Cummington School of the Arts.</note></hi>   school for boys &amp; girls—“an encouragement goes</l>
                         <l n="33">[blank]                               forth from it.<hi rend="pencil">”</hi> </l>
                         <l n="34">[blank]</l>
                         <l n="35">[blank]                    126     Capri, Berlin, Dresden Prague, Vienna, Venice</l>
@@ -871,7 +870,7 @@
                         <l n="07">[blank]                                                                                                                                        <hi rend="pencil">w writing</hi> </l>
                         <l n="08">[blank] <hi rend="pencil"><seg type="prose">writer’s</seg></hi>                        <quote rend="begin"/>you are disturbed when editors reject your efforts. . . . You are<quote rend="end"/> </l>
                         <l n="09">[blank] <hi rend="pencil"><seg type="prose">disease</seg></hi>                         <quote rend="begin"/>looking outward . . . Go into yourself . . . Investigate the reason<quote rend="end"/> </l>
-                        <l n="10">[blank] <seg type="prose">cf. TSE.</seg><note>MM refers to Eliot's discussion of Charles Whibley on page 463 of <hi rend="italics">Selected Essays</hi>, as cited earlier by MM (see 0121). </note>                                               <quote rend="begin"/>that bids you write.<quote rend="end"/> </l>
+                        <l n="10">[blank] <seg type="prose">cf. TSE.</seg>                                               <quote rend="begin"/>that bids you write.<quote rend="end"/> </l>
                         <l n="11">[blank] <seg type="prose">on Whibley</seg>                                                                          <hi rend="pencil">See page 121    then 124</hi> </l>
                         <l n="12">[blank] <seg type="prose">(be interesting)</seg>        17    <quote rend="begin"/>Then draw near to Nature. “Do not write love-poems;</l>
                         <l n="13">[blank]                                        . . . If your daily life seems poor do not blame it; blame yourself,</l>
@@ -930,7 +929,7 @@
                         <l n="06">[blank]                              [<seg type="prose">Platonic dialogues not criticism?</seg>] Works of art are of an</l>
                         <l n="07">[blank]                              infinite loneliness . . . Only love can grasp &amp; judge them.</l>
                         <l n="08">[blank]                              Consider <hi rend="underline">yourself</hi> &amp; your feeling right every time . . .<quote rend="end"/> </l>
-                        <l n="09">[blank]            [<seg type="prose">T.S.E. unlettered Robinson Crusoes.<note>MM is referring to Eliot's comment on Blake in <hi rend="italics">Selected Prose</hi>, p. 320, as cited earlier. </note>  &amp; E.P. How to Read</seg><note>Pound, Ezra. <hi rend="italics">How to Read; Followed by The Spirit of Romance, Part 1</hi> (Le Beausset [Var], France: TO, 1932). </note>]</l>
+                        <l n="09">[blank]            [<seg type="prose">T.S.E. unlettered Robinson Crusoes.  &amp; E.P. How to Read</seg><note>Pound, Ezra. <hi rend="italics">How to Read; Followed by The Spirit of Romance, Part 1</hi> (Le Beausset [Var], France: TO, 1932). </note>]</l>
                         <l n="10">[blank]                     27     <quote rend="begin"/>Let each impression come to completion in itself, in the dark,</l>
                         <l n="11">[blank]                              in the inexpressible, the un­conscious . . . and await the birth</l>
                         <l n="12">[blank]                              of a new clarity.</l>
@@ -964,7 +963,7 @@
                         <l n="40">[blank]</l>
                     </lg>
                     <lg type="vertical">
-                        <l n="v01">[vertical line] &amp;lt;!desc: lines 28-24, left margin!&amp;gt;<hi rend="pencil">Sincerity</hi> <note>MM's penciled comment suggests she is reading her notes while writing "Humility, Concentration, and Gusto," in which "sincerity" plays an important role (see especially <hi rend="italics">Prose</hi> 421). </note></l>
+                        <l n="v01">[vertical line] &amp;lt;!desc: lines 28-24, left margin!&amp;gt;<hi rend="pencil">Sincerity</hi> </l>
                         <l n="v02">[vertical line]</l>
                         <l n="v03">[vertical line]</l>
                         <l n="v04">[vertical line]</l>
@@ -1199,7 +1198,7 @@
                         <l n="25">[blank]</l>
                         <l n="26">[blank]            <foreign xml:lang="de">Klapperschlange</foreign> = “rattlesnake”<quote rend="end"/> </l>
                         <l n="27">[blank]</l>
-                        <l n="28">[blank] 108     The Lute    <seg type="prose">cf Louise Bogan<note>Bogan, Louise [1897-1970]: American poet and critic who frequently reviewed translations of Rilke's work in the late 30s and early 40s.</note> &amp; the cello (or violin?)</seg> <note>On Bogan and the cello, see Wolf, Robert F., “Impassioned Austerity.” Rev. of Louise Bogan, <hi rend="italics">Body of this Death</hi>. <hi rend="italics">Poetry</hi> 23.6 (March 1924) 335-38: “in the orchestra of the younger women poets, as some one else has said, Louise Bogan plays the ’cello . . ."</note> </l>
+                        <l n="28">[blank] 108     The Lute    <seg type="prose">cf Louise Bogan<note>Bogan, Louise [1897-1970]: American poet and critic who frequently reviewed translations of Rilke's work in the late 30s and early 40s.</note> &amp; the cello (or violin?)</seg></l>
                         <l n="29">[blank]          <quote rend="begin"/><seg type="verse">until at last my being was in her</seg><quote rend="end"/></l>
                         <l n="30">[blank]</l>
                         <l n="31">[blank] 122     <note>Rilke, <hi rend="italics">Fifty</hi> (see earlier note). </note><quote rend="begin"/><foreign xml:lang="de">Der Käferstein</foreign>   —         The Scarab     (<foreign xml:lang="de">harten Skarabäe</foreign>)<quote rend="end"/> </l>
