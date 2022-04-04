@@ -1,0 +1,2524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    
+    <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Notebook 7.1.4</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>For internal processing only.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Adding facsimile element and zone boxes.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile xml:id="nb07_01_04_facsimile">
+        <!-- 
+            start first batch 1-10
+        -->
+        <surface xml:id="nb07_01_04_0001_surface">
+            <surface xml:id="nb07_01_04_0001_recto_surface">
+                <graphic url="nb07_01_04_0001-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0001_recto_surface_line_01" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0002_surface">
+            <surface xml:id="nb07_01_04_0002_verso_surface">
+                <graphic url="nb07_01_04_0002-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0002_verso_surface_line_01" lry="290" lrx="1345" uly="105"
+                    ulx="540" rend="line"/>
+                <zone xml:id="nb07_01_04_0002_verso_surface_line_02" lry="403" lrx="1575" uly="290"
+                    ulx="610" rend="line"/>
+                <zone xml:id="nb07_01_04_0002_verso_surface_line_03" lry="500" lrx="1193" uly="403"
+                    ulx="730" rend="line"/>
+                <zone xml:id="nb07_01_04_0002_verso_surface_line_04" lry="1376" lrx="877" uly="1253"
+                    ulx="270" rend="line"/>
+                <zone xml:id="nb07_01_04_0002_verso_surface_line_05" lry="1023" lrx="407" uly="893"
+                    ulx="140" rend="line"/>
+                <zone xml:id="nb07_01_04_0002_verso_surface_line_06" lry="1123" lrx="1163" uly="990"
+                    ulx="707" rend="line"/>
+                <zone xml:id="nb07_01_04_0002_verso_surface_line_07" lry="1193" lrx="1217"
+                    uly="1123" ulx="610" rend="line"/>
+                <zone xml:id="nb07_01_04_0002_verso_surface_line_08" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_01_04_0002_verso_surface_line_09" lry="1550" lrx="683" uly="1436"
+                    ulx="360" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0003_surface">
+            <surface xml:id="nb07_01_04_0003_recto_surface">
+                <graphic url="nb07_01_04_0003-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0003_recto_surface_line_01" lry="248" lrx="2257" uly="81"
+                    ulx="914" rend="line"/>
+                <zone xml:id="nb07_01_04_0003_recto_surface_line_02" lry="400" lrx="2438" uly="248"
+                    ulx="957" rend="line"/>
+                <zone xml:id="nb07_01_04_0003_recto_surface_line_03" lry="557" lrx="1447" uly="415"
+                    ulx="981" rend="line"/>
+                <zone xml:id="nb07_01_04_0003_recto_surface_line_04" lry="781" lrx="2371" uly="510"
+                    ulx="1838" rend="line"/>
+                <zone xml:id="nb07_01_04_0003_recto_surface_line_05" lry="853" lrx="1723" uly="691"
+                    ulx="366" rend="line"/>
+                <zone xml:id="nb07_01_04_0003_recto_surface_line_06" lry="1034" lrx="1533" uly="848"
+                    ulx="495" rend="line"/>
+                <zone xml:id="nb07_01_04_0003_recto_surface_line_07" lry="1229" lrx="1362"
+                    uly="1043" ulx="428" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0004_surface">
+            <surface xml:id="nb07_01_04_0004_verso_surface">
+                <graphic url="nb07_01_04_0004-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0004_verso_surface_line_01" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0005_surface">
+            <surface xml:id="nb07_01_04_0005_recto_surface">
+                <graphic url="nb07_01_04_0005-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_01" lry="243" lrx="1712" uly="162"
+                    ulx="1556" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_02" lry="318" lrx="1753" uly="243"
+                    ulx="66" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_03" lry="421" lrx="1709" uly="334"
+                    ulx="572" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_04" lry="518" lrx="1719" uly="412"
+                    ulx="84" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_05" lry="618" lrx="1703" uly="540"
+                    ulx="113" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_06" lry="703" lrx="1756" uly="628"
+                    ulx="66" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_07" lry="793" lrx="1697" uly="718"
+                    ulx="109" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_08" lry="896" lrx="1753" uly="796"
+                    ulx="94" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_09" lry="965" lrx="1656" uly="893"
+                    ulx="88" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_10" lry="1031" lrx="1431" uly="968"
+                    ulx="84" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_11" lry="1137" lrx="1669"
+                    uly="1056" ulx="128" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_12" lry="1221" lrx="1181"
+                    uly="1143" ulx="178" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_13" lry="1340" lrx="1600"
+                    uly="1237" ulx="159" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_14" lry="1418" lrx="1747"
+                    uly="1346" ulx="106" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_15" lry="1518" lrx="1750"
+                    uly="1428" ulx="131" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_16" lry="1587" lrx="1694"
+                    uly="1515" ulx="119" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_17" lry="1665" lrx="1719"
+                    uly="1600" ulx="97" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_18" lry="1762" lrx="1763"
+                    uly="1678" ulx="103" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_19" lry="1843" lrx="1650"
+                    uly="1778" ulx="116" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_20" lry="1940" lrx="1747"
+                    uly="1856" ulx="116" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_21" lry="2050" lrx="1759"
+                    uly="1971" ulx="231" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_22" lry="2143" lrx="1719"
+                    uly="2068" ulx="119" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_23" lry="2237" lrx="1663"
+                    uly="2156" ulx="122" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_24" lry="2306" lrx="1728"
+                    uly="2246" ulx="116" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_25" lry="2393" lrx="1309"
+                    uly="2312" ulx="134" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_26" lry="2484" lrx="1781"
+                    uly="2387" ulx="131" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_27" lry="2581" lrx="1650"
+                    uly="2481" ulx="116" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_28" lry="2668" lrx="1744"
+                    uly="2584" ulx="125" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_29" lry="2737" lrx="1722"
+                    uly="2665" ulx="134" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_30" lry="2812" lrx="1597"
+                    uly="2734" ulx="156" rend="line"/>
+                <zone xml:id="nb07_01_04_0005_recto_surface_line_31" lry="2875" lrx="356" uly="2806"
+                    ulx="141" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0006_surface">
+            <surface xml:id="nb07_01_04_0006_verso_surface">
+                <graphic url="nb07_01_04_0006-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0006_verso_surface_line_01" lry="160" lrx="2650" uly="65"
+                    ulx="105" rend="line"/>
+                <zone xml:id="nb07_01_04_0006_verso_surface_line_02" lry="250" lrx="2640" uly="165"
+                    ulx="150" rend="line"/>
+                <zone xml:id="nb07_01_04_0006_verso_surface_line_03" lry="330" lrx="2525" uly="245"
+                    ulx="160" rend="line"/>
+                <zone xml:id="nb07_01_04_0006_verso_surface_line_04" lry="425" lrx="2695" uly="330"
+                    ulx="170" rend="line"/>
+                <zone xml:id="nb07_01_04_0006_verso_surface_line_05" lry="525" lrx="2490" uly="420"
+                    ulx="135" rend="line"/>
+                <zone xml:id="nb07_01_04_0006_verso_surface_line_06" lry="620" lrx="2625" uly="520"
+                    ulx="135" rend="line"/>
+                <zone xml:id="nb07_01_04_0006_verso_surface_line_07" lry="705" lrx="2590" uly="620"
+                    ulx="145" rend="line"/>
+                <zone xml:id="nb07_01_04_0006_verso_surface_line_08" lry="805" lrx="2605" uly="705"
+                    ulx="125" rend="line"/>
+                <zone xml:id="nb07_01_04_0006_verso_surface_line_09" lry="915" lrx="2630" uly="805"
+                    ulx="125" rend="line"/>
+                <zone xml:id="nb07_01_04_0006_verso_surface_line_10" lry="1020" lrx="2585" uly="920"
+                    ulx="120" rend="line"/>
+                <zone xml:id="nb07_01_04_0006_verso_surface_line_11" lry="1115" lrx="2670"
+                    uly="1010" ulx="145" rend="line"/>
+                <zone xml:id="nb07_01_04_0006_verso_surface_line_12" lry="1220" lrx="2690"
+                    uly="1105" ulx="125" rend="line"/>
+                <zone xml:id="nb07_01_04_0006_verso_surface_line_13" lry="1285" lrx="2525"
+                    uly="1215" ulx="115" rend="line"/>
+                <zone xml:id="nb07_01_04_0006_verso_surface_line_14" lry="1390" lrx="2530"
+                    uly="1300" ulx="115" rend="line"/>
+                <zone xml:id="nb07_01_04_0006_verso_surface_line_15" lry="1505" lrx="2675"
+                    uly="1390" ulx="115" rend="line"/>
+                <zone xml:id="nb07_01_04_0006_verso_surface_line_16" lry="1590" lrx="2565"
+                    uly="1495" ulx="115" rend="line"/>
+                <zone xml:id="nb07_01_04_0006_verso_surface_line_17" lry="1695" lrx="2570"
+                    uly="1590" ulx="95" rend="line"/>
+                <zone xml:id="nb07_01_04_0006_verso_surface_line_18" lry="1790" lrx="2735"
+                    uly="1695" ulx="275" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0007_surface">
+            <surface xml:id="nb07_01_04_0007_recto_surface">
+                <graphic url="nb07_01_04_0007-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0007_recto_surface_line_01" lry="140" lrx="2735" uly="40"
+                    ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0007_recto_surface_line_02" lry="220" lrx="2890" uly="145"
+                    ulx="230" rend="line"/>
+                <zone xml:id="nb07_01_04_0007_recto_surface_line_03" lry="315" lrx="2905" uly="225"
+                    ulx="230" rend="line"/>
+                <zone xml:id="nb07_01_04_0007_recto_surface_line_04" lry="415" lrx="2890" uly="315"
+                    ulx="265" rend="line"/>
+                <zone xml:id="nb07_01_04_0007_recto_surface_line_05" lry="515" lrx="2905" uly="410"
+                    ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0007_recto_surface_line_06" lry="610" lrx="2615" uly="510"
+                    ulx="205" rend="line"/>
+                <zone xml:id="nb07_01_04_0007_recto_surface_line_07" lry="700" lrx="2035" uly="610"
+                    ulx="235" rend="line"/>
+                <zone xml:id="nb07_01_04_0007_recto_surface_line_08" lry="795" lrx="2750" uly="700"
+                    ulx="410" rend="line"/>
+                <zone xml:id="nb07_01_04_0007_recto_surface_line_09" lry="890" lrx="2715" uly="795"
+                    ulx="200" rend="line"/>
+                <zone xml:id="nb07_01_04_0007_recto_surface_line_10" lry="1000" lrx="2885" uly="895"
+                    ulx="215" rend="line"/>
+                <zone xml:id="nb07_01_04_0007_recto_surface_line_11" lry="1110" lrx="2825"
+                    uly="1000" ulx="235" rend="line"/>
+                <zone xml:id="nb07_01_04_0007_recto_surface_line_12" lry="1210" lrx="2835"
+                    uly="1110" ulx="220" rend="line"/>
+                <zone xml:id="nb07_01_04_0007_recto_surface_line_13" lry="1320" lrx="2770"
+                    uly="1220" ulx="170" rend="line"/>
+                <zone xml:id="nb07_01_04_0007_recto_surface_line_14" lry="1445" lrx="2830"
+                    uly="1330" ulx="230" rend="line"/>
+                <zone xml:id="nb07_01_04_0007_recto_surface_line_15" lry="1545" lrx="2820"
+                    uly="1445" ulx="195" rend="line"/>
+                <zone xml:id="nb07_01_04_0007_recto_surface_line_16" lry="1625" lrx="2810"
+                    uly="1545" ulx="215" rend="line"/>
+                <zone xml:id="nb07_01_04_0007_recto_surface_line_17" lry="1705" lrx="2610"
+                    uly="1625" ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0007_recto_surface_line_18" lry="1805" lrx="2870"
+                    uly="1715" ulx="215" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0008_surface">
+            <surface xml:id="nb07_01_04_0008_verso_surface">
+                <graphic url="nb07_01_04_0008-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0008_verso_surface_line_01" lry="140" lrx="2545" uly="55"
+                    ulx="220" rend="line"/>
+                <zone xml:id="nb07_01_04_0008_verso_surface_line_02" lry="220" lrx="2635" uly="135"
+                    ulx="180" rend="line"/>
+                <zone xml:id="nb07_01_04_0008_verso_surface_line_03" lry="310" lrx="2625" uly="220"
+                    ulx="195" rend="line"/>
+                <zone xml:id="nb07_01_04_0008_verso_surface_line_04" lry="410" lrx="2605" uly="310"
+                    ulx="180" rend="line"/>
+                <zone xml:id="nb07_01_04_0008_verso_surface_line_05" lry="515" lrx="2590" uly="410"
+                    ulx="180" rend="line"/>
+                <zone xml:id="nb07_01_04_0008_verso_surface_line_06" lry="610" lrx="2590" uly="515"
+                    ulx="170" rend="line"/>
+                <zone xml:id="nb07_01_04_0008_verso_surface_line_07" lry="715" lrx="2760" uly="610"
+                    ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0008_verso_surface_line_08" lry="770" lrx="260" uly="710"
+                    ulx="50" rend="line"/>
+                <zone xml:id="nb07_01_04_0008_verso_surface_line_09" lry="835" lrx="2685" uly="765"
+                    ulx="170" rend="line"/>
+                <zone xml:id="nb07_01_04_0008_verso_surface_line_10" lry="925" lrx="935" uly="840"
+                    ulx="155" rend="line"/>
+                <zone xml:id="nb07_01_04_0008_verso_surface_line_11" lry="1040" lrx="2460" uly="925"
+                    ulx="350" rend="line"/>
+                <zone xml:id="nb07_01_04_0008_verso_surface_line_12" lry="1150" lrx="1525"
+                    uly="1035" ulx="195" rend="line"/>
+                <zone xml:id="nb07_01_04_0008_verso_surface_line_13" lry="1235" lrx="2605"
+                    uly="1150" ulx="310" rend="line"/>
+                <zone xml:id="nb07_01_04_0008_verso_surface_line_14" lry="1330" lrx="2610"
+                    uly="1235" ulx="185" rend="line"/>
+                <zone xml:id="nb07_01_04_0008_verso_surface_line_15" lry="1435" lrx="2690"
+                    uly="1330" ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0008_verso_surface_line_16" lry="1520" lrx="2530"
+                    uly="1435" ulx="165" rend="line"/>
+                <zone xml:id="nb07_01_04_0008_verso_surface_line_17" lry="1615" lrx="2650"
+                    uly="1520" ulx="165" rend="line"/>
+                <zone xml:id="nb07_01_04_0008_verso_surface_line_18" lry="1720" lrx="2660"
+                    uly="1615" ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0008_verso_surface_line_19" lry="1820" lrx="2700"
+                    uly="1715" ulx="155" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0009_surface">
+            <surface xml:id="nb07_01_04_0009_recto_surface">
+                <graphic url="nb07_01_04_0009-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0009_recto_surface_line_01" lry="125" lrx="2520" uly="30"
+                    ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0009_recto_surface_line_02" lry="175" lrx="2850" uly="80"
+                    ulx="2745" rend="line"/>
+                <zone xml:id="nb07_01_04_0009_recto_surface_line_03" lry="295" lrx="2750" uly="165"
+                    ulx="200" rend="line"/>
+                <zone xml:id="nb07_01_04_0009_recto_surface_line_04" lry="400" lrx="2360" uly="285"
+                    ulx="270" rend="line"/>
+                <zone xml:id="nb07_01_04_0009_recto_surface_line_05" lry="485" lrx="2840" uly="400"
+                    ulx="290" rend="line"/>
+                <zone xml:id="nb07_01_04_0009_recto_surface_line_06" lry="620" lrx="1060" uly="505"
+                    ulx="165" rend="line"/>
+                <zone xml:id="nb07_01_04_0009_recto_surface_line_07" lry="640" lrx="2800" uly="495"
+                    ulx="2105" rend="line"/>
+                <zone xml:id="nb07_01_04_0009_recto_surface_line_08" lry="695" lrx="1655" uly="605"
+                    ulx="1075" rend="line"/>
+                <zone xml:id="nb07_01_04_0009_recto_surface_line_09" lry="780" lrx="2785" uly="640"
+                    ulx="2490" rend="line"/>
+                <zone xml:id="nb07_01_04_0009_recto_surface_line_10" lry="805" lrx="1920" uly="695"
+                    ulx="535" rend="line"/>
+                <zone xml:id="nb07_01_04_0009_recto_surface_line_11" lry="895" lrx="2390" uly="805"
+                    ulx="220" rend="line"/>
+                <zone xml:id="nb07_01_04_0009_recto_surface_line_12" lry="1010" lrx="2640" uly="900"
+                    ulx="345" rend="line"/>
+                <zone xml:id="nb07_01_04_0009_recto_surface_line_13" lry="1115" lrx="2305"
+                    uly="1000" ulx="240" rend="line"/>
+                <zone xml:id="nb07_01_04_0009_recto_surface_line_14" lry="1210" lrx="2245"
+                    uly="1115" ulx="335" rend="line"/>
+                <zone xml:id="nb07_01_04_0009_recto_surface_line_15" lry="1305" lrx="2230"
+                    uly="1195" ulx="275" rend="line"/>
+                <zone xml:id="nb07_01_04_0009_recto_surface_line_16" lry="1405" lrx="2335"
+                    uly="1305" ulx="505" rend="line"/>
+                <zone xml:id="nb07_01_04_0009_recto_surface_line_17" lry="1495" lrx="2185"
+                    uly="1405" ulx="265" rend="line"/>
+                <zone xml:id="nb07_01_04_0009_recto_surface_line_18" lry="1595" lrx="2865"
+                    uly="1495" ulx="560" rend="line"/>
+                <zone xml:id="nb07_01_04_0009_recto_surface_line_19" lry="1740" lrx="2300"
+                    uly="1620" ulx="270" rend="line"/>
+                <zone xml:id="nb07_01_04_0009_recto_surface_line_20" lry="1810" lrx="2635"
+                    uly="1735" ulx="490" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0010_surface">
+            <surface xml:id="nb07_01_04_0010_verso_surface">
+                <graphic url="nb07_01_04_0010-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0010_verso_surface_line_01" lry="190" lrx="2555" uly="55"
+                    ulx="250" rend="line"/>
+                <zone xml:id="nb07_01_04_0010_verso_surface_line_02" lry="300" lrx="2495" uly="185"
+                    ulx="565" rend="line"/>
+                <zone xml:id="nb07_01_04_0010_verso_surface_line_03" lry="375" lrx="1955" uly="295"
+                    ulx="195" rend="line"/>
+                <zone xml:id="nb07_01_04_0010_verso_surface_line_04" lry="465" lrx="2195" uly="380"
+                    ulx="540" rend="line"/>
+                <zone xml:id="nb07_01_04_0010_verso_surface_line_05" lry="635" lrx="2355" uly="505"
+                    ulx="635" rend="line"/>
+                <zone xml:id="nb07_01_04_0010_verso_surface_line_06" lry="735" lrx="2345" uly="635"
+                    ulx="565" rend="line"/>
+                <zone xml:id="nb07_01_04_0010_verso_surface_line_07" lry="825" lrx="2625" uly="735"
+                    ulx="170" rend="line"/>
+                <zone xml:id="nb07_01_04_0010_verso_surface_line_08" lry="920" lrx="2640" uly="830"
+                    ulx="205" rend="line"/>
+                <zone xml:id="nb07_01_04_0010_verso_surface_line_09" lry="995" lrx="2680" uly="915"
+                    ulx="140" rend="line"/>
+                <zone xml:id="nb07_01_04_0010_verso_surface_line_10" lry="1105" lrx="2610" uly="995"
+                    ulx="130" rend="line"/>
+                <zone xml:id="nb07_01_04_0010_verso_surface_line_11" lry="1210" lrx="2655"
+                    uly="1105" ulx="140" rend="line"/>
+                <zone xml:id="nb07_01_04_0010_verso_surface_line_12" lry="1300" lrx="2610"
+                    uly="1210" ulx="115" rend="line"/>
+                <zone xml:id="nb07_01_04_0010_verso_surface_line_13" lry="1345" lrx="1095"
+                    uly="1295" ulx="530" rend="line"/>
+                <zone xml:id="nb07_01_04_0010_verso_surface_line_14" lry="1400" lrx="2600"
+                    uly="1340" ulx="105" rend="line"/>
+                <zone xml:id="nb07_01_04_0010_verso_surface_line_15" lry="1500" lrx="2790"
+                    uly="1400" ulx="135" rend="line"/>
+                <zone xml:id="nb07_01_04_0010_verso_surface_line_16" lry="1590" lrx="2685"
+                    uly="1500" ulx="145" rend="line"/>
+                <zone xml:id="nb07_01_04_0010_verso_surface_line_17" lry="1670" lrx="2715"
+                    uly="1585" ulx="125" rend="line"/>
+                <zone xml:id="nb07_01_04_0010_verso_surface_line_18" lry="1740" lrx="2755"
+                    uly="1670" ulx="185" rend="line"/>
+                <zone xml:id="nb07_01_04_0010_verso_surface_line_19" lry="1825" lrx="2685"
+                    uly="1745" ulx="200" rend="line"/>
+                <zone xml:id="nb07_01_04_0010_verso_surface_line_20" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+            </surface>
+        </surface>
+        <!-- 
+            start second batch 11-30 
+        -->
+        <surface xml:id="nb07_01_04_0011_surface">
+            <surface xml:id="nb07_01_04_0011_recto_surface">
+                <graphic url="nb07_01_04_0011-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0011_recto_surface_line_01" lry="105" lrx="2550" uly="55"
+                    ulx="130" rend="line"/>
+                <zone xml:id="nb07_01_04_0011_recto_surface_line_02" lry="175" lrx="2845" uly="85"
+                    ulx="2760" rend="line"/>
+                <zone xml:id="nb07_01_04_0011_recto_surface_line_03" lry="275" lrx="2615" uly="200"
+                    ulx="155" rend="line"/>
+                <zone xml:id="nb07_01_04_0011_recto_surface_line_04" lry="360" lrx="1270" uly="300"
+                    ulx="95" rend="line"/>
+                <zone xml:id="nb07_01_04_0011_recto_surface_line_05" lry="460" lrx="2600" uly="385"
+                    ulx="260" rend="line"/>
+                <zone xml:id="nb07_01_04_0011_recto_surface_line_06" lry="570" lrx="2850" uly="495"
+                    ulx="140" rend="line"/>
+                <zone xml:id="nb07_01_04_0011_recto_surface_line_07" lry="665" lrx="2835" uly="595"
+                    ulx="580" rend="line"/>
+                <zone xml:id="nb07_01_04_0011_recto_surface_line_08" lry="755" lrx="2080" uly="700"
+                    ulx="570" rend="line"/>
+                <zone xml:id="nb07_01_04_0011_recto_surface_line_09" lry="805" lrx="2860" uly="745"
+                    ulx="140" rend="line"/>
+                <zone xml:id="nb07_01_04_0011_recto_surface_line_10" lry="910" lrx="2290" uly="815"
+                    ulx="120" rend="line"/>
+                <zone xml:id="nb07_01_04_0011_recto_surface_line_11" lry="1010" lrx="2760" uly="930"
+                    ulx="325" rend="line"/>
+                <zone xml:id="nb07_01_04_0011_recto_surface_line_12" lry="1110" lrx="2805"
+                    uly="1025" ulx="285" rend="line"/>
+                <zone xml:id="nb07_01_04_0011_recto_surface_line_13" lry="1235" lrx="2890"
+                    uly="1110" ulx="275" rend="line"/>
+                <zone xml:id="nb07_01_04_0011_recto_surface_line_14" lry="1315" lrx="1230"
+                    uly="1235" ulx="120" rend="line"/>
+                <zone xml:id="nb07_01_04_0011_recto_surface_line_15" lry="1430" lrx="2780"
+                    uly="1355" ulx="290" rend="line"/>
+                <zone xml:id="nb07_01_04_0011_recto_surface_line_16" lry="1510" lrx="2275"
+                    uly="1425" ulx="390" rend="line"/>
+                <zone xml:id="nb07_01_04_0011_recto_surface_line_17" lry="1610" lrx="2065"
+                    uly="1535" ulx="300" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0012_surface">
+            <surface xml:id="nb07_01_04_0012_verso_surface">
+                <graphic url="nb07_01_04_0012-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0012_verso_surface_line_01" lry="185" lrx="2590" uly="60"
+                    ulx="155" rend="line"/>
+                <zone xml:id="nb07_01_04_0012_verso_surface_line_02" lry="295" lrx="2575" uly="205"
+                    ulx="140" rend="line"/>
+                <zone xml:id="nb07_01_04_0012_verso_surface_line_03" lry="395" lrx="2720" uly="310"
+                    ulx="170" rend="line"/>
+                <zone xml:id="nb07_01_04_0012_verso_surface_line_04" lry="490" lrx="1970" uly="385"
+                    ulx="155" rend="line"/>
+                <zone xml:id="nb07_01_04_0012_verso_surface_line_05" lry="720" lrx="2515" uly="605"
+                    ulx="120" rend="line"/>
+                <zone xml:id="nb07_01_04_0012_verso_surface_line_06" lry="840" lrx="2630" uly="740"
+                    ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0012_verso_surface_line_07" lry="940" lrx="2595" uly="850"
+                    ulx="145" rend="line"/>
+                <zone xml:id="nb07_01_04_0012_verso_surface_line_08" lry="1020" lrx="2755" uly="935"
+                    ulx="150" rend="line"/>
+                <zone xml:id="nb07_01_04_0012_verso_surface_line_09" lry="1125" lrx="2725"
+                    uly="1030" ulx="160" rend="line"/>
+                <zone xml:id="nb07_01_04_0012_verso_surface_line_10" lry="1215" lrx="2695"
+                    uly="1125" ulx="180" rend="line"/>
+                <zone xml:id="nb07_01_04_0012_verso_surface_line_11" lry="1320" lrx="2620"
+                    uly="1250" ulx="160" rend="line"/>
+                <zone xml:id="nb07_01_04_0012_verso_surface_line_12" lry="1410" lrx="2735"
+                    uly="1325" ulx="165" rend="line"/>
+                <zone xml:id="nb07_01_04_0012_verso_surface_line_13" lry="1615" lrx="2780"
+                    uly="1435" ulx="170" rend="line"/>
+                <zone xml:id="nb07_01_04_0012_verso_surface_line_14" lry="1550" lrx="2765"
+                    uly="1530" ulx="155" rend="line"/>
+                <zone xml:id="nb07_01_04_0012_verso_surface_line_15" lry="1725" lrx="2690"
+                    uly="1650" ulx="200" rend="line"/>
+                <zone xml:id="nb07_01_04_0012_verso_surface_line_16" lry="1800" lrx="2665"
+                    uly="1735" ulx="185" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0013_surface">
+            <surface xml:id="nb07_01_04_0013_recto_surface">
+                <graphic url="nb07_01_04_0013-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0013_recto_surface_line_01" lry="120" lrx="2705" uly="65"
+                    ulx="170" rend="line"/>
+                <zone xml:id="nb07_01_04_0013_recto_surface_line_02" lry="180" lrx="2850" uly="130"
+                    ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0013_recto_surface_line_03" lry="280" lrx="1990" uly="215"
+                    ulx="1665" rend="line"/>
+                <zone xml:id="nb07_01_04_0013_recto_surface_line_04" lry="390" lrx="2720" uly="320"
+                    ulx="265" rend="line"/>
+                <zone xml:id="nb07_01_04_0013_recto_surface_line_05" lry="495" lrx="2705" uly="420"
+                    ulx="275" rend="line"/>
+                <zone xml:id="nb07_01_04_0013_recto_surface_line_06" lry="590" lrx="2780" uly="495"
+                    ulx="240" rend="line"/>
+                <zone xml:id="nb07_01_04_0013_recto_surface_line_07" lry="705" lrx="2765" uly="620"
+                    ulx="250" rend="line"/>
+                <zone xml:id="nb07_01_04_0013_recto_surface_line_08" lry="785" lrx="875" uly="705"
+                    ulx="270" rend="line"/>
+                <zone xml:id="nb07_01_04_0013_recto_surface_line_09" lry="910" lrx="1145" uly="845"
+                    ulx="855" rend="line"/>
+                <zone xml:id="nb07_01_04_0013_recto_surface_line_10" lry="975" lrx="2740" uly="895"
+                    ulx="250" rend="line"/>
+                <zone xml:id="nb07_01_04_0013_recto_surface_line_11" lry="1070" lrx="1630"
+                    uly="1000" ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0013_recto_surface_line_12" lry="1200" lrx="2710"
+                    uly="1120" ulx="285" rend="line"/>
+                <zone xml:id="nb07_01_04_0013_recto_surface_line_13" lry="1285" lrx="2565"
+                    uly="1220" ulx="270" rend="line"/>
+                <zone xml:id="nb07_01_04_0013_recto_surface_line_14" lry="1375" lrx="2685"
+                    uly="1285" ulx="275" rend="line"/>
+                <zone xml:id="nb07_01_04_0013_recto_surface_line_15" lry="1485" lrx="2790"
+                    uly="1410" ulx="2260" rend="line"/>
+                <zone xml:id="nb07_01_04_0013_recto_surface_line_16" lry="1580" lrx="2520"
+                    uly="1505" ulx="245" rend="line"/>
+                <zone xml:id="nb07_01_04_0013_recto_surface_line_17" lry="1660" lrx="2870"
+                    uly="1590" ulx="230" rend="line"/>
+                <zone xml:id="nb07_01_04_0013_recto_surface_line_18" lry="1740" lrx="2580"
+                    uly="1665" ulx="205" rend="line"/>
+                <zone xml:id="nb07_01_04_0013_recto_surface_line_19" lry="1800" lrx="2480"
+                    uly="1740" ulx="365" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0014_surface">
+            <surface xml:id="nb07_01_04_0014_verso_surface">
+                <graphic url="nb07_01_04_0014-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0014_verso_surface_line_01" lry="130" lrx="2690" uly="75"
+                    ulx="275" rend="line"/>
+                <zone xml:id="nb07_01_04_0014_verso_surface_line_02" lry="235" lrx="2640" uly="175"
+                    ulx="235" rend="line"/>
+                <zone xml:id="nb07_01_04_0014_verso_surface_line_03" lry="350" lrx="2720" uly="295"
+                    ulx="255" rend="line"/>
+                <zone xml:id="nb07_01_04_0014_verso_surface_line_04" lry="485" lrx="2440" uly="410"
+                    ulx="230" rend="line"/>
+                <zone xml:id="nb07_01_04_0014_verso_surface_line_05" lry="590" lrx="2535" uly="525"
+                    ulx="235" rend="line"/>
+                <zone xml:id="nb07_01_04_0014_verso_surface_line_06" lry="695" lrx="2540" uly="615"
+                    ulx="220" rend="line"/>
+                <zone xml:id="nb07_01_04_0014_verso_surface_line_07" lry="785" lrx="2590" uly="730"
+                    ulx="195" rend="line"/>
+                <zone xml:id="nb07_01_04_0014_verso_surface_line_08" lry="890" lrx="2580" uly="835"
+                    ulx="185" rend="line"/>
+                <zone xml:id="nb07_01_04_0014_verso_surface_line_09" lry="980" lrx="2495" uly="915"
+                    ulx="160" rend="line"/>
+                <zone xml:id="nb07_01_04_0014_verso_surface_line_10" lry="1080" lrx="2535"
+                    uly="1015" ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0014_verso_surface_line_11" lry="1205" lrx="2745"
+                    uly="1120" ulx="170" rend="line"/>
+                <zone xml:id="nb07_01_04_0014_verso_surface_line_12" lry="1290" lrx="2320"
+                    uly="1225" ulx="185" rend="line"/>
+                <zone xml:id="nb07_01_04_0014_verso_surface_line_13" lry="1350" lrx="2845"
+                    uly="1310" ulx="165" rend="line"/>
+                <zone xml:id="nb07_01_04_0014_verso_surface_line_14" lry="1465" lrx="2400"
+                    uly="1385" ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0014_verso_surface_line_15" lry="1545" lrx="2720"
+                    uly="1460" ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0014_verso_surface_line_16" lry="1660" lrx="2550"
+                    uly="1585" ulx="215" rend="line"/>
+                <zone xml:id="nb07_01_04_0014_verso_surface_line_17" lry="1720" lrx="2835"
+                    uly="1670" ulx="240" rend="line"/>
+                <zone xml:id="nb07_01_04_0014_verso_surface_line_18" lry="1800" lrx="2135"
+                    uly="1735" ulx="275" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0015_surface">
+            <surface xml:id="nb07_01_04_0015_recto_surface">
+                <graphic url="nb07_01_04_0015-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0015_recto_surface_line_01" lry="128" lrx="2695" uly="52"
+                    ulx="157" rend="line"/>
+                <zone xml:id="nb07_01_04_0015_recto_surface_line_02" lry="214" lrx="2809" uly="133"
+                    ulx="209" rend="line"/>
+                <zone xml:id="nb07_01_04_0015_recto_surface_line_03" lry="280" lrx="2428" uly="233"
+                    ulx="185" rend="line"/>
+                <zone xml:id="nb07_01_04_0015_recto_surface_line_04" lry="390" lrx="2462" uly="309"
+                    ulx="204" rend="line"/>
+                <zone xml:id="nb07_01_04_0015_recto_surface_line_05" lry="514" lrx="1457" uly="457"
+                    ulx="195" rend="line"/>
+                <zone xml:id="nb07_01_04_0015_recto_surface_line_06" lry="638" lrx="981" uly="571"
+                    ulx="171" rend="line"/>
+                <zone xml:id="nb07_01_04_0015_recto_surface_line_07" lry="719" lrx="1609" uly="657"
+                    ulx="171" rend="line"/>
+                <zone xml:id="nb07_01_04_0015_recto_surface_line_08" lry="804" lrx="1185" uly="752"
+                    ulx="195" rend="line"/>
+                <zone xml:id="nb07_01_04_0015_recto_surface_line_09" lry="909" lrx="1266" uly="838"
+                    ulx="181" rend="line"/>
+                <zone xml:id="nb07_01_04_0015_recto_surface_line_10" lry="995" lrx="438" uly="933"
+                    ulx="195" rend="line"/>
+                <zone xml:id="nb07_01_04_0015_recto_surface_line_11" lry="1109" lrx="1195"
+                    uly="1052" ulx="219" rend="line"/>
+                <zone xml:id="nb07_01_04_0015_recto_surface_line_12" lry="1185" lrx="2266"
+                    uly="1138" ulx="228" rend="line"/>
+                <zone xml:id="nb07_01_04_0015_recto_surface_line_13" lry="1340" lrx="2760"
+                    uly="1253" ulx="214" rend="line"/>
+                <zone xml:id="nb07_01_04_0015_recto_surface_line_14" lry="1430" lrx="1697"
+                    uly="1356" ulx="247" rend="line"/>
+                <zone xml:id="nb07_01_04_0015_recto_surface_line_15" lry="1576" lrx="2113"
+                    uly="1490" ulx="207" rend="line"/>
+                <zone xml:id="nb07_01_04_0015_recto_surface_line_16" lry="1670" lrx="1847"
+                    uly="1590" ulx="240" rend="line"/>
+                <zone xml:id="nb07_01_04_0015_recto_surface_line_17" lry="1730" lrx="1093"
+                    uly="1673" ulx="237" rend="line"/>
+                <zone xml:id="nb07_01_04_0015_recto_surface_line_18" lry="1793" lrx="1073"
+                    uly="1743" ulx="267" rend="line"/>
+                <zone xml:id="nb07_01_04_0015_recto_surface_line_19" lry="1776" lrx="2130"
+                    uly="1713" ulx="1383" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0016_surface">
+            <surface xml:id="nb07_01_04_0016_verso_surface">
+                <graphic url="nb07_01_04_0016-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0016_verso_surface_line_01" lry="177" lrx="1953" uly="80"
+                    ulx="193" rend="line"/>
+                <zone xml:id="nb07_01_04_0016_verso_surface_line_02" lry="273" lrx="2017" uly="207"
+                    ulx="353" rend="line"/>
+                <zone xml:id="nb07_01_04_0016_verso_surface_line_03" lry="383" lrx="2293" uly="313"
+                    ulx="150" rend="line"/>
+                <zone xml:id="nb07_01_04_0016_verso_surface_line_04" lry="480" lrx="2600" uly="413"
+                    ulx="187" rend="line"/>
+                <zone xml:id="nb07_01_04_0016_verso_surface_line_05" lry="580" lrx="2287" uly="520"
+                    ulx="87" rend="line"/>
+                <zone xml:id="nb07_01_04_0016_verso_surface_line_06" lry="677" lrx="2600" uly="610"
+                    ulx="93" rend="line"/>
+                <zone xml:id="nb07_01_04_0016_verso_surface_line_07" lry="780" lrx="2273" uly="707"
+                    ulx="117" rend="line"/>
+                <zone xml:id="nb07_01_04_0016_verso_surface_line_08" lry="880" lrx="2457" uly="817"
+                    ulx="237" rend="line"/>
+                <zone xml:id="nb07_01_04_0016_verso_surface_line_09" lry="987" lrx="2390" uly="913"
+                    ulx="107" rend="line"/>
+                <zone xml:id="nb07_01_04_0016_verso_surface_line_10" lry="1073" lrx="2717"
+                    uly="1007" ulx="253" rend="line"/>
+                <zone xml:id="nb07_01_04_0016_verso_surface_line_11" lry="1197" lrx="2690"
+                    uly="1107" ulx="97" rend="line"/>
+                <zone xml:id="nb07_01_04_0016_verso_surface_line_12" lry="1277" lrx="1980"
+                    uly="1217" ulx="1683" rend="line"/>
+                <zone xml:id="nb07_01_04_0016_verso_surface_line_13" lry="1320" lrx="2420"
+                    uly="1240" ulx="20" rend="line"/>
+                <zone xml:id="nb07_01_04_0016_verso_surface_line_14" lry="1400" lrx="1580"
+                    uly="1320" ulx="33" rend="line"/>
+                <zone xml:id="nb07_01_04_0016_verso_surface_line_15" lry="1493" lrx="673" uly="1403"
+                    ulx="360" rend="line"/>
+                <zone xml:id="nb07_01_04_0016_verso_surface_line_16" lry="1570" lrx="2763"
+                    uly="1490" ulx="247" rend="line"/>
+                <zone xml:id="nb07_01_04_0016_verso_surface_line_17" lry="1637" lrx="2797"
+                    uly="1567" ulx="1677" rend="line"/>
+                <zone xml:id="nb07_01_04_0016_verso_surface_line_18" lry="1713" lrx="2820"
+                    uly="1643" ulx="1653" rend="line"/>
+                <zone xml:id="nb07_01_04_0016_verso_surface_line_19" lry="1780" lrx="2787"
+                    uly="1713" ulx="1617" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0017_surface">
+            <surface xml:id="nb07_01_04_0017_recto_surface">
+                <graphic url="nb07_01_04_0017-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0017_recto_surface_line_01" lry="83" lrx="770" uly="23"
+                    ulx="303" rend="line"/>
+                <zone xml:id="nb07_01_04_0017_recto_surface_line_02" lry="216" lrx="2820" uly="80"
+                    ulx="303" rend="line"/>
+                <zone xml:id="nb07_01_04_0017_recto_surface_line_03" lry="286" lrx="1216" uly="213"
+                    ulx="196" rend="line"/>
+                <zone xml:id="nb07_01_04_0017_recto_surface_line_04" lry="473" lrx="2804" uly="286"
+                    ulx="260" rend="line"/>
+                <zone xml:id="nb07_01_04_0017_recto_surface_line_05" lry="606" lrx="2604" uly="470"
+                    ulx="300" rend="line"/>
+                <zone xml:id="nb07_01_04_0017_recto_surface_line_06" lry="706" lrx="2773" uly="593"
+                    ulx="217" rend="line"/>
+                <zone xml:id="nb07_01_04_0017_recto_surface_line_07" lry="816" lrx="2757" uly="726"
+                    ulx="300" rend="line"/>
+                <zone xml:id="nb07_01_04_0017_recto_surface_line_08" lry="903" lrx="2672" uly="810"
+                    ulx="199" rend="line"/>
+                <zone xml:id="nb07_01_04_0017_recto_surface_line_09" lry="990" lrx="2593" uly="903"
+                    ulx="93" rend="line"/>
+                <zone xml:id="nb07_01_04_0017_recto_surface_line_10" lry="1163" lrx="2774" uly="991"
+                    ulx="34" rend="line"/>
+                <zone xml:id="nb07_01_04_0017_recto_surface_line_11" lry="1293" lrx="2730"
+                    uly="1160" ulx="444" rend="line"/>
+                <zone xml:id="nb07_01_04_0017_recto_surface_line_12" lry="1396" lrx="2810"
+                    uly="1260" ulx="307" rend="line"/>
+                <zone xml:id="nb07_01_04_0017_recto_surface_line_13" lry="1533" lrx="2757"
+                    uly="1406" ulx="1546" rend="line"/>
+                <zone xml:id="nb07_01_04_0017_recto_surface_line_14" lry="1620" lrx="2786"
+                    uly="1533" ulx="2037" rend="line"/>
+                <zone xml:id="nb07_01_04_0017_recto_surface_line_15" lry="1743" lrx="2640"
+                    uly="1620" ulx="906" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0018_surface">
+            <surface xml:id="nb07_01_04_0018_verso_surface">
+                <graphic url="nb07_01_04_0018-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0018_verso_surface_line_01" lry="131" lrx="2176" uly="54"
+                    ulx="176" rend="line"/>
+                <zone xml:id="nb07_01_04_0018_verso_surface_line_02" lry="197" lrx="1860" uly="140"
+                    ulx="273" rend="line"/>
+                <zone xml:id="nb07_01_04_0018_verso_surface_line_03" lry="337" lrx="2513" uly="263"
+                    ulx="596" rend="line"/>
+                <zone xml:id="nb07_01_04_0018_verso_surface_line_04" lry="413" lrx="2206" uly="350"
+                    ulx="600" rend="line"/>
+                <zone xml:id="nb07_01_04_0018_verso_surface_line_05" lry="517" lrx="2080" uly="470"
+                    ulx="1690" rend="line"/>
+                <zone xml:id="nb07_01_04_0018_verso_surface_line_06" lry="597" lrx="1786" uly="537"
+                    ulx="153" rend="line"/>
+                <zone xml:id="nb07_01_04_0018_verso_surface_line_07" lry="610" lrx="2630" uly="500"
+                    ulx="2120" rend="line"/>
+                <zone xml:id="nb07_01_04_0018_verso_surface_line_08" lry="723" lrx="2786" uly="627"
+                    ulx="143" rend="line"/>
+                <zone xml:id="nb07_01_04_0018_verso_surface_line_09" lry="840" lrx="2793" uly="740"
+                    ulx="76" rend="line"/>
+                <zone xml:id="nb07_01_04_0018_verso_surface_line_10" lry="913" lrx="2556" uly="850"
+                    ulx="163" rend="line"/>
+                <zone xml:id="nb07_01_04_0018_verso_surface_line_11" lry="1013" lrx="2626" uly="940"
+                    ulx="166" rend="line"/>
+                <zone xml:id="nb07_01_04_0018_verso_surface_line_12" lry="1110" lrx="2683"
+                    uly="1027" ulx="110" rend="line"/>
+                <zone xml:id="nb07_01_04_0018_verso_surface_line_13" lry="1200" lrx="2570"
+                    uly="1137" ulx="156" rend="line"/>
+                <zone xml:id="nb07_01_04_0018_verso_surface_line_14" lry="1420" lrx="2680"
+                    uly="1327" ulx="103" rend="line"/>
+                <zone xml:id="nb07_01_04_0018_verso_surface_line_15" lry="1527" lrx="2466"
+                    uly="1430" ulx="136" rend="line"/>
+                <zone xml:id="nb07_01_04_0018_verso_surface_line_16" lry="1577" lrx="230" uly="1533"
+                    ulx="83" rend="line"/>
+                <zone xml:id="nb07_01_04_0018_verso_surface_line_17" lry="1660" lrx="2710"
+                    uly="1593" ulx="223" rend="line"/>
+                <zone xml:id="nb07_01_04_0018_verso_surface_line_18" lry="1760" lrx="2730"
+                    uly="1677" ulx="183" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0019_surface">
+            <surface xml:id="nb07_01_04_0019_recto_surface">
+                <graphic url="nb07_01_04_0019-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0019_recto_surface_line_01" lry="110" lrx="2606" uly="33"
+                    ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0019_recto_surface_line_02" lry="216" lrx="2800" uly="106"
+                    ulx="217" rend="line"/>
+                <zone xml:id="nb07_01_04_0019_recto_surface_line_03" lry="300" lrx="2683" uly="223"
+                    ulx="186" rend="line"/>
+                <zone xml:id="nb07_01_04_0019_recto_surface_line_04" lry="390" lrx="2783" uly="320"
+                    ulx="183" rend="line"/>
+                <zone xml:id="nb07_01_04_0019_recto_surface_line_05" lry="503" lrx="2753" uly="426"
+                    ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0019_recto_surface_line_06" lry="583" lrx="2620" uly="520"
+                    ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0019_recto_surface_line_07" lry="686" lrx="2763" uly="610"
+                    ulx="156" rend="line"/>
+                <zone xml:id="nb07_01_04_0019_recto_surface_line_08" lry="823" lrx="2830" uly="716"
+                    ulx="173" rend="line"/>
+                <zone xml:id="nb07_01_04_0019_recto_surface_line_09" lry="923" lrx="2810" uly="836"
+                    ulx="246" rend="line"/>
+                <zone xml:id="nb07_01_04_0019_recto_surface_line_10" lry="1006" lrx="2650" uly="930"
+                    ulx="180" rend="line"/>
+                <zone xml:id="nb07_01_04_0019_recto_surface_line_11" lry="1106" lrx="2783"
+                    uly="1023" ulx="150" rend="line"/>
+                <zone xml:id="nb07_01_04_0019_recto_surface_line_12" lry="1196" lrx="433" uly="1110"
+                    ulx="183" rend="line"/>
+                <zone xml:id="nb07_01_04_0019_recto_surface_line_13" lry="1376" lrx="1360"
+                    uly="1276" ulx="213" rend="line"/>
+                <zone xml:id="nb07_01_04_0019_recto_surface_line_14" lry="1503" lrx="2276"
+                    uly="1426" ulx="233" rend="line"/>
+                <zone xml:id="nb07_01_04_0019_recto_surface_line_15" lry="1700" lrx="2633"
+                    uly="1580" ulx="170" rend="line"/>
+                <zone xml:id="nb07_01_04_0019_recto_surface_line_16" lry="1770" lrx="2653"
+                    uly="1700" ulx="276" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0020_surface">
+            <surface xml:id="nb07_01_04_0020_verso_surface">
+                <graphic url="nb07_01_04_0020-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0021_verso_surface_line_01" lry="120" lrx="2657" uly="56"
+                    ulx="220" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_verso_surface_line_02" lry="206" lrx="2370" uly="136"
+                    ulx="200" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_verso_surface_line_03" lry="306" lrx="2743" uly="216"
+                    ulx="120" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_verso_surface_line_04" lry="406" lrx="2700" uly="326"
+                    ulx="94" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_verso_surface_line_05" lry="513" lrx="2670" uly="416"
+                    ulx="187" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_verso_surface_line_06" lry="606" lrx="2567" uly="520"
+                    ulx="137" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_verso_surface_line_07" lry="703" lrx="2743" uly="603"
+                    ulx="180" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_verso_surface_line_08" lry="806" lrx="2613" uly="716"
+                    ulx="153" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_verso_surface_line_09" lry="906" lrx="2623" uly="816"
+                    ulx="153" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_verso_surface_line_10" lry="1017" lrx="687" uly="933"
+                    ulx="107" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_verso_surface_line_11" lry="1093" lrx="2534"
+                    uly="1023" ulx="94" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_verso_surface_line_12" lry="1190" lrx="2713"
+                    uly="1106" ulx="93" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_verso_surface_line_13" lry="1290" lrx="2637"
+                    uly="1203" ulx="153" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_verso_surface_line_14" lry="1390" lrx="1147"
+                    uly="1320" ulx="97" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_verso_surface_line_15" lry="1486" lrx="2773"
+                    uly="1403" ulx="50" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_verso_surface_line_16" lry="1600" lrx="2653"
+                    uly="1506" ulx="97" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_verso_surface_line_17" lry="1706" lrx="2760"
+                    uly="1603" ulx="183" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_verso_surface_line_18" lry="1800" lrx="2713"
+                    uly="1710" ulx="197" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0021_surface">
+            <surface xml:id="nb07_01_04_0021_recto_surface">
+                <graphic url="nb07_01_04_0021-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0021_recto_surface_line_01" lry="143" lrx="2817" uly="36"
+                    ulx="140" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_recto_surface_line_02" lry="206" lrx="2710" uly="143"
+                    ulx="130" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_recto_surface_line_03" lry="316" lrx="2843" uly="210"
+                    ulx="177" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_recto_surface_line_04" lry="416" lrx="2753" uly="313"
+                    ulx="180" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_recto_surface_line_05" lry="536" lrx="2603" uly="443"
+                    ulx="243" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_recto_surface_line_06" lry="650" lrx="2823" uly="566"
+                    ulx="177" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_recto_surface_line_07" lry="766" lrx="2417" uly="696"
+                    ulx="203" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_recto_surface_line_08" lry="903" lrx="2850" uly="793"
+                    ulx="70" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_recto_surface_line_09" lry="1003" lrx="2843" uly="913"
+                    ulx="127" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_recto_surface_line_10" lry="1096" lrx="2800"
+                    uly="1020" ulx="200" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_recto_surface_line_11" lry="1203" lrx="2650"
+                    uly="1116" ulx="227" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_recto_surface_line_12" lry="1306" lrx="2813"
+                    uly="1220" ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_recto_surface_line_13" lry="1406" lrx="2707"
+                    uly="1326" ulx="250" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_recto_surface_line_14" lry="1513" lrx="1140"
+                    uly="1423" ulx="227" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_recto_surface_line_15" lry="1590" lrx="2453"
+                    uly="1513" ulx="667" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_recto_surface_line_16" lry="1690" lrx="2797"
+                    uly="1593" ulx="157" rend="line"/>
+                <zone xml:id="nb07_01_04_0021_recto_surface_line_17" lry="1783" lrx="2550"
+                    uly="1696" ulx="193" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0022_surface">
+            <surface xml:id="nb07_01_04_0022_verso_surface">
+                <graphic url="nb07_01_04_0022-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0022_verso_surface_line_01" lry="160" lrx="2730" uly="63"
+                    ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0022_verso_surface_line_02" lry="290" lrx="2743" uly="197"
+                    ulx="180" rend="line"/>
+                <zone xml:id="nb07_01_04_0022_verso_surface_line_03" lry="390" lrx="2643" uly="293"
+                    ulx="173" rend="line"/>
+                <zone xml:id="nb07_01_04_0022_verso_surface_line_04" lry="503" lrx="2750" uly="413"
+                    ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0022_verso_surface_line_05" lry="590" lrx="2683" uly="520"
+                    ulx="90" rend="line"/>
+                <zone xml:id="nb07_01_04_0022_verso_surface_line_06" lry="707" lrx="2533" uly="610"
+                    ulx="93" rend="line"/>
+                <zone xml:id="nb07_01_04_0022_verso_surface_line_07" lry="790" lrx="2666" uly="720"
+                    ulx="110" rend="line"/>
+                <zone xml:id="nb07_01_04_0022_verso_surface_line_08" lry="860" lrx="2723" uly="800"
+                    ulx="103" rend="line"/>
+                <zone xml:id="nb07_01_04_0022_verso_surface_line_09" lry="960" lrx="2733" uly="880"
+                    ulx="120" rend="line"/>
+                <zone xml:id="nb07_01_04_0022_verso_surface_line_10" lry="1063" lrx="2606" uly="987"
+                    ulx="143" rend="line"/>
+                <zone xml:id="nb07_01_04_0022_verso_surface_line_11" lry="1170" lrx="2822"
+                    uly="1077" ulx="109" rend="line"/>
+                <zone xml:id="nb07_01_04_0022_verso_surface_line_12" lry="1317" lrx="2420"
+                    uly="1173" ulx="133" rend="line"/>
+                <zone xml:id="nb07_01_04_0022_verso_surface_line_13" lry="1430" lrx="1620"
+                    uly="1320" ulx="213" rend="line"/>
+                <zone xml:id="nb07_01_04_0022_verso_surface_line_14" lry="1507" lrx="2733"
+                    uly="1440" ulx="110" rend="line"/>
+                <zone xml:id="nb07_01_04_0022_verso_surface_line_15" lry="1610" lrx="2750"
+                    uly="1520" ulx="100" rend="line"/>
+                <zone xml:id="nb07_01_04_0022_verso_surface_line_16" lry="1717" lrx="2830"
+                    uly="1617" ulx="150" rend="line"/>
+                <zone xml:id="nb07_01_04_0022_verso_surface_line_17" lry="1797" lrx="2566"
+                    uly="1730" ulx="183" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0023_surface">
+            <surface xml:id="nb07_01_04_0023_recto_surface">
+                <graphic url="nb07_01_04_0023-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0023_recto_surface_line_01" lry="103" lrx="2770" uly="20"
+                    ulx="223" rend="line"/>
+                <zone xml:id="nb07_01_04_0023_recto_surface_line_02" lry="196" lrx="2827" uly="110"
+                    ulx="177" rend="line"/>
+                <zone xml:id="nb07_01_04_0023_recto_surface_line_03" lry="293" lrx="2660" uly="223"
+                    ulx="167" rend="line"/>
+                <zone xml:id="nb07_01_04_0023_recto_surface_line_04" lry="403" lrx="2637" uly="313"
+                    ulx="237" rend="line"/>
+                <zone xml:id="nb07_01_04_0023_recto_surface_line_05" lry="503" lrx="2837" uly="416"
+                    ulx="167" rend="line"/>
+                <zone xml:id="nb07_01_04_0023_recto_surface_line_06" lry="586" lrx="2770" uly="506"
+                    ulx="240" rend="line"/>
+                <zone xml:id="nb07_01_04_0023_recto_surface_line_07" lry="690" lrx="2767" uly="596"
+                    ulx="220" rend="line"/>
+                <zone xml:id="nb07_01_04_0023_recto_surface_line_08" lry="793" lrx="2810" uly="723"
+                    ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0023_recto_surface_line_09" lry="883" lrx="2636" uly="820"
+                    ulx="246" rend="line"/>
+                <zone xml:id="nb07_01_04_0023_recto_surface_line_10" lry="983" lrx="2483" uly="910"
+                    ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0023_recto_surface_line_11" lry="1050" lrx="2873" uly="990"
+                    ulx="70" rend="line"/>
+                <zone xml:id="nb07_01_04_0023_recto_surface_line_12" lry="1153" lrx="2796"
+                    uly="1070" ulx="226" rend="line"/>
+                <zone xml:id="nb07_01_04_0023_recto_surface_line_13" lry="1263" lrx="2083"
+                    uly="1173" ulx="283" rend="line"/>
+                <zone xml:id="nb07_01_04_0023_recto_surface_line_14" lry="1390" lrx="2616"
+                    uly="1316" ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0023_recto_surface_line_15" lry="1496" lrx="2733"
+                    uly="1420" ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0023_recto_surface_line_16" lry="1560" lrx="1746"
+                    uly="1503" ulx="1643" rend="line"/>
+                <zone xml:id="nb07_01_04_0023_recto_surface_line_17" lry="1606" lrx="2773"
+                    uly="1536" ulx="193" rend="line"/>
+                <zone xml:id="nb07_01_04_0023_recto_surface_line_18" lry="1696" lrx="2703"
+                    uly="1626" ulx="220" rend="line"/>
+                <zone xml:id="nb07_01_04_0023_recto_surface_line_19" lry="1773" lrx="1383"
+                    uly="1706" ulx="223" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0024_surface">
+            <surface xml:id="nb07_01_04_0024_verso_surface">
+                <graphic url="nb07_01_04_0024-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0024_verso_surface_line_01" lry="137" lrx="2090" uly="43"
+                    ulx="237" rend="line"/>
+                <zone xml:id="nb07_01_04_0024_verso_surface_line_02" lry="247" lrx="2667" uly="150"
+                    ulx="223" rend="line"/>
+                <zone xml:id="nb07_01_04_0024_verso_surface_line_03" lry="373" lrx="663" uly="273"
+                    ulx="280" rend="line"/>
+                <zone xml:id="nb07_01_04_0024_verso_surface_line_04" lry="483" lrx="1817" uly="407"
+                    ulx="150" rend="line"/>
+                <zone xml:id="nb07_01_04_0024_verso_surface_line_05" lry="600" lrx="1610" uly="513"
+                    ulx="367" rend="line"/>
+                <zone xml:id="nb07_01_04_0024_verso_surface_line_06" lry="673" lrx="1450" uly="600"
+                    ulx="377" rend="line"/>
+                <zone xml:id="nb07_01_04_0024_verso_surface_line_07" lry="763" lrx="1987" uly="677"
+                    ulx="383" rend="line"/>
+                <zone xml:id="nb07_01_04_0024_verso_surface_line_08" lry="860" lrx="1640" uly="773"
+                    ulx="370" rend="line"/>
+                <zone xml:id="nb07_01_04_0024_verso_surface_line_09" lry="913" lrx="2810" uly="860"
+                    ulx="57" rend="line"/>
+                <zone xml:id="nb07_01_04_0024_verso_surface_line_10" lry="1003" lrx="1597" uly="920"
+                    ulx="363" rend="line"/>
+                <zone xml:id="nb07_01_04_0024_verso_surface_line_11" lry="1093" lrx="1660" uly="997"
+                    ulx="410" rend="line"/>
+                <zone xml:id="nb07_01_04_0024_verso_surface_line_12" lry="1193" lrx="2117"
+                    uly="1093" ulx="410" rend="line"/>
+                <zone xml:id="nb07_01_04_0024_verso_surface_line_13" lry="1293" lrx="1800"
+                    uly="1193" ulx="410" rend="line"/>
+                <zone xml:id="nb07_01_04_0024_verso_surface_line_14" lry="1393" lrx="2810"
+                    uly="1300" ulx="34" rend="line"/>
+                <zone xml:id="nb07_01_04_0024_verso_surface_line_15" lry="1510" lrx="2047"
+                    uly="1403" ulx="343" rend="line"/>
+                <zone xml:id="nb07_01_04_0024_verso_surface_line_16" lry="1590" lrx="1523"
+                    uly="1510" ulx="353" rend="line"/>
+                <zone xml:id="nb07_01_04_0024_verso_surface_line_17" lry="1683" lrx="2180"
+                    uly="1603" ulx="320" rend="line"/>
+                <zone xml:id="nb07_01_04_0024_verso_surface_line_18" lry="1770" lrx="1603"
+                    uly="1693" ulx="427" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0025_surface">
+            <surface xml:id="nb07_01_04_0025_recto_surface">
+                <graphic url="nb07_01_04_0025-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0025_recto_surface_line_01" lry="107" lrx="1843" uly="37"
+                    ulx="426" rend="line"/>
+                <zone xml:id="nb07_01_04_0025_recto_surface_line_02" lry="187" lrx="2820" uly="107"
+                    ulx="430" rend="line"/>
+                <zone xml:id="nb07_01_04_0025_recto_surface_line_03" lry="280" lrx="1996" uly="197"
+                    ulx="386" rend="line"/>
+                <zone xml:id="nb07_01_04_0025_recto_surface_line_04" lry="354" lrx="1520" uly="280"
+                    ulx="436" rend="line"/>
+                <zone xml:id="nb07_01_04_0025_recto_surface_line_05" lry="444" lrx="2850" uly="357"
+                    ulx="40" rend="line"/>
+                <zone xml:id="nb07_01_04_0025_recto_surface_line_06" lry="537" lrx="1940" uly="450"
+                    ulx="433" rend="line"/>
+                <zone xml:id="nb07_01_04_0025_recto_surface_line_07" lry="610" lrx="1480" uly="550"
+                    ulx="460" rend="line"/>
+                <zone xml:id="nb07_01_04_0025_recto_surface_line_08" lry="697" lrx="1930" uly="630"
+                    ulx="426" rend="line"/>
+                <zone xml:id="nb07_01_04_0025_recto_surface_line_09" lry="797" lrx="1510" uly="707"
+                    ulx="460" rend="line"/>
+                <zone xml:id="nb07_01_04_0025_recto_surface_line_10" lry="930" lrx="1860" uly="824"
+                    ulx="146" rend="line"/>
+                <zone xml:id="nb07_01_04_0025_recto_surface_line_11" lry="1034" lrx="790" uly="950"
+                    ulx="263" rend="line"/>
+                <zone xml:id="nb07_01_04_0025_recto_surface_line_12" lry="1130" lrx="1716"
+                    uly="1047" ulx="486" rend="line"/>
+                <zone xml:id="nb07_01_04_0025_recto_surface_line_13" lry="1220" lrx="1423"
+                    uly="1144" ulx="493" rend="line"/>
+                <zone xml:id="nb07_01_04_0025_recto_surface_line_14" lry="1307" lrx="1913"
+                    uly="1240" ulx="476" rend="line"/>
+                <zone xml:id="nb07_01_04_0025_recto_surface_line_15" lry="1414" lrx="1893"
+                    uly="1334" ulx="503" rend="line"/>
+                <zone xml:id="nb07_01_04_0025_recto_surface_line_16" lry="1517" lrx="2403"
+                    uly="1434" ulx="510" rend="line"/>
+                <zone xml:id="nb07_01_04_0025_recto_surface_line_17" lry="1617" lrx="1756"
+                    uly="1537" ulx="650" rend="line"/>
+                <zone xml:id="nb07_01_04_0025_recto_surface_line_18" lry="1697" lrx="1993"
+                    uly="1617" ulx="496" rend="line"/>
+                <zone xml:id="nb07_01_04_0025_recto_surface_line_19" lry="1790" lrx="1733"
+                    uly="1707" ulx="493" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0026_surface">
+            <surface xml:id="nb07_01_04_0026_verso_surface">
+                <graphic url="nb07_01_04_0026-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0026_verso_surface_line_01" lry="143" lrx="2023" uly="70"
+                    ulx="273" rend="line"/>
+                <zone xml:id="nb07_01_04_0026_verso_surface_line_02" lry="247" lrx="1823" uly="170"
+                    ulx="323" rend="line"/>
+                <zone xml:id="nb07_01_04_0026_verso_surface_line_03" lry="317" lrx="2623" uly="260"
+                    ulx="50" rend="line"/>
+                <zone xml:id="nb07_01_04_0026_verso_surface_line_04" lry="390" lrx="2083" uly="333"
+                    ulx="303" rend="line"/>
+                <zone xml:id="nb07_01_04_0026_verso_surface_line_05" lry="493" lrx="2173" uly="420"
+                    ulx="293" rend="line"/>
+                <zone xml:id="nb07_01_04_0026_verso_surface_line_06" lry="603" lrx="2050" uly="513"
+                    ulx="296" rend="line"/>
+                <zone xml:id="nb07_01_04_0026_verso_surface_line_07" lry="696" lrx="1350" uly="626"
+                    ulx="380" rend="line"/>
+                <zone xml:id="nb07_01_04_0026_verso_surface_line_08" lry="780" lrx="2196" uly="710"
+                    ulx="280" rend="line"/>
+                <zone xml:id="nb07_01_04_0026_verso_surface_line_09" lry="893" lrx="1970" uly="820"
+                    ulx="460" rend="line"/>
+                <zone xml:id="nb07_01_04_0026_verso_surface_line_10" lry="1006" lrx="2060" uly="913"
+                    ulx="390" rend="line"/>
+                <zone xml:id="nb07_01_04_0026_verso_surface_line_11" lry="1106" lrx="2530"
+                    uly="1023" ulx="346" rend="line"/>
+                <zone xml:id="nb07_01_04_0026_verso_surface_line_12" lry="1190" lrx="2603"
+                    uly="1120" ulx="26" rend="line"/>
+                <zone xml:id="nb07_01_04_0026_verso_surface_line_13" lry="1303" lrx="2130"
+                    uly="1216" ulx="206" rend="line"/>
+                <zone xml:id="nb07_01_04_0026_verso_surface_line_14" lry="1400" lrx="2373"
+                    uly="1330" ulx="146" rend="line"/>
+                <zone xml:id="nb07_01_04_0026_verso_surface_line_15" lry="1500" lrx="1976"
+                    uly="1426" ulx="333" rend="line"/>
+                <zone xml:id="nb07_01_04_0026_verso_surface_line_16" lry="1613" lrx="2840"
+                    uly="1530" ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0026_verso_surface_line_17" lry="1673" lrx="1486"
+                    uly="1610" ulx="1136" rend="line"/>
+                <zone xml:id="nb07_01_04_0026_verso_surface_line_18" lry="1773" lrx="2763"
+                    uly="1683" ulx="163" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0027_surface">
+            <surface xml:id="nb07_01_04_0027_recto_surface">
+                <graphic url="nb07_01_04_0027-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0027_recto_surface_line_01" lry="100" lrx="2727" uly="30"
+                    ulx="187" rend="line"/>
+                <zone xml:id="nb07_01_04_0027_recto_surface_line_02" lry="210" lrx="2847" uly="110"
+                    ulx="243" rend="line"/>
+                <zone xml:id="nb07_01_04_0027_recto_surface_line_03" lry="307" lrx="2847" uly="220"
+                    ulx="223" rend="line"/>
+                <zone xml:id="nb07_01_04_0027_recto_surface_line_04" lry="393" lrx="2533" uly="317"
+                    ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0027_recto_surface_line_05" lry="493" lrx="2850" uly="400"
+                    ulx="227" rend="line"/>
+                <zone xml:id="nb07_01_04_0027_recto_surface_line_06" lry="593" lrx="2820" uly="513"
+                    ulx="227" rend="line"/>
+                <zone xml:id="nb07_01_04_0027_recto_surface_line_07" lry="700" lrx="2513" uly="607"
+                    ulx="223" rend="line"/>
+                <zone xml:id="nb07_01_04_0027_recto_surface_line_08" lry="797" lrx="2773" uly="703"
+                    ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0027_recto_surface_line_09" lry="897" lrx="2557" uly="820"
+                    ulx="220" rend="line"/>
+                <zone xml:id="nb07_01_04_0027_recto_surface_line_10" lry="1000" lrx="2753" uly="910"
+                    ulx="230" rend="line"/>
+                <zone xml:id="nb07_01_04_0027_recto_surface_line_11" lry="1100" lrx="1383"
+                    uly="1003" ulx="287" rend="line"/>
+                <zone xml:id="nb07_01_04_0027_recto_surface_line_12" lry="1190" lrx="2690"
+                    uly="1097" ulx="170" rend="line"/>
+                <zone xml:id="nb07_01_04_0027_recto_surface_line_13" lry="1317" lrx="2770"
+                    uly="1210" ulx="173" rend="line"/>
+                <zone xml:id="nb07_01_04_0027_recto_surface_line_14" lry="1437" lrx="2620"
+                    uly="1317" ulx="277" rend="line"/>
+                <zone xml:id="nb07_01_04_0027_recto_surface_line_15" lry="1520" lrx="2850"
+                    uly="1437" ulx="160" rend="line"/>
+                <zone xml:id="nb07_01_04_0027_recto_surface_line_16" lry="1620" lrx="2787"
+                    uly="1513" ulx="370" rend="line"/>
+                <zone xml:id="nb07_01_04_0027_recto_surface_line_17" lry="1693" lrx="2763"
+                    uly="1617" ulx="307" rend="line"/>
+                <zone xml:id="nb07_01_04_0027_recto_surface_line_18" lry="1800" lrx="990" uly="1710"
+                    ulx="293" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0028_surface">
+            <surface xml:id="nb07_01_04_0028_verso_surface">
+                <graphic url="nb07_01_04_0028-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0028_verso_surface_line_01" lry="130" lrx="2706" uly="47"
+                    ulx="213" rend="line"/>
+                <zone xml:id="nb07_01_04_0028_verso_surface_line_02" lry="264" lrx="2773" uly="154"
+                    ulx="160" rend="line"/>
+                <zone xml:id="nb07_01_04_0028_verso_surface_line_03" lry="354" lrx="2486" uly="274"
+                    ulx="340" rend="line"/>
+                <zone xml:id="nb07_01_04_0028_verso_surface_line_04" lry="440" lrx="2650" uly="367"
+                    ulx="326" rend="line"/>
+                <zone xml:id="nb07_01_04_0028_verso_surface_line_05" lry="514" lrx="2666" uly="440"
+                    ulx="286" rend="line"/>
+                <zone xml:id="nb07_01_04_0028_verso_surface_line_06" lry="604" lrx="2630" uly="530"
+                    ulx="260" rend="line"/>
+                <zone xml:id="nb07_01_04_0028_verso_surface_line_07" lry="700" lrx="2563" uly="607"
+                    ulx="276" rend="line"/>
+                <zone xml:id="nb07_01_04_0028_verso_surface_line_08" lry="787" lrx="1736" uly="700"
+                    ulx="343" rend="line"/>
+                <zone xml:id="nb07_01_04_0028_verso_surface_line_09" lry="994" lrx="2740" uly="864"
+                    ulx="186" rend="line"/>
+                <zone xml:id="nb07_01_04_0028_verso_surface_line_10" lry="1120" lrx="2703"
+                    uly="1017" ulx="320" rend="line"/>
+                <zone xml:id="nb07_01_04_0028_verso_surface_line_11" lry="1217" lrx="2586"
+                    uly="1117" ulx="273" rend="line"/>
+                <zone xml:id="nb07_01_04_0028_verso_surface_line_12" lry="1294" lrx="2776"
+                    uly="1214" ulx="303" rend="line"/>
+                <zone xml:id="nb07_01_04_0028_verso_surface_line_13" lry="1400" lrx="2690"
+                    uly="1317" ulx="330" rend="line"/>
+                <zone xml:id="nb07_01_04_0028_verso_surface_line_14" lry="1507" lrx="2676"
+                    uly="1404" ulx="280" rend="line"/>
+                <zone xml:id="nb07_01_04_0028_verso_surface_line_15" lry="1607" lrx="2230"
+                    uly="1514" ulx="280" rend="line"/>
+                <zone xml:id="nb07_01_04_0028_verso_surface_line_16" lry="1634" lrx="120" uly="97"
+                    ulx="56" rend="line"/>
+                <zone xml:id="nb07_01_04_0028_verso_surface_line_v01" lry="450" lrx="203" uly="277"
+                    ulx="123" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0029_surface">
+            <surface xml:id="nb07_01_04_0029_recto_surface">
+                <graphic url="nb07_01_04_0029-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0029_recto_surface_line_01" lry="163" lrx="2807" uly="73"
+                    ulx="287" rend="line"/>
+                <zone xml:id="nb07_01_04_0029_recto_surface_line_02" lry="373" lrx="2840" uly="273"
+                    ulx="247" rend="line"/>
+                <zone xml:id="nb07_01_04_0029_recto_surface_line_03" lry="476" lrx="2754" uly="396"
+                    ulx="244" rend="line"/>
+                <zone xml:id="nb07_01_04_0029_recto_surface_line_04" lry="596" lrx="2464" uly="500"
+                    ulx="240" rend="line"/>
+                <zone xml:id="nb07_01_04_0029_recto_surface_line_05" lry="683" lrx="1424" uly="620"
+                    ulx="540" rend="line"/>
+                <zone xml:id="nb07_01_04_0029_recto_surface_line_06" lry="763" lrx="2804" uly="696"
+                    ulx="550" rend="line"/>
+                <zone xml:id="nb07_01_04_0029_recto_surface_line_07" lry="856" lrx="974" uly="786"
+                    ulx="304" rend="line"/>
+                <zone xml:id="nb07_01_04_0029_recto_surface_line_08" lry="930" lrx="2687" uly="863"
+                    ulx="557" rend="line"/>
+                <zone xml:id="nb07_01_04_0029_recto_surface_line_09" lry="1016" lrx="2464" uly="946"
+                    ulx="554" rend="line"/>
+                <zone xml:id="nb07_01_04_0029_recto_surface_line_10" lry="1096" lrx="2747"
+                    uly="1023" ulx="564" rend="line"/>
+                <zone xml:id="nb07_01_04_0029_recto_surface_line_11" lry="1193" lrx="2164"
+                    uly="1126" ulx="284" rend="line"/>
+                <zone xml:id="nb07_01_04_0029_recto_surface_line_12" lry="1290" lrx="2860"
+                    uly="1216" ulx="540" rend="line"/>
+                <zone xml:id="nb07_01_04_0029_recto_surface_line_13" lry="1393" lrx="1807"
+                    uly="1310" ulx="584" rend="line"/>
+                <zone xml:id="nb07_01_04_0029_recto_surface_line_14" lry="1470" lrx="2347"
+                    uly="1403" ulx="557" rend="line"/>
+                <zone xml:id="nb07_01_04_0029_recto_surface_line_15" lry="1563" lrx="2727"
+                    uly="1480" ulx="537" rend="line"/>
+                <zone xml:id="nb07_01_04_0029_recto_surface_line_16" lry="1653" lrx="2740"
+                    uly="1586" ulx="330" rend="line"/>
+                <zone xml:id="nb07_01_04_0029_recto_surface_line_17" lry="1736" lrx="1234"
+                    uly="1660" ulx="390" rend="line"/>
+                <zone xml:id="nb07_01_04_0029_recto_surface_line_18" lry="1783" lrx="2764"
+                    uly="1733" ulx="584" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0030_surface">
+            <surface xml:id="nb07_01_04_0030_verso_surface">
+                <graphic url="nb07_01_04_0030-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0030_verso_surface_line_01" lry="153" lrx="813" uly="73"
+                    ulx="203" rend="line"/>
+                <zone xml:id="nb07_01_04_0030_verso_surface_line_02" lry="247" lrx="1343" uly="160"
+                    ulx="340" rend="line"/>
+                <zone xml:id="nb07_01_04_0030_verso_surface_line_03" lry="405" lrx="2610" uly="305"
+                    ulx="185" rend="line"/>
+                <zone xml:id="nb07_01_04_0030_verso_surface_line_04" lry="508" lrx="2507" uly="422"
+                    ulx="133" rend="line"/>
+                <zone xml:id="nb07_01_04_0030_verso_surface_line_05" lry="600" lrx="2550" uly="523"
+                    ulx="85" rend="line"/>
+                <zone xml:id="nb07_01_04_0030_verso_surface_line_06" lry="695" lrx="2095" uly="600"
+                    ulx="105" rend="line"/>
+                <zone xml:id="nb07_01_04_0030_verso_surface_line_07" lry="795" lrx="1590" uly="695"
+                    ulx="465" rend="line"/>
+                <zone xml:id="nb07_01_04_0030_verso_surface_line_08" lry="910" lrx="2685" uly="780"
+                    ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0030_verso_surface_line_09" lry="1013" lrx="2635" uly="925"
+                    ulx="120" rend="line"/>
+                <zone xml:id="nb07_01_04_0030_verso_surface_line_10" lry="1110" lrx="2780"
+                    uly="1012" ulx="122" rend="line"/>
+                <zone xml:id="nb07_01_04_0030_verso_surface_line_11" lry="1215" lrx="1930"
+                    uly="1110" ulx="140" rend="line"/>
+                <zone xml:id="nb07_01_04_0030_verso_surface_line_12" lry="1313" lrx="2726"
+                    uly="1217" ulx="306" rend="line"/>
+                <zone xml:id="nb07_01_04_0030_verso_surface_line_13" lry="1407" lrx="2726"
+                    uly="1313" ulx="203" rend="line"/>
+                <zone xml:id="nb07_01_04_0030_verso_surface_line_14" lry="1523" lrx="2686"
+                    uly="1420" ulx="196" rend="line"/>
+                <zone xml:id="nb07_01_04_0030_verso_surface_line_15" lry="1620" lrx="650" uly="1523"
+                    ulx="150" rend="line"/>
+                <zone xml:id="nb07_01_04_0030_verso_surface_line_16" lry="1710" lrx="2280"
+                    uly="1620" ulx="420" rend="line"/>
+                <zone xml:id="nb07_01_04_0030_verso_surface_line_17" lry="1803" lrx="2643"
+                    uly="1707" ulx="290" rend="line"/>
+            </surface>
+        </surface>
+        <!-- 
+             start third batch 31-59 
+         -->
+        <surface xml:id="nb07_01_04_0031_surface">
+            <surface xml:id="nb07_01_04_0031_recto_surface">
+                <graphic url="nb07_01_04_0031-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0031_recto_surface_line_01" lry="136" lrx="2853" uly="36"
+                    ulx="300" rend="line"/>
+                <zone xml:id="nb07_01_04_0031_recto_surface_line_02" lry="226" lrx="2560" uly="156"
+                    ulx="406" rend="line"/>
+                <zone xml:id="nb07_01_04_0031_recto_surface_line_03" lry="316" lrx="1230" uly="246"
+                    ulx="296" rend="line"/>
+                <zone xml:id="nb07_01_04_0031_recto_surface_line_04" lry="410" lrx="2833" uly="326"
+                    ulx="410" rend="line"/>
+                <zone xml:id="nb07_01_04_0031_recto_surface_line_05" lry="510" lrx="1680" uly="433"
+                    ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0031_recto_surface_line_06" lry="590" lrx="2803" uly="532"
+                    ulx="180" rend="line"/>
+                <zone xml:id="nb07_01_04_0031_recto_surface_line_07" lry="710" lrx="2833" uly="626"
+                    ulx="193" rend="line"/>
+                <zone xml:id="nb07_01_04_0031_recto_surface_line_08" lry="803" lrx="2800" uly="726"
+                    ulx="326" rend="line"/>
+                <zone xml:id="nb07_01_04_0031_recto_surface_line_09" lry="896" lrx="2830" uly="816"
+                    ulx="93" rend="line"/>
+                <zone xml:id="nb07_01_04_0031_recto_surface_line_10" lry="1010" lrx="2486" uly="926"
+                    ulx="290" rend="line"/>
+                <zone xml:id="nb07_01_04_0031_recto_surface_line_11" lry="1103" lrx="2816"
+                    uly="1033" ulx="270" rend="line"/>
+                <zone xml:id="nb07_01_04_0031_recto_surface_line_12" lry="1206" lrx="2806"
+                    uly="1133" ulx="236" rend="line"/>
+                <zone xml:id="nb07_01_04_0031_recto_surface_line_13" lry="1300" lrx="2853"
+                    uly="1226" ulx="263" rend="line"/>
+                <zone xml:id="nb07_01_04_0031_recto_surface_line_14" lry="1406" lrx="2750"
+                    uly="1326" ulx="233" rend="line"/>
+                <zone xml:id="nb07_01_04_0031_recto_surface_line_15" lry="1523" lrx="1293"
+                    uly="1446" ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0031_recto_surface_line_16" lry="1670" lrx="2853"
+                    uly="1600" ulx="153" rend="line"/>
+                <zone xml:id="nb07_01_04_0031_recto_surface_line_17" lry="1776" lrx="2246"
+                    uly="1696" ulx="310" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0032_surface">
+            <surface xml:id="nb07_01_04_0032_verso_surface">
+                <graphic url="nb07_01_04_0032-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0032_verso_surface_line_01" lry="143" lrx="2676" uly="70"
+                    ulx="130" rend="line"/>
+                <zone xml:id="nb07_01_04_0032_verso_surface_line_02" lry="246" lrx="2683" uly="173"
+                    ulx="233" rend="line"/>
+                <zone xml:id="nb07_01_04_0032_verso_surface_line_03" lry="326" lrx="2673" uly="270"
+                    ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0032_verso_surface_line_04" lry="410" lrx="626" uly="343"
+                    ulx="173" rend="line"/>
+                <zone xml:id="nb07_01_04_0032_verso_surface_line_05" lry="500" lrx="2626" uly="423"
+                    ulx="390" rend="line"/>
+                <zone xml:id="nb07_01_04_0032_verso_surface_line_06" lry="586" lrx="733" uly="516"
+                    ulx="193" rend="line"/>
+                <zone xml:id="nb07_01_04_0032_verso_surface_line_07" lry="693" lrx="1373" uly="626"
+                    ulx="490" rend="line"/>
+                <zone xml:id="nb07_01_04_0032_verso_surface_line_08" lry="823" lrx="1383" uly="716"
+                    ulx="510" rend="line"/>
+                <zone xml:id="nb07_01_04_0032_verso_surface_line_09" lry="913" lrx="2763" uly="840"
+                    ulx="320" rend="line"/>
+                <zone xml:id="nb07_01_04_0032_verso_surface_line_10" lry="1006" lrx="2796" uly="930"
+                    ulx="133" rend="line"/>
+                <zone xml:id="nb07_01_04_0032_verso_surface_line_11" lry="1103" lrx="2663"
+                    uly="1030" ulx="186" rend="line"/>
+                <zone xml:id="nb07_01_04_0032_verso_surface_line_12" lry="1210" lrx="2640"
+                    uly="1133" ulx="176" rend="line"/>
+                <zone xml:id="nb07_01_04_0032_verso_surface_line_13" lry="1323" lrx="2830"
+                    uly="1236" ulx="453" rend="line"/>
+                <zone xml:id="nb07_01_04_0032_verso_surface_line_14" lry="1406" lrx="973" uly="1320"
+                    ulx="253" rend="line"/>
+                <zone xml:id="nb07_01_04_0032_verso_surface_line_15" lry="1523" lrx="2783"
+                    uly="1430" ulx="436" rend="line"/>
+                <zone xml:id="nb07_01_04_0032_verso_surface_line_16" lry="1610" lrx="2696"
+                    uly="1540" ulx="543" rend="line"/>
+                <zone xml:id="nb07_01_04_0032_verso_surface_line_17" lry="1723" lrx="2063"
+                    uly="1640" ulx="330" rend="line"/>
+                <zone xml:id="nb07_01_04_0032_verso_surface_line_18" lry="1793" lrx="2773"
+                    uly="1736" ulx="513" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0033_surface">
+            <surface xml:id="nb07_01_04_0033_recto_surface">
+                <graphic url="nb07_01_04_0033-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0033_recto_surface_line_01" lry="113" lrx="2623" uly="36"
+                    ulx="343" rend="line"/>
+                <zone xml:id="nb07_01_04_0033_recto_surface_line_02" lry="200" lrx="2826" uly="133"
+                    ulx="283" rend="line"/>
+                <zone xml:id="nb07_01_04_0033_recto_surface_line_03" lry="303" lrx="2793" uly="230"
+                    ulx="296" rend="line"/>
+                <zone xml:id="nb07_01_04_0033_recto_surface_line_04" lry="403" lrx="2856" uly="333"
+                    ulx="213" rend="line"/>
+                <zone xml:id="nb07_01_04_0033_recto_surface_line_05" lry="510" lrx="2320" uly="436"
+                    ulx="390" rend="line"/>
+                <zone xml:id="nb07_01_04_0033_recto_surface_line_06" lry="623" lrx="2766" uly="533"
+                    ulx="510" rend="line"/>
+                <zone xml:id="nb07_01_04_0033_recto_surface_line_07" lry="713" lrx="706" uly="633"
+                    ulx="247" rend="line"/>
+                <zone xml:id="nb07_01_04_0033_recto_surface_line_08" lry="810" lrx="2026" uly="746"
+                    ulx="512" rend="line"/>
+                <zone xml:id="nb07_01_04_0033_recto_surface_line_09" lry="913" lrx="1856" uly="836"
+                    ulx="446" rend="line"/>
+                <zone xml:id="nb07_01_04_0033_recto_surface_line_10" lry="970" lrx="2783" uly="926"
+                    ulx="140" rend="line"/>
+                <zone xml:id="nb07_01_04_0033_recto_surface_line_11" lry="1113" lrx="2870"
+                    uly="1006" ulx="236" rend="line"/>
+                <zone xml:id="nb07_01_04_0033_recto_surface_line_12" lry="1223" lrx="1983"
+                    uly="1136" ulx="283" rend="line"/>
+                <zone xml:id="nb07_01_04_0033_recto_surface_line_13" lry="1373" lrx="2750"
+                    uly="1283" ulx="286" rend="line"/>
+                <zone xml:id="nb07_01_04_0033_recto_surface_line_14" lry="1496" lrx="2713"
+                    uly="1390" ulx="260" rend="line"/>
+                <zone xml:id="nb07_01_04_0033_recto_surface_line_15" lry="1613" lrx="2783"
+                    uly="1530" ulx="196" rend="line"/>
+                <zone xml:id="nb07_01_04_0033_recto_surface_line_16" lry="1716" lrx="2863"
+                    uly="1646" ulx="260" rend="line"/>
+                <zone xml:id="nb07_01_04_0033_recto_surface_line_17" lry="1803" lrx="2543"
+                    uly="1730" ulx="253" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0034_surface">
+            <surface xml:id="nb07_01_04_0034_verso_surface">
+                <graphic url="nb07_01_04_0034-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0034_verso_surface_line_01" lry="156" lrx="2526" uly="96"
+                    ulx="216" rend="line"/>
+                <zone xml:id="nb07_01_04_0034_verso_surface_line_02" lry="266" lrx="2656" uly="183"
+                    ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0034_verso_surface_line_03" lry="386" lrx="2466" uly="296"
+                    ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0034_verso_surface_line_04" lry="493" lrx="2606" uly="416"
+                    ulx="153" rend="line"/>
+                <zone xml:id="nb07_01_04_0034_verso_surface_line_05" lry="600" lrx="2580" uly="520"
+                    ulx="146" rend="line"/>
+                <zone xml:id="nb07_01_04_0034_verso_surface_line_06" lry="703" lrx="2620" uly="626"
+                    ulx="193" rend="line"/>
+                <zone xml:id="nb07_01_04_0034_verso_surface_line_07" lry="796" lrx="2743" uly="726"
+                    ulx="156" rend="line"/>
+                <zone xml:id="nb07_01_04_0034_verso_surface_line_08" lry="896" lrx="2553" uly="836"
+                    ulx="140" rend="line"/>
+                <zone xml:id="nb07_01_04_0034_verso_surface_line_09" lry="1000" lrx="2683" uly="936"
+                    ulx="140" rend="line"/>
+                <zone xml:id="nb07_01_04_0034_verso_surface_line_10" lry="1096" lrx="2676"
+                    uly="1026" ulx="170" rend="line"/>
+                <zone xml:id="nb07_01_04_0034_verso_surface_line_11" lry="1206" lrx="1610"
+                    uly="1126" ulx="200" rend="line"/>
+                <zone xml:id="nb07_01_04_0034_verso_surface_line_12" lry="1296" lrx="2856"
+                    uly="1230" ulx="80" rend="line"/>
+                <zone xml:id="nb07_01_04_0034_verso_surface_line_13" lry="1400" lrx="2690"
+                    uly="1323" ulx="73" rend="line"/>
+                <zone xml:id="nb07_01_04_0034_verso_surface_line_14" lry="1520" lrx="2810"
+                    uly="1436" ulx="206" rend="line"/>
+                <zone xml:id="nb07_01_04_0034_verso_surface_line_15" lry="1626" lrx="2753"
+                    uly="1543" ulx="176" rend="line"/>
+                <zone xml:id="nb07_01_04_0034_verso_surface_line_16" lry="1720" lrx="2773"
+                    uly="1653" ulx="213" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0035_surface">
+            <surface xml:id="nb07_01_04_0035_recto_surface">
+                <graphic url="nb07_01_04_0035-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0035_recto_surface_line_01" lry="140" lrx="2800" uly="53"
+                    ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0035_recto_surface_line_02" lry="210" lrx="2566" uly="150"
+                    ulx="276" rend="line"/>
+                <zone xml:id="nb07_01_04_0035_recto_surface_line_03" lry="293" lrx="2723" uly="233"
+                    ulx="216" rend="line"/>
+                <zone xml:id="nb07_01_04_0035_recto_surface_line_04" lry="387" lrx="1206" uly="317"
+                    ulx="280" rend="line"/>
+                <zone xml:id="nb07_01_04_0035_recto_surface_line_05" lry="483" lrx="2866" uly="413"
+                    ulx="30" rend="line"/>
+                <zone xml:id="nb07_01_04_0035_recto_surface_line_06" lry="597" lrx="2776" uly="527"
+                    ulx="103" rend="line"/>
+                <zone xml:id="nb07_01_04_0035_recto_surface_line_07" lry="710" lrx="2666" uly="637"
+                    ulx="166" rend="line"/>
+                <zone xml:id="nb07_01_04_0035_recto_surface_line_08" lry="803" lrx="2776" uly="730"
+                    ulx="136" rend="line"/>
+                <zone xml:id="nb07_01_04_0035_recto_surface_line_09" lry="893" lrx="2663" uly="830"
+                    ulx="206" rend="line"/>
+                <zone xml:id="nb07_01_04_0035_recto_surface_line_10" lry="1000" lrx="2736" uly="933"
+                    ulx="240" rend="line"/>
+                <zone xml:id="nb07_01_04_0035_recto_surface_line_11" lry="1117" lrx="2746"
+                    uly="1033" ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0035_recto_surface_line_12" lry="1220" lrx="2643"
+                    uly="1140" ulx="313" rend="line"/>
+                <zone xml:id="nb07_01_04_0035_recto_surface_line_13" lry="1313" lrx="2796"
+                    uly="1253" ulx="183" rend="line"/>
+                <zone xml:id="nb07_01_04_0035_recto_surface_line_14" lry="1413" lrx="2626"
+                    uly="1350" ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0035_recto_surface_line_15" lry="1513" lrx="2810"
+                    uly="1440" ulx="266" rend="line"/>
+                <zone xml:id="nb07_01_04_0035_recto_surface_line_16" lry="1603" lrx="2526"
+                    uly="1543" ulx="283" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0036_surface">
+            <surface xml:id="nb07_01_04_0036_verso_surface">
+                <graphic url="nb07_01_04_0036-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0036_verso_surface_line_01" lry="97" lrx="1216" uly="57"
+                    ulx="316" rend="line"/>
+                <zone xml:id="nb07_01_04_0036_verso_surface_line_02" lry="180" lrx="2720" uly="107"
+                    ulx="246" rend="line"/>
+                <zone xml:id="nb07_01_04_0036_verso_surface_line_03" lry="287" lrx="1170" uly="214"
+                    ulx="250" rend="line"/>
+                <zone xml:id="nb07_01_04_0036_verso_surface_line_04" lry="370" lrx="1473" uly="317"
+                    ulx="846" rend="line"/>
+                <zone xml:id="nb07_01_04_0036_verso_surface_line_05" lry="460" lrx="2586" uly="407"
+                    ulx="80" rend="line"/>
+                <zone xml:id="nb07_01_04_0036_verso_surface_line_06" lry="600" lrx="2183" uly="527"
+                    ulx="110" rend="line"/>
+                <zone xml:id="nb07_01_04_0036_verso_surface_line_07" lry="707" lrx="2536" uly="627"
+                    ulx="206" rend="line"/>
+                <zone xml:id="nb07_01_04_0036_verso_surface_line_08" lry="804" lrx="2463" uly="737"
+                    ulx="300" rend="line"/>
+                <zone xml:id="nb07_01_04_0036_verso_surface_line_09" lry="910" lrx="2396" uly="827"
+                    ulx="316" rend="line"/>
+                <zone xml:id="nb07_01_04_0036_verso_surface_line_10" lry="1004" lrx="2720" uly="937"
+                    ulx="280" rend="line"/>
+                <zone xml:id="nb07_01_04_0036_verso_surface_line_11" lry="1124" lrx="826" uly="1054"
+                    ulx="156" rend="line"/>
+                <zone xml:id="nb07_01_04_0036_verso_surface_line_12" lry="1197" lrx="2810"
+                    uly="1140" ulx="36" rend="line"/>
+                <zone xml:id="nb07_01_04_0036_verso_surface_line_13" lry="1307" lrx="2300"
+                    uly="1240" ulx="176" rend="line"/>
+                <zone xml:id="nb07_01_04_0036_verso_surface_line_14" lry="1397" lrx="2820"
+                    uly="1350" ulx="53" rend="line"/>
+                <zone xml:id="nb07_01_04_0036_verso_surface_line_15" lry="1497" lrx="930" uly="1424"
+                    ulx="173" rend="line"/>
+                <zone xml:id="nb07_01_04_0036_verso_surface_line_16" lry="1607" lrx="2326"
+                    uly="1540" ulx="580" rend="line"/>
+                <zone xml:id="nb07_01_04_0036_verso_surface_line_17" lry="1720" lrx="2303"
+                    uly="1644" ulx="593" rend="line"/>
+                <zone xml:id="nb07_01_04_0036_verso_surface_line_18" lry="1794" lrx="2283"
+                    uly="1740" ulx="566" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0037_surface">
+            <surface xml:id="nb07_01_04_0037_recto_surface">
+                <graphic url="nb07_01_04_0037-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0037_recto_surface_line_01" lry="103" lrx="2354" uly="53"
+                    ulx="364" rend="line"/>
+                <zone xml:id="nb07_01_04_0037_recto_surface_line_02" lry="167" lrx="2827" uly="113"
+                    ulx="2740" rend="line"/>
+                <zone xml:id="nb07_01_04_0037_recto_surface_line_03" lry="300" lrx="1484" uly="223"
+                    ulx="254" rend="line"/>
+                <zone xml:id="nb07_01_04_0037_recto_surface_line_04" lry="373" lrx="2874" uly="330"
+                    ulx="20" rend="line"/>
+                <zone xml:id="nb07_01_04_0037_recto_surface_line_05" lry="493" lrx="2324" uly="413"
+                    ulx="497" rend="line"/>
+                <zone xml:id="nb07_01_04_0037_recto_surface_line_06" lry="590" lrx="2267" uly="527"
+                    ulx="530" rend="line"/>
+                <zone xml:id="nb07_01_04_0037_recto_surface_line_07" lry="690" lrx="2294" uly="623"
+                    ulx="594" rend="line"/>
+                <zone xml:id="nb07_01_04_0037_recto_surface_line_08" lry="790" lrx="2280" uly="717"
+                    ulx="574" rend="line"/>
+                <zone xml:id="nb07_01_04_0037_recto_surface_line_09" lry="887" lrx="2450" uly="830"
+                    ulx="584" rend="line"/>
+                <zone xml:id="nb07_01_04_0037_recto_surface_line_10" lry="1000" lrx="2737" uly="923"
+                    ulx="560" rend="line"/>
+                <zone xml:id="nb07_01_04_0037_recto_surface_line_11" lry="1100" lrx="2214"
+                    uly="1033" ulx="590" rend="line"/>
+                <zone xml:id="nb07_01_04_0037_recto_surface_line_12" lry="1213" lrx="2710"
+                    uly="1137" ulx="624" rend="line"/>
+                <zone xml:id="nb07_01_04_0037_recto_surface_line_13" lry="1307" lrx="2877"
+                    uly="1250" ulx="20" rend="line"/>
+                <zone xml:id="nb07_01_04_0037_recto_surface_line_14" lry="1417" lrx="2690"
+                    uly="1350" ulx="324" rend="line"/>
+                <zone xml:id="nb07_01_04_0037_recto_surface_line_15" lry="1590" lrx="2844"
+                    uly="1447" ulx="270" rend="line"/>
+                <zone xml:id="nb07_01_04_0037_recto_surface_line_16" lry="1640" lrx="2270"
+                    uly="1587" ulx="24" rend="line"/>
+                <zone xml:id="nb07_01_04_0037_recto_surface_line_17" lry="1733" lrx="1814"
+                    uly="1657" ulx="260" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0038_surface">
+            <surface xml:id="nb07_01_04_0038_verso_surface">
+                <graphic url="nb07_01_04_0038-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0038_verso_surface_line_01" lry="177" lrx="2626" uly="97"
+                    ulx="300" rend="line"/>
+                <zone xml:id="nb07_01_04_0038_verso_surface_line_02" lry="293" lrx="2283" uly="227"
+                    ulx="323" rend="line"/>
+                <zone xml:id="nb07_01_04_0038_verso_surface_line_03" lry="390" lrx="2500" uly="323"
+                    ulx="356" rend="line"/>
+                <zone xml:id="nb07_01_04_0038_verso_surface_line_04" lry="497" lrx="2516" uly="427"
+                    ulx="416" rend="line"/>
+                <zone xml:id="nb07_01_04_0038_verso_surface_line_05" lry="593" lrx="2693" uly="530"
+                    ulx="360" rend="line"/>
+                <zone xml:id="nb07_01_04_0038_verso_surface_line_06" lry="697" lrx="2636" uly="627"
+                    ulx="400" rend="line"/>
+                <zone xml:id="nb07_01_04_0038_verso_surface_line_07" lry="803" lrx="2580" uly="727"
+                    ulx="360" rend="line"/>
+                <zone xml:id="nb07_01_04_0038_verso_surface_line_08" lry="900" lrx="2756" uly="830"
+                    ulx="340" rend="line"/>
+                <zone xml:id="nb07_01_04_0038_verso_surface_line_09" lry="1000" lrx="2573" uly="927"
+                    ulx="353" rend="line"/>
+                <zone xml:id="nb07_01_04_0038_verso_surface_line_10" lry="1100" lrx="2380"
+                    uly="1030" ulx="386" rend="line"/>
+                <zone xml:id="nb07_01_04_0038_verso_surface_line_11" lry="1183" lrx="2853"
+                    uly="1130" ulx="40" rend="line"/>
+                <zone xml:id="nb07_01_04_0038_verso_surface_line_12" lry="1303" lrx="2626"
+                    uly="1207" ulx="140" rend="line"/>
+                <zone xml:id="nb07_01_04_0038_verso_surface_line_13" lry="1393" lrx="2646"
+                    uly="1340" ulx="200" rend="line"/>
+                <zone xml:id="nb07_01_04_0038_verso_surface_line_14" lry="1513" lrx="2553"
+                    uly="1440" ulx="220" rend="line"/>
+                <zone xml:id="nb07_01_04_0038_verso_surface_line_15" lry="1620" lrx="2696"
+                    uly="1537" ulx="180" rend="line"/>
+                <zone xml:id="nb07_01_04_0038_verso_surface_line_16" lry="1750" lrx="2760"
+                    uly="1637" ulx="186" rend="line"/>
+            </surface>
+        </surface>
+        <!-- 
+            
+             <surface xml:id="nb07_04_04_0135_surface">
+            <surface xml:id="nb07_04_04_0135_recto_surface">
+                <graphic url="nb07_04_04_0135.jpg" height="695" width="465"/>
+                <zone xml:id="nb07_04_04_0135_recto_surface_line_01" rend="line" ulx="951" uly="0"
+                    lrx="1900" lry="72"/>
+                    
+                    -->
+        <surface xml:id="nb07_01_04_0039_surface">
+            <surface xml:id="nb07_01_04_0039_recto_surface">
+                <graphic url="nb07_01_04_0039-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0039_recto_surface_line_01" lry="146" lrx="2833" uly="66"
+                    ulx="213" rend="line"/>
+                <zone xml:id="nb07_01_04_0039_recto_surface_line_02" lry="226" lrx="1060" uly="166"
+                    ulx="260" rend="line"/>
+                <zone xml:id="nb07_01_04_0039_recto_surface_line_03" lry="326" lrx="2817" uly="256"
+                    ulx="520" rend="line"/>
+                <zone xml:id="nb07_01_04_0039_recto_surface_line_04" lry="413" lrx="2810" uly="353"
+                    ulx="200" rend="line"/>
+                <zone xml:id="nb07_01_04_0039_recto_surface_line_05" lry="490" lrx="2873" uly="440"
+                    ulx="0" rend="line"/>
+                <zone xml:id="nb07_01_04_0039_recto_surface_line_06" lry="593" lrx="2563" uly="533"
+                    ulx="193" rend="line"/>
+                <zone xml:id="nb07_01_04_0039_recto_surface_line_07" lry="696" lrx="2677" uly="640"
+                    ulx="290" rend="line"/>
+                <zone xml:id="nb07_01_04_0039_recto_surface_line_08" lry="806" lrx="2843" uly="736"
+                    ulx="447" rend="line"/>
+                <zone xml:id="nb07_01_04_0039_recto_surface_line_09" lry="913" lrx="2833" uly="843"
+                    ulx="233" rend="line"/>
+                <zone xml:id="nb07_01_04_0039_recto_surface_line_10" lry="1003" lrx="2747" uly="940"
+                    ulx="250" rend="line"/>
+                <zone xml:id="nb07_01_04_0039_recto_surface_line_11" lry="1100" lrx="890" uly="1036"
+                    ulx="247" rend="line"/>
+                <zone xml:id="nb07_01_04_0039_recto_surface_line_12" lry="1183" lrx="2823"
+                    uly="1136" ulx="20" rend="line"/>
+                <zone xml:id="nb07_01_04_0039_recto_surface_line_13" lry="1316" lrx="2847"
+                    uly="1240" ulx="153" rend="line"/>
+                <zone xml:id="nb07_01_04_0039_recto_surface_line_14" lry="1413" lrx="2020"
+                    uly="1353" ulx="303" rend="line"/>
+                <zone xml:id="nb07_01_04_0039_recto_surface_line_15" lry="1590" lrx="2610"
+                    uly="1516" ulx="157" rend="line"/>
+                <zone xml:id="nb07_01_04_0039_recto_surface_line_16" lry="1706" lrx="2723"
+                    uly="1636" ulx="253" rend="line"/>
+                <zone xml:id="nb07_01_04_0039_recto_surface_line_17" lry="1803" lrx="2650"
+                    uly="1733" ulx="247" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0040_surface">
+            <surface xml:id="nb07_01_04_0040_verso_surface">
+                <graphic url="nb07_01_04_0040-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0040_verso_surface_line_01" lry="160" lrx="2777" uly="103"
+                    ulx="187" rend="line"/>
+                <zone xml:id="nb07_01_04_0040_verso_surface_line_02" lry="283" lrx="2463" uly="227"
+                    ulx="203" rend="line"/>
+                <zone xml:id="nb07_01_04_0040_verso_surface_line_03" lry="400" lrx="1340" uly="320"
+                    ulx="170" rend="line"/>
+                <zone xml:id="nb07_01_04_0040_verso_surface_line_04" lry="483" lrx="2900" uly="427"
+                    ulx="27" rend="line"/>
+                <zone xml:id="nb07_01_04_0040_verso_surface_line_05" lry="580" lrx="2770" uly="520"
+                    ulx="173" rend="line"/>
+                <zone xml:id="nb07_01_04_0040_verso_surface_line_06" lry="687" lrx="2903" uly="623"
+                    ulx="60" rend="line"/>
+                <zone xml:id="nb07_01_04_0040_verso_surface_line_07" lry="800" lrx="2583" uly="727"
+                    ulx="140" rend="line"/>
+                <zone xml:id="nb07_01_04_0040_verso_surface_line_08" lry="910" lrx="2740" uly="840"
+                    ulx="250" rend="line"/>
+                <zone xml:id="nb07_01_04_0040_verso_surface_line_09" lry="1000" lrx="2683" uly="953"
+                    ulx="213" rend="line"/>
+                <zone xml:id="nb07_01_04_0040_verso_surface_line_10" lry="1103" lrx="2743"
+                    uly="1047" ulx="153" rend="line"/>
+                <zone xml:id="nb07_01_04_0040_verso_surface_line_11" lry="1217" lrx="2540"
+                    uly="1167" ulx="200" rend="line"/>
+                <zone xml:id="nb07_01_04_0040_verso_surface_line_12" lry="1290" lrx="2903"
+                    uly="1247" ulx="27" rend="line"/>
+                <zone xml:id="nb07_01_04_0040_verso_surface_line_13" lry="1400" lrx="2623"
+                    uly="1327" ulx="177" rend="line"/>
+                <zone xml:id="nb07_01_04_0040_verso_surface_line_14" lry="1513" lrx="2657"
+                    uly="1427" ulx="167" rend="line"/>
+                <zone xml:id="nb07_01_04_0040_verso_surface_line_15" lry="1607" lrx="2423"
+                    uly="1540" ulx="223" rend="line"/>
+                <zone xml:id="nb07_01_04_0040_verso_surface_line_16" lry="1700" lrx="1080"
+                    uly="1650" ulx="217" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0041_surface">
+            <surface xml:id="nb07_01_04_0041_recto_surface">
+                <graphic url="nb07_01_04_0041-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0041_recto_surface_line_01" lry="120" lrx="2053" uly="57"
+                    ulx="230" rend="line"/>
+                <zone xml:id="nb07_01_04_0041_recto_surface_line_02" lry="247" lrx="2760" uly="170"
+                    ulx="216" rend="line"/>
+                <zone xml:id="nb07_01_04_0041_recto_surface_line_03" lry="387" lrx="2806" uly="320"
+                    ulx="236" rend="line"/>
+                <zone xml:id="nb07_01_04_0041_recto_surface_line_04" lry="493" lrx="2630" uly="417"
+                    ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0041_recto_surface_line_05" lry="603" lrx="2706" uly="537"
+                    ulx="226" rend="line"/>
+                <zone xml:id="nb07_01_04_0041_recto_surface_line_06" lry="690" lrx="2610" uly="613"
+                    ulx="276" rend="line"/>
+                <zone xml:id="nb07_01_04_0041_recto_surface_line_07" lry="807" lrx="2713" uly="727"
+                    ulx="260" rend="line"/>
+                <zone xml:id="nb07_01_04_0041_recto_surface_line_08" lry="913" lrx="2790" uly="850"
+                    ulx="273" rend="line"/>
+                <zone xml:id="nb07_01_04_0041_recto_surface_line_09" lry="993" lrx="2890" uly="943"
+                    ulx="6" rend="line"/>
+                <zone xml:id="nb07_01_04_0041_recto_surface_line_10" lry="1097" lrx="2760"
+                    uly="1027" ulx="180" rend="line"/>
+                <zone xml:id="nb07_01_04_0041_recto_surface_line_11" lry="1200" lrx="856" uly="1143"
+                    ulx="243" rend="line"/>
+                <zone xml:id="nb07_01_04_0041_recto_surface_line_12" lry="1277" lrx="2863"
+                    uly="1230" ulx="-6" rend="line"/>
+                <zone xml:id="nb07_01_04_0041_recto_surface_line_13" lry="1390" lrx="2690"
+                    uly="1297" ulx="160" rend="line"/>
+                <zone xml:id="nb07_01_04_0041_recto_surface_line_14" lry="1497" lrx="2690"
+                    uly="1423" ulx="260" rend="line"/>
+                <zone xml:id="nb07_01_04_0041_recto_surface_line_15" lry="1603" lrx="2593"
+                    uly="1527" ulx="190" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0042_surface">
+            <surface xml:id="nb07_01_04_0042_verso_surface">
+                <graphic url="nb07_01_04_0042-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0042_verso_surface_line_01" lry="166" lrx="1600" uly="66"
+                    ulx="217" rend="line"/>
+                <zone xml:id="nb07_01_04_0042_verso_surface_line_02" lry="303" lrx="954" uly="236"
+                    ulx="90" rend="line"/>
+                <zone xml:id="nb07_01_04_0042_verso_surface_line_03" lry="296" lrx="1274" uly="220"
+                    ulx="984" rend="line"/>
+                <zone xml:id="nb07_01_04_0042_verso_surface_line_04" lry="296" lrx="2740" uly="210"
+                    ulx="1307" rend="line"/>
+                <zone xml:id="nb07_01_04_0042_verso_surface_line_05" lry="403" lrx="2724" uly="320"
+                    ulx="164" rend="line"/>
+                <zone xml:id="nb07_01_04_0042_verso_surface_line_06" lry="506" lrx="2744" uly="436"
+                    ulx="144" rend="line"/>
+                <zone xml:id="nb07_01_04_0042_verso_surface_line_07" lry="593" lrx="1390" uly="540"
+                    ulx="107" rend="line"/>
+                <zone xml:id="nb07_01_04_0042_verso_surface_line_08" lry="670" lrx="2880" uly="613"
+                    ulx="10" rend="line"/>
+                <zone xml:id="nb07_01_04_0042_verso_surface_line_09" lry="783" lrx="2077" uly="703"
+                    ulx="104" rend="line"/>
+                <zone xml:id="nb07_01_04_0042_verso_surface_line_10" lry="903" lrx="2557" uly="836"
+                    ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0042_verso_surface_line_11" lry="1010" lrx="2637" uly="946"
+                    ulx="77" rend="line"/>
+                <zone xml:id="nb07_01_04_0042_verso_surface_line_12" lry="1106" lrx="2687"
+                    uly="1056" ulx="140" rend="line"/>
+                <zone xml:id="nb07_01_04_0042_verso_surface_line_13" lry="1200" lrx="2634"
+                    uly="1150" ulx="320" rend="line"/>
+                <zone xml:id="nb07_01_04_0042_verso_surface_line_14" lry="1310" lrx="2284"
+                    uly="1236" ulx="164" rend="line"/>
+                <zone xml:id="nb07_01_04_0042_verso_surface_line_15" lry="1456" lrx="2707"
+                    uly="1366" ulx="120" rend="line"/>
+                <zone xml:id="nb07_01_04_0042_verso_surface_line_16" lry="1546" lrx="2760"
+                    uly="1483" ulx="244" rend="line"/>
+                <zone xml:id="nb07_01_04_0042_verso_surface_line_17" lry="1610" lrx="610" uly="1550"
+                    ulx="154" rend="line"/>
+                <zone xml:id="nb07_01_04_0042_verso_surface_line_18" lry="1680" lrx="2860"
+                    uly="1626" ulx="0" rend="line"/>
+                <zone xml:id="nb07_01_04_0042_verso_surface_line_19" lry="1793" lrx="2650"
+                    uly="1716" ulx="300" rend="line"/>
+            </surface>
+        </surface>
+        <!-- 
+            start fourth batch 43-59 
+        -->
+        <surface xml:id="nb07_01_04_0043_surface">
+            <surface xml:id="nb07_01_04_0043_recto_surface">
+                <graphic url="nb07_01_04_0043-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0043_recto_surface_line_01" lry="117" lrx="2634" uly="37"
+                    ulx="180" rend="line"/>
+                <zone xml:id="nb07_01_04_0043_recto_surface_line_02" lry="184" lrx="2817" uly="120"
+                    ulx="2734" rend="line"/>
+                <zone xml:id="nb07_01_04_0043_recto_surface_line_03" lry="290" lrx="2830" uly="184"
+                    ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0043_recto_surface_line_04" lry="384" lrx="2820" uly="317"
+                    ulx="127" rend="line"/>
+                <zone xml:id="nb07_01_04_0043_recto_surface_line_05" lry="507" lrx="2757" uly="434"
+                    ulx="187" rend="line"/>
+                <zone xml:id="nb07_01_04_0043_recto_surface_line_06" lry="614" lrx="2617" uly="544"
+                    ulx="187" rend="line"/>
+                <zone xml:id="nb07_01_04_0043_recto_surface_line_07" lry="714" lrx="2844" uly="650"
+                    ulx="224" rend="line"/>
+                <zone xml:id="nb07_01_04_0043_recto_surface_line_08" lry="820" lrx="2454" uly="747"
+                    ulx="177" rend="line"/>
+                <zone xml:id="nb07_01_04_0043_recto_surface_line_09" lry="917" lrx="2740" uly="857"
+                    ulx="240" rend="line"/>
+                <zone xml:id="nb07_01_04_0043_recto_surface_line_10" lry="1020" lrx="2680" uly="944"
+                    ulx="240" rend="line"/>
+                <zone xml:id="nb07_01_04_0043_recto_surface_line_11" lry="1110" lrx="2740"
+                    uly="1044" ulx="284" rend="line"/>
+                <zone xml:id="nb07_01_04_0043_recto_surface_line_12" lry="1230" lrx="1597"
+                    uly="1154" ulx="270" rend="line"/>
+                <zone xml:id="nb07_01_04_0043_recto_surface_line_13" lry="1317" lrx="2787"
+                    uly="1257" ulx="1247" rend="line"/>
+                <zone xml:id="nb07_01_04_0043_recto_surface_line_14" lry="1377" lrx="1674"
+                    uly="1307" ulx="637" rend="line"/>
+                <zone xml:id="nb07_01_04_0043_recto_surface_line_15" lry="1437" lrx="2720"
+                    uly="1374" ulx="604" rend="line"/>
+                <zone xml:id="nb07_01_04_0043_recto_surface_line_16" lry="1514" lrx="2467"
+                    uly="1444" ulx="257" rend="line"/>
+                <zone xml:id="nb07_01_04_0043_recto_surface_line_17" lry="1630" lrx="2777"
+                    uly="1524" ulx="174" rend="line"/>
+                <zone xml:id="nb07_01_04_0043_recto_surface_line_18" lry="1744" lrx="2737"
+                    uly="1647" ulx="234" rend="line"/>
+                <zone xml:id="nb07_01_04_0043_recto_surface_line_v01" lry="1740" lrx="157" uly="30"
+                    ulx="53" rend="line"/>
+                <zone xml:id="nb07_01_04_0043_recto_surface_line_v02" lry="0" lrx="0" uly="0"
+                    ulx="0" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0044_surface">
+            <surface xml:id="nb07_01_04_0044_verso_surface">
+                <graphic url="nb07_01_04_0044-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0044_verso_surface_line_01" lry="163" lrx="2000" uly="83"
+                    ulx="200" rend="line"/>
+                <zone xml:id="nb07_01_04_0044_verso_surface_line_02" lry="313" lrx="2704" uly="230"
+                    ulx="177" rend="line"/>
+                <zone xml:id="nb07_01_04_0044_verso_surface_line_03" lry="380" lrx="2910" uly="336"
+                    ulx="54" rend="line"/>
+                <zone xml:id="nb07_01_04_0044_verso_surface_line_04" lry="506" lrx="2690" uly="426"
+                    ulx="170" rend="line"/>
+                <zone xml:id="nb07_01_04_0044_verso_surface_line_05" lry="613" lrx="2627" uly="543"
+                    ulx="200" rend="line"/>
+                <zone xml:id="nb07_01_04_0044_verso_surface_line_06" lry="723" lrx="2640" uly="650"
+                    ulx="127" rend="line"/>
+                <zone xml:id="nb07_01_04_0044_verso_surface_line_07" lry="813" lrx="1394" uly="750"
+                    ulx="140" rend="line"/>
+                <zone xml:id="nb07_01_04_0044_verso_surface_line_08" lry="963" lrx="2920" uly="880"
+                    ulx="10" rend="line"/>
+                <zone xml:id="nb07_01_04_0044_verso_surface_line_09" lry="1116" lrx="2750"
+                    uly="1026" ulx="204" rend="line"/>
+                <zone xml:id="nb07_01_04_0044_verso_surface_line_10" lry="1223" lrx="1497"
+                    uly="1146" ulx="174" rend="line"/>
+                <zone xml:id="nb07_01_04_0044_verso_surface_line_11" lry="1306" lrx="2914"
+                    uly="1250" ulx="24" rend="line"/>
+                <zone xml:id="nb07_01_04_0044_verso_surface_line_12" lry="1420" lrx="1764"
+                    uly="1340" ulx="147" rend="line"/>
+                <zone xml:id="nb07_01_04_0044_verso_surface_line_13" lry="1506" lrx="2570"
+                    uly="1453" ulx="194" rend="line"/>
+                <zone xml:id="nb07_01_04_0044_verso_surface_line_14" lry="1613" lrx="2447"
+                    uly="1540" ulx="357" rend="line"/>
+                <zone xml:id="nb07_01_04_0044_verso_surface_line_15" lry="1723" lrx="1754"
+                    uly="1660" ulx="307" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0045_surface">
+            <surface xml:id="nb07_01_04_0045_recto_surface">
+                <graphic url="nb07_01_04_0045-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0045_recto_surface_line_01" lry="123" lrx="2433" uly="60"
+                    ulx="176" rend="line"/>
+                <zone xml:id="nb07_01_04_0045_recto_surface_line_02" lry="206" lrx="2290" uly="140"
+                    ulx="196" rend="line"/>
+                <zone xml:id="nb07_01_04_0045_recto_surface_line_03" lry="303" lrx="2233" uly="230"
+                    ulx="266" rend="line"/>
+                <zone xml:id="nb07_01_04_0045_recto_surface_line_04" lry="406" lrx="2836" uly="340"
+                    ulx="273" rend="line"/>
+                <zone xml:id="nb07_01_04_0045_recto_surface_line_05" lry="500" lrx="2673" uly="443"
+                    ulx="230" rend="line"/>
+                <zone xml:id="nb07_01_04_0045_recto_surface_line_06" lry="610" lrx="2670" uly="540"
+                    ulx="303" rend="line"/>
+                <zone xml:id="nb07_01_04_0045_recto_surface_line_07" lry="706" lrx="2376" uly="640"
+                    ulx="303" rend="line"/>
+                <zone xml:id="nb07_01_04_0045_recto_surface_line_08" lry="816" lrx="2856" uly="750"
+                    ulx="260" rend="line"/>
+                <zone xml:id="nb07_01_04_0045_recto_surface_line_09" lry="913" lrx="2660" uly="846"
+                    ulx="260" rend="line"/>
+                <zone xml:id="nb07_01_04_0045_recto_surface_line_10" lry="1010" lrx="2843" uly="940"
+                    ulx="366" rend="line"/>
+                <zone xml:id="nb07_01_04_0045_recto_surface_line_11" lry="1126" lrx="2723"
+                    uly="1043" ulx="260" rend="line"/>
+                <zone xml:id="nb07_01_04_0045_recto_surface_line_12" lry="1220" lrx="2803"
+                    uly="1156" ulx="410" rend="line"/>
+                <zone xml:id="nb07_01_04_0045_recto_surface_line_13" lry="1316" lrx="2493"
+                    uly="1236" ulx="246" rend="line"/>
+                <zone xml:id="nb07_01_04_0045_recto_surface_line_14" lry="1420" lrx="2853"
+                    uly="1343" ulx="426" rend="line"/>
+                <zone xml:id="nb07_01_04_0045_recto_surface_line_15" lry="1523" lrx="2720"
+                    uly="1440" ulx="196" rend="line"/>
+                <zone xml:id="nb07_01_04_0045_recto_surface_line_16" lry="1620" lrx="2430"
+                    uly="1550" ulx="266" rend="line"/>
+                <zone xml:id="nb07_01_04_0045_recto_surface_line_17" lry="1723" lrx="2510"
+                    uly="1656" ulx="216" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0046_surface">
+            <surface xml:id="nb07_01_04_0046_verso_surface">
+                <graphic url="nb07_01_04_0046-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0046_verso_surface_line_01" lry="167" lrx="2634" uly="70"
+                    ulx="160" rend="line"/>
+                <zone xml:id="nb07_01_04_0046_verso_surface_line_02" lry="300" lrx="2600" uly="237"
+                    ulx="164" rend="line"/>
+                <zone xml:id="nb07_01_04_0046_verso_surface_line_03" lry="410" lrx="2550" uly="334"
+                    ulx="390" rend="line"/>
+                <zone xml:id="nb07_01_04_0046_verso_surface_line_04" lry="507" lrx="2307" uly="434"
+                    ulx="124" rend="line"/>
+                <zone xml:id="nb07_01_04_0046_verso_surface_line_05" lry="607" lrx="2560" uly="540"
+                    ulx="387" rend="line"/>
+                <zone xml:id="nb07_01_04_0046_verso_surface_line_06" lry="724" lrx="2617" uly="647"
+                    ulx="240" rend="line"/>
+                <zone xml:id="nb07_01_04_0046_verso_surface_line_07" lry="820" lrx="2577" uly="750"
+                    ulx="480" rend="line"/>
+                <zone xml:id="nb07_01_04_0046_verso_surface_line_08" lry="924" lrx="2437" uly="847"
+                    ulx="104" rend="line"/>
+                <zone xml:id="nb07_01_04_0046_verso_surface_line_09" lry="1024" lrx="2754" uly="950"
+                    ulx="297" rend="line"/>
+                <zone xml:id="nb07_01_04_0046_verso_surface_line_10" lry="1120" lrx="2664"
+                    uly="1047" ulx="160" rend="line"/>
+                <zone xml:id="nb07_01_04_0046_verso_surface_line_11" lry="1220" lrx="2684"
+                    uly="1144" ulx="377" rend="line"/>
+                <zone xml:id="nb07_01_04_0046_verso_surface_line_12" lry="1322" lrx="2660"
+                    uly="1249" ulx="120" rend="line"/>
+                <zone xml:id="nb07_01_04_0046_verso_surface_line_13" lry="1440" lrx="2550"
+                    uly="1350" ulx="383" rend="line"/>
+                <zone xml:id="nb07_01_04_0046_verso_surface_line_14" lry="1527" lrx="2764"
+                    uly="1464" ulx="150" rend="line"/>
+                <zone xml:id="nb07_01_04_0046_verso_surface_line_15" lry="1637" lrx="2750"
+                    uly="1557" ulx="410" rend="line"/>
+                <zone xml:id="nb07_01_04_0046_verso_surface_line_16" lry="1730" lrx="2677"
+                    uly="1667" ulx="190" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0047_surface">
+            <surface xml:id="nb07_01_04_0047_recto_surface">
+                <graphic url="nb07_01_04_0047-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0047_recto_surface_line_01" lry="95" lrx="2055" uly="50"
+                    ulx="407" rend="line"/>
+                <zone xml:id="nb07_01_04_0047_recto_surface_line_02" lry="140" lrx="1127" uly="107"
+                    ulx="927" rend="line"/>
+                <zone xml:id="nb07_01_04_0047_recto_surface_line_03" lry="210" lrx="2567" uly="127"
+                    ulx="317" rend="line"/>
+                <zone xml:id="nb07_01_04_0047_recto_surface_line_04" lry="300" lrx="2720" uly="243"
+                    ulx="430" rend="line"/>
+                <zone xml:id="nb07_01_04_0047_recto_surface_line_05" lry="410" lrx="2814" uly="340"
+                    ulx="260" rend="line"/>
+                <zone xml:id="nb07_01_04_0047_recto_surface_line_06" lry="510" lrx="2307" uly="443"
+                    ulx="464" rend="line"/>
+                <zone xml:id="nb07_01_04_0047_recto_surface_line_07" lry="603" lrx="1357" uly="540"
+                    ulx="1160" rend="line"/>
+                <zone xml:id="nb07_01_04_0047_recto_surface_line_08" lry="720" lrx="2680" uly="603"
+                    ulx="80" rend="line"/>
+                <zone xml:id="nb07_01_04_0047_recto_surface_line_09" lry="814" lrx="2784" uly="733"
+                    ulx="234" rend="line"/>
+                <zone xml:id="nb07_01_04_0047_recto_surface_line_10" lry="930" lrx="2814" uly="837"
+                    ulx="203" rend="line"/>
+                <zone xml:id="nb07_01_04_0047_recto_surface_line_11" lry="1013" lrx="2567" uly="947"
+                    ulx="217" rend="line"/>
+                <zone xml:id="nb07_01_04_0047_recto_surface_line_12" lry="1120" lrx="2517"
+                    uly="1050" ulx="154" rend="line"/>
+                <zone xml:id="nb07_01_04_0047_recto_surface_line_13" lry="1217" lrx="2818"
+                    uly="1137" ulx="218" rend="line"/>
+                <zone xml:id="nb07_01_04_0047_recto_surface_line_14" lry="1327" lrx="2810"
+                    uly="1247" ulx="223" rend="line"/>
+                <zone xml:id="nb07_01_04_0047_recto_surface_line_15" lry="1420" lrx="2647"
+                    uly="1350" ulx="144" rend="line"/>
+                <zone xml:id="nb07_01_04_0047_recto_surface_line_16" lry="1523" lrx="2717"
+                    uly="1450" ulx="224" rend="line"/>
+                <zone xml:id="nb07_01_04_0047_recto_surface_line_17" lry="1630" lrx="2797"
+                    uly="1540" ulx="184" rend="line"/>
+                <zone xml:id="nb07_01_04_0047_recto_surface_line_18" lry="1717" lrx="2690"
+                    uly="1653" ulx="184" rend="line"/>
+                <zone xml:id="nb07_01_04_0047_recto_surface_line_19" lry="1790" lrx="2797"
+                    uly="1733" ulx="194" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0048_surface">
+            <surface xml:id="nb07_01_04_0048_verso_surface">
+                <graphic url="nb07_01_04_0048-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0048_verso_surface_line_01" lry="140" lrx="2540" uly="70"
+                    ulx="203" rend="line"/>
+                <zone xml:id="nb07_01_04_0048_verso_surface_line_02" lry="273" lrx="2817" uly="207"
+                    ulx="373" rend="line"/>
+                <zone xml:id="nb07_01_04_0048_verso_surface_line_03" lry="403" lrx="1317" uly="323"
+                    ulx="223" rend="line"/>
+                <zone xml:id="nb07_01_04_0048_verso_surface_line_04" lry="490" lrx="2873" uly="427"
+                    ulx="40" rend="line"/>
+                <zone xml:id="nb07_01_04_0048_verso_surface_line_05" lry="607" lrx="1857" uly="520"
+                    ulx="177" rend="line"/>
+                <zone xml:id="nb07_01_04_0048_verso_surface_line_06" lry="713" lrx="2130" uly="650"
+                    ulx="380" rend="line"/>
+                <zone xml:id="nb07_01_04_0048_verso_surface_line_07" lry="807" lrx="2820" uly="740"
+                    ulx="430" rend="line"/>
+                <zone xml:id="nb07_01_04_0048_verso_surface_line_08" lry="893" lrx="2863" uly="837"
+                    ulx="53" rend="line"/>
+                <zone xml:id="nb07_01_04_0048_verso_surface_line_09" lry="1003" lrx="920" uly="923"
+                    ulx="173" rend="line"/>
+                <zone xml:id="nb07_01_04_0048_verso_surface_line_10" lry="1120" lrx="2230"
+                    uly="1043" ulx="243" rend="line"/>
+                <zone xml:id="nb07_01_04_0048_verso_surface_line_11" lry="1217" lrx="1553"
+                    uly="1157" ulx="537" rend="line"/>
+                <zone xml:id="nb07_01_04_0048_verso_surface_line_12" lry="1310" lrx="1523"
+                    uly="1257" ulx="387" rend="line"/>
+                <zone xml:id="nb07_01_04_0048_verso_surface_line_13" lry="1420" lrx="2330"
+                    uly="1340" ulx="193" rend="line"/>
+                <zone xml:id="nb07_01_04_0048_verso_surface_line_14" lry="1517" lrx="2267"
+                    uly="1447" ulx="417" rend="line"/>
+                <zone xml:id="nb07_01_04_0048_verso_surface_line_15" lry="1617" lrx="2460"
+                    uly="1540" ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0048_verso_surface_line_16" lry="1733" lrx="2083"
+                    uly="1647" ulx="230" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0049_surface">
+            <surface xml:id="nb07_01_04_0049_recto_surface">
+                <graphic url="nb07_01_04_0049-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0049_recto_surface_line_01" lry="140" lrx="1690" uly="60"
+                    ulx="173" rend="line"/>
+                <zone xml:id="nb07_01_04_0049_recto_surface_line_02" lry="286" lrx="2010" uly="186"
+                    ulx="390" rend="line"/>
+                <zone xml:id="nb07_01_04_0049_recto_surface_line_03" lry="410" lrx="2020" uly="320"
+                    ulx="686" rend="line"/>
+                <zone xml:id="nb07_01_04_0049_recto_surface_line_04" lry="510" lrx="1936" uly="436"
+                    ulx="660" rend="line"/>
+                <zone xml:id="nb07_01_04_0049_recto_surface_line_05" lry="613" lrx="2560" uly="533"
+                    ulx="383" rend="line"/>
+                <zone xml:id="nb07_01_04_0049_recto_surface_line_06" lry="716" lrx="1733" uly="653"
+                    ulx="1020" rend="line"/>
+                <zone xml:id="nb07_01_04_0049_recto_surface_line_07" lry="820" lrx="1416" uly="746"
+                    ulx="1233" rend="line"/>
+                <zone xml:id="nb07_01_04_0049_recto_surface_line_08" lry="910" lrx="2626" uly="836"
+                    ulx="360" rend="line"/>
+                <zone xml:id="nb07_01_04_0049_recto_surface_line_09" lry="1016" lrx="1950" uly="940"
+                    ulx="566" rend="line"/>
+                <zone xml:id="nb07_01_04_0049_recto_surface_line_10" lry="1110" lrx="2023"
+                    uly="1040" ulx="610" rend="line"/>
+                <zone xml:id="nb07_01_04_0049_recto_surface_line_11" lry="1233" lrx="2790"
+                    uly="1130" ulx="443" rend="line"/>
+                <zone xml:id="nb07_01_04_0049_recto_surface_line_12" lry="1293" lrx="2846"
+                    uly="1250" ulx="16" rend="line"/>
+                <zone xml:id="nb07_01_04_0049_recto_surface_line_13" lry="1423" lrx="1733"
+                    uly="1310" ulx="186" rend="line"/>
+                <zone xml:id="nb07_01_04_0049_recto_surface_line_14" lry="1520" lrx="2430"
+                    uly="1453" ulx="593" rend="line"/>
+                <zone xml:id="nb07_01_04_0049_recto_surface_line_15" lry="1630" lrx="2403"
+                    uly="1546" ulx="590" rend="line"/>
+                <zone xml:id="nb07_01_04_0049_recto_surface_line_16" lry="1736" lrx="2390"
+                    uly="1653" ulx="603" rend="line"/>
+                <zone xml:id="nb07_01_04_0049_recto_surface_line_17" lry="1806" lrx="2410"
+                    uly="1760" ulx="680" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0050_surface">
+            <surface xml:id="nb07_01_04_0050_verso_surface">
+                <graphic url="nb07_01_04_0050-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0050_verso_surface_line_01" lry="156" lrx="743" uly="63"
+                    ulx="513" rend="line"/>
+                <zone xml:id="nb07_01_04_0050_verso_surface_line_02" lry="260" lrx="2283" uly="173"
+                    ulx="170" rend="line"/>
+                <zone xml:id="nb07_01_04_0050_verso_surface_line_03" lry="386" lrx="2116" uly="300"
+                    ulx="203" rend="line"/>
+                <zone xml:id="nb07_01_04_0050_verso_surface_line_04" lry="510" lrx="2083" uly="423"
+                    ulx="203" rend="line"/>
+                <zone xml:id="nb07_01_04_0050_verso_surface_line_05" lry="606" lrx="2513" uly="530"
+                    ulx="233" rend="line"/>
+                <zone xml:id="nb07_01_04_0050_verso_surface_line_06" lry="713" lrx="2593" uly="636"
+                    ulx="533" rend="line"/>
+                <zone xml:id="nb07_01_04_0050_verso_surface_line_07" lry="800" lrx="2346" uly="736"
+                    ulx="560" rend="line"/>
+                <zone xml:id="nb07_01_04_0050_verso_surface_line_08" lry="870" lrx="2606" uly="823"
+                    ulx="110" rend="line"/>
+                <zone xml:id="nb07_01_04_0050_verso_surface_line_09" lry="1017" lrx="1033" uly="887"
+                    ulx="156" rend="line"/>
+                <zone xml:id="nb07_01_04_0050_verso_surface_line_10" lry="1127" lrx="713" uly="1040"
+                    ulx="263" rend="line"/>
+                <zone xml:id="nb07_01_04_0050_verso_surface_line_11" lry="1213" lrx="2256"
+                    uly="1150" ulx="226" rend="line"/>
+                <zone xml:id="nb07_01_04_0050_verso_surface_line_12" lry="1307" lrx="2446"
+                    uly="1233" ulx="276" rend="line"/>
+                <zone xml:id="nb07_01_04_0050_verso_surface_line_13" lry="1417" lrx="2596"
+                    uly="1327" ulx="276" rend="line"/>
+                <zone xml:id="nb07_01_04_0050_verso_surface_line_14" lry="1520" lrx="2536"
+                    uly="1443" ulx="286" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0051_surface">
+            <surface xml:id="nb07_01_04_0051_recto_surface">
+                <graphic url="nb07_01_04_0051-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0051_recto_surface_line_01" lry="166" lrx="1867" uly="66"
+                    ulx="1063" rend="line"/>
+                <zone xml:id="nb07_01_04_0051_recto_surface_line_02" lry="280" lrx="1983" uly="186"
+                    ulx="243" rend="line"/>
+                <zone xml:id="nb07_01_04_0051_recto_surface_line_03" lry="390" lrx="2513" uly="313"
+                    ulx="253" rend="line"/>
+                <zone xml:id="nb07_01_04_0051_recto_surface_line_04" lry="493" lrx="2303" uly="416"
+                    ulx="287" rend="line"/>
+                <zone xml:id="nb07_01_04_0051_recto_surface_line_05" lry="596" lrx="2217" uly="520"
+                    ulx="280" rend="line"/>
+                <zone xml:id="nb07_01_04_0051_recto_surface_line_06" lry="690" lrx="2440" uly="623"
+                    ulx="293" rend="line"/>
+                <zone xml:id="nb07_01_04_0051_recto_surface_line_07" lry="800" lrx="2380" uly="720"
+                    ulx="280" rend="line"/>
+                <zone xml:id="nb07_01_04_0051_recto_surface_line_08" lry="906" lrx="2457" uly="833"
+                    ulx="270" rend="line"/>
+                <zone xml:id="nb07_01_04_0051_recto_surface_line_09" lry="996" lrx="2090" uly="930"
+                    ulx="293" rend="line"/>
+                <zone xml:id="nb07_01_04_0051_recto_surface_line_10" lry="1096" lrx="2470"
+                    uly="1033" ulx="307" rend="line"/>
+                <zone xml:id="nb07_01_04_0051_recto_surface_line_11" lry="1206" lrx="2323"
+                    uly="1126" ulx="280" rend="line"/>
+                <zone xml:id="nb07_01_04_0051_recto_surface_line_12" lry="1310" lrx="2457"
+                    uly="1233" ulx="307" rend="line"/>
+                <zone xml:id="nb07_01_04_0051_recto_surface_line_13" lry="1406" lrx="2403"
+                    uly="1330" ulx="270" rend="line"/>
+                <zone xml:id="nb07_01_04_0051_recto_surface_line_14" lry="1503" lrx="2540"
+                    uly="1446" ulx="290" rend="line"/>
+                <zone xml:id="nb07_01_04_0051_recto_surface_line_15" lry="1610" lrx="2573"
+                    uly="1530" ulx="307" rend="line"/>
+                <zone xml:id="nb07_01_04_0051_recto_surface_line_16" lry="1720" lrx="2303"
+                    uly="1653" ulx="260" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0052_surface">
+            <surface xml:id="nb07_01_04_0052_verso_surface">
+                <graphic url="nb07_01_04_0052-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0052_verso_surface_line_01" lry="193" lrx="2447" uly="113"
+                    ulx="314" rend="line"/>
+                <zone xml:id="nb07_01_04_0052_verso_surface_line_02" lry="320" lrx="2560" uly="220"
+                    ulx="300" rend="line"/>
+                <zone xml:id="nb07_01_04_0052_verso_surface_line_03" lry="407" lrx="2577" uly="340"
+                    ulx="317" rend="line"/>
+                <zone xml:id="nb07_01_04_0052_verso_surface_line_04" lry="513" lrx="2564" uly="430"
+                    ulx="310" rend="line"/>
+                <zone xml:id="nb07_01_04_0052_verso_surface_line_05" lry="617" lrx="2490" uly="533"
+                    ulx="277" rend="line"/>
+                <zone xml:id="nb07_01_04_0052_verso_surface_line_06" lry="717" lrx="2350" uly="643"
+                    ulx="300" rend="line"/>
+                <zone xml:id="nb07_01_04_0052_verso_surface_line_07" lry="817" lrx="2504" uly="747"
+                    ulx="310" rend="line"/>
+                <zone xml:id="nb07_01_04_0052_verso_surface_line_08" lry="933" lrx="2444" uly="843"
+                    ulx="300" rend="line"/>
+                <zone xml:id="nb07_01_04_0052_verso_surface_line_09" lry="1030" lrx="2424" uly="947"
+                    ulx="300" rend="line"/>
+                <zone xml:id="nb07_01_04_0052_verso_surface_line_10" lry="1113" lrx="2497"
+                    uly="1047" ulx="277" rend="line"/>
+                <zone xml:id="nb07_01_04_0052_verso_surface_line_11" lry="1220" lrx="2287"
+                    uly="1143" ulx="287" rend="line"/>
+                <zone xml:id="nb07_01_04_0052_verso_surface_line_12" lry="1313" lrx="1064"
+                    uly="1243" ulx="304" rend="line"/>
+                <zone xml:id="nb07_01_04_0052_verso_surface_line_13" lry="1390" lrx="2874"
+                    uly="1337" ulx="50" rend="line"/>
+                <zone xml:id="nb07_01_04_0052_verso_surface_line_14" lry="1543" lrx="2634"
+                    uly="1427" ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0052_verso_surface_line_15" lry="1647" lrx="1444"
+                    uly="1570" ulx="1290" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0053_surface">
+            <surface xml:id="nb07_01_04_0053_recto_surface">
+                <graphic url="nb07_01_04_0053-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0053_recto_surface_line_01" lry="130" lrx="1343" uly="74"
+                    ulx="1290" rend="line"/>
+                <zone xml:id="nb07_01_04_0053_recto_surface_line_02" lry="190" lrx="2567" uly="130"
+                    ulx="497" rend="line"/>
+                <zone xml:id="nb07_01_04_0053_recto_surface_line_03" lry="307" lrx="2300" uly="224"
+                    ulx="367" rend="line"/>
+                <zone xml:id="nb07_01_04_0053_recto_surface_line_04" lry="404" lrx="2563" uly="327"
+                    ulx="560" rend="line"/>
+                <zone xml:id="nb07_01_04_0053_recto_surface_line_05" lry="500" lrx="2440" uly="427"
+                    ulx="377" rend="line"/>
+                <zone xml:id="nb07_01_04_0053_recto_surface_line_06" lry="620" lrx="2200" uly="530"
+                    ulx="367" rend="line"/>
+                <zone xml:id="nb07_01_04_0053_recto_surface_line_07" lry="717" lrx="1800" uly="644"
+                    ulx="913" rend="line"/>
+                <zone xml:id="nb07_01_04_0053_recto_surface_line_08" lry="797" lrx="2237" uly="730"
+                    ulx="663" rend="line"/>
+                <zone xml:id="nb07_01_04_0053_recto_surface_line_09" lry="904" lrx="2360" uly="824"
+                    ulx="927" rend="line"/>
+                <zone xml:id="nb07_01_04_0053_recto_surface_line_10" lry="1020" lrx="1700" uly="930"
+                    ulx="1237" rend="line"/>
+                <zone xml:id="nb07_01_04_0053_recto_surface_line_11" lry="1074" lrx="2903"
+                    uly="1034" ulx="27" rend="line"/>
+                <zone xml:id="nb07_01_04_0053_recto_surface_line_12" lry="1214" lrx="2880"
+                    uly="1104" ulx="260" rend="line"/>
+                <zone xml:id="nb07_01_04_0053_recto_surface_line_13" lry="1337" lrx="2727"
+                    uly="1257" ulx="253" rend="line"/>
+                <zone xml:id="nb07_01_04_0053_recto_surface_line_14" lry="1440" lrx="2807"
+                    uly="1360" ulx="217" rend="line"/>
+                <zone xml:id="nb07_01_04_0053_recto_surface_line_15" lry="1514" lrx="2423"
+                    uly="1460" ulx="260" rend="line"/>
+                <zone xml:id="nb07_01_04_0053_recto_surface_line_16" lry="1614" lrx="2773"
+                    uly="1557" ulx="293" rend="line"/>
+                <zone xml:id="nb07_01_04_0053_recto_surface_line_17" lry="1737" lrx="2550"
+                    uly="1654" ulx="307" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0054_surface">
+            <surface xml:id="nb07_01_04_0054_verso_surface">
+                <graphic url="nb07_01_04_0054-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0054_verso_surface_line_01" lry="170" lrx="2580" uly="100"
+                    ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0054_verso_surface_line_02" lry="284" lrx="2404" uly="207"
+                    ulx="204" rend="line"/>
+                <zone xml:id="nb07_01_04_0054_verso_surface_line_03" lry="390" lrx="2607" uly="314"
+                    ulx="227" rend="line"/>
+                <zone xml:id="nb07_01_04_0054_verso_surface_line_04" lry="490" lrx="2490" uly="424"
+                    ulx="217" rend="line"/>
+                <zone xml:id="nb07_01_04_0054_verso_surface_line_05" lry="580" lrx="2554" uly="524"
+                    ulx="227" rend="line"/>
+                <zone xml:id="nb07_01_04_0054_verso_surface_line_06" lry="697" lrx="2254" uly="620"
+                    ulx="234" rend="line"/>
+                <zone xml:id="nb07_01_04_0054_verso_surface_line_07" lry="790" lrx="2504" uly="727"
+                    ulx="187" rend="line"/>
+                <zone xml:id="nb07_01_04_0054_verso_surface_line_08" lry="920" lrx="2617" uly="824"
+                    ulx="214" rend="line"/>
+                <zone xml:id="nb07_01_04_0054_verso_surface_line_09" lry="1017" lrx="2574" uly="947"
+                    ulx="2180" rend="line"/>
+                <zone xml:id="nb07_01_04_0054_verso_surface_line_10" lry="1100" lrx="1644"
+                    uly="1014" ulx="187" rend="line"/>
+                <zone xml:id="nb07_01_04_0054_verso_surface_line_11" lry="1287" lrx="2770"
+                    uly="1200" ulx="90" rend="line"/>
+                <zone xml:id="nb07_01_04_0054_verso_surface_line_12" lry="1404" lrx="2697"
+                    uly="1327" ulx="177" rend="line"/>
+                <zone xml:id="nb07_01_04_0054_verso_surface_line_13" lry="1497" lrx="2684"
+                    uly="1430" ulx="194" rend="line"/>
+                <zone xml:id="nb07_01_04_0054_verso_surface_line_14" lry="1610" lrx="2580"
+                    uly="1537" ulx="137" rend="line"/>
+                <zone xml:id="nb07_01_04_0054_verso_surface_line_15" lry="1727" lrx="2634"
+                    uly="1657" ulx="127" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0055_surface">
+            <surface xml:id="nb07_01_04_0055_recto_surface">
+                <graphic url="nb07_01_04_0055-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0055_recto_surface_line_01" lry="120" lrx="2570" uly="56"
+                    ulx="187" rend="line"/>
+                <zone xml:id="nb07_01_04_0055_recto_surface_line_02" lry="206" lrx="2774" uly="153"
+                    ulx="204" rend="line"/>
+                <zone xml:id="nb07_01_04_0055_recto_surface_line_03" lry="303" lrx="2700" uly="236"
+                    ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0055_recto_surface_line_04" lry="400" lrx="2877" uly="336"
+                    ulx="497" rend="line"/>
+                <zone xml:id="nb07_01_04_0055_recto_surface_line_05" lry="520" lrx="2710" uly="450"
+                    ulx="200" rend="line"/>
+                <zone xml:id="nb07_01_04_0055_recto_surface_line_06" lry="610" lrx="2227" uly="556"
+                    ulx="680" rend="line"/>
+                <zone xml:id="nb07_01_04_0055_recto_surface_line_07" lry="690" lrx="2887" uly="653"
+                    ulx="4" rend="line"/>
+                <zone xml:id="nb07_01_04_0055_recto_surface_line_08" lry="880" lrx="2877" uly="766"
+                    ulx="257" rend="line"/>
+                <zone xml:id="nb07_01_04_0055_recto_surface_line_09" lry="990" lrx="1944" uly="900"
+                    ulx="354" rend="line"/>
+                <zone xml:id="nb07_01_04_0055_recto_surface_line_10" lry="1120" lrx="2764"
+                    uly="1036" ulx="147" rend="line"/>
+                <zone xml:id="nb07_01_04_0055_recto_surface_line_11" lry="1216" lrx="2770"
+                    uly="1156" ulx="197" rend="line"/>
+                <zone xml:id="nb07_01_04_0055_recto_surface_line_12" lry="1330" lrx="2777"
+                    uly="1243" ulx="224" rend="line"/>
+                <zone xml:id="nb07_01_04_0055_recto_surface_line_13" lry="1436" lrx="2684"
+                    uly="1356" ulx="200" rend="line"/>
+                <zone xml:id="nb07_01_04_0055_recto_surface_line_14" lry="1543" lrx="2734"
+                    uly="1456" ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0055_recto_surface_line_15" lry="1630" lrx="2517"
+                    uly="1563" ulx="187" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0056_surface">
+            <surface xml:id="nb07_01_04_0056_verso_surface">
+                <graphic url="nb07_01_04_0056-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0056_verso_surface_line_01" lry="180" lrx="2283" uly="103"
+                    ulx="237" rend="line"/>
+                <zone xml:id="nb07_01_04_0056_verso_surface_line_02" lry="310" lrx="2703" uly="236"
+                    ulx="530" rend="line"/>
+                <zone xml:id="nb07_01_04_0056_verso_surface_line_03" lry="436" lrx="2710" uly="343"
+                    ulx="260" rend="line"/>
+                <zone xml:id="nb07_01_04_0056_verso_surface_line_04" lry="510" lrx="1850" uly="453"
+                    ulx="183" rend="line"/>
+                <zone xml:id="nb07_01_04_0056_verso_surface_line_05" lry="596" lrx="197" uly="526"
+                    ulx="60" rend="line"/>
+                <zone xml:id="nb07_01_04_0056_verso_surface_line_06" lry="696" lrx="1217" uly="613"
+                    ulx="157" rend="line"/>
+                <zone xml:id="nb07_01_04_0056_verso_surface_line_07" lry="810" lrx="2743" uly="733"
+                    ulx="380" rend="line"/>
+                <zone xml:id="nb07_01_04_0056_verso_surface_line_08" lry="906" lrx="2657" uly="850"
+                    ulx="373" rend="line"/>
+                <zone xml:id="nb07_01_04_0056_verso_surface_line_09" lry="1003" lrx="827" uly="946"
+                    ulx="193" rend="line"/>
+                <zone xml:id="nb07_01_04_0056_verso_surface_line_10" lry="1113" lrx="2663"
+                    uly="1043" ulx="397" rend="line"/>
+                <zone xml:id="nb07_01_04_0056_verso_surface_line_11" lry="1203" lrx="577" uly="1133"
+                    ulx="150" rend="line"/>
+                <zone xml:id="nb07_01_04_0056_verso_surface_line_12" lry="1233" lrx="1187"
+                    uly="1173" ulx="1023" rend="line"/>
+                <zone xml:id="nb07_01_04_0056_verso_surface_line_13" lry="1330" lrx="2613"
+                    uly="1246" ulx="157" rend="line"/>
+                <zone xml:id="nb07_01_04_0056_verso_surface_line_14" lry="1420" lrx="2773"
+                    uly="1356" ulx="260" rend="line"/>
+                <zone xml:id="nb07_01_04_0056_verso_surface_line_15" lry="1513" lrx="2643"
+                    uly="1450" ulx="220" rend="line"/>
+                <zone xml:id="nb07_01_04_0056_verso_surface_line_16" lry="1613" lrx="2590"
+                    uly="1550" ulx="207" rend="line"/>
+                <zone xml:id="nb07_01_04_0056_verso_surface_line_17" lry="1710" lrx="2717"
+                    uly="1643" ulx="220" rend="line"/>
+                <zone xml:id="nb07_01_04_0056_verso_surface_line_18" lry="1793" lrx="2687"
+                    uly="1736" ulx="203" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0057_surface">
+            <surface xml:id="nb07_01_04_0057_recto_surface">
+                <graphic url="nb07_01_04_0057-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0057_recto_surface_line_01" lry="120" lrx="2620" uly="60"
+                    ulx="160" rend="line"/>
+                <zone xml:id="nb07_01_04_0057_recto_surface_line_02" lry="216" lrx="2640" uly="150"
+                    ulx="196" rend="line"/>
+                <zone xml:id="nb07_01_04_0057_recto_surface_line_03" lry="316" lrx="2710" uly="256"
+                    ulx="176" rend="line"/>
+                <zone xml:id="nb07_01_04_0057_recto_surface_line_04" lry="436" lrx="626" uly="360"
+                    ulx="113" rend="line"/>
+                <zone xml:id="nb07_01_04_0057_recto_surface_line_05" lry="520" lrx="2850" uly="450"
+                    ulx="193" rend="line"/>
+                <zone xml:id="nb07_01_04_0057_recto_surface_line_06" lry="616" lrx="610" uly="556"
+                    ulx="340" rend="line"/>
+                <zone xml:id="nb07_01_04_0057_recto_surface_line_07" lry="720" lrx="2760" uly="650"
+                    ulx="166" rend="line"/>
+                <zone xml:id="nb07_01_04_0057_recto_surface_line_08" lry="816" lrx="2786" uly="766"
+                    ulx="210" rend="line"/>
+                <zone xml:id="nb07_01_04_0057_recto_surface_line_09" lry="913" lrx="2733" uly="846"
+                    ulx="160" rend="line"/>
+                <zone xml:id="nb07_01_04_0057_recto_surface_line_10" lry="1016" lrx="2756" uly="950"
+                    ulx="226" rend="line"/>
+                <zone xml:id="nb07_01_04_0057_recto_surface_line_11" lry="1113" lrx="2726"
+                    uly="1056" ulx="203" rend="line"/>
+                <zone xml:id="nb07_01_04_0057_recto_surface_line_12" lry="1233" lrx="2806"
+                    uly="1156" ulx="196" rend="line"/>
+                <zone xml:id="nb07_01_04_0057_recto_surface_line_13" lry="1326" lrx="2830"
+                    uly="1256" ulx="226" rend="line"/>
+                <zone xml:id="nb07_01_04_0057_recto_surface_line_14" lry="1433" lrx="2643"
+                    uly="1363" ulx="180" rend="line"/>
+                <zone xml:id="nb07_01_04_0057_recto_surface_line_15" lry="1516" lrx="2836"
+                    uly="1460" ulx="310" rend="line"/>
+                <zone xml:id="nb07_01_04_0057_recto_surface_line_16" lry="1623" lrx="2820"
+                    uly="1553" ulx="233" rend="line"/>
+                <zone xml:id="nb07_01_04_0057_recto_surface_line_17" lry="1726" lrx="2653"
+                    uly="1656" ulx="260" rend="line"/>
+                <zone xml:id="nb07_01_04_0057_recto_surface_line_18" lry="1806" lrx="2613"
+                    uly="1750" ulx="290" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0058_surface">
+            <surface xml:id="nb07_01_04_0058_verso_surface">
+                <graphic url="nb07_01_04_0058-verso.jpeg"/>
+                <zone xml:id="nb07_01_04_0058_verso_surface_line_01" lry="163" lrx="2514" uly="103"
+                    ulx="154" rend="line"/>
+                <zone xml:id="nb07_01_04_0058_verso_surface_line_02" lry="283" lrx="2650" uly="206"
+                    ulx="174" rend="line"/>
+                <zone xml:id="nb07_01_04_0058_verso_surface_line_03" lry="406" lrx="2644" uly="326"
+                    ulx="157" rend="line"/>
+                <zone xml:id="nb07_01_04_0058_verso_surface_line_04" lry="510" lrx="2574" uly="440"
+                    ulx="150" rend="line"/>
+                <zone xml:id="nb07_01_04_0058_verso_surface_line_05" lry="623" lrx="2700" uly="540"
+                    ulx="207" rend="line"/>
+                <zone xml:id="nb07_01_04_0058_verso_surface_line_06" lry="726" lrx="2714" uly="650"
+                    ulx="157" rend="line"/>
+                <zone xml:id="nb07_01_04_0058_verso_surface_line_07" lry="823" lrx="2664" uly="760"
+                    ulx="187" rend="line"/>
+                <zone xml:id="nb07_01_04_0058_verso_surface_line_08" lry="926" lrx="2680" uly="873"
+                    ulx="157" rend="line"/>
+                <zone xml:id="nb07_01_04_0058_verso_surface_line_09" lry="1023" lrx="2464" uly="956"
+                    ulx="124" rend="line"/>
+                <zone xml:id="nb07_01_04_0058_verso_surface_line_10" lry="1136" lrx="1610"
+                    uly="1046" ulx="180" rend="line"/>
+                <zone xml:id="nb07_01_04_0058_verso_surface_line_11" lry="1193" lrx="2864"
+                    uly="1156" ulx="104" rend="line"/>
+                <zone xml:id="nb07_01_04_0058_verso_surface_line_12" lry="1343" lrx="2737"
+                    uly="1240" ulx="137" rend="line"/>
+                <zone xml:id="nb07_01_04_0058_verso_surface_line_13" lry="1483" lrx="1910"
+                    uly="1390" ulx="217" rend="line"/>
+                <zone xml:id="nb07_01_04_0058_verso_surface_line_14" lry="1630" lrx="2814"
+                    uly="1560" ulx="144" rend="line"/>
+                <zone xml:id="nb07_01_04_0058_verso_surface_line_15" lry="1730" lrx="2680"
+                    uly="1670" ulx="237" rend="line"/>
+                <zone xml:id="nb07_01_04_0058_verso_surface_line_16" lry="1803" lrx="2584"
+                    uly="1753" ulx="260" rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0059_surface">
+            <surface xml:id="nb07_01_04_0059_recto_surface">
+                <graphic url="nb07_01_04_0059-recto.jpeg"/>
+                <zone xml:id="nb07_01_04_0059_recto_surface_line_01" lry="133" lrx="2637" uly="63"
+                    ulx="187" rend="line"/>
+                <zone xml:id="nb07_01_04_0059_recto_surface_line_02" lry="216" lrx="1747" uly="153"
+                    ulx="227" rend="line"/>
+                <zone xml:id="nb07_01_04_0059_recto_surface_line_03" lry="293" lrx="2780" uly="240"
+                    ulx="243" rend="line"/>
+                <zone xml:id="nb07_01_04_0059_recto_surface_line_04" lry="410" lrx="2640" uly="350"
+                    ulx="223" rend="line"/>
+                <zone xml:id="nb07_01_04_0059_recto_surface_line_05" lry="510" lrx="2763" uly="453"
+                    ulx="190" rend="line"/>
+                <zone xml:id="nb07_01_04_0059_recto_surface_line_06" lry="606" lrx="2840" uly="546"
+                    ulx="203" rend="line"/>
+                <zone xml:id="nb07_01_04_0059_recto_surface_line_07" lry="703" lrx="2830" uly="643"
+                    ulx="217" rend="line"/>
+                <zone xml:id="nb07_01_04_0059_recto_surface_line_08" lry="806" lrx="2747" uly="743"
+                    ulx="193" rend="line"/>
+                <zone xml:id="nb07_01_04_0059_recto_surface_line_09" lry="903" lrx="2553" uly="840"
+                    ulx="207" rend="line"/>
+                <zone xml:id="nb07_01_04_0059_recto_surface_line_10" lry="1006" lrx="2833" uly="940"
+                    ulx="207" rend="line"/>
+                <zone xml:id="nb07_01_04_0059_recto_surface_line_11" lry="1110" lrx="2757"
+                    uly="1046" ulx="153" rend="line"/>
+                <zone xml:id="nb07_01_04_0059_recto_surface_line_12" lry="1230" lrx="2793"
+                    uly="1150" ulx="233" rend="line"/>
+                <zone xml:id="nb07_01_04_0059_recto_surface_line_13" lry="1320" lrx="2680"
+                    uly="1260" ulx="237" rend="line"/>
+                <zone xml:id="nb07_01_04_0059_recto_surface_line_14" lry="1416" lrx="2867"
+                    uly="1366" ulx="240" rend="line"/>
+                <zone xml:id="nb07_01_04_0059_recto_surface_line_15" lry="1516" lrx="2647"
+                    uly="1460" ulx="300" rend="line"/>
+                <zone xml:id="nb07_01_04_0059_recto_surface_line_16" lry="1633" lrx="2863"
+                    uly="1536" ulx="337" rend="line"/>
+                <zone xml:id="nb07_01_04_0059_recto_surface_line_17" lry="1710" lrx="2617"
+                    uly="1663" ulx="317" rend="line"/>
+                <zone xml:id="nb07_01_04_0059_recto_surface_line_18" lry="1800" lrx="2737"
+                    uly="1733" ulx="343" rend="line"/>
+            </surface>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div type="image" xml:id="nb07_01_04_0001_text" facs="#nb07_01_04_0001_surface">
+                <div type="page" n="r.0001" xml:id="nb07_01_04_0001_recto_text"
+                    facs="nb07_01_04_0001_recto_surface">
+                    <!-- <desc>[Outside front cover.]</desc> -->
+                    <l n="01" facs="#nb07_01_04_0001_recto_surface_line_01" xml:id="nb07_01_04_0001_recto_text_line_01">[No handwriting on this page.]</l>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_01_04_0002_text" facs="#nb07_01_04_0002_surface">
+                <div type="page" n="v.0002" xml:id="nb07_01_04_0002_verso_text"
+                    facs="nb07_01_04_0002_verso_surface">
+                    <!-- <desc>[Inside front cover.]</desc> -->
+                    <l n="01" facs="#nb07_01_04_0002_verso_surface_line_01" xml:id="nb07_01_04_0002_verso_text_line_01"> M. Moore</l>
+                    <l n="02" facs="#nb07_01_04_0001_recto_surface_line_02" xml:id="nb07_01_04_0001_recto_text_line_02"> 14 St. Luke's Place</l>
+                    <l n="03" facs="#nb07_01_04_0001_recto_surface_line_03" xml:id="nb07_01_04_0001_recto_text_line_03"> N.Y.C.</l>
+                    <l n="04" facs="#nb07_01_04_0001_recto_surface_line_04" xml:id="nb07_01_04_0001_recto_text_line_04"> </l>
+                    <l n="05" facs="#nb07_01_04_0001_recto_surface_line_05" xml:id="nb07_01_04_0001_recto_text_line_05">1250/4<note xml:id="nb07_01_04_0001_recto_text_line_05_note_01">These identification numbers were entered by Rosenbach staff, before they moved to the roman numeral system (VII.01.04 for this notebook). </note></l>
+                    <l n="06" facs="#nb07_01_04_0001_recto_surface_line_06" xml:id="nb07_01_04_0001_recto_text_line_06"><space extent="30"/><hi rend="underline">Jan. 1 1923</hi> <space extent="26"/></l>
+                    <l n="07" facs="#nb07_01_04_0001_recto_surface_line_07" xml:id="nb07_01_04_0001_recto_text_line_07"> See Standard 142</l>
+                    <l n="08" facs="#nb07_01_04_0001_recto_surface_line_08" xml:id="nb07_01_04_0001_recto_text_line_08"> Book III</l>
+                    <l n="09" facs="#nb07_01_04_0001_recto_surface_line_09" xml:id="nb07_01_04_0001_recto_text_line_09"> 1923</l>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_01_04_0003_text" facs="#nb07_01_04_0003_surface">
+                <div type="page" n="r.0003" xml:id="nb07_01_04_0003_recto_text"
+                    facs="nb07_01_04_0003_recto_surface">
+                    <!-- <desc>[Page-level Description]</desc> -->
+                    <l n="01" facs="#nb07_01_04_0003_recto_surface_line_01" xml:id="nb07_01_04_0003_recto_text_line_01"> Marianne Moore</l>
+                    <l n="02" facs="#nb07_01_04_0003_recto_surface_line_02" xml:id="nb07_01_04_0003_recto_text_line_02"> 14 St. Luke's Place</l>
+                    <l n="03" facs="#nb07_01_04_0003_recto_surface_line_03" xml:id="nb07_01_04_0003_recto_text_line_03"> N.Y.C.</l>
+                    <l n="04" facs="#nb07_01_04_0003_recto_surface_line_04" xml:id="nb07_01_04_0003_recto_text_line_04"> Book III</l>
+                    <l n="05" facs="#nb07_01_04_0003_recto_surface_line_05" xml:id="nb07_01_04_0003_recto_text_line_05"><source rend="begin"/><hi rend="pencil">The Law of the Sea</hi></l>
+                    <l n="06" facs="#nb07_01_04_0003_recto_surface_line_06" xml:id="nb07_01_04_0003_recto_text_line_06"> <space extent="30"/><hi rend="pencil">George Canfield</hi></l>
+                    <l n="07" facs="#nb07_01_04_0003_recto_surface_line_07" xml:id="nb07_01_04_0003_recto_text_line_07"><hi rend="pencil">Appleton 1921</hi><source rend="end"/><note>Canfield, George, George W. Dalzell, and Jasper Yeates Brinton. The Law of the Sea: A Manual of the Principles of Admiralty Law For Students, Mariners and Ship Operators. NY and London: D. Appleton &amp; Company, 1921.</note></l>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_01_04_0004_text" facs="#nb07_01_04_0004_surface">
+                <div type="page" n="v.0004" xml:id="nb07_01_04_0004_verso_text"
+                    facs="nb07_01_04_0004_verso_surface">
+                    <!-- <desc>[Page-level Description]</desc> -->
+                    <l n="01" facs="#nb07_01_04_0004_verso_surface_line_01" xml:id="nb07_01_04_0004_verso_text_line_01">[No handwriting on this page.]</l>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_01_04_0005_text" facs="#nb07_01_04_0005_surface">
+                <div type="page" n="r.0005" xml:id="nb07_01_04_0005_recto_text"
+                    facs="nb07_01_04_0005_recto_surface">
+                    <!-- <desc>[Page-level Description]</desc> -->
+                    <l n="01" facs="#nb07_01_04_0005_recto_surface_line_01" xml:id="nb07_01_04_0005_recto_text_line_01"> <space extent="360"/>Jan. </l>
+                    <l n="02" facs="#nb07_01_04_0004_verso_surface_line_02" xml:id="nb07_01_04_0004_verso_text_line_02">W L George <note xml:id="nb07_01_04_0004_verso_text_line_02_note_01" type="glossary">George, Lionel Walter [1882-1926]. British author known for his popular fiction and
+writings on feminism. Author of The Intelligence of Woman (1916). </note><space extent="30"/><source>Art of Courtship. Harper's 1923</source><note xml:id="nb07_01_04_0004_verso_text_line_02_note_02">George, Lionel Walter.
+ "The Art of Courtship." <hi rend="italics">Harper's Bazar</hi> (January 1923): 212-218.</note></l>
+                    <l n="03" facs="#nb07_01_04_0004_verso_surface_line_03" xml:id="nb07_01_04_0004_verso_text_line_03">
+<space extent="30"/>(Generalizations on courtship) </l>
+                    <l n="04" facs="#nb07_01_04_0004_verso_surface_line_04" xml:id="nb07_01_04_0004_verso_text_line_04">
+<quote rend="begin"/>They do not apply to super emotional people,</l>
+                    <l n="05" facs="#nb07_01_04_0004_verso_surface_line_05" xml:id="nb07_01_04_0004_verso_text_line_05">to artists, . . or to the unduly intellectual</l>
+                    <l n="06" facs="#nb07_01_04_0004_verso_surface_line_06" xml:id="nb07_01_04_0004_verso_text_line_06">blank] Such monsters must look after themselves</l>
+                    <l n="07" facs="#nb07_01_04_0004_verso_surface_line_07" xml:id="nb07_01_04_0004_verso_text_line_07"> in the lists of love. . . . Success today</l>
+                    <l n="08" facs="#nb07_01_04_0003_recto_surface_line_08" xml:id="nb07_01_04_0003_recto_text_line_08"> is no more likely than success a century </l>
+                    <l n="09" facs="#nb07_01_04_0003_recto_surface_line_09" xml:id="nb07_01_04_0003_recto_text_line_09"> ago, unless one applies to courtship</l>
+                    <l n="10" facs="#nb07_01_04_0001_recto_surface_line_10" xml:id="nb07_01_04_0001_recto_text_line_10"> a certain degree of low cunning.</l>
+                    <l n="11" facs="#nb07_01_04_0001_recto_surface_line_11" xml:id="nb07_01_04_0001_recto_text_line_11"> (must give) to stony places a light</l>
+                    <l n="12" facs="#nb07_01_04_0001_recto_surface_line_12" xml:id="nb07_01_04_0001_recto_text_line_12"> dressing of good earth.</l>
+                    <l n="13" facs="#nb07_01_04_0001_recto_surface_line_13" xml:id="nb07_01_04_0001_recto_text_line_13"> Intelligently used poverty can be as</l>
+                    <l n="14" facs="#nb07_01_04_0001_recto_surface_line_14" xml:id="nb07_01_04_0001_recto_text_line_14"> affective as wealth. . . Most women</l>
+                    <l n="15" facs="#nb07_01_04_0001_recto_surface_line_15" xml:id="nb07_01_04_0001_recto_text_line_15"> are highly responsive to the attraction of</l>
+                    <l n="16" facs="#nb07_01_04_0001_recto_surface_line_16" xml:id="nb07_01_04_0001_recto_text_line_16"> the arts, of letters, of music. They do</l>
+                    <l n="17" facs="#nb07_01_04_0001_recto_surface_line_17" xml:id="nb07_01_04_0001_recto_text_line_17"> not understand them better than men</l>
+                    <l n="18" facs="#nb07_01_04_0001_recto_surface_line_18" xml:id="nb07_01_04_0001_recto_text_line_18"> but they like them better. If he has no</l>
+                    <l n="19" facs="#nb07_01_04_0001_recto_surface_line_19" xml:id="nb07_01_04_0001_recto_text_line_19"> wings . . . let him reserve for matrimony</l>
+                    <l n="20" facs="#nb07_01_04_0001_recto_surface_line_20" xml:id="nb07_01_04_0001_recto_text_line_20"> the masc. privileges of crudity--&amp; ignorance</l>
+                    <l n="21" facs="#nb07_01_04_0001_recto_surface_line_21" xml:id="nb07_01_04_0001_recto_text_line_21"> ¶ Assuming that he is reasonably young,</l>
+                    <l n="22" facs="#nb07_01_04_0001_recto_surface_line_22" xml:id="nb07_01_04_0001_recto_text_line_22"> not too ill looking, not too poor, it may</l>
+                    <l n="23" facs="#nb07_01_04_0001_recto_surface_line_23" xml:id="nb07_01_04_0001_recto_text_line_23"> almost be said that any man can wed</l>
+                    <l n="24" facs="#nb07_01_04_0001_recto_surface_line_24" xml:id="nb07_01_04_0001_recto_text_line_24"> any woman . . . . She may be sorry</l>
+                    <l n="25" facs="#nb07_01_04_0001_recto_surface_line_25" xml:id="nb07_01_04_0001_recto_text_line_25"> later that she has done so.</l>
+                    <l n="26" facs="#nb07_01_04_0001_recto_surface_line_26" xml:id="nb07_01_04_0001_recto_text_line_26"> The brutal compliment is a splendid</l>
+                    <l n="27" facs="#nb07_01_04_0001_recto_surface_line_27" xml:id="nb07_01_04_0001_recto_text_line_27"> weapon but it requires an education</l>
+                    <l n="28" facs="#nb07_01_04_0001_recto_surface_line_28" xml:id="nb07_01_04_0001_recto_text_line_28"> of the voice, an eloquence of the glance</l>
+                    <l n="29" facs="#nb07_01_04_0001_recto_surface_line_29" xml:id="nb07_01_04_0001_recto_text_line_29"> a dramatic mixture of audacity and</l>
+                    <l n="30" facs="#nb07_01_04_0001_recto_surface_line_30" xml:id="nb07_01_04_0001_recto_text_line_30"> confusion. It had best be let </l>
+                    <l n="31" facs="#nb07_01_04_0001_recto_surface_line_31" xml:id="nb07_01_04_0001_recto_text_line_31"> alone. <quote rend="end"/></l>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_01_04_0006_text" facs="#nb07_01_04_0006_surface">
+                <div type="page" n="v.0006" xml:id="nb07_01_04_0006_verso_text"
+                    facs="nb07_01_04_0006_verso_surface">
+                    <!-- <desc>[Page-level Description]</desc> -->
+                    <l n="01" facs="#nb07_01_04_0006_verso_surface_line_01" xml:id="nb07_01_04_0006_verso_text_line_01">
+<space extent="30"/><note xml:id="nb07_01_04_0006_verso_text_line_01_note_01">"The Art of Courtship" (see earlier note).</note><quote rend="begin"/>In general it is inadvisable to refer to past rivals,
+even</l>
+                    <l n="02" facs="#nb07_01_04_0006_verso_surface_line_02" xml:id="nb07_01_04_0006_verso_text_line_02"> to dead ones. Dead rivals are sometimes dangerous because</l>
+                    <l n="03" facs="#nb07_01_04_0006_verso_surface_line_03" xml:id="nb07_01_04_0006_verso_text_line_03"> they have become ideals. If one could raise them from the </l>
+                    <l n="04" facs="#nb07_01_04_0006_verso_surface_line_04" xml:id="nb07_01_04_0006_verso_text_line_04"> dead, they would be easier to manage. The main reason however</l>
+                    <l n="05" facs="#nb07_01_04_0006_verso_surface_line_05" xml:id="nb07_01_04_0006_verso_text_line_05"> for not running down a rival even if he be druken or</l>
+                    <l n="06" facs="#nb07_01_04_0006_verso_surface_line_06" xml:id="nb07_01_04_0006_verso_text_line_06"> faithless, is not so much that one enlists . . . . sympathy for</l>
+                    <l n="07" facs="#nb07_01_04_0006_verso_surface_line_07" xml:id="nb07_01_04_0006_verso_text_line_07"> the under dog . . . . <space extent="10"/>to depreciate a previous lover reflects
+on</l>
+                    <l n="08" facs="#nb07_01_04_0006_verso_surface_line_08" xml:id="nb07_01_04_0006_verso_text_line_08"> her good taste. <space extent="30"/>A certain amount of boasting is</l>
+                    <l n="09" facs="#nb07_01_04_0006_verso_surface_line_09" xml:id="nb07_01_04_0006_verso_text_line_09"> desirable. . . . . Probably the best form consists in mock modesty,</l>
+                    <l n="10" facs="#nb07_01_04_0006_verso_surface_line_10" xml:id="nb07_01_04_0006_verso_text_line_10"> because anything a human being says to another excites</l>
+                    <l n="11" facs="#nb07_01_04_0006_verso_surface_line_11" xml:id="nb07_01_04_0006_verso_text_line_11"> contradiction . . . It is wrong to say, the boss wanted</l>
+                    <l n="12" facs="#nb07_01_04_0006_verso_surface_line_12" xml:id="nb07_01_04_0006_verso_text_line_12"> to see me but I didn't go. I showed him the man I was.</l>
+                    <l n="13" facs="#nb07_01_04_0006_verso_surface_line_13" xml:id="nb07_01_04_0006_verso_text_line_13"> This is shocking. Better say: The boss wanted</l>
+                    <l n="14" facs="#nb07_01_04_0006_verso_surface_line_14" xml:id="nb07_01_04_0006_verso_text_line_14"> to see me. But I had an appointment with you.</l>
+                    <l n="15" facs="#nb07_01_04_0006_verso_surface_line_15" xml:id="nb07_01_04_0006_verso_text_line_15"> The status of a lover should be shown indirectly &amp; shld not</l>
+                    <l n="16" facs="#nb07_01_04_0006_verso_surface_line_16" xml:id="nb07_01_04_0006_verso_text_line_16"> be concealed. The silent modest man never cut any</l>
+                    <l n="17" facs="#nb07_01_04_0006_verso_surface_line_17" xml:id="nb07_01_04_0006_verso_text_line_17"> ice if anybody else happened to rush in with an ax.</l>
+                    <l n="18" facs="#nb07_01_04_0006_verso_surface_line_18" xml:id="nb07_01_04_0006_verso_text_line_18"> The lover shd also avoid habits . . <!-- NW: I don't see a third dot for an elipsis here. -->. They enable one<quote rend="end"/></l>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_01_04_0007_text" facs="#nb07_01_04_0007_surface">
+                <div type="page" n="r.0007" xml:id="nb07_01_04_0007_recto_text"
+                    facs="nb07_01_04_0007_recto_surface">
+                    <!-- <desc>[Page-level Description]</desc> -->
+                    <l n="01" facs="#nb07_01_04_0007_recto_surface_line_01" xml:id="nb07_01_04_0007_recto_text_line_01"><note xml:id="nb07_01_04_0007_recto_text_line_01_note_01">"The Art of Courtship" (see earlier note).</note><quote rend="begin"/>to get more into one's life, but they seldom allow one to get</l>
+                    <l n="02" facs="#nb07_01_04_0007_recto_surface_line_02" xml:id="nb07_01_04_0007_recto_text_line_02"> as much out. If he varies his suggestions he ceases to be <space extent="20"/>2</l>
+                    <l n="03" facs="#nb07_01_04_0007_recto_surface_line_03" xml:id="nb07_01_04_0007_recto_text_line_03"> Dick who-takes-me to the theater . . . . . There is, it is true, an advanced</l>
+                    <l n="04" facs="#nb07_01_04_0007_recto_surface_line_04" xml:id="nb07_01_04_0007_recto_text_line_04"> course for lovers, where habits are intentionally formed, so that</l>
+                    <l n="05" facs="#nb07_01_04_0007_recto_surface_line_05" xml:id="nb07_01_04_0007_recto_text_line_05"> from time to time they may be broken, the object being to give pain.</l>
+                    <l n="06" facs="#nb07_01_04_0007_recto_surface_line_06" xml:id="nb07_01_04_0007_recto_text_line_06"> . . . This shld not be done too early nor done too often,</l>
+                    <l n="07" facs="#nb07_01_04_0007_recto_surface_line_07" xml:id="nb07_01_04_0007_recto_text_line_07"> nor done at all except by the clear headed.</l>
+                    <l n="08" facs="#nb07_01_04_0007_recto_surface_line_08" xml:id="nb07_01_04_0007_recto_text_line_08"> <space extent="50"/>A similar point arises on jealousy. . . . . <del>women</del> tho we</l>
+                    <l n="09" facs="#nb07_01_04_0007_recto_surface_line_09" xml:id="nb07_01_04_0007_recto_text_line_09"> must today deal w a type of woman more intell . . . . than the</l>
+                    <l n="10" facs="#nb07_01_04_0007_recto_surface_line_10" xml:id="nb07_01_04_0007_recto_text_line_10"> beautiful, selfish revengeful animal <del>idiots</del> idiots represented</l>
+                    <l n="11" facs="#nb07_01_04_0007_recto_surface_line_11" xml:id="nb07_01_04_0007_recto_text_line_11"> by Shakes. Tenn., Homer Dante etc. Women did not</l>
+                    <l n="12" facs="#nb07_01_04_0007_recto_surface_line_12" xml:id="nb07_01_04_0007_recto_text_line_12"> have a psychology until the 17<hi rend="superscript">th</hi> c.
+<space extent="30"/>The awakening</l>
+                    <l n="13" facs="#nb07_01_04_0007_recto_surface_line_13" xml:id="nb07_01_04_0007_recto_text_line_13"> of jealousy shld not be risked unless for the melting of an</l>
+                    <l n="14" facs="#nb07_01_04_0007_recto_surface_line_14" xml:id="nb07_01_04_0007_recto_text_line_14"> emotional iceberg. <space extent="30"/>Of gifts&#8211;I would say only 2 things,</l>
+                    <l n="15" facs="#nb07_01_04_0007_recto_surface_line_15" xml:id="nb07_01_04_0007_recto_text_line_15"> the 2<hi rend="superscript">nd</hi> being very English. They shd
+<space extent="30"/>be varied. The</l>
+                    <l n="16" facs="#nb07_01_04_0007_recto_surface_line_16" xml:id="nb07_01_04_0007_recto_text_line_16"> 2<hi rend="superscript">nd</hi> &amp; English suggestion is:
+<space extent="10"/>don't overdo it. <space extent="10"/>Gifts are</l>
+                    <l n="17" facs="#nb07_01_04_0007_recto_surface_line_17" xml:id="nb07_01_04_0007_recto_text_line_17"> made rare mainly by their rarity. <space extent="20"/>Confidences are</l>
+                    <l n="18" facs="#nb07_01_04_0007_recto_surface_line_18" xml:id="nb07_01_04_0007_recto_text_line_18"> essential but they shld be calculated. <space extent="20"/>The lover <del>shld <quote rend="end"/></del></l>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_01_04_0008_text" facs="#nb07_01_04_0008_surface">
+                <div type="page" n="v.0008" xml:id="nb07_01_04_0008_verso_text"
+                    facs="nb07_01_04_0008_verso_surface">
+                    <!-- <desc>[Page-level Description] </desc> -->
+                    <l n="01" facs="#nb07_01_04_0008_verso_surface_line_01" xml:id="nb07_01_04_0008_verso_text_line_01"><quote rend="begin"/><space extent="30"/>must have a past provided it is past . . . .
+<space extent="30"/>A woman<note xml:id="nb07_01_04_0008_verso_text_line_01_note_01">"The Art of Courtship" (see earlier note).</note></l>
+                    <l n="02" facs="#nb07_01_04_0008_verso_surface_line_02" xml:id="nb07_01_04_0008_verso_text_line_02"> <space extent="30"/>had better have only a present. <space extent="10"/>A lover will do no harm</l>
+                    <l n="03" facs="#nb07_01_04_0008_verso_surface_line_03" xml:id="nb07_01_04_0008_verso_text_line_03"> <space extent="30"/>by occasionally sacrificing his beloved to his work. In my</l>
+                    <l n="04" facs="#nb07_01_04_0008_verso_surface_line_04" xml:id="nb07_01_04_0008_verso_text_line_04"> <space extent="30"/>notebook stands a case of a lover who went away to keep a</l>
+                    <l n="05" facs="#nb07_01_04_0008_verso_surface_line_05" xml:id="nb07_01_04_0008_verso_text_line_05"> <space extent="30"/>business appointment. <space extent="10"/>She said I hate you for going</l>
+                    <l n="06" facs="#nb07_01_04_0008_verso_surface_line_06" xml:id="nb07_01_04_0008_verso_text_line_06"> <space extent="30"/>&amp; I shld have hated you if you had broken a bus.</l>
+                    <l n="07" facs="#nb07_01_04_0008_verso_surface_line_07" xml:id="nb07_01_04_0008_verso_text_line_07"> <space extent="30"/>engagement on my account. You see this art of c needs some management</l>
+                    <l n="08" facs="#nb07_01_04_0008_verso_surface_line_08" xml:id="nb07_01_04_0008_verso_text_line_08"><!-- <desc rend="opening parenthesis opens 3 rows of print">-->(All his</l>
+                    <l n="09" facs="#nb07_01_04_0008_verso_surface_line_09" xml:id="nb07_01_04_0008_verso_text_line_09"> <space extent="30"/>observations are in accordance w <!-- <hi rend="shorthand for the">-->the laws of psychology but he</l>
+                    <l n="10" facs="#nb07_01_04_0008_verso_surface_line_10" xml:id="nb07_01_04_0008_verso_text_line_10"> <space extent="30"/>rottenizes it all.)<quote rend="end"/></l>
+                    <l n="11" facs="#nb07_01_04_0008_verso_surface_line_11" xml:id="nb07_01_04_0008_verso_text_line_11"> <space extent="70"/><source type="begin"/>Harper's. Bazar <space extent="20"/>Jan <space extent="20"/>1923 <space extent="40"/>Tappé <note xml:id="nb07_01_04_0008_verso_text_line_11_note_01" type="glossary">Tappé, Herman Patrick [1876-1954]. American clothes
+ designer, social advisor, and interior decorator.</note></l>
+                    <l n="12" facs="#nb07_01_04_0008_verso_surface_line_12" xml:id="nb07_01_04_0008_verso_text_line_12"> <space extent="30"/>The Encroaching gulf <!-- NW: I read this as "Stream" not "Steam" and have changed it here. -->Stream.<source rend="end"/><note xml:id="nb07_01_04_0008_verso_text_line_12_note_01">Tappé, Herman
+ Patrick. "The Encroaching Gulf Stream." <hi rend="underline">Harper's Bazaar</hi> (January 1923).</note></l>
+                    <l n="13" facs="#nb07_01_04_0008_verso_surface_line_13" xml:id="nb07_01_04_0008_verso_text_line_13"> <space extent="50"/><quote rend="begin"/> . . . But the stream itself, as it draws nearer, </l>
+                    <l n="14" facs="#nb07_01_04_0008_verso_surface_line_14" xml:id="nb07_01_04_0008_verso_text_line_14"> <space extent="30"/>may we not discover exotic flotsam surprising </l>
+                    <l n="15" facs="#nb07_01_04_0008_verso_surface_line_15" xml:id="nb07_01_04_0008_verso_text_line_15"> <space extent="30"/>jetsam? <space extent="10"/>A bathing suit of silver for example, fr <!-- <hi rend="shorthand the">-->the</l>
+                    <l n="16" facs="#nb07_01_04_0008_verso_surface_line_16" xml:id="nb07_01_04_0008_verso_text_line_16"> <space extent="30"/>shoulder of which a gleaming panel trails . . . . It</l>
+                    <l n="17" facs="#nb07_01_04_0008_verso_surface_line_17" xml:id="nb07_01_04_0008_verso_text_line_17"> <space extent="30"/>would not surprise me to spy a close swimming slip </l>
+                    <l n="18" facs="#nb07_01_04_0008_verso_surface_line_18" xml:id="nb07_01_04_0008_verso_text_line_18"> <space extent="30"/>of pale green ciré splashed w motifs of phosphorous</l>
+                    <l n="19" facs="#nb07_01_04_0008_verso_surface_line_19" xml:id="nb07_01_04_0008_verso_text_line_19"> <space extent="30"/>wh glow fr under the dark water. But the siren . . . song<quote rend="end"/>
+<space extent="26"/></l>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_01_04_0009_text" facs="#nb07_01_04_0009_surface">
+                <div type="page" n="r.0009" xml:id="nb07_01_04_0009_recto_text"
+                    facs="nb07_01_04_0009_recto_surface">
+                    <!-- <desc>[Page-level Description]</desc> -->
+                    <l n="01" facs="#nb07_01_04_0009_recto_surface_line_01" xml:id="nb07_01_04_0009_recto_text_line_01">
+<quote rend="begin"/>grows dangerously enchanting&#8212;a hasty adieu&#8212;<quote rend="end"/><note xml:id="nb07_01_04_0009_recto_text_line_01_note_01">Tappé, Herman Patrick.
+ "The Encroaching Gulf Stream" (see earlier note).</note></l>
+                    <l n="02" facs="#nb07_01_04_0009_recto_surface_line_02" xml:id="nb07_01_04_0009_recto_text_line_02"> <space extent="380"/>3</l>
+                    <l n="03" facs="#nb07_01_04_0009_recto_surface_line_03" xml:id="nb07_01_04_0009_recto_text_line_03"><hi rend="pencil">Punch Dec 13<source rend="end source"/> <space extent="30"/><quote rend="begin"/>Aunt Did I hear you greet yr friend</hi></l>
+                    <l n="04" facs="#nb07_01_04_0009_recto_surface_line_04" xml:id="nb07_01_04_0009_recto_text_line_04"><space extent="30"/><hi rend="pencil"> w H<del>e</del>ullo old Rip? I don't think its very nice.</hi></l>
+                    <l n="05" facs="#nb07_01_04_0009_recto_surface_line_05" xml:id="nb07_01_04_0009_recto_text_line_05"><hi rend="pencil"> Niece No no not rip--rep--S<del>a</del>uch a mouthful <space extent="30"/>to say</hi></l>
+                    <l n="06" facs="#nb07_01_04_0009_recto_surface_line_06" xml:id="nb07_01_04_0009_recto_text_line_06"><hi rend="pencil"> reptile every time</hi><quote rend="end"/></l>
+                    <l n="07" facs="#nb07_01_04_0009_recto_surface_line_07" xml:id="nb07_01_04_0009_recto_text_line_07"> <space extent="310"/><source rend="begin"/>Forum Jan.</l>
+                    <l n="08" facs="#nb07_01_04_0009_recto_surface_line_08" xml:id="nb07_01_04_0009_recto_text_line_08"> <space extent="100"/><hi rend="underline">Interregnum</hi> <space extent="160"/>1923<source rend="end"/><note xml:id="nb07_01_04_0009_recto_text_line_08_note_01">Jennings, Leslie Nelson. "Interregnum." <hi rend="underline">Forum</hi> Volume 69 (January 1923): 1119.</note></l>
+                    <l n="09" facs="#nb07_01_04_0009_recto_surface_line_09" xml:id="nb07_01_04_0009_recto_text_line_09"> <space extent="60"/>Leslie Nelson Jennings. <note xml:id="nb07_01_04_0009_recto_text_line_09_note_01" type="glossary">Jennings, Leslie Nelson [1892-1972]. American poet and editor.</note></l>
+                    <l n="10" facs="#nb07_01_04_0009_recto_surface_line_10" xml:id="nb07_01_04_0009_recto_text_line_10"><quote rend="begin"/><seg type="verse begin"/>Bring me an herb of healing, bring me fruit</l>
+                    <l n="11" facs="#nb07_01_04_0009_recto_surface_line_11" xml:id="nb07_01_04_0009_recto_text_line_11"> <space extent="30"/>Cool from the hills, a charger heaped w snow;</l>
+                    <l n="12" facs="#nb07_01_04_0009_recto_surface_line_12" xml:id="nb07_01_04_0009_recto_text_line_12"> <space extent="10"/>Sea water chill &amp; colorless and mute</l>
+                    <l n="13" facs="#nb07_01_04_0009_recto_surface_line_13" xml:id="nb07_01_04_0009_recto_text_line_13"> <space extent="30"/>In jars of smoky agate; let me know</l>
+                    <l n="14" facs="#nb07_01_04_0009_recto_surface_line_14" xml:id="nb07_01_04_0009_recto_text_line_14"> <space extent="20"/>Rigors of bronze, &amp; all the frozen, white</l>
+                    <l n="15" facs="#nb07_01_04_0009_recto_surface_line_15" xml:id="nb07_01_04_0009_recto_text_line_15"> <space extent="30"/>Procession of lads &amp; girls who stand</l>
+                    <l n="16" facs="#nb07_01_04_0009_recto_surface_line_16" xml:id="nb07_01_04_0009_recto_text_line_16"> <space extent="20"/>Stricken upon the threshold of delight,</l>
+                    <l n="17" facs="#nb07_01_04_0009_recto_surface_line_17" xml:id="nb07_01_04_0009_recto_text_line_17"> <space extent="50"/>Their limbs unloosened hand apart from hand!</l>
+                    <l n="18" facs="#nb07_01_04_0009_recto_surface_line_18" xml:id="nb07_01_04_0009_recto_text_line_18"> </l>
+                    <l n="19" facs="#nb07_01_04_0009_recto_surface_line_19" xml:id="nb07_01_04_0009_recto_text_line_19"> <space extent="20"/>These I will put between me and that hour</l>
+                    <l n="20" facs="#nb07_01_04_0009_recto_surface_line_20" xml:id="nb07_01_04_0009_recto_text_line_20"> <space extent="50"/>when Beauty learns to plague the eyes awake<!-- NW: This note seems off or incomplete, I corrected the punctuation --><note xml:id="nb07_01_04_0009_recto_text_line_20_note_01">Perhaps anticipating MM's descriptions of beauty in paradise, in "Marriage", Adam is "plagued" by some aspects.</note><seg type="verse end"/><quote rend="end"/></l>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_01_04_0010_text" facs="#nb07_01_04_0010_surface">
+                <div type="page" n="v.0010" xml:id="nb07_01_04_0010_verso_text"
+                    facs="nb07_01_04_0010_verso_surface">
+                    <!-- <desc>[Page-level Description]</desc> -->
+                    <l n="01" facs="#nb07_01_04_0010_verso_surface_line_01" xml:id="nb07_01_04_0010_verso_text_line_01"> <quote rend="begin"/><seg type="verse begin"/>With vague, moist mouths grown hungry to devour<note xml:id="nb07_01_04_0010_verso_text_line_01_note_01">Jennings, Leslie Nelson. "Interregnum" (see earlier note).</note></l>
+                    <l n="02" facs="#nb07_01_04_0010_verso_surface_line_02" xml:id="nb07_01_04_0010_verso_text_line_02"> <space extent="50"/>The honey of the heart. Oh, let me break</l>
+                    <l n="03" facs="#nb07_01_04_0010_verso_surface_line_03" xml:id="nb07_01_04_0010_verso_text_line_03"> Into all rooms of worship or despair</l>
+                    <l n="04" facs="#nb07_01_04_0010_verso_surface_line_04" xml:id="nb07_01_04_0010_verso_text_line_04"> <space extent="50"/>And mercifully scatter ashes there!<quote rend="end"/><seg type="verse end"/></l>
+                    <l n="05"/>
+                    <l n="06" facs="#nb07_01_04_0010_verso_surface_line_06" xml:id="nb07_01_04_0010_verso_text_line_06"> <space extent="60"/>Indian Art in Boston <space extent="30"/>The Arts</l>
+                    <l n="07" facs="#nb07_01_04_0010_verso_surface_line_07" xml:id="nb07_01_04_0010_verso_text_line_07"> <space extent="45"/>Ananda Coomaraswamy<note xml:id="nb07_01_04_0010_verso_text_line_07_note_01" type="glossary">Coomaraswamy, Ananda Kentish [1877-1947]. Anglo-Ceylonese philosopher and pioneering historian of Indian art.</note> Jan. 1923<note xml:id="nb07_01_04_0010_verso_text_line_07_note_02">Coomaraswamy, Ananda K. "Indian Art in Boston." <hi rend="underline">The Arts</hi>. Volume III.1 (January 1923): 36-46.</note><source rend="end"/></l>
+                    <l n="08" facs="#nb07_01_04_0010_verso_surface_line_08" xml:id="nb07_01_04_0010_verso_text_line_08"> <quote rend="begin"/>The hour of 'Cowdust,' <space extent="10"/>that is to say, Sundown, when the </l>
+                    <l n="09" facs="#nb07_01_04_0010_verso_surface_line_09" xml:id="nb07_01_04_0010_verso_text_line_09"> herds are brought back to the village. The central</l>
+                    <l n="10" facs="#nb07_01_04_0010_verso_surface_line_10" xml:id="nb07_01_04_0010_verso_text_line_10"> motif of the picture . . . . is Krishna, the Divine Herdsman: he</l>
+                    <l n="11" facs="#nb07_01_04_0010_verso_surface_line_11" xml:id="nb07_01_04_0010_verso_text_line_11"> is seen on the extreme right of the picture, <del>pe</del> wearing his</l>
+                    <l n="12" facs="#nb07_01_04_0010_verso_surface_line_12" xml:id="nb07_01_04_0010_verso_text_line_12"> peacock crest, &amp; playing on the flute. . . . "This is not</l>
+                    <l n="13" facs="#nb07_01_04_0010_verso_surface_line_13" xml:id="nb07_01_04_0010_verso_text_line_13"> merely the sound of a flute, but very poison"<note xml:id="nb07_01_04_0010_verso_text_line_13_note_01">MM uses a version of this line in "Marriage." <hi rend="underline"/></note> . . . The</l>
+                    <l n="14" facs="#nb07_01_04_0010_verso_surface_line_14" xml:id="nb07_01_04_0010_verso_text_line_14"> <space extent="60"/>of Brind<hi rend="line over a">a</hi>ban . . . .</l>
+                    <l n="15" facs="#nb07_01_04_0010_verso_surface_line_15" xml:id="nb07_01_04_0010_verso_text_line_15"> milkmaids ^ are leaning fr the balconies welcoming</l>
+                    <l n="16" facs="#nb07_01_04_0010_verso_surface_line_16" xml:id="nb07_01_04_0010_verso_text_line_16"> the homecomers "adorning the walls of the houses w wreaths</l>
+                    <l n="17" facs="#nb07_01_04_0010_verso_surface_line_17" xml:id="nb07_01_04_0010_verso_text_line_17"> of living water lilies" as the Sanskrit poet would say;</l>
+                    <l n="18" facs="#nb07_01_04_0010_verso_surface_line_18" xml:id="nb07_01_04_0010_verso_text_line_18"> . . . . the cows, "black, white grey, purple brown and</l>
+                    <l n="19" facs="#nb07_01_04_0010_verso_surface_line_19" xml:id="nb07_01_04_0010_verso_text_line_19"> blue" are streaming through the cowyard gate. (Finest</l>
+                    <l n="20" facs="#nb07_01_04_0010_verso_surface_line_20" xml:id="nb07_01_04_0010_verso_text_line_20"> example of <!-- <hi rend="shorthand the">-->the sch. of Rajhat painting of the K&#257;ngra Valley<quote rend="end"/></l>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
