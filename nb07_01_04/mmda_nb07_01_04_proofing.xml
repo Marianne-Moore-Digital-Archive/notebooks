@@ -17,8 +17,8 @@
         </fileDesc>
     </teiHeader>
     <facsimile xml:id="nb07_01_04_facsimile">
-        <!-- 
-            start first batch 1-10
+        
+         
         
         <surface xml:id="nb07_01_04_0001_surface">
             <surface xml:id="nb07_01_04_0001_recto_surface">
@@ -358,7 +358,6 @@
                     rend="line"/>
             </surface>
         </surface>
-        -->
     </facsimile>
     <text>
         <body>
