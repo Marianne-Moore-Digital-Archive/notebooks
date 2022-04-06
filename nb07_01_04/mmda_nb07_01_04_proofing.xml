@@ -17,21 +17,18 @@
         </fileDesc>
     </teiHeader>
     <facsimile xml:id="nb07_01_04_facsimile">
-        
-         
-        
         <surface xml:id="nb07_01_04_0001_surface">
             <surface xml:id="nb07_01_04_0001_recto_surface">
-                <graphic url="nb07_01_04_0001-recto.jpeg"/>
+                <graphic url="image.jpg"/>
                 <zone xml:id="nb07_01_04_0001_recto_surface_line_01" lry="0" lrx="0" uly="0" ulx="0"
                     rend="line"/>
             </surface>
         </surface>
         <surface xml:id="nb07_01_04_0002_surface">
             <surface xml:id="nb07_01_04_0002_verso_surface">
-                <graphic url="nb07_01_04_0002-verso.jpeg"/>
-                <zone xml:id="nb07_01_04_0002_verso_surface_line_01" lry="290" lrx="1345" uly="105"
-                    ulx="540" rend="line"/>
+                <graphic url="image.jpg"/>
+                <zone xml:id="nb07_01_04_0002_verso_surface_line_01" lry="290" lrx="1345" uly="42"
+                    ulx="184" rend="line"/>
                 <zone xml:id="nb07_01_04_0002_verso_surface_line_02" lry="403" lrx="1575" uly="290"
                     ulx="610" rend="line"/>
                 <zone xml:id="nb07_01_04_0002_verso_surface_line_03" lry="500" lrx="1193" uly="403"
@@ -365,184 +362,443 @@
                 <div type="page" n="r.0001" xml:id="nb07_01_04_0001_recto_text"
                     facs="nb07_01_04_0001_recto_surface">
                     <!-- <desc>[Outside front cover.]</desc> -->
-                    <l n="01" facs="#nb07_01_04_0001_recto_surface_line_01" xml:id="nb07_01_04_0001_recto_text_line_01">[No handwriting on this page.] T   E    S     T  </l>
+                    <l n="01" facs="#nb07_01_04_0001_recto_surface_line_01"
+                        xml:id="nb07_01_04_0001_recto_text_line_01">[No handwriting on this page.] T
+                        E S T </l>
                 </div>
             </div>
             <div type="image" xml:id="nb07_01_04_0002_text" facs="#nb07_01_04_0002_surface">
                 <div type="page" n="v.0002" xml:id="nb07_01_04_0002_verso_text"
                     facs="nb07_01_04_0002_verso_surface">
                     <!-- <desc>[Inside front cover.]</desc> -->
-                    <l n="01" facs="#nb07_01_04_0002_verso_surface_line_01" xml:id="nb07_01_04_0002_verso_text_line_01"> M. Moore</l>
-                    <l n="02" facs="#nb07_01_04_0001_recto_surface_line_02" xml:id="nb07_01_04_0001_recto_text_line_02"> 14 St. Luke's Place</l>
-                    <l n="03" facs="#nb07_01_04_0001_recto_surface_line_03" xml:id="nb07_01_04_0001_recto_text_line_03"> N.Y.C.</l>
-                    <l n="04" facs="#nb07_01_04_0001_recto_surface_line_04" xml:id="nb07_01_04_0001_recto_text_line_04"> </l>
-                    <l n="05" facs="#nb07_01_04_0001_recto_surface_line_05" xml:id="nb07_01_04_0001_recto_text_line_05">1250/4<note xml:id="nb07_01_04_0001_recto_text_line_05_note_01">These identification
-                            numbers were entered by Rosenbach staff, before they moved to the roman
-                            numeral system (VII.01.04 for this notebook). </note></l>
-                    <l n="06" facs="#nb07_01_04_0001_recto_surface_line_06" xml:id="nb07_01_04_0001_recto_text_line_06">   <hi rend="underline">Jan. 1 1923</hi></l>
-                    <l n="07" facs="#nb07_01_04_0001_recto_surface_line_07" xml:id="nb07_01_04_0001_recto_text_line_07"> See Standard 142</l>
-                    <l n="08" facs="#nb07_01_04_0001_recto_surface_line_08" xml:id="nb07_01_04_0001_recto_text_line_08"> Book III</l>
-                    <l n="09" facs="#nb07_01_04_0001_recto_surface_line_09" xml:id="nb07_01_04_0001_recto_text_line_09"> 1923</l>
+                    <l n="01" facs="#nb07_01_04_0002_verso_surface_line_01"
+                        xml:id="nb07_01_04_0002_verso_text_line_01"> M. Moore</l>
+                    <l n="02" facs="#nb07_01_04_0001_recto_surface_line_02"
+                        xml:id="nb07_01_04_0001_recto_text_line_02"> 14 St. Luke's Place</l>
+                    <l n="03" facs="#nb07_01_04_0001_recto_surface_line_03"
+                        xml:id="nb07_01_04_0001_recto_text_line_03"> N.Y.C.</l>
+                    <l n="04" facs="#nb07_01_04_0001_recto_surface_line_04"
+                        xml:id="nb07_01_04_0001_recto_text_line_04"> </l>
+                    <l n="05" facs="#nb07_01_04_0001_recto_surface_line_05"
+                        xml:id="nb07_01_04_0001_recto_text_line_05">1250/4<note
+                        xml:id="nb07_01_04_0001_recto_text_line_05_note_01">These identification
+                        numbers were entered by Rosenbach staff, before they moved to the roman
+                        numeral system (VII.01.04 for this notebook). </note></l>
+                    <l n="06" facs="#nb07_01_04_0001_recto_surface_line_06"
+                        xml:id="nb07_01_04_0001_recto_text_line_06"> <hi rend="underline">Jan. 1
+                        1923</hi></l>
+                    <l n="07" facs="#nb07_01_04_0001_recto_surface_line_07"
+                        xml:id="nb07_01_04_0001_recto_text_line_07"> See Standard 142</l>
+                    <l n="08" facs="#nb07_01_04_0001_recto_surface_line_08"
+                        xml:id="nb07_01_04_0001_recto_text_line_08"> Book III</l>
+                    <l n="09" facs="#nb07_01_04_0001_recto_surface_line_09"
+                        xml:id="nb07_01_04_0001_recto_text_line_09"> 1923</l>
                 </div>
             </div>
             <div type="image" xml:id="nb07_01_04_0003_text" facs="#nb07_01_04_0003_surface">
                 <div type="page" n="r.0003" xml:id="nb07_01_04_0003_recto_text"
                     facs="nb07_01_04_0003_recto_surface">
                     <!-- <desc>[Page-level Description]</desc> -->
-                    <l n="01" facs="#nb07_01_04_0003_recto_surface_line_01" xml:id="nb07_01_04_0003_recto_text_line_01"> Marianne Moore</l>
-                    <l n="02" facs="#nb07_01_04_0003_recto_surface_line_02" xml:id="nb07_01_04_0003_recto_text_line_02"> 14 St. Luke's Place</l>
-                    <l n="03" facs="#nb07_01_04_0003_recto_surface_line_03" xml:id="nb07_01_04_0003_recto_text_line_03"> N.Y.C.</l>
-                    <l n="04" facs="#nb07_01_04_0003_recto_surface_line_04" xml:id="nb07_01_04_0003_recto_text_line_04">                                      Book III</l>
-                    <l n="05" facs="#nb07_01_04_0003_recto_surface_line_05" xml:id="nb07_01_04_0003_recto_text_line_05"><source rend="begin"/><hi rend="pencil">The Law of the Sea</hi></l>
-                    <l n="06" facs="#nb07_01_04_0003_recto_surface_line_06" xml:id="nb07_01_04_0003_recto_text_line_06"> <hi rend="pencil">George Canfield</hi></l>
-                    <l n="07" facs="#nb07_01_04_0003_recto_surface_line_07" xml:id="nb07_01_04_0003_recto_text_line_07"><hi rend="pencil">Appleton
-                            1921</hi><source rend="end"/><note>Canfield, George, George W. Dalzell,
-                            and Jasper Yeates Brinton. The Law of the Sea: A Manual of the
-                            Principles of Admiralty Law For Students, Mariners and Ship Operators.
-                            NY and London: D. Appleton &amp; Company, 1921.</note></l>
+                    <l n="01" facs="#nb07_01_04_0003_recto_surface_line_01"
+                        xml:id="nb07_01_04_0003_recto_text_line_01"> Marianne Moore</l>
+                    <l n="02" facs="#nb07_01_04_0003_recto_surface_line_02"
+                        xml:id="nb07_01_04_0003_recto_text_line_02"> 14 St. Luke's Place</l>
+                    <l n="03" facs="#nb07_01_04_0003_recto_surface_line_03"
+                        xml:id="nb07_01_04_0003_recto_text_line_03"> N.Y.C.</l>
+                    <l n="04" facs="#nb07_01_04_0003_recto_surface_line_04"
+                        xml:id="nb07_01_04_0003_recto_text_line_04"> Book III</l>
+                    <l n="05" facs="#nb07_01_04_0003_recto_surface_line_05"
+                        xml:id="nb07_01_04_0003_recto_text_line_05"><source rend="begin"/><hi
+                        rend="pencil">The Law of the Sea</hi></l>
+                    <l n="06" facs="#nb07_01_04_0003_recto_surface_line_06"
+                        xml:id="nb07_01_04_0003_recto_text_line_06"> <hi rend="pencil">George
+                        Canfield</hi></l>
+                    <l n="07" facs="#nb07_01_04_0003_recto_surface_line_07"
+                        xml:id="nb07_01_04_0003_recto_text_line_07"><hi rend="pencil">Appleton
+                        1921</hi><source rend="end"/><note>Canfield, George, George W. Dalzell, and
+                        Jasper Yeates Brinton. The Law of the Sea: A Manual of the Principles of
+                        Admiralty Law For Students, Mariners and Ship Operators. NY and London: D.
+                        Appleton &amp; Company, 1921.</note></l>
                 </div>
             </div>
             <div type="image" xml:id="nb07_01_04_0004_text" facs="#nb07_01_04_0004_surface">
                 <div type="page" n="v.0004" xml:id="nb07_01_04_0004_verso_text"
                     facs="nb07_01_04_0004_verso_surface">
                     <!-- <desc>[Page-level Description]</desc> -->
-                    <l n="01" facs="#nb07_01_04_0004_verso_surface_line_01" xml:id="nb07_01_04_0004_verso_text_line_01">[No handwriting on this page.]</l>
+                    <l n="01" facs="#nb07_01_04_0004_verso_surface_line_01"
+                        xml:id="nb07_01_04_0004_verso_text_line_01">[No handwriting on this
+                        page.]</l>
                 </div>
             </div>
             <div type="image" xml:id="nb07_01_04_0005_text" facs="#nb07_01_04_0005_surface">
                 <div type="page" n="r.0005" xml:id="nb07_01_04_0005_recto_text"
                     facs="nb07_01_04_0005_recto_surface">
                     <!-- <desc>[Page-level Description]</desc> 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-->
-                    <l n="01" facs="#nb07_01_04_0005_recto_surface_line_01" xml:id="nb07_01_04_0005_recto_text_line_01">                                    Jan.</l>
-                    <l n="02" facs="#nb07_01_04_0004_verso_surface_line_02" xml:id="nb07_01_04_0004_verso_text_line_02">W L George <note xml:id="nb07_01_04_0004_verso_text_line_02_note_01" type="glossary">George, Lionel Walter [1882-1926]. British author known for his popular fiction and writings on feminism. Author of The Intelligence of Woman (1916). </note>   <source>Art of Courtship. Harper's 1923</source><note xml:id="nb07_01_04_0004_verso_text_line_02_note_02">George, Lionel Walter. "The Art of Courtship." <hi rend="italics">Harper's Bazar</hi> (January 1923): 212-218.</note></l>
-                    <l n="03" facs="#nb07_01_04_0004_verso_surface_line_03" xml:id="nb07_01_04_0004_verso_text_line_03">                             <quote/>(Generalizations on courtship</l>
-                    <l n="04" facs="#nb07_01_04_0004_verso_surface_line_04" xml:id="nb07_01_04_0004_verso_text_line_04"><quote rend="begin"/>They do not apply to super emotional people,</l>
-                    <l n="05" facs="#nb07_01_04_0004_verso_surface_line_05" xml:id="nb07_01_04_0004_verso_text_line_05">to artists, . . or to the unduly intellectual</l>
-                    <l n="06" facs="#nb07_01_04_0004_verso_surface_line_06" xml:id="nb07_01_04_0004_verso_text_line_06">Such monsters must look after themselves</l>
-                    <l n="07" facs="#nb07_01_04_0004_verso_surface_line_07" xml:id="nb07_01_04_0004_verso_text_line_07"> in the lists of love. . . . Success today</l>
-                    <l n="08" facs="#nb07_01_04_0003_recto_surface_line_08" xml:id="nb07_01_04_0003_recto_text_line_08"> is no more likely than success a century </l>
-                    <l n="09" facs="#nb07_01_04_0003_recto_surface_line_09" xml:id="nb07_01_04_0003_recto_text_line_09"> ago, unless one applies to courtship</l>
-                    <l n="10" facs="#nb07_01_04_0001_recto_surface_line_10" xml:id="nb07_01_04_0001_recto_text_line_10"> a certain degree of low cunning.</l>
-                    <l n="11" facs="#nb07_01_04_0001_recto_surface_line_11" xml:id="nb07_01_04_0001_recto_text_line_11"> (must give) to stony places a light</l>
-                    <l n="12" facs="#nb07_01_04_0001_recto_surface_line_12" xml:id="nb07_01_04_0001_recto_text_line_12"> dressing of good earth.</l>
-                    <l n="13" facs="#nb07_01_04_0001_recto_surface_line_13" xml:id="nb07_01_04_0001_recto_text_line_13"> Intelligently used poverty can be as</l>
-                    <l n="14" facs="#nb07_01_04_0001_recto_surface_line_14" xml:id="nb07_01_04_0001_recto_text_line_14"> affective as wealth. . . Most women</l>
-                    <l n="15" facs="#nb07_01_04_0001_recto_surface_line_15" xml:id="nb07_01_04_0001_recto_text_line_15"> are highly responsive to the attraction of</l>
-                    <l n="16" facs="#nb07_01_04_0001_recto_surface_line_16" xml:id="nb07_01_04_0001_recto_text_line_16"> the arts, of letters, of music. They do</l>
-                    <l n="17" facs="#nb07_01_04_0001_recto_surface_line_17" xml:id="nb07_01_04_0001_recto_text_line_17"> not understand them better than men</l>
-                    <l n="18" facs="#nb07_01_04_0001_recto_surface_line_18" xml:id="nb07_01_04_0001_recto_text_line_18"> but they like them better. If he has no</l>
-                    <l n="19" facs="#nb07_01_04_0001_recto_surface_line_19" xml:id="nb07_01_04_0001_recto_text_line_19"> wings . . . let him reserve for matrimony</l>
-                    <l n="20" facs="#nb07_01_04_0001_recto_surface_line_20" xml:id="nb07_01_04_0001_recto_text_line_20"> the masc. privileges of crudity--&amp; ignorance</l>
-                    <l n="21" facs="#nb07_01_04_0001_recto_surface_line_21" xml:id="nb07_01_04_0001_recto_text_line_21"> ¶ Assuming that he is reasonably young,</l>
-                    <l n="22" facs="#nb07_01_04_0001_recto_surface_line_22" xml:id="nb07_01_04_0001_recto_text_line_22"> not too ill looking, not too poor, it may</l>
-                    <l n="23" facs="#nb07_01_04_0001_recto_surface_line_23" xml:id="nb07_01_04_0001_recto_text_line_23"> almost be said that any man can wed</l>
-                    <l n="24" facs="#nb07_01_04_0001_recto_surface_line_24" xml:id="nb07_01_04_0001_recto_text_line_24"> any woman . . . . She may be sorry</l>
-                    <l n="25" facs="#nb07_01_04_0001_recto_surface_line_25" xml:id="nb07_01_04_0001_recto_text_line_25"> later that she has done so.</l>
-                    <l n="26" facs="#nb07_01_04_0001_recto_surface_line_26" xml:id="nb07_01_04_0001_recto_text_line_26"> The brutal compliment is a splendid</l>
-                    <l n="27" facs="#nb07_01_04_0001_recto_surface_line_27" xml:id="nb07_01_04_0001_recto_text_line_27"> weapon but it requires an education</l>
-                    <l n="28" facs="#nb07_01_04_0001_recto_surface_line_28" xml:id="nb07_01_04_0001_recto_text_line_28"> of the voice, an eloquence of the glance</l>
-                    <l n="29" facs="#nb07_01_04_0001_recto_surface_line_29" xml:id="nb07_01_04_0001_recto_text_line_29"> a dramatic mixture of audacity and</l>
-                    <l n="30" facs="#nb07_01_04_0001_recto_surface_line_30" xml:id="nb07_01_04_0001_recto_text_line_30"> confusion. It had best be let </l>
-                    <l n="31" facs="#nb07_01_04_0001_recto_surface_line_31" xml:id="nb07_01_04_0001_recto_text_line_31"> alone.<quote rend="end"/></l>
+                    <l n="01" facs="#nb07_01_04_0005_recto_surface_line_01"
+                        xml:id="nb07_01_04_0005_recto_text_line_01"> Jan.</l>
+                    <l n="02" facs="#nb07_01_04_0004_verso_surface_line_02"
+                        xml:id="nb07_01_04_0004_verso_text_line_02">W L George <note
+                        xml:id="nb07_01_04_0004_verso_text_line_02_note_01" type="glossary">George,
+                        Lionel Walter [1882-1926]. British author known for his popular fiction and
+                        writings on feminism. Author of The Intelligence of Woman (1916). </note>
+                        <source>Art of Courtship. Harper's 1923</source><note
+                        xml:id="nb07_01_04_0004_verso_text_line_02_note_02">George, Lionel Walter.
+                        "The Art of Courtship." <hi rend="italics">Harper's Bazar</hi> (January
+                        1923): 212-218.</note></l>
+                    <l n="03" facs="#nb07_01_04_0004_verso_surface_line_03"
+                        xml:id="nb07_01_04_0004_verso_text_line_03"> <quote/>(Generalizations on
+                        courtship</l>
+                    <l n="04" facs="#nb07_01_04_0004_verso_surface_line_04"
+                        xml:id="nb07_01_04_0004_verso_text_line_04"><quote rend="begin"/>They do not
+                        apply to super emotional people,</l>
+                    <l n="05" facs="#nb07_01_04_0004_verso_surface_line_05"
+                        xml:id="nb07_01_04_0004_verso_text_line_05">to artists, . . or to the unduly
+                        intellectual</l>
+                    <l n="06" facs="#nb07_01_04_0004_verso_surface_line_06"
+                        xml:id="nb07_01_04_0004_verso_text_line_06">Such monsters must look after
+                        themselves</l>
+                    <l n="07" facs="#nb07_01_04_0004_verso_surface_line_07"
+                        xml:id="nb07_01_04_0004_verso_text_line_07"> in the lists of love. . . .
+                        Success today</l>
+                    <l n="08" facs="#nb07_01_04_0003_recto_surface_line_08"
+                        xml:id="nb07_01_04_0003_recto_text_line_08"> is no more likely than success
+                        a century </l>
+                    <l n="09" facs="#nb07_01_04_0003_recto_surface_line_09"
+                        xml:id="nb07_01_04_0003_recto_text_line_09"> ago, unless one applies to
+                        courtship</l>
+                    <l n="10" facs="#nb07_01_04_0001_recto_surface_line_10"
+                        xml:id="nb07_01_04_0001_recto_text_line_10"> a certain degree of low
+                        cunning.</l>
+                    <l n="11" facs="#nb07_01_04_0001_recto_surface_line_11"
+                        xml:id="nb07_01_04_0001_recto_text_line_11"> (must give) to stony places a
+                        light</l>
+                    <l n="12" facs="#nb07_01_04_0001_recto_surface_line_12"
+                        xml:id="nb07_01_04_0001_recto_text_line_12"> dressing of good earth.</l>
+                    <l n="13" facs="#nb07_01_04_0001_recto_surface_line_13"
+                        xml:id="nb07_01_04_0001_recto_text_line_13"> Intelligently used poverty can
+                        be as</l>
+                    <l n="14" facs="#nb07_01_04_0001_recto_surface_line_14"
+                        xml:id="nb07_01_04_0001_recto_text_line_14"> affective as wealth. . . Most
+                        women</l>
+                    <l n="15" facs="#nb07_01_04_0001_recto_surface_line_15"
+                        xml:id="nb07_01_04_0001_recto_text_line_15"> are highly responsive to the
+                        attraction of</l>
+                    <l n="16" facs="#nb07_01_04_0001_recto_surface_line_16"
+                        xml:id="nb07_01_04_0001_recto_text_line_16"> the arts, of letters, of music.
+                        They do</l>
+                    <l n="17" facs="#nb07_01_04_0001_recto_surface_line_17"
+                        xml:id="nb07_01_04_0001_recto_text_line_17"> not understand them better than
+                        men</l>
+                    <l n="18" facs="#nb07_01_04_0001_recto_surface_line_18"
+                        xml:id="nb07_01_04_0001_recto_text_line_18"> but they like them better. If
+                        he has no</l>
+                    <l n="19" facs="#nb07_01_04_0001_recto_surface_line_19"
+                        xml:id="nb07_01_04_0001_recto_text_line_19"> wings . . . let him reserve for
+                        matrimony</l>
+                    <l n="20" facs="#nb07_01_04_0001_recto_surface_line_20"
+                        xml:id="nb07_01_04_0001_recto_text_line_20"> the masc. privileges of
+                        crudity--&amp; ignorance</l>
+                    <l n="21" facs="#nb07_01_04_0001_recto_surface_line_21"
+                        xml:id="nb07_01_04_0001_recto_text_line_21"> ¶ Assuming that he is
+                        reasonably young,</l>
+                    <l n="22" facs="#nb07_01_04_0001_recto_surface_line_22"
+                        xml:id="nb07_01_04_0001_recto_text_line_22"> not too ill looking, not too
+                        poor, it may</l>
+                    <l n="23" facs="#nb07_01_04_0001_recto_surface_line_23"
+                        xml:id="nb07_01_04_0001_recto_text_line_23"> almost be said that any man can
+                        wed</l>
+                    <l n="24" facs="#nb07_01_04_0001_recto_surface_line_24"
+                        xml:id="nb07_01_04_0001_recto_text_line_24"> any woman . . . . She may be
+                        sorry</l>
+                    <l n="25" facs="#nb07_01_04_0001_recto_surface_line_25"
+                        xml:id="nb07_01_04_0001_recto_text_line_25"> later that she has done so.</l>
+                    <l n="26" facs="#nb07_01_04_0001_recto_surface_line_26"
+                        xml:id="nb07_01_04_0001_recto_text_line_26"> The brutal compliment is a
+                        splendid</l>
+                    <l n="27" facs="#nb07_01_04_0001_recto_surface_line_27"
+                        xml:id="nb07_01_04_0001_recto_text_line_27"> weapon but it requires an
+                        education</l>
+                    <l n="28" facs="#nb07_01_04_0001_recto_surface_line_28"
+                        xml:id="nb07_01_04_0001_recto_text_line_28"> of the voice, an eloquence of
+                        the glance</l>
+                    <l n="29" facs="#nb07_01_04_0001_recto_surface_line_29"
+                        xml:id="nb07_01_04_0001_recto_text_line_29"> a dramatic mixture of audacity
+                        and</l>
+                    <l n="30" facs="#nb07_01_04_0001_recto_surface_line_30"
+                        xml:id="nb07_01_04_0001_recto_text_line_30"> confusion. It had best be let </l>
+                    <l n="31" facs="#nb07_01_04_0001_recto_surface_line_31"
+                        xml:id="nb07_01_04_0001_recto_text_line_31"> alone.<quote rend="end"/></l>
                 </div>
             </div>
             <div type="image" xml:id="nb07_01_04_0006_text" facs="#nb07_01_04_0006_surface">
                 <div type="page" n="v.0006" xml:id="nb07_01_04_0006_verso_text"
                     facs="nb07_01_04_0006_verso_surface">
                     <!-- <desc>[Page-level Description]</desc> -->
-                    <l n="01" facs="#nb07_01_04_0006_verso_surface_line_01" xml:id="nb07_01_04_0006_verso_text_line_01"><note xml:id="nb07_01_04_0006_verso_text_line_01_note_01">"The Art of Courtship" (see earlier note).</note><quote rend="begin"/>In general it is inadvisable to refer to past rivals, even</l>
-                    <l n="02" facs="#nb07_01_04_0006_verso_surface_line_02" xml:id="nb07_01_04_0006_verso_text_line_02">to dead ones. Dead rivals are sometimes dangerous because</l>
-                    <l n="03" facs="#nb07_01_04_0006_verso_surface_line_03" xml:id="nb07_01_04_0006_verso_text_line_03">they have become ideals. If one could raise them from the </l>
-                    <l n="04" facs="#nb07_01_04_0006_verso_surface_line_04" xml:id="nb07_01_04_0006_verso_text_line_04">dead, they would be easier to manage. The main reason however</l>
-                    <l n="05" facs="#nb07_01_04_0006_verso_surface_line_05" xml:id="nb07_01_04_0006_verso_text_line_05">for not running down a rival even if he be druken or</l>
-                    <l n="06" facs="#nb07_01_04_0006_verso_surface_line_06" xml:id="nb07_01_04_0006_verso_text_line_06">faithless, is not so much that one enlists . . . . sympathy for</l>
-                    <l n="07" facs="#nb07_01_04_0006_verso_surface_line_07" xml:id="nb07_01_04_0006_verso_text_line_07">the under dog . . . .  to depreciate a previous lover reflects on</l>
-                    <l n="08" facs="#nb07_01_04_0006_verso_surface_line_08" xml:id="nb07_01_04_0006_verso_text_line_08">her good taste.    A certain amount of boasting is</l>
-                    <l n="09" facs="#nb07_01_04_0006_verso_surface_line_09" xml:id="nb07_01_04_0006_verso_text_line_09">desirable. . . . . Probably the best form consists in mock modesty,</l>
-                    <l n="10" facs="#nb07_01_04_0006_verso_surface_line_10" xml:id="nb07_01_04_0006_verso_text_line_10">because anything a human being says to another excites</l>
-                    <l n="11" facs="#nb07_01_04_0006_verso_surface_line_11" xml:id="nb07_01_04_0006_verso_text_line_11">contradiction . . . It is wrong to say, the boss wanted</l>
-                    <l n="12" facs="#nb07_01_04_0006_verso_surface_line_12" xml:id="nb07_01_04_0006_verso_text_line_12">to see me but I didn't go. I showed him the man I was.</l>
-                    <l n="13" facs="#nb07_01_04_0006_verso_surface_line_13" xml:id="nb07_01_04_0006_verso_text_line_13">This is shocking. Better say: The boss wanted</l>
-                    <l n="14" facs="#nb07_01_04_0006_verso_surface_line_14" xml:id="nb07_01_04_0006_verso_text_line_14">to see me. But I had an appointment with you.</l>
-                    <l n="15" facs="#nb07_01_04_0006_verso_surface_line_15" xml:id="nb07_01_04_0006_verso_text_line_15">The status of a lover should be shown indirectly &amp; shld not</l>
-                    <l n="16" facs="#nb07_01_04_0006_verso_surface_line_16" xml:id="nb07_01_04_0006_verso_text_line_16">be concealed. The silent modest man never cut any</l>
-                    <l n="17" facs="#nb07_01_04_0006_verso_surface_line_17" xml:id="nb07_01_04_0006_verso_text_line_17">ice if anybody else happened to rush in with an ax.</l>
-                    <l n="18" facs="#nb07_01_04_0006_verso_surface_line_18" xml:id="nb07_01_04_0006_verso_text_line_18">The lover shd also avoid habits . . <!-- NW: I don't see a third dot for an elipsis here. -->. They enable     one<quote rend="end"/></l>
+                    <l n="01" facs="#nb07_01_04_0006_verso_surface_line_01"
+                        xml:id="nb07_01_04_0006_verso_text_line_01"><note
+                        xml:id="nb07_01_04_0006_verso_text_line_01_note_01">"The Art of Courtship"
+                        (see earlier note).</note><quote rend="begin"/>In general it is inadvisable
+                        to refer to past rivals, even</l>
+                    <l n="02" facs="#nb07_01_04_0006_verso_surface_line_02"
+                        xml:id="nb07_01_04_0006_verso_text_line_02">to dead ones. Dead rivals are
+                        sometimes dangerous because</l>
+                    <l n="03" facs="#nb07_01_04_0006_verso_surface_line_03"
+                        xml:id="nb07_01_04_0006_verso_text_line_03">they have become ideals. If one
+                        could raise them from the </l>
+                    <l n="04" facs="#nb07_01_04_0006_verso_surface_line_04"
+                        xml:id="nb07_01_04_0006_verso_text_line_04">dead, they would be easier to
+                        manage. The main reason however</l>
+                    <l n="05" facs="#nb07_01_04_0006_verso_surface_line_05"
+                        xml:id="nb07_01_04_0006_verso_text_line_05">for not running down a rival
+                        even if he be druken or</l>
+                    <l n="06" facs="#nb07_01_04_0006_verso_surface_line_06"
+                        xml:id="nb07_01_04_0006_verso_text_line_06">faithless, is not so much that
+                        one enlists . . . . sympathy for</l>
+                    <l n="07" facs="#nb07_01_04_0006_verso_surface_line_07"
+                        xml:id="nb07_01_04_0006_verso_text_line_07">the under dog . . . . to
+                        depreciate a previous lover reflects on</l>
+                    <l n="08" facs="#nb07_01_04_0006_verso_surface_line_08"
+                        xml:id="nb07_01_04_0006_verso_text_line_08">her good taste. A certain amount
+                        of boasting is</l>
+                    <l n="09" facs="#nb07_01_04_0006_verso_surface_line_09"
+                        xml:id="nb07_01_04_0006_verso_text_line_09">desirable. . . . . Probably the
+                        best form consists in mock modesty,</l>
+                    <l n="10" facs="#nb07_01_04_0006_verso_surface_line_10"
+                        xml:id="nb07_01_04_0006_verso_text_line_10">because anything a human being
+                        says to another excites</l>
+                    <l n="11" facs="#nb07_01_04_0006_verso_surface_line_11"
+                        xml:id="nb07_01_04_0006_verso_text_line_11">contradiction . . . It is wrong
+                        to say, the boss wanted</l>
+                    <l n="12" facs="#nb07_01_04_0006_verso_surface_line_12"
+                        xml:id="nb07_01_04_0006_verso_text_line_12">to see me but I didn't go. I
+                        showed him the man I was.</l>
+                    <l n="13" facs="#nb07_01_04_0006_verso_surface_line_13"
+                        xml:id="nb07_01_04_0006_verso_text_line_13">This is shocking. Better say:
+                        The boss wanted</l>
+                    <l n="14" facs="#nb07_01_04_0006_verso_surface_line_14"
+                        xml:id="nb07_01_04_0006_verso_text_line_14">to see me. But I had an
+                        appointment with you.</l>
+                    <l n="15" facs="#nb07_01_04_0006_verso_surface_line_15"
+                        xml:id="nb07_01_04_0006_verso_text_line_15">The status of a lover should be
+                        shown indirectly &amp; shld not</l>
+                    <l n="16" facs="#nb07_01_04_0006_verso_surface_line_16"
+                        xml:id="nb07_01_04_0006_verso_text_line_16">be concealed. The silent modest
+                        man never cut any</l>
+                    <l n="17" facs="#nb07_01_04_0006_verso_surface_line_17"
+                        xml:id="nb07_01_04_0006_verso_text_line_17">ice if anybody else happened to
+                        rush in with an ax.</l>
+                    <l n="18" facs="#nb07_01_04_0006_verso_surface_line_18"
+                        xml:id="nb07_01_04_0006_verso_text_line_18">The lover shd also avoid habits
+                        . . <!-- NW: I don't see a third dot for an elipsis here. -->. They enable
+                        one<quote rend="end"/></l>
                 </div>
             </div>
             <div type="image" xml:id="nb07_01_04_0007_text" facs="#nb07_01_04_0007_surface">
                 <div type="page" n="r.0007" xml:id="nb07_01_04_0007_recto_text"
                     facs="nb07_01_04_0007_recto_surface">
                     <!-- <desc>[Page-level Description]</desc> -->
-                    <l n="01" facs="#nb07_01_04_0007_recto_surface_line_01" xml:id="nb07_01_04_0007_recto_text_line_01"><note xml:id="nb07_01_04_0007_recto_text_line_01_note_01">"The Art of     Courtship" (see earlier note).</note><quote rend="begin"/>to get more into one's life, but they seldom allow one to get</l>
-                    <l n="02" facs="#nb07_01_04_0007_recto_surface_line_02" xml:id="nb07_01_04_0007_recto_text_line_02">as much out. If he varies his suggestions he ceases to be   2</l>
-                    <l n="03" facs="#nb07_01_04_0007_recto_surface_line_03" xml:id="nb07_01_04_0007_recto_text_line_03">Dick who-takes-me to the theater . . . . . There is, it is true, an advanced</l>
-                    <l n="04" facs="#nb07_01_04_0007_recto_surface_line_04" xml:id="nb07_01_04_0007_recto_text_line_04">course for lovers, where habits are intentionally formed, so that</l>
-                    <l n="05" facs="#nb07_01_04_0007_recto_surface_line_05" xml:id="nb07_01_04_0007_recto_text_line_05">from time to time they may be broken, the object being to give pain.</l>
-                    <l n="06" facs="#nb07_01_04_0007_recto_surface_line_06" xml:id="nb07_01_04_0007_recto_text_line_06">. . . This shld not be done too early nor done too often,</l>
-                    <l n="07" facs="#nb07_01_04_0007_recto_surface_line_07" xml:id="nb07_01_04_0007_recto_text_line_07">nor done at all except by the clear headed.</l>
-                    <l n="08" facs="#nb07_01_04_0007_recto_surface_line_08" xml:id="nb07_01_04_0007_recto_text_line_08">        A similar point arises on jealousy. . . . .     <del>women</del> tho we</l>
-                    <l n="09" facs="#nb07_01_04_0007_recto_surface_line_09" xml:id="nb07_01_04_0007_recto_text_line_09">must today deal w a type of woman more intell . . . . than the</l>
-                    <l n="10" facs="#nb07_01_04_0007_recto_surface_line_10" xml:id="nb07_01_04_0007_recto_text_line_10">beautiful, selfish revengeful animal <del>idiots</del> idiots represented</l>
-                    <l n="11" facs="#nb07_01_04_0007_recto_surface_line_11" xml:id="nb07_01_04_0007_recto_text_line_11">by Shakes. Tenn., Homer Dante etc. Women did not</l>
-                    <l n="12" facs="#nb07_01_04_0007_recto_surface_line_12" xml:id="nb07_01_04_0007_recto_text_line_12">have a psychology until the     17<hi rend="superscript">th</hi> c.    The awakening</l>
-                    <l n="13" facs="#nb07_01_04_0007_recto_surface_line_13" xml:id="nb07_01_04_0007_recto_text_line_13">of jealousy shld not be risked unless for the melting of an</l>
-                    <l n="14" facs="#nb07_01_04_0007_recto_surface_line_14" xml:id="nb07_01_04_0007_recto_text_line_14">emotional iceberg.    Of gifts&#8211;I would say only 2 things,</l>
-                    <l n="15" facs="#nb07_01_04_0007_recto_surface_line_15" xml:id="nb07_01_04_0007_recto_text_line_15">the 2<hi rend="superscript">nd</hi> being very English. They shd    be varied. The</l>
-                    <l n="16" facs="#nb07_01_04_0007_recto_surface_line_16" xml:id="nb07_01_04_0007_recto_text_line_16">2<hi rend="superscript">nd</hi> &amp; English suggestion is:  don't overdo it.  Gifts are</l>
-                    <l n="17" facs="#nb07_01_04_0007_recto_surface_line_17" xml:id="nb07_01_04_0007_recto_text_line_17">made rare mainly by their rarity.   Confidences are</l>
-                    <l n="18" facs="#nb07_01_04_0007_recto_surface_line_18" xml:id="nb07_01_04_0007_recto_text_line_18">essential but they shld be calculated.   The lover <del>shld <quote rend="end"/></del></l>
+                    <l n="01" facs="#nb07_01_04_0007_recto_surface_line_01"
+                        xml:id="nb07_01_04_0007_recto_text_line_01"><note
+                        xml:id="nb07_01_04_0007_recto_text_line_01_note_01">"The Art of Courtship"
+                        (see earlier note).</note><quote rend="begin"/>to get more into one's life,
+                        but they seldom allow one to get</l>
+                    <l n="02" facs="#nb07_01_04_0007_recto_surface_line_02"
+                        xml:id="nb07_01_04_0007_recto_text_line_02">as much out. If he varies his
+                        suggestions he ceases to be 2</l>
+                    <l n="03" facs="#nb07_01_04_0007_recto_surface_line_03"
+                        xml:id="nb07_01_04_0007_recto_text_line_03">Dick who-takes-me to the theater
+                        . . . . . There is, it is true, an advanced</l>
+                    <l n="04" facs="#nb07_01_04_0007_recto_surface_line_04"
+                        xml:id="nb07_01_04_0007_recto_text_line_04">course for lovers, where habits
+                        are intentionally formed, so that</l>
+                    <l n="05" facs="#nb07_01_04_0007_recto_surface_line_05"
+                        xml:id="nb07_01_04_0007_recto_text_line_05">from time to time they may be
+                        broken, the object being to give pain.</l>
+                    <l n="06" facs="#nb07_01_04_0007_recto_surface_line_06"
+                        xml:id="nb07_01_04_0007_recto_text_line_06">. . . This shld not be done too
+                        early nor done too often,</l>
+                    <l n="07" facs="#nb07_01_04_0007_recto_surface_line_07"
+                        xml:id="nb07_01_04_0007_recto_text_line_07">nor done at all except by the
+                        clear headed.</l>
+                    <l n="08" facs="#nb07_01_04_0007_recto_surface_line_08"
+                        xml:id="nb07_01_04_0007_recto_text_line_08"> A similar point arises on
+                        jealousy. . . . . <del>women</del> tho we</l>
+                    <l n="09" facs="#nb07_01_04_0007_recto_surface_line_09"
+                        xml:id="nb07_01_04_0007_recto_text_line_09">must today deal w a type of
+                        woman more intell . . . . than the</l>
+                    <l n="10" facs="#nb07_01_04_0007_recto_surface_line_10"
+                        xml:id="nb07_01_04_0007_recto_text_line_10">beautiful, selfish revengeful
+                        animal <del>idiots</del> idiots represented</l>
+                    <l n="11" facs="#nb07_01_04_0007_recto_surface_line_11"
+                        xml:id="nb07_01_04_0007_recto_text_line_11">by Shakes. Tenn., Homer Dante
+                        etc. Women did not</l>
+                    <l n="12" facs="#nb07_01_04_0007_recto_surface_line_12"
+                        xml:id="nb07_01_04_0007_recto_text_line_12">have a psychology until the
+                        17<hi rend="superscript">th</hi> c. The awakening</l>
+                    <l n="13" facs="#nb07_01_04_0007_recto_surface_line_13"
+                        xml:id="nb07_01_04_0007_recto_text_line_13">of jealousy shld not be risked
+                        unless for the melting of an</l>
+                    <l n="14" facs="#nb07_01_04_0007_recto_surface_line_14"
+                        xml:id="nb07_01_04_0007_recto_text_line_14">emotional iceberg. Of
+                        gifts&#8211;I would say only 2 things,</l>
+                    <l n="15" facs="#nb07_01_04_0007_recto_surface_line_15"
+                        xml:id="nb07_01_04_0007_recto_text_line_15">the 2<hi rend="superscript"
+                        >nd</hi> being very English. They shd be varied. The</l>
+                    <l n="16" facs="#nb07_01_04_0007_recto_surface_line_16"
+                        xml:id="nb07_01_04_0007_recto_text_line_16">2<hi rend="superscript">nd</hi>
+                        &amp; English suggestion is: don't overdo it. Gifts are</l>
+                    <l n="17" facs="#nb07_01_04_0007_recto_surface_line_17"
+                        xml:id="nb07_01_04_0007_recto_text_line_17">made rare mainly by their
+                        rarity. Confidences are</l>
+                    <l n="18" facs="#nb07_01_04_0007_recto_surface_line_18"
+                        xml:id="nb07_01_04_0007_recto_text_line_18">essential but they shld be
+                        calculated. The lover <del>shld <quote rend="end"/></del></l>
                 </div>
             </div>
             <div type="image" xml:id="nb07_01_04_0008_text" facs="#nb07_01_04_0008_surface">
                 <div type="page" n="v.0008" xml:id="nb07_01_04_0008_verso_text"
                     facs="nb07_01_04_0008_verso_surface">
                     <!-- <desc>[Page-level Description] </desc> -->
-                    <l n="01" facs="#nb07_01_04_0008_verso_surface_line_01" xml:id="nb07_01_04_0008_verso_text_line_01"><quote rend="begin"/>   must have a past provided it is past . . . .A woman<note xml:id="nb07_01_04_0008_verso_text_line_01_note_01">"The Art of Courtship" (see earlier note).</note></l>
-                    <l n="02" facs="#nb07_01_04_0008_verso_surface_line_02" xml:id="nb07_01_04_0008_verso_text_line_02">had better have only a present.  A lover will do no harm</l>
-                    <l n="03" facs="#nb07_01_04_0008_verso_surface_line_03" xml:id="nb07_01_04_0008_verso_text_line_03">by occasionally sacrificing his beloved to his work. In my</l>
-                    <l n="04" facs="#nb07_01_04_0008_verso_surface_line_04" xml:id="nb07_01_04_0008_verso_text_line_04">notebook stands a case of a lover who went away to keep a</l>
-                    <l n="05" facs="#nb07_01_04_0008_verso_surface_line_05" xml:id="nb07_01_04_0008_verso_text_line_05">business appointment.  She said I hate you for going</l>
-                    <l n="06" facs="#nb07_01_04_0008_verso_surface_line_06" xml:id="nb07_01_04_0008_verso_text_line_06">&amp; I shld have hated you if you had broken a bus.</l>
-                    <l n="07" facs="#nb07_01_04_0008_verso_surface_line_07" xml:id="nb07_01_04_0008_verso_text_line_07">engagement on my account. You see this art of c needs some management</l>
-                    <l n="08" facs="#nb07_01_04_0008_verso_surface_line_08" xml:id="nb07_01_04_0008_verso_text_line_08"><!-- <desc rend="opening parenthesis opens 3 rows of print">-->(All his</l>
-                    <l n="09" facs="#nb07_01_04_0008_verso_surface_line_09" xml:id="nb07_01_04_0008_verso_text_line_09">observations are in accordance w <!-- <hi rend="shorthand for the">-->the laws of psychology but he</l>
-                    <l n="10" facs="#nb07_01_04_0008_verso_surface_line_10" xml:id="nb07_01_04_0008_verso_text_line_10">rottenizes it all.)<quote rend="end"/></l>
-                    <l n="11" facs="#nb07_01_04_0008_verso_surface_line_11" xml:id="nb07_01_04_0008_verso_text_line_11">    <source type="begin"/>Harper's. Bazar   Jan   1923 Tappé <note xml:id="nb07_01_04_0008_verso_text_line_11_note_01" type="glossary">Tappé, Herman Patrick [1876-1954]. American clothes designer, social advisor, and interior decorator.</note></l>
-                    <l n="12" facs="#nb07_01_04_0008_verso_surface_line_12" xml:id="nb07_01_04_0008_verso_text_line_12">The Encroaching gulf <!-- NW: I read this as "Stream" not "Steam" and have changed it here. -->Stream.<source rend="end"/><note xml:id="nb07_01_04_0008_verso_text_line_12_note_01">Tappé, Herman Patrick. "The Encroaching Gulf Stream." <hi rend="underline">Harper's Bazaar</hi> (January 1923).</note></l>
-                    <l n="13" facs="#nb07_01_04_0008_verso_surface_line_13" xml:id="nb07_01_04_0008_verso_text_line_13">  <quote rend="begin"/> . . . But the stream itself, as it draws nearer, </l>
-                    <l n="14" facs="#nb07_01_04_0008_verso_surface_line_14" xml:id="nb07_01_04_0008_verso_text_line_14">may we not discover exotic flotsam surprising </l>
-                    <l n="15" facs="#nb07_01_04_0008_verso_surface_line_15" xml:id="nb07_01_04_0008_verso_text_line_15">jetsam?  A bathing suit of silver for example, fr <!-- <hi rend="shorthand the">-->the</l>
-                    <l n="16" facs="#nb07_01_04_0008_verso_surface_line_16" xml:id="nb07_01_04_0008_verso_text_line_16">shoulder of which a gleaming panel trails . . . . It</l>
-                    <l n="17" facs="#nb07_01_04_0008_verso_surface_line_17" xml:id="nb07_01_04_0008_verso_text_line_17">would not surprise me to spy a close swimming slip </l>
-                    <l n="18" facs="#nb07_01_04_0008_verso_surface_line_18" xml:id="nb07_01_04_0008_verso_text_line_18">of pale green ciré splashed w motifs of phosphorous</l>
-                    <l n="19" facs="#nb07_01_04_0008_verso_surface_line_19" xml:id="nb07_01_04_0008_verso_text_line_19">wh glow fr under the dark water. But the siren . . . song<quote rend="end"/></l>
+                    <l n="01" facs="#nb07_01_04_0008_verso_surface_line_01"
+                        xml:id="nb07_01_04_0008_verso_text_line_01"><quote rend="begin"/> must have
+                        a past provided it is past . . . .A woman<note
+                        xml:id="nb07_01_04_0008_verso_text_line_01_note_01">"The Art of Courtship"
+                        (see earlier note).</note></l>
+                    <l n="02" facs="#nb07_01_04_0008_verso_surface_line_02"
+                        xml:id="nb07_01_04_0008_verso_text_line_02">had better have only a present.
+                        A lover will do no harm</l>
+                    <l n="03" facs="#nb07_01_04_0008_verso_surface_line_03"
+                        xml:id="nb07_01_04_0008_verso_text_line_03">by occasionally sacrificing his
+                        beloved to his work. In my</l>
+                    <l n="04" facs="#nb07_01_04_0008_verso_surface_line_04"
+                        xml:id="nb07_01_04_0008_verso_text_line_04">notebook stands a case of a
+                        lover who went away to keep a</l>
+                    <l n="05" facs="#nb07_01_04_0008_verso_surface_line_05"
+                        xml:id="nb07_01_04_0008_verso_text_line_05">business appointment. She said I
+                        hate you for going</l>
+                    <l n="06" facs="#nb07_01_04_0008_verso_surface_line_06"
+                        xml:id="nb07_01_04_0008_verso_text_line_06">&amp; I shld have hated you if
+                        you had broken a bus.</l>
+                    <l n="07" facs="#nb07_01_04_0008_verso_surface_line_07"
+                        xml:id="nb07_01_04_0008_verso_text_line_07">engagement on my account. You
+                        see this art of c needs some management</l>
+                    <l n="08" facs="#nb07_01_04_0008_verso_surface_line_08"
+                        xml:id="nb07_01_04_0008_verso_text_line_08"
+                        ><!-- <desc rend="opening parenthesis opens 3 rows of print">-->(All his</l>
+                    <l n="09" facs="#nb07_01_04_0008_verso_surface_line_09"
+                        xml:id="nb07_01_04_0008_verso_text_line_09">observations are in accordance w
+                        <!-- <hi rend="shorthand for the">-->the laws of psychology but he</l>
+                    <l n="10" facs="#nb07_01_04_0008_verso_surface_line_10"
+                        xml:id="nb07_01_04_0008_verso_text_line_10">rottenizes it all.)<quote
+                        rend="end"/></l>
+                    <l n="11" facs="#nb07_01_04_0008_verso_surface_line_11"
+                        xml:id="nb07_01_04_0008_verso_text_line_11"> <source type="begin"/>Harper's.
+                        Bazar Jan 1923 Tappé <note
+                        xml:id="nb07_01_04_0008_verso_text_line_11_note_01" type="glossary">Tappé,
+                        Herman Patrick [1876-1954]. American clothes designer, social advisor, and
+                        interior decorator.</note></l>
+                    <l n="12" facs="#nb07_01_04_0008_verso_surface_line_12"
+                        xml:id="nb07_01_04_0008_verso_text_line_12">The Encroaching gulf
+                        <!-- NW: I read this as "Stream" not "Steam" and have changed it here. -->Stream.<source
+                        rend="end"/><note xml:id="nb07_01_04_0008_verso_text_line_12_note_01">Tappé,
+                        Herman Patrick. "The Encroaching Gulf Stream." <hi rend="underline">Harper's
+                        Bazaar</hi> (January 1923).</note></l>
+                    <l n="13" facs="#nb07_01_04_0008_verso_surface_line_13"
+                        xml:id="nb07_01_04_0008_verso_text_line_13"> <quote rend="begin"/> . . . But
+                        the stream itself, as it draws nearer, </l>
+                    <l n="14" facs="#nb07_01_04_0008_verso_surface_line_14"
+                        xml:id="nb07_01_04_0008_verso_text_line_14">may we not discover exotic
+                        flotsam surprising </l>
+                    <l n="15" facs="#nb07_01_04_0008_verso_surface_line_15"
+                        xml:id="nb07_01_04_0008_verso_text_line_15">jetsam? A bathing suit of silver
+                        for example, fr <!-- <hi rend="shorthand the">-->the</l>
+                    <l n="16" facs="#nb07_01_04_0008_verso_surface_line_16"
+                        xml:id="nb07_01_04_0008_verso_text_line_16">shoulder of which a gleaming
+                        panel trails . . . . It</l>
+                    <l n="17" facs="#nb07_01_04_0008_verso_surface_line_17"
+                        xml:id="nb07_01_04_0008_verso_text_line_17">would not surprise me to spy a
+                        close swimming slip </l>
+                    <l n="18" facs="#nb07_01_04_0008_verso_surface_line_18"
+                        xml:id="nb07_01_04_0008_verso_text_line_18">of pale green ciré splashed w
+                        motifs of phosphorous</l>
+                    <l n="19" facs="#nb07_01_04_0008_verso_surface_line_19"
+                        xml:id="nb07_01_04_0008_verso_text_line_19">wh glow fr under the dark water.
+                        But the siren . . . song<quote rend="end"/></l>
                 </div>
             </div>
             <div type="image" xml:id="nb07_01_04_0009_text" facs="#nb07_01_04_0009_surface">
                 <div type="page" n="r.0009" xml:id="nb07_01_04_0009_recto_text"
                     facs="nb07_01_04_0009_recto_surface">
                     <!-- <desc>[Page-level Description]</desc> -->
-                    <l n="01" facs="#nb07_01_04_0009_recto_surface_line_01" xml:id="nb07_01_04_0009_recto_text_line_01"><quote rend="begin"/>grows dangerously enchanting&#8212;a hasty     adieu&#8212;<quote rend="end"/><note xml:id="nb07_01_04_0009_recto_text_line_01_note_01">Tappé, Herman     Patrick. "The Encroaching Gulf Stream" (see earlier note).</note></l>
-                    <l n="02" facs="#nb07_01_04_0009_recto_surface_line_02" xml:id="nb07_01_04_0009_recto_text_line_02">                                                                                                              3</l>
-                    <l n="03" facs="#nb07_01_04_0009_recto_surface_line_03" xml:id="nb07_01_04_0009_recto_text_line_03"><hi rend="pencil">Punch Dec 13<source rend="end source"/> <quote rend="begin"/>Aunt Did I hear you greet yr friend</hi></l>
-                    <l n="04" facs="#nb07_01_04_0009_recto_surface_line_04" xml:id="nb07_01_04_0009_recto_text_line_04"><hi rend="pencil"> w H<del>e</del>ullo old Rip? I don't think its very     nice.</hi></l>
-                    <l n="05" facs="#nb07_01_04_0009_recto_surface_line_05" xml:id="nb07_01_04_0009_recto_text_line_05"> <hi rend="pencil"> Niece No no     not rip--rep--S<del>a</del>uch a mouthful    to     say</hi></l>
-                    <l n="06" facs="#nb07_01_04_0009_recto_surface_line_06" xml:id="nb07_01_04_0009_recto_text_line_06"> <hi rend="pencil"> reptile every     time</hi><quote rend="end"/></l>
-                    <l n="07" facs="#nb07_01_04_0009_recto_surface_line_07" xml:id="nb07_01_04_0009_recto_text_line_07">                                                                <source rend="begin"/>Forum Jan.</l>
-                    <l n="08" facs="#nb07_01_04_0009_recto_surface_line_08" xml:id="nb07_01_04_0009_recto_text_line_08">                             <hi rend="underline">Interregnum</hi>                          1923<source rend="end"/><note xml:id="nb07_01_04_0009_recto_text_line_08_note_01">Jennings, Leslie Nelson. "Interregnum." <hi rend="underline">Forum</hi> Volume 69 (January 1923): 1119.</note></l>
-                    <l n="09" facs="#nb07_01_04_0009_recto_surface_line_09" xml:id="nb07_01_04_0009_recto_text_line_09">           Leslie Nelson Jennings. <note xml:id="nb07_01_04_0009_recto_text_line_09_note_01" type="glossary">Jennings, Leslie Nelson [1892-1972]. American poet and editor.</note></l>
-                    <l n="10" facs="#nb07_01_04_0009_recto_surface_line_10" xml:id="nb07_01_04_0009_recto_text_line_10"><quote rend="begin"/><seg type="verse begin"/>Bring me an herb of healing, bring me fruit</l>
-                    <l n="11" facs="#nb07_01_04_0009_recto_surface_line_11" xml:id="nb07_01_04_0009_recto_text_line_11">    Cool from the hills, a charger heaped w snow;</l>
-                    <l n="12" facs="#nb07_01_04_0009_recto_surface_line_12" xml:id="nb07_01_04_0009_recto_text_line_12">Sea water chill &amp; colorless and mute</l>
-                    <l n="13" facs="#nb07_01_04_0009_recto_surface_line_13" xml:id="nb07_01_04_0009_recto_text_line_13">    In jars of smoky agate; let me know</l>
-                    <l n="14" facs="#nb07_01_04_0009_recto_surface_line_14" xml:id="nb07_01_04_0009_recto_text_line_14">Rigors of bronze, &amp; all the frozen, white</l>
-                    <l n="15" facs="#nb07_01_04_0009_recto_surface_line_15" xml:id="nb07_01_04_0009_recto_text_line_15">    Procession of lads &amp; girls who stand</l>
-                    <l n="16" facs="#nb07_01_04_0009_recto_surface_line_16" xml:id="nb07_01_04_0009_recto_text_line_16">Stricken upon the threshold of delight,</l>
-                    <l n="17" facs="#nb07_01_04_0009_recto_surface_line_17" xml:id="nb07_01_04_0009_recto_text_line_17">        Their limbs unloosened hand apart from hand!</l>
-                    <l n="18" facs="#nb07_01_04_0009_recto_surface_line_18" xml:id="nb07_01_04_0009_recto_text_line_18"/>
-                    <l n="19" facs="#nb07_01_04_0009_recto_surface_line_19" xml:id="nb07_01_04_0009_recto_text_line_19"> These I will put between me and that hour</l>
-                    <l n="20" facs="#nb07_01_04_0009_recto_surface_line_20" xml:id="nb07_01_04_0009_recto_text_line_20">      when Beauty learns to plague the eyes awake<!-- NW: This note seems off or incomplete, I corrected the punctuation --><note xml:id="nb07_01_04_0009_recto_text_line_20_note_01">Perhaps anticipating     MM's descriptions of beauty in paradise, in "Marriage", Adam is     "plagued" by some aspects.</note><seg type="verse end"/><quote rend="end"/></l>
+                    <l n="01" facs="#nb07_01_04_0009_recto_surface_line_01"
+                        xml:id="nb07_01_04_0009_recto_text_line_01"><quote rend="begin"/>grows
+                        dangerously enchanting&#8212;a hasty adieu&#8212;<quote rend="end"/><note
+                        xml:id="nb07_01_04_0009_recto_text_line_01_note_01">Tappé, Herman Patrick.
+                        "The Encroaching Gulf Stream" (see earlier note).</note></l>
+                    <l n="02" facs="#nb07_01_04_0009_recto_surface_line_02"
+                        xml:id="nb07_01_04_0009_recto_text_line_02"> 3</l>
+                    <l n="03" facs="#nb07_01_04_0009_recto_surface_line_03"
+                        xml:id="nb07_01_04_0009_recto_text_line_03"><hi rend="pencil">Punch Dec
+                        13<source rend="end source"/> <quote rend="begin"/>Aunt Did I hear you greet
+                        yr friend</hi></l>
+                    <l n="04" facs="#nb07_01_04_0009_recto_surface_line_04"
+                        xml:id="nb07_01_04_0009_recto_text_line_04"><hi rend="pencil"> w
+                        H<del>e</del>ullo old Rip? I don't think its very nice.</hi></l>
+                    <l n="05" facs="#nb07_01_04_0009_recto_surface_line_05"
+                        xml:id="nb07_01_04_0009_recto_text_line_05"> <hi rend="pencil"> Niece No no
+                        not rip--rep--S<del>a</del>uch a mouthful to say</hi></l>
+                    <l n="06" facs="#nb07_01_04_0009_recto_surface_line_06"
+                        xml:id="nb07_01_04_0009_recto_text_line_06"> <hi rend="pencil"> reptile
+                        every time</hi><quote rend="end"/></l>
+                    <l n="07" facs="#nb07_01_04_0009_recto_surface_line_07"
+                        xml:id="nb07_01_04_0009_recto_text_line_07"> <source rend="begin"/>Forum
+                        Jan.</l>
+                    <l n="08" facs="#nb07_01_04_0009_recto_surface_line_08"
+                        xml:id="nb07_01_04_0009_recto_text_line_08"> <hi rend="underline"
+                        >Interregnum</hi> 1923<source rend="end"/><note
+                        xml:id="nb07_01_04_0009_recto_text_line_08_note_01">Jennings, Leslie Nelson.
+                        "Interregnum." <hi rend="underline">Forum</hi> Volume 69 (January 1923):
+                        1119.</note></l>
+                    <l n="09" facs="#nb07_01_04_0009_recto_surface_line_09"
+                        xml:id="nb07_01_04_0009_recto_text_line_09"> Leslie Nelson Jennings. <note
+                        xml:id="nb07_01_04_0009_recto_text_line_09_note_01" type="glossary"
+                        >Jennings, Leslie Nelson [1892-1972]. American poet and editor.</note></l>
+                    <l n="10" facs="#nb07_01_04_0009_recto_surface_line_10"
+                        xml:id="nb07_01_04_0009_recto_text_line_10"><quote rend="begin"/><seg
+                        type="verse begin"/>Bring me an herb of healing, bring me fruit</l>
+                    <l n="11" facs="#nb07_01_04_0009_recto_surface_line_11"
+                        xml:id="nb07_01_04_0009_recto_text_line_11"> Cool from the hills, a charger
+                        heaped w snow;</l>
+                    <l n="12" facs="#nb07_01_04_0009_recto_surface_line_12"
+                        xml:id="nb07_01_04_0009_recto_text_line_12">Sea water chill &amp; colorless
+                        and mute</l>
+                    <l n="13" facs="#nb07_01_04_0009_recto_surface_line_13"
+                        xml:id="nb07_01_04_0009_recto_text_line_13"> In jars of smoky agate; let me
+                        know</l>
+                    <l n="14" facs="#nb07_01_04_0009_recto_surface_line_14"
+                        xml:id="nb07_01_04_0009_recto_text_line_14">Rigors of bronze, &amp; all the
+                        frozen, white</l>
+                    <l n="15" facs="#nb07_01_04_0009_recto_surface_line_15"
+                        xml:id="nb07_01_04_0009_recto_text_line_15"> Procession of lads &amp; girls
+                        who stand</l>
+                    <l n="16" facs="#nb07_01_04_0009_recto_surface_line_16"
+                        xml:id="nb07_01_04_0009_recto_text_line_16">Stricken upon the threshold of
+                        delight,</l>
+                    <l n="17" facs="#nb07_01_04_0009_recto_surface_line_17"
+                        xml:id="nb07_01_04_0009_recto_text_line_17"> Their limbs unloosened hand
+                        apart from hand!</l>
+                    <l n="18" facs="#nb07_01_04_0009_recto_surface_line_18"
+                        xml:id="nb07_01_04_0009_recto_text_line_18"/>
+                    <l n="19" facs="#nb07_01_04_0009_recto_surface_line_19"
+                        xml:id="nb07_01_04_0009_recto_text_line_19"> These I will put between me and
+                        that hour</l>
+                    <l n="20" facs="#nb07_01_04_0009_recto_surface_line_20"
+                        xml:id="nb07_01_04_0009_recto_text_line_20"> when Beauty learns to plague
+                        the eyes
+                        awake<!-- NW: This note seems off or incomplete, I corrected the punctuation --><note
+                        xml:id="nb07_01_04_0009_recto_text_line_20_note_01">Perhaps anticipating
+                        MM's descriptions of beauty in paradise, in "Marriage", Adam is "plagued" by
+                        some aspects.</note><seg type="verse end"/><quote rend="end"/></l>
                 </div>
             </div>
         </body>
