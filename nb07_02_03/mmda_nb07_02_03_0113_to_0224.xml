@@ -5240,7 +5240,7 @@
                         <l n="06">[blank]                      The guitar reached Eng in the <del>13</del>th c.<quote rend="end"/> </l>
                         <l n="07">[blank]</l>
                         <l n="08">[blank]                        <bibl type="begin"/>AE Housman 1897-1936     Grant Richards      Ox U. Press </l>
-                        <l n="09">[blank]                                                                                                     1941<bibl type="end"/> <note>Richards, Grant. <hi rend="italics">Housman, 1897-1936</hi> (London: Oxford UP, 1941).</note><note>Housman, Alfred Edward [1859-1936]. English poet and classical scholar.</note><note>Richards, Grant [1872-1948]. English publisher of Housman's poetry and of his Latin scholarship. His 1898 edition of Housman's most well known book of poems, <hi rend="italics">A Shropshire Lad</hi>, brought it out of the obscurity of the first edition, which was published elsewhere. </note></l>
+                        <l n="09">[blank]                                                                                                     1941<bibl type="end"/> <note>Richards, Grant. <hi rend="italics">Housman, 1897-1936</hi> (London: Oxford UP, 1941).</note><note>Housman, Alfred Edward [1859-1936]. English poet and classical scholar.</note><note>Richards, Grant [1872-1948]. Housman's English publisher.</note></l>
                         <l n="10">[blank]           268    <quote rend="begin"/>Maurice Pollet: in a Questionnaire to Housman—</l>
                         <l n="11">[blank]                      Q. 3: Though the poems have been grouped according to a</l>
                         <l n="12">[blank]                      certain principle of unity, rather than one of chronology,</l>
@@ -5306,7 +5306,7 @@
                         <l n="16">[blank]                             <foreign xml:lang="de">Am Kreuzweg stand ich und seufzte;</foreign> </l>
                         <l n="17">[blank]                             <foreign xml:lang="de">Die Nacht war kalt und stumm.</foreign> </l>
                         <l n="18">[blank]                             <foreign xml:lang="de">Im Mondschein bewegte sich langsam</foreign> </l>
-                        <l n="19">[blank]                             <foreign xml:lang="de">Die Armesünderblüm'.</foreign> </l>
+                        <l n="19">[blank]                             <foreign xml:lang="de">Die Armesünderblüm'.</foreign> <note>"Lyrical Intermezzo: They buried him at the cross-roads, / Whose own hand wrought his doom; / And over him grow blue flowers / Called the ‘Poor-Sinner's Bloom.’ // I stand at the cross-roads sighing, / Wrapped in a cloak of gloom, / And watch the moonlight trembling / On the Poor-Sinner’s Bloom." Trans. Louis Untermeyer.</note> </l>
                         <l n="20">[blank]</l>
                         <l n="21">[blank]         ASL  xxvii     I cheer a dead man’s sweetheart,</l>
                         <l n="22">[blank]                                     Never ask me whose.</l>
@@ -5315,7 +5315,7 @@
                         <l n="25">[blank]                     <foreign xml:lang="de">Anfangs wollt’ ich fast verzagen,</foreign> </l>
                         <l n="26">[blank]                     <foreign xml:lang="de">Und <del><unclear>w</unclear></del> ich glaubt’, ich trüg’ es nie;</foreign> </l>
                         <l n="27">[blank]                     <foreign xml:lang="de">Und ich hab’ es doch getragen,—</foreign> </l>
-                        <l n="28">[blank]                     <foreign xml:lang="de">Aber fragt mich nur nicht: wie?</foreign><seg type="verseend"/><quote rend="end"/> </l>
+                        <l n="28">[blank]                     <foreign xml:lang="de">Aber fragt mich nur nicht: wie?</foreign><seg type="verseend"/><quote rend="end"/> <note>“I despaired at first, declaring / It could be be borne; and now— / Now I bear it, still despairing. / Only never ask me how!” Trans. Louis Untermeyer.</note></l>
                         <l n="29">[blank]</l>
                         <l n="30">[blank]</l>
                         <l n="31">[blank]</l>
