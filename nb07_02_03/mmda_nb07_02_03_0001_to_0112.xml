@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/testcss"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <teiHeader>
             <fileDesc>
@@ -485,7 +485,7 @@
             <div type="image" xml:id="nb07_02_03_0007_text">
                 <div type="page" n="r.0007" xml:id="nb07_02_03_0007_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0007-recto.jpeg" n="0007-recto"/>
-                    <desc>[Page-level Description] &amp;lt;!MM places a left curly bracket to the
+                    <desc>[Page-level Description] &amp;lt;!MM places a curly bracket to the
                         left of the two phrases beginning "partly by" that end lines 07 and
                         08.!&amp;gt;</desc>
                     <lg>
@@ -600,8 +600,8 @@
                 <div type="page" n="r.0009" xml:id="nb07_02_03_0009_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0009-recto.jpeg" n="0009-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws two parallel vertical strokes to the left
-                        of the text on lines 17-18. She places a right curly bracket to the right of
-                        the words of the first half of lines 17-18 and a left curly bracket to the
+                        of the text on lines 17-18. She places a curly bracket to the right of
+                        the words of the first half of lines 17-18 and a curly bracket to the
                         left of the words at the end of these lines.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]      33    <quote rend="begin"/><note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note). On this page MM continues to transcribe from Aristotle.</note>as for the natural limit of the action, the longer the better as</l>
@@ -718,12 +718,12 @@
             <div type="image" xml:id="nb07_02_03_0011_text">
                 <div type="page" n="r.0011" xml:id="nb07_02_03_0011_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0011-recto.jpeg" n="0011-recto"/>
-                    <desc>[Page-level Description] &amp;lt;!MM places a left curly bracket pointing
+                    <desc>[Page-level Description] &amp;lt;!MM places a curly bracket pointing
                         to the word "plot" to the left of the four words listed at the beginning of
-                        lines 18-21. She places right curly bracket to the right of the first two
+                        lines 18-21. She places curly bracket to the right of the first two
                         words listed in lines 18 and 19 and two lines are drawn from it to converge
                         on the word "reversal" of line 17. An arrow runs left from the number 4 on
-                        line 20 to "the" under the phrase "left in the air!" MM places a left curly
+                        line 20 to "the" under the phrase "left in the air!" MM places a curly
                         bracket to the left of the words listed at the ends of lines
                         24-29.!&amp;gt;</desc>
                     <lg>
@@ -784,7 +784,7 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0012-verso.jpeg" n="0012-verso"/>
                     <desc>[Page-level Description] &amp;lt;!In line 03 MM draws a series of
                         individual strokes beneath the underlining. Parentheses enclose the phrases
-                        at the ends of lines 08 and 09. She places a right curly bracket to the
+                        at the ends of lines 08 and 09. She places a curly bracket to the
                         right of the phrases beginning lines 10 and 11. Parentheses enclose the
                         words at the end of lines 16 and 17. Two sets of parentheses enclose word
                         groups on lines 18-19: one contains "to be clear &amp;" and "ordinary words"
@@ -961,7 +961,7 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0015-recto.jpeg" n="0015-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 01 is in red
                         pencil. In line 14 the "5" is doubly underlined. MM circles the number 1 on
-                        line 15 and the numbers from 2 to 5 on lines 19-22. A right curly bracket
+                        line 15 and the numbers from 2 to 5 on lines 19-22. A curly bracket
                         connects lines 15-16 on the right.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]           <quote rend="begin"/><note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note). On this page MM transcribes from Longinus.</note>For <hi rend="underline">genius needs the curb as often as the spur</hi>.</l>
@@ -1191,7 +1191,7 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0019-recto.jpeg" n="0019-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM underlines lines 01-02 and marks a
                         double bar to the left of the text with red pencil. She places a vertical
-                        bar to the left of the text on lines 05-06. She places a left curly bracket
+                        bar to the left of the text on lines 05-06. She places a curly bracket
                         to the left of the words "democracy" and "freedom" in lines 16 and
                         17.!&amp;gt;</desc>
                     <lg>
@@ -1656,7 +1656,7 @@
                 <div type="page" n="r.0027" xml:id="nb07_02_03_0027_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0027-recto.jpeg" n="0027-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The word "brutally" is contained within
-                        two long slashes. MM places a left curly bracket to the left of the text of
+                        two long slashes. MM places a curly bracket to the left of the text of
                         lines 18-21.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                    <quote rend="begin"/><note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note). On this page MM continues to transcribe from Demetrius.</note>all Philip’s acts <add>indeed</add>—how he subjugated Thrace, etc</l>
@@ -1713,7 +1713,7 @@
             <div type="image" xml:id="nb07_02_03_0028_text">
                 <div type="page" n="v.0028" xml:id="nb07_02_03_0028_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0028-verso.jpeg" n="0028-verso"/>
-                    <desc>[Page-level Description] &amp;lt;!MM places a left curly bracket to the
+                    <desc>[Page-level Description] &amp;lt;!MM places a curly bracket to the
                         left of the phrase "The graceful and / The plain" across lines 14 and 15.
                         The underlining of line 16 and line 27 is double. MM circles the numbers 1
                         and 2 in lines 18 and 20.!&amp;gt;</desc>
@@ -1827,7 +1827,7 @@
             <div type="image" xml:id="nb07_02_03_0030_text">
                 <div type="page" n="v.0030" xml:id="nb07_02_03_0030_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0030-verso.jpeg" n="0030-verso"/>
-                    <desc>[Page-level Description] &amp;lt;!MM places a left curly bracket to the
+                    <desc>[Page-level Description] &amp;lt;!MM places a curly bracket to the
                         left of the phrases listed at the end of lines 04-06.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]     <del>64</del>          <quote rend="begin"/><note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note). On this page MM continues to transcribe from Demetrius.</note><hi rend="underline">asyndeton</hi>     absence of conjunctions</l>
@@ -5357,7 +5357,7 @@
             <div type="image" xml:id="nb07_02_03_0091_text">
                 <div type="page" n="r.0091" xml:id="nb07_02_03_0091_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0091-recto.jpeg" n="0091-recto"/>
-                    <desc>[Page-level Description] &amp;lt;!MM places a left curly bracket to the
+                    <desc>[Page-level Description] &amp;lt;!MM places a curly bracket to the
                         left of "the tenor &amp;" and "the vehicle" at the end of lines 11-12. The
                         underlining of lines 23, 26 and 27 is doubled with a wavy
                         line.!&amp;gt;</desc>
@@ -6569,7 +6569,7 @@
             <div type="image" xml:id="nb07_02_03_0112_text">
                 <div type="page" n="v.0112" xml:id="nb07_02_03_0112_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0112-verso.jpeg" n="0112-verso"/>
-                    <desc>[Page-level Description] &amp;lt;!An arrow-like line points to the left in the left margin of line 06. A right curly bracket is placed to the
+                    <desc>[Page-level Description] &amp;lt;!An arrow-like line points to the left in the left margin of line 06. A curly bracket is placed to the
                         right of the verse on lines 15-17. The underlining of lines 26, 28, and 32
                         is doubled with a wavy line.!&amp;gt;</desc>
                     <lg>
