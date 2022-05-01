@@ -146,51 +146,45 @@
             <div type="image" xml:id="nb07_02_03_0113_text">
                 <div type="page" n="r.0113" xml:id="nb07_02_03_0113_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0113-recto.jpeg" n="0113-recto"/>
-                    <desc>[Page-level Description] &amp;lt;!The underlining of lines 01, 03, 22, 23,
-                        and 27 is doubled with a wavy line. Opening parentheses are placed to the
-                        left of the text and after the digits on lines 03-04 and 06-07. The
-                        underlining of lines 30 and 35 is a wavy line.!&amp;gt;</desc>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of lines 01, 03, 18, 19,
+                        and 22 is doubled with a wavy line. Opening parentheses are placed to the
+                        left of the text and after the digits on lines 03-04 and 05-06. The
+                        underlining of lines 24 and 29 is a wavy line.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]         257        <quote rend="begin"/><note>Eliot, T. S. <hi rend="italics">Selected Essays</hi> (see earlier note). </note>there is a difference between philosophic <hi rend="underline">belief</hi> &amp; poetic <hi rend="underline">assent</hi>.</l>
                         <l n="02">[blank]                       <del>to</del> (<del>D</del> To understand Dante.)</l>
                         <l n="03">[blank]           258     What is necessary to appreciate the poetry of the <hi rend="underline">Purgatorio</hi> </l>
                         <l n="04">[blank]              2       is not belief, but suspension of belief.</l>
-                        <l n="05">[blank]</l>
-                        <l n="06">[blank]                      it is necessary to read the philosophical passages of Dante</l>
-                        <l n="07">[blank]              1      with the humility of a person visiting a new world.</l>
-                        <l n="08">[blank]</l>
-                        <l n="09">[blank]                      (understanding:) a state of mind in which one sees certain beliefs,</l>
-                        <l n="10">[blank]                      as the order of the deadly sins, in which treachery and pride</l>
-                        <l n="11">[blank]                      are greater than lust, &amp; despair the greatest              XVI Purgatorio</l>
-                        <l n="12">[blank]</l>
-                        <l n="13">[blank]                      Marco Lombardo on the Freedom of the Will, and on the Soul</l>
-                        <l n="14">[blank]                      . . . like a little child that plays, . . . . she turns willingly</l>
-                        <l n="15">[blank]                      to everything that delights her.</l>
-                        <l n="16">[blank] </l>
-                        <l n="17">[blank]                     Dante encounters a lady named Matilda . . . A lady</l>
-                        <l n="18">[blank]                      alone who went <del>singling</del> singing &amp; plucking flower after</l>
-                        <l n="19">[blank]                      flower, wherewith her path was pied.</l>
-                        <l n="20">[blank]</l>
-                        <l n="21">[blank]          262    The Divine Pageant which belongs to the world of the</l>
-                        <l n="22">[blank]                      <hi rend="underline">high dream</hi>, and the modern world seems capable only of</l>
-                        <l n="23">[blank]                      the <hi rend="underline">low dream</hi>. I arrived at accepting it, myself, only with</l>
-                        <l n="24">[blank]                      some difficulty.</l>
-                        <l n="25">[blank] </l>
-                        <l n="26">[blank]          262    <del>an</del> And little things put one off: Rossetti’s <hi rend="underline">Blessed</hi> </l>
-                        <l n="27">[blank]                      <hi rend="underline">Damozel</hi>, first by my rapture &amp; next <add>by</add> my revolt, held up</l>
-                        <l n="28">[blank]                      my appreciation of Beatrice by many years.</l>
-                        <l n="29">[blank] </l>
-                        <l n="30">[blank]                     <hi rend="underline">Vita Nuova</hi> should be read after the Divine Comedy—</l>
-                        <l n="31">[blank]               <add>at first seem</add> </l>
-                        <l n="32">[blank]          264    monotonous variations of insipid blessedness in the Paradiso</l>
-                        <l n="33">[blank]                                                                                                      <add>mere</add> </l>
-                        <l n="34">[blank]          267    Within its depths I saw ingathered, . . . . . One moment to me is</l>
-                        <l n="35">[blank]                      is more <hi rend="underline">letargo</hi>—than 25 centuries upon the enterprise</l>
-                        <l n="36">[blank]                     which made Neptune <del>wonder</del> marvel at the shadow</l>
-                        <l n="37">[blank]                     of the Argo (passing over him).</l>
-                        <l n="38">[blank]          268    It is the real right thing, the power of establishing relations<quote rend="end"/> </l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
+                        <l n="05">[blank]                      it is necessary to read the philosophical passages of Dante</l>
+                        <l n="06">[blank]              1      with the humility of a person visiting a new world.</l>
+                        <l n="07">[blank]                      (understanding:) a state of mind in which one sees certain beliefs,</l>
+                        <l n="08">[blank]                      as the order of the deadly sins, in which treachery and pride</l>
+                        <l n="09">[blank]                      are greater than lust, &amp; despair the greatest              XVI Purgatorio</l>
+                        <l n="10">[blank]                      Marco Lombardo on the Freedom of the Will, and on the Soul</l>
+                        <l n="11">[blank]                      . . . like a little child that plays, . . . . she turns willingly</l>
+                        <l n="12">[blank]                      to everything that delights her.</l>
+                        <l n="13">[blank] </l>
+                        <l n="14">[blank]                     Dante encounters a lady named Matilda . . . A lady</l>
+                        <l n="15">[blank]                      alone who went <del>singling</del> singing &amp; plucking flower after</l>
+                        <l n="16">[blank]                      flower, wherewith her path was pied.</l>
+                        <l n="17">[blank]          262    The Divine Pageant which belongs to the world of the</l>
+                        <l n="18">[blank]                      <hi rend="underline">high dream</hi>, and the modern world seems capable only of</l>
+                        <l n="19">[blank]                      the <hi rend="underline">low dream</hi>. I arrived at accepting it, myself, only with</l>
+                        <l n="20">[blank]                      some difficulty.</l>
+                        <l n="21">[blank]          262    <del>an</del> And little things put one off: Rossetti’s <hi rend="underline">Blessed</hi> </l>
+                        <l n="22">[blank]                      <hi rend="underline">Damozel</hi>, first by my rapture &amp; next <add>by</add> my revolt, held up</l>
+                        <l n="23">[blank]                      my appreciation of Beatrice by many years.</l>
+                        <l n="24">[blank]                     <hi rend="underline">Vita Nuova</hi> should be read after the Divine Comedy—</l>
+                        <l n="25">[blank]               <add>at first seem</add> </l>
+                        <l n="26">[blank]          264    monotonous variations of insipid blessedness in the Paradiso</l>
+                        <l n="27">[blank]                                                                                                      <add>mere</add> </l>
+                        <l n="28">[blank]          267    Within its depths I saw ingathered, . . . . . One moment to me is</l>
+                        <l n="29">[blank]                      is more <hi rend="underline">letargo</hi>—than 25 centuries upon the enterprise</l>
+                        <l n="30">[blank]                     which made Neptune <del>wonder</del> marvel at the shadow</l>
+                        <l n="31">[blank]                     of the Argo (passing over him).</l>
+                        <l n="32">[blank]          268    It is the real right thing, the power of establishing relations<quote rend="end"/> </l>
+                        <l n="33">[blank]</l>
+                        <l n="34">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v01">[vertical line]</l>
@@ -206,49 +200,44 @@
                 <div type="page" n="v.0114" xml:id="nb07_02_03_0114_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0114-verso.jpeg" n="0114-verso"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws two vertical bars in pencil to
-                        the left of lines 12-15. The arrow on line 12 aligns with line 11 of the
+                        the left of lines 10-13. The arrow on line 10 aligns with line 11 of the
                         following page.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                     <quote rend="begin"/><note>Eliot, T. S. <hi rend="italics">Selected Essays</hi> (see earlier note). </note>between beauty of the most diverse sorts; it is the utmost power of</l>
                         <l n="02">[blank]                      the poet.</l>
-                        <l n="03">[blank]</l>
-                        <l n="04">[blank]          276     (Vita Nuova) The first reading of the Vita Nuova gives</l>
-                        <l n="05">[blank]                      nothing but Pre-Raphaelite quaintness.</l>
-                        <l n="06">[blank]</l>
-                        <l n="07">[blank]          277     What we need is not information but knowledge: the first step to knowl.</l>
-                        <l n="08">[blank]                      is to recognize the differences between his form of thought &amp; feeling &amp;</l>
-                        <l n="09">[blank]                      ours.</l>
-                        <l n="10">[blank]</l>
-                        <l n="11">[blank]                                              The Metaphysical Poets (1921)</l>
-                        <l n="12">[blank]          283     The Exequy of Bishop King—</l>
-                        <l n="13">[blank]                                              <seg type="versebegin"/>But heark! My Pulse, like a soft Drum</l>
-                        <l n="14">[blank]                                              Beats my approach, tells Thee I come;</l>
-                        <l n="15">[blank]                                              And slow how ere my marches be,</l>
-                        <l n="16">[blank]                                              I shall at last sit down by Thee.<seg type="verseend"/> </l>
-                        <l n="17">[blank]</l>
-                        <l n="18">[blank]           284     M. Jean Epstein   :    <seg type="versebegin"/><foreign xml:lang="fr">Elle est bien loin, elle pleure</foreign>,</l>
-                        <l n="19">[blank]                                                             <foreign xml:lang="fr">La grand vent se lámente aussi</foreign> . . . .<seg type="verseend"/> </l>
-                        <l n="20">[blank]                      <seg type="prose">cf La figlia que piange</seg><note>Eliot, T. S. "La Figlia che Piange." C<hi rend="italics">ollected Poems</hi>, 1909-1935 (New York: Harcourt, Brace, 1936): 39. </note></l>
-                        <l n="21">[blank]</l>
-                        <l n="22">[blank]          293               Andrew Marvell             (1921)</l>
-                        <l n="23">[blank]                      The 17<hi rend="superscript">th</hi> c separated two qualities: wit &amp; magniloquence</l>
-                        <l n="24">[blank]          296    the alliance of levity &amp; seriousness . . . It is a quality</l>
-                        <l n="25">[blank]                      of a sophisticated literature . . . .</l>
-                        <l n="26">[blank]</l>
-                        <l n="27">[blank]          297    Marvell also falls into the even commoner error of images which are</l>
-                        <l n="28">[blank]                      over developed or distracting; which support nothing but their own</l>
-                        <l n="29">[blank]                      misshapen bodies:</l>
-                        <l n="30">[blank]                                              <seg type="versebegin"/>And now the salmon-fishers moist</l>
-                        <l n="31">[blank]                                              Their leathern boats begin to hoist;</l>
-                        <l n="32">[blank]                                              And, like Antipodes in shoes,</l>
-                        <l n="33">[blank]                                              Have shod their heads in their canoes.<seg type="verseend"/> </l>
+                        <l n="03">[blank]          276     (Vita Nuova) The first reading of the Vita Nuova gives</l>
+                        <l n="04">[blank]                      nothing but Pre-Raphaelite quaintness.</l>
+                        <l n="05">[blank]          277     What we need is not information but knowledge: the first step to knowl.</l>
+                        <l n="06">[blank]                      is to recognize the differences between his form of thought &amp; feeling &amp;</l>
+                        <l n="07">[blank]                      ours.</l>
+                        <l n="08">[blank]</l>
+                        <l n="09">[blank]                                              The Metaphysical Poets (1921)</l>
+                        <l n="10">[blank]          283     The Exequy of Bishop King—</l>
+                        <l n="11">[blank]                                              <seg type="versebegin"/>But heark! My Pulse, like a soft Drum</l>
+                        <l n="12">[blank]                                              Beats my approach, tells Thee I come;</l>
+                        <l n="13">[blank]                                              And slow how ere my marches be,</l>
+                        <l n="14">[blank]                                              I shall at last sit down by Thee.<seg type="verseend"/> </l>
+                        <l n="15">[blank]           284     M. Jean Epstein   :    <seg type="versebegin"/><foreign xml:lang="fr">Elle est bien loin, elle pleure</foreign>,</l>
+                        <l n="16">[blank]                                                             <foreign xml:lang="fr">La grand vent se lámente aussi</foreign> . . . .<seg type="verseend"/> </l>
+                        <l n="17">[blank]                      <seg type="prose">cf La figlia que piange</seg><note>Eliot, T. S. "La Figlia che Piange." C<hi rend="italics">ollected Poems</hi>, 1909-1935 (New York: Harcourt, Brace, 1936): 39. </note></l>
+                        <l n="18">[blank]</l>
+                        <l n="19">[blank]          293               Andrew Marvell             (1921)</l>
+                        <l n="20">[blank]                      The 17<hi rend="superscript">th</hi> c separated two qualities: wit &amp; magniloquence</l>
+                        <l n="21">[blank]          296    the alliance of levity &amp; seriousness . . . It is a quality</l>
+                        <l n="22">[blank]                      of a sophisticated literature . . . .</l>
+                        <l n="23">[blank]</l>
+                        <l n="24">[blank]          297    Marvell also falls into the even commoner error of images which are</l>
+                        <l n="25">[blank]                      over developed or distracting; which support nothing but their own</l>
+                        <l n="26">[blank]                      misshapen bodies:</l>
+                        <l n="27">[blank]                                              <seg type="versebegin"/>And now the salmon-fishers moist</l>
+                        <l n="28">[blank]                                              Their leathern boats begin to hoist;</l>
+                        <l n="29">[blank]                                              And, like Antipodes in shoes,</l>
+                        <l n="30">[blank]                                              Have shod their heads in their canoes.<seg type="verseend"/> </l>
+                        <l n="31">[blank]          298    The images in the Coy Mistress are not only witty but satisfy</l>
+                        <l n="32">[blank]                      the elucidation of Imagination given by Coleridge . . . sameness<quote rend="end"/> </l>
+                        <l n="33">[blank]</l>
                         <l n="34">[blank]</l>
-                        <l n="35">[blank]          298    The images in the Coy Mistress are not only witty but satisfy</l>
-                        <l n="36">[blank]                      the elucidation of Imagination given by Coleridge . . . sameness<quote rend="end"/> </l>
-                        <l n="37">[blank]</l>
-                        <l n="38">[blank]</l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
+                        <l n="35">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v01">[vertical line]</l>
