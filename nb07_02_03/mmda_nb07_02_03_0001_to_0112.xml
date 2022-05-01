@@ -1247,9 +1247,9 @@
             <div type="image" xml:id="nb07_02_03_0020_text">
                 <div type="page" n="v.0020" xml:id="nb07_02_03_0020_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0020-verso.jpeg" n="0020-verso"/>
-                    <desc>[Page-level Description] &amp;lt;!MM draws an arrow down from "Tarsus" in line 14 to the end of the word "dedicated" on line 15. The underlining in line 26 is in pencil.
+                    <desc>[Page-level Description] &amp;lt;!MM draws an arrow down from "Tarsus" in line 13 to the end of the word "dedicated" on line 14. The underlining in line 24 is in pencil.
                         MM draws a curly bracket to connect the words listed in lines
-                        29-32.!&amp;gt;</desc>
+                        27-30.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                                                                                                                      W. Rhys Roberts<note>Roberts, W. Rhys [1858-1929]. Professor of Classics at University of Leeds.</note> <del>&amp; H Fyfe</del>  </l>
                         <l n="02">[blank]    DEMETRIUS<note>Demetrius of Tarsus [1st c. CE].</note>                    <hi rend="underline">On Style</hi>                                 <quote rend="begin"/> <note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note>text based on a collation of </l>
@@ -1262,35 +1262,33 @@
                         <l n="09">[blank]               and free from meanness.</l>
                         <l n="10">[blank]               He distrusts ornament &amp; a good prose style will rise &amp; fall with its subject. </l>
                         <l n="11">[blank] the definition in The Rhetoric     <hi rend="underline">clearness</hi> &amp; <hi rend="underline">fitness</hi>.</l>
-                        <l n="12">[blank]</l>
-                        <l n="13">[blank]               Belongs to the days of Plutarch towards the end of the 1st century</l>
-                        <l n="14">[blank]                <note>Text across both pages reads: (?) Demetrius of Tarsus (?) friend of Plutarch (4 cents. later than Demetrius of Phalerum)</note> (?) Demetrius of Tarsus (?) friend of Plutarch (4 cents. later than </l>
-                        <l n="15">[blank]                    who dedicated<add/> 2 bronze tablets bearing pious Greek</l>
-                        <l n="16">[blank]               inscriptions, preserved in the museum at York.</l>
-                        <l n="17">[blank]</l>
-                        <l n="18">[blank]                He quotes (c. 3) as from Alcaeus, the proverb “to take the claw</l>
-                        <l n="19">[blank]                &amp; paint the lion from it”—a wholesome warning against</l>
-                        <l n="20">[blank]                basing broad conclusions on slender premises.</l>
-                        <l n="21">[blank]                        Plutarch's D. was a religious man</l>
-                        <l n="22">[blank] </l>
-                        <l n="23">[blank] 284      we are borrowing Greek ears and Greek taste—the better to</l>
-                        <l n="24">[blank]               catch the living accents of the great Greek authors.</l>
-                        <l n="25">[blank] 286       &amp; there must be measure (<foreign xml:lang="grc">μέτρον</foreign>) in <hi rend="underline">prose</hi>: prose must</l>
-                        <l n="26">[blank] <hi rend="pencil">N.B.</hi>      not <hi rend="underline">sprawl</hi> illimitably.</l>
-                        <l n="27">[blank] 287       a letter,—"the heart’s good wishes in brief” (223-235)</l>
-                        <l n="28">[blank]</l>
-                        <l n="29">[blank]                 The Elevated </l>
-                        <l n="30">[blank]                    "   Elegant        Style</l>
-                        <l n="31">[blank]                 The Plain </l>
-                        <l n="32">[blank]                         Forcible </l>
-                        <l n="33">[blank] 301       Xenophon says of the river Teleboas, this river was not large;</l>
-                        <l n="34">[blank]               beautiful it was, though,</l>
-                        <l n="35">[blank]               the slight &amp; broken rhythm brings into relief both the<quote rend="end"/> </l>
+                        <l n="12">[blank]               Belongs to the days of Plutarch towards the end of the 1st century</l>
+                        <l n="13">[blank]                <note>Text across both pages reads: (?) Demetrius of Tarsus (?) friend of Plutarch (4 cents. later than Demetrius of Phalerum)</note> (?) Demetrius of Tarsus (?) friend of Plutarch (4 cents. later than </l>
+                        <l n="14">[blank]                    who dedicated<add/> 2 bronze tablets bearing pious Greek</l>
+                        <l n="15">[blank]               inscriptions, preserved in the museum at York.</l>
+                        <l n="16">[blank]                He quotes (c. 3) as from Alcaeus, the proverb “to take the claw</l>
+                        <l n="17">[blank]                &amp; paint the lion from it”—a wholesome warning against</l>
+                        <l n="18">[blank]                basing broad conclusions on slender premises.</l>
+                        <l n="19">[blank]                        Plutarch's D. was a religious man</l>
+                        <l n="20">[blank] </l>
+                        <l n="21">[blank] 284      we are borrowing Greek ears and Greek taste—the better to</l>
+                        <l n="22">[blank]               catch the living accents of the great Greek authors.</l>
+                        <l n="23">[blank] 286       &amp; there must be measure (<foreign xml:lang="grc">μέτρον</foreign>) in <hi rend="underline">prose</hi>: prose must</l>
+                        <l n="24">[blank] <hi rend="pencil">N.B.</hi>      not <hi rend="underline">sprawl</hi> illimitably.</l>
+                        <l n="25">[blank] 287       a letter,—"the heart’s good wishes in brief” (223-235)</l>
+                        <l n="26">[blank]</l>
+                        <l n="27">[blank]                 The Elevated </l>
+                        <l n="28">[blank]                    "   Elegant        Style</l>
+                        <l n="29">[blank]                 The Plain </l>
+                        <l n="30">[blank]                         Forcible </l>
+                        <l n="31">[blank] 301       Xenophon says of the river Teleboas, this river was not large;</l>
+                        <l n="32">[blank]               beautiful it was, though,</l>
+                        <l n="33">[blank]               the slight &amp; broken rhythm brings into relief both the<quote rend="end"/> </l>
+                        <l n="34">[blank]</l>
+                        <l n="35">[blank]</l>
                         <l n="36">[blank]</l>
                         <l n="37">[blank]</l>
                         <l n="38">[blank]</l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v01">[vertical line]</l>
@@ -1712,50 +1710,39 @@
                 <div type="page" n="v.0028" xml:id="nb07_02_03_0028_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0028-verso.jpeg" n="0028-verso"/>
                     <desc>[Page-level Description] &amp;lt;!MM places a curly bracket to the
-                        left of the phrase "The graceful and / The plain" across lines 14 and 15.
-                        The underlining of line 16 and line 27 is double. MM circles the numbers 1
-                        and 2 in lines 18 and 20.!&amp;gt;</desc>
+                        left of the phrase "The graceful and / The plain" across lines 13 and 14.
+                        The underlining of line 15 and line 26 is double. MM circles the numbers 1
+                        and 2 in lines 17 and 19.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]           443      <quote rend="begin"/><note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note>There should be a certain degree of freedom in the structure</l>
                         <l n="02">[blank]                        of a letter. It is absurd to build up periods, as if you were</l>
                         <l n="03">[blank]                        writing a speech for the law courts.</l>
                         <l n="04">[blank]                         . . . If anybody should write of logical subtleties or questions of</l>
                         <l n="05">[blank]                         natural history in a letter, he writes indeed but not a letter.</l>
-                        <l n="06">[blank]</l>
-                        <l n="07">[blank]                        A letter is designed to be the heart’s good wishes in brief;</l>
-                        <l n="08">[blank]           443      . . . the exposition of a simple subject in simple terms.</l>
-                        <l n="09">[blank]</l>
-                        <l n="10">[blank]                         Aristotle,— . . . wishing to show that large towns &amp; small</l>
-                        <l n="11">[blank]                         have an equal claim to be well treated, says "The gods</l>
-                        <l n="12">[blank]                         are as great in one as in the other; and since the Graces</l>
-                        <l n="13">[blank]                         are gods, (<foreign>χάριτες</foreign>    graces  they will be held as</l>
-                        <l n="14">[blank]                                                           <add>"favours"</add></l>
-                        <l n="15">[blank]                         great a treasture by you in one as in the other."</l>
-                        <l n="16">[blank]           445       A letter should be a compound of    The graceful and</l>
-                        <l n="17">[blank]                                                                                The plain</l>
-                        <l n="18">[blank] 445 vs the plain     the <hi rend="underline">arid</hi> style</l>
-                        <l n="19">[blank]                         e.g. Xerxes “with all his following” in place of “the whole of</l>
-                        <l n="20">[blank]                         aridity = 1  <hi rend="underline">a great event in trivial terms</hi>.                        Asia.”</l>
-                        <l n="21">[blank]                         a despot ought not to be described as a "nuisance"</l>
-                        <l n="22">[blank]                                          2  <add>may</add> also be due to composition</l>
-                        <l n="23">[blank]                         e.g. “Life is short, art long, opportunity fleeting, experience</l>
-                        <l n="24">[blank]                         deceptive.”      words huddled together.</l>
-                        <l n="25">[blank]       FORCE                         <add>449</add> </l>
-                        <l n="26">[blank]                  V               3 sources—Some things are forcible in themselves so that</l>
-                        <l n="27">[blank]                   <seg type="prose">Content</seg>   those who speak about them seem <add>to be</add> forcible.</l>
-                        <l n="28">[blank]                                    Length paralyzes intensity, while much meaning conveyed in a</l>
-                        <l n="29">[blank]                   Brevity    <hi rend="underline">brief form</hi> is the more forcible.</l>
-                        <l n="30">[blank]                                 e.g. the Lacedaemonians to Philip: "Dionysius at Corinth."<quote rend="end"/></l>
-                        <l n="31">[blank]</l>
-                        <l n="32">[blank]</l>
-                        <l n="33">[blank]</l>
-                        <l n="34">[blank]</l>
-                        <l n="35">[blank]</l>
-                        <l n="36">[blank]</l>
-                        <l n="37">[blank]</l>
-                        <l n="38">[blank]</l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
+                        <l n="06">[blank]                        A letter is designed to be the heart’s good wishes in brief;</l>
+                        <l n="07">[blank]           443      . . . the exposition of a simple subject in simple terms.</l>
+                        <l n="08">[blank]</l>
+                        <l n="09">[blank]                         Aristotle,— . . . wishing to show that large towns &amp; small</l>
+                        <l n="10">[blank]                         have an equal claim to be well treated, says "The gods</l>
+                        <l n="11">[blank]                         are as great in one as in the other; and since the Graces</l>
+                        <l n="12">[blank]                         are gods, (<foreign>χάριτες</foreign>    graces  they will be held as</l>
+                        <l n="13">[blank]                                                           <add>"favours"</add></l>
+                        <l n="14">[blank]                         great a treasture by you in one as in the other."</l>
+                        <l n="15">[blank]           445       A letter should be a compound of    The graceful and</l>
+                        <l n="16">[blank]                                                                                The plain</l>
+                        <l n="17">[blank] 445 vs the plain     the <hi rend="underline">arid</hi> style</l>
+                        <l n="18">[blank]                         e.g. Xerxes “with all his following” in place of “the whole of</l>
+                        <l n="19">[blank]                         aridity = 1  <hi rend="underline">a great event in trivial terms</hi>.                        Asia.”</l>
+                        <l n="20">[blank]                         a despot ought not to be described as a "nuisance"</l>
+                        <l n="21">[blank]                                          2  <add>may</add> also be due to composition</l>
+                        <l n="22">[blank]                         e.g. “Life is short, art long, opportunity fleeting, experience</l>
+                        <l n="23">[blank]                         deceptive.”      words huddled together.</l>
+                        <l n="24">[blank]       FORCE                         <add>449</add> </l>
+                        <l n="25">[blank]                  V               3 sources—Some things are forcible in themselves so that</l>
+                        <l n="26">[blank]                   <seg type="prose">Content</seg>   those who speak about them seem <add>to be</add> forcible.</l>
+                        <l n="27">[blank]                                    Length paralyzes intensity, while much meaning conveyed in a</l>
+                        <l n="28">[blank]                   Brevity    <hi rend="underline">brief form</hi> is the more forcible.</l>
+                        <l n="29">[blank]                                 e.g. the Lacedaemonians to Philip: "Dionysius at Corinth."<quote rend="end"/></l>
                     </lg>
                     <lg type="vertical">
                         <l n="v01">[vertical line] &amp;lt;!desc: lines 28-25, left margin, written as two rows of script!&amp;gt;<hi rend="pencil">length</hi> / <hi rend="pencil">brevity</hi> </l>
