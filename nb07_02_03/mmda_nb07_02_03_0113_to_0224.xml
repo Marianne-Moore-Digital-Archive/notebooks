@@ -4601,49 +4601,47 @@
             <div type="image" xml:id="nb07_02_03_0193_text">
                 <div type="page" n="r.0193" xml:id="nb07_02_03_0193_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0193-recto.jpeg" n="0193-recto"/>
-                    <desc>[Page-level Description] &amp;lt;!The underlining of line 05 is
+                    <desc>[Page-level Description] &amp;lt;!The underlining of line 04 is
                         double.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                   <add>Melville</add></l>
                         <l n="02">[blank]             457    <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note). </note><quote rend="begin"/>The Master’s great command is Love; . . . The more we love, the</l>
                         <l n="03">[blank]                        more we know’</l>
-                        <l n="04">[blank]</l>
-                        <l n="05">[blank]             459     Berdyaev. <hi rend="underline">The Fate of Man in the Modern World</hi>: “Liberty was discovered </l>
-                        <l n="06">[blank]                        to be protection of the <del>str</del> rights of the strong, leaving the weak</l>
-                        <l n="07">[blank]                                                <hi rend="underline"><add>The Meaning of History</add></hi><add>:</add> </l>
-                        <l n="08">[blank]                        defenceless. [. . .    ‸ ‘Man’s self-affirmation leads to his perdition</l>
-                        <l n="09">[blank]                        the free play of human forces unconnected w any higher</l>
-                        <l n="10">[blank]                        aim, brings about the exhaustion of man’s creative powers.’</l>
-                        <l n="11">[blank]                        <hi rend="underline">The Meaning of History</hi>]</l>
-                        <l n="12">[blank]             459     Melville created in Ahab’s tragedy a fearful symbol of the self-enclosed</l>
-                        <l n="13">[blank]                        individualism that, carried to its furthest extreme, brings disaster</l>
-                        <l n="14">[blank]                        both upon itself and upon the group of which it is part.</l>
-                        <l n="15">[blank] </l>
-                        <l n="16">[blank]             490     Melville may have had H. in mind while drawing one of the characters</l>
-                        <l n="17">[blank]                        in <hi rend="underline">Clarel</hi>, . . . for some of (H’s) traits are those of the shy &amp;</l>
-                        <l n="18">[blank]                        musing Vine, ‘opulent in withheld replies.’</l>
-                        <l n="19">[blank]</l>
-                        <l n="20">[blank]             495     (Ungar in <hi rend="underline">Clarel</hi>) He holds that only an awareness of Original</l>
-                        <l n="21">[blank]                        Sin can give significance to man’s struggle; . . .</l>
-                        <l n="22">[blank]                                       <add>John Marr &amp; Other Sailors</add> </l>
-                        <l n="23">[blank]             498     Melville:     The pioneer settlers . . . something was lacking.</l>
-                        <l n="24">[blank]                        That something was geniality, the flower of life springing</l>
-                        <l n="25">[blank]                        from some sense of joy <add>in</add> it. i<del>n</del> —</l>
-                        <l n="26">[blank]                                            Billy Budd, Foretopman</l>
-                        <l n="27">[blank]             507     Preoccupied as Melville was throughout his career by the</l>
-                        <l n="28">[blank]                        opposition between the generous heart &amp; the ingrown self-consuming</l>
-                        <l n="29">[blank]                        mind, <del>the</del> <add>he</add> never made the facile contrast.</l>
-                        <l n="30">[blank]             508     captain Vere: Melville indicates how this captain, though</l>
-                        <l n="31">[blank]                        not brilliant, is set apart from his fellow officers by a 'marked</l>
-                        <l n="32">[blank]                        leaning everything intellectual,' espec. for ‘writers who, free</l>
-                        <l n="33">[blank]                        from cant &amp; convention, like Montaigne, honestly, &amp; in the spirit</l>
-                        <l n="34">[blank]                        of common sense, philosophise upon realities.’ . . . last phrase</l>
-                        <l n="35">[blank]     FACTS       originally read ‘upon those greatest of all mysteries, facts.’<quote rend="end"/> </l>
+                        <l n="04">[blank]             459     Berdyaev. <hi rend="underline">The Fate of Man in the Modern World</hi>: “Liberty was discovered </l>
+                        <l n="05">[blank]                        to be protection of the <del>str</del> rights of the strong, leaving the weak</l>
+                        <l n="06">[blank]                                                <hi rend="underline"><add>The Meaning of History</add></hi><add>:</add> </l>
+                        <l n="07">[blank]                        defenceless. [. . .    ‸ ‘Man’s self-affirmation leads to his perdition</l>
+                        <l n="08">[blank]                        the free play of human forces unconnected w any higher</l>
+                        <l n="09">[blank]                        aim, brings about the exhaustion of man’s creative powers.’</l>
+                        <l n="10">[blank]                        <hi rend="underline">The Meaning of History</hi>]</l>
+                        <l n="11">[blank]             459     Melville created in Ahab’s tragedy a fearful symbol of the self-enclosed</l>
+                        <l n="12">[blank]                        individualism that, carried to its furthest extreme, brings disaster</l>
+                        <l n="13">[blank]                        both upon itself and upon the group of which it is part.</l>
+                        <l n="14">[blank]             490     Melville may have had H. in mind while drawing one of the characters</l>
+                        <l n="15">[blank]                        in <hi rend="underline">Clarel</hi>, . . . for some of (H’s) traits are those of the shy &amp;</l>
+                        <l n="16">[blank]                        musing Vine, ‘opulent in withheld replies.’</l>
+                        <l n="17">[blank]</l>
+                        <l n="18">[blank]             495     (Ungar in <hi rend="underline">Clarel</hi>) He holds that only an awareness of Original</l>
+                        <l n="19">[blank]                        Sin can give significance to man’s struggle; . . .</l>
+                        <l n="20">[blank]                                       <add>John Marr &amp; Other Sailors</add> </l>
+                        <l n="21">[blank]             498     Melville:     The pioneer settlers . . . something was lacking.</l>
+                        <l n="22">[blank]                        That something was geniality, the flower of life springing</l>
+                        <l n="23">[blank]                        from some sense of joy <add>in</add> it. i<del>n</del> —</l>
+                        <l n="24">[blank]                                            Billy Budd, Foretopman</l>
+                        <l n="25">[blank]             507     Preoccupied as Melville was throughout his career by the</l>
+                        <l n="26">[blank]                        opposition between the generous heart &amp; the ingrown self-consuming</l>
+                        <l n="27">[blank]                        mind, <del>the</del> <add>he</add> never made the facile contrast.</l>
+                        <l n="28">[blank]             508     captain Vere: Melville indicates how this captain, though</l>
+                        <l n="29">[blank]                        not brilliant, is set apart from his fellow officers by a 'marked</l>
+                        <l n="30">[blank]                        leaning everything intellectual,' espec. for ‘writers who, free</l>
+                        <l n="31">[blank]                        from cant &amp; convention, like Montaigne, honestly, &amp; in the spirit</l>
+                        <l n="32">[blank]                        of common sense, philosophise upon realities.’ . . . last phrase</l>
+                        <l n="33">[blank]     FACTS       originally read ‘upon those greatest of all mysteries, facts.’<quote rend="end"/> </l>
+                        <l n="34">[blank]</l>
+                        <l n="35">[blank]</l>
                         <l n="36">[blank]</l>
                         <l n="37">[blank]</l>
                         <l n="38">[blank]</l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v01">[vertical line]</l>
@@ -4665,41 +4663,35 @@
                         <l n="03">[blank]                     <quote rend="begin"/> <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note). </note>‘I sometimes think the <hi rend="underline">Leaves</hi> is only a language experiment.’</l>
                         <l n="04">[blank]                        It will be interesting, therefore, to begin by seeing how much we can</l>
                         <l n="05">[blank]                        learn about Whitman just by examining his diction.</l>
-                        <l n="06">[blank]</l>
-                        <l n="07">[blank]            521     Whitman:       "Song of the Banner at Daybreak':</l>
-                        <l n="08">[blank]                                          <seg type="verse">Words! book-words! what are you?</seg> </l>
-                        <l n="09">[blank]                        &amp; affirms in ‘A Song of the Rolling Earth’:</l>
-                        <l n="10">[blank]                                                <seg type="verse">The substantial words are in the ground &amp; sea,</seg> </l>
-                        <l n="11">[blank]                                                                                                    <add>bastard</add> </l>
-                        <l n="12">[blank]            528     ‘Pave,’ instead of ‘pavement’ is the kind of ‸ word that, <del>he</del> </l>
-                        <l n="13">[blank]                        Whitman liked to ‘promulge.’</l>
-                        <l n="14">[blank]             530     he could be swept far into the intense inane chanting in</l>
-                        <l n="15">[blank]                         ‘Night on the Prairies’ of ‘immortality &amp; peace’:</l>
-                        <l n="16">[blank]</l>
-                        <l n="17">[blank]                                           <seg type="verse">How plenteous! how spiritual! how resumé!</seg> </l>
-                        <l n="18">[blank]                                                                      <add>w</add> </l>
-                        <l n="19">[blank]            533     Alexis de Tocqueville . . . ['democratic nations prefer obscurity</l>
-                        <l n="20">[blank]                        to labor.'] . . . . ['passionately addicted to generic terms &amp;</l>
-                        <l n="21">[blank]                        abstract expressions']</l>
-                        <l n="22">[blank]</l>
-                        <l n="23">[blank]                        de T.    undefined terms;—each of which [is -] like a box</l>
-                        <l n="24">[blank]                        w. a false bottom; you may put in it what ideas you</l>
-                        <l n="25">[blank]                        please, &amp; take them out again without being observed.</l>
-                        <l n="26">[blank]</l>
-                        <l n="27">[blank]                        Tocqueville: ‘Amer. writers &amp; orators often use an inflated</l>
-                        <l n="28">[blank]                        style’ bec. each citizen is habitually engaged in the</l>
-                        <l n="29">[blank]                        contemplation of a very puny object, namely himself.’</l>
-                        <l n="30">[blank]</l>
-                        <l n="31">[blank]            540     Mme de Staël had seen in the emerging new literature, 'the sorrowful</l>
-                        <l n="32">[blank]                        sentiment of the incompleteness of human destiny, melancholy,</l>
-                        <l n="33">[blank]                        reverie, mysticism, the sense of the enigma of life.' That makes</l>
-                        <l n="34">[blank]                        a fairly adequate description of what Poe had been impelled to xpress.</l>
-                        <l n="35">[blank]</l>
-                        <l n="36">[blank]            543     Sainte-Beuve: . . . ‘The greatest <del>P</del>poet is not he who wh<del>a</del>o<unclear>p</unclear> </l>
-                        <l n="37">[blank]                        has done the best; it is he who suggests the most; he, not<quote rend="end"/> </l>
-                        <l n="38">[blank]</l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
+                        <l n="06">[blank]            521     Whitman:       "Song of the Banner at Daybreak':</l>
+                        <l n="07">[blank]                                          <seg type="verse">Words! book-words! what are you?</seg> </l>
+                        <l n="08">[blank]                        &amp; affirms in ‘A Song of the Rolling Earth’:</l>
+                        <l n="09">[blank]                                                <seg type="verse">The substantial words are in the ground &amp; sea,</seg> </l>
+                        <l n="10">[blank]                                                                                                    <add>bastard</add> </l>
+                        <l n="11">[blank]            528     ‘Pave,’ instead of ‘pavement’ is the kind of ‸ word that, <del>he</del> </l>
+                        <l n="12">[blank]                        Whitman liked to ‘promulge.’</l>
+                        <l n="13">[blank]             530     he could be swept far into the intense inane chanting in</l>
+                        <l n="14">[blank]                         ‘Night on the Prairies’ of ‘immortality &amp; peace’:</l>
+                        <l n="15">[blank]                                           <seg type="verse">How plenteous! how spiritual! how resumé!</seg> </l>
+                        <l n="16">[blank]                                                                      <add>w</add> </l>
+                        <l n="17">[blank]            533     Alexis de Tocqueville . . . ['democratic nations prefer obscurity</l>
+                        <l n="18">[blank]                        to labor.'] . . . . ['passionately addicted to generic terms &amp;</l>
+                        <l n="19">[blank]                        abstract expressions']</l>
+                        <l n="20">[blank]                        de T.    undefined terms;—each of which [is -] like a box</l>
+                        <l n="21">[blank]                        w. a false bottom; you may put in it what ideas you</l>
+                        <l n="22">[blank]                        please, &amp; take them out again without being observed.</l>
+                        <l n="23">[blank]                        Tocqueville: ‘Amer. writers &amp; orators often use an inflated</l>
+                        <l n="24">[blank]                        style’ bec. each citizen is habitually engaged in the</l>
+                        <l n="25">[blank]                        contemplation of a very puny object, namely himself.’</l>
+                        <l n="26">[blank]            540     Mme de Staël had seen in the emerging new literature, 'the sorrowful</l>
+                        <l n="27">[blank]                        sentiment of the incompleteness of human destiny, melancholy,</l>
+                        <l n="28">[blank]                        reverie, mysticism, the sense of the enigma of life.' That makes</l>
+                        <l n="29">[blank]                        a fairly adequate description of what Poe had been impelled to xpress.</l>
+                        <l n="30">[blank]            543     Sainte-Beuve: . . . ‘The greatest <del>P</del>poet is not he who wh<del>a</del>o<unclear>p</unclear> </l>
+                        <l n="31">[blank]                        has done the best; it is he who suggests the most; he, not<quote rend="end"/> </l>
+                        <l n="32">[blank]</l>
+                        <l n="33">[blank]</l>
+                        <l n="34">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v01">[vertical line]</l>
@@ -4773,45 +4765,41 @@
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]                       <quote rend="begin"/><note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note). </note>as the wind &amp; the sea                       [the winds &amp; the seas] ??</l>
-                        <l n="02">[blank]</l>
-                        <l n="03">[blank]            564     If poetry’s origin is to be found in the dance, in the rise &amp;</l>
-                        <l n="04">[blank]                                                                       <add>found</add> </l>
-                        <l n="05">[blank]                        fall ‘of consenting feet’ (in Gummere’s phrase), the</l>
-                        <l n="06">[blank]                        phases of its progression may be thought of in the following</l>
-                        <l n="07">[blank]                        closely connected order: first, movement; then, sound</l>
-                        <l n="08">[blank]                                                                                                            <add>operated</add> </l>
-                        <l n="09">[blank]                        (or melody); then, sense (or words). . . . Whitman ‸ in</l>
-                        <l n="10">[blank]                        his first writing almost solely on the level of sense.</l>
-                        <l n="11">[blank]                        Then, through his fascination w. music &amp; w oratory,</l>
-                        <l n="12">[blank]                        he began to stir to to the richer impulses of sound</l>
-                        <l n="13">[blank]                        and movement.</l>
-                        <l n="14">[blank]            567     For Coleridge, tracing the origin of metre ‘to the balance in</l>
-                        <l n="15">[blank]                        the mind effected by that spontaneous effort which strives to</l>
-                        <l n="16">[blank]                        hold in check the workings of passion,’ recognized verse as</l>
-                        <l n="17">[blank]                        a product both of emotion <hi rend="underline">and</hi> its control,' a harmony</l>
-                        <l n="18">[blank]                        that sprang from the resolution of the antagonism between</l>
-                        <l n="19">[blank]                        them.</l>
-                        <l n="20">[blank]</l>
-                        <l n="21">[blank]                        Mary Austin: he ‘was sensitive to the bigness of things,</l>
-                        <l n="22">[blank]                        which he mistook for universality, moved about a great</l>
-                        <l n="23">[blank]                        deal, speculated freely, &amp; was unclear in his conclusions;</l>
-                        <l n="24">[blank]                        the American type.’</l>
-                        <l n="25">[blank]</l>
-                        <l n="26">[blank]            568     often did not bother to write his poems but just left</l>
-                        <l n="27">[blank]                        them heaps of materials.</l>
-                        <l n="28">[blank]                    <add>2 decades ago</add> </l>
-                        <l n="29">[blank]            579     Pound held that 30 well-written pages might be winnowed from</l>
-                        <l n="30">[blank]                        <hi rend="underline">Leaves of Grass</hi>, but he has lately said that he can no longer</l>
-                        <l n="31">[blank]                        find them.</l>
-                        <l n="32">[blank]                         <add>w.</add> </l>
-                        <l n="33">[blank]            579          Eliot: an occasional master of prose</l>
+                        <l n="02">[blank]            564     If poetry’s origin is to be found in the dance, in the rise &amp;</l>
+                        <l n="03">[blank]                                                                       <add>found</add> </l>
+                        <l n="04">[blank]                        fall ‘of consenting feet’ (in Gummere’s phrase), the</l>
+                        <l n="05">[blank]                        phases of its progression may be thought of in the following</l>
+                        <l n="06">[blank]                        closely connected order: first, movement; then, sound</l>
+                        <l n="07">[blank]                                                                                                            <add>operated</add> </l>
+                        <l n="08">[blank]                        (or melody); then, sense (or words). . . . Whitman ‸ in</l>
+                        <l n="09">[blank]                        his first writing almost solely on the level of sense.</l>
+                        <l n="10">[blank]                        Then, through his fascination w. music &amp; w oratory,</l>
+                        <l n="11">[blank]                        he began to stir to to the richer impulses of sound</l>
+                        <l n="12">[blank]                        and movement.</l>
+                        <l n="13">[blank]            567     For Coleridge, tracing the origin of metre ‘to the balance in</l>
+                        <l n="14">[blank]                        the mind effected by that spontaneous effort which strives to</l>
+                        <l n="15">[blank]                        hold in check the workings of passion,’ recognized verse as</l>
+                        <l n="16">[blank]                        a product both of emotion <hi rend="underline">and</hi> its control,' a harmony</l>
+                        <l n="17">[blank]                        that sprang from the resolution of the antagonism between</l>
+                        <l n="18">[blank]                        them.</l>
+                        <l n="19">[blank]                        Mary Austin: he ‘was sensitive to the bigness of things,</l>
+                        <l n="20">[blank]                        which he mistook for universality, moved about a great</l>
+                        <l n="21">[blank]                        deal, speculated freely, &amp; was unclear in his conclusions;</l>
+                        <l n="22">[blank]                        the American type.’</l>
+                        <l n="24">[blank]            568     often did not bother to write his poems but just left</l>
+                        <l n="25">[blank]                        them heaps of materials.</l>
+                        <l n="26">[blank]                    <add>2 decades ago</add> </l>
+                        <l n="27">[blank]            579     Pound held that 30 well-written pages might be winnowed from</l>
+                        <l n="28">[blank]                        <hi rend="underline">Leaves of Grass</hi>, but he has lately said that he can no longer</l>
+                        <l n="29">[blank]                        find them.</l>
+                        <l n="30">[blank]                         <add>w.</add> </l>
+                        <l n="31">[blank]            579          Eliot: an occasional master of prose</l>
+                        <l n="32">[blank]            581     About as much as you can say is that his cadences come alive</l>
+                        <l n="33">[blank]                        as poetry only when he feels his subject matter intensely.<quote rend="end"/> </l>
                         <l n="34">[blank]</l>
-                        <l n="35">[blank]            581     About as much as you can say is that his cadences come alive</l>
-                        <l n="36">[blank]                        as poetry only when he feels his subject matter intensely.<quote rend="end"/> </l>
+                        <l n="35">[blank]</l>
+                        <l n="36">[blank]</l>
                         <l n="37">[blank]</l>
-                        <l n="38">[blank]</l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v01">[vertical line]</l>
@@ -4827,48 +4815,41 @@
                 <div type="page" n="r.0197" xml:id="nb07_02_03_0197_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0197-recto.jpeg" n="0197-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws a vertical bar to the left of the text on
-                        lines 31-35.!&amp;gt;</desc>
+                        lines 25-29.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]            580   <quote rend="begin"/><note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note). </note>Whitman of James’ novels, they are ‘only feathers to me’</l>
                         <l n="02">[blank]             582    James said, 'there is not even by accident a line with a <del>hint</del> </l>
                         <l n="03">[blank]                        hint of style—it is all flat, familiar, affection<add>ate</add>, illiterate colloquy."</l>
-                        <l n="04">[blank]</l>
-                        <l n="05">[blank]             583     Thoreau:                 'I am no more lonely      than . . . . the first </l>
-                        <l n="06">[blank]                        spider in a new house."</l>
-                        <l n="07">[blank]</l>
-                        <l n="08">[blank]             584     Sarah Jewett: we confuse our scaffoldings w. our buildings</l>
-                        <l n="09">[blank]</l>
-                        <l n="10">[blank]             584     Hopkins: sprung rhythm  | : —‘markedness of rhythm— . . . and</l>
-                        <l n="11">[blank]                        naturalness of expression.’</l>
-                        <l n="12">[blank]</l>
-                        <l n="13">[blank]             587     Hopkins: ‘poetical language of the age should be the current language</l>
-                        <l n="14">[blank]                        heightened.’</l>
-                        <l n="15">[blank]</l>
-                        <l n="16">[blank]             587     In his intense precision of design, or ‘inscape,’ as he named it </l>
-                        <l n="17">[blank]                        he is in opposition to Whitman’s <add>. . .</add> diffuseness &amp; to Bridges’</l>
-                        <l n="18">[blank]                        conventional decorum.</l>
-                        <l n="19">[blank]                   <add>(Whitman’s)</add> </l>
-                        <l n="20">[blank]             594     His desire to be inclusive above all robbed him of the severe</l>
-                        <l n="21">[blank]                        choice between alternatives, which the craftsman knows as</l>
-                        <l n="22">[blank]                        his greatest difficulty and reward.</l>
-                        <l n="23">[blank]</l>
-                        <l n="24">[blank]             597     Alan Burroughs: Limners &amp; Likenesses: Three Centuries of Amer.</l>
-                        <l n="25">[blank]                        Painting 1936 most comprehensive history of our painting yet to</l>
-                        <l n="26">[blank]                        have been written.<quote rend="end"/></l>
-                        <l n="27">[blank]                                                                                                              <add>?</add> </l>
-                        <l n="28">[blank]             601     [<seg type="prose">Whitman’s Song of Myself patterned on Song of Songs]</seg> </l>
-                        <l n="29">[blank]                                                                                                             <add><seg type="prose">MM</seg></add> </l>
-                        <l n="30">[blank]             607     <quote rend="begin"/>Eakins. He had not been taught his subjects in Gérôme’s</l>
-                        <l n="31">[blank]                        studio but had grown into them by himself . . . </l>
-                        <l n="32">[blank]                        believed 'elimination' of decoration was bound up w.</l>
-                        <l n="33">[blank]                        a painter’s mastery of his own environment, his</l>
-                        <l n="34">[blank]                        country’s "life and types."</l>
-                        <l n="35">[blank]</l>
-                        <l n="36">[blank]             616     Whitman insisted to the end that the complete meaning &amp; value</l>
-                        <l n="37">[blank]                        of this world lay in both the obvious surface &amp; the latent</l>
-                        <l n="38">[blank]                        mysterious suggestion . . . . 'the winds that would</l>
-                        <l n="39">[blank]                        perfume Lincoln’s grave."<quote rend="end"/></l>
-                        <l n="40">[blank]</l>
+                        <l n="04">[blank]             583     Thoreau:                 'I am no more lonely      than . . . . the first </l>
+                        <l n="05">[blank]                        spider in a new house."</l>
+                        <l n="06">[blank]             584     Sarah Jewett: we confuse our scaffoldings w. our buildings</l>
+                        <l n="07">[blank]             584     Hopkins: sprung rhythm  | : —‘markedness of rhythm— . . . and</l>
+                        <l n="08">[blank]                        naturalness of expression.’</l>
+                        <l n="09">[blank]             587     Hopkins: ‘poetical language of the age should be the current language</l>
+                        <l n="10">[blank]                        heightened.’</l>
+                        <l n="11">[blank]             587     In his intense precision of design, or ‘inscape,’ as he named it </l>
+                        <l n="12">[blank]                        he is in opposition to Whitman’s <add>. . .</add> diffuseness &amp; to Bridges’</l>
+                        <l n="13">[blank]                        conventional decorum.</l>
+                        <l n="14">[blank]                   <add>(Whitman’s)</add> </l>
+                        <l n="15">[blank]             594     His desire to be inclusive above all robbed him of the severe</l>
+                        <l n="16">[blank]                        choice between alternatives, which the craftsman knows as</l>
+                        <l n="17">[blank]                        his greatest difficulty and reward.</l>
+                        <l n="18">[blank]             597     Alan Burroughs: Limners &amp; Likenesses: Three Centuries of Amer.</l>
+                        <l n="19">[blank]                        Painting 1936 most comprehensive history of our painting yet to</l>
+                        <l n="20">[blank]                        have been written.<quote rend="end"/></l>
+                        <l n="21">[blank]                                                                                                              <add>?</add> </l>
+                        <l n="22">[blank]             601     [<seg type="prose">Whitman’s Song of Myself patterned on Song of Songs]</seg> </l>
+                        <l n="23">[blank]                                                                                                             <add><seg type="prose">MM</seg></add> </l>
+                        <l n="24">[blank]             607     <quote rend="begin"/>Eakins. He had not been taught his subjects in Gérôme’s</l>
+                        <l n="25">[blank]                        studio but had grown into them by himself . . . </l>
+                        <l n="26">[blank]                        believed 'elimination' of decoration was bound up w.</l>
+                        <l n="27">[blank]                        a painter’s mastery of his own environment, his</l>
+                        <l n="28">[blank]                        country’s "life and types."</l>
+                        <l n="29">[blank]             616     Whitman insisted to the end that the complete meaning &amp; value</l>
+                        <l n="30">[blank]                        of this world lay in both the obvious surface &amp; the latent</l>
+                        <l n="31">[blank]                        mysterious suggestion . . . . 'the winds that would</l>
+                        <l n="32">[blank]                        perfume Lincoln’s grave."<quote rend="end"/></l>
+                        <l n="33">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v01">[vertical line]</l>
@@ -4888,43 +4869,40 @@
                         <l n="01">[blank]            618    <quote rend="begin"/><note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note). </note>He could create this ‘sanity of atmosphere,’ as he called it, most</l>
                         <l n="02">[blank]                        limpidly &amp; unerringly when he was dealing w. sex, ‘the enclosing</l>
                         <l n="03">[blank]                        basis’ of all his work.</l>
-                        <l n="04">[blank]</l>
-                        <l n="05">[blank]                        hackneyed cadences &amp; imagery of ‘O Captain! my Captain.’</l>
-                        <l n="06">[blank]                        this ballad, wholly untypical of his poems</l>
-                        <l n="07">[blank]</l>
-                        <l n="08">[blank]           617     the swimmer naked in the swimming-bath, seen as he swims through</l>
-                        <l n="09">[blank]                       the transparent green-shine, or lies w his face up &amp; rolls silently</l>
-                        <l n="10">[blank]                       to &amp; fro in the heave of the water . . . .</l>
-                        <l n="11">[blank]                  Whitman had written down what he had experienced on the day of Lincoln’s 2nd inauguration</l>
-                        <l n="12">[blank]            619      He noted that the President looked very worn &amp; tired, the lines of</l>
-                        <l n="13">[blank] Lincoln         vast responsibilities . . . and demands of life &amp; death, cut</l>
-                        <l n="14">[blank]                        deeper than ever upon his dark brown <del>features</del> face; yet all</l>
-                        <l n="15">[blank]                        the old goodness, tenderness, sadness, &amp; canny shrewdness,</l>
-                        <l n="16">[blank]                        underneath the furrows. (I never see that man without</l>
-                        <l n="17">[blank]                        feeling that he is one to become personally attach’d to, for his</l>
-                        <l n="18">[blank]                        combination of purest, heartiest tenderness, &amp; native western</l>
-                        <l n="19">[blank]                        form of manliness.) '(When lilacs last in the dooryard bloomed']</l>
-                        <l n="20">[blank]                     (Brooklyn)    Mother prepared breakfast—&amp; other meals</l>
-                        <l n="21">[blank]                        afterward—as usual; but not a mouthful was eaten</l>
-                        <l n="22">[blank]                        all day by either of us. We each drank half a cup of coffee;</l>
-                        <l n="23">[blank]                                                                                             <add>news</add> </l>
-                        <l n="24">[blank]                        that was all. Little was said. We got every paper morning</l>
-                        <l n="25">[blank]                        &amp; evening . . . and pass’d them silently to each other."</l>
-                        <l n="26">[blank]</l>
-                        <l n="27">[blank]            622     Whitman’s greatest act of pioneering was in helping</l>
-                        <l n="28">[blank]                        the modern sensibility feel at home in the natural</l>
-                        <l n="29">[blank]                        world.  626   adjusted to the sun by day &amp; to the stars by night.’</l>
-                        <l n="30">[blank]            624     told Traubel it was a comfort to him that the Lord</l>
-                        <l n="31">[blank]                        finds a place for all, for the bedbug, the rat, the</l>
-                        <l n="32">[blank]                        flea, even for Matthew Arnold.</l>
-                        <l n="33">[blank] </l>
-                        <l n="34">[blank]            627   1   The Need for Mythology</l>
-                        <l n="35">[blank]                        Thoreau reflecting on the beauty of s<del>ome</del>ome trout. He cld hardly</l>
-                        <l n="36">[blank]                        trust his senses as he stood over them, ‘that these jewels</l>
-                        <l n="37">[blank]                        should have swam away in that Aboljacknagesic water</l>
-                        <l n="38">[blank]                        for so long, so many dark ages;—these bright<quote rend="end"/> </l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
+                        <l n="04">[blank]                        hackneyed cadences &amp; imagery of ‘O Captain! my Captain.’</l>
+                        <l n="05">[blank]                        this ballad, wholly untypical of his poems</l>
+                        <l n="06">[blank]           617     the swimmer naked in the swimming-bath, seen as he swims through</l>
+                        <l n="07">[blank]                       the transparent green-shine, or lies w his face up &amp; rolls silently</l>
+                        <l n="08">[blank]                       to &amp; fro in the heave of the water . . . .</l>
+                        <l n="09">[blank]                  Whitman had written down what he had experienced on the day of Lincoln’s 2nd inauguration</l>
+                        <l n="10">[blank]            619      He noted that the President looked very worn &amp; tired, the lines of</l>
+                        <l n="11">[blank] Lincoln         vast responsibilities . . . and demands of life &amp; death, cut</l>
+                        <l n="12">[blank]                        deeper than ever upon his dark brown <del>features</del> face; yet all</l>
+                        <l n="13">[blank]                        the old goodness, tenderness, sadness, &amp; canny shrewdness,</l>
+                        <l n="14">[blank]                        underneath the furrows. (I never see that man without</l>
+                        <l n="15">[blank]                        feeling that he is one to become personally attach’d to, for his</l>
+                        <l n="16">[blank]                        combination of purest, heartiest tenderness, &amp; native western</l>
+                        <l n="17">[blank]                        form of manliness.) '(When lilacs last in the dooryard bloomed']</l>
+                        <l n="18">[blank]                     (Brooklyn)    Mother prepared breakfast—&amp; other meals</l>
+                        <l n="19">[blank]                        afterward—as usual; but not a mouthful was eaten</l>
+                        <l n="20">[blank]                        all day by either of us. We each drank half a cup of coffee;</l>
+                        <l n="21">[blank]                                                                                             <add>news</add> </l>
+                        <l n="22">[blank]                        that was all. Little was said. We got every paper morning</l>
+                        <l n="23">[blank]                        &amp; evening . . . and pass’d them silently to each other."</l>
+                        <l n="24">[blank]            622     Whitman’s greatest act of pioneering was in helping</l>
+                        <l n="25">[blank]                        the modern sensibility feel at home in the natural</l>
+                        <l n="26">[blank]                        world.  626   adjusted to the sun by day &amp; to the stars by night.’</l>
+                        <l n="27">[blank]            624     told Traubel it was a comfort to him that the Lord</l>
+                        <l n="28">[blank]                        finds a place for all, for the bedbug, the rat, the</l>
+                        <l n="29">[blank]                        flea, even for Matthew Arnold.</l>
+                        <l n="30">[blank] </l>
+                        <l n="31">[blank]            627   1   The Need for Mythology</l>
+                        <l n="32">[blank]                        Thoreau reflecting on the beauty of s<del>ome</del>ome trout. He cld hardly</l>
+                        <l n="33">[blank]                        trust his senses as he stood over them, ‘that these jewels</l>
+                        <l n="34">[blank]                        should have swam away in that Aboljacknagesic water</l>
+                        <l n="35">[blank]                        for so long, so many dark ages;—these bright<quote rend="end"/> </l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v01">[vertical line]</l>
@@ -4949,38 +4927,36 @@
                         <l n="06">[blank]                        put to a celestial, is mythology always.’</l>
                         <l n="07">[blank]             628          ‘A fact truly &amp; absolutely stated . . . acquires a mythological</l>
                         <l n="08">[blank]                        or universal significance.’</l>
-                        <l n="09">[blank]</l>
-                        <l n="10">[blank]            631     Hawthorne <add>. . .</add> gained his moral profundity by remaining strictly</l>
-                        <l n="11">[blank]                        a provincial &amp; digging where he was. When he spoke of </l>
-                        <l n="12">[blank]                        how ‘all men must descend’ into ‘dark caverns . . .   . . . he</l>
-                        <l n="13">[blank]                        showed where his consciousness of suffering had</l>
-                        <l n="14">[blank]                        brought him.</l>
-                        <l n="15">[blank]</l>
-                        <l n="16">[blank]     632     (cf Rep. Men &amp; Carlyle’s Heroes &amp; H Worship.) H. James, Sr.</l>
-                        <l n="17">[blank]                        Moral force was the Deity of Carlyle’s unscrupulous worship,—</l>
-                        <l n="18">[blank]                        the force of unprincipled irresponsible will.’</l>
-                        <l n="19">[blank] </l>
-                        <l n="20">[blank]            634     Similar frozen-faced exaggeration had been part of our tradition <add>. . .</add> as far back</l>
-                        <l n="21">[blank]                        as Franklin. When confronted in London (1765) w. a mass of</l>
-                        <l n="22">[blank]                        misinformation &amp; falsehoods about America he ironically vouched</l>
-                        <l n="23">[blank]                        for their truth by capping them w others of his own invention.</l>
-                        <l n="24">[blank]                        In a letter to a newspaper he spoke of the cod &amp; whale</l>
-                        <l n="25">[blank]                        fishing in the upper Lakes, &amp; added: ‘Ignorant People</l>
-                        <l n="26">[blank]                        may object that the upper Lakes are fresh, &amp; that Cod &amp; Whale</l>
-                        <l n="27">[blank]                        are salt water fish: But let them know, Sir, that Cod, like</l>
-                        <l n="28">[blank]                        other <del>f</del>Fish when attack’d by their Enemies, fly into any</l>
-                        <l n="29">[blank]                        Water where they can be safest; that Whales, when they</l>
-                        <l n="30">[blank]                        have a mind to eat Cod, pursue them wherever they fly;</l>
-                        <l n="31">[blank]                        &amp; that the grand <del>l</del>Leap of the Whale in the Chase up the</l>
-                        <l n="32">[blank]                        Fall of Niagara is esteemed, by all who have seen it,</l>
-                        <l n="33">[blank]                        as one of the finest spectacles in Nature.’<quote rend="end"/> </l>
+                        <l n="09">[blank]            631     Hawthorne <add>. . .</add> gained his moral profundity by remaining strictly</l>
+                        <l n="10">[blank]                        a provincial &amp; digging where he was. When he spoke of </l>
+                        <l n="11">[blank]                        how ‘all men must descend’ into ‘dark caverns . . .   . . . he</l>
+                        <l n="12">[blank]                        showed where his consciousness of suffering had</l>
+                        <l n="13">[blank]                        brought him.</l>
+                        <l n="14">[blank]     632     (cf Rep. Men &amp; Carlyle’s Heroes &amp; H Worship.) H. James, Sr.</l>
+                        <l n="15">[blank]                        Moral force was the Deity of Carlyle’s unscrupulous worship,—</l>
+                        <l n="16">[blank]                        the force of unprincipled irresponsible will.’</l>
+                        <l n="17">[blank] </l>
+                        <l n="18">[blank]            634     Similar frozen-faced exaggeration had been part of our tradition <add>. . .</add> as far back</l>
+                        <l n="19">[blank]                        as Franklin. When confronted in London (1765) w. a mass of</l>
+                        <l n="20">[blank]                        misinformation &amp; falsehoods about America he ironically vouched</l>
+                        <l n="21">[blank]                        for their truth by capping them w others of his own invention.</l>
+                        <l n="22">[blank]                        In a letter to a newspaper he spoke of the cod &amp; whale</l>
+                        <l n="23">[blank]                        fishing in the upper Lakes, &amp; added: ‘Ignorant People</l>
+                        <l n="24">[blank]                        may object that the upper Lakes are fresh, &amp; that Cod &amp; Whale</l>
+                        <l n="25">[blank]                        are salt water fish: But let them know, Sir, that Cod, like</l>
+                        <l n="26">[blank]                        other <del>f</del>Fish when attack’d by their Enemies, fly into any</l>
+                        <l n="27">[blank]                        Water where they can be safest; that Whales, when they</l>
+                        <l n="28">[blank]                        have a mind to eat Cod, pursue them wherever they fly;</l>
+                        <l n="29">[blank]                        &amp; that the grand <del>l</del>Leap of the Whale in the Chase up the</l>
+                        <l n="30">[blank]                        Fall of Niagara is esteemed, by all who have seen it,</l>
+                        <l n="31">[blank]                        as one of the finest spectacles in Nature.’<quote rend="end"/> </l>
+                        <l n="32">[blank]</l>
+                        <l n="33">[blank]</l>
                         <l n="34">[blank]</l>
                         <l n="35">[blank]</l>
                         <l n="36">[blank]</l>
+                        <l n="36">[blank]</l>
                         <l n="37">[blank]</l>
-                        <l n="38">[blank]</l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v01">[vertical line]</l>
@@ -5132,15 +5108,15 @@
                         <l n="17">[blank]                             <foreign xml:lang="de">Die Nacht war kalt und stumm.</foreign> </l>
                         <l n="18">[blank]                             <foreign xml:lang="de">Im Mondschein bewegte sich langsam</foreign> </l>
                         <l n="19">[blank]                             <foreign xml:lang="de">Die Armesünderblüm'.</foreign> <note>"Lyrical Intermezzo [ . . . ] They buried him at the cross-roads, / Whose own hand wrought his doom; / And over him grow blue flowers / Called the ‘Poor-Sinner's Bloom.’ // I stand at the cross-roads sighing, / Wrapped in a cloak of gloom, / And watch the moonlight trembling / On the Poor-Sinner’s Bloom." From Heine's <hi rend="italics">Book of Songs</hi> (1827), typically referred to by the first line. Trans. Louis Untermeyer, <hi rend="italics">Poems of Heinrich Heine</hi> (New York: Harcourt Brace, 1923): 80.</note> </l>
-                        <l n="20">[blank]</l>
-                        <l n="21">[blank]         ASL  xxvii     I cheer a dead man’s sweetheart,</l>
-                        <l n="22">[blank]                                     Never ask me whose.</l>
-                        <l n="23">[blank]</l>
-                        <l n="24">[blank]         recalls the ending of this poem by Heine:</l>
-                        <l n="25">[blank]                     <foreign xml:lang="de">Anfangs wollt’ ich fast verzagen,</foreign> </l>
-                        <l n="26">[blank]                     <foreign xml:lang="de">Und <del><unclear>w</unclear></del> ich glaubt’, ich trüg’ es nie;</foreign> </l>
-                        <l n="27">[blank]                     <foreign xml:lang="de">Und ich hab’ es doch getragen,—</foreign> </l>
-                        <l n="28">[blank]                     <foreign xml:lang="de">Aber fragt mich nur nicht: wie?</foreign><seg type="verseend"/><quote rend="end"/> <note>“I despaired at first, declaring / It could be be borne; and now— / Now I bear it, still despairing. / Only never ask me how!” From Heine's <hi rend="italics">Lyrical Intermezzo</hi> (1823). Trans. Louis Untermeyer, <hi rend="italics">Poems of Heinrich Heine</hi> (see earlier note): 25.</note></l>
+                        <l n="20">[blank]         ASL  xxvii     I cheer a dead man’s sweetheart,</l>
+                        <l n="21">[blank]                                     Never ask me whose.</l>
+                        <l n="22">[blank]         recalls the ending of this poem by Heine:</l>
+                        <l n="23">[blank]                     <foreign xml:lang="de">Anfangs wollt’ ich fast verzagen,</foreign> </l>
+                        <l n="24">[blank]                     <foreign xml:lang="de">Und <del><unclear>w</unclear></del> ich glaubt’, ich trüg’ es nie;</foreign> </l>
+                        <l n="25">[blank]                     <foreign xml:lang="de">Und ich hab’ es doch getragen,—</foreign> </l>
+                        <l n="26">[blank]                     <foreign xml:lang="de">Aber fragt mich nur nicht: wie?</foreign><seg type="verseend"/><quote rend="end"/> <note>“I despaired at first, declaring / It could be be borne; and now— / Now I bear it, still despairing. / Only never ask me how!” From Heine's <hi rend="italics">Lyrical Intermezzo</hi> (1823). Trans. Louis Untermeyer, <hi rend="italics">Poems of Heinrich Heine</hi> (see earlier note): 25.</note></l>
+                        <l n="27">[blank]</l>
+                        <l n="28">[blank]</l>
                         <l n="29">[blank]</l>
                         <l n="30">[blank]</l>
                         <l n="31">[blank]</l>
@@ -5151,8 +5127,6 @@
                         <l n="36">[blank]</l>
                         <l n="37">[blank]</l>
                         <l n="38">[blank]</l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v02">[vertical line]</l>
@@ -5229,9 +5203,9 @@
                 <div type="page" n="v.0204" xml:id="nb07_02_03_0204_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0204-verso.jpeg" n="0204-verso"/>
                     <desc>[Page-level Description] &amp;lt;!MM places a left opening parenthesis to
-                        the left of the text and the right of the number 2 on lines 22-25, and
+                        the left of the text and the right of the number 2 on lines 19-22, and
                         another to the left of the text and the right of the number 1 on lines
-                        28-32.!&amp;gt;</desc>
+                        24-28.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                       <quote rend="begin"/><note>Clinton-Baddeley, V. C. <hi rend="italics">Words for Music</hi> (see earlier note). </note> song<del>s</del>. In the ballad it consists largely in a masterly incompleteness</l>
                         <l n="02">[blank]                    of detail.</l>
@@ -5240,39 +5214,34 @@
                         <l n="05">[blank]                        of xternal things, which I would generally characterize as the</l>
                         <l n="06">[blank]                        Pathetic fallacy. (The tendency to credit Nature w. human</l>
                         <l n="07">[blank]                        emotions—Fowler)</l>
-                        <l n="08">[blank]</l>
-                        <l n="09">[blank]              40     <seg type="versebegin"/>Alas, my Love! ye do me wrong</l>
-                        <l n="10">[blank]                                To cast me off discourteously:</l>
-                        <l n="11">[blank]                        And I have lovèd you so long                                                                    <add>etc.</add> </l>
-                        <l n="12">[blank]                                Delighting in your company            Greensleeves was all my joy<seg type="verseend"/> </l>
-                        <l n="13">[blank]</l>
-                        <l n="14">[blank]              44     See Ballads of Britain   ed. by John Goss (1937)   pp <del>xv</del> xiv-xv</l>
-                        <l n="15">[blank]                        for opinions of Cecil Sharp. Phillips Barry, Child &amp; WP Ker.</l>
+                        <l n="08">[blank]              40     <seg type="versebegin"/>Alas, my Love! ye do me wrong</l>
+                        <l n="09">[blank]                                To cast me off discourteously:</l>
+                        <l n="10">[blank]                        And I have lovèd you so long                                                                    <add>etc.</add> </l>
+                        <l n="11">[blank]                                Delighting in your company            Greensleeves was all my joy<seg type="verseend"/> </l>
+                        <l n="12">[blank]              44     See Ballads of Britain   ed. by John Goss (1937)   pp <del>xv</del> xiv-xv</l>
+                        <l n="13">[blank]                        for opinions of Cecil Sharp. Phillips Barry, Child &amp; WP Ker.</l>
+                        <l n="14">[blank]                    <add>is designed in</add>      <add>1</add>                               <add>2</add>                          <add>3</add>                             <add>4</add> </l>
+                        <l n="15">[blank]           Music    4 parts     statement of theme, repeated, <add>logical</add> development,  original theme</l>
                         <l n="16">[blank]</l>
-                        <l n="17">[blank]                    <add>is designed in</add>      <add>1</add>                               <add>2</add>                          <add>3</add>                             <add>4</add> </l>
-                        <l n="18">[blank]           Music    4 parts     statement of theme, repeated, <add>logical</add> development,  original theme</l>
-                        <l n="19">[blank]</l>
-                        <l n="20">[blank]              52     A Comparison of Poetry &amp; Music in Collected Essays—1928</l>
-                        <l n="21">[blank]                   3   Sir Henry Hadow.</l>
-                        <l n="22">[blank]                        the dull speaker, the dull poet, the dull musician either lets</l>
-                        <l n="23">[blank              2         his point be anticipated or buries it in anti-climax; the</l>
-                        <l n="24">[blank]                        real artist in words or notes keeps his denouement in</l>
-                        <l n="25">[blank]                        reserve so that it strikes the more keenly bec. the</l>
-                        <l n="26">[blank]                        blow has been withheld.</l>
-                        <l n="27">[blank]</l>
-                        <l n="28">[blank]                            |    Handel</l>
-                        <l n="29">[blank]                      1          Shakes.       both continually throwing your attention</l>
-                        <l n="30">[blank]                                                                                                                          forward.</l>
-                        <l n="31">[blank]                               rousing the anticipation that it is their aim to satisfy</l>
-                        <l n="32">[blank]</l>
-                        <l n="33">[blank]                        to show that the climax is its organic &amp; inevitable conclusion . . .</l>
-                        <l n="34">[blank]                   _______________</l>
-                        <l n="35">[blank]                                    that is dramatic technique tho Sir H H didn’t say so</l>
-                        <l n="36">[blank]</l>
-                        <l n="37">[blank]              70     R. Ascham the Scholemaster (1570) A Greek author tried his hand</l>
-                        <l n="38">[blank]                        at rhyme, but with no success. ‘And the like folly was never<quote rend="end"/> </l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
+                        <l n="17">[blank]              52     A Comparison of Poetry &amp; Music in Collected Essays—1928</l>
+                        <l n="18">[blank]                   3   Sir Henry Hadow.</l>
+                        <l n="19">[blank]                        the dull speaker, the dull poet, the dull musician either lets</l>
+                        <l n="20">[blank              2         his point be anticipated or buries it in anti-climax; the</l>
+                        <l n="21">[blank]                        real artist in words or notes keeps his denouement in</l>
+                        <l n="22">[blank]                        reserve so that it strikes the more keenly bec. the</l>
+                        <l n="23">[blank]                        blow has been withheld.</l>
+                        <l n="24">[blank]                            |    Handel</l>
+                        <l n="25">[blank]                      1          Shakes.       both continually throwing your attention</l>
+                        <l n="26">[blank]                                                                                                                          forward.</l>
+                        <l n="27">[blank]                               rousing the anticipation that it is their aim to satisfy</l>
+                        <l n="28">[blank]</l>
+                        <l n="29">[blank]                        to show that the climax is its organic &amp; inevitable conclusion . . .</l>
+                        <l n="30">[blank]                   _______________</l>
+                        <l n="31">[blank]                                    that is dramatic technique tho Sir H H didn’t say so</l>
+                        <l n="32">[blank]              70     R. Ascham the Scholemaster (1570) A Greek author tried his hand</l>
+                        <l n="33">[blank]                        at rhyme, but with no success. ‘And the like folly was never<quote rend="end"/> </l>
+                        <l n="34">[blank]</l>
+                        <l n="35">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v02">[vertical line]</l>
@@ -5306,29 +5275,26 @@
                         <l n="15">[blank]                                          <add>?</add> </l>
                         <l n="16">[blank]  100    Figaro (Beaumarchais)     “ce qui ne vaut pas la peine d’être</l>
                         <l n="17">[blank]            dit, on le chante.”               anything too silly to be said may be sung.</l>
-                        <l n="18">[blank]</l>
-                        <l n="19">[blank]   127     Epicoene   Ben Jonson.   <seg type="versebegin"/>Still to be neat, still to be drest,</l>
-                        <l n="20">[blank]                                                            As you were going to a feast;</l>
-                        <l n="21">[blank]                                                      . . . give me a look, give me a face</l>
-                        <l n="22">[blank]                                                            That makes simplicity a grace</l>
-                        <l n="23">[blank]                                                            . . . sweet neglect more taketh me,</l>
-                        <l n="24">[blank]                                                            Than all the adulteries of art:</l>
-                        <l n="25">[blank]                                                            They strike mine eyes, but not my heart.</l>
-                        <l n="26">[blank]</l>
-                        <l n="27">[blank]              Yeats      A Full Moon in March 1935</l>
-                        <l n="28">[blank]                       God guard me from those thoughts men think</l>
-                        <l n="29">[blank]                       In the mind alone;</l>
-                        <l n="30">[blank]                       He that sings a lasting song</l>
-                        <l n="31">[blank]                       Thinks in a marrow-bone<seg type="verseend"/> </l>
+                        <l n="18">[blank]   127     Epicoene   Ben Jonson.   <seg type="versebegin"/>Still to be neat, still to be drest,</l>
+                        <l n="19">[blank]                                                            As you were going to a feast;</l>
+                        <l n="20">[blank]                                                      . . . give me a look, give me a face</l>
+                        <l n="21">[blank]                                                            That makes simplicity a grace</l>
+                        <l n="22">[blank]                                                            . . . sweet neglect more taketh me,</l>
+                        <l n="23">[blank]                                                            Than all the adulteries of art:</l>
+                        <l n="24">[blank]                                                            They strike mine eyes, but not my heart.</l>
+                        <l n="25">[blank]              Yeats      A Full Moon in March 1935</l>
+                        <l n="26">[blank]                       God guard me from those thoughts men think</l>
+                        <l n="27">[blank]                       In the mind alone;</l>
+                        <l n="28">[blank]                       He that sings a lasting song</l>
+                        <l n="29">[blank]                       Thinks in a marrow-bone<seg type="verseend"/> </l>
+                        <l n="30">[blank]                For him poetry was begotten of a rhythm (not a tune). </l>
+                        <l n="31">[blank]       160     His ideas were not revolutionary at all. All Yeats demanded<quote rend="end"/> </l>
                         <l n="32">[blank]</l>
-                        <l n="33">[blank]                For him poetry was begotten of a rhythm (not a tune). </l>
-                        <l n="34">[blank]       160     His ideas were not revolutionary at all. All Yeats demanded<quote rend="end"/> </l>
+                        <l n="33">[blank]</l>
+                        <l n="34">[blank]</l>
                         <l n="35">[blank]</l>
                         <l n="36">[blank]</l>
                         <l n="37">[blank]</l>
-                        <l n="38">[blank]</l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v02">[vertical line]</l>
@@ -5351,40 +5317,39 @@
                         <l n="04">[blank]   161      He did not                 realize that Michael Arne’s Lass with</l>
                         <l n="05">[blank]               the Delicate Air is also a perfect song, &amp; that it can be sung</l>
                         <l n="06">[blank]               <hi rend="underline">only</hi> by a trained singer.</l>
-                        <l n="07">[blank]</l>
-                        <l n="08">[blank]   162      in the ballad form he made his most important contribution</l>
-                        <l n="09">[blank]         to the art of song. (rollicking metres, sense of rhythm, a</l>
-                        <l n="10">[blank]               contemporary note)</l>
-                        <l n="11">[blank]                         Last Poems.   <seg type="versebegin"/>O What has made that sudden noise?</l>
-                        <l n="12">[blank]                              . . .</l>
-                        <l n="13">[blank]                              What gave that roar of mockery,</l>
-                        <l n="14">[blank]                              That roar in the sea’s roar?</l>
-                        <l n="15">[blank]                              The ghost of Roger Casement</l>
-                        <l n="16">[blank]                              Is beating on the door.<quote rend="end"/> </l>
-                        <l n="17">[blank]</l>
-                        <l n="18">[blank]   Words &amp; Poetry    George H W Rylands M.A.        Payson &amp; Clarke     1928</l>
-                        <l n="19">[blank]               on Shakespeare’s Style</l>
-                        <l n="20">[blank]</l>
-                        <l n="21">[blank]        <bibl type="begin"/>Lyra Graeca. The remains of all the Greek Poets fr.</l>
-                        <l n="22">[blank]           Eumelus to Timotheus excepting Pindar.</l>
-                        <l n="23">[blank]               newly <del>tra</del> edited &amp; translated by</l>
-                        <l n="24">[blank]           J. M. Edmonds.   late Fellow of Jesus College</l>
-                        <l n="25">[blank]               Lecturer in the U. of Cambridge</l>
-                        <l n="26">[blank]             in Three Volumes         Vol. 1 including</l>
-                        <l n="27">[blank]          Terpander,  Alcman    Sappho and Alcaeus</l>
-                        <l n="28">[blank]               Heinemann Ltd.  Cambridge Mass</l>
-                        <l n="29">[blank]                      Harvard University Press     1934<bibl type="end"/> <note>Edmonds, J. M., ed. and trans. <hi rend="italics">Lyra Graeca</hi>. Vol. 1. 1922 (London: Heinemann; Cambridge MA: Harvard UP, 1934). Loeb Classical Library.</note></l>
-                        <l n="30">[blank]</l>
-                        <l n="31">[blank]       <quote rend="begin"/>Life of Sappho  p. 142-3 <hi rend="underline">Parian Chronicle</hi>: From</l>
-                        <l n="32">[blank]         the time when Sappho went fr. Mytilene to Sicily when</l>
-                        <l n="33">[blank]         banished [the second time, 334 years,] in the archon- </l>
-                        <l n="34">[blank]         ship of the earlier Critias at Athens &amp; the rule of</l>
-                        <l n="35">[blank]         the Gamori or Landowners at Syracuse (BC 598<quote rend="end"/> </l>
+                        <l n="07">[blank]   162      in the ballad form he made his most important contribution</l>
+                        <l n="08">[blank]         to the art of song. (rollicking metres, sense of rhythm, a</l>
+                        <l n="09">[blank]               contemporary note)</l>
+                        <l n="10">[blank]                         Last Poems.   <seg type="versebegin"/>O What has made that sudden noise?</l>
+                        <l n="11">[blank]                              . . .</l>
+                        <l n="12">[blank]                              What gave that roar of mockery,</l>
+                        <l n="13">[blank]                              That roar in the sea’s roar?</l>
+                        <l n="14">[blank]                              The ghost of Roger Casement</l>
+                        <l n="15">[blank]                              Is beating on the door.<quote rend="end"/> </l>
+                        <l n="16">[blank]</l>
+                        <l n="17">[blank]   Words &amp; Poetry    George H W Rylands M.A.        Payson &amp; Clarke     1928</l>
+                        <l n="18">[blank]               on Shakespeare’s Style</l>
+                        <l n="19">[blank]</l>
+                        <l n="20">[blank]        <bibl type="begin"/>Lyra Graeca. The remains of all the Greek Poets fr.</l>
+                        <l n="21">[blank]           Eumelus to Timotheus excepting Pindar.</l>
+                        <l n="22">[blank]               newly <del>tra</del> edited &amp; translated by</l>
+                        <l n="23">[blank]           J. M. Edmonds.   late Fellow of Jesus College</l>
+                        <l n="24">[blank]               Lecturer in the U. of Cambridge</l>
+                        <l n="25">[blank]             in Three Volumes         Vol. 1 including</l>
+                        <l n="26">[blank]          Terpander,  Alcman    Sappho and Alcaeus</l>
+                        <l n="27">[blank]               Heinemann Ltd.  Cambridge Mass</l>
+                        <l n="28">[blank]                      Harvard University Press     1934<bibl type="end"/> <note>Edmonds, J. M., ed. and trans. <hi rend="italics">Lyra Graeca</hi>. Vol. 1. 1922 (London: Heinemann; Cambridge MA: Harvard UP, 1934). Loeb Classical Library.</note></l>
+                        <l n="29">[blank]</l>
+                        <l n="30">[blank]       <quote rend="begin"/>Life of Sappho  p. 142-3 <hi rend="underline">Parian Chronicle</hi>: From</l>
+                        <l n="31">[blank]         the time when Sappho went fr. Mytilene to Sicily when</l>
+                        <l n="32">[blank]         banished [the second time, 334 years,] in the archon- </l>
+                        <l n="33">[blank]         ship of the earlier Critias at Athens &amp; the rule of</l>
+                        <l n="34">[blank]         the Gamori or Landowners at Syracuse (BC 598<quote rend="end"/> </l>
+                        <l n="35">[blank]</l>
                         <l n="36">[blank]</l>
                         <l n="37">[blank]</l>
                         <l n="38">[blank]</l>
                         <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v02">[vertical line]</l>
@@ -5478,25 +5443,22 @@
                         <l n="19">[blank]           immediate; in the epic, the artist presents his</l>
                         <l n="20">[blank]           material in mediate relation to himself &amp; others; in</l>
                         <l n="21">[blank]           drama it is presented in immediate relation to others.</l>
-                        <l n="22">[blank]</l>
-                        <l n="23">[blank]   28   An epiphany is a spiritual manifestation, more espec.</l>
-                        <l n="24">[blank]          the original manifestation of Christ to the Magi.</l>
-                        <l n="25">[blank]          There are such moments in store for all of us, Joyce</l>
-                        <l n="26">[blank]          believed, if we but discern them.</l>
-                        <l n="27">[blank]</l>
-                        <l n="28">[blank]   48   He is trying “to build a breakwater of order &amp; elegance against</l>
-                        <l n="29">[blank]          the sordid tide of life without him.”</l>
-                        <l n="30">[blank]</l>
-                        <l n="31">[blank]   49   Mr. Eliot has made the plausible suggestion that Joyce’s 2</l>
-                        <l n="32">[blank]          masters in prose were Newman &amp; Pater.</l>
+                        <l n="22">[blank]   28   An epiphany is a spiritual manifestation, more espec.</l>
+                        <l n="23">[blank]          the original manifestation of Christ to the Magi.</l>
+                        <l n="24">[blank]          There are such moments in store for all of us, Joyce</l>
+                        <l n="25">[blank]          believed, if we but discern them.</l>
+                        <l n="26">[blank]   48   He is trying “to build a breakwater of order &amp; elegance against</l>
+                        <l n="27">[blank]          the sordid tide of life without him.”</l>
+                        <l n="28">[blank]</l>
+                        <l n="29">[blank]   49   Mr. Eliot has made the plausible suggestion that Joyce’s 2</l>
+                        <l n="30">[blank]          masters in prose were Newman &amp; Pater.</l>
+                        <l n="31">[blank]   50   This is the state of mind that confers upon lang. a magical potency.<quote rend="end"/> </l>
+                        <l n="32">[blank]</l>
                         <l n="33">[blank]</l>
-                        <l n="34">[blank]   50   This is the state of mind that confers upon lang. a magical potency.<quote rend="end"/> </l>
+                        <l n="34">[blank]</l>
                         <l n="35">[blank]</l>
                         <l n="36">[blank]</l>
                         <l n="37">[blank]</l>
-                        <l n="38">[blank]</l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v02">[vertical line]</l>
@@ -5515,44 +5477,39 @@
                     <lg>
                         <l n="01">[blank]     <quote rend="begin"/><note>Levin, Harry. <hi rend="italics">James Joyce</hi> (see earlier note). </note> It exalts the habit of verbal association into a principle for</l>
                         <l n="02">[blank]      the arrangement of experience.</l>
-                        <l n="03">[blank]</l>
-                        <l n="04">[blank]   52   Story of the artist.     Simon Daedalus: . . . . really the embodiment <add>of</add> </l>
-                        <l n="05">[blank]          “a medical student, an                oarsman, a tenor, an amateur    <add>Dublin</add> </l>
-                        <l n="06">[blank]          actor, a shouting politician, a small landlord, a small investor,</l>
-                        <l n="07">[blank]          a drinker, a good fellow, a storyteller, somebody’s secretary, something</l>
-                        <l n="08">[blank]          in a distillery, a tax gatherer, a bankrupt &amp; at present a praiser</l>
-                        <l n="09">[blank]          of his own past.”</l>
-                        <l n="10">[blank]</l>
-                        <l n="11">[blank]   59   In my defence the only arms I allow myself to use, silence, exile &amp;</l>
-                        <l n="12">[blank]          cunning.</l>
-                        <l n="13">[blank]</l>
-                        <l n="14">[blank]   66   All of J’s books, like Thomas Mann’s, fit into the broadening</l>
-                        <l n="15">[blank]          dialectical pattern of Künstler versus Bürger.</l>
-                        <l n="16">[blank]   71   his <hi rend="underline">Odyssey</hi> <add>. . .</add> is the fall of a city. It is a story of exile, &amp; after</l>
-                        <l n="17">[blank]          a long circuit of misadventures, home-coming.</l>
-                        <l n="18">[blank]   73   “The business of the poet or novelist,” Thomas Hardy</l>
-                        <l n="19">[blank] Poet OR Novelist     noted, "is to show the sorriness of the grandest</l>
-                        <l n="20">[blank]                            things and the grandeur of the sorriest things."</l>
-                        <l n="21">[blank]</l>
-                        <l n="22">[blank]   77    II     1  Calypso . . .           Kidney of Bloom, pray for us</l>
-                        <l n="23">[blank]                   2  Lotus Eaters    . . .                                  "     "    "       <seg type="prose">cf. T.S.E.</seg>  </l>
-                        <l n="24">[blank]                   3  Hades                                                       "     "    " </l>
-                        <l n="25">[blank]          Lapwing. Icarus . . . .</l>
-                        <l n="26">[blank]              Lapwing you are, Lapwing he. (emblematic bird that safeguards</l>
-                        <l n="27">[blank]              its children by crying away from its nest.</l>
-                        <l n="28">[blank]</l>
-                        <l n="29">[blank]   88   The movement of Joyce’s style, the thought of his characters,</l>
-                        <l n="30">[blank]          is like unreeling film . . . In its intimacy &amp; in its continuity</l>
-                        <l n="31">[blank]          Ulysses has more in common w the cinema than w other</l>
-                        <l n="32">[blank]          fiction . . . (J’s unrewarded attempt to establish the first motion-</l>
-                        <l n="33">[blank]          picture theatre in Ireland is only another chapter in the</l>
-                        <l n="34">[blank]          history of his misunderstandings w his country.</l>
+                        <l n="03">[blank]   52   Story of the artist.     Simon Daedalus: . . . . really the embodiment <add>of</add> </l>
+                        <l n="04">[blank]          “a medical student, an                oarsman, a tenor, an amateur    <add>Dublin</add> </l>
+                        <l n="05">[blank]          actor, a shouting politician, a small landlord, a small investor,</l>
+                        <l n="06">[blank]          a drinker, a good fellow, a storyteller, somebody’s secretary, something</l>
+                        <l n="07">[blank]          in a distillery, a tax gatherer, a bankrupt &amp; at present a praiser</l>
+                        <l n="08">[blank]          of his own past.”</l>
+                        <l n="09">[blank]   59   In my defence the only arms I allow myself to use, silence, exile &amp;</l>
+                        <l n="10">[blank]          cunning.</l>
+                        <l n="11">[blank]   66   All of J’s books, like Thomas Mann’s, fit into the broadening</l>
+                        <l n="12">[blank]          dialectical pattern of Künstler versus Bürger.</l>
+                        <l n="13">[blank]   71   his <hi rend="underline">Odyssey</hi> <add>. . .</add> is the fall of a city. It is a story of exile, &amp; after</l>
+                        <l n="14">[blank]          a long circuit of misadventures, home-coming.</l>
+                        <l n="15">[blank]   73   “The business of the poet or novelist,” Thomas Hardy</l>
+                        <l n="16">[blank] Poet OR Novelist     noted, "is to show the sorriness of the grandest</l>
+                        <l n="17">[blank]                            things and the grandeur of the sorriest things."</l>
+                        <l n="18">[blank]   77    II     1  Calypso . . .           Kidney of Bloom, pray for us</l>
+                        <l n="19">[blank]                   2  Lotus Eaters    . . .                                  "     "    "       <seg type="prose">cf. T.S.E.</seg>  </l>
+                        <l n="20">[blank]                   3  Hades                                                       "     "    " </l>
+                        <l n="21">[blank]          Lapwing. Icarus . . . .</l>
+                        <l n="22">[blank]              Lapwing you are, Lapwing he. (emblematic bird that safeguards</l>
+                        <l n="23">[blank]              its children by crying away from its nest.</l>
+                        <l n="24">[blank]   88   The movement of Joyce’s style, the thought of his characters,</l>
+                        <l n="25">[blank]          is like unreeling film . . . In its intimacy &amp; in its continuity</l>
+                        <l n="26">[blank]          Ulysses has more in common w the cinema than w other</l>
+                        <l n="27">[blank]          fiction . . . (J’s unrewarded attempt to establish the first motion-</l>
+                        <l n="28">[blank]          picture theatre in Ireland is only another chapter in the</l>
+                        <l n="29">[blank]          history of his misunderstandings w his country.</l>
+                        <l n="30">[blank]</l>
+                        <l n="31">[blank]   55   The physical handicap, the public humiliation, the brooding</l>
+                        <l n="32">[blank]          sensibility, the sense of grievance, the contempt for convention,<quote rend="end"/> </l>
+                        <l n="33">[blank]</l>
+                        <l n="34">[blank]</l>
                         <l n="35">[blank]</l>
-                        <l n="36">[blank]   55   The physical handicap, the public humiliation, the brooding</l>
-                        <l n="37">[blank]          sensibility, the sense of grievance, the contempt for convention,<quote rend="end"/> </l>
-                        <l n="38">[blank]</l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v02">[vertical line]</l>
@@ -5567,10 +5524,10 @@
             <div type="image" xml:id="nb07_02_03_0210_text">
                 <div type="page" n="v.0210" xml:id="nb07_02_03_0210_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0210-verso.jpeg" n="0210-verso"/>
-                    <desc>[Page-level Description] &amp;lt;!A large dot appears on line 22 under the
-                        word on line 21. An opening parenthesis is placed to the left of the second
-                        half of lines 32-33. A small arrow points from "Bruno" on line 32 to
-                        "matter" on 33.!&amp;gt;</desc>
+                    <desc>[Page-level Description] &amp;lt;!A large dot appears above the
+                        word "Ulysses" on line 21. An opening parenthesis is placed to the left of the second
+                        half of lines 29-30. A small arrow points from "Bruno" on line 29 to
+                        "matter" on 30.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                    <quote rend="begin"/><note>Levin, Harry. <hi rend="italics">James Joyce</hi> (see earlier note). </note>the desire for self-justification &amp; the appeal to higher authority—</l>
                         <l n="02">[blank]                     these are all elements of J’s attitude toward society &amp; toward</l>
@@ -5587,31 +5544,28 @@
                         <l n="13">[blank] Ulysses      Sinbad the Sailor &amp; Tinbad the Tailor and Jinbad the Jailer</l>
                         <l n="14">[blank]                     and Whinbad the Whaler &amp; Ninbad the Nailer &amp; Finbad the</l>
                         <l n="15">[blank]                     Failer &amp; Binbad the Bailer &amp; Pinbad the Pailer etc.</l>
-                        <l n="16">[blank]</l>
-                        <l n="17">[blank]                       When? </l>
-                        <l n="18">[blank]                       Going to bed there was a square round Sinbad the Sailor roc’s <del>egg</del></l>
-                        <l n="19">[blank]                    auk’s egg in the night of the bed of all the auks of the rocs of</l>
-                        <l n="20">[blank]                    Darkinbad the Brightdayler.</l>
-                        <l n="21">[blank]                        Where?</l>
-                        <l n="22">[blank]</l>
-                        <l n="23">[blank]              131   Ulysses is totally lacking in the epic virtues of love, friendship</l>
-                        <l n="24">[blank]                     &amp; magnanimity—</l>
-                        <l n="25">[blank]</l>
-                        <l n="26">[blank]            142   Ulysses. The producer (Mr. John Baptister Vickar) is</l>
-                        <l n="27">[blank]                      better known as the philosopher, Giambattista Vico.</l>
-                        <l n="28">[blank]                      It was he who first claimed that the Iliad &amp; Odyssey were</l>
-                        <l n="29">[blank]                      not the . . . products of . . . a single personality . . . . </l>
-                        <l n="30">[blank]                      Vico’s <hi rend="underline"><foreign xml:lang="it">Scienza Nuova</foreign></hi> is an ambitious &amp; obscure treatise</l>
-                        <l n="31">[blank]                    <add>Dublin booksellers</add> </l>
-                        <l n="32">[blank]            143   “Browne &amp; Nolan”              Giordano Bruno: his birthplace in northern</l>
-                        <l n="33">[blank]                      Italy, Nola.                                  form &amp; matter are father &amp; mother</l>
-                        <l n="34">[blank]</l>
-                        <l n="35">[blank]             144   Joyce sees eternal opposites, as Sir T. Browne saw quincunxes,</l>
-                        <l n="36">[blank]                      everywhere. Cain &amp; Abel, Castor &amp; Pollux . . .</l>
-                        <l n="37">[blank]                      the “Ondt” &amp; <del>grace hoppe</del> “Gracehoper”<quote rend="end"/>.</l>
-                        <l n="38">[blank]</l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
+                        <l n="16">[blank]                       When? </l>
+                        <l n="17">[blank]                       Going to bed there was a square round Sinbad the Sailor roc’s <del>egg</del></l>
+                        <l n="18">[blank]                    auk’s egg in the night of the bed of all the auks of the rocs of</l>
+                        <l n="19">[blank]                    Darkinbad the Brightdayler.</l>
+                        <l n="20">[blank]                        Where?</l>
+                        <l n="21">[blank]              131   Ulysses is totally lacking in the epic virtues of love, friendship</l>
+                        <l n="22">[blank]                     &amp; magnanimity—</l>
+                        <l n="23">[blank]            142   Ulysses. The producer (Mr. John Baptister Vickar) is</l>
+                        <l n="24">[blank]                      better known as the philosopher, Giambattista Vico.</l>
+                        <l n="25">[blank]                      It was he who first claimed that the Iliad &amp; Odyssey were</l>
+                        <l n="26">[blank]                      not the . . . products of . . . a single personality . . . . </l>
+                        <l n="27">[blank]                      Vico’s <hi rend="underline"><foreign xml:lang="it">Scienza Nuova</foreign></hi> is an ambitious &amp; obscure treatise</l>
+                        <l n="28">[blank]                    <add>Dublin booksellers</add> </l>
+                        <l n="29">[blank]            143   “Browne &amp; Nolan”              Giordano Bruno: his birthplace in northern</l>
+                        <l n="30">[blank]                      Italy, Nola.                                  form &amp; matter are father &amp; mother</l>
+                        <l n="31">[blank]</l>
+                        <l n="32">[blank]             144   Joyce sees eternal opposites, as Sir T. Browne saw quincunxes,</l>
+                        <l n="33">[blank]                      everywhere. Cain &amp; Abel, Castor &amp; Pollux . . .</l>
+                        <l n="34">[blank]                      the “Ondt” &amp; <del>grace hoppe</del> “Gracehoper”<quote rend="end"/>.</l>
+                        <l n="35">[blank]</l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v02">[vertical line]</l>
@@ -5636,39 +5590,34 @@
                         <l n="05">[blank]                                                                      <add>r</add> </l>
                         <l n="06">[blank]             <hi rend="underline">172   “Suffoclose! Shikespower! Seudodanto! Anonymoses</hi>!”</l>
                         <l n="07">[blank]             173   J’s synthetic language had to be “sancreed.”    Sanskrit</l>
-                        <l n="08">[blank]</l>
-                        <l n="09">[blank]             175   lacks visual imagery, concentrates on “the mind’s ear”</l>
-                        <l n="10">[blank]</l>
-                        <l n="11">[blank]             183   His pec. strength lay in speculation, introspection, &amp; an almost hyper</l>
-                        <l n="12">[blank]                      esthetic capacity for rendering sensations. These are poetic</l>
-                        <l n="13">[blank]                      attributes, &amp; his successes are the achievements of a poet—</l>
-                        <l n="14">[blank]                      in arranging verbal harmonies &amp; touching off emotional responses.</l>
-                        <l n="15">[blank]                                          <add>now</add> </l>
-                        <l n="16">[blank]             184   words are <del>not</del> matter, not manner.</l>
-                        <l n="17">[blank]</l>
-                        <l n="18">[blank]             184   as w. music, the structure seems to dissolve into the texture</l>
-                        <l n="19">[blank]</l>
-                        <l n="20">[blank]                      F’s Wake seems to realize the aspiration of the other arts toward</l>
-                        <l n="21">[blank]                      the condition of music.</l>
-                        <l n="22">[blank]             185   Joyce is a consummate master of the music of words but he is</l>
-                        <l n="23">[blank]                      also a master of “the music of ideas,” (orchestration of associated</l>
-                        <l n="24">[blank]                      images)           when you bring discordant sounds &amp; associations</l>
-                        <l n="25">[blank]                      together, you have created a pun. If the associations</l>
-                        <l n="26">[blank]                      remain irrelevant, it is a bad pun; <del>I</del>if they show an unlooked-</l>
-                        <l n="27">[blank]                      for relevance, it is better; if the relevant associations are</l>
-                        <l n="28">[blank]                      rich enough, it is poetry.</l>
+                        <l n="08">[blank]             175   lacks visual imagery, concentrates on “the mind’s ear”</l>
+                        <l n="09">[blank]             183   His pec. strength lay in speculation, introspection, &amp; an almost hyper</l>
+                        <l n="10">[blank]                      esthetic capacity for rendering sensations. These are poetic</l>
+                        <l n="11">[blank]                      attributes, &amp; his successes are the achievements of a poet—</l>
+                        <l n="12">[blank]                      in arranging verbal harmonies &amp; touching off emotional responses.</l>
+                        <l n="13">[blank]                                          <add>now</add> </l>
+                        <l n="14">[blank]             184   words are <del>not</del> matter, not manner.</l>
+                        <l n="15">[blank]             184   as w. music, the structure seems to dissolve into the texture</l>
+                        <l n="16">[blank]                      F’s Wake seems to realize the aspiration of the other arts toward</l>
+                        <l n="17">[blank]                      the condition of music.</l>
+                        <l n="18">[blank]             185   Joyce is a consummate master of the music of words but he is</l>
+                        <l n="19">[blank]                      also a master of “the music of ideas,” (orchestration of associated</l>
+                        <l n="20">[blank]                      images)           when you bring discordant sounds &amp; associations</l>
+                        <l n="21">[blank]                      together, you have created a pun. If the associations</l>
+                        <l n="22">[blank]                      remain irrelevant, it is a bad pun; <del>I</del>if they show an unlooked-</l>
+                        <l n="23">[blank]                      for relevance, it is better; if the relevant associations are</l>
+                        <l n="24">[blank]                      rich enough, it is poetry.</l>
+                        <l n="25">[blank]                      can pun his way through 628 pages.</l>
+                        <l n="26">[blank]             186   The 3 types of verbal wit that Freud has discriminated—</l>
+                        <l n="27">[blank]                       condensation, displacement, allusion.</l>
+                        <l n="28">[blank]             188   by the waters of babalong we sit down &amp; laugh</l>
                         <l n="29">[blank]</l>
-                        <l n="30">[blank]                      can pun his way through 628 pages.</l>
-                        <l n="31">[blank]             186   The 3 types of verbal wit that Freud has discriminated—</l>
-                        <l n="32">[blank]                       condensation, displacement, allusion.</l>
-                        <l n="33">[blank]             188   by the waters of babalong we sit down &amp; laugh</l>
+                        <l n="30">[blank]             189   Nobirdy aviar soar anywing to eagle it. </l>
+                        <l n="31">[blank]                                       aviar<quote rend="end"/> </l>
+                        <l n="32">[blank]</l>
+                        <l n="33">[blank]</l>
                         <l n="34">[blank]</l>
-                        <l n="35">[blank]             189   Nobirdy aviar soar anywing to eagle it. </l>
-                        <l n="36">[blank]                                       aviar<quote rend="end"/> </l>
-                        <l n="37">[blank]</l>
-                        <l n="38">[blank]</l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
+                        <l n="35">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v02">[vertical line]</l>
@@ -5740,7 +5689,7 @@
                 <div type="page" n="r.0213" xml:id="nb07_02_03_0213_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0213-recto.jpeg" n="0213-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM places a closing parenthesis to the
-                        right of the words that end lines 23-24.!&amp;gt;</desc>
+                        right of the words that end lines 22-23.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]            <bibl type="begin"/>Victor Bérard:<note>Bérard, Victor [1864-1931].  French diplomat, politician and Hellenist known for his translation of Homer’s <hi rend="italics">Odyssey</hi> and for his attempts to reconstruct the geographical itinerary of Odysseus's voyages.</note> <foreign xml:lang="fr">Dans le Sillage             D’Ulysse</foreign><note>Bérard, Victor. <hi rend="italics"><foreign xml:lang="fr">Dans le sillage d'Ulysse</foreign></hi> (Paris: Armand Colin, 1933). </note></l>
                         <l n="02">[blank]                        <foreign xml:lang="fr">Librairie Armand Colin</foreign>           1933<bibl type="end"/> </l>
@@ -5754,34 +5703,33 @@
                         <l n="10">[blank]                       ___________________ </l>
                         <l n="11">[blank]         1942   <bibl type="begin"/>The Gift of Tongues     Dr. Margaret Schlauch     N Y Univ. </l>
                         <l n="12">[blank]      $3.50        Modern Age Books: 1942<bibl type="end"/> <note>Schlauch, Margaret. <hi rend="italics">The Gift of Tongues</hi> (New York: Modern Age, 1942).</note><note>Schlauch, Margaret [1898-1986]. First female full professor of English at New York University, where she taught from 1927-1951.</note> p. 227        <quote rend="begin"/>9. Language &amp; Poetic Creation</l>
-                        <l n="13">[blank]</l>
-                        <l n="14">[blank]                    we may assume that as long as men have been human they</l>
-                        <l n="15">[blank]                    have been aware that one way of saying a thing might be more</l>
-                        <l n="16">[blank]                    pleasing than another . . . . . If the earliest pottery shows</l>
-                        <l n="17">[blank]                    a striving for design, early sentences probably did too.</l>
-                        <l n="18">[blank]                                                                 <add>has</add> </l>
-                        <l n="19">[blank]           232   17<hi rend="superscript">th</hi> c <del>writers</del> . . . . (Joyce)   accentuated this etymological awareness</l>
-                        <l n="20">[blank]</l>
-                        <l n="21">[blank]           253   segmentation (Charles Bally &amp; Ferdinand Brunot)</l>
-                        <l n="22">[blank]                        See me he might                    Down she sat (changing natural</l>
-                        <l n="23">[blank]                                                                                             order of the sentence</l>
-                        <l n="24">[blank]                                                                                                         parts </l>
-                        <l n="25">[blank]                      So far as the treaty is concerned, . . . they never intended to keep it</l>
-                        <l n="26">[blank]                                          6   7                                          1         2          3         4    5</l>
-                        <l n="27">[blank]                         <foreign xml:lang="fr">quant á</foreign> (so far as)</l>
-                        <l n="28">[blank]                          <foreign xml:lang="fr">Cette fille là—vraiment je ne la connais pas.</foreign> <note>"That girl—I really don't know her well."</note></l>
-                        <l n="29">[blank]                      A different intonation marks a segmented presentation</l>
-                        <l n="30">[blank]                      fr. an ordinary sentence.</l>
-                        <l n="31">[blank]</l>
-                        <l n="32">[blank]             254   Milton       <seg type="verse">Of man’s first disobedience, &amp; the fruit</seg> </l>
-                        <l n="33">[blank]                                          <seg type="verse">Of that forbidden tree</seg> </l>
-                        <l n="34">[blank]             256   assonance (old French)   final syllables (of line) w vowels identical</l>
-                        <l n="35">[blank]                                                       but consonants anything at all.</l>
-                        <l n="36">[blank]                   (path: pass)               <foreign xml:lang="fro">la clere albe</foreign> </l>
-                        <l n="37">[blank]                                                 <foreign xml:lang="fro">menu reguardet</foreign> <note>"the bright dawn"; "looked in quick succession." From <hi rend="italics">The Song of Roland</hi>.</note>                                  <add>horror</add> </l>
-                        <l n="38">[blank]                      Near-rhyme avoids identity of vowel. reader–rider    hearer<quote rend="end"/> </l>
+                        <l n="13">[blank]                    we may assume that as long as men have been human they</l>
+                        <l n="14">[blank]                    have been aware that one way of saying a thing might be more</l>
+                        <l n="15">[blank]                    pleasing than another . . . . . If the earliest pottery shows</l>
+                        <l n="16">[blank]                    a striving for design, early sentences probably did too.</l>
+                        <l n="17">[blank]                                                                 <add>has</add> </l>
+                        <l n="18">[blank]           232   17<hi rend="superscript">th</hi> c <del>writers</del> . . . . (Joyce)   accentuated this etymological awareness</l>
+                        <l n="19">[blank]</l>
+                        <l n="20">[blank]           253   segmentation (Charles Bally &amp; Ferdinand Brunot)</l>
+                        <l n="21">[blank]                        See me he might                    Down she sat (changing natural</l>
+                        <l n="22">[blank]                                                                                             order of the sentence</l>
+                        <l n="23">[blank]                                                                                                         parts </l>
+                        <l n="24">[blank]                      So far as the treaty is concerned, . . . they never intended to keep it</l>
+                        <l n="25">[blank]                                          6   7                                          1         2          3         4    5</l>
+                        <l n="26">[blank]                         <foreign xml:lang="fr">quant á</foreign> (so far as)</l>
+                        <l n="27">[blank]                          <foreign xml:lang="fr">Cette fille là—vraiment je ne la connais pas.</foreign> <note>"That girl—I really don't know her well."</note></l>
+                        <l n="28">[blank]                      A different intonation marks a segmented presentation</l>
+                        <l n="29">[blank]                      fr. an ordinary sentence.</l>
+                        <l n="30">[blank]</l>
+                        <l n="31">[blank]             254   Milton       <seg type="verse">Of man’s first disobedience, &amp; the fruit</seg> </l>
+                        <l n="32">[blank]                                          <seg type="verse">Of that forbidden tree</seg> </l>
+                        <l n="33">[blank]             256   assonance (old French)   final syllables (of line) w vowels identical</l>
+                        <l n="34">[blank]                                                       but consonants anything at all.</l>
+                        <l n="35">[blank]                   (path: pass)               <foreign xml:lang="fro">la clere albe</foreign> </l>
+                        <l n="36">[blank]                                                 <foreign xml:lang="fro">menu reguardet</foreign> <note>"the bright dawn"; "looked in quick succession." From <hi rend="italics">The Song of Roland</hi>.</note>                                  <add>horror</add> </l>
+                        <l n="37">[blank]                      Near-rhyme avoids identity of vowel. reader–rider    hearer<quote rend="end"/> </l>
+                        <l n="38">[blank]</l>
                         <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v01">[vertical line] &amp;lt;!desc: lines 38-02, left margin, written as 2 rows of script!&amp;gt;Ferdinand Brunot: <foreign xml:lang="fr">La Pensée et la Langue</foreign> Paris 1936   Book I for presentations &amp; / propositions </l>
@@ -6141,51 +6089,43 @@
                 <div type="page" n="v.0220" xml:id="nb07_02_03_0220_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0220-verso.jpeg" n="0220-verso"/>
                     <desc>[Page-level Description]</desc>
-                    <lg>
                         <lg>
                             <l n="01">[blank]           <bibl type="begin"/>Wallace Stevens: The Noble Rider and the Sound of Words      </l>
-                            <l n="02">[blank]</l>
-                            <l n="03">[blank] in The Language of Poetry  By                Philip Wheelwright,     Cleanth</l>
-                            <l n="04">[blank]                    I.A. Richards. Wallace Stevens  Edited by Allen Tate.   <add>Brooks</add> </l>
-                            <l n="05">[blank]                  Princeton U. Press        1942<bibl type="end"/> <note>Stevens, Wallace. "The Noble Rider and the Sound of Words." <hi rend="italics">The Language of Poetry</hi>. Ed. Allen Tate (Princeton: Princeton UP, 1942): 91-125.</note></l>
-                            <l n="06">[blank]</l>
-                            <l n="07">[blank]          <quote rend="begin"/>[The Noble Rider In the <hi rend="underline">Phaedrus</hi> Plato speaks of the Soul—Let our</l>
-                            <l n="08">[blank]                              <add>p. 91</add> </l>
-                            <l n="09">[blank]                 figure be of a composite nature—a pair of winged horses &amp; a charioteer]</l>
-                            <l n="10">[blank]</l>
-                            <l n="11">[blank]          119<add>-20</add> . . . art sets out to express the human soul;</l>
-                            <l n="12">[blank]</l>
-                            <l n="13">[blank]          120.   The poetic process is psychologically an escapist process. </l>
-                            <l n="14">[blank]</l>
-                            <l n="15">[blank]          123      Yet the imagination gives to everything that it touches a</l>
-                            <l n="16">[blank]                   peculiarity, &amp; it seems to me that the peculiarity</l>
-                            <l n="17">[blank]                  of the imagination is nobility, of which there are many</l>
-                            <l n="18">[blank]                  degrees.         . . . . . I mean that nobility which is our</l>
-                            <l n="19">[blank]                                                                                                     <add>it</add> </l>
-                            <l n="20">[blank]                  spiritual height and depth;     . . . The fact that <add>‸</add> is</l>
-                            <l n="21">[blank]                  there is what makes it possible to invite to the reading</l>
-                            <l n="22">[blank]                  &amp; writing of poetry     men of intelligence &amp; desire for life.</l>
-                            <l n="23">[blank]</l>
-                            <l n="24">[blank]           → . . . To fix it is to put an end to it.</l>
-                            <l n="25">[blank]                                           <add>conscious of negations,</add> </l>
-                            <l n="26">[blank]        124    For the . . . poet, . . . nothing is more difficult than the affirmations</l>
-                            <l n="27">[blank]                  of nobility &amp; yet there is nothing that he requires of himself more</l>
-                        </lg>
-                    </lg>
-                    <lg>
-                        <l n="28">[blank]                  persistently, since in them &amp; in their kind, alone, are to be</l>
-                        <l n="29">[blank]                  found those sanctions that are the reasons for his being &amp;</l>
-                        <l n="30">[blank]                  for that occasional ecstasy, or ecstatic freedom</l>
-                        <l n="31">[blank]                  of the mind, which is his special privilege.</l>
-                        <l n="32">[blank]</l>
-                        <l n="33">[blank]        125             It is hard to think of a thing more out of time than nobility.</l>
-                        <l n="34">[blank]                  . . . But as a wave is a force &amp; not the water of which it is</l>
-                        <l n="35">[blank]                  composed, which is never the same, so nobility is a force . . . .</l>
-                        <l n="36">[blank]</l>
-                        <l n="37">[blank]                  It is a violence from within that protects us from a violence</l>
-                        <l n="38">[blank]                  without. It is the imagination pressing back against the pressure</l>
-                        <l n="39">[blank]                  of reality.<note>MM cites the preceding five lines in "There is a War That Never Ends." <hi rend="italics">Kenyon Review</hi> 5 (Winter 1943): 144-147. </note> It seems . . . to have something to do with our</l>
-                        <l n="40">[blank]                  self-preservation; &amp; that, no doubt, is why the expression of it,<quote rend="end"/> </l>
+                            <l n="02">[blank] in The Language of Poetry  By                Philip Wheelwright,     Cleanth</l>
+                            <l n="03">[blank]                    I.A. Richards. Wallace Stevens  Edited by Allen Tate.   <add>Brooks</add> </l>
+                            <l n="04">[blank]                  Princeton U. Press        1942<bibl type="end"/> <note>Stevens, Wallace. "The Noble Rider and the Sound of Words." <hi rend="italics">The Language of Poetry</hi>. Ed. Allen Tate (Princeton: Princeton UP, 1942): 91-125.</note></l>
+                            <l n="05">[blank]</l>
+                            <l n="06">[blank]          <quote rend="begin"/>[The Noble Rider In the <hi rend="underline">Phaedrus</hi> Plato speaks of the Soul—Let our</l>
+                            <l n="07">[blank]                              <add>p. 91</add> </l>
+                            <l n="08">[blank]                 figure be of a composite nature—a pair of winged horses &amp; a charioteer]</l>
+                            <l n="09">[blank]</l>
+                            <l n="10">[blank]          119<add>-20</add> . . . art sets out to express the human soul;</l>
+                            <l n="11">[blank]</l>
+                            <l n="12">[blank]          120.   The poetic process is psychologically an escapist process. </l>
+                            <l n="13">[blank]</l>
+                            <l n="14">[blank]          123      Yet the imagination gives to everything that it touches a</l>
+                            <l n="15">[blank]                   peculiarity, &amp; it seems to me that the peculiarity</l>
+                            <l n="16">[blank]                  of the imagination is nobility, of which there are many</l>
+                            <l n="17">[blank]                  degrees.         . . . . . I mean that nobility which is our</l>
+                            <l n="18">[blank]                                                                                                     <add>it</add> </l>
+                            <l n="19">[blank]                  spiritual height and depth;     . . . The fact that <add>‸</add> is</l>
+                            <l n="20">[blank]                  there is what makes it possible to invite to the reading</l>
+                            <l n="21">[blank]                  &amp; writing of poetry     men of intelligence &amp; desire for life.</l>
+                            <l n="22">[blank]           → . . . To fix it is to put an end to it.</l>
+                            <l n="23">[blank]                                           <add>conscious of negations,</add> </l>
+                            <l n="24">[blank]        124    For the . . . poet, . . . nothing is more difficult than the affirmations</l>
+                            <l n="25">[blank]                  of nobility &amp; yet there is nothing that he requires of himself more</l>
+                        <l n="26">[blank]                  persistently, since in them &amp; in their kind, alone, are to be</l>
+                        <l n="27">[blank]                  found those sanctions that are the reasons for his being &amp;</l>
+                        <l n="28">[blank]                  for that occasional ecstasy, or ecstatic freedom</l>
+                        <l n="29">[blank]                  of the mind, which is his special privilege.</l>
+                        <l n="30">[blank]        125             It is hard to think of a thing more out of time than nobility.</l>
+                        <l n="31">[blank]                  . . . But as a wave is a force &amp; not the water of which it is</l>
+                        <l n="32">[blank]                  composed, which is never the same, so nobility is a force . . . .</l>
+                        <l n="33">[blank]                  It is a violence from within that protects us from a violence</l>
+                        <l n="34">[blank]                  without. It is the imagination pressing back against the pressure</l>
+                        <l n="35">[blank]                  of reality.<note>MM cites the preceding five lines in "There is a War That Never Ends." <hi rend="italics">Kenyon Review</hi> 5 (Winter 1943): 144-147. </note> It seems . . . to have something to do with our</l>
+                        <l n="36">[blank]                  self-preservation; &amp; that, no doubt, is why the expression of it,<quote rend="end"/> </l>
                     </lg>
                     <lg type="vertical">
                         <l n="v01">[vertical line] &amp;lt;!desc: lines 28-04, left margin!&amp;gt;<hi rend="pencil">Stevens the least sanctimonious of any one know.</hi> </l>
