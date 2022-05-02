@@ -2367,7 +2367,6 @@
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0152-verso.jpeg" n="0152-verso"/>
                     <desc>[Page-level Description] &amp;lt;!MM places a right curly bracket to the
                         right of the text on lines 26-29.!&amp;gt;</desc>
-                    <lg>
                         <lg>
                             <l n="01">[blank]                  <quote rend="begin"/><note>Tillotson, Geoffrey. <hi rend="italics">On the Poetry of Pope</hi> (see earlier note). </note>Correctness IV: Versification ‘Certain niceties’</l>
                             <l n="02">[blank]       106     Triplets have the undesirable effect of introducing an</l>
@@ -2392,10 +2391,6 @@
                             <l n="24">[blank]                   of 17<hi rend="superscript">th</hi> c versification.</l>
                             <l n="26">[blank]                             <seg type="versebegin"/>Waller was smooth; but Dryden taught to join </l>
                             <l n="27">[blank]                             the varying verse, the full-resounding line, </l>
-                        </lg>
-                    </lg>
-                    <lg>
-                        
                         <l n="28">[blank]                                                                          <add>and</add> </l>
                         <l n="29">[blank]                             The long majestic March, &amp; E<del>v</del>nergy divine—<seg type="verseend"/> </l>
                         <l n="31">[blank]        114          When Pope did write blank verse, his master was Rowe</l>
