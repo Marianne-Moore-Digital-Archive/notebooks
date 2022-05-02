@@ -3748,7 +3748,7 @@
                 <div type="page" n="r.0177" xml:id="nb07_02_03_0177_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0177-recto.jpeg" n="0177-recto"/>
                     <desc>[Page-level Description] &amp;lt;!An arrow points to the right from the
-                        end of the text on line 34.!&amp;gt;</desc>
+                        end of the text on line 30.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                   <quote rend="begin"/><note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note). </note><add>Thoreau</add> </l>
                         <l n="02">[blank]          96     presents an experience instead of states an abstraction.</l>
@@ -3756,40 +3756,36 @@
                         <l n="04">[blank]          96     Steady labor w the hands . . . is . . . the best method of removing</l>
                         <l n="05">[blank]                   palaver &amp; sentimentality out of one’s style, both of speaking</l>
                         <l n="06">[blank]                   and writing—"</l>
-                        <l n="07">[blank]</l>
-                        <l n="08">[blank]          97     ‘men should not labor foolishly like brutes, but the brain &amp; the body</l>
-                        <l n="09">[blank]                   should always, or as much as possible, work &amp; rest together.’ That</l>
-                        <l n="10">[blank]                   doctrine merges w what he wanted his rhythm to possess, the</l>
-                        <l n="11">[blank]                   concentration that arises out of repose.</l>
-                        <l n="12">[blank]</l>
-                        <l n="13">[blank]        102     v. T. R. Glover: ‘The scholar for whom all facts are of significance</l>
-                        <l n="14">[blank]                                                        <add>cance</add> </l>
-                        <l n="15">[blank]                   and all of equal signifi<del>cance</del> never understands anything, though</l>
-                        <l n="16">[blank]                   Nature is kind to him &amp; conceals from him that there is anything to</l>
-                        <l n="17">[blank]                   understand.’</l>
-                        <l n="18">[blank]                                         <add>Emerson</add> </l>
-                        <l n="19">[blank]        103     The traits he dwelt on were Milton’s hope, self-reverence,</l>
-                        <l n="20">[blank]                   piety, &amp; delight in beauty.</l>
-                        <l n="21">[blank]</l>
-                        <l n="22">[blank]        105     Cudworth’s <hi rend="underline">True Intellectual System of the Universe</hi>.     read by E. &amp; Thoreau</l>
-                        <l n="23">[blank]                                                                                      (Religio) </l>
-                        <l n="24">[blank]        107     Emerson quoted this sentence fr Sir T. Browne: ‘The severe</l>
-                        <l n="25">[blank]                   schools shall never laugh me out of the philosophy of Hermes,</l>
-                        <l n="26">[blank]                   that this visible world is but a picture of the invisible.’</l>
-                        <l n="27">[blank]</l>
-                        <l n="28">[blank]        107     Herbert:            <seg type="versebegin"/>More servants wait on man</l>
-                        <l n="29">[blank]                                      Than he’ll take notice of. In every path</l>
-                        <l n="30">[blank]                                            He treads down that which doth befriend him</l>
-                        <l n="31">[blank]                                            When sickness makes him pale and wan.</l>
-                        <l n="32">[blank]                                      Oh mighty love! Man is one world, and hath<seg type="verseend"/> </l>
-                        <l n="33">[blank]        108                              <seg type="verse">Another to attend him.</seg> </l>
-                        <l n="34">[blank] What he left out was</l>
-                        <l n="35">[blank] H’s characteristic                         <seg type="verse">Since then, my God, thou hast</seg> </l>
-                        <l n="36">[blank] Christian ending:                    <seg type="versebegin"/>So brave a palace built; O dwell in it,</l>
-                        <l n="37">[blank]                                                      That it may dwell with thee at last!</l>
-                        <l n="38">[blank]                                                      Till then, afford us so much wit,</l>
-                        <l n="39">[blank]                                                 That, as the world serves us, we may serve thee,</l>
-                        <l n="40">[blank]                                                      And both thy servants be.<seg type="verseend"/><quote rend="end"/> </l>
+                        <l n="07">[blank]          97     ‘men should not labor foolishly like brutes, but the brain &amp; the body</l>
+                        <l n="08">[blank]                   should always, or as much as possible, work &amp; rest together.’ That</l>
+                        <l n="09">[blank]                   doctrine merges w what he wanted his rhythm to possess, the</l>
+                        <l n="10">[blank]                   concentration that arises out of repose.</l>
+                        <l n="11">[blank]        102     v. T. R. Glover: ‘The scholar for whom all facts are of significance</l>
+                        <l n="12">[blank]                                                        <add>cance</add> </l>
+                        <l n="13">[blank]                   and all of equal signifi<del>cance</del> never understands anything, though</l>
+                        <l n="14">[blank]                   Nature is kind to him &amp; conceals from him that there is anything to</l>
+                        <l n="15">[blank]                   understand.’</l>
+                        <l n="16">[blank]                                         <add>Emerson</add> </l>
+                        <l n="17">[blank]        103     The traits he dwelt on were Milton’s hope, self-reverence,</l>
+                        <l n="18">[blank]                   piety, &amp; delight in beauty.</l>
+                        <l n="19">[blank]        105     Cudworth’s <hi rend="underline">True Intellectual System of the Universe</hi>.     read by E. &amp; Thoreau</l>
+                        <l n="20">[blank]                                                                                      (Religio) </l>
+                        <l n="21">[blank]        107     Emerson quoted this sentence fr Sir T. Browne: ‘The severe</l>
+                        <l n="22">[blank]                   schools shall never laugh me out of the philosophy of Hermes,</l>
+                        <l n="23">[blank]                   that this visible world is but a picture of the invisible.’</l>
+                        <l n="24">[blank]        107     Herbert:            <seg type="versebegin"/>More servants wait on man</l>
+                        <l n="25">[blank]                                      Than he’ll take notice of. In every path</l>
+                        <l n="26">[blank]                                            He treads down that which doth befriend him</l>
+                        <l n="27">[blank]                                            When sickness makes him pale and wan.</l>
+                        <l n="28">[blank]                                      Oh mighty love! Man is one world, and hath<seg type="verseend"/> </l>
+                        <l n="29">[blank]        108                              <seg type="verse">Another to attend him.</seg> </l>
+                        <l n="30">[blank] What he left out was</l>
+                        <l n="31">[blank] H’s characteristic                         <seg type="verse">Since then, my God, thou hast</seg> </l>
+                        <l n="32">[blank] Christian ending:                    <seg type="versebegin"/>So brave a palace built; O dwell in it,</l>
+                        <l n="33">[blank]                                                      That it may dwell with thee at last!</l>
+                        <l n="34">[blank]                                                      Till then, afford us so much wit,</l>
+                        <l n="35">[blank]                                                 That, as the world serves us, we may serve thee,</l>
+                        <l n="36">[blank]                                                      And both thy servants be.<seg type="verseend"/><quote rend="end"/> </l>
                     </lg>
                     <lg type="vertical">
                         <l n="v01">[vertical line]</l>
@@ -3814,38 +3810,36 @@
                         <l n="06">[blank]                                                   To gauge with glance the roaring gulf below,</l>
                         <l n="07">[blank]                                                   The depths of sin to which I had descended,</l>
                         <l n="08">[blank]                                                   Had not these me against myself defended<seg type="verseend"/> </l>
-                        <l n="09">[blank]</l>
-                        <l n="10">[blank]        109     Browne’s preoccupation is <del>w the</del> not w fresh beginnings, but</l>
-                        <l n="11">[blank]                   w <del>the closeness of both worlds to eternity</del> . . . not with</l>
-                        <l n="12">[blank]                   the presentness of the past but, but w the closeness of both to</l>
-                        <l n="13">[blank]                   eternity.</l>
-                        <l n="14">[blank]</l>
-                        <l n="15">[blank]                  <del>The Mingling of Walden &amp; Ganges</del>      Man Thinking</l>
-                        <l n="16">[blank]        112           the verses from Daniel that Thoreau quoted near the end of the The <hi rend="underline">Week</hi> </l>
-                        <l n="17">[blank]                   were acc. to Channing—perhaps more freq on his lips</l>
-                        <l n="18">[blank]                   than any other lines:       <seg type="versebegin"/>Unless above himself he can</l>
-                        <l n="19">[blank]                                                          Erect himself, how poor a thing is man.<seg type="verseend"/> </l>
-                        <l n="20">[blank]                   They had been used by Coleridge with ‘above’ italicized to illustrate</l>
-                        <l n="21">[blank]                   one of his aphorisms in <del>a</del><hi rend="underline">Aids to Reflection</hi>. What C thus</l>
-                        <l n="22">[blank]                   emphasized was the poem’s expression of the need for humility;</l>
-                        <l n="23">[blank]                   for it still spoke in something of the spirit that actuated</l>
-                        <l n="24">[blank]                   St. B when he said We must retire inward if we would</l>
-                        <l n="25">[blank]                   ascend upward.’</l>
-                        <l n="26">[blank]        113     Herbert’s face was turned upward; E’s &amp; T’s faces inward.</l>
-                        <l n="27">[blank]</l>
-                        <l n="28">[blank]        113     E’s perception of the value of the <hi rend="underline">discordia concors</hi> </l>
-                        <l n="29">[blank]                   the yoking together of unlikes by a fresh &amp; vigorous mind—</l>
-                        <l n="30">[blank]                   was akin to that the modern poets who have reclaimed</l>
-                        <l n="31">[blank]                   some of the method of Donne.</l>
-                        <l n="32">[blank]                                   metaphysical poets                                         !!!!</l>
-                        <l n="33">[blank]        114     Their greatest triumphs    ‘The Extasie" or To his Coy Mistress.</l>
-                        <l n="34">[blank]                                                                                                                    . . . . </l>
-                        <l n="35">[blank]        115     E  Dickinson: She has not his <add>E’s</add> range as a social</l>
-                        <l n="36">[blank]               critic but her best poems display an excruciated awareness of the<quote rend="end"/> </l>
+                        <l n="09">[blank]        109     Browne’s preoccupation is <del>w the</del> not w fresh beginnings, but</l>
+                        <l n="10">[blank]                   w <del>the closeness of both worlds to eternity</del> . . . not with</l>
+                        <l n="11">[blank]                   the presentness of the past but, but w the closeness of both to</l>
+                        <l n="12">[blank]                   eternity.</l>
+                        <l n="13">[blank]                  <del>The Mingling of Walden &amp; Ganges</del>      Man Thinking</l>
+                        <l n="14">[blank]        112           the verses from Daniel that Thoreau quoted near the end of the The <hi rend="underline">Week</hi> </l>
+                        <l n="15">[blank]                   were acc. to Channing—perhaps more freq on his lips</l>
+                        <l n="16">[blank]                   than any other lines:       <seg type="versebegin"/>Unless above himself he can</l>
+                        <l n="17">[blank]                                                          Erect himself, how poor a thing is man.<seg type="verseend"/> </l>
+                        <l n="18">[blank]                   They had been used by Coleridge with ‘above’ italicized to illustrate</l>
+                        <l n="19">[blank]                   one of his aphorisms in <del>a</del><hi rend="underline">Aids to Reflection</hi>. What C thus</l>
+                        <l n="20">[blank]                   emphasized was the poem’s expression of the need for humility;</l>
+                        <l n="21">[blank]                   for it still spoke in something of the spirit that actuated</l>
+                        <l n="22">[blank]                   St. B when he said We must retire inward if we would</l>
+                        <l n="23">[blank]                   ascend upward.’</l>
+                        <l n="24">[blank]        113     Herbert’s face was turned upward; E’s &amp; T’s faces inward.</l>
+                        <l n="25">[blank]</l>
+                        <l n="26">[blank]        113     E’s perception of the value of the <hi rend="underline">discordia concors</hi> </l>
+                        <l n="27">[blank]                   the yoking together of unlikes by a fresh &amp; vigorous mind—</l>
+                        <l n="28">[blank]                   was akin to that the modern poets who have reclaimed</l>
+                        <l n="29">[blank]                   some of the method of Donne.</l>
+                        <l n="30">[blank]                                   metaphysical poets                                         !!!!</l>
+                        <l n="31">[blank]        114     Their greatest triumphs    ‘The Extasie" or To his Coy Mistress.</l>
+                        <l n="32">[blank]                                                                                                                    . . . . </l>
+                        <l n="33">[blank]        115     E  Dickinson: She has not his <add>E’s</add> range as a social</l>
+                        <l n="34">[blank]               critic but her best poems display an excruciated awareness of the<quote rend="end"/> </l>
+                        <l n="35">[blank]</l>
+                        <l n="36">[blank]</l>
                         <l n="37">[blank]</l>
                         <l n="38">[blank]</l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v01">[vertical line]</l>
