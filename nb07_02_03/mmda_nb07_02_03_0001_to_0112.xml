@@ -4584,7 +4584,7 @@
                     <desc>[Page-level Description] &amp;lt;!An opening parenthesis in red pencil is
                         placed to the left of the text on lines 02-03. A vertical stroke in red
                         pencil is placed to the left of the text on lines 04-06. The underlining of
-                        line 13 is in red pencil. The underlining on line 27 is doubled with a wavy
+                        line 12 is in red pencil. The underlining on line 25 is doubled with a wavy
                         line.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                      293  <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note><quote rend="begin"/>our young friend's existence would create . . . very much</l>
@@ -4593,40 +4593,37 @@
                         <l n="04">[blank]                      295   There is fortunately something bracing, ever in the alpine</l>
                         <l n="05">[blank]                       <hi rend="pencilred">M</hi>     chill . . . shed by the cold editorial shoulder; sour grapes</l>
                         <l n="06">[blank]                                may at moments fairly intoxicate</l>
-                        <l n="07">[blank]</l>
-                        <l n="08">[blank]                      297   some acute mind ought to have worked out by this time the</l>
-                        <l n="09">[blank]                               “law” of the degree in which the artist’s energy . . . depends</l>
-                        <l n="10">[blank]                                 on his fallibility.</l>
-                        <l n="11">[blank]                       299   picture is jealous of drama, &amp; drama is suspicious of picture</l>
-                        <l n="12">[blank]                      300   Do I ever abandon one centre for another? . . . . .</l>
-                        <l n="13">[blank]                      302  | <hi rend="underline">As every novelist knows it is difficulty that inspires</hi> </l>
-                        <l n="14">[blank]                              <add>(In</add> </l>
-                        <l n="15">[blank]                      302   'The latter half . . . . the illusion of mass without the illusion</l>
-                        <l n="16">[blank]                                                                                    <add>profit of the</add> </l>
-                        <l n="17">[blank]                                of extent . . . . (a lesson for the budding artist.)</l>
-                        <l n="18">[blank]</l>
-                        <l n="19">[blank]                      304   The enjoyment of a work of art . . . . is not greatest</l>
-                        <l n="20">[blank]                                . . . where the work asks for as little attention as possible.</l>
-                        <l n="21">[blank]                      306   I go but a little way w. the direct [image]—that is</l>
-                        <l n="22">[blank]                                with the straight exhibition of Milly; . . . . watching</l>
-                        <l n="23">[blank]                                her through the successive windows of other people’s</l>
-                        <l n="24">[blank]                                interest in her. <hi rend="pencilred">[</hi>So if we talk of princesses, do the balconies</l>
-                        <l n="25">[blank]                                opposite the palace gates . . . rak<add><hi rend="pencil">e</hi></add> from afar the mystic</l>
-                        <l n="26">[blank]                        <hi rend="pencilred">M</hi>    figure in the gilded coach as it comes forth from </l>
-                        <l n="27">[blank]                                the great <hi rend="underline">place</hi>.<hi rend="pencilred">]</hi></l>
-                        <l n="28">[blank]</l>
-                        <l n="29">[blank]                      307              The Ambassadors      N. Amer Rev. 1903</l>
-                        <l n="30">[blank]                                 <add>The whole case . . . is in</add> </l>
-                        <l n="31">[blank]                                 Lambert Strethers’s outbreak to little Bilham . . . . . </l>
-                        <l n="32">[blank]                                "Live all you can; it is a mistake not to . . . "</l>
+                        <l n="07">[blank]                      297   some acute mind ought to have worked out by this time the</l>
+                        <l n="08">[blank]                               “law” of the degree in which the artist’s energy . . . depends</l>
+                        <l n="09">[blank]                                 on his fallibility.</l>
+                        <l n="10">[blank]                       299   picture is jealous of drama, &amp; drama is suspicious of picture</l>
+                        <l n="11">[blank]                      300   Do I ever abandon one centre for another? . . . . .</l>
+                        <l n="12">[blank]                      302  | <hi rend="underline">As every novelist knows it is difficulty that inspires</hi> </l>
+                        <l n="13">[blank]                              <add>(In</add> </l>
+                        <l n="14">[blank]                      302   'The latter half . . . . the illusion of mass without the illusion</l>
+                        <l n="15">[blank]                                                                                    <add>profit of the</add> </l>
+                        <l n="16">[blank]                                of extent . . . . (a lesson for the budding artist.)</l>
+                        <l n="17">[blank]                      304   The enjoyment of a work of art . . . . is not greatest</l>
+                        <l n="18">[blank]                                . . . where the work asks for as little attention as possible.</l>
+                        <l n="19">[blank]                      306   I go but a little way w. the direct [image]—that is</l>
+                        <l n="20">[blank]                                with the straight exhibition of Milly; . . . . watching</l>
+                        <l n="21">[blank]                                her through the successive windows of other people’s</l>
+                        <l n="22">[blank]                                interest in her. <hi rend="pencilred">[</hi>So if we talk of princesses, do the balconies</l>
+                        <l n="23">[blank]                                opposite the palace gates . . . rak<add><hi rend="pencil">e</hi></add> from afar the mystic</l>
+                        <l n="24">[blank]                        <hi rend="pencilred">M</hi>    figure in the gilded coach as it comes forth from </l>
+                        <l n="25">[blank]                                the great <hi rend="underline">place</hi>.<hi rend="pencilred">]</hi></l>
+                        <l n="26">[blank]</l>
+                        <l n="27">[blank]                      307              The Ambassadors      N. Amer Rev. 1903</l>
+                        <l n="28">[blank]                                 <add>The whole case . . . is in</add> </l>
+                        <l n="29">[blank]                                 Lambert Strethers’s outbreak to little Bilham . . . . . </l>
+                        <l n="30">[blank]                                "Live all you can; it is a mistake not to . . . "</l>
+                        <l n="31">[blank]                      309   there are degrees of merit in subjects—<quote rend="end"/> </l>
+                        <l n="32">[blank]</l>
                         <l n="33">[blank]</l>
-                        <l n="34">[blank]                      309   there are degrees of merit in subjects—<quote rend="end"/> </l>
+                        <l n="34">[blank]                      </l>
                         <l n="35">[blank]</l>
                         <l n="36">[blank]</l>
-                        <l n="37">[blank]                      </l>
-                        <l n="38">[blank]</l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
+                        <l n="37">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v01">[vertical line]</l>
@@ -4641,50 +4638,47 @@
             <div type="image" xml:id="nb07_02_03_0080_text">
                 <div type="page" n="v.0080" xml:id="nb07_02_03_0080_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0080-verso.jpeg" n="0080-verso"/>
-                    <desc>[Page-level Description] &amp;lt;!The underlining in lines 08, 12, 17, and
-                        28 are doubled with a wavy line. The underlining of line 16 has four dots
+                    <desc>[Page-level Description] &amp;lt;!The underlining in lines 06, 10, 15, and
+                        25 are doubled with a wavy line. The underlining of line 14 has four dots
                         beneath it.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                                <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note><quote rend="begin"/>I am able to estimate</l>
                         <l n="02">[blank]                      309  The Ambassadors as . . . quite the best, “all round,” of my productions</l>
-                        <l n="03">[blank]</l>
-                        <l n="04">[blank]                      312   the artist sows his seed at the risk of too thick a crop;</l>
-                        <l n="05">[blank]                          . . . yet must keep his head at any price.</l>
-                        <l n="06">[blank]</l>
-                        <l n="07">[blank]                     320   The first person in the long piece is a form foredoomed to looseness,</l>
-                        <l n="08">[blank]                     320   I couldn’t make other people tell <hi rend="underline">each other</hi> about him, blest</l>
-                        <l n="09">[blank]                                resource, blest necessity, of the drama which reaches its</l>
-                        <l n="10">[blank]                                effects of unity . . . by paths . . . opposite to the paths of the</l>
-                        <l n="11">[blank]                               novel:</l>
-                        <l n="12">[blank]                      321   I could make him tell <hi rend="underline">them</hi> whatever . . . . he must;</l>
-                        <l n="13">[blank]                                          <add>equip him w the privilege of</add> </l>
-                        <l n="14">[blank]                      321   Why not <add>‸</add> subject &amp; object . . . . as in Gil Blas &amp; D. Copperfield</l>
-                        <l n="15">[blank]                                                                                               <add>. . . . . . .</add> </l>
-                        <l n="16">[blank]                                only if prepared <hi rend="underline">not</hi> to make certain discriminations.</l>
-                        <l n="17">[blank]                      321   conditions that forbid the terrible <hi rend="underline">fluidity</hi> of self-revelation</l>
-                        <l n="18">[blank]                                . . . I had thus to set him up a confidant or two.</l>
-                        <l n="19">[blank]</l>
-                        <l n="20">[blank]                      322   Maria Gostrey . without pretext of her being Strether’s</l>
-                        <l n="21">[blank]                                friend. She is the reader’s friend much rather . . </l>
-                        <l n="22">[blank]                                . . . fr beginning to end of the book. <del>. . .</del>  She is an</l>
-                        <l n="23">[blank]                                enrolled, a direct, aid to lucidity . . . .</l>
-                        <l n="24">[blank]                                                                                                                                 <add>. . . . . . .</add> </l>
-                        <l n="25">[blank]                      324   how make Miss Gostrey’s false connexion carry itself as a</l>
-                        <l n="26">[blank]                                real one.</l>
-                        <l n="27">[blank]                           <add>Since however</add> </l>
-                        <l n="28">[blank]                      324   All art is <hi rend="underline">expression</hi>, &amp; is thereby vividness, . . .</l>
+                        <l n="03">[blank]                      312   the artist sows his seed at the risk of too thick a crop;</l>
+                        <l n="04">[blank]                          . . . yet must keep his head at any price.</l>
+                        <l n="05">[blank]                     320   The first person in the long piece is a form foredoomed to looseness,</l>
+                        <l n="06">[blank]                     320   I couldn’t make other people tell <hi rend="underline">each other</hi> about him, blest</l>
+                        <l n="07">[blank]                                resource, blest necessity, of the drama which reaches its</l>
+                        <l n="08">[blank]                                effects of unity . . . by paths . . . opposite to the paths of the</l>
+                        <l n="09">[blank]                               novel:</l>
+                        <l n="10">[blank]                      321   I could make him tell <hi rend="underline">them</hi> whatever . . . . he must;</l>
+                        <l n="11">[blank]                                          <add>equip him w the privilege of</add> </l>
+                        <l n="12">[blank]                      321   Why not <add>‸</add> subject &amp; object . . . . as in Gil Blas &amp; D. Copperfield</l>
+                        <l n="13">[blank]                                                                                               <add>. . . . . . .</add> </l>
+                        <l n="14">[blank]                                only if prepared <hi rend="underline">not</hi> to make certain discriminations.</l>
+                        <l n="15">[blank]                      321   conditions that forbid the terrible <hi rend="underline">fluidity</hi> of self-revelation</l>
+                        <l n="16">[blank]                                . . . I had thus to set him up a confidant or two.</l>
+                        <l n="17">[blank]                      322   Maria Gostrey . without pretext of her being Strether’s</l>
+                        <l n="18">[blank]                                friend. She is the reader’s friend much rather . . </l>
+                        <l n="19">[blank]                                . . . fr beginning to end of the book. <del>. . .</del>  She is an</l>
+                        <l n="20">[blank]                                enrolled, a direct, aid to lucidity . . . .</l>
+                        <l n="21">[blank]                                                                                                                                 <add>. . . . . . .</add> </l>
+                        <l n="22">[blank]                      324   how make Miss Gostrey’s false connexion carry itself as a</l>
+                        <l n="23">[blank]                                real one.</l>
+                        <l n="24">[blank]                           <add>Since however</add> </l>
+                        <l n="25">[blank]                      324   All art is <hi rend="underline">expression</hi>, &amp; is thereby vividness, . . .</l>
+                        <l n="26">[blank]</l>
+                        <l n="27">[blank]                      326   the Novel remains . . . the most independent, most elastic,</l>
+                        <l n="28">[blank]                                most prodigious of literary forms<quote rend="end"/> . .</l>
                         <l n="29">[blank]</l>
-                        <l n="30">[blank]                      326   the Novel remains . . . the most independent, most elastic,</l>
-                        <l n="31">[blank]                                most prodigious of literary forms<quote rend="end"/> . .</l>
+                        <l n="30">[blank]</l>
+                        <l n="31">[blank]</l>
                         <l n="32">[blank]</l>
                         <l n="33">[blank]</l>
                         <l n="34">[blank]</l>
                         <l n="35">[blank]</l>
                         <l n="36">[blank]</l>
                         <l n="37">[blank]</l>
-                        <l n="38">[blank]</l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v01">[vertical line]</l>
@@ -4700,10 +4694,10 @@
                 <div type="page" n="r.0081" xml:id="nb07_02_03_0081_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0081-recto.jpeg" n="0081-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 03-05 and 09-10
-                        is in red pencil. The underlining in lines 13 and 22 is doubled with a wavy
+                        is in red pencil. The underlining in lines 12 and 20 is doubled with a wavy
                         line. MM places a vertical bar to the left of the text on lines 09-10. She
                         places a left square bracket in red pencil to the left of the text on lines
-                        26-29!&amp;gt;</desc>
+                        24-27!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                                  <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note><quote rend="begin"/>Preface to The Golden Bowl XXIII in NY ed.</l>
                         <l n="02">[blank]                  327   I have . . . betrayed as an accepted habit, . . . my preference for</l>
@@ -4716,35 +4710,31 @@
                         <l n="09">[blank]                            of this person’s access to it &amp; estimate of <hi rend="underline">it contrib</hi>-</l>
                         <l n="10">[blank]                            <hi rend="underline">uting thus . . . . intensification of interest</hi></l>
                         <l n="11">[blank]                            The somebody is often, . . . but an unwarranted participant,</l>
-                        <l n="12">[blank]</l>
-                        <l n="13">[blank]                  328   the case <hi rend="underline">plus</hi> some near individual view of it;</l>
-                        <l n="14">[blank]</l>
-                        <l n="15">[blank]                            . . . the (author) . . . chanter can never be responsible <hi rend="underline">enough</hi> </l>
-                        <l n="16">[blank]                                          <add>painter</add> </l>
-                        <l n="17">[blank]                  330   It is the Prince who opens the door to half our light upon</l>
-                        <l n="18">[blank]                            Maggie, just as it is she who opens it to half our light upon</l>
-                        <l n="19">[blank]                            himself;</l>
-                        <l n="20">[blank]                       <add>our series of frontispieces</add> </l>
-                        <l n="21">[blank]                  332   <del>the illustrations</del>. Anything that relieves responsible prose</l>
-                        <l n="22">[blank]                            of the duty of being . . . —good enough <add>. . . . .</add> <hi rend="underline">in itself</hi>    does it</l>
-                        <l n="23">[blank]                            the worst of services . . . . They were to remain at the</l>
-                        <l n="24">[blank]                            most small pictures of our “set” stage with the actors left</l>
-                        <l n="25">[blank]                             out; . . . —the street scenery of London—</l>
-                        <l n="26">[blank]                   337   tidying-up of the uncanny brood . . . . [the novels]</l>
-                        <l n="27">[blank]                     <hi rend="pencilred">M</hi>    the rapid flash of an anxious needle . . . . ; all in</l>
-                        <l n="28">[blank]                            consideration of the searching radiance of drawing-room</l>
-                        <l n="29">[blank]                            lamps as compared with nursery candles.</l>
-                        <l n="30">[blank]</l>
-                        <l n="31">[blank]                  338   To revise is to see, or to look over, again—</l>
+                        <l n="12">[blank]                  328   the case <hi rend="underline">plus</hi> some near individual view of it;</l>
+                        <l n="13">[blank]                            . . . the (author) . . . chanter can never be responsible <hi rend="underline">enough</hi> </l>
+                        <l n="14">[blank]                                          <add>painter</add> </l>
+                        <l n="15">[blank]                  330   It is the Prince who opens the door to half our light upon</l>
+                        <l n="16">[blank]                            Maggie, just as it is she who opens it to half our light upon</l>
+                        <l n="17">[blank]                            himself;</l>
+                        <l n="18">[blank]                       <add>our series of frontispieces</add> </l>
+                        <l n="19">[blank]                  332   <del>the illustrations</del>. Anything that relieves responsible prose</l>
+                        <l n="20">[blank]                            of the duty of being . . . —good enough <add>. . . . .</add> <hi rend="underline">in itself</hi>    does it</l>
+                        <l n="21">[blank]                            the worst of services . . . . They were to remain at the</l>
+                        <l n="22">[blank]                            most small pictures of our “set” stage with the actors left</l>
+                        <l n="23">[blank]                             out; . . . —the street scenery of London—</l>
+                        <l n="24">[blank]                   337   tidying-up of the uncanny brood . . . . [the novels]</l>
+                        <l n="25">[blank]                     <hi rend="pencilred">M</hi>    the rapid flash of an anxious needle . . . . ; all in</l>
+                        <l n="26">[blank]                            consideration of the searching radiance of drawing-room</l>
+                        <l n="27">[blank]                            lamps as compared with nursery candles.</l>
+                        <l n="28">[blank]                  338   To revise is to see, or to look over, again—</l>
+                        <l n="29">[blank]                  339   the immense array of terms, perceptional &amp; expressional, . . .</l>
+                        <l n="30">[blank]                            like alert winged creatures, perched on those diminished</l>
+                        <l n="31">[blank]                            summits and aspired to a clearer air.</l>
                         <l n="32">[blank]</l>
-                        <l n="33">[blank]                  339   the immense array of terms, perceptional &amp; expressional, . . .</l>
-                        <l n="34">[blank]                            like alert winged creatures, perched on those diminished</l>
-                        <l n="35">[blank]                            summits and aspired to a clearer air.</l>
+                        <l n="33">[blank]                  339   these intenser lights of experience—<quote rend="end"/> </l>
+                        <l n="34">[blank]</l>
+                        <l n="35">[blank]</l>
                         <l n="36">[blank]</l>
-                        <l n="37">[blank]                  339   these intenser lights of experience—<quote rend="end"/> </l>
-                        <l n="38">[blank]</l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v01">[vertical line]</l>
@@ -4759,51 +4749,48 @@
             <div type="image" xml:id="nb07_02_03_0082_text">
                 <div type="page" n="v.0082" xml:id="nb07_02_03_0082_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0082-verso.jpeg" n="0082-verso"/>
-                    <desc>[Page-level Description] &amp;lt;!The underlining of lines 05, 06, 27,
-                        29-31, 36 and 37 is in red pencil. In line 06 the "is" in red pencil is
-                        overwritten in regular pencil. The underlining in lines 13 and 17 is doubled
+                    <desc>[Page-level Description] &amp;lt;!The underlining of lines 04, 05,
+                        24, 26-28, 33 and 34 is in red pencil. In line 05 the "is" in red pencil is
+                        overwritten in regular pencil. The underlining in lines 11 and 14 is doubled
                         with a wavy line.!&amp;gt; </desc>
                     <lg>
                         <l n="01">[blank]                     340   <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note><quote rend="begin"/>to linger . . . . is in a manner to retrace the whole </l>
                         <l n="02">[blank] <hi rend="pencil">linger</hi>                    growth of                                                         one's “taste” . . . . </l>
                         <l n="03">[blank]                                The “Taste” of the poet is . . . his active sense of life.</l>
-                        <l n="04">[blank]</l>
-                        <l n="05">[blank]                                The seer . . . is <hi rend="underline">the “poet”</hi> whatever his form.</l>
-                        <l n="06">[blank]                        <hi rend="underline"><hi rend="pencilred">is the</hi> (see-er)</hi> </l>
-                        <l n="07">[blank]                                his impulse &amp; passion are general &amp; comprehensive . . . . </l>
-                        <l n="08">[blank]                                a provision . . . that makes but a mouthful of so minor</l>
-                        <l n="09">[blank]                                a distinction . . . as that between verse &amp; prose.</l>
-                        <l n="10">[blank]</l>
-                        <l n="11">[blank]                      342   criticism was to find . . . arrests and surprises, emotions . . . of</l>
-                        <l n="12">[blank]                               disappointment &amp; of elation . . . all of which means that the</l>
-                        <l n="13">[blank]                                whole thing was a <hi rend="underline">living</hi> affair.                                    <add>. . .</add> </l>
-                        <l n="14">[blank]</l>
-                        <l n="15">[blank]                      345   I have prayed that the finer air of the better form may ∴ seem</l>
-                        <l n="16">[blank]                                to hang about them &amp; gild them over—at least for readers,</l>
-                        <l n="17">[blank]                                however few, <del><unclear>—</unclear></del>at all <hi rend="underline">curious</hi> of questions of air and form—</l>
-                        <l n="18">[blank]                                                                                            <add>own</add> </l>
-                        <l n="19">[blank]                      345   The prime consequence on one's own part of reperusal is a</l>
-                        <l n="20">[blank]                                sense for ever so many more of the shining silver fish afloat</l>
-                        <l n="21">[blank]                                in the deep sea of one’s endeavour than the net of widest</l>
-                        <l n="22">[blank]                                casting could pretend to gather in;</l>
-                        <l n="23">[blank]                                we may traverse                               acres of . . . prose from which</l>
-                        <l n="24">[blank]                      346   the touch that operates <del>of</del> for closeness &amp; for charm, for</l>
-                        <l n="25">[blank]                                conviction &amp; illusion, for communication in a word, is</l>
-                        <l n="26">[blank]                                unsurpassably absent.</l>
-                        <l n="27">[blank]                                [we are talking] of the mind <hi rend="underline">led captive by a charm &amp; a spell</hi>,</l>
-                        <l n="28">[blank]</l>
-                        <l n="29">[blank]                       347   as the <hi rend="underline">whole conduct of life consists of things done, which</hi> </l>
-                        <l n="30">[blank]                                <hi rend="underline">do other things in their turn, just so our behaviour</hi> </l>
-                        <l n="31">[blank]                                and <hi rend="underline">its fruits are essentially one &amp; continuous</hi> &amp; </l>
-                        <l n="32">[blank]                                persistent &amp; unquenchable,</l>
-                        <l n="33">[blank]                                           <add>the</add>           <add>. . .</add> </l>
-                        <l n="34">[blank]                      348   (on all ground<del>s</del>) there reigns one sovereign truth— . . .</l>
-                        <l n="35">[blank]                                      <add>omit</add>                                  <add>[able to be an example]</add> </l>
-                        <l n="36">[blank]                                <del>that is</del> art is nothing if not exemplary   <hi rend="underline">care</hi> nothing </l>
-                        <l n="37">[blank]                                if not active, <hi rend="underline">finish</hi> nothing if not consistent,  <del>the</del> <quote rend="end"/> </l>
-                        <l n="38">[blank]</l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
+                        <l n="04">[blank]                                The seer . . . is <hi rend="underline">the “poet”</hi> whatever his form.</l>
+                        <l n="05">[blank]                        <hi rend="underline"><hi rend="pencilred">is the</hi> (see-er)</hi> </l>
+                        <l n="06">[blank]                                his impulse &amp; passion are general &amp; comprehensive . . . . </l>
+                        <l n="07">[blank]                                a provision . . . that makes but a mouthful of so minor</l>
+                        <l n="08">[blank]                                a distinction . . . as that between verse &amp; prose.</l>
+                        <l n="09">[blank]                      342   criticism was to find . . . arrests and surprises, emotions . . . of</l>
+                        <l n="10">[blank]                               disappointment &amp; of elation . . . all of which means that the</l>
+                        <l n="11">[blank]                                whole thing was a <hi rend="underline">living</hi> affair.                                    <add>. . .</add> </l>
+                        <l n="12">[blank]                      345   I have prayed that the finer air of the better form may ∴ seem</l>
+                        <l n="13">[blank]                                to hang about them &amp; gild them over—at least for readers,</l>
+                        <l n="14">[blank]                                however few, <del><unclear>—</unclear></del>at all <hi rend="underline">curious</hi> of questions of air and form—</l>
+                        <l n="15">[blank]                                                                                            <add>own</add> </l>
+                        <l n="16">[blank]                      345   The prime consequence on one's own part of reperusal is a</l>
+                        <l n="17">[blank]                                sense for ever so many more of the shining silver fish afloat</l>
+                        <l n="18">[blank]                                in the deep sea of one’s endeavour than the net of widest</l>
+                        <l n="19">[blank]                                casting could pretend to gather in;</l>
+                        <l n="20">[blank]                                we may traverse                               acres of . . . prose from which</l>
+                        <l n="21">[blank]                      346   the touch that operates <del>of</del> for closeness &amp; for charm, for</l>
+                        <l n="22">[blank]                                conviction &amp; illusion, for communication in a word, is</l>
+                        <l n="23">[blank]                                unsurpassably absent.</l>
+                        <l n="24">[blank]                                [we are talking] of the mind <hi rend="underline">led captive by a charm &amp; a spell</hi>,</l>
+                        <l n="25">[blank]</l>
+                        <l n="26">[blank]                       347   as the <hi rend="underline">whole conduct of life consists of things done, which</hi> </l>
+                        <l n="27">[blank]                                <hi rend="underline">do other things in their turn, just so our behaviour</hi> </l>
+                        <l n="28">[blank]                                and <hi rend="underline">its fruits are essentially one &amp; continuous</hi> &amp; </l>
+                        <l n="29">[blank]                                persistent &amp; unquenchable,</l>
+                        <l n="30">[blank]                                           <add>the</add>           <add>. . .</add> </l>
+                        <l n="31">[blank]                      348   (on all ground<del>s</del>) there reigns one sovereign truth— . . .</l>
+                        <l n="32">[blank]                                      <add>omit</add>                                  <add>[able to be an example]</add> </l>
+                        <l n="33">[blank]                                <del>that is</del> art is nothing if not exemplary   <hi rend="underline">care</hi> nothing </l>
+                        <l n="34">[blank]                                if not active, <hi rend="underline">finish</hi> nothing if not consistent,  <del>the</del> <quote rend="end"/> </l>
+                        <l n="35">[blank]</l>
+                        <l n="36">[blank]</l>
+                        <l n="37">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v01">[vertical line]</l>
