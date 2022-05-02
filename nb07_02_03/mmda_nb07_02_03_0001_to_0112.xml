@@ -3364,7 +3364,6 @@
                     <desc>[Page-level Description] &amp;lt;!MM draws a vertical bar in pencil to the
                         left of the text on lines 10-11. The underlining of line 32 is doubled with
                         a wavy line.!&amp;gt;</desc>
-                    <lg>
                         <lg>
                             <l n="01">[blank]                    42                 <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note><quote rend="begin"/>Turgenieff in regard to his own experience of the origin </l>
                             <l n="02">[blank]                              of the fictive                              picture. It began</l>
@@ -3373,14 +3372,7 @@
                             <l n="05">[blank] <hi rend="pencil"><seg type="prose">origin of</seg></hi>                   (wind-blown germs) They are . . . floated into our minds</l>
                             <l n="06">[blank] <hi rend="pencil"><seg type="prose">a subject</seg></hi>            by the current of life . . . . the stray figure, the unattached</l>
                             <l n="07">[blank]                             character.</l>
-                        </lg>
-                    </lg>
-                    <lg>
-                        <lg>
                             <l n="08">[blank]                     44      I was myself so much more antecedently conscious of my figures</l>
-                        </lg>
-                    </lg>
-                    <lg>
                         <l n="09">[blank]                             than my setting—</l>
                         <l n="10">[blank]                     45   . . . . this enveloping air of the artist's humanity . . . . . gives</l>
                         <l n="11">[blank]                            the last touch to the worth of the <del>book</del> work . . . . . </l>
@@ -3555,29 +3547,27 @@
                         <l n="15">[blank]                          in the very presence of the revealed and assured; but</l>
                         <l n="16">[blank]                          that <hi rend="underline">if you are so armed you are not really helpless,</hi> </l>
                         <l n="17">[blank]                          . . . . <hi rend="underline">even before mysteries abysmal</hi> </l>
-                        <l n="18">[blank]</l>
-                        <l n="19">[blank]                  79   P. to the Tragic Muse      Vol VII in NY edition</l>
-                        <l n="20">[blank]                          . . . some dramatic picture of the “artist-life” &amp; of the difficult terms</l>
-                        <l n="21">[blank]                          on which it is at the best secured &amp; enjoyed . . . . of its having</l>
-                        <l n="22">[blank]                          to be not altogether easily paid for.</l>
-                        <l n="23">[blank]</l>
-                        <l n="24">[blank]                          the conflict between art and “the world striking me thus</l>
-                        <l n="25">[blank]                          betimes as one of the half-dozen great primary motives.</l>
-                        <l n="26">[blank]                  84   A picture without composition slights its most</l>
-                        <l n="27">[blank]                          precious chance for beauty, . . . . There may in its absence</l>
-                        <l n="28">[blank]                          be life, . . . as <hi rend="underline">The Newcomes</hi> has life, as Les Trois</l>
-                        <l n="29">[blank]                          Mousquetaires, Tolstoi’s Peace &amp; War, have it.</l>
-                        <l n="30">[blank]                                                                                                          <add>artistically</add> </l>
-                        <l n="31">[blank]                          but what do such large loose baggy monsters  <hi rend="underline">mean</hi>?</l>
-                        <l n="32">[blank]                                                                  <hi rend="pencil"><add>organic</add></hi> </l>
-                        <l n="33">[blank]                          . . . I delight in . . . an organic form.</l>
-                        <l n="34">[blank]                          (my work threatened to masquerade as)</l>
-                        <l n="35">[blank]                   . . . an active figure condemned to the disgrace of legs</l>
-                        <l n="36">[blank]                          too short . . . for its body.</l>
-                        <l n="37">[blank]                     . . . in very few of my productions, to my eye, has</l>
-                        <l n="38">[blank]                          the organic centre succeeded in getting into the proper position<quote rend="end"/> </l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
+                        <l n="18">[blank]                  79   P. to the Tragic Muse      Vol VII in NY edition</l>
+                        <l n="19">[blank]                          . . . some dramatic picture of the “artist-life” &amp; of the difficult terms</l>
+                        <l n="20">[blank]                          on which it is at the best secured &amp; enjoyed . . . . of its having</l>
+                        <l n="21">[blank]                          to be not altogether easily paid for.</l>
+                        <l n="22">[blank]                          the conflict between art and “the world striking me thus</l>
+                        <l n="23">[blank]                          betimes as one of the half-dozen great primary motives.</l>
+                        <l n="24">[blank]                  84   A picture without composition slights its most</l>
+                        <l n="25">[blank]                          precious chance for beauty, . . . . There may in its absence</l>
+                        <l n="26">[blank]                          be life, . . . as <hi rend="underline">The Newcomes</hi> has life, as Les Trois</l>
+                        <l n="27">[blank]                          Mousquetaires, Tolstoi’s Peace &amp; War, have it.</l>
+                        <l n="28">[blank]                                                                                                          <add>artistically</add> </l>
+                        <l n="29">[blank]                          but what do such large loose baggy monsters  <hi rend="underline">mean</hi>?</l>
+                        <l n="30">[blank]                                                                  <hi rend="pencil"><add>organic</add></hi> </l>
+                        <l n="31">[blank]                          . . . I delight in . . . an organic form.</l>
+                        <l n="32">[blank]                          (my work threatened to masquerade as)</l>
+                        <l n="33">[blank]                   . . . an active figure condemned to the disgrace of legs</l>
+                        <l n="34">[blank]                          too short . . . for its body.</l>
+                        <l n="35">[blank]                     . . . in very few of my productions, to my eye, has</l>
+                        <l n="36">[blank]                          the organic centre succeeded in getting into the proper position<quote rend="end"/> </l>
+                        <l n="37">[blank]</l>
+                        <l n="38">[blank]</l>
                     </lg>
                     <lg type="vertical">
                         <l n="v01">[vertical line]</l>
@@ -3681,8 +3671,8 @@
                         <l n="28">[blank]                                                    <add>still</add> </l>
                         <l n="29">[blank]                      . . .  . . . but it may be said of the French . . . . that their social scheme</l>
                         <l n="30">[blank]                      absolutely provides against awkwardness.</l>
-                        <l n="31">[blank]</l>
-                        <l n="32">[blank]   103  <add>France</add> It would be awkward beyond any patching-up . . for the hovering</l>
+                        <l n="31">[blank]            <add>France</add> </l>
+                        <l n="32">[blank]   103            It would be awkward beyond any patching-up . . for the hovering</l>
                         <l n="33">[blank]                      female young to be conceived of as present at “good” talk that their</l>
                         <l n="34">[blank]                      presence is, theoretically at least, not permitted till their youth has been</l>
                         <l n="35">[blank]                      properly corrected by marriage . . . . . .</l>
