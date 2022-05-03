@@ -3459,7 +3459,7 @@
                         <l n="39">[blank]</l>
                     </lg>
                     <lg type="vertical">
-                        <l n="v01">[vertical line] &amp;lt;!desc: lines36-27, left margin, to right of page number on line 32!&amp;gt;split bet. form &amp; content</l>
+                        <l n="v01">[vertical line] &amp;lt;!desc: lines 35-27, left margin, to right of page number on line 32!&amp;gt;split bet. form &amp; content</l>
                         <l n="v02">[vertical line]</l>
                         <l n="v03">[vertical line]</l>
                         <l n="v04">[vertical line]</l>
@@ -4321,7 +4321,7 @@
             <div type="image" xml:id="nb07_02_03_0188_text">
                 <div type="page" n="v.0188" xml:id="nb07_02_03_0188_verso_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0188-verso.jpeg" n="0188-verso"/>
-                    <desc>[Page-level Description] &amp;lt;!MM draws a bold vertical barafter the
+                    <desc>[Page-level Description] &amp;lt;!MM draws a bold vertical bar after the
                         right marginal note and before the text on lines 15-17.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                       <quote rend="begin"/><note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note). </note>the inspiration of ale, &amp; just as real as if some giant had</l>
@@ -4984,7 +4984,7 @@
                         <l n="16">[blank]                  illus. . . . in Emerson Thoreau, &amp; Whitman.<quote rend="end"/> </l>
                         <l n="17">[blank]</l>
                         <l n="18">[blank]                   <bibl type="begin"/>Music in the Middle Ages.     Gustave Reese        WW Norton </l>
-                        <l n="19">[blank]                          1940<bibl type="end"/><note>Reese, Gustave. <hi rend="italics">Music in the Middle Ages</hi> (New York: Norton, 1940).</note> <note>Reese, Gustave [1899-1977]. American musicologist at New York University. </note>   70 Fifth Ave.</l>
+                        <l n="19">[blank]                          1940<bibl type="end"/><note>Reese, Gustave. <hi rend="italics">Music in the Middle Ages</hi>. New York: Norton, 1940.</note> <note>Reese, Gustave [1899-1977]. American musicologist at New York University. </note>   70 Fifth Ave.</l>
                         <l n="20">[blank]</l>
                         <l n="21">[blank]                        p. 234 <quote rend="begin"/>Walther von der Vogelweide.     Example 57. <foreign xml:lang="de">Palästinalied</foreign></l>
                         <l n="22">[blank]                                                              <seg type="versebegin"/>Life’s true worth at last beginneth,</l>
@@ -5034,7 +5034,7 @@
                         <l n="06">[blank]                      The guitar reached Eng in the <del>13</del>th c.<quote rend="end"/> </l>
                         <l n="07">[blank]</l>
                         <l n="08">[blank]                        <bibl type="begin"/>AE Housman 1897-1936     Grant Richards      Ox U. Press </l>
-                        <l n="09">[blank]                                                                                                     1941<bibl type="end"/> <note>Richards, Grant. <hi rend="italics">Housman, 1897-1936</hi> (London: Oxford UP, 1941).</note><note>Housman, Alfred Edward [1859-1936]. English poet and classical scholar.</note><note>Richards, Grant [1872-1948]. Housman's English publisher.</note></l>
+                        <l n="09">[blank]                                                                                                     1941<bibl type="end"/> <note>Richards, Grant. <hi rend="italics">Housman, 1897-1936</hi>. London: Oxford UP, 1941.</note><note>Housman, Alfred Edward [1859-1936]. English poet and classical scholar.</note><note>Richards, Grant [1872-1948]. Housman's English publisher.</note></l>
                         <l n="10">[blank]           268    <quote rend="begin"/>Maurice Pollet: in a Questionnaire to Housman—</l>
                         <l n="11">[blank]                      Q. 3: Though the poems have been grouped according to a</l>
                         <l n="12">[blank]                      certain principle of unity, rather than one of chronology,</l>
@@ -5100,7 +5100,7 @@
                         <l n="16">[blank]                             <foreign xml:lang="de">Am Kreuzweg stand ich und seufzte;</foreign> </l>
                         <l n="17">[blank]                             <foreign xml:lang="de">Die Nacht war kalt und stumm.</foreign> </l>
                         <l n="18">[blank]                             <foreign xml:lang="de">Im Mondschein bewegte sich langsam</foreign> </l>
-                        <l n="19">[blank]                             <foreign xml:lang="de">Die Armesünderblüm'.</foreign> <note>"Lyrical Intermezzo [ . . . ] They buried him at the cross-roads, / Whose own hand wrought his doom; / And over him grow blue flowers / Called the ‘Poor-Sinner's Bloom.’ // I stand at the cross-roads sighing, / Wrapped in a cloak of gloom, / And watch the moonlight trembling / On the Poor-Sinner’s Bloom." From Heine's <hi rend="italics">Book of Songs</hi> (1827), typically referred to by the first line. Trans. Louis Untermeyer, <hi rend="italics">Poems of Heinrich Heine</hi> (New York: Harcourt Brace, 1923): 80.</note> </l>
+                        <l n="19">[blank]                             <foreign xml:lang="de">Die Armesünderblüm'.</foreign> <note>"Lyrical Intermezzo [ . . . ] They buried him at the cross-roads, / Whose own hand wrought his doom; / And over him grow blue flowers / Called the ‘Poor-Sinner's Bloom.’ // I stand at the cross-roads sighing, / Wrapped in a cloak of gloom, / And watch the moonlight trembling / On the Poor-Sinner’s Bloom." From Heine's <hi rend="italics">Book of Songs</hi> (1827), typically referred to by the first line. Louis Untermeyer, trans. <hi rend="italics">Poems of Heinrich Heine</hi> (New York: Harcourt Brace, 1923): 80.</note> </l>
                         <l n="20">[blank]         ASL  xxvii     I cheer a dead man’s sweetheart,</l>
                         <l n="21">[blank]                                     Never ask me whose.</l>
                         <l n="22">[blank]         recalls the ending of this poem by Heine:</l>
