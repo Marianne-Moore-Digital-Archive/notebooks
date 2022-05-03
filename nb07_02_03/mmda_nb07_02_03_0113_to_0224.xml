@@ -846,7 +846,7 @@
                         <l n="39">[blank]</l>
                     </lg>
                     <lg type="vertical">
-                        <l n="v01">[vertical line] &amp;lt;!desc: lines 18-17, left margin, to right of left curly bracket, written as 2 rows of script!&amp;gt;see p / 123</l>
+                        <l n="v01">[vertical line] &amp;lt;!desc: lines 17-16, left margin, to right of left curly bracket, written as 2 rows of script!&amp;gt;see p / 123</l>
                         <l n="v02">[vertical line]</l>
                         <l n="v03">[vertical line]</l>
                         <l n="v04">[vertical line]</l>
@@ -906,7 +906,7 @@
                         <l n="40">[blank]</l>
                     </lg>
                     <lg type="vertical">
-                        <l n="v01">[vertical line] &amp;lt;!desc: lines 28-24, left margin!&amp;gt;<hi rend="pencil">Sincerity</hi> </l>
+                        <l n="v01">[vertical line] &amp;lt;!desc: lines 27-24, left margin!&amp;gt;<hi rend="pencil">Sincerity</hi> </l>
                         <l n="v02">[vertical line]</l>
                         <l n="v03">[vertical line]</l>
                         <l n="v04">[vertical line]</l>
@@ -1000,7 +1000,7 @@
                         <l n="16">[blank]</l>
                         <l n="17">[blank]                                                       <bibl type="begin"/>(50 Selected Poems)                 1940 </l>
                         <l n="18">[blank]                                                Rainer Maria Rilke                U. of Calif. Press</l>
-                        <l n="19">[blank]                                          trans. by C F MacIntyre<bibl type="end"/> <note>Rilke, Rainer Maria. <hi rend="italics">Fifty Selected Poems</hi>. Trans. C. F. MacIntyre (Berkeley: U of California P, 1940).</note>  </l>
+                        <l n="19">[blank]                                          trans. by C F MacIntyre<bibl type="end"/> <note>Rilke, Rainer Maria. <hi rend="italics">Fifty Selected Poems</hi>. C. F. MacIntyre, trans. Berkeley: U of California P, 1940.</note>  </l>
                         <l n="20">[blank]</l>
                         <l n="21">[blank]                  21                 <seg type="versebegin"/> <quote rend="begin"/>The Knight                                                     <foreign xml:lang="de">Ritter</foreign> </l>
                         <l n="22">[blank]                           <foreign xml:lang="de"><del>Reitet der Ritter in schwarzem Stahl</del>             Reitet der Ritter in schwarzem Stahl</foreign> </l>
@@ -1191,7 +1191,7 @@
                         <l n="20">[blank]                               <add><foreign xml:lang="de">Elegien</foreign></add> </l>
                         <l n="21">[blank]                         translated fr. the German with an introd. &amp; commentary by JB Leishman</l>
                         <l n="22">[blank]</l>
-                        <l n="23">[blank]                             Hogarth Press    52 Tavistock Square W.C. 1    1938<bibl type="end"/> <note>Rilke, Rainer Maria. <hi rend="italics">Later Poems</hi>. Trans. with introduction and commentary by J.B. Leishman (London: Hogarth Press, 1938). </note> </l>
+                        <l n="23">[blank]                             Hogarth Press    52 Tavistock Square W.C. 1    1938<bibl type="end"/> <note>Rilke, Rainer Maria. <hi rend="italics">Later Poems</hi>. Trans. with introduction and commentary by J.B. Leishman. London: Hogarth Press, 1938. </note> </l>
                         <l n="24">[blank] <note>The following five books, headed "By the same author," appear on the verso facing the title page. </note>cf Poems tr. by JBL </l>
                         <l n="25">[blank]      The Duinese <hi rend="underline">Elegies The Original German</hi> w a verse trans by E &amp; V Sackville-</l>
                         <l n="26">[blank]                                                                      <add>1910</add>                                                               West </l>
@@ -1266,7 +1266,7 @@
                         <l n="36">[blank]</l>
                     </lg>
                     <lg type="vertical">
-                        <l n="v01">[vertical line] &amp;lt;!desc: lines 24-21, left margin!&amp;gt;<hi rend="pencil">ANGEL</hi> </l>
+                        <l n="v01">[vertical line] &amp;lt;!desc: lines 23-18, left margin!&amp;gt;<hi rend="pencil">ANGEL</hi> </l>
                         <l n="v02">[vertical line]</l>
                         <l n="v03">[vertical line]</l>
                         <l n="v04">[vertical line]</l>
@@ -1402,7 +1402,7 @@
                 <div type="page" n="r.0135" xml:id="nb07_02_03_0135_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0135-recto.jpeg" n="0135-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The text on the far right of lines 08-10
-                        is circled. The underlining of line 25 is doubled and emhpasized in bold.
+                        is circled. The underlining of line 25 is doubled and emphasized in bold.
                         The text on the left of lines 27-28, "Even / Philistine preface," is
                         contained within a line following the outline of two rectangular shapes. The
                         first underlining of line 31 is triple and the second is in
@@ -1439,7 +1439,7 @@
                         <l n="29">[blank] CHINA </l>
                         <l n="30">[blank] <quote rend="begin"/><hi rend="pencil">be gentle &amp; you can be</hi></l>
                         <l n="31">[blank]                                            bold<quote rend="end"/><note>In "We Will Walk Like the Tapir," MM writes: "'Be gentle and you can be bold' is an ancient Chinese saying." <hi rend="italics">The Nation</hi> 156 (19 June 1943): 866-67.</note> cf             no titles <seg type="prose">(cf. Cummings)</seg> <hi rend="underline">scant punctuation</hi> </l>
-                        <l n="32">[blank]                                                                                            <hi rend="pencil"><seg type="prose">rather helpful analogy w Cummings<note>Cummings, E. E. </note></seg></hi> </l>
+                        <l n="32">[blank]                                                                                            <hi rend="pencil"><seg type="prose">rather helpful analogy w Cummings </seg></hi> </l>
                         <l n="33">[blank] <quote rend="begin"/>Some of the writing is “bold as a brigand.”   </l>
                         <l n="34">[blank]        “Metaphor is her characteristic figure &amp; paradox" constitutional</l>
                         <l n="35">[blank]</l>
