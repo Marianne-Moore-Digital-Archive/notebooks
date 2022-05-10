@@ -1182,11 +1182,10 @@
                         <div type="image" xml:id="nb07_03_07_0021_text">
                 <div type="page" n="r.0021" xml:id="nb07_03_07_0021_recto_text">
                     <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_03_07_0021-recto.jpg" n="0021-recto"/>
-                    <desc>[Page-level Description]</desc>
-                    <lg>
+                    <desc>[Page-level Description] &amp;lt;!The underlining on line 26 is double.!&amp;gt;</desc><lg>
                         <l n="01">[blank]          Lord Bacon did much to beautify the garden</l>
                         <l n="02">[blank]          in Gray's Inn. "It is the purest of human pleasures</l>
-                        <l n="03">[blank]          —the greatest refreshment to the spirit of man."</l>
+                        <l n="03">[blank]       —the greatest refreshment to the spirit of man."</l>
                         <l n="04">[blank]          Charles Lamb calls the gardens of Gray's</l>
                         <l n="05">[blank]          Inn, "the best gardens of any in the Inns of Court,</l>
                         <l n="06">[blank]          my beloved temple not fogotten." (They are not</l>
@@ -1197,14 +1196,14 @@
                         <l n="11">[blank]          was done, my wife and I walked to Graye's Inn</l>
                         <l n="12">[blank]          to observe fashions of the ladies, because of my</l>
                         <l n="13">[blank]          wife's making some clothes."</l>
-                        <l n="14">[blank]          Bacon used 25 $ £. in two years laying out</l>
+                        <l n="14">[blank]          Bacon used 25 <del>$</del> £. in two years laying out</l>
                         <l n="15">[blank]          walks and planting "privet, tiolets, primroses, and</l>
-                        <l n="16">[blank]          vines." The total expenditure was for the Inn</l>
+                        <l n="16">[blank]          vines." The total expenditure <del>was</del> for the Inn</l>
                         <l n="17">[blank]          and garden, was 489 £!</l>
                         <l n="18">[blank]          Staple Inn is so called because, anciently, it was an</l>
-                        <l n="19">[blank]          exchange for wool merchants—staplers.</l>
+                        <l n="19">[blank]          exchange for wool merchants—<hi rend="underline">staplers</hi>.</l>
                         <l n="20">[blank] _________________________________________________</l>
-                        <l n="21">[blank]          August 20, 1916</l>
+                        <l n="21">[blank]          <hi rend="underline">August 20, 1916</hi> </l>
                         <l n="22">[blank]          Coleridge in "Work without hope".</l>
                         <l n="23">[blank]</l>
                         <l n="24">[blank]          "Work without hope draws nectar in a sieve,</l>
