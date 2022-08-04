@@ -4878,7 +4878,8 @@
             <surface xml:id="nb07_01_04_0121_surface">
                 <surface xml:id="nb07_01_04_0121_recto_surface">
                     <graphic
-                        url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0121-recto.jpeg"/>
+                        url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0121-recto.jpeg"
+                        width="2880px"/>
                     <zone xml:id="nb07_01_04_0121_recto_surface_line_01" lry="130" lrx="2800"
                         uly="40" ulx="225" rend="line"/>
                     <zone xml:id="nb07_01_04_0121_recto_surface_line_02" lry="220" lrx="1165"
@@ -4912,7 +4913,8 @@
             <surface xml:id="nb07_01_04_0122_surface">
                 <surface xml:id="nb07_01_04_0122_verso_surface">
                     <graphic
-                        url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0122-verso.jpeg"/>
+                        url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0122-verso.jpeg"
+                        width="2942px"/>
                     <zone xml:id="nb07_01_04_0122_verso_surface_line_01" lry="130" lrx="2745"
                         uly="55" ulx="45" rend="line"/>
                     <zone xml:id="nb07_01_04_0122_verso_surface_line_02" lry="235" lrx="2605"
@@ -4962,7 +4964,8 @@
             <surface xml:id="nb07_01_04_0123_surface">
                 <surface xml:id="nb07_01_04_0123_recto_surface">
                     <graphic
-                        url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0123-recto.jpeg"/>
+                        url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0123-recto.jpeg"
+                        width="2884px"/>
                     <zone xml:id="nb07_01_04_0123_recto_surface_line_01" lry="145" lrx="2825"
                         uly="20" ulx="80" rend="line"/>
                     <zone xml:id="nb07_01_04_0123_recto_surface_line_02" lry="245" lrx="2835"
@@ -5054,7 +5057,8 @@
             <surface xml:id="nb07_01_04_0125_surface">
                 <surface xml:id="nb07_01_04_0125_recto_surface">
                     <graphic
-                        url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0125-recto.jpeg"/>
+                        url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0125-recto.jpeg"
+                        width="2841px"/>
                     <zone xml:id="nb07_01_04_0125_recto_surface_line_01" lry="128" lrx="2776"
                         uly="23" ulx="233" rend="line"/>
                     <zone xml:id="nb07_01_04_0125_recto_surface_line_02" lry="223" lrx="2742"
@@ -5102,7 +5106,8 @@
             <surface xml:id="nb07_01_04_0126_surface">
                 <surface xml:id="nb07_01_04_0126_verso_surface">
                     <graphic
-                        url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0126-verso.jpeg"/>
+                        url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0126-verso.jpeg"
+                        width="2917px"/>
                     <zone xml:id="nb07_01_04_0126_verso_surface_line_01" lry="175" lrx="2115"
                         uly="90" ulx="210" rend="line"/>
                     <zone xml:id="nb07_01_04_0126_verso_surface_line_02" lry="285" lrx="2740"
@@ -5140,7 +5145,8 @@
             <surface xml:id="nb07_01_04_0127_surface">
                 <surface xml:id="nb07_01_04_0127_verso_surface">
                     <graphic
-                        url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0127-verso.jpeg"/>
+                        url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0127-verso.jpeg"
+                        width="1921px"/>
                     <zone xml:id="nb07_01_04_0127_verso_surface_line_01" lry="454" lrx="725"
                         uly="274" ulx="116" rend="line"/>
                 </surface>
@@ -5232,13 +5238,11 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0005-recto.jpeg"
                         n="0005-recto"/>
                     <lg>
-                        <l n="01">                                  Jan.</l>
+                        <l n="01">                                                                Jan.</l>
                         <l n="02">W L George <note type="glossary">George, Lionel Walter [1882-1926].
                         British author known for his popular fiction and writings on feminism.
-                        Author of The Intelligence of Woman (1916). </note>
-                     <bibl>                           Art of Courtship. Harper's
-                        1923</bibl><note>George, Lionel Walter. "The Art of Courtship." <hi rend="italic">Harper's Bazar</hi> (January 1923): 212-218.</note></l>
-                        <l n="03">                     (Generalizations on courtship)</l>
+                        Author of The Intelligence of Woman (1916).</note><bibl>    Art of Courtship.  Harper's 1923</bibl><note>George, Lionel Walter. "The Art of Courtship." <hi rend="italic">Harper's Bazar</hi> (January 1923): 212-218.</note></l>
+                        <l n="03">                       (Generalizations on courtship)</l>
                         <l n="04"> <quote type="begin"/>They do not apply to super emotional people,</l>
                         <l n="05">to artists, . . or to the unduly intellectual</l>
                         <l n="06"> Such monsters must look after themselves</l>
