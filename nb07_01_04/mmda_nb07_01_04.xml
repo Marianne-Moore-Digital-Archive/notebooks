@@ -5237,7 +5237,7 @@
                         n="0005-recto"/>
                     <lg>
                         <l n="01">                                                                Jan.</l>
-                        <l n="02">W L George <note type="glossary">George, Lionel Walter [1882-1926].
+                        <l n="02">W L George <note><!-- type="glossary" -->George, Lionel Walter [1882-1926].
                         British author known for his popular fiction and writings on feminism.
                         Author of The Intelligence of Woman (1916).</note><bibl>    Art of Courtship.  Harper's 1923</bibl><note>George, Lionel Walter. "The Art of Courtship." <hi rend="italic">Harper's Bazar</hi> (January 1923): 212-218.</note></l>
                         <l n="03">                       (Generalizations on courtship)</l>
@@ -5344,7 +5344,7 @@
                         <l n="09"> observations are in accordance w <hi rend="shorthand_the">the</hi> laws of psychology but he</l>
                         <l n="10"> rottenizes it all.)<quote type="end"/></l>
                         <l n="11">
-                     <bibl type="begin"/>    Harper's. Bazar    Jan 1923              Tappé <note place="below" type="glossary">Tappé, Herman Patrick [1876-1954]. American
+                     <bibl type="begin"/>    Harper's. Bazar    Jan 1923              Tappé <note place="below"><!-- type="glossary" -->Tappé, Herman Patrick [1876-1954]. American
                         clothes designer, social advisor, and interior decorator.</note></l>
                         <l n="12"> The Encroaching gulf Steam.<bibl type="end"/><note>Tappé, Herman
                         Patrick. "The Encroaching Gulf Stream." <hi rend="underline">Harper's
@@ -5383,7 +5383,7 @@
                      <hi rend="underline">Interregnum</hi>              1923<bibl rend="end"/>
                      <note>Jennings, Leslie Nelson. "Interregnum." <hi rend="underline">Forum</hi>
                         Volume 69 (January 1923): 1119.</note></l>
-                        <l n="09">               Leslie Nelson Jennings. <note type="glossary">Jennings,
+                        <l n="09">               Leslie Nelson Jennings. <note><!-- type="glossary" -->Jennings,
                         Leslie Nelson [1892-1972]. American poet and editor.</note></l>
                         <l n="10"> <seg type="begin" subtype="verse"/><quote type="begin"/>Bring me an herb of healing, bring me fruit</l>
                         <l n="11">    Cool from the hills, a charger heaped w snow;</l>
@@ -5413,7 +5413,7 @@
                         <l n="04">        And mercifully scatter ashes there!<quote type="end"/><seg type="end" subtype="verse"/></l>
                         <l n="05"/>
                         <l n="06">             Indian Art in Boston     The Arts</l>
-                        <l n="07">           Ananda Coomaraswamy<note type="glossary">Coomaraswamy, Ananda
+                        <l n="07">           Ananda Coomaraswamy<note><!-- type="glossary" -->Coomaraswamy, Ananda
                         Kentish [1877-1947]. Anglo-Ceylonese philosopher and pioneering historian of
                         Indian art.</note>
                      Jan. 1923<note>Coomaraswamy, Ananda K. "Indian Art in Boston." <hi rend="underline">The Arts</hi>. Volume III.1 (January 1923):
@@ -5445,7 +5445,7 @@
                      4</l>
                         <l n="03"><bibl rend="begin"> </bibl>Georgian Poetry 5th series Ed. E. M. Poetry
                      Bkshop London 6s</l>
-                        <l n="04"> Rev. by Mrs. Williams-Ellis<bibl rend="end"/><note type="glossary">Williams-Ellis, Amabel [1894-1984]. British author, editor, translator, and commentator on politics, culture, and women's lives, best known for editing several volumes of fairy tales and legends; literary editor of the <hi rend="italic">Spectator</hi> 1922-1923.</note><note><hi rend="underline">Georgian Poetry 1920-1922</hi>. Ed. Edward Marsh (Devonshire London: The Poetry Bookshop, 1922). Rev. by Amabel Williams-Ellis, <hi rend="underline">The Spectator</hi> December 1922.</note></l>
+                        <l n="04"> Rev. by Mrs. Williams-Ellis<bibl rend="end"/><note><!-- type="glossary" -->Williams-Ellis, Amabel [1894-1984]. British author, editor, translator, and commentator on politics, culture, and women's lives, best known for editing several volumes of fairy tales and legends; literary editor of the <hi rend="italic">Spectator</hi> 1922-1923.</note><note><hi rend="underline">Georgian Poetry 1920-1922</hi>. Ed. Edward Marsh (Devonshire London: The Poetry Bookshop, 1922). Rev. by Amabel Williams-Ellis, <hi rend="underline">The Spectator</hi> December 1922.</note></l>
                         <l n="05">        Peter Quennell--see Public School Verse about 2 yrs ago</l>
                         <l n="06"> a poem about a sunflower begins                                       Masques &amp; Poems</l>
                         <l n="07">
@@ -5455,7 +5455,7 @@
                      </note></l>
                         <l n="08">                   --Oh most strange masker--"<quote type="end"/><seg type="end" subtype="verse"/></l>
                         <l n="09"> </l>
-                        <l n="10"> <bibl rend="begin"/>Estelle Ross.<note type="glossary">Ross, Estelle <!-- NW: What is the format for unknown birth and death dates? Is this correct? See page 59 for a variant example. --> [?-?]. Author of juvenile works, folklore, biographies, and history.</note>  Century--Book of noble dogs.<bibl rend="end"/></l>
+                        <l n="10"> <bibl rend="begin"/>Estelle Ross.<note><!-- type="glossary" -->Ross, Estelle <!-- NW: What is the format for unknown birth and death dates? Is this correct? See page 59 for a variant example. --> [?-?]. Author of juvenile works, folklore, biographies, and history.</note>  Century--Book of noble dogs.<bibl rend="end"/></l>
                         <note>Ross, Estelle. <hi rend="underline">The Book of Noble Dogs</hi>. (NY:
                             The Century Company, 1922). MM refers to this book on the first page of
                             her 1922-1930 poetry notebook (07.04.04).</note>
@@ -5484,7 +5484,7 @@
                         <l n="03"> expressible only through the medium of caresses<quote type="end"/></l>
                         <l n="04"/>
                         <l n="05"> <bibl rend="begin"/>The Poor Man--Stella Benson--Macmillan Reviewed by</l>
-                        <l n="06"> Will Cuppy<note type="glossary">Cuppy, William Jacob [1884-1949]. American humorist and journalist, known for his satire and writing on the animal kingdom. Reviewed regularly for the <hi rend="underline">Tribune</hi>. </note>   Tribune 17 Mar 1923<bibl rend="end"/>--  <note>Benson, Stella. <hi rend="underline">The Poor Man</hi>. (NY: The Macmillan Company, 1923). Rev. by Will Cuppy, <hi rend="underline">Tribune</hi> March 17 1923.</note>   <quote type="begin"/>Of course Emily</l>
+                        <l n="06"> Will Cuppy<note><!-- type="glossary" -->Cuppy, William Jacob [1884-1949]. American humorist and journalist, known for his satire and writing on the animal kingdom. Reviewed regularly for the <hi rend="underline">Tribune</hi>. </note>   Tribune 17 Mar 1923<bibl rend="end"/>--  <note>Benson, Stella. <hi rend="underline">The Poor Man</hi>. (NY: The Macmillan Company, 1923). Rev. by Will Cuppy, <hi rend="underline">Tribune</hi> March 17 1923.</note>   <quote type="begin"/>Of course Emily</l>
                         <l n="07"> is loudly in love w the newspaper man    Tom is so</l>
                         <l n="08"> brilliant as well as handsome. To read his stuff</l>
                         <l n="09"> is to love him--To know him is something else</l>
@@ -5505,21 +5505,21 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0013-recto.jpeg"
                         n="0013-recto"/>
                     <lg>
-                        <l n="01"> <quote type="begin"/>She hit him again &amp; again   EXIT Edward. Not long<note type="glossary">Benson, Stella. <hi rend="underline">The Poor Man</hi>. Rev. by Will Cuppy (see earlier note)<hi rend="underline"/>.</note></l>
+                        <l n="01"> <quote type="begin"/>She hit him again &amp; again   EXIT Edward. Not long<note><!-- type="glossary" -->Benson, Stella. <hi rend="underline">The Poor Man</hi>. Rev. by Will Cuppy (see earlier note)<hi rend="underline"/>.</note></l>
                         <l n="02"> enough if you ask me.<quote type="end"/>                                                     5</l>
                         <l n="03">                                            2<del><gap extent="2"/></del>nd trip</l>
                         <l n="04">   Chinese paintings--Met. Museum Apr 7 1923<note>MM visited the Metropolitan Museum of Art Exhibition on Chinese Art in both March and April 1923.</note></l>
                         <l n="05">   amid the water and clouds, the small pleasure<quote type="end"/></l>
                         <l n="06">   craft is as noticeable as is a man of leisure in</l>
                         <l n="07">   this world--written in the f&#250;ku palace by emperor</l>
-                        <l n="08">   Hui Chung<note type="glossary">Hui Tsung [1082-1135]. Chinese emperor and renowned painter, also sometimes referred to as Hu Tsung or Hui Chung, and who used his personal name Zhao Ji.</note></l>
-                        <l n="09"></l>
+                        <l n="08">   Hui Chung<note><!-- type="glossary" -->Hui Tsung [1082-1135]. Chinese emperor and renowned painter, also sometimes referred to as Hu Tsung or Hui Chung, and who used his personal name Zhao Ji.</note></l>
+                        <l n="09"/>
                         <l n="10">                    ladies &amp;</l>
                         <l n="11">Procession of ^ dignitaries said to represent the milky</l>
                         <l n="12"> way.   Sung period 960-1280</l>
                         <l n="13"> __________________________________</l>
                         <l n="14">                         o O o</l>
-                        <l n="15"> Verses by tu muh<note type="glossary">Tu Muh [803-852], now typically
+                        <l n="15"> Verses by tu muh<note><!-- type="glossary" -->Tu Muh [803-852], now typically
                         anglicized as Du Mu. One of the greatest poets of the Tang dynasty. MM
                         follows the Metropolitan Museum in attributing to Tu Muh a poem written on
                         Wang Wei's painting. </note> a poet of the T'ang period on a</l>
@@ -5600,7 +5600,7 @@
                      <bibl rend="begin"/>Punch Feb 21 1923<bibl rend="end"/>
                      <seg type="begin" subtype="verse"/><quote type="begin"/>    An' they
                      stirred</l>
-                        <l n="02">         The Little Young Lambs<note type="glossary">Chalmers, Patrick
+                        <l n="02">         The Little Young Lambs<note><!-- type="glossary" -->Chalmers, Patrick
                         R. "The Little Young Lambs." February 1923. Chalmers was an Irish poet,
                         writer, and banker [1872-1942].</note>
                      When they heard</l>
@@ -5656,7 +5656,7 @@
                         <l n="03">  Why the seasons went round</l>
                         <l n="04">        An' why green the wheat grew                       <bibl type="begin" subtype="source"/>Terminology<bibl type="end" subtype="source"/><note>Rickword, Edgell. "Terminology" was the first poem in Rickword's
                         Invocation to Angels and The Happy New Year (London: Wishart, 1928).</note>
-                     : Edgell Rickword<note type="glossary">Rickword.Edgell [1898-1982]. English
+                     : Edgell Rickword<note><!-- type="glossary" -->Rickword.Edgell [1898-1982]. English
                         poet, critic, journalist, who became a leading Communist intellectual during
                         the 1930s.</note></l>
                         <l n="05">
@@ -5681,7 +5681,7 @@
                         <l n="14">
                      the Sun's beam.<quote type="end"/><seg type="end" subtype="verse"/></l>
                         <l n="15">                                          see Promenade
-                        Sentimentale<note type="glossary">Perhaps a poem by Paul Verlaine
+                        Sentimentale<note><!-- type="glossary" -->Perhaps a poem by Paul Verlaine
                         [1844-1896], French poet associated with the Symbolist and Decadent
                         movements. "Promenade sentimentale" appears in Verlaine's first book, <hi rend="italic">Poèmes saturniens</hi> (1866). Several paintings and a
                         piece by Claude Debussy [1862-1918] also take this title.</note> Dec 30</l>
@@ -5719,7 +5719,7 @@
                      <bibl type="begin"/>Adventures in Bolivia     C H Prodgers<note>Prodgers, Cecil
                         Herbert. <hi rend="italic">Adventures in Bolivia</hi>. London: John Lane the
                         Bodley Head Ltd. 1922.</note> intr. by</l>
-                        <l n="15"> R B Cunninghame Graham<note type="glossary">Graham, Robert Bontine Cunninghame [1852-1936]. Scottish politician, journalist, writer, and adventurer; founder of the Scottish Labour Party and the National Party of Scotland.</note>     Lane  London 1922<bibl type="end"/></l>
+                        <l n="15"> R B Cunninghame Graham<note><!-- type="glossary" -->Graham, Robert Bontine Cunninghame [1852-1936]. Scottish politician, journalist, writer, and adventurer; founder of the Scottish Labour Party and the National Party of Scotland.</note>     Lane  London 1922<bibl type="end"/></l>
                         <l n="16">c.g.</l>
                         <l n="17">
                      <quote type="begin"/>         He saw . . . the Alpine flore slowly give way to
@@ -5835,7 +5835,7 @@
                         <l n="10"> a tail that Mendizabal said existed here. <quote type="end"/></l>
                         <l n="11"/>
                         <l n="12">
-                     <bibl type="begin"/>Forum     May 1923     Robt Bridges.<note type="glossary">Bridges, Robert [1844-1930]. English poet, who served as Poet Laureate from
+                     <bibl type="begin"/>Forum     May 1923     Robt Bridges.<note><!-- type="glossary" -->Bridges, Robert [1844-1930]. English poet, who served as Poet Laureate from
                         1913 to 1930.</note></l>
                         <l n="13">  Poetic diction in English.<note>Bridges, Robert. "Poetic Diction in
                         English." 69 (May 1923): 1536-43. </note>
@@ -5868,7 +5868,7 @@
                         <l n="10"> discredit both the Properties &amp; the Diction.<quote type="end"/></l>
                         <l n="11">
                      1921</l>
-                        <l n="12"> <bibl rend="begin"/>A Book of Old Embroidery ed. Geoffrey Holme<note type="glossary">Holme, C. Geoffrey [1848-1923]. English journalist and art critic; founding editor of The Studio (1893). He published a series of books on "peasant art" in the early twentieth century.</note></l>
+                        <l n="12"> <bibl rend="begin"/>A Book of Old Embroidery ed. Geoffrey Holme<note><!-- type="glossary" -->Holme, C. Geoffrey [1848-1923]. English journalist and art critic; founding editor of The Studio (1893). He published a series of books on "peasant art" in the early twentieth century.</note></l>
                         <l n="13"> The Studio <note>Holme, Geoffrey, ed. <hi rend="italic">A
                                         Book of Old Embroidery</hi>. London, New York: The Studio,
                                     Ltd. 1921.</note>Ltd Lond Paris NY <bibl rend="end"/></l>
@@ -5891,7 +5891,7 @@
                      <bibl type="begin"/>50         New Poems for Children</l>
                         <l n="02"> an anthology . . .    Published by Basil Blackwell</l>
                         <l n="03"> Oxford.<note>King, Edith. "Useful Things." <hi rend="italic">50 New Poems for Children Selected from Books Recently Published by  Basil Blackwell</hi>. Ed. Basil Blackwell. (Oxford University Press, 1922) 32-33.</note></l>
-                        <l n="04"> Edith King<note type="glossary">King, Edith [1871-1962]. Poet born in
+                        <l n="04"> Edith King<note><!-- type="glossary" -->King, Edith [1871-1962]. Poet born in
                         South Africa, lived primarily in England.</note>--<hi rend="underline">Useful things</hi>     p. 33<bibl type="end"/></l>
                         <l n="05">
                      <seg type="begin" subtype="verse"/><quote type="begin"/>               I'd like
@@ -5978,7 +5978,7 @@
                         <l n="14"> Hunting without rifle         African animals at home.<bibl type="end"/><note>Dugmore, Arthur Radclyffe. "Hunting Without Rifle: African Animals
                         at Home Filmed For The 'Wonderland' of Big Game." Illustrated London News
                         (21 April 1923):630-631.</note></l>
-                        <l n="15">     Major A Radclyffe Dugmore<note type="glossary">Dugmore, Arthur
+                        <l n="15">     Major A Radclyffe Dugmore<note><!-- type="glossary" -->Dugmore, Arthur
                         Radclyffe [1870–1955]. A Welsh-born pioneering American naturalist and
                         wildlife photographer, painter, print-maker and author.</note></l>
                         <l n="16">   <quote type="begin"/>a group of giraffes--well built for observation purposes</l>
@@ -6020,7 +6020,7 @@
                        <bibl type="begin"/>The Disobedient Kids <note>Němcová, Božena. The Disobedient
                         Kids and Other Czecho-Slovak Fairy Tales. Prague, London, and New York:B.
                         Koci, Philip Allan &amp; Co., Harper &amp; Brothers, 1921.</note>   Bozena
-                        Nemcova<note type="glossary">Němcová, Božena [1820-1862]. A Czech writer of
+                        Nemcova<note><!-- type="glossary" -->Němcová, Božena [1820-1862]. A Czech writer of
                         the final phase of the Czech National Revival movement.</note><bibl type="end"/></l>
                         <l n="17">     Phillip Allen --    5 Quality Ct Chancery Lane WC2</l>
                         <l n="18">     Harper  N.Y.</l>
@@ -6045,7 +6045,7 @@
                         <l n="08">    been such a good playmate.<quote type="end"/></l>
                         <l n="09"/>
                         <l n="10">
-                     <bibl type="begin"/>Creative Spirits    Georg Brandes. Crowell,<note type="glossary">Brandes, Georg Morris Cohen [1842–1927]. A Danish critic and
+                     <bibl type="begin"/>Creative Spirits    Georg Brandes. Crowell,<note><!-- type="glossary" -->Brandes, Georg Morris Cohen [1842–1927]. A Danish critic and
                         scholar, influential on Scandinavian and European
                         literature.</note><note>Brandes, Georg. Creative Spirits of The Nineteenth
                         Century. Translated by Rasmus B. Anderson. New York: Thomas Y. Crowell
@@ -6101,7 +6101,7 @@
                         <l n="01">     <note>"Chance for Inventors" (see earlier note). </note>  <quote type="begin"/>on the palate</l>
                         <l n="02">              Talking moving pictures<quote type="end"/></l>
                         <l n="03"/>
-                        <l n="04">         <bibl type="begin"/>Forsyte Saga<note>Galsworthy, John. <hi rend="italic">To Let</hi> (William Heinemann, 1921) is the third novel in the series published in 1922 as <hi rend="italic">The</hi> <hi rend="italic">Forsyte Saga</hi>. </note><bibl type="end"/>        J. Galsworthy.<note type="glossary">Galsworthy, John [1867-1933]. Nobel-prize winning English novelist and playwright. </note>      To Let      681</l>
+                        <l n="04">         <bibl type="begin"/>Forsyte Saga<note>Galsworthy, John. <hi rend="italic">To Let</hi> (William Heinemann, 1921) is the third novel in the series published in 1922 as <hi rend="italic">The</hi> <hi rend="italic">Forsyte Saga</hi>. </note><bibl type="end"/>        J. Galsworthy.<note><!-- type="glossary" -->Galsworthy, John [1867-1933]. Nobel-prize winning English novelist and playwright. </note>      To Let      681</l>
                         <l n="05">    <quote type="begin"/>I love all kinds of beauty      went on Fleur   when it's</l>
                         <l n="06">    exciting.    I don't like Greek things a bit.</l>
                         <l n="07">                What  Not Euripides?</l>
@@ -6385,7 +6385,7 @@
                         n="0041-recto"/>
                     <lg>
                         <l n="01">  <bibl rend="begin"/>Post Lit Rev.    16 June 1923                                                      19</l>
-                        <l n="02">  Alice Meynell's<note type="glossary">Meynell, Alice Christiana Gertrude [1847-1922]. British writer, editor, critic, and suffragist, now remembered mainly as a poet.</note> prose --         Olivia Howard Dunbar<bibl rend="end"/><note type="glossary">Dunbar, Olivia Howard [1873–1953]. American short story writer, journalist and biographer.</note></l>
+                        <l n="02">  Alice Meynell's<note><!-- type="glossary" -->Meynell, Alice Christiana Gertrude [1847-1922]. British writer, editor, critic, and suffragist, now remembered mainly as a poet.</note> prose --         Olivia Howard Dunbar<bibl rend="end"/><note><!-- type="glossary" -->Dunbar, Olivia Howard [1873–1953]. American short story writer, journalist and biographer.</note></l>
                         <l n="03">  <quote type="begin"/>2nd rate prose, prose that is either elaborate or rowdy,</l>
                         <l n="04">  secures attention. But the fact must be faced</l>
                         <l n="05">  that prose of the first order is  commonly alas!</l>
@@ -6852,7 +6852,7 @@
                     <lg>
                         <l n="01"> <note>"Fighting Mosquitos" (see previous page).</note> <quote type="begin"/>  for mosquitoes is now bred on a large scale in Calif.</l>
                         <l n="03">  (frequently spoken of as Pot belly)                           28</l>
-                        <l n="04">   Louva G. Lenert<note type="glossary"> Lenert, Lauva G. <!-- NW: What is the correct form for unknown birth and death dates? See variant example on page 11 -->[  ]. With Eduard Stuart, in 1923, established 25 hatcheries in Californiia as part of the State Board of Health mosquito-control program. </note>  in (Sacramento) Weekly Bulletin</l>
+                        <l n="04">   Louva G. Lenert<note><!-- type="glossary" --> Lenert, Lauva G. <!-- NW: What is the correct form for unknown birth and death dates? See variant example on page 11 -->[  ]. With Eduard Stuart, in 1923, established 25 hatcheries in Californiia as part of the State Board of Health mosquito-control program. </note>  in (Sacramento) Weekly Bulletin</l>
                         <l n="05">  writes: Gambusia affinis is the name given to a</l>
                         <l n="06">  small surface feeding top minnow whose native home</l>
                         <l n="07">  is in the Eastern part of the U.S.  It is well its name</l>
@@ -6877,7 +6877,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0060-verso.jpeg"
                         n="0060-verso"/>
                     <lg>
-                        <l n="01">   <bibl rend="begin"/><bibl/>The Dilemma of Mariage  Alyse Gregory<note type="glossary">Gregory, Alyse [1884-1967]. American writer and editor, and a friend of MM's. She was managing editor of <hi rend="italic">The Dial</hi>, 1924-June 1925. </note>  N. Rep.</l>
+                        <l n="01">   <bibl rend="begin"/><bibl/>The Dilemma of Mariage  Alyse Gregory<note><!-- type="glossary" -->Gregory, Alyse [1884-1967]. American writer and editor, and a friend of MM's. She was managing editor of <hi rend="italic">The Dial</hi>, 1924-June 1925. </note>  N. Rep.</l>
                         <l n="02"> July 4 1923<bibl rend="end"/>--  <note> Gregory, Alyse. "The Dilemma of Marriage." <hi rend="italic">New Republic</hi> 4 July, 1923.</note></l>
                     </lg>
                     <lg>
@@ -6886,7 +6886,7 @@
                         <l n="05">  the effete, delightful dandyism of the 90's puts it on</l>
                         <l n="06"> again. . . . . Now, the latest evangelist to blow a</l>
                         <l n="07">  startled bugle call in the interests of his sex is Mr. D. H.</l>
-                        <l n="08">  Lawrence<note type="glossary">Lawrence, David Herbert [1885-1930]. British novelist and poet. MM published his poems in <hi rend="italic">The Dial</hi>.</note>, . . . . . No one has uncovered more searchingly</l>
+                        <l n="08">  Lawrence<note><!-- type="glossary" -->Lawrence, David Herbert [1885-1930]. British novelist and poet. MM published his poems in <hi rend="italic">The Dial</hi>.</note>, . . . . . No one has uncovered more searchingly</l>
                         <l n="09">  those obscure poisoning enmities between men and</l>
                         <l n="10">  women whose wills are crossed, . . nor composed and</l>
                         <l n="11">  executed such a rich heavy music of the emotions--</l>
@@ -6920,7 +6920,7 @@
                         <l n="13">    Mr. Lawrence must adapt himself.   I wax now</l>
                         <l n="14">    somewhat ancient one ? <gap extent="1"/>30 yrs is a great deal of sand in the hourglass; I</l>
                         <l n="15">    confess that I have as vast contemplative ends as I have   moderate civil<quote type="end"/></l>
-                        <l n="16">    <bibl rendition="begin"/>Encycl Brittanica Bacon<note type="glossary">Bacon, Francis [1561-1626]. English philosopher and stateman. MM published "Sir Francis Bacon" in <hi rend="italic">The Dial</hi> (April 1924) and referred to or quoted him in several other essays. </note>  136      <bibl rend="end"/>      <quote type="begin"/>I have taken all</l>
+                        <l n="16">    <bibl rendition="begin"/>Encycl Brittanica Bacon<note><!-- type="glossary" -->Bacon, Francis [1561-1626]. English philosopher and stateman. MM published "Sir Francis Bacon" in <hi rend="italic">The Dial</hi> (April 1924) and referred to or quoted him in several other essays. </note>  136      <bibl rend="end"/>      <quote type="begin"/>I have taken all</l>
                         <l n="17">                                                                     ends; for</l>
                         <l n="18">    knowledge to be my province and if I could purge it</l>
                         <l n="19">    of 2 sorts of rovers, whereof the one with frivolous</l>
@@ -6950,7 +6950,7 @@
                         <l n="09">           "I don't like his stuff" <del>he</del> said he-- "and</l>
                         <l n="10">    I'll find a reason yet."</l>
                         <l n="11"/>
-                        <l n="12">   <bibl rend="begin"/>Miguel de Unamuno<note type="glossary"> Unamuno, Miguel de [1864-1936]. Spanish philosopher and writer in all creative genres. MM reviews one of his novels and refers to him in her prose.</note>    trans. J E. C. Flitch</l>
+                        <l n="12">   <bibl rend="begin"/>Miguel de Unamuno<note><!-- type="glossary" --> Unamuno, Miguel de [1864-1936]. Spanish philosopher and writer in all creative genres. MM reviews one of his novels and refers to him in her prose.</note>    trans. J E. C. Flitch</l>
                         <l n="13">     Macm 1921   <hi rend="underline">The Tragic Sense of Life<bibl rend="end"/><bibl rend="end"/></hi>--  <note>  Unamuno, Miguel de. <hi rend="italic">The Tragic Sense of Life</hi> (1912). First published in English, Macmillan and Co. Ltd., 1921.</note></l>
                         <l n="14">  90   <quote type="begin"/>And the truth is in all strictness that reason</l>
                         <l n="15">     is the enemy of life. . . . In order to<quote type="end"/></l>
@@ -7084,7 +7084,7 @@
                         <l n="14">       <foreign xml:lang="fr">Je fus ravie, enthousiasm&#233;e de ce cadeau</foreign>. <quote type="end"/></l>
                         <l n="15"/>
                         <l n="16">   <bibl rend="begin"/>Post. Lit. Rev.  15 Sept. 1923</l>
-                        <l n="17">      A Sage's Lyre--  Poems. G. Santayana<bibl rend="end"/><note type="glossary"> Santayana, George (born Jorge Agust&#237;n Nicol&#225;s Ruiz de Santayana y Borr&#225;s) [1886-1912]. Immigrated to U.S. at 8. American philosopher and writer. MM quotes him in an essay on Sir Francis Bacon (1924). See earlier note. </note>. Scrib. 1.50</l>
+                        <l n="17">      A Sage's Lyre--  Poems. G. Santayana<bibl rend="end"/><note><!-- type="glossary" --> Santayana, George (born Jorge Agust&#237;n Nicol&#225;s Ruiz de Santayana y Borr&#225;s) [1886-1912]. Immigrated to U.S. at 8. American philosopher and writer. MM quotes him in an essay on Sir Francis Bacon (1924). See earlier note. </note>. Scrib. 1.50</l>
                         <l n="18">   O W <del>o</del>Firkins<note>Firkins, Oscar W. "The Sage's Lyre: Santayana's Poems." <hi rend="italic">New York Evening Post</hi> (15 September 1923): 40.</note><bibl rend="end"/> . . . <quote type="begin"/>Nobody who know's Mr. S's  prose or</l>
                         <l n="19">    verse will question his property in the Eng. lang.<quote type="end"/></l>
                     </lg>
@@ -7123,7 +7123,7 @@
                         n="0069-recto"/>
                     <lg>
                         <l n="01">   Harvard Classics v. 27   7.   Defense of Poesy    33<note><hi rend="italic">English Essays: From Sir Philip Sidney to Macauley</hi>. Ed. Charles W. Eliot, LL.D. Harvard Classics Vol. 27. NY: P. F. Collier &amp; Son, 1910. </note></l>
-                        <l n="02">                                   Sir P Sidney <note type="glossary">Sidney, Sir Philip [1554-1586]. English poet, courtier, and soldier. MM refers to him periodically throughout her life, including in "No better than "a withered daffodil" (first published <hi rend="italic">Art News</hi>, March 1959).</note></l>
+                        <l n="02">                                   Sir P Sidney <note><!-- type="glossary" -->Sidney, Sir Philip [1554-1586]. English poet, courtier, and soldier. MM refers to him periodically throughout her life, including in "No better than "a withered daffodil" (first published <hi rend="italic">Art News</hi>, March 1959).</note></l>
                         <l n="03">  (Edward Wotton)<note>Baron Edward Wotton appears in Sir Philip Sidney's "The Defense of Poesy." English diplomat and administrator, and friend of Sidney's.  </note> . . . <quote type="begin"/>He said Soldiers were the noblest estate of mankind,, and horsemen <hi rendition="shorthand the">the</hi> noblest of soldiers</l>
                         <l n="04">    . . . . . speedy goers &amp; strong abiders</l>
                         <l n="05">    no earthly thing bred such wonder to a prince as to be a</l>
@@ -7285,7 +7285,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0075-recto.jpeg"
                         n="0075-recto"/>
                     <lg>
-                        <l n="01">   <bibl rend="begin"/>A  defence of Poetry.<note>Shelley, Percy Bysshe. "A Defence of Poetry." Written in 1821 and published posthumously in 1840.</note> Shelley           36<bibl rend="end"/><note type="glossary">Shelley, Percy Bysshe [1792-1822]. English poet. MM refers to Shelley in letters and essays.</note></l>
+                        <l n="01">   <bibl rend="begin"/>A  defence of Poetry.<note>Shelley, Percy Bysshe. "A Defence of Poetry." Written in 1821 and published posthumously in 1840.</note> Shelley           36<bibl rend="end"/><note><!-- type="glossary" -->Shelley, Percy Bysshe [1792-1822]. English poet. MM refers to Shelley in letters and essays.</note></l>
                         <l n="02">  349   <quote type="begin"/>It is necessary . . . . to determine the distinction</l>
                         <l n="03">    between measured &amp; unmeasured language; for</l>
                         <l n="04">    the popular division into prose or verse is inadvisible</l>
@@ -7477,7 +7477,7 @@
                         n="0082-verso"/>
                     <lg>
                         <l n="01">     <bibl rend="begin"/>Lit. review. Sept 29 1923</l>
-                        <l n="02">  A Blunt Old Tory: Women &amp; Men   Ford Madox Ford<note type="glossary"> Ford, Ford Madox (born Hueffer) [1873-1939].  English novelist, poet, critic, and editor. MM refers to Ford in essays and letters, not always positively.</note></l>
+                        <l n="02">  A Blunt Old Tory: Women &amp; Men   Ford Madox Ford<note><!-- type="glossary" --> Ford, Ford Madox (born Hueffer) [1873-1939].  English novelist, poet, critic, and editor. MM refers to Ford in essays and letters, not always positively.</note></l>
                         <l n="03">     Paris 3 Mountains Press. 1923   Rev'd Lawrence</l>
                         <l n="04">     Marsden <del>Price</del> Price<note> Price, Lawrence Marsden. Rev. Ford Madox Ford, <hi rend="italic">Women and Men</hi> (Paris: Three Mountains Press, 1923). <hi rend="italic">New York Evening Post</hi> Literary Review (29 September, 1923).</note>.  <bibl rend="end"/><quote type="begin"/>In this essay he discusses</l>
                         <l n="05">     a question wh at some time has agitated nearly</l>
@@ -7562,7 +7562,7 @@
                         <l n="11">     call--the oath referential or sentimental</l>
                         <l n="13">    (odds frogs and tadpoles)--(odds jigs &amp; tabors)<quote type="end"/></l>
                         <l n="14">             <bibl rend="begin"/>The Poetical Works of Spenser<bibl rend="end"/></l>
-                        <l n="15">    Spenser<note type="glossary"> Spenser, Edmund [1552/53-1599]. English poet. MM quoted Spenser in a 1922 comment, and quotes him in later reviews and essays, including “Humility, Concentration, and Gusto.”</note>.    Amoretti IVI<note>Spenser, Edmund. <hi rend="italic">The Poetical Works of Spenser</hi>.  Vol I: <hi rend="italic">Spenser's Minor Poems</hi>.  Ed. Ernest De Selincourt (Oxford University Press, 1910). </note></l>
+                        <l n="15">    Spenser<note><!-- type="glossary" --> Spenser, Edmund [1552/53-1599]. English poet. MM quoted Spenser in a 1922 comment, and quotes him in later reviews and essays, including “Humility, Concentration, and Gusto.”</note>.    Amoretti IVI<note>Spenser, Edmund. <hi rend="italic">The Poetical Works of Spenser</hi>.  Vol I: <hi rend="italic">Spenser's Minor Poems</hi>.  Ed. Ernest De Selincourt (Oxford University Press, 1910). </note></l>
                         <l n="16">       Oxford 1921  ed. w crit. notes by  J C Smith</l>
                         <l n="17">                  &amp; E. De Selincourt</l>
                     </lg>
@@ -7709,7 +7709,7 @@
                         n="0091-recto"/>
                     <lg>
                         <l n="01"> <bibl rend="begin"/>Christian Science Monitor--Oct 24 1923</l>
-                        <l n="02">    E. Gordon Craig<note type="glossary"> Craig, Edward Gordon [1872-1966]. English theater practitioner, including scene design and theory. MM writes of him in "Picking and Choosing" (<hi rend="italic">Observations</hi> 1924) and refers to him in  "The Dial: A Retrospect," <hi rend="italic">Life and Letters To-Day</hi> 27 (1940).</note>         44</l>
+                        <l n="02">    E. Gordon Craig<note><!-- type="glossary" --> Craig, Edward Gordon [1872-1966]. English theater practitioner, including scene design and theory. MM writes of him in "Picking and Choosing" (<hi rend="italic">Observations</hi> 1924) and refers to him in  "The Dial: A Retrospect," <hi rend="italic">Life and Letters To-Day</hi> 27 (1940).</note>         44</l>
                         <l n="03">  Scene.  Oxford University Press. 1923<bibl rend="end"/>  25s/<note> Craig, Edward Gordon. <hi rend="italic">Scene</hi>. London: Humphrey Milford; Oxford University Press, 1923.  </note></l>
                         <l n="04">   <quote type="begin"/>There is a certain weary patience in Mr. Gordon</l>
                         <l n="05">     Craig's attitude toward the public. Because</l>
@@ -8034,7 +8034,7 @@
                         <l n="04"/>
                         <l n="05">   <bibl rend="begin"/>Bryn  Mawr  Alumnae  Bulletin   Dec '23</l>
                         <l n="06"> </l>
-                        <l n="07"> <note>King, Georgiana Goddard. <hi rend="italic">Sardinian Painting</hi>. NY: Longmans, Green &amp; Co., 1923.</note>             Sardinian Painting G. G. King<note type="glossary">King, Georgiana Goddard [1871-1939].  American pioneer Hispanist and teacher of MM's at Bryn Mawr College, who introduced MM to early modernism.</note>             Longmans 1923</l>
+                        <l n="07"> <note>King, Georgiana Goddard. <hi rend="italic">Sardinian Painting</hi>. NY: Longmans, Green &amp; Co., 1923.</note>             Sardinian Painting G. G. King<note><!-- type="glossary" -->King, Georgiana Goddard [1871-1939].  American pioneer Hispanist and teacher of MM's at Bryn Mawr College, who introduced MM to early modernism.</note>             Longmans 1923</l>
                         <l n="08">   $2.00   <quote type="begin"/>She says of the Carnicer  Presepio</l>
                         <l n="09">   "In  the central scene Spanish realism triumphs</l>
                         <l n="10">   in the string of onions hanging on a wall,  and</l>
@@ -8217,7 +8217,7 @@
                         <l n="03">  a high collar of dark fox bravely blushed</l>
                         <l n="04">   itself from its subdued hue into a deleriously</l>
                         <l n="05">   fervent Burgundy.  (<foreign xml:lang="fr">Joie de vivre</foreign>.)</l>
-                        <l n="06"> <note type="glossary"> MM quotes from Scottish poet Charles Mackay [1814-1889], "The Holly Bough," also published as "Under the Holly Bough."</note>            old love and younger wooing</l>
+                        <l n="06"> <note><!-- type="glossary" --> MM quotes from Scottish poet Charles Mackay [1814-1889], "The Holly Bough," also published as "Under the Holly Bough."</note>            old love and younger wooing</l>
                         <l n="07">             Are sweet in the renewing,</l>
                         <l n="08">                  Under the holly bough.</l>
                         <l n="09">         Take heart unveil your faces,     <hi rend="underline">Prologue</hi></l>
