@@ -5571,14 +5571,13 @@
                         <l n="13">The little young lambs all among;              Since he was so old.</l>
                         <l n="14">Oh, he piped 'em a derry downderry,</l>
                         <l n="15">              he did,</l>
-                        <l n="16">   Since they were so young. <seg type="end" subtype="verse"/><quote type="end"/>                        <bibl type="begin" subtype="source"/>Punch Mar 14<bibl type="end" subtype="source"/>. <quote type="begin"/>Dear old</l>
+                        <l n="16">   Since they were so young. <seg type="end" subtype="verse"/><quote type="end"/>                        <bibl type="begin"/>Punch Mar 14<bibl type="end"/>. <quote type="begin"/>Dear old</l>
                         <l n="17">                                                                 lady buying cigars: It's a</l>
                         <l n="18">                                                             perfectly charming box &amp; would</l>
                         <l n="19">                                                             they be turkish or Virginian.<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
-            
             <!-- NW: Finished initial round of spacing/zoning proofing here, sent above affected pages to Girija for re-zoning, 2022-08-05 1:36pm. -->
             <div type="image" xml:id="nb07_01_04_0017_text">
                 <div type="page" n="r.0017" xml:id="nb07_01_04_0017_recto_text">
@@ -5586,23 +5585,23 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0017-recto.jpeg"
                         n="0017-recto"/>
                     <lg>
-                        <!-- [!NICK: I don't know how to indicate that there are 2 separate columns of verse here, the one on the right beginning several lines lower than on the left; ditto for marking "quotation"; i've marked whole page as 1 quot'n!] 
-                                NW: Since we identify the quotations in notes and not in the quote tags themselves, it's fine to mark the whole page as quotation. The columns we could maybe call out in a prefatory note at the beginning of the first line? -->
-                        <l n="01">                     <seg type="begin" subtype="verse"/><quote type="begin"/>            For he                        blew<note>Chalmers, Patrick R. "The Little Young Lambs" (see earlier note).</note></l>
-                        <l n="02">      That he knew                        <bibl>Spectator Dec 30 1922                        7</bibl></l>
+                        <!-- Added line 5, which was missing in editors' original CWRC transcription, zones need to be redone after line 4. -->
+                        <l n="01">      <seg type="begin" subtype="verse"/><quote type="begin"/>For he blew<note>Chalmers, Patrick R. "The Little Young Lambs" (see earlier note).</note></l>
+                        <l n="02">      That he knew                                 <bibl>Spectator Dec 30 1922  7</bibl></l>
                         <l n="03">  Why the seasons went round</l>
-                        <l n="04">        An' why green the wheat grew                       <bibl type="begin" subtype="source"/>Terminology<bibl type="end" subtype="source"/><note>Rickword, Edgell. "Terminology" was the first poem in Rickword's Invocation to Angels and The Happy New Year (London: Wishart, 1928).</note>                     : Edgell Rickword<note><!-- type="glossary" -->Rickword.Edgell [1898-1982]. English poet, critic, journalist, who became a leading Communist intellectual during the 1930s.</note></l>
-                        <l n="05">                     <seg type="begin" subtype="verse"/>An' why rain follows sun,                     The curious elephants,</l>
-                        <l n="06">   An' how sun follows rain,                     like women grown</l>
-                        <l n="07">            An' how everything's done                          Too                     gentle in a habit not their</l>
-                        <l n="08">   To be started again,                     own,</l>
-                        <l n="09">Till the stars like ripe acorns shall fall;                          And                     all fierce lives</l>
-                        <l n="10">An' he piped 'em his derry down derry,                     Subdued to what they seem,</l>
-                        <l n="11">                 he did,                     Shed their coarse husks</l>
-                        <l n="12">                 Along of it all.                     &amp; naked in Time's stream</l>
-                        <l n="13">                     Stand up unsullied out of</l>
-                        <l n="14">                     the Sun's beam.<quote type="end"/><seg type="end" subtype="verse"/></l>
-                        <l n="15">                                          see Promenade                        Sentimentale<note><!-- type="glossary" -->Perhaps a poem by Paul Verlaine [1844-1896], French poet associated with the Symbolist and Decadent movements. "Promenade sentimentale" appears in Verlaine's first book, <hi rend="italic">Poèmes saturniens</hi> (1866). Several paintings and a piece by Claude Debussy [1862-1918] also take this title.</note> Dec 30</l>
+                        <l n="04">        An' why green the wheat grew       <bibl type="begin"/>Terminology: Edgell Rickword<bibl type="end"/><note>Rickword, Edgell. "Terminology" was the first poem in Rickword's Invocation to Angels and The Happy New Year (London: Wishart, 1928).</note><note><!-- type="glossary" NW: This note icon displays on a second line, not sure why. -->Rickword.Edgell [1898-1982]. English poet, critic, journalist, who became a leading Communist intellectual during the 1930s.</note></l>
+                        <l n="05">       To his pipes' pretty sound</l>
+                        <l n="06">          An' why rain follows sun,            The curious elephants,</l>
+                        <l n="07">       An' how sun follows rain,                        like women grown</l>
+                        <l n="08">            An' how everything's done           Too gentle in a habit not their</l>
+                        <l n="09">       To be started again,                                                         own,</l>
+                        <l n="10"> Till the stars like ripe acorns shall fall; And all fierce lives</l>
+                        <l n="11">An' he piped 'em his derry down derry,          Subdued to what they seem,</l>
+                        <l n="12">               he did,                               Shed their coarse husks</l>
+                        <l n="13">             Along of it all.                                 &amp; naked in Time's stream</l>
+                        <l n="14">                                                       Stand up unsullied out of</l>
+                        <l n="15">                                                                       the Sun's beam.<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="16">                                      see Promenade Sentimentale<note><!-- type="glossary" -->Perhaps a poem by Paul Verlaine [1844-1896], French poet associated with the Symbolist and Decadent movements. "Promenade sentimentale" appears in Verlaine's first book, <hi rend="italic">Poèmes saturniens</hi> (1866). Several paintings and a piece by Claude Debussy [1862-1918] also take this title.</note> Dec 30</l>
                     </lg>
                 </div>
             </div>
@@ -5612,24 +5611,24 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0018-verso.jpeg"
                         n="0018-verso"/>
                     <lg>
-                        <l n="01">                     <bibl type="begin" subtype="source"/>Jan 20 1922    Spectator     Robert                        Risk<bibl type="end" subtype="source"/></l>
-                        <l n="02">                     <quote type="begin"/>     She might just as well have written</l>
-                        <l n="03">                     <seg type="begin" subtype="verse"/>The small flowers grew to be a hairy                     husk</l>
-                        <l n="04">                     That holds Eternity (in its tusk)</l>
-                        <l n="05">                                                           for                        musk.<quote type="end"/><seg type="end" subtype="verse"/></l>
-                        <l n="06">                     <bibl type="begin" subtype="source"/>Lit. Digest International Book Rev.                     Feb 1923</l>
-                        <l n="07"> Certain literary sins of Theodore Dreiser.    R LeGallienne<bibl type="end" subtype="source"/><note>Le Gallienne, Richard. "Certain Literary Sins of Theodore Dreiser." <hi rend="italic">Literary Digest International Book Review</hi> 1 (February 1923): 10–11, 70–71.</note></l>
+                        <l n="01"> <bibl type="begin"/>Jan 20    1922    Spectator     Robert  Risk<bibl type="end"/></l>
+                        <l n="02"><quote type="begin"/>     She might just as well have written</l>
+                        <l n="03">                 <seg type="begin" subtype="verse"/>The small flowers grew to be a hairy husk</l>
+                        <l n="04">                 That holds Eternity (in its tusk)</l>
+                        <l n="05">                                                 for musk.<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="06"> <bibl type="begin"/>Lit. Digest International Book Rev.        Feb 1923</l>
+                        <l n="07"> Certain literary sins of Theodore Dreiser.    R LeGallienne<bibl type="end"/><note>Le Gallienne, Richard. "Certain Literary Sins of Theodore Dreiser." <hi rend="italic">Literary Digest International Book Review</hi> 1 (February 1923): 10–11, 70–71.</note></l>
                         <l n="08"> <quote type="begin"/><del>(But for Mr. <hi rend="underline">Sumner</hi></del>) without his aid: (<hi rend="underline">Sumner's</hi>) Mr Cabell</l>
                         <l n="09"> would have continued in his sacred seclusion as</l>
                         <l n="10"> a purveyor of imitation caviare for the dilettanti</l>
                         <l n="11"> &amp; Mr <del>?</del>Lawrence's genuine neurosis would have</l>
                         <l n="12"> attracted only those readers similarly afflicted.<quote type="end"/></l>
                         <l n="13"/>
-                        <l n="14">                     <bibl type="begin"/>Adventures in Bolivia     C H Prodgers<note>Prodgers, Cecil Herbert. <hi rend="italic">Adventures in Bolivia</hi>. London: John Lane the Bodley Head Ltd. 1922.</note> intr. by</l>
-                        <l n="15"> R B Cunninghame Graham<note><!-- type="glossary" -->Graham, Robert Bontine Cunninghame [1852-1936]. Scottish politician, journalist, writer, and adventurer; founder of the Scottish Labour Party and the National Party of Scotland.</note>     Lane  London 1922<bibl type="end"/></l>
+                        <l n="14"> <bibl type="begin"/>Adventures in Bolivia     C H Prodgers<note>Prodgers, Cecil Herbert. <hi rend="italic">Adventures in Bolivia</hi>. London: John Lane the Bodley Head Ltd. 1922.</note>   intr. by</l>
+                        <l n="15"> R B Cunninghame Graham<note><!-- type="glossary" -->Graham, Robert Bontine Cunninghame [1852-1936]. Scottish politician, journalist, writer, and adventurer; founder of the Scottish Labour Party and the National Party of Scotland.</note>     Lane  London  1922<bibl type="end"/></l>
                         <l n="16">c.g.</l>
-                        <l n="17">                     <quote type="begin"/>         He saw . . . the Alpine flore slowly give way to                     palms &amp;</l>
-                        <l n="18">   tree-ferns, begonias, white &amp; purple creepers orchids &amp;<quote type="end"/></l>
+                        <l n="17">  <quote type="begin"/>He saw . . . the Alpine flore slowly give way to palms &amp;</l>
+                        <l n="18">  tree-ferns, begonias, white &amp; purple creepers orchids &amp;<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
