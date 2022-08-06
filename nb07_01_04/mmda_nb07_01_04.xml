@@ -668,6 +668,8 @@
                     uly="1533" ulx="2037" rend="line"/>
                 <zone xml:id="nb07_01_04_0017_recto_surface_line_15" lry="1743" lrx="2640"
                     uly="1620" ulx="906" rend="line"/>
+                <zone xml:id="nb07_01_04_0017_recto_surface_line_16" lry="0" lrx="0"
+                    uly="0" ulx="0" rend="line"/>
             </surface>
         </surface>
         <surface xml:id="nb07_01_04_0018_surface">
@@ -757,41 +759,41 @@
                 <graphic
                     url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0020-verso.jpeg"
                     width="2851px"/>
-                <zone xml:id="nb07_01_04_0021_verso_surface_line_01" lry="120" lrx="2657" uly="56"
+                <zone xml:id="nb07_01_04_0020_verso_surface_line_01" lry="120" lrx="2657" uly="56"
                     ulx="220" rend="line"/>
-                <zone xml:id="nb07_01_04_0021_verso_surface_line_02" lry="206" lrx="2370" uly="136"
+                <zone xml:id="nb07_01_04_0020_verso_surface_line_02" lry="206" lrx="2370" uly="136"
                     ulx="200" rend="line"/>
-                <zone xml:id="nb07_01_04_0021_verso_surface_line_03" lry="306" lrx="2743" uly="216"
+                <zone xml:id="nb07_01_04_0020_verso_surface_line_03" lry="306" lrx="2743" uly="216"
                     ulx="120" rend="line"/>
-                <zone xml:id="nb07_01_04_0021_verso_surface_line_04" lry="406" lrx="2700" uly="326"
+                <zone xml:id="nb07_01_04_0020_verso_surface_line_04" lry="406" lrx="2700" uly="326"
                     ulx="94" rend="line"/>
-                <zone xml:id="nb07_01_04_0021_verso_surface_line_05" lry="513" lrx="2670" uly="416"
+                <zone xml:id="nb07_01_04_0020_verso_surface_line_05" lry="513" lrx="2670" uly="416"
                     ulx="187" rend="line"/>
-                <zone xml:id="nb07_01_04_0021_verso_surface_line_06" lry="606" lrx="2567" uly="520"
+                <zone xml:id="nb07_01_04_0020_verso_surface_line_06" lry="606" lrx="2567" uly="520"
                     ulx="137" rend="line"/>
-                <zone xml:id="nb07_01_04_0021_verso_surface_line_07" lry="703" lrx="2743" uly="603"
+                <zone xml:id="nb07_01_04_0020_verso_surface_line_07" lry="703" lrx="2743" uly="603"
                     ulx="180" rend="line"/>
-                <zone xml:id="nb07_01_04_0021_verso_surface_line_08" lry="806" lrx="2613" uly="716"
+                <zone xml:id="nb07_01_04_0020_verso_surface_line_08" lry="806" lrx="2613" uly="716"
                     ulx="153" rend="line"/>
-                <zone xml:id="nb07_01_04_0021_verso_surface_line_09" lry="906" lrx="2623" uly="816"
+                <zone xml:id="nb07_01_04_0020_verso_surface_line_09" lry="906" lrx="2623" uly="816"
                     ulx="153" rend="line"/>
-                <zone xml:id="nb07_01_04_0021_verso_surface_line_10" lry="1017" lrx="687" uly="933"
+                <zone xml:id="nb07_01_04_0020_verso_surface_line_10" lry="1017" lrx="687" uly="933"
                     ulx="107" rend="line"/>
-                <zone xml:id="nb07_01_04_0021_verso_surface_line_11" lry="1093" lrx="2534"
+                <zone xml:id="nb07_01_04_0020_verso_surface_line_11" lry="1093" lrx="2534"
                     uly="1023" ulx="94" rend="line"/>
-                <zone xml:id="nb07_01_04_0021_verso_surface_line_12" lry="1190" lrx="2713"
+                <zone xml:id="nb07_01_04_0020_verso_surface_line_12" lry="1190" lrx="2713"
                     uly="1106" ulx="93" rend="line"/>
-                <zone xml:id="nb07_01_04_0021_verso_surface_line_13" lry="1290" lrx="2637"
+                <zone xml:id="nb07_01_04_0020_verso_surface_line_13" lry="1290" lrx="2637"
                     uly="1203" ulx="153" rend="line"/>
-                <zone xml:id="nb07_01_04_0021_verso_surface_line_14" lry="1390" lrx="1147"
+                <zone xml:id="nb07_01_04_0020_verso_surface_line_14" lry="1390" lrx="1147"
                     uly="1320" ulx="97" rend="line"/>
-                <zone xml:id="nb07_01_04_0021_verso_surface_line_15" lry="1486" lrx="2773"
+                <zone xml:id="nb07_01_04_0020_verso_surface_line_15" lry="1486" lrx="2773"
                     uly="1403" ulx="50" rend="line"/>
-                <zone xml:id="nb07_01_04_0021_verso_surface_line_16" lry="1600" lrx="2653"
+                <zone xml:id="nb07_01_04_0020_verso_surface_line_16" lry="1600" lrx="2653"
                     uly="1506" ulx="97" rend="line"/>
-                <zone xml:id="nb07_01_04_0021_verso_surface_line_17" lry="1706" lrx="2760"
+                <zone xml:id="nb07_01_04_0020_verso_surface_line_17" lry="1706" lrx="2760"
                     uly="1603" ulx="183" rend="line"/>
-                <zone xml:id="nb07_01_04_0021_verso_surface_line_18" lry="1800" lrx="2713"
+                <zone xml:id="nb07_01_04_0020_verso_surface_line_18" lry="1800" lrx="2713"
                     uly="1710" ulx="197" rend="line"/>
             </surface>
         </surface>
@@ -5579,13 +5581,13 @@
                 </div>
             </div>
             <!-- NW: Finished initial round of spacing/zoning proofing here, sent above affected pages to Girija for re-zoning, 2022-08-05 1:36pm. -->
+            <!-- NW: Added line 5, which was missing in editors' original CWRC transcription, zones need to be redone after line 4. -->
             <div type="image" xml:id="nb07_01_04_0017_text">
                 <div type="page" n="r.0017" xml:id="nb07_01_04_0017_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0017-recto.jpeg"
                         n="0017-recto"/>
                     <lg>
-                        <!-- Added line 5, which was missing in editors' original CWRC transcription, zones need to be redone after line 4. -->
                         <l n="01">      <seg type="begin" subtype="verse"/><quote type="begin"/>For he blew<note>Chalmers, Patrick R. "The Little Young Lambs" (see earlier note).</note></l>
                         <l n="02">      That he knew                                 <bibl>Spectator Dec 30 1922  7</bibl></l>
                         <l n="03">  Why the seasons went round</l>
@@ -5605,6 +5607,7 @@
                     </lg>
                 </div>
             </div>
+            <!-- NW: lines 6-13 need to be rezoned -->
             <div type="image" xml:id="nb07_01_04_0018_text">
                 <div type="page" n="v.0018" xml:id="nb07_01_04_0018_verso_text">
                     <pb
@@ -5638,7 +5641,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0019-recto.jpeg"
                         n="0019-recto"/>
                     <lg>
-                        <l n="01">                     <quote type="begin"/> parasites<note>Prodgers, Cecil Herbert. <hi rend="italic">Adventures in Bolivia</hi> (see earlier note). MM repeats this title below.</note> spring from the distorted roots, trunks of                     8</l>
+                        <l n="01"> <quote type="begin"/>parasites<note>Prodgers, Cecil Herbert. <hi rend="italic">Adventures in Bolivia</hi> (see earlier note). MM repeats this title below.</note> spring from the distorted roots, trunks of     8</l>
                         <l n="02"> Ceibas &amp; of Bo<del>r</del>ngos &amp; butterflies, light &amp; dark blue,</l>
                         <l n="03"> purple &amp; yellow, flying about in flocks. Parrots</l>
                         <l n="04"> darted high above his head, chattering &amp; shrieking,</l>
@@ -5663,24 +5666,24 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0020-verso.jpeg"
                         n="0020-verso"/>
                     <lg>
-                        <l n="01">                     <quote type="begin"/>   &amp; I shall always look back w pleasure to                        the<note>Prodgers, Cecil Herbert. <hi rend="italic">Adventures in Bolivia</hi> (see earlier note).</note></l>
-                        <l n="02"> weeks spent w him &amp; his llamas &amp; hives.</l>
+                        <l n="01">  <quote type="begin"/>&amp; I shall always look back w pleasure to the<note>Prodgers, Cecil Herbert. <hi rend="italic">Adventures in Bolivia</hi> (see earlier note).</note></l>
+                        <l n="02">  weeks spent w him &amp; his llamas &amp; hives.</l>
                         <l n="03"/>
                         <l n="04">91    Some beautiful birds sitting on a big wild cotton tree,</l>
-                        <l n="05"> . . . . They were about the size of doves, light green in body,</l>
-                        <l n="06"> w purple wings, scarlet breasts, yellow heads &amp;</l>
-                        <l n="07"> black beaks, but they were not of the parrot species.</l>
-                        <l n="08"> This was <hi rend="shorthand_the">the only spot in the forest wher<del/>e I noticed</hi></l>
-                        <l n="09"> these pretty birds, &amp; I saw them at the same place</l>
-                        <l n="10"> coming back.</l>
+                        <l n="05">  . . . . They were about the size of doves, light green in body,</l>
+                        <l n="06">  w purple wings, scarlet breasts, yellow heads &amp;</l>
+                        <l n="07">  black beaks, but they were not of the parrot species.</l>
+                        <l n="08">  This was <hi rend="shorthand_the">the only spot in the forest wher<del/>e I noticed</hi></l>
+                        <l n="09">  these pretty birds, &amp; I saw them at the same place</l>
+                        <l n="10">  coming back.</l>
                         <l n="11"> </l>
-                        <l n="12"> 99       I started off again along the stream to the dead</l>
-                        <l n="13"> mule, w <hi rend="shorthand_the">the</hi> Indian, his son &amp; 3 other Indians,</l>
-                        <l n="14"> &amp; 6 mongrel dogs.</l>
+                        <l n="12">99       I started off again along the stream to the dead</l>
+                        <l n="13">  mule, w <hi rend="shorthand_the">the</hi> Indian, his son &amp; 3 other Indians,</l>
+                        <l n="14">  &amp; 6 mongrel dogs.</l>
                         <l n="15"/>
                         <l n="16">106    Growing low down on some trees close to the pool</l>
-                        <l n="17"> were 2 lovely orchids of a brilliant scarlet colour</l>
-                        <l n="18"> w yellow centre. One had 3 blossoms &amp; the<quote type="end"/></l>
+                        <l n="17">  were 2 lovely orchids of a brilliant scarlet colour</l>
+                        <l n="18">  w yellow centre. One had 3 blossoms &amp; the<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -5690,23 +5693,23 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0021-recto.jpeg"
                         n="0021-recto"/>
                     <lg>
-                        <l n="01">                     <quote type="begin"/>other four; they were growing together as one plant                        9<note>Prodgers, Cecil Herbert. <hi rend="italic">Adventures in Bolivia</hi> (see earlier note).</note></l>
-                        <l n="02"> &amp; had 5 more blossoms ready to burst in a day or</l>
-                        <l n="03"> so. I should say this was a scarlet  cattleya; in any case,</l>
-                        <l n="04"> it must have been a very rare specimen of orchid,</l>
-                        <l n="05"> because although I saw many varieties on my</l>
-                        <l n="06"> journey, &amp; often the same specimens repeated, I never</l>
-                        <l n="07"> came across this particular specimen again.</l>
+                        <l n="01">  <quote type="begin"/>other four; they were growing together as one plant  9<note>Prodgers, Cecil Herbert. <hi rend="italic">Adventures in Bolivia</hi> (see earlier note).</note></l>
+                        <l n="02">  &amp; had 5 more blossoms ready to burst in a day or</l>
+                        <l n="03">  so. I should say this was a scarlet  cattleya; in any case,</l>
+                        <l n="04">  it must have been a very rare specimen of orchid,</l>
+                        <l n="05">  because although I saw many varieties on my</l>
+                        <l n="06">  journey, &amp; often the same specimens repeated, I never</l>
+                        <l n="07">  came across this particular specimen again.</l>
                         <l n="08"/>
                         <l n="09"> 107    I saw that day 40 or 50 big coffee coloured</l>
-                        <l n="10"> monkeys, which were very tame &amp; seemed to follow</l>
-                        <l n="11"> us along the trees from branch to branch. I</l>
-                        <l n="12"> have seen some monkeys in different parts of the world</l>
-                        <l n="13"> in my time, but I never came across such</l>
-                        <l n="14"> climbers as these.</l>
-                        <l n="15">                     <hi rend="pencil">tells of a curious animal that he bought</hi></l>
+                        <l n="10">  monkeys, which were very tame &amp; seemed to follow</l>
+                        <l n="11">  us along the trees from branch to branch. I</l>
+                        <l n="12">  have seen some monkeys in different parts of the world</l>
+                        <l n="13">  in my time, but I never came across such</l>
+                        <l n="14">  climbers as these.</l>
+                        <l n="15">                      <hi rend="pencil">tells of a curious animal that he bought</hi></l>
                         <l n="16"> 193 . . (It was stuffed w <del>lo</del>long grass &amp; cost me 10/<note>This long parenthetical passage is concluded on the following page.</note></l>
-                        <l n="17"> turning out eventually to be a bear w a tail<quote type="end"/></l>
+                        <l n="17">  turning out eventually to be a bear w a tail<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -5727,8 +5730,8 @@
                         <l n="09"> 196.     I often tried to find one of those bears w</l>
                         <l n="10"> a tail that Mendizabal said existed here. <quote type="end"/></l>
                         <l n="11"/>
-                        <l n="12">                     <bibl type="begin"/>Forum     May 1923     Robt Bridges.<note><!-- type="glossary" -->Bridges, Robert [1844-1930]. English poet, who served as Poet Laureate from 1913 to 1930.</note></l>
-                        <l n="13">  Poetic diction in English.<note>Bridges, Robert. "Poetic Diction in English." 69 (May 1923): 1536-43. </note>                     <bibl type="end"/></l>
+                        <l n="12"> <bibl type="begin"/>Forum     May 1923     Robt Bridges.<note><!-- type="glossary" -->Bridges, Robert [1844-1930]. English poet, who served as Poet Laureate from 1913 to 1930.</note></l>
+                        <l n="13">   Poetic diction in English.<note>Bridges, Robert. "Poetic Diction in English." 69 (May 1923): 1536-43. </note>                     <bibl type="end"/></l>
                         <l n="14"/>
                         <l n="15"> <quote type="begin"/>It is difficult to dissociate the quality of Diction from</l>
                         <l n="16"> 2 other matters, namely Properties &amp; Keeping. Properties</l>
@@ -5736,13 +5739,14 @@
                     </lg>
                 </div>
             </div>
+            <!-- NW: Line 11 needs to be rezoned -->
             <div type="image" xml:id="nb07_01_04_0023_text">
                 <div type="page" n="r.0023" xml:id="nb07_01_04_0023_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0023-recto.jpeg"
                         n="0023-recto"/>
                     <lg>
-                        <l n="01">                     <quote type="begin"/><note>Bridges, Robert. "Poetic Diction in English" (see earlier note).</note>   Keeping is taken from Painting &amp; has no                     convenient 10</l>
+                        <l n="01">   <quote type="begin"/><note>Bridges, Robert. "Poetic Diction in English" (see earlier note).</note>Keeping is taken from Painting &amp; has no convenient 10</l>
                         <l n="02"> synonym, but it may be explained as the harmonizing</l>
                         <l n="03"> of the artistic medium. . . . . no Property is</l>
                         <l n="04"> absurd if it is in Keeping. . . . . The higher</l>
@@ -5752,7 +5756,7 @@
                         <l n="08"> of imaginative diction should use such Properties</l>
                         <l n="09"> as are difficult of harmonization, he will</l>
                         <l n="10"> discredit both the Properties &amp; the Diction.<quote type="end"/></l>
-                        <l n="11">                     1921</l>
+                        <l n="11">                                                                    1921</l>
                         <l n="12"> <bibl rend="begin"/>A Book of Old Embroidery ed. Geoffrey Holme<note><!-- type="glossary" -->Holme, C. Geoffrey [1848-1923]. English journalist and art critic; founding editor of The Studio (1893). He published a series of books on "peasant art" in the early twentieth century.</note></l>
                         <l n="13"> The Studio <note>Holme, Geoffrey, ed. <hi rend="italic">A Book of Old Embroidery</hi>. London, New York: The Studio, Ltd. 1921.</note>Ltd Lond Paris NY <bibl rend="end"/></l>
                         <l n="14"> plate 21   <quote type="begin"/>17th c Panel of canvas eml'd w</l>
@@ -5770,24 +5774,24 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0024-verso.jpeg"
                         n="0024-verso"/>
                     <lg>
-                        <l n="01">                     <bibl type="begin"/>50         New Poems for Children</l>
+                        <l n="01"> <bibl type="begin"/>50         New Poems for Children</l>
                         <l n="02"> an anthology . . .    Published by Basil Blackwell</l>
-                        <l n="03"> Oxford.<note>King, Edith. "Useful Things." <hi rend="italic">50 New Poems for Children Selected from Books Recently Published by Basil Blackwell</hi>. Ed. Basil Blackwell. (Oxford University Press, 1922) 32-33.</note></l>
-                        <l n="04"> Edith King<note><!-- type="glossary" -->King, Edith [1871-1962]. Poet born in South Africa, lived primarily in England.</note>--<hi rend="underline">Useful things</hi>     p. 33<bibl type="end"/></l>
-                        <l n="05">                     <seg type="begin" subtype="verse"/><quote type="begin"/>               I'd like                     so very much to have</l>
+                        <l n="03">  Oxford.<note>King, Edith. "Useful Things." <hi rend="italic">50 New Poems for Children Selected from Books Recently Published by Basil Blackwell</hi>. Ed. Basil Blackwell. (Oxford University Press, 1922) 32-33.</note></l>
+                        <l n="04"> Edith King<note><!-- type="glossary" -->King, Edith [1871-1962]. Poet born in South Africa, lived primarily in England.</note>&#8211;<hi rend="underline">Useful things</hi>     p. 33<bibl type="end"/></l>
+                        <l n="05">        <seg type="begin" subtype="verse"/><quote type="begin"/>I'd like so very much to have</l>
                         <l n="06">         Some of the useful things</l>
                         <l n="07">         That lucky birds &amp; beasts have got,</l>
                         <l n="08">         And first of all their wings;</l>
                         <l n="09"> </l>
-                        <l n="10">          For then into the apple-tree</l>
+                        <l n="10">         For then into the apple-tree</l>
                         <l n="11">          I should not need to climb,</l>
-                        <l n="12">         And graze my legs &amp; tear my frock,</l>
+                        <l n="12">          And graze my legs &amp; tear my frock,</l>
                         <l n="13">          In getting down each time.</l>
                         <l n="14"> </l>
-                        <l n="15">          Then when the flies are troublesome</l>
-                        <l n="16">           I'd like to have a tail,</l>
-                        <l n="17">           And when I'm battling with the wasps</l>
-                        <l n="18">             The beetle's coat of mail.<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="15">         Then when the flies are troublesome</l>
+                        <l n="16">          I'd like to have a tail,</l>
+                        <l n="17">          And when I'm battling with the wasps</l>
+                        <l n="18">           The beetle's coat of mail.<quote type="end"/><seg type="end" subtype="verse"/></l>
                     </lg>
                 </div>
             </div>
@@ -5797,25 +5801,25 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0025-recto.jpeg"
                         n="0025-recto"/>
                     <lg>
-                        <l n="01">                     <note>King, Edith. "Useful Things" (see previous note).</note>                     <seg type="begin" subtype="verse"/><quote type="begin"/>                   When                     I am bathing in the sea</l>
-                        <l n="02">             And find it hard to float,                     11</l>
-                        <l n="03">              I'd like to borrow from the duck</l>
-                        <l n="04">              Her web &amp; oily coat.</l>
+                        <l n="01">        <note>King, Edith. "Useful Things" (see previous note).</note><seg type="begin" subtype="verse"/><quote type="begin"/>When I am bathing in the sea</l>
+                        <l n="02">        And find it hard to float,                          11</l>
+                        <l n="03">         I'd like to borrow from the duck</l>
+                        <l n="04">         Her web &amp; oily coat.</l>
                         <l n="05"/>
-                        <l n="06">              For thus provided I could live</l>
-                        <l n="07">              On land in air or sea</l>
-                        <l n="08">              And fly and flap &amp; fight &amp; float,</l>
-                        <l n="09">                 Just as it suited me.<quote type="end"/><seg type="end" subtype="verse"/></l>
-                        <l n="10">                     <bibl type="begin"/>May 2<del>1</del>7. 1923          Punch.     25 April                     1923</l>
-                        <l n="11">      Mediaeval<bibl type="end"/><note>"Mediæval." Punch (25 April 1923). MM cites this poem in the notes to "Sea Unicorns And Land Unicorns," first published in Observations. New York: The Dial Press, 1924: 91-93.</note></l>
-                        <l n="12"><seg type="begin" subtype="verse"/><quote type="begin"/>                     In forest fair, a forest rare</l>
-                        <l n="13">              And of an age remote</l>
-                        <l n="14">              A unicorn did walk one morn,</l>
-                        <l n="15">              Yclad in moonbeam coat,<note>MM changes the words "moonbeam coat" to "moonbeam throat" in "Sea Unicorns And Land Unicorns."</note></l>
-                        <l n="16">              As white as way he walked that day</l>
-                        <l n="17">                    of mediaeval spring</l>
-                        <l n="18">              And heralds 3 ran out to see</l>
-                        <l n="19">              The fair heraldic thing.<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="06">         For thus provided I could live</l>
+                        <l n="07">         On land in air or sea</l>
+                        <l n="08">         And fly and flap &amp; fight &amp; float,</l>
+                        <l n="09">            Just as it suited me.<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="10"><bibl type="begin"/>May 2<del>1</del>7. 1923  Punch.  25 April 1923</l>
+                        <l n="11"> Mediaeval<bibl type="end"/><note>"Mediæval." Punch (25 April 1923). MM cites this poem in the notes to "Sea Unicorns And Land Unicorns," first published in Observations. New York: The Dial Press, 1924: 91-93.</note></l>
+                        <l n="12">                <seg type="begin" subtype="verse"/><quote type="begin"/>In forest fair, a forest rare</l>
+                        <l n="13">         And of an age remote</l>
+                        <l n="14">         A unicorn did walk one morn,</l>
+                        <l n="15">         Yclad in moonbeam coat,<note>MM changes the words "moonbeam coat" to "moonbeam throat" in "Sea Unicorns And Land Unicorns."</note></l>
+                        <l n="16">         As white as way he walked that day</l>
+                        <l n="17">             of mediaeval spring</l>
+                        <l n="18">         And heralds 3 ran out to see</l>
+                        <l n="19">         The fair heraldic thing.<quote type="end"/><seg type="end" subtype="verse"/></l>
                     </lg>
                 </div>
             </div>
@@ -5825,7 +5829,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0026-verso.jpeg"
                         n="0026-verso"/>
                     <lg>
-                        <l n="01"><seg type="begin" subtype="verse"/><quote type="begin"/>                     In tabards trim they followed him,</l>
+                        <l n="01">          <seg type="begin" subtype="verse"/><quote type="begin"/>In tabards trim they followed him,</l>
                         <l n="02">           Through jocund groves &amp; green,</l>
                         <l n="03">               " "</l>
                         <l n="04">           For sum, they prayed Marcelle to aid;</l>
@@ -5837,11 +5841,11 @@
                         <l n="10">               Till magic hop upon her lap</l>
                         <l n="11">            His mild wild head doth lie<quote type="end"/><seg type="end" subtype="verse"/>. . . . . --etc<note>MM quotes from the previous two lines and this line in "Sea Unicorns And Land Unicorns," acknowledging the quotation imprecisely in her notes.</note></l>
                         <l n="12"/>
-                        <l n="13">                     <bibl type="begin"/>L. Ill News,         April 21     1923</l>
+                        <l n="13">  <bibl type="begin"/>L. Ill News,         April 21     1923</l>
                         <l n="14"> Hunting without rifle         African animals at home.<bibl type="end"/><note>Dugmore, Arthur Radclyffe. "Hunting Without Rifle: African Animals at Home Filmed For The 'Wonderland' of Big Game." Illustrated London News (21 April 1923):630-631.</note></l>
                         <l n="15">     Major A Radclyffe Dugmore<note><!-- type="glossary" -->Dugmore, Arthur Radclyffe [1870–1955]. A Welsh-born pioneering American naturalist and wildlife photographer, painter, print-maker and author.</note></l>
                         <l n="16">   <quote type="begin"/>a group of giraffes--well built for observation purposes</l>
-                        <l n="17">                     peculiarly</l>
+                        <l n="17">                        peculiarly</l>
                         <l n="18"> &amp; accustomed to enhance their height by going to<quote type="end"/></l>
                     </lg>
                 </div>
@@ -5852,8 +5856,8 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0027-recto.jpeg"
                         n="0027-recto"/>
                     <lg>
-                        <l n="01">                     <note>Dugmore, Arthur Radclyffe. "Hunting Without Rifle" (see earlier note).</note><quote type="begin"/>       the top of a hill to extend their                     view. . . . Every animal</l>
-                        <l n="02">  in the film is shown alive &amp; happy and in its natural                     12</l>
+                        <l n="01"><note>Dugmore, Arthur Radclyffe. "Hunting Without Rifle" (see earlier note).</note><quote type="begin"/>the top of a hill to extend their view . . . . Every animal</l>
+                        <l n="02">  in the film is shown alive &amp; happy and in its natural                   12</l>
                         <l n="03">  surroundings. ... A note supplied with the hippopotamus</l>
                         <l n="04">  group says: These animals are getting very scarce and are</l>
                         <l n="05">  extremely shy. . . . They require to be entirely undisturbed</l>
@@ -5864,52 +5868,53 @@
                         <l n="10">  insectivorous diet etc. . . . equally at home either w</l>
                         <l n="11">  rhinoceros or hippo."<quote type="end"/></l>
                         <l n="12"/>
-                        <l n="13"> 646 <bibl type="begin"/>       Training for the Cambodian Royal                     corps</l>
-                        <l n="14"> de Ballet.    (Angkor)   (M V. Forbin)<note>"Training For The Cambodian Royal Corps de Ballet at a Famous Temple: Pilgrim Dancers at Angkor." Illustrated London News (21 April 1923): 646-647.</note><bibl type="end"/></l>
+                        <l n="13"> 646        <bibl type="begin"/>Training for the Cambodian Royal corps</l>
+                        <l n="14">  de Ballet.    (Angkor)   (M V. Forbin)<note>"Training For The Cambodian Royal Corps de Ballet at a Famous Temple: Pilgrim Dancers at Angkor." Illustrated London News (21 April 1923): 646-647.</note><bibl type="end"/></l>
                         <l n="15"/>
-                        <l n="16">                       <bibl type="begin"/>The Disobedient Kids <note>Němcová, Božena. The Disobedient Kids and Other Czecho-Slovak Fairy Tales. Prague, London, and New York:B. Koci, Philip Allan &amp; Co., Harper &amp; Brothers, 1921.</note>   Bozena                        Nemcova<note><!-- type="glossary" -->Němcová, Božena [1820-1862]. A Czech writer of the final phase of the Czech National Revival movement.</note><bibl type="end"/></l>
+                        <l n="16">     <bibl type="begin"/>The Disobedient Kids <note>Němcová, Božena. The Disobedient Kids and Other Czecho-Slovak Fairy Tales. Prague, London, and New York:B. Koci, Philip Allan &amp; Co., Harper &amp; Brothers, 1921.</note>   Bozena Nemcova<note><!-- type="glossary" -->Němcová, Božena [1820-1862]. A Czech writer of the final phase of the Czech National Revival movement.</note><bibl type="end"/></l>
                         <l n="17">     Phillip Allen --    5 Quality Ct Chancery Lane WC2</l>
                         <l n="18">     Harper  N.Y.</l>
                     </lg>
                 </div>
             </div>
-            <!-- 28 should be rechecked, lines 9-11 look kinda fishy. -->
+            <!-- NW: needs to be rezoned starting from line 9 (blank line) to the end, vertical line should all be in one text zone. -->
             <div type="image" xml:id="nb07_01_04_0028_text">
                 <div type="page" n="v.0028" xml:id="nb07_01_04_0028_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0028-verso.jpeg"
                         n="0028-verso"/>
                     <lg>
-                        <l n="01">                     <note>Němcová, Božena. The Disobedient Kids (see earlier note).</note><quote type="begin"/>The frog &amp; Belinka.     See here she said gently</l>
-                        <l n="02">    tapping him on the head-- Must you eat the milk only</l>
-                        <l n="03">     You must eat the bread too. The mother</l>
-                        <l n="04">     hearing B. talking to some one ran out of the house</l>
+                        <l n="01"> <note>Němcová, Božena. The Disobedient Kids (see earlier note).</note><quote type="begin"/>The frog &amp; Belinka.     See here she said gently</l>
+                        <l n="02"> tapping him on the head-- Must you eat the milk only</l>
+                        <l n="03">   You must eat the bread too. The mother</l>
+                        <l n="04">   hearing B. talking to some one ran out of the house</l>
                         <l n="05">   &amp; seeing a frog eating w her child killed him.</l>
                         <l n="06">   From that time B ate her bread and milk alone</l>
-                        <l n="07">  but she pined for that little frog that had</l>
-                        <l n="08">    been such a good playmate.<quote type="end"/></l>
+                        <l n="07">   but she pined for that little frog that had</l>
+                        <l n="08">     been such a good playmate.<quote type="end"/></l>
                         <l n="09"/>
-                        <l n="10">                     <bibl type="begin"/>Creative Spirits    Georg Brandes. Crowell,<note><!-- type="glossary" -->Brandes, Georg Morris Cohen [1842–1927]. A Danish critic and scholar, influential on Scandinavian and European literature.</note><note>Brandes, Georg. Creative Spirits of The Nineteenth Century. Translated by Rasmus B. Anderson. New York: Thomas Y. Crowell Company, 1923.</note><bibl type="end"/></l>
-                        <l n="11">                     <quote type="begin"/>    J S Mill. they had finally (Copenhagen univ-</l>
-                        <l n="12">         ersity students) together w all the rest of the</l>
-                        <l n="13">         world at that time became "emancipated"</l>
-                        <l n="14">         from Hegel", which however must be so</l>
-                        <l n="15">         interpreted as to admit of H's still remaining</l>
-                        <l n="16">         first &amp; last in their mental sphere<quote type="end"/></l>
+                        <l n="10"> <bibl type="begin"/>Creative Spirits    <hi rend="underline">Georg Brandes</hi>. Crowell,<note><!-- type="glossary" -->Brandes, Georg Morris Cohen [1842–1927]. A Danish critic and scholar, influential on Scandinavian and European literature.</note><note>Brandes, Georg. Creative Spirits of The Nineteenth Century. Translated by Rasmus B. Anderson. New York: Thomas Y. Crowell Company, 1923.</note><bibl type="end"/></l>
+                        <l n="11">   <quote type="begin"/>J S Mill. they had finally (Copenhagen univ-</l>
+                        <l n="12">   ersity students) together w all the rest of the</l>
+                        <l n="13">   world at that time became "emancipated"</l>
+                        <l n="14">   from Hegel", which however must be so</l>
+                        <l n="15">   interpreted as to admit of H's still remaining</l>
+                        <l n="16">   first &amp; last in their mental sphere<quote type="end"/></l>
                     </lg>
                     <lg type="vertical">
-                        <l n="v01"><!-- desc: Left margin, lines 16-02, in 2 rows of script --> <quote type="begin"/>He darted out his tongue &amp; took a little sip<quote type="end"/></l>
+                        <l n="v01"><!-- desc: Left margin, lines 16-02, in 2 rows of script --> <quote type="begin"/>He darted out his tongue &amp; took a little / sip<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
+            <!-- NW: line 2 needs to be rezoned -->
             <div type="image" xml:id="nb07_01_04_0029_text">
                 <div type="page" n="r.0029" xml:id="nb07_01_04_0029_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0029-recto.jpeg"
                         n="0029-recto"/>
                     <lg>
-                        <l n="01">                     <bibl type="begin"/>Current Events   May 28 June 1     1923            13</l>
-                        <l n="02">        ____________________________________________________________</l>
+                        <l n="01">     <bibl type="begin"/>Current Events   May 28 June 1     1923            13</l>
+                        <l n="02">         _____________________________</l>
                         <l n="02">     Chance for Inventors:<note>MM quotes from Sir William Bell, "Chance for Inventors," in the poem and Notes to "An Octopus," first published in Observations. New York: The Dial Press, 1924, 83-90. </note><bibl type="end"/> <quote type="begin"/>Sir Wm Bell of the Brit. Institute</l>
                         <l n="03">     of Patentees has made list of inventions that</l>
                         <l n="04">     he says the world needs.            His list includes</l>
@@ -5930,13 +5935,14 @@
                     </lg>
                 </div>
             </div>
+            <!-- NW: lines 3 & 4 need to be rezoned -->
             <div type="image" xml:id="nb07_01_04_0030_text">
                 <div type="page" n="v.0030" xml:id="nb07_01_04_0030_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0030-verso.jpeg"
                         n="0030-verso"/>
                     <lg>
-                        <l n="01">     <note>"Chance for Inventors" (see earlier note). </note>  <quote type="begin"/>on the palate</l>
+                        <l n="01">     <note>"Chance for Inventors" (see earlier note).</note><quote type="begin"/>on the palate</l>
                         <l n="02">              Talking moving pictures<quote type="end"/></l>
                         <l n="03"/>
                         <l n="04">         <bibl type="begin"/>Forsyte Saga<note>Galsworthy, John. <hi rend="italic">To Let</hi> (William Heinemann, 1921) is the third novel in the series published in 1922 as <hi rend="italic">The</hi> <hi rend="italic">Forsyte Saga</hi>. </note><bibl type="end"/>        J. Galsworthy.<note><!-- type="glossary" -->Galsworthy, John [1867-1933]. Nobel-prize winning English novelist and playwright. </note>      To Let      681</l>
@@ -5956,6 +5962,7 @@
                     </lg>
                 </div>
             </div>
+            <!-- NW: Finished 2nd round of spacing/zoning proofing here, sent above affected pages to Girija for re-zoning, 2022-08-06 12:23pm. -->
             <div type="image" xml:id="nb07_01_04_0031_text">
                 <div type="page" n="r.0031" xml:id="nb07_01_04_0031_recto_text">
                     <pb
