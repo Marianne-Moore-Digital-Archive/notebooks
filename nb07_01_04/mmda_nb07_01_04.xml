@@ -668,8 +668,8 @@
                     uly="1533" ulx="2037" rend="line"/>
                 <zone xml:id="nb07_01_04_0017_recto_surface_line_15" lry="1743" lrx="2640"
                     uly="1620" ulx="906" rend="line"/>
-                <zone xml:id="nb07_01_04_0017_recto_surface_line_16" lry="0" lrx="0"
-                    uly="0" ulx="0" rend="line"/>
+                <zone xml:id="nb07_01_04_0017_recto_surface_line_16" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
             </surface>
         </surface>
         <surface xml:id="nb07_01_04_0018_surface">
@@ -1707,8 +1707,6 @@
                     ulx="154" rend="line"/>
                 <zone xml:id="nb07_01_04_0042_verso_surface_line_18" lry="1680" lrx="2860"
                     uly="1626" ulx="0" rend="line"/>
-                <zone xml:id="nb07_01_04_0042_verso_surface_line_19" lry="1793" lrx="2650"
-                    uly="1716" ulx="300" rend="line"/>
             </surface>
         </surface>
         <surface xml:id="nb07_01_04_0043_surface">
@@ -5197,7 +5195,7 @@
                         <l n="02">                  14 St. Luke's Place</l>
                         <l n="03">                       N.Y.C.</l>
                         <l n="04"> </l>
-                        <l n="05">1250/4<note>These identification numbers were entered by Rosenbach staff, before they moved to the roman numeral system (VII.01.04 for this notebook). </note></l>
+                        <l n="05">1250/4<note>These identification numbers were entered by Rosenbach staff, before they moved to the roman numeral system (VII.01.04 for this notebook).</note></l>
                         <l n="06">                     <hi rend="underline">Jan. 1 1923</hi></l>
                         <l n="07">                 See Standard 142</l>
                         <l n="08">   Book III</l>
@@ -5217,7 +5215,7 @@
                         <l n="04">                                   Book III</l>
                         <l n="05"><hi rend="pencil">The Law of the Sea</hi></l>
                         <l n="06">   <hi rend="pencil"> George Canfield</hi><bibl/></l>
-                        <l n="07"><hi rend="pencil">Appleton   1921</hi><note>Canfield, George, George W. Dalzell, and Jasper Yeates Brinton. The Law of the Sea: A Manual of the Principles of Admiralty Law For Students, Mariners and Ship Operators. NY and London: D. Appleton &amp; Company, 1921. </note></l>
+                        <l n="07"><hi rend="pencil">Appleton   1921</hi><note>Canfield, George, George W. Dalzell, and Jasper Yeates Brinton. The Law of the Sea: A Manual of the Principles of Admiralty Law For Students, Mariners and Ship Operators. NY and London: D. Appleton &amp; Company, 1921.</note></l>
                     </lg>
                 </div>
             </div>
@@ -5256,7 +5254,7 @@
                         <l n="17"> not understand them better than men</l>
                         <l n="18"> but they like them better. If he has no</l>
                         <l n="19"> wings . . . let him reserve for matrimony</l>
-                        <l n="20"> the masc. privileges of crudity--&amp; ignorance</l>
+                        <l n="20"> the masc. privileges of crudity&#8211;&amp; ignorance</l>
                         <l n="21">     ¶ Assuming that he is reasonably young,</l>
                         <l n="22"> not too ill looking, not too poor, it may</l>
                         <l n="23"> almost be said that any man can wed</l>
@@ -5317,7 +5315,7 @@
                         <l n="11"> by Shakes. Tenn., Homer Dante etc. Women did not</l>
                         <l n="12"> have a psychology until the 17<hi rend="superscript">th</hi> c. The awakening</l>
                         <l n="13"> of jealousy shld not be risked unless for the melting of an</l>
-                        <l n="14"> emotional iceberg.   Of gifts--I would say only 2 things,</l>
+                        <l n="14"> emotional iceberg.   Of gifts&#8211;I would say only 2 things,</l>
                         <l n="15"> the 2<hi rend="superscript">nd</hi> being very English. They shd be varied. The</l>
                         <l n="16"> 2<hi rend="superscript">nd</hi> &amp; English suggestion is: don't overdo it. Gifts are</l>
                         <l n="17"> made rare mainly by their rarity. Confidences are</l>
@@ -5359,11 +5357,11 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0009-recto.jpeg"
                         n="0009-recto"/>
                     <lg>
-                        <l n="01"> <quote type="begin"/>grows dangerously enchanting--a hasty adieu--<quote type="end"/><note>Tapp&#233;, Herman Patrick. "The Encroaching Gulf Stream" (see earlier note).</note></l>
+                        <l n="01"> <quote type="begin"/>grows dangerously enchanting&#8211;a hasty adieu&#8211;<quote type="end"/><note>Tapp&#233;, Herman Patrick. "The Encroaching Gulf Stream" (see earlier note).</note></l>
                         <l n="02">                                                                                        3</l>
                         <l n="03"> <hi rend="pencil">Punch  Dec 13<bibl rend="end source"/>   <quote type="begin"/>Aunt  Did  I  hear you greet yr friend</hi></l>
                         <l n="04">    <hi rend="pencil">w H<del>e</del>ullo old Rip? I don't think its very nice.</hi></l>
-                        <l n="05">    <hi rend="pencil">Niece  No no not rip--rep--S<del>a</del>uch a mouthful to say</hi></l>
+                        <l n="05">    <hi rend="pencil">Niece  No no not rip&#8211;rep&#8211;S<del>a</del>uch a mouthful to say</hi></l>
                         <l n="06"> <hi rend="pencil">reptile every time</hi><quote type="end"/></l>
                         <l n="07">                                                                        <bibl rend="begin"/>Forum   Jan.</l>
                         <!-- NW: text zones from line 08 to end need to be redone, the "1923" in line 8 should be part of line 8, missing blank line 18, etc. -->
@@ -5422,16 +5420,16 @@
                         <l n="02">                                                                                                   4</l>
                         <l n="03"> <bibl rend="begin"/>Georgian Poetry  5th series Ed. E. M. Poetry  Bkshop London   6s</l>
                         <l n="04">Rev. by Mrs. Williams-Ellis<bibl rend="end"/><note><!-- type="glossary" -->Williams-Ellis, Amabel [1894-1984]. British author, editor, translator, and commentator on politics, culture, and women's lives, best known for editing several volumes of fairy tales and legends; literary editor of the <hi rend="italic">Spectator</hi> 1922-1923.</note><note><hi rend="underline">Georgian Poetry 1920-1922</hi>. Ed. Edward Marsh (Devonshire London: The Poetry Bookshop, 1922). Rev. by Amabel Williams-Ellis, <hi rend="underline">The Spectator</hi> December 1922.</note></l>
-                        <l n="05">       Peter Quennell--see Public School Verse about 2 yrs ago</l>
+                        <l n="05">       Peter Quennell&#8211;see Public School Verse about 2 yrs ago</l>
                         <l n="06">  a poem about a sunflower begins                              Masques &amp; Poems</l>
-                        <l n="07">                     <seg type="begin" subtype="verse"/><quote type="begin"/>"See I have bent thee by thy saffron hair Golden Cockerel<note>MM quotes Sir Peter Courtney Quennell's "A Man to a Sunflower," published in <hi rend="underline">Masques and Poems</hi> (Golden Cockerel Press, 1922). </note></l>
-                        <l n="08">                   --Oh most strange masker--"<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="07">                     <seg type="begin" subtype="verse"/><quote type="begin"/>"See I have bent thee by thy saffron hair Golden Cockerel<note>MM quotes Sir Peter Courtney Quennell's "A Man to a Sunflower," published in <hi rend="underline">Masques and Poems</hi> (Golden Cockerel Press, 1922).</note></l>
+                        <l n="08">                   &#8211;Oh most strange masker&#8211;"<quote type="end"/><seg type="end" subtype="verse"/></l>
                         <l n="09"> </l>
-                        <l n="10"> <bibl rend="begin"/>Estelle Ross.<note><!-- type="glossary" -->Ross, Estelle <!-- NW: What is the format for unknown birth and death dates? Is this correct? See page 59 for a variant example. --> [?-?]. Author of juvenile works, folklore, biographies, and history.</note>  Century--Book of noble dogs.<note>Ross, Estelle. <hi rend="underline">The Book of Noble Dogs</hi>. (NY:
+                        <l n="10"> <bibl rend="begin"/>Estelle Ross.<note><!-- type="glossary" -->Ross, Estelle <!-- NW: What is the format for unknown birth and death dates? Is this correct? See page 59 for a variant example. --> [?-?]. Author of juvenile works, folklore, biographies, and history.</note>  Century&#8211;Book of noble dogs.<note>Ross, Estelle. <hi rend="underline">The Book of Noble Dogs</hi>. (NY:
                             The Century Company, 1922). MM refers to this book on the first page of
                             her 1922-1930 poetry notebook (07.04.04).</note><bibl rend="end"/></l>
-                        <l n="11">           52 <quote type="begin"/>   Sir John   Harrington--     translator of Ariosto.</l>
-                        <l n="12">            chose as his device a spaniel--"liking as he said the</l>
+                        <l n="11">           52 <quote type="begin"/>   Sir John   Harrington&#8211;     translator of Ariosto.</l>
+                        <l n="12">            chose as his device a spaniel&#8211;"liking as he said the</l>
                         <l n="13">            modesty of it. Portrait adorns folio edition of A's Or. Furioso</l>
                         <l n="14"> his "rare dogge Bungey"<note>The spaniel's portrait is on the title page of Sir John Harrington's translation of Ariosto's <hi rend="underline">Orlando Furioso</hi>.</note></l>
                         <l n="15">     64     The said prince Grittin is newly gone to Oxford</l>
@@ -5446,15 +5444,15 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0012-verso.jpeg"
                         n="0012-verso"/>
                     <lg>
-                        <l n="01"> <bibl rend="begin"/>An Unknown Quantity--Gerard Hopkins.<note>Hopkins, Gerard [? - 1961]. British translator, nephew of the poet Gerard Manley Hopkins.</note>  Dutton. <bibl rend="end"/><note>Hopkins, Gerard. <hi rend="underline">An Unknown Quantity</hi>. (NY: E. P. Dutton &amp; Company, 1923). </note></l>
+                        <l n="01"> <bibl rend="begin"/>An Unknown Quantity&#8211;Gerard Hopkins.<note>Hopkins, Gerard [? - 1961]. British translator, nephew of the poet Gerard Manley Hopkins.</note>  Dutton. <bibl rend="end"/><note>Hopkins, Gerard. <hi rend="underline">An Unknown Quantity</hi>. (NY: E. P. Dutton &amp; Company, 1923).</note></l>
                         <l n="02"> <quote type="begin"/>It was not that Jimmy's nature was inflammable . . . . but</l>
                         <l n="03"> expressible only through the medium of caresses<quote type="end"/></l>
                         <l n="04"/>
-                        <l n="05"> <bibl rend="begin"/>The Poor Man--Stella Benson--Macmillan Reviewed by</l>
-                        <l n="06"> Will Cuppy<note><!-- type="glossary" -->Cuppy, William Jacob [1884-1949]. American humorist and journalist, known for his satire and writing on the animal kingdom. Reviewed regularly for the <hi rend="underline">Tribune</hi>. </note>   Tribune 17 Mar 1923<bibl rend="end"/>--  <note>Benson, Stella. <hi rend="underline">The Poor Man</hi>. (NY: The Macmillan Company, 1923). Rev. by Will Cuppy, <hi rend="underline">Tribune</hi> March 17 1923.</note>   <quote type="begin"/>Of course Emily</l>
+                        <l n="05"> <bibl rend="begin"/>The Poor Man&#8211;Stella Benson&#8211;Macmillan Reviewed by</l>
+                        <l n="06"> Will Cuppy<note><!-- type="glossary" -->Cuppy, William Jacob [1884-1949]. American humorist and journalist, known for his satire and writing on the animal kingdom. Reviewed regularly for the <hi rend="underline">Tribune</hi>.</note>   Tribune 17 Mar 1923<bibl rend="end"/>&#8211;  <note>Benson, Stella. <hi rend="underline">The Poor Man</hi>. (NY: The Macmillan Company, 1923). Rev. by Will Cuppy, <hi rend="underline">Tribune</hi> March 17 1923.</note>   <quote type="begin"/>Of course Emily</l>
                         <l n="07"> is loudly in love w the newspaper man    Tom is so</l>
                         <l n="08"> brilliant as well as handsome. To read his stuff</l>
-                        <l n="09"> is to love him--To know him is something else</l>
+                        <l n="09"> is to love him&#8211;To know him is something else</l>
                         <l n="10"> again. . . . Having lost at once her sang froid</l>
                         <l n="11"> &amp; her job, Emily retreats to Shanghai, where</l>
                         <l n="12"> she nearly goes mad presumably in cr&#233;pe de ch<del>e</del>ine</l>
@@ -5462,7 +5460,7 @@
                         <l n="13"> Edward has crossed <hi rend="shorthand_the">the</hi> world to hear the sound</l>
                         <l n="14"> of her voice; he hears it. It shouts harshly:</l>
                         <l n="15"> Leave me alone.<note> MM may think of these lines in drafting her portrait of Eve in "Marriage"; she stipulates, "I would like to be alone."</note> Cant you leave me alone? I</l>
-                        <l n="16"> cant bear you! --. . . Then she hit him on the Face.<quote type="end"/></l>
+                        <l n="16"> cant bear you! &#8211;. . . Then she hit him on the Face.<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -5476,10 +5474,10 @@
                         <l n="01"> <quote type="begin"/>She hit him again &amp; again   EXIT Edward. Not long<note><!-- type="glossary" -->Benson, Stella. <hi rend="underline">The Poor Man</hi>. Rev. by Will Cuppy (see earlier note)<hi rend="underline"/>.</note></l>
                         <l n="02"> enough if you ask me.<quote type="end"/>                                                     5</l>
                         <l n="03">                                            2<del><gap extent="2"/></del>nd trip</l>
-                        <l n="04">   Chinese paintings--Met. Museum Apr 7 1923<note>MM visited the Metropolitan Museum of Art Exhibition on Chinese Art in both March and April 1923.</note></l>
+                        <l n="04">   Chinese paintings&#8211;Met. Museum Apr 7 1923<note>MM visited the Metropolitan Museum of Art Exhibition on Chinese Art in both March and April 1923.</note></l>
                         <l n="05">   amid the water and clouds, the small pleasure<quote type="end"/></l>
                         <l n="06">   craft is as noticeable as is a man of leisure in</l>
-                        <l n="07">   this world--written in the f&#250;ku palace by emperor</l>
+                        <l n="07">   this world&#8211;written in the f&#250;ku palace by emperor</l>
                         <l n="08">   Hui Chung<note><!-- type="glossary" -->Hui Tsung [1082-1135]. Chinese emperor and renowned painter, also sometimes referred to as Hu Tsung or Hui Chung, and who used his personal name Zhao Ji.</note></l>
                         <l n="09"/>
                         <l n="10">                    ladies &amp;</l>
@@ -5487,7 +5485,7 @@
                         <l n="12"> way.   Sung period 960-1280</l>
                         <l n="13"> __________________________________</l>
                         <l n="14">                         o O o</l>
-                        <l n="15"> Verses by tu muh<note><!-- type="glossary" -->Tu Muh [803-852], now typically anglicized as Du Mu. One of the greatest poets of the Tang dynasty. MM follows the Metropolitan Museum in attributing to Tu Muh a poem written on Wang Wei's painting. </note> a poet of the T'ang period on a</l>
+                        <l n="15"> Verses by tu muh<note><!-- type="glossary" -->Tu Muh [803-852], now typically anglicized as Du Mu. One of the greatest poets of the Tang dynasty. MM follows the Metropolitan Museum in attributing to Tu Muh a poem written on Wang Wei's painting.</note> a poet of the T'ang period on a</l>
                         <l n="16"> landscape painted by Wang Wei written by <del>?</del>mi fei           1051-1107</l>
                         <l n="17"> <quote type="begin"/>He took 10 days to paint a river and 5 days a rock.</l>
                         <l n="18"> A masterpiece cannot be produced in haste or by pressure.</l>
@@ -5542,13 +5540,13 @@
                         <l n="10"> gathering of philosophers</l>
                         <l n="11"> eagle</l>
                         <l n="12"> palace in the mountains</l>
-                        <l n="13"> purity of purpose --   (also entitled a cabbage)</l>
-                        <l n="14"> enjoying the breeze in a fishing boat<note>Enjoying the Breeze in a Fishing-Boat (by Tang Yin) and Herd Boys Returning Home (by Zhang Yong, below) are titles of paintings; MM wrote about both to Bryher, May 5, 1923. </note> (Oxford punt)</l>
+                        <l n="13"> purity of purpose &#8211;   (also entitled a cabbage)</l>
+                        <l n="14"> enjoying the breeze in a fishing boat<note>Enjoying the Breeze in a Fishing-Boat (by Tang Yin) and Herd Boys Returning Home (by Zhang Yong, below) are titles of paintings; MM wrote about both to Bryher, May 5, 1923.</note> (Oxford punt)</l>
                         <l n="15"> Spirited horses Yen Yen Fah</l>
                         <l n="16"> The poet Tu fu in the thatched cottage</l>
                         <l n="17"> Herdboys returning home   VIIth c</l>
-                        <l n="18"> dragon in the clouds --      Birds &amp; flowers--</l>
-                        <l n="19"> to apples--peonies<quote type="end"/></l>
+                        <l n="18"> dragon in the clouds &#8211;      Birds &amp; flowers&#8211;</l>
+                        <l n="19"> to apples&#8211;peonies<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -5731,7 +5729,7 @@
                         <l n="10"> a tail that Mendizabal said existed here. <quote type="end"/></l>
                         <l n="11"/>
                         <l n="12"> <bibl type="begin"/>Forum     May 1923     Robt Bridges.<note><!-- type="glossary" -->Bridges, Robert [1844-1930]. English poet, who served as Poet Laureate from 1913 to 1930.</note></l>
-                        <l n="13">   Poetic diction in English.<note>Bridges, Robert. "Poetic Diction in English." 69 (May 1923): 1536-43. </note>                     <bibl type="end"/></l>
+                        <l n="13">   Poetic diction in English.<note>Bridges, Robert. "Poetic Diction in English." 69 (May 1923): 1536-43.</note>                     <bibl type="end"/></l>
                         <l n="14"/>
                         <l n="15"> <quote type="begin"/>It is difficult to dissociate the quality of Diction from</l>
                         <l n="16"> 2 other matters, namely Properties &amp; Keeping. Properties</l>
@@ -5763,7 +5761,7 @@
                         <l n="15"> colored silks &amp; wools &amp; gold thread in tent stitch</l>
                         <l n="16">                                          lb</l>
                         <l n="17"> of various sizes.  The em'd ground is blue, the</l>
-                        <l n="18"> name is gold--the border is worked w wool</l>
+                        <l n="18"> name is gold&#8211;the border is worked w wool</l>
                         <l n="19"> &amp; the middle in silk.<quote type="end"/></l>
                     </lg>
                 </div>
@@ -5839,12 +5837,12 @@
                         <l n="08">          Through flower &amp; thorn Sir Unicorn</l>
                         <l n="09">                  With pavon high drew nigh,</l>
                         <l n="10">               Till magic hop upon her lap</l>
-                        <l n="11">            His mild wild head doth lie<quote type="end"/><seg type="end" subtype="verse"/>. . . . . --etc<note>MM quotes from the previous two lines and this line in "Sea Unicorns And Land Unicorns," acknowledging the quotation imprecisely in her notes.</note></l>
+                        <l n="11">            His mild wild head doth lie<quote type="end"/><seg type="end" subtype="verse"/>. . . . . &#8211;etc<note>MM quotes from the previous two lines and this line in "Sea Unicorns And Land Unicorns," acknowledging the quotation imprecisely in her notes.</note></l>
                         <l n="12"/>
                         <l n="13">  <bibl type="begin"/>L. Ill News,         April 21     1923</l>
                         <l n="14"> Hunting without rifle         African animals at home.<bibl type="end"/><note>Dugmore, Arthur Radclyffe. "Hunting Without Rifle: African Animals at Home Filmed For The 'Wonderland' of Big Game." Illustrated London News (21 April 1923):630-631.</note></l>
                         <l n="15">     Major A Radclyffe Dugmore<note><!-- type="glossary" -->Dugmore, Arthur Radclyffe [1870–1955]. A Welsh-born pioneering American naturalist and wildlife photographer, painter, print-maker and author.</note></l>
-                        <l n="16">   <quote type="begin"/>a group of giraffes--well built for observation purposes</l>
+                        <l n="16">   <quote type="begin"/>a group of giraffes&#8211;well built for observation purposes</l>
                         <l n="17">                        peculiarly</l>
                         <l n="18"> &amp; accustomed to enhance their height by going to<quote type="end"/></l>
                     </lg>
@@ -5872,7 +5870,7 @@
                         <l n="14">  de Ballet.    (Angkor)   (M V. Forbin)<note>"Training For The Cambodian Royal Corps de Ballet at a Famous Temple: Pilgrim Dancers at Angkor." Illustrated London News (21 April 1923): 646-647.</note><bibl type="end"/></l>
                         <l n="15"/>
                         <l n="16">     <bibl type="begin"/>The Disobedient Kids <note>Němcová, Božena. The Disobedient Kids and Other Czecho-Slovak Fairy Tales. Prague, London, and New York:B. Koci, Philip Allan &amp; Co., Harper &amp; Brothers, 1921.</note>   Bozena Nemcova<note><!-- type="glossary" -->Němcová, Božena [1820-1862]. A Czech writer of the final phase of the Czech National Revival movement.</note><bibl type="end"/></l>
-                        <l n="17">     Phillip Allen --    5 Quality Ct Chancery Lane WC2</l>
+                        <l n="17">     Phillip Allen &#8211;    5 Quality Ct Chancery Lane WC2</l>
                         <l n="18">     Harper  N.Y.</l>
                     </lg>
                 </div>
@@ -5885,7 +5883,7 @@
                         n="0028-verso"/>
                     <lg>
                         <l n="01"> <note>Němcová, Božena. The Disobedient Kids (see earlier note).</note><quote type="begin"/>The frog &amp; Belinka.     See here she said gently</l>
-                        <l n="02"> tapping him on the head-- Must you eat the milk only</l>
+                        <l n="02"> tapping him on the head&#8211; Must you eat the milk only</l>
                         <l n="03">   You must eat the bread too. The mother</l>
                         <l n="04">   hearing B. talking to some one ran out of the house</l>
                         <l n="05">   &amp; seeing a frog eating w her child killed him.</l>
@@ -5915,7 +5913,7 @@
                     <lg>
                         <l n="01">     <bibl type="begin"/>Current Events   May 28 June 1     1923            13</l>
                         <l n="02">         _____________________________</l>
-                        <l n="02">     Chance for Inventors:<note>MM quotes from Sir William Bell, "Chance for Inventors," in the poem and Notes to "An Octopus," first published in Observations. New York: The Dial Press, 1924, 83-90. </note><bibl type="end"/> <quote type="begin"/>Sir Wm Bell of the Brit. Institute</l>
+                        <l n="02">     Chance for Inventors:<note>MM quotes from Sir William Bell, "Chance for Inventors," in the poem and Notes to "An Octopus," first published in Observations. New York: The Dial Press, 1924, 83-90.</note><bibl type="end"/> <quote type="begin"/>Sir Wm Bell of the Brit. Institute</l>
                         <l n="03">     of Patentees has made list of inventions that</l>
                         <l n="04">     he says the world needs.            His list includes</l>
                         <l n="05">           Glass that will bend</l>
@@ -5945,7 +5943,7 @@
                         <l n="01">     <note>"Chance for Inventors" (see earlier note).</note><quote type="begin"/>on the palate</l>
                         <l n="02">              Talking moving pictures<quote type="end"/></l>
                         <l n="03"/>
-                        <l n="04">         <bibl type="begin"/>Forsyte Saga<note>Galsworthy, John. <hi rend="italic">To Let</hi> (William Heinemann, 1921) is the third novel in the series published in 1922 as <hi rend="italic">The</hi> <hi rend="italic">Forsyte Saga</hi>. </note><bibl type="end"/>        J. Galsworthy.<note><!-- type="glossary" -->Galsworthy, John [1867-1933]. Nobel-prize winning English novelist and playwright. </note>      To Let      681</l>
+                        <l n="04">         <bibl type="begin"/>Forsyte Saga<note>Galsworthy, John. <hi rend="italic">To Let</hi> (William Heinemann, 1921) is the third novel in the series published in 1922 as <hi rend="italic">The</hi> <hi rend="italic">Forsyte Saga</hi>.</note><bibl type="end"/>        J. Galsworthy.<note><!-- type="glossary" -->Galsworthy, John [1867-1933]. Nobel-prize winning English novelist and playwright.</note>      To Let      681</l>
                         <l n="05">    <quote type="begin"/>I love all kinds of beauty      went on Fleur   when it's</l>
                         <l n="06">    exciting.    I don't like Greek things a bit.</l>
                         <l n="07">                What  Not Euripides?</l>
@@ -5971,8 +5969,8 @@
                     <desc>MM draws curved lines linking lines 07-15 and lines 16-17, labeling the
                         first group 2 and the second 1</desc>
                     <lg>
-                        <l n="01"> <note>Galsworthy, John. <hi rend="italic">Forsyte Saga</hi> (see earlier note). </note> <quote type="begin"/>         they'll think we're doing this on purpose too."</l>
-                        <l n="02">          . . . .  It's quite wonderful in there," she said                   14</l>
+                        <l n="01">        <note>Galsworthy, John. <hi rend="italic">Forsyte Saga</hi> (see earlier note).</note><quote type="begin"/>they'll think we're doing this on purpose too."</l>
+                        <l n="02">          . . . .  It's quite wonderful in there," she said                 14</l>
                         <l n="03">         dreamily to Holly.</l>
                         <l n="04">           Jon preserved silence, hoping against hope that</l>
                         <l n="05">      she might think it swift.</l>
@@ -5997,7 +5995,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0032-verso.jpeg"
                         n="0032-verso"/>
                     <lg>
-                        <l n="01"> <note>Galsworthy, John. <hi rend="italic">Forsyte Saga</hi> (see earlier note). </note><quote type="begin"/>760      Mont came in.      I went to my own Dad, &amp;</l>
+                        <l n="01"> <note>Galsworthy, John. <hi rend="italic">Forsyte Saga</hi> (see earlier note).</note><quote type="begin"/>760      Mont came in.      I went to my own Dad, &amp;</l>
                         <l n="02">    he says if I settle down he'll see me through. He</l>
                         <l n="03">    rather cottons to the idea in fact. I told him about</l>
                         <l n="04">    your Goya.</l>
@@ -6024,10 +6022,10 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0033-recto.jpeg"
                         n="0033-recto"/>
                     <lg>
-                        <l n="01"> <note>Galsworthy, John. <hi rend="italic">Forsyte Saga</hi> (see earlier note). </note>   <quote type="begin"/>My Dad seems to me a perfect babe . . .  But</l>
-                        <l n="02">       he's a Baronight of course; that keeps him back                             15</l>
+                        <l n="01">    <note>Galsworthy, John. <hi rend="italic">Forsyte Saga</hi> (see earlier note).</note><quote type="begin"/>My Dad seems to me a perfect babe . . .  But</l>
+                        <l n="02">       he's a Baronight of course; that keeps him back            15</l>
                         <l n="03">       . . . .  I don't dislike you Mr. Mont but Fleur</l>
-                        <l n="04">       is everything to me.   Everything--do you understand?</l>
+                        <l n="04">       is everything to me.   Everything&#8211;do you understand?</l>
                         <l n="05">          Yes, sir, I know; but so she is to me.</l>
                         <l n="06">             That's as may be.   I'm glad you've told me,</l>
                         <l n="07">       however. . . .</l>
@@ -6035,7 +6033,7 @@
                         <l n="09">          . . .  A long time I hope."<quote type="end"/></l>
                         <l n="10"/>
                         <l n="11">     <bibl type="begin"/>W. J.    Glover:      A &amp; C Black 1920     Soho Square</l>
-                        <l n="12">      British fairy &amp; folk Tales.<note>Glover, W. J., Ed. <hi rend="italic">British Fairy and Folk Tales.</hi> London: A. &amp; C. Black, 1920. </note><bibl type="end"/></l>
+                        <l n="12">      British fairy &amp; folk Tales.<note>Glover, W. J., Ed. <hi rend="italic">British Fairy and Folk Tales.</hi> London: A. &amp; C. Black, 1920.</note><bibl type="end"/></l>
                         <l n="13">     <quote type="begin"/>Melilot   <del>137</del>  136 and the  three monsters   (Dock</l>
                         <l n="14">     Dodder &amp; Squill)   lay down on it together</l>
                         <l n="15">    &amp; went to sleep on it, with their arms twisted</l>
@@ -6050,20 +6048,20 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0034-verso.jpeg"
                         n="0034-verso"/>
                     <lg>
-                        <l n="01"><note>Glover, W. J., Ed. <hi rend="italic">British Fairy and Folk Tales</hi> (see earlier note). </note><quote type="begin"/>as in their talk &amp; saw a weariness of pain</l>
+                        <l n="01">     <note>Glover, W. J., Ed. <hi rend="italic">British Fairy and Folk Tales</hi> (see earlier note).</note><quote type="begin"/>as in their talk &amp; saw a weariness of pain</l>
                         <l n="02">      defined in many a kindly-turned line of their half</l>
-                        <l n="03">       froglike faces. . . . .  How strange she said to</l>
-                        <l n="04">       herself that I should at first have thought</l>
-                        <l n="05">       them ugly. . . .   3 coats of white muslin</l>
-                        <l n="06">       daintily folded were laid by the bed of the 3</l>
-                        <l n="07">       guests, &amp; each was folded w that corner uppermost</l>
-                        <l n="08">       on which there had been written in thread the</l>
-                        <l n="09">       owner's name.  Dock was worked in the corner of one</l>
-                        <l n="10">       Dodder in the corner of another, &amp; in the corner</l>
-                        <l n="11">       of the 3rd coat, Squill.</l>
+                        <l n="03">      froglike faces. . . . .  How strange she said to</l>
+                        <l n="04">      herself that I should at first have thought</l>
+                        <l n="05">      them ugly. . . .   3 coats of white muslin</l>
+                        <l n="06">      daintily folded were laid by the bed of the 3</l>
+                        <l n="07">      guests, &amp; each was folded w that corner uppermost</l>
+                        <l n="08">      on which there had been written in thread the</l>
+                        <l n="09">      owner's name.  Dock was worked in the corner of one</l>
+                        <l n="10">      Dodder in the corner of another, &amp; in the corner</l>
+                        <l n="11">      of the 3rd coat, Squill.</l>
                         <l n="12"/>
-                        <l n="13">    206.      Silver Tassels--   Good Mother said</l>
-                        <l n="14">      the beautiful youth--and this was Splug himself</l>
+                        <l n="13">    206.     Silver Tassels&#8211;   Good Mother said</l>
+                        <l n="14">      the beautiful youth&#8211;and this was Splug himself</l>
                         <l n="15">      for Tassel's sake, no longer a rogue. . . . .   I have</l>
                         <l n="16">      worn your silver thimble on my head till it has<quote type="end"/></l>
                     </lg>
@@ -6075,7 +6073,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0035-recto.jpeg"
                         n="0035-recto"/>
                     <lg>
-                        <l n="01"> <note>Glover, W. J., Ed. <hi rend="italic">British Fairy and Folk Tales</hi> (see earlier note). </note><quote type="begin"/>grown into a silver crown.      Never ask how                        16</l>
+                        <l n="01">    <note>Glover, W. J., Ed. <hi rend="italic">British Fairy and Folk Tales</hi> (see earlier note).</note><quote type="begin"/>grown into a silver crown.      Never ask how                16</l>
                         <l n="02">       I came by it. Wear it." . . . and in the</l>
                         <l n="03">       same moment she was robed in pure silver</l>
                         <l n="04">       from top to toe.</l>
@@ -6102,7 +6100,7 @@
                     <lg>
                         <l n="01">                   <bibl type="begin"/>an answer to the Q.</l>
                         <l n="02">      What IS Poetry.           Leigh Hunt. ed A S Cook</l>
-                        <l n="03">      Ginn-- Boston 1893<bibl type="end"/><note>Hunt, Leigh. <hi rend="italic">An Answer To The Question 'What Is Poetry?' Including Remarks On Versification</hi>, edited by Albert S. Cook. Boston: Ginn &amp; Co., 1893.</note></l>
+                        <l n="03">      Ginn&#8211; Boston 1893<bibl type="end"/><note>Hunt, Leigh. <hi rend="italic">An Answer To The Question 'What Is Poetry?' Including Remarks On Versification</hi>, edited by Albert S. Cook. Boston: Ginn &amp; Co., 1893.</note></l>
                         <l n="04">                    <quote type="begin"/>Orlando Furioso</l>
                         <l n="05">  read.   Ariosto    1st  introduction of the hippogriff</l>
                         <l n="06">  32.    Love's Labo<del>ur</del>r's Lost    3. 1     176-184</l>
@@ -6121,14 +6119,15 @@
                     </lg>
                 </div>
             </div>
+            <!-- NW: rezone line 16 -->
             <div type="image" xml:id="nb07_01_04_0037_text">
                 <div type="page" n="r.0037" xml:id="nb07_01_04_0037_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0037-recto.jpeg"
                         n="0037-recto"/>
                     <lg>
-                        <l n="01"> <note>Hunt, Leigh. <hi rend="italic">An Answer To The Question 'What Is Poetry?'</hi> (see earlier note). </note><gap extent="2"/>                   <seg type="begin" subtype="verse"/><quote type="begin"/>with moonshine that are gilded.</l>
-                        <l n="02">                                                                                                             17</l>
+                        <l n="01"> <note>Hunt, Leigh. <hi rend="italic">An Answer To The Question 'What Is Poetry?'</hi> (see earlier note).</note><gap extent="2"/>                 <seg type="begin" subtype="verse"/><quote type="begin"/>with moonshine that are gilded.</l>
+                        <l n="02">                                                                                                           17</l>
                         <l n="03">       Here also is a fairy bed</l>
                         <l n="04"/>
                         <l n="05">            Of leaves of roses  white and red.</l>
@@ -6153,7 +6152,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0038-verso.jpeg"
                         n="0038-verso"/>
                     <lg>
-                        <l n="01"> <note>Hunt, Leigh. <hi rend="italic">An Answer To The Question 'What Is Poetry?'</hi> (see earlier note). </note><seg type="begin" subtype="verse"/><quote type="begin"/>         That he should raise his mitred crest on high,</l>
+                        <l n="01">          <seg type="begin" subtype="verse"/><quote type="begin"/><note>Hunt, Leigh. <hi rend="italic">An Answer To The Question 'What Is Poetry?'</hi> (see earlier note).</note>That he should raise his mitred crest on high,</l>
                         <l n="02">       And clap his wings &amp; call his family</l>
                         <l n="03">       To sacred rites; &amp; vex the ethereal powers</l>
                         <l n="04">       W midnight matins at uncivil hours;</l>
@@ -6172,13 +6171,14 @@
                     </lg>
                 </div>
             </div>
+            <!-- NW: line 8 should be rezoned to include the initial ellipses -->
             <div type="image" xml:id="nb07_01_04_0039_text">
                 <div type="page" n="r.0039" xml:id="nb07_01_04_0039_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0039-recto.jpeg"
                         n="0039-recto"/>
                     <lg>
-                        <l n="01"> <note>Hunt, Leigh. <hi rend="italic">An Answer To The Question 'What Is Poetry?'</hi> (see earlier note). </note><quote type="begin"/>       63    Dryden confessed that a rime often gave         18</l>
+                        <l n="01"> <quote type="begin"/>       <note>Hunt, Leigh. <hi rend="italic">An Answer To The Question 'What Is Poetry?'</hi> (see earlier note).</note>63    Dryden confessed that a rime often gave        18</l>
                         <l n="02">      him a thought.</l>
                         <l n="03">          Boileau's trick for appearing to rime naturally</l>
                         <l n="04">     was to compose the 2nd line of his couplet first!</l>
@@ -6204,85 +6204,88 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0040-verso.jpeg"
                         n="0040-verso"/>
                     <lg>
-                        <l n="01"> <note>Hunt, Leigh. <hi rend="italic">An Answer To The Question 'What Is Poetry?'</hi> (see earlier note). </note><quote type="begin"/>     the universal profoundly simple Chaucer; &amp; luxuriant</l>
+                        <l n="01">      <note>Hunt, Leigh. <hi rend="italic">An Answer To The Question 'What Is Poetry?'</hi> (see earlier note).</note><quote type="begin"/>the universal profoundly simple Chaucer; &amp; luxuriant</l>
                         <l n="02">  remote Spenser.    Then the airy, yet robust</l>
                         <l n="03">  universality of Ariosto.<quote type="end"/></l>
                         <l n="04"/>
-                        <l n="05">  <bibl rend="begin"/>Barney--     Hurst. <note><bibl rend="end"/><note>Hurst, S. B. H. <hi rend="italic">Barney</hi>. New York: Harper &amp; Brothers, 1923.</note></note> 99<bibl rend="end"/> <quote type="begin"/> the water felt like burning ice<quote type="end"/></l>
+                        <l n="05">  <bibl rend="begin"/>Barney&#8211;     Hurst. <note><bibl rend="end"/><note>Hurst, S. B. H. <hi rend="italic">Barney</hi>. New York: Harper &amp; Brothers, 1923.</note></note> 99<bibl rend="end"/> <quote type="begin"/> the water felt like burning ice<quote type="end"/></l>
                         <l n="06"/>
-                        <l n="07"> <bibl type="begin"/>Ad.  Seltzer:<bibl type="end"/> <note>Ad. for the Seltzer bookstore in the <hi rend="italic">Dial</hi> 74.6, June 1923: vii. MM quotes from two reviews in the Seltzer ad, of D. H. Lawrence's <hi rend="italic">The Captain's Doll</hi> (1923) and Ivan A. Bunin's <hi rend="italic">The Gentleman From San Francisco</hi>, translated by Lawrence (1922). </note>       <quote type="begin"/>The captain's doll--Lawrence's genius</l>
+                        <l n="07"> <bibl type="begin"/>Ad.  Seltzer:<bibl type="end"/> <note>Ad. for the Seltzer bookstore in the <hi rend="italic">Dial</hi> 74.6, June 1923: vii. MM quotes from two reviews in the Seltzer ad, of D. H. Lawrence's <hi rend="italic">The Captain's Doll</hi> (1923) and Ivan A. Bunin's <hi rend="italic">The Gentleman From San Francisco</hi>, translated by Lawrence (1922).</note>       <quote type="begin"/>The captain's doll&#8211;Lawrence's genius</l>
                         <l n="08">    is maturing.   As a critic of the London Times writes</l>
                         <l n="09">    he shows an unexpected vein of humor in these</l>
                         <l n="10">   3 novelettes while still keeping "the eye of the poet".</l>
                         <l n="11">    The whole book is steeped in imagination.       200</l>
                         <l n="12"/>
-                        <l n="13">   Ivan Bunin--       The g.   from    San Francisco.   About</l>
+                        <l n="13">   Ivan Bunin&#8211;       The g.   from    San Francisco.   About</l>
                         <l n="14">   the title story     this remark has frequently been made,</l>
                         <l n="15">   that written by a Russian it is the best story</l>
                         <l n="16">   about an American.<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
+            <!-- NW: line 1 needs to be redone to include the "19" at end of line -->
             <div type="image" xml:id="nb07_01_04_0041_text">
                 <div type="page" n="r.0041" xml:id="nb07_01_04_0041_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0041-recto.jpeg"
                         n="0041-recto"/>
                     <lg>
-                        <l n="01">  <bibl rend="begin"/>Post Lit Rev.    16 June 1923                                                      19</l>
-                        <l n="02">  Alice Meynell's<note><!-- type="glossary" -->Meynell, Alice Christiana Gertrude [1847-1922]. British writer, editor, critic, and suffragist, now remembered mainly as a poet.</note> prose --         Olivia Howard Dunbar<bibl rend="end"/><note><!-- type="glossary" -->Dunbar, Olivia Howard [1873–1953]. American short story writer, journalist and biographer.</note></l>
+                        <l n="01">  <bibl rend="begin"/>Post Lit Rev.    16 June 1923                                        19</l>
+                        <l n="02">  Alice Meynell's<note><!-- type="glossary" -->Meynell, Alice Christiana Gertrude [1847-1922]. British writer, editor, critic, and suffragist, now remembered mainly as a poet.</note> prose &#8211;         Olivia Howard Dunbar<bibl rend="end"/><note><!-- type="glossary" -->Dunbar, Olivia Howard [1873–1953]. American short story writer, journalist and biographer.</note></l>
                         <l n="03">  <quote type="begin"/>2nd rate prose, prose that is either elaborate or rowdy,</l>
                         <l n="04">  secures attention. But the fact must be faced</l>
                         <l n="05">  that prose of the first order is  commonly alas!</l>
                         <l n="06">   its own reward. . . . firm, spare, elastic,</l>
-                        <l n="07">  exquisite  unmannered--           Absence of</l>
+                        <l n="07">  exquisite  unmannered&#8211;           Absence of</l>
                         <l n="08">  any conventional approach seems a positive grace</l>
                         <l n="09"> </l>
-                        <l n="10"> 2-- There is no trace here of deliberate wide <del>w</del>eyed</l>
+                        <l n="10"> 2&#8211; There is no trace here of deliberate wide <del>w</del>eyed</l>
                         <l n="11">   wistfulness</l>
                         <l n="12"> </l>
-                        <l n="13"> 1--  a simplicity that one can't imagine being</l>
-                        <l n="14">   either imitated or parodied--these are</l>
+                        <l n="13"> 1&#8211;  a simplicity that one can't imagine being</l>
+                        <l n="14">   either imitated or parodied&#8211;these are</l>
                         <l n="15">  of course the attributes of a classic.<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
+            <!-- NW: page 42 needs to be rezoned -->
             <div type="image" xml:id="nb07_01_04_0042_text">
                 <div type="page" n="v.0042" xml:id="nb07_01_04_0042_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0042-verso.jpeg"
                         n="0042-verso"/>
                     <lg>
-                        <l n="01">    <bibl type="begin"/>Outlook   13  June  1923</l>
-                        <l n="02"><bibl type="end"/><note>"To Fellow-Fans." <hi rend="italic">The Outlook</hi> 134 (13 June 1923): 163-164.</note></l>
-                        <l n="03"/>
-                        <l n="04">  <quote type="begin"/>To fellow-fans.    In the realm of baseball . . .</l>
-                        <l n="05">    there are 4 races of inhabitants--inmates some</l>
-                        <l n="06">    would call them--fans, rooters, professional guys</l>
-                        <l n="07">  &amp;  back lot bugs.   *</l>
-                        <l n="08"/>
-                        <l n="09">  Sand on the Diamond.    Gilbert Patten</l>
-                        <l n="10">    But Rockland had a mixed team of all sorts, a</l>
-                        <l n="11">  scrappy cock-a-hoop aggregation that captured</l>
-                        <l n="12">   games any old way they could.           He caught</l>
-                        <l n="13">      Morse's 1st smoker on the end of his bat</l>
-                        <l n="14">  &amp; laced it over the field in centre field.</l>
-                        <l n="15">  We nosed out a victory after 10 innings that</l>
-                        <l n="16">  nearly made nervous wrecks of some of the</l>
-                        <l n="17">  spectators.</l>
-                        <l n="18"/>
-                        <l n="19">   In a short time I received a letter<quote type="end"/></l>
+                        <l n="01">    <bibl type="begin"/>Outlook   13  June  1923<bibl type="end"/><note>"To Fellow-Fans." <hi rend="italic">The Outlook</hi> 134 (13 June 1923): 163-164.</note></l>
+                        <l n="02"/>
+                        <l n="03">  <quote type="begin"/>To fellow-fans.    In the realm of baseball . . .</l>
+                        <l n="04">    there are 4 races of inhabitants&#8211;inmates some</l>
+                        <l n="05">    would call them&#8211;fans, rooters, professional guys</l>
+                        <l n="06">  &amp;  back lot bugs.   *</l>
+                        <l n="07"/>
+                        <l n="08">  Sand on the Diamond.    Gilbert Patten</l>
+                        <l n="09">    But Rockland had a mixed team of all sorts, a</l>
+                        <l n="10">  scrappy cock-a-hoop aggregation that captured</l>
+                        <l n="11">   games any old way they could.           He caught</l>
+                        <l n="12">      Morse's 1st smoker on the end of his bat</l>
+                        <l n="13">  &amp; laced it over the field in centre field.</l>
+                        <l n="14">  We nosed out a victory after 10 innings that</l>
+                        <l n="15">  nearly made nervous wrecks of some of the</l>
+                        <l n="16">  spectators.</l>
+                        <l n="17"/>
+                        <l n="18">   In a short time I received a letter<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
+            <!-- NW: vertical line v01 should be rezoned to include the entire line (we merge multiple lines on vertical "lines" using slash marks, the text zone should the include the 
+                whole passage as indicated in the l@n=v01 element -->
             <div type="image" xml:id="nb07_01_04_0043_text">
                 <div type="page" n="r.0043" xml:id="nb07_01_04_0043_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0043-recto.jpeg"
                         n="0043-recto"/>
                     <lg>
-                        <l n="01">        <note>"To Fellow-Fans" (see earlier note).</note><quote type="begin"/>        from somewhere in Mass. about as follows:</l>
-                        <l n="02">                                                                                                        20</l>
+                        <l n="01">  <note>"To Fellow-Fans" (see earlier note).</note><quote type="begin"/>from somewhere in Mass. about as follows:</l>
+                        <l n="02">                                                                                  20</l>
                         <l n="03">  dear Sir mr Mernanne has forward yor leter</l>
                         <l n="04"> to Me and ime the verry guy youse lookin for.</l>
                         <l n="05">  Hav plad on Some best Sem pro and</l>
@@ -6311,7 +6314,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0044-verso.jpeg"
                         n="0044-verso"/>
                     <lg>
-                        <l n="01">        <note>"To Fellow-Fans" (see earlier note).</note><quote type="begin"/>  ends as the darkness approaches</l>
+                        <l n="01"> <note>"To Fellow-Fans" (see earlier note).</note><quote type="begin"/>ends as the darkness approaches</l>
                         <l n="02"> sitting down to pick &amp; chew grass here &amp; there</l>
                         <l n="03"/>
                         <l n="04"> Mc Graw    My 30 yrs in baseball: any one with</l>
@@ -6324,11 +6327,12 @@
                         <l n="11"/>
                         <l n="12"><quote type="begin"/>Ben Jonson  in the first folio</l>
                         <l n="13">   To the memory of my beloved the Avthor</l>
-                        <l n="14">      Mr. William Shakespeare:         And</l>
+                        <l n="14">      Mr. William Shakespeare:      And</l>
                         <l n="15">      what he hath left us.<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
+            <!-- NW: line 2 needs to be rezoned to include the "21" at end of line -->
             <div type="image" xml:id="nb07_01_04_0045_text">
                 <div type="page" n="r.0045" xml:id="nb07_01_04_0045_recto_text">
                     <pb
@@ -6338,7 +6342,7 @@
                         <l n="01">  <note>Ridgway, Gertrude M. "The Book Table" (see earlier note).</note><seg type="begin" subtype="verse"/><quote type="begin"/>To draw no envy (Shakspeare) on thy name</l>
                         <l n="02">  Am I thus ample to thy <del>b</del>Book, and Fame;                  21</l>
                         <l n="03">   While I confess thy writings to be such,</l>
-                        <l n="04">  --As nether Man, nor Muse, can praise too much.</l>
+                        <l n="04">  &#8211;As nether Man, nor Muse, can praise too much.</l>
                         <l n="05">  Tis true, and all mens suffrage.  But these wayes,</l>
                         <l n="06">    Were not the paths I meant unto thy praise;</l>
                         <l n="07">    For silliest ignorance on these may light,</l>
@@ -6380,13 +6384,14 @@
                     </lg>
                 </div>
             </div>
+            <!-- NW: line 3 needs to be rezoned to include "22" at end of line -->
             <div type="image" xml:id="nb07_01_04_0047_text">
                 <div type="page" n="r.0047" xml:id="nb07_01_04_0047_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0047-recto.jpeg"
                         n="0047-recto"/>
                     <lg>
-                        <l n="01">   <note>Ridgway, Gertrude M. "The Book Table" (see earlier note).<seg type="begin" subtype="verse"/><quote type="begin"/></note>  Euripides <del>&amp;</del> Sophocles to us,</l>
+                        <l n="01">     <note>Ridgway, Gertrude M. "The Book Table" (see earlier note).<seg type="begin" subtype="verse"/><quote type="begin"/></note>Euripides <del>&amp;</del> Sophocles to us,</l>
                         <l n="02">       and</l>
                         <l n="03">   Paccuuius; Accius, him of Cordova dead,              22</l>
                         <l n="04">      To life againe,   to hear thy Buskin tread,</l>
@@ -6418,7 +6423,7 @@
                         <l n="02">    1636? 1674       ed.    Bertram Dobell.   77 Charing</l>
                         <l n="03">  Cross Road W.C. 1906<bibl type="end"/><note>Traherne, Thomas. <hi rend="italic">The Poetical Works of Thomas Traherne: 1936?-1974 From The Original Manuscripts</hi>. Edited by Bertram Dobell. London: Bertram Dobell, 1906.</note></l>
                         <l n="04"/>
-                        <l n="05"> <quote type="begin"/>The Salutation--     2  IV     (Joys)</l>
+                        <l n="05"> <quote type="begin"/>The Salutation&#8211;     2  IV     (Joys)</l>
                         <l n="06">      <seg type="begin" subtype="verse"/>Their organised joints and azure reins</l>
                         <l n="07">      More wealth include than all the world contains.</l>
                         <l n="08"/>
@@ -6433,19 +6438,20 @@
                     </lg>
                 </div>
             </div>
+            <!-- NW: line 1 needs to be rezoned to include "23" at end of line -->
             <div type="image" xml:id="nb07_01_04_0049_text">
                 <div type="page" n="r.0049" xml:id="nb07_01_04_0049_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0049-recto.jpeg"
                         n="0049-recto"/>
                     <lg>
-                        <l n="01"><note>Traherne, Thomas. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><quote type="begin"/>The Preparative      12         V                                                        23</l>
+                        <l n="01"><note>Traherne, Thomas. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><quote type="begin"/>The Preparative    12        V                                 23</l>
                         <l n="02">    <seg type="begin" subtype="verse"/>Being thus prepared for all felicity</l>
                         <l n="03">        Not prepossest with dross,</l>
                         <l n="04">        Nor stiffy glued to gross</l>
                         <l n="05">     And dull materials that might ruin me,</l>
-                        <l n="06">               ________</l>
-                        <l n="07">                 VI</l>
+                        <l n="06">                    __________</l>
+                        <l n="07">                         VI</l>
                         <l n="08">     Pure empty powers that did nothing loath,</l>
                         <l n="09">        Did like the fairest glass,</l>
                         <l n="10">        Or spotless polished brass,</l>
@@ -6465,7 +6471,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0050-verso.jpeg"
                         n="0050-verso"/>
                     <lg>
-                        <l n="01"> <note>Traherne, Thomas. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note> <quote type="begin"/>      XIV</l>
+                        <l n="01">       <note>Traherne, Thomas. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note> <quote type="begin"/>XIV</l>
                         <l n="02"> <seg type="begin" subtype="verse"/>As sponges gather moisture from the earth</l>
                         <l n="03">  Whereon there is scarce any sign of dew;</l>
                         <l n="04">  As air infecteth salt: so at my birth</l>
@@ -6482,13 +6488,14 @@
                     </lg>
                 </div>
             </div>
+            <!-- NW: line 1 needs to be redone to include "29" at end of line -->
             <div type="image" xml:id="nb07_01_04_0051_text">
                 <div type="page" n="r.0051" xml:id="nb07_01_04_0051_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0051-recto.jpeg"
                         n="0051-recto"/>
                     <lg>
-                        <l n="01">。<note>Traherne, Thomas. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><quote type="begin"/><seg type="begin" subtype="verse"/>             Silence     38                                   29</l>
+                        <l n="01">                      <note>Traherne, Thomas. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><quote type="begin"/><seg type="begin" subtype="verse"/>Silence     38                           29</l>
                         <l n="02">    A quiet silent person may possess</l>
                         <l n="03">    All that is great or high in Blessedness.</l>
                         <l n="04">    The inward work is the supreme; for all</l>
@@ -6513,7 +6520,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0052-verso.jpeg"
                         n="0052-verso"/>
                     <lg>
-                        <l n="01"> <note>Traherne, Thomas. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><quote type="begin"/><seg type="begin" subtype="verse"/>  The rude and ignorant: this was a thing</l>
+                        <l n="01">   <note>Traherne, Thomas. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><quote type="begin"/><seg type="begin" subtype="verse"/>The rude and ignorant: this was a thing</l>
                         <l n="02">   As then unknown.   For neither ignorance</l>
                         <l n="03">   Nor poverty, nor sickness did advance</l>
                         <l n="04">   Their banner in the world, till Sin came in.</l>
@@ -6531,13 +6538,14 @@
                     </lg>
                 </div>
             </div>
+            <!-- NW: line 1 needs to be rezoned -->
             <div type="image" xml:id="nb07_01_04_0053_text">
                 <div type="page" n="r.0053" xml:id="nb07_01_04_0053_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0053-recto.jpeg"
                         n="0053-recto"/>
                     <lg>
-                        <l n="01"><note>Traherne, Thomas. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><quote type="begin"/>                                25</l>
+                        <l n="01">                                                              <note>Traherne, Thomas. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><quote type="begin"/>25</l>
                         <l n="02">     <seg type="begin" subtype="verse"/>What powerful Spirit lives within!</l>
                         <l n="03">   What active Angel doth inhabit here!</l>
                         <l n="04">      What heavenly light inspires my skin,</l>
@@ -6563,7 +6571,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0054-verso.jpeg"
                         n="0054-verso"/>
                     <lg>
-                        <l n="01"><note>Traherne, Thomas. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><quote type="begin"/><seg type="begin" subtype="verse"/> As in a Clock 'tis hinder'd Force doth bring</l>
+                        <l n="01"> <note>Traherne, Thomas. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><quote type="begin"/><seg type="begin" subtype="verse"/>As in a Clock 'tis hinder'd Force doth bring</l>
                         <l n="02"> The wheels to ordered Motion by a Spring;</l>
                         <l n="03"> Which order'd Motion guides a steddy Hand</l>
                         <l n="04"> In useful sort at Figures just to stand;</l>
@@ -6571,9 +6579,9 @@
                         <l n="06"> The Fabrick quickly would aside be laid,</l>
                         <l n="07"> As wholly useless; so a Might too great</l>
                         <l n="08"> But well proportioned makes the world <del>Complete</del>.</l>
-                        <l n="09">                                                                                       compleat.<seg type="end" subtype="verse"/><quote type="end"/></l>
+                        <l n="09">                                                         compleat.<seg type="end" subtype="verse"/><quote type="end"/></l>
                         <l n="10"> <bibl type="begin"/><hi rend="underline">Life</hi>    5 July  1923</l>
-                        <l n="11">p 30  <bibl rend="end"/>     <quote type="begin"/>Slightly nervous--  An English barrister</l>
+                        <l n="11">p 30  <bibl rend="end"/>     <quote type="begin"/>Slightly nervous&#8211;  An English barrister</l>
                         <l n="12">  after a particularly trying day came home with</l>
                         <l n="13">  his nerves on edge, and at once sought refuge</l>
                         <l n="14"> in his own study, well away from the noises</l>
@@ -6581,6 +6589,7 @@
                     </lg>
                 </div>
             </div>
+            <!-- NW: text zones not appearing for page 55, no idea why; need to debug further -->
             <div type="image" xml:id="nb07_01_04_0055_text">
                 <div type="page" n="r.0055" xml:id="nb07_01_04_0055_recto_text">
                     <pb
@@ -6591,11 +6600,11 @@
                         <l n="02"> down when the cat, which had been sitting there</l>
                         <l n="03"> too, got up slowly and walked across the room.</l>
                         <l n="04">        The master turned on her and said indignantly,</l>
-                        <l n="05"> "Now, what are <hi rend="underline">you</hi> stamping around here                     for?<quote type="end"/></l>
-                        <l n="06">            Pittsburg Chronicle--Telegraph</l>
+                        <l n="05"> "Now, what are <hi rend="underline">you</hi> stamping around here for?<quote type="end"/></l>
+                        <l n="06">            Pittsburg Chronicle&#8211;Telegraph</l>
                         <l n="07"> </l>
-                        <l n="08"> <bibl rend="begin"/>50th Birthday of the Typewriter.    Fairfax Downey</l>
-                        <l n="09">    Tribune Sunday July 8, 1923<note/><bibl rend="end"/><bibl>Downey,                        Fairfax. "50th Birthday of the Typewriter." New York Tribune (18 July                        1923).</bibl></l>
+                        <l n="08"> <bibl rend="begin"/>50th Birthday of the Typewriter. Fairfax Downey</l>
+                        <l n="09">    Tribune Sunday July 8, 1923<bibl rend="end"/><note>Downey, Fairfax. "50th Birthday of the Typewriter." New York Tribune (18 July 1923).</note></l>
                         <l n="10"><quote type="begin"/>Christopher Latham Sholes inventor of the lst</l>
                         <l n="11">  practical typerwriter 1872    The first commercial</l>
                         <l n="12">  typewriter. In size &amp; appearance, it somewhat</l>
@@ -6606,6 +6615,7 @@
                     </lg>
                 </div>
             </div>
+            <!-- NW: page 56 needs to be rezoned, missing blank line 2 and later lines also messed up -->
             <div type="image" xml:id="nb07_01_04_0056_text">
                 <div type="page" n="v.0056" xml:id="nb07_01_04_0056_verso_text">
                     <pb
@@ -6620,26 +6630,27 @@
                         <l n="06"><bibl rend="begin"/>Spec.</l>
                         <l n="07">   Dec 2  Safety week<bibl rend="end"/>:</l>
                         <l n="08">           <quote type="begin"/>An elephant lives 100 years but he's careful all the time</l>
-                        <l n="09">        More headwork at crossings--less surgical work</l>
+                        <l n="09">        More headwork at crossings&#8211;less surgical work</l>
                         <l n="10">    at hospitals.</l>
                         <l n="11">         A cat can risk 8 lives, a boy can't risk one.<quote type="end"/></l>
                         <l n="12">    <bibl rend="begin"/>Spec Dec 2         Tarn</l>
-                        <l n="13">    The Last Waltz<bibl rend="end"/>.<note>Williams-Ellis, Amabel (aka Tarn). "Theater: The Last Waltz." Spectator (2 December 1922): 47. </note><bibl rend="end"/> <quote type="begin"/>"Ah you are cold! You wont</l>
-                        <l n="14">    save yourself. You don't realize the full passionate</l>
-                        <l n="15">   primitive thrill of life! (or words to that effect)</l>
-                        <l n="16">   exclaims the heroine of the Last Waltz to its</l>
-                        <l n="17">   hero. I did so sympathize--of course he didn't!</l>
-                        <l n="18">   It was the surroundings    One can't feel the<quote type="end"/></l>
+                        <l n="13">   The Last Waltz<bibl rend="end"/>.<note>Williams-Ellis, Amabel (aka Tarn). "Theater: The Last Waltz." Spectator (2 December 1922): 47.</note><bibl rend="end"/> <quote type="begin"/>"Ah you are cold! You wont</l>
+                        <l n="14">     save yourself. You don't realize the full passionate</l>
+                        <l n="15">    primitive thrill of life! (or words to that effect)</l>
+                        <l n="16">    exclaims the heroine of the Last Waltz to its</l>
+                        <l n="17">    hero. I did so sympathize&#8211;of course he didn't!</l>
+                        <l n="18">    It was the surroundings    One can't feel the<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
+            <!-- NW: line 1 needs to be rezoned to include "27" at end of line -->
             <div type="image" xml:id="nb07_01_04_0057_text">
                 <div type="page" n="r.0057" xml:id="nb07_01_04_0057_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0057-recto.jpeg"
                         n="0057-recto"/>
                     <lg>
-                        <l n="01">   <quote type="begin"/>primitive thrill of life." in a station hotel. And            27<note>Williams-Ellis, Amabel (aka Tarn). "The Last Waltz" (see earlier note).</note></l>
+                        <l n="01">   <note>Williams-Ellis, Amabel (aka Tarn). "The Last Waltz" (see earlier note).</note><quote type="begin"/>primitive thrill of life." in a station hotel. And            27</l>
                         <l n="02">   that was what Messrs. Harker and Terraine's</l>
                         <l n="03">   conception of castles and ballrooms resembled<quote type="end"/></l>
                         <l n="04"> <bibl rend="begin"/>Dec 2 supp.</l>
@@ -6656,7 +6667,7 @@
                         <l n="15">    house furniture they deserve the homage that</l>
                         <l n="16">    is due to consummate craftsmanship of</l>
                         <l n="17">    any kind. Whilst conceding the amazing</l>
-                        <l n="18">    skill &amp; patience--almost inconceivable <del>in<quote type="end"/></del></l>
+                        <l n="18">    skill &amp; patience&#8211;almost inconceivable <del>in<quote type="end"/></del></l>
                     </lg>
                 </div>
             </div>
@@ -6666,7 +6677,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0058-verso.jpeg"
                         n="0058-verso"/>
                     <lg>
-                        <l n="01"> <note>Cescinsky, Herbert. <hi rend="italic">Chinese Furniture</hi> (see earlier note).</note><quote type="begin"/>  save in an Oriental--that have gone to their</l>
+                        <l n="01">   <note>Cescinsky, Herbert. <hi rend="italic">Chinese Furniture</hi> (see earlier note).</note><quote type="begin"/>save in an Oriental&#8211;that have gone to their</l>
                         <l n="02">   making, we still reserve our liberty to dislike</l>
                         <l n="03">   the fretted elaboration of for instance, the highly</l>
                         <l n="04">   prized carved cinnabar lacquer Imperial</l>
@@ -6677,7 +6688,8 @@
                         <l n="09">   some of the simpler screens &amp; cabinets are</l>
                         <l n="10">   infinitely more attractive. <quote type="end"/></l>
                         <l n="11"/>
-                        <l n="12"> <bibl rend="begin"/>The coaching era Violet Wilson<note> Wilson, Violet A. <hi rend="italic">The Coaching Era</hi> (London: John Lane, The Bodley Head, 1922). </note> Lane 12/6<bibl rend="end"/></l>
+                        <l n="12"> <bibl rend="begin"/>The coaching era Violet Wilson<note> Wilson, Violet A. <hi rend="italic">The Coaching Era</hi> (London: John Lane, The Bodley Head, 1922).</note> Lane 12/6<bibl rend="end"/></l>
+                        <!-- NW: should "with" be moved to a different line? It doesn't really line up with the rest of line 13; depending on choice, may need to rezone some lines on this page -->
                         <l n="13">   collection of coaching stories.                        with</l>
                         <l n="14"> <bibl>L. Digest June 9 1923    Fighting mosquitoes,   10 minnows</bibl></l>
                         <l n="15">   <quote type="begin"/>A minnow especially adapted to this use (destroying</l>
@@ -6685,30 +6697,31 @@
                     </lg>
                 </div>
             </div>
+            <!-- NW: line 2 needs to be rezoned to include "28" at end of line -->
             <div type="image" xml:id="nb07_01_04_0059_text">
                 <div type="page" n="r.0059" xml:id="nb07_01_04_0059_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0059-recto.jpeg"
                         n="0059-recto"/>
                     <lg>
-                        <l n="01"> <note>"Fighting Mosquitos" (see previous page).</note> <quote type="begin"/>  for mosquitoes is now bred on a large scale in Calif.</l>
-                        <l n="03">  (frequently spoken of as Pot belly)                           28</l>
-                        <l n="04">   Louva G. Lenert<note><!-- type="glossary" --> Lenert, Lauva G. <!-- NW: What is the correct form for unknown birth and death dates? See variant example on page 11 -->[ ]. With Eduard Stuart, in 1923, established 25 hatcheries in Californiia as part of the State Board of Health mosquito-control program. </note>  in (Sacramento) Weekly Bulletin</l>
-                        <l n="05">  writes: Gambusia affinis is the name given to a</l>
-                        <l n="06">  small surface feeding top minnow whose native home</l>
-                        <l n="07">  is in the Eastern part of the U.S.  It is well its name</l>
-                        <l n="08">  was decided upon before its economic value was learned</l>
-                        <l n="09">  otherwise we might have been confronted w a name a</l>
-                        <l n="10">  yard long in wh an attempt would be made to</l>
-                        <l n="11">  describe its worth. There is no way in which this</l>
-                        <l n="12">  could be estimated.  Often found in water less than an</l>
-                        <l n="13">  inch thick at birth approx. 1/2 inch in length and</l>
-                        <l n="14">  begins life of larvae destruction when not more</l>
-                        <l n="15">  than a day old.   Erect vegetation such as cattails</l>
-                        <l n="16">  when not too dense will not prevent the</l>
-                        <l n="17">  penetration and control of m-breeding by these minnows</l>
-                        <l n="18">  . . .  Hatcheries should be free fr game fish</l>
-                        <l n="19">  water snakes  water <hi rend="pencil">f</hi><del>f</del>owls, bait-collectors etc.<quote type="end"/></l>
+                        <l n="01"> <note>"Fighting Mosquitos" (see previous page).</note><quote type="begin"/>for mosquitoes is now bred on a large scale in Calif.</l>
+                        <l n="02">  (frequently spoken of as Pot belly)                                     28</l>
+                        <l n="03">   Louva G. Lenert<note><!-- type="glossary" --> Lenert, Lauva G. <!-- NW: What is the correct form for unknown birth and death dates? See variant example on page 11 -->[ ]. With Eduard Stuart, in 1923, established 25 hatcheries in Californiia as part of the State Board of Health mosquito-control program.</note>  in (Sacramento) Weekly Bulletin</l>
+                        <l n="04">  writes: Gambusia affinis is the name given to a</l>
+                        <l n="05">  small surface feeding top minnow whose native home</l>
+                        <l n="06">  is in the Eastern part of the U.S.  It is well its name</l>
+                        <l n="07">  was decided upon before its economic value was learned</l>
+                        <l n="08">  otherwise we might have been confronted w a name a</l>
+                        <l n="09">  yard long in wh an attempt would be made to</l>
+                        <l n="10">  describe its worth. There is no way in which this</l>
+                        <l n="11">  could be estimated.  Often found in water less than an</l>
+                        <l n="12">  inch thick at birth approx. 1/2 inch in length and</l>
+                        <l n="13">  begins life of larvae destruction when not more</l>
+                        <l n="14">  than a day old.   Erect vegetation such as cattails</l>
+                        <l n="15">  when not too dense will not prevent the</l>
+                        <l n="16">  penetration and control of m-breeding by these minnows</l>
+                        <l n="17">  . . .  Hatcheries should be free fr game fish</l>
+                        <l n="18">  water snakes  water <hi rend="pencil">f</hi><del>f</del>owls, bait-collectors etc.<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -6718,8 +6731,8 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0060-verso.jpeg"
                         n="0060-verso"/>
                     <lg>
-                        <l n="01">   <bibl rend="begin"/><bibl/>The Dilemma of Mariage  Alyse Gregory<note><!-- type="glossary" -->Gregory, Alyse [1884-1967]. American writer and editor, and a friend of MM's. She was managing editor of <hi rend="italic">The Dial</hi>, 1924-June 1925. </note>  N. Rep.</l>
-                        <l n="02"> July 4 1923<bibl rend="end"/>--  <note> Gregory, Alyse. "The Dilemma of Marriage." <hi rend="italic">New Republic</hi> 4 July, 1923.</note></l>
+                        <l n="01">   <bibl rend="begin"/><bibl/>The Dilemma of Mariage  Alyse Gregory<note><!-- type="glossary" -->Gregory, Alyse [1884-1967]. American writer and editor, and a friend of MM's. She was managing editor of <hi rend="italic">The Dial</hi>, 1924-June 1925.</note>  N. Rep.</l>
+                        <l n="02"> July 4 1923<bibl rend="end"/>&#8211;  <note> Gregory, Alyse. "The Dilemma of Marriage." <hi rend="italic">New Republic</hi> 4 July, 1923.</note></l>
                     </lg>
                     <lg>
                         <l n="03"><quote type="begin"/>. . . Jonathan Swift w an electric storm of satire strips</l>
@@ -6730,7 +6743,7 @@
                         <l n="08">  Lawrence<note><!-- type="glossary" -->Lawrence, David Herbert [1885-1930]. British novelist and poet. MM published his poems in <hi rend="italic">The Dial</hi>.</note>, . . . . . No one has uncovered more searchingly</l>
                         <l n="09">  those obscure poisoning enmities between men and</l>
                         <l n="10">  women whose wills are crossed, . . nor composed and</l>
-                        <l n="11">  executed such a rich heavy music of the emotions--</l>
+                        <l n="11">  executed such a rich heavy music of the emotions&#8211;</l>
                         <l n="12">  the music of sex itself which druggingly compels</l>
                         <l n="13">  men &amp; women into the still sharp death of each other's</l>
                         <l n="14">  arms, only to let them part thwarted or ironically</l>
@@ -6740,17 +6753,18 @@
                     </lg>
                 </div>
             </div>
+            <!-- NW: page 61 should be rezoned, boxes don't quite match up and parts of some lines missing -->
             <div type="image" xml:id="nb07_01_04_0061_text">
                 <div type="page" n="r.0061" xml:id="nb07_01_04_0061_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0061-recto.jpeg"
                         n="0061-recto"/>
                     <lg>
-                        <l n="01"> <note> Gregory, Alyse. "The Dilemma of Marriage" (see earlier note).</note>  <quote type="begin"/>   a new kind of mystical subjugation. . . Man may       29</l>
+                        <l n="01">    <note>Gregory, Alyse. "The Dilemma of Marriage" (see earlier note).</note>  <quote type="begin"/>a new kind of mystical subjugation. . . Man may       29</l>
                         <l n="02">    enter or escape the enchanged circle of sex, woman</l>
                         <l n="03">    must remain forever engirdled within it. . . . Women</l>
                         <l n="04">    must find in sex that old unity wh for so long has</l>
-                        <l n="05">    been spun out of the desires of human beings . . . . --</l>
+                        <l n="05">    been spun out of the desires of human beings . . . . &#8211;</l>
                         <l n="06">    that familiar old illusion of unity that the strong, the fierce,</l>
                         <l n="07">    and the defeated laugh to scorn.   Suffering, his</l>
                         <l n="08">    vulnerability ever freshly assaulted, Mr L wishes</l>
@@ -6761,7 +6775,7 @@
                         <l n="13">    Mr. Lawrence must adapt himself.   I wax now</l>
                         <l n="14">    somewhat ancient one ? <gap extent="1"/>30 yrs is a great deal of sand in the hourglass; I</l>
                         <l n="15">    confess that I have as vast contemplative ends as I have   moderate civil<quote type="end"/></l>
-                        <l n="16">    <bibl rendition="begin"/>Encycl Brittanica Bacon<note><!-- type="glossary" -->Bacon, Francis [1561-1626]. English philosopher and stateman. MM published "Sir Francis Bacon" in <hi rend="italic">The Dial</hi> (April 1924) and referred to or quoted him in several other essays. </note>  136      <bibl rend="end"/>      <quote type="begin"/>I have taken all</l>
+                        <l n="16">    <bibl rendition="begin"/>Encycl Brittanica Bacon<note><!-- type="glossary" -->Bacon, Francis [1561-1626]. English philosopher and stateman. MM published "Sir Francis Bacon" in <hi rend="italic">The Dial</hi> (April 1924) and referred to or quoted him in several other essays.</note>  136      <bibl rend="end"/>      <quote type="begin"/>I have taken all</l>
                         <l n="17">                                                                     ends; for</l>
                         <l n="18">    knowledge to be my province and if I could purge it</l>
                         <l n="19">    of 2 sorts of rovers, whereof the one with frivolous</l>
@@ -6774,6 +6788,7 @@
                     </lg>
                 </div>
             </div>
+            <!-- NW: Finished 3rd round of spacing/zoning proofing here, sent above affected pages to Girija for re-zoning, 2022-08-07 9:08pm. -->
             <div type="image" xml:id="nb07_01_04_0062_text">
                 <div type="page" n="v.0062" xml:id="nb07_01_04_0062_verso_text">
                     <pb
@@ -6788,11 +6803,11 @@
                         <l n="06"><bibl rend="begin"/><hi rend="underline">Life</hi>  July 19 1923 (Criticism NY World)<bibl rend="end"/>  a remark</l>
                         <l n="07">      made by a certain theatrical man not partial</l>
                         <l n="08">     to David Belasco.</l>
-                        <l n="09">           "I don't like his stuff" <del>he</del> said he-- "and</l>
+                        <l n="09">           "I don't like his stuff" <del>he</del> said he&#8211; "and</l>
                         <l n="10">    I'll find a reason yet."</l>
                         <l n="11"/>
                         <l n="12">   <bibl rend="begin"/>Miguel de Unamuno<note><!-- type="glossary" --> Unamuno, Miguel de [1864-1936]. Spanish philosopher and writer in all creative genres. MM reviews one of his novels and refers to him in her prose.</note>    trans. J E. C. Flitch</l>
-                        <l n="13">     Macm 1921   <hi rend="underline">The Tragic Sense of Life<bibl rend="end"/><bibl rend="end"/></hi>--  <note> Unamuno, Miguel de. <hi rend="italic">The Tragic Sense of Life</hi> (1912). First published in English, Macmillan and Co. Ltd., 1921.</note></l>
+                        <l n="13">     Macm 1921   <hi rend="underline">The Tragic Sense of Life<bibl rend="end"/><bibl rend="end"/></hi>&#8211;  <note> Unamuno, Miguel de. <hi rend="italic">The Tragic Sense of Life</hi> (1912). First published in English, Macmillan and Co. Ltd., 1921.</note></l>
                         <l n="14">  90   <quote type="begin"/>And the truth is in all strictness that reason</l>
                         <l n="15">     is the enemy of life. . . . In order to<quote type="end"/></l>
                     </lg>
@@ -6834,8 +6849,8 @@
                     <lg>
                         <l n="01">  <note>"Wit to Measure" advertisement (see previous page).</note> <quote type="begin"/>  shirts of Sea Island cotton . . . backless waist-coats</l>
                         <l n="02">  . . . Spitalfields silk cravats.” etc</l>
-                        <l n="03">          -- -- --</l>
-                        <l n="04">  . . .  <seg type="begin" subtype="verse"/>Not from a backless waistcoat--shirt to match--</l>
+                        <l n="03">          &#8211; &#8211; &#8211;</l>
+                        <l n="04">  . . .  <seg type="begin" subtype="verse"/>Not from a backless waistcoat&#8211;shirt to match&#8211;</l>
                         <l n="05">              Nor from a silken tie of wondrous knit</l>
                         <l n="06">         Shall I seek counsel, Sir, when I despatch</l>
                         <l n="07">                 My sparkling shafts of wit.</l>
@@ -6862,7 +6877,7 @@
                         <l n="03">   tr. J E Crawford Fletch. Macm  1921<bibl rend="end"/></l>
                         <l n="04">       <quote type="begin"/>the truth is in all strictness that reason is the enemy of life<note>MM takes notes on exactly the same passage three pages earlier in this notebook.</note></l>
                         <l n="05">                . . . .</l>
-                        <l n="06"> 91 it is the very essence of tragedy--this combat</l>
+                        <l n="06"> 91 it is the very essence of tragedy&#8211;this combat</l>
                         <l n="07">    of life w reason. And truth? Is truth</l>
                         <l n="08">    Something that is lived or that is comprehended?</l>
                         <l n="09">            It is only nec. of read the . . . terrible   Parmenides</l>
@@ -6884,7 +6899,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0066-verso.jpeg"
                         n="0066-verso"/>
                     <lg>
-                        <l n="01">     <note> Continued from previous page, <hi rend="italic">Life</hi> 9 August 1923.</note>    <quote type="begin"/>Aye--the sea be fair saturated with 'em</l>
+                        <l n="01">     <note> Continued from previous page, <hi rend="italic">Life</hi> 9 August 1923.</note>    <quote type="begin"/>Aye&#8211;the sea be fair saturated with 'em</l>
                         <l n="02">  week before?</l>
                         <l n="03">     clerk (monkey) I suppose you would like a room</l>
                         <l n="04">   and bath?</l>
@@ -6892,7 +6907,7 @@
                         <l n="09">     1923<bibl rend="end"/></l>
                         <l n="06"/>
                         <l n="07">    <bibl rend="begin"/><foreign xml:lang="fr">Ma Double Vie:  M&#233;moires de Sarah</foreign></l>
-                        <l n="08">    <foreign xml:lang="fr">Bernhardt. Biblioth&#232;que--Charpentier   11, rue de grenelle</foreign> 11</l>
+                        <l n="08">    <foreign xml:lang="fr">Bernhardt. Biblioth&#232;que&#8211;Charpentier   11, rue de grenelle</foreign> 11</l>
                         <l n="10">    vol. 1.<note> Bernhardt, Sarah. <hi rend="italic">Ma Double Vie. Memoires de Sarah Bernhardt</hi>. Paris: Bibliothèque-Charpentier, 1923. The text translates: "(my nanny) But she liked poor people; when they have time. mother Sainte-Sophie. I love her, because it seems to me . . . that wholly imperfect as I am, I would be a hundred times more so if I had not known"</note>  page 2 (<foreign xml:lang="fr">ma nourrice)   <quote type="begin"/>Mais elle avait</foreign></l>
                         <l n="11">     <foreign xml:lang="fr">comme aiment les gens pauvre; quand ils ont</foreign></l>
                         <l n="12">    <foreign xml:lang="fr">le temps</foreign>.</l>
@@ -6909,7 +6924,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0067-recto.jpeg"
                         n="0067-recto"/>
                     <lg>
-                        <l n="01"> <note> Bernhardt, Sarah. <hi rend="italic">Ma Double Vie. Memoires de Sarah Bernhardt</hi> (see earlier note). The text translates: "and loved this pure creature. I was introduced to the glacial mannequin Mr. Cross gifted me six small cameleons, which resembled lizards, and one admirable cameleon, a fabulous prehistoric animal, a real chinese ornament passing from tender green to bronzed black, svelte and long. Like a lilly leaf and then suddenly swollen and stocky like a toad. It's eyes, in lorgnettes like those of lobsters, did not rely on one another. His right eye looked forward and his left eye looked backward. I was delighted, enthused by this gift." </note>  <quote type="begin"/><foreign xml:lang="fr">   et aim&#233; cette pure cr&#233;ature</foreign>.</l>
+                        <l n="01"> <note> Bernhardt, Sarah. <hi rend="italic">Ma Double Vie. Memoires de Sarah Bernhardt</hi> (see earlier note). The text translates: "and loved this pure creature. I was introduced to the glacial mannequin Mr. Cross gifted me six small cameleons, which resembled lizards, and one admirable cameleon, a fabulous prehistoric animal, a real chinese ornament passing from tender green to bronzed black, svelte and long. Like a lilly leaf and then suddenly swollen and stocky like a toad. It's eyes, in lorgnettes like those of lobsters, did not rely on one another. His right eye looked forward and his left eye looked backward. I was delighted, enthused by this gift."</note>  <quote type="begin"/><foreign xml:lang="fr">   et aim&#233; cette pure cr&#233;ature</foreign>.</l>
                         <l n="02">                                                                32</l>
                         <l n="03">   Vol II. 16 <foreign xml:lang="fr">je fus introduite pr&#232;s de glacial mannequin</foreign></l>
                         <l n="04">    V. II</l>
@@ -6925,7 +6940,7 @@
                         <l n="14">       <foreign xml:lang="fr">Je fus ravie, enthousiasm&#233;e de ce cadeau</foreign>. <quote type="end"/></l>
                         <l n="15"/>
                         <l n="16">   <bibl rend="begin"/>Post. Lit. Rev.  15 Sept. 1923</l>
-                        <l n="17">      A Sage's Lyre--  Poems. G. Santayana<bibl rend="end"/><note><!-- type="glossary" --> Santayana, George (born Jorge Agust&#237;n Nicol&#225;s Ruiz de Santayana y Borr&#225;s) [1886-1912]. Immigrated to U.S. at 8. American philosopher and writer. MM quotes him in an essay on Sir Francis Bacon (1924). See earlier note. </note>. Scrib. 1.50</l>
+                        <l n="17">      A Sage's Lyre&#8211;  Poems. G. Santayana<bibl rend="end"/><note><!-- type="glossary" --> Santayana, George (born Jorge Agust&#237;n Nicol&#225;s Ruiz de Santayana y Borr&#225;s) [1886-1912]. Immigrated to U.S. at 8. American philosopher and writer. MM quotes him in an essay on Sir Francis Bacon (1924). See earlier note.</note>. Scrib. 1.50</l>
                         <l n="18">   O W <del>o</del>Firkins<note>Firkins, Oscar W. "The Sage's Lyre: Santayana's Poems." <hi rend="italic">New York Evening Post</hi> (15 September 1923): 40.</note><bibl rend="end"/> . . . <quote type="begin"/>Nobody who know's Mr. S's  prose or</l>
                         <l n="19">    verse will question his property in the Eng. lang.<quote type="end"/></l>
                     </lg>
@@ -6947,7 +6962,7 @@
                         <l n="08">                  <bibl rend="begin"/>P. L. Rev.  15  Sept 1923             1923    1.25</l>
                         <l n="09">  The Gothic Rose &amp; other poems. W. R. Childe. Appleton<bibl rend="end"/></l>
                         <l n="10">  <bibl rend="begin"/>P.<hi rend="pencil">ost</hi> L.<hi rend="pencil">iterary</hi> Rev.<hi rend="pencil">iew</hi> 15 Sept 1923<bibl rend="end"/> Lit. pub. by</l>
-                        <l n="11">    D. H Lawrence<note> Sherman, Stuart. Review. New York Evening Post Literary Review (15 September 1923): 143-44. </note>  discourses from Fantasia of the</l>
+                        <l n="11">    D. H Lawrence<note> Sherman, Stuart. Review. New York Evening Post Literary Review (15 September 1923): 143-44.</note>  discourses from Fantasia of the</l>
                         <l n="12">    Unconscious<note>Lawrence, D. H. <hi rend="italic">Fantasia of the Unconscious.</hi> New York: Thomas Seltzer, 1922.</note><bibl rend="end"/>: on Love &amp; Marriage (in the Adelphi)</l>
                         <l n="13">   <quote type="begin"/>in a staccato and half baked manner that rouses</l>
                         <l n="14">   dismay.<quote type="end"/></l>
@@ -6963,9 +6978,9 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0069-recto.jpeg"
                         n="0069-recto"/>
                     <lg>
-                        <l n="01">   Harvard Classics v. 27   7.   Defense of Poesy    33<note><hi rend="italic">English Essays: From Sir Philip Sidney to Macauley</hi>. Ed. Charles W. Eliot, LL.D. Harvard Classics Vol. 27. NY: P. F. Collier &amp; Son, 1910. </note></l>
+                        <l n="01">   Harvard Classics v. 27   7.   Defense of Poesy    33<note><hi rend="italic">English Essays: From Sir Philip Sidney to Macauley</hi>. Ed. Charles W. Eliot, LL.D. Harvard Classics Vol. 27. NY: P. F. Collier &amp; Son, 1910.</note></l>
                         <l n="02">                                   Sir P Sidney <note><!-- type="glossary" -->Sidney, Sir Philip [1554-1586]. English poet, courtier, and soldier. MM refers to him periodically throughout her life, including in "No better than "a withered daffodil" (first published <hi rend="italic">Art News</hi>, March 1959).</note></l>
-                        <l n="03">  (Edward Wotton)<note>Baron Edward Wotton appears in Sir Philip Sidney's "The Defense of Poesy." English diplomat and administrator, and friend of Sidney's. </note> . . . <quote type="begin"/>He said Soldiers were the noblest estate of mankind,, and horsemen <hi rendition="shorthand the">the</hi> noblest of soldiers</l>
+                        <l n="03">  (Edward Wotton)<note>Baron Edward Wotton appears in Sir Philip Sidney's "The Defense of Poesy." English diplomat and administrator, and friend of Sidney's.</note> . . . <quote type="begin"/>He said Soldiers were the noblest estate of mankind,, and horsemen <hi rendition="shorthand the">the</hi> noblest of soldiers</l>
                         <l n="04">    . . . . . speedy goers &amp; strong abiders</l>
                         <l n="05">    no earthly thing bred such wonder to a prince as to be a</l>
                         <l n="06">    good horseman; skill of government was but a</l>
@@ -7079,9 +7094,9 @@
                         <l n="02">    taught. But the poet is the food for <hi rend="shorthand_the">the</hi> tenderest stomachs.      35</l>
                         <l n="03">   26   For even those hard hearted evil men who think</l>
                         <l n="04">    virtue a school-name . . . . . yet will be content to be delighted</l>
-                        <l n="05">    . . . and so steal to see the form of goodness--which seen,</l>
-                        <l n="06">    they cannot but love--ere themselves be aware, as if</l>
-                        <l n="07">    they took a medicine of cherries--</l>
+                        <l n="05">    . . . and so steal to see the form of goodness&#8211;which seen,</l>
+                        <l n="06">    they cannot but love&#8211;ere themselves be aware, as if</l>
+                        <l n="07">    they took a medicine of cherries&#8211;</l>
                         <l n="08"/>
                         <l n="09">  31   Philip of Madecon reckoned a racehorse won at</l>
                         <l n="10">     Olympus among his three fearful felicities</l>
@@ -7151,7 +7166,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0076-verso.jpeg"
                         n="0076-verso"/>
                     <lg>
-                        <l n="01"><note>Shelley, Percy Bysshe. "A Defence of Poetry" (see earlier note). </note>                    Herodotus, Plutarch, Livy</l>
+                        <l n="01"><note>Shelley, Percy Bysshe. "A Defence of Poetry" (see earlier note).</note>                    Herodotus, Plutarch, Livy</l>
                         <l n="02">  . . . .    <quote type="begin"/> all the great historians ^ were poets . . . . . .</l>
                         <l n="03">     filling all the interstices of their subjects w living</l>
                         <l n="04">     images.</l>
@@ -7176,7 +7191,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0077-recto.jpeg"
                         n="0077-recto"/>
                     <lg>
-                        <l n="01"> <note>Shelley, Percy Bysshe. "A Defence of Poetry" (see earlier note). </note>  . . . <quote type="begin"/>But poetry defeats the curse which binds us to         37</l>
+                        <l n="01"> <note>Shelley, Percy Bysshe. "A Defence of Poetry" (see earlier note).</note>  . . . <quote type="begin"/>But poetry defeats the curse which binds us to         37</l>
                         <l n="02">    be subjected to the accident of surrounding impressions</l>
                         <l n="03">    And whether it spreads its own figured curtain, or</l>
                         <l n="04">    withdraws life's dark veil from before the scene of</l>
@@ -7208,8 +7223,8 @@
                         <l n="02"> in the U. of Vienna.  translated by L. Lewisohn Huebsch 1910</l>
                         <l n="03"> Health &amp; Suggestion: The Dietetics of the mind<note>Feuchtersleben, Ernst von. <hi rend="italic">Health and Suggestion: The Dietetics of the Mind</hi>. Translated, Ludwig Lewisohn (NY: Huebsch, 1910).</note>.<bibl rend="end"/></l>
                         <l n="04">80</l>
-                        <l n="05">  <quote type="begin"/>In the possibility of . . . .  intellectualized emotion--</l>
-                        <l n="06">  the ethico-religious, for instance--lies the differentiation</l>
+                        <l n="05">  <quote type="begin"/>In the possibility of . . . .  intellectualized emotion&#8211;</l>
+                        <l n="06">  the ethico-religious, for instance&#8211;lies the differentiation</l>
                         <l n="07">  of Humanity from all else.   81 . . . spiritual &amp; bodily</l>
                         <l n="08">  life are . . . . (some think) every gratification of the</l>
                         <l n="09">  senses is a deadly attack upon <hi rend="shorthand_the">the</hi> spirit wh can be</l>
@@ -7295,7 +7310,7 @@
                         <l n="04">   Scepticism &amp; Animal Faith. G. Santayana  Scribner 1923<note> See earlier note on review of Santayana's <hi rend="italic">Poems</hi>, 15 September 1923. <hi rend="italic">Scepticism and Animal Faith</hi> (NY: Charles Scribner's Sons, 1923).</note></l>
                         <l n="05">   Rev'd by Dickinson Sargent Miller<bibl rend="end"/>. Cf Scholasticism</l>
                         <l n="06">   <quote type="begin"/>"An imperceptible cognitive energy, whose essence is</l>
-                        <l n="07"> 2  intuition"--how redolent of mediaeval science is</l>
+                        <l n="07"> 2  intuition"&#8211;how redolent of mediaeval science is</l>
                         <l n="08">   such a phrase!  It presents us w a mental equivalent</l>
                         <l n="09">   of the alchemic essence or the vital principle, it explains</l>
                         <l n="10">   poetically w rich ideas, instead of resolving prosaically</l>
@@ -7366,7 +7381,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0084-verso.jpeg"
                         n="0084-verso"/>
                     <lg>
-                        <l n="01">      <quote type="begin"/>There is nothing new under the sun once<note>Lawrence, D. H. "A Spiritual Record." Rev. of <hi rend="italic">A Second Contemporary Anthology</hi> (see earlier note). </note></l>
+                        <l n="01">      <quote type="begin"/>There is nothing new under the sun once<note>Lawrence, D. H. "A Spiritual Record." Rev. of <hi rend="italic">A Second Contemporary Anthology</hi> (see earlier note).</note></l>
                         <l n="02">   the consciousness becomes pot-bound. And this is what ails all art today. It doesn't even</l>
                         <l n="03">   have that little hole in the bottom of the pot through</l>
                         <l n="04">   which desperate roots struggle. No, the Amer.</l>
@@ -7390,20 +7405,20 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0085-recto.jpeg"
                         n="0085-recto"/>
                     <lg>
-                        <l n="01">   <note>Lawrence, D. H. "A Spiritual Record." Rev. of <hi rend="italic">A Second Contemporary Anthology</hi> (see earlier note). </note><quote type="begin"/>  swearing Damns have had their day--</l>
+                        <l n="01">   <note>Lawrence, D. H. "A Spiritual Record." Rev. of <hi rend="italic">A Second Contemporary Anthology</hi> (see earlier note).</note><quote type="begin"/>  swearing Damns have had their day&#8211;</l>
                         <l n="02">     Old soup of old bones of life, heated up again                                                  41</l>
                         <l n="03">     for a new consommé. . . . I know a forest stilly-deep</l>
                         <l n="04">          Mark, the poetic novelty of stilly deep &amp;</l>
                         <l n="05">     then says there is nothing new under the sun.<quote type="end"/></l>
                         <l n="06"/>
-                        <l n="07">   <bibl rend="begin"/>Sheridan--The Rivals--Nov 15 1923 <note> Sheridan, Richard Brinsley. <hi rend="italic">The Rivals</hi> (1775), produced on Broadway 1923.</note></l>
+                        <l n="07">   <bibl rend="begin"/>Sheridan&#8211;The Rivals&#8211;Nov 15 1923 <note> Sheridan, Richard Brinsley. <hi rend="italic">The Rivals</hi> (1775), produced on Broadway 1923.</note></l>
                         <l n="08">     Bob Acres<bibl rend="end"/>:   <quote type="begin"/>Theyre's  no meaning in the</l>
-                        <l n="09">     common oaths--nothing but their antiquity</l>
+                        <l n="09">     common oaths&#8211;nothing but their antiquity</l>
                         <l n="10">     makes them respectable. . . . This we</l>
-                        <l n="11">     call--the oath referential or sentimental</l>
-                        <l n="13">    (odds frogs and tadpoles)--(odds jigs &amp; tabors)<quote type="end"/></l>
+                        <l n="11">     call&#8211;the oath referential or sentimental</l>
+                        <l n="13">    (odds frogs and tadpoles)&#8211;(odds jigs &amp; tabors)<quote type="end"/></l>
                         <l n="14">             <bibl rend="begin"/>The Poetical Works of Spenser<bibl rend="end"/></l>
-                        <l n="15">    Spenser<note><!-- type="glossary" --> Spenser, Edmund [1552/53-1599]. English poet. MM quoted Spenser in a 1922 comment, and quotes him in later reviews and essays, including “Humility, Concentration, and Gusto.”</note>.    Amoretti IVI<note>Spenser, Edmund. <hi rend="italic">The Poetical Works of Spenser</hi>. Vol I: <hi rend="italic">Spenser's Minor Poems</hi>. Ed. Ernest De Selincourt (Oxford University Press, 1910). </note></l>
+                        <l n="15">    Spenser<note><!-- type="glossary" --> Spenser, Edmund [1552/53-1599]. English poet. MM quoted Spenser in a 1922 comment, and quotes him in later reviews and essays, including “Humility, Concentration, and Gusto.”</note>.    Amoretti IVI<note>Spenser, Edmund. <hi rend="italic">The Poetical Works of Spenser</hi>. Vol I: <hi rend="italic">Spenser's Minor Poems</hi>. Ed. Ernest De Selincourt (Oxford University Press, 1910).</note></l>
                         <l n="16">       Oxford 1921  ed. w crit. notes by  J C Smith</l>
                         <l n="17">                  &amp; E. De Selincourt</l>
                     </lg>
@@ -7421,7 +7436,7 @@
                         <l n="04">     hunts after bloud, when he by chance doth find</l>
                         <l n="05">     a feeble beast, doth felly him oppress.</l>
                         <l n="06">     Fayre be ye sure that proud &amp; pittilesse,</l>
-                        <l n="07">     as is a storme that all things doth prostrate:--</l>
+                        <l n="07">     as is a storme that all things doth prostrate:&#8211;</l>
                         <l n="08">     finding a tree alone all comfortlesse,</l>
                         <l n="09">     beats on it strongly it to ruinate.</l>
                         <l n="10">     Fayre be ye sure, but hard and obstinate,</l>
@@ -7549,9 +7564,9 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0091-recto.jpeg"
                         n="0091-recto"/>
                     <lg>
-                        <l n="01"> <bibl rend="begin"/>Christian Science Monitor--Oct 24 1923</l>
+                        <l n="01"> <bibl rend="begin"/>Christian Science Monitor&#8211;Oct 24 1923</l>
                         <l n="02">    E. Gordon Craig<note><!-- type="glossary" --> Craig, Edward Gordon [1872-1966]. English theater practitioner, including scene design and theory. MM writes of him in "Picking and Choosing" (<hi rend="italic">Observations</hi> 1924) and refers to him in "The Dial: A Retrospect," <hi rend="italic">Life and Letters To-Day</hi> 27 (1940).</note>         44</l>
-                        <l n="03">  Scene.  Oxford University Press. 1923<bibl rend="end"/>  25s/<note> Craig, Edward Gordon. <hi rend="italic">Scene</hi>. London: Humphrey Milford; Oxford University Press, 1923. </note></l>
+                        <l n="03">  Scene.  Oxford University Press. 1923<bibl rend="end"/>  25s/<note> Craig, Edward Gordon. <hi rend="italic">Scene</hi>. London: Humphrey Milford; Oxford University Press, 1923.</note></l>
                         <l n="04">   <quote type="begin"/>There is a certain weary patience in Mr. Gordon</l>
                         <l n="05">     Craig's attitude toward the public. Because</l>
                         <l n="06">   what he has to say is so important, so valuable, and</l>
@@ -7576,7 +7591,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0092-verso.jpeg"
                         n="0092-verso"/>
                     <lg>
-                        <l n="01">   <bibl rend="b"/>N Y  Times Nov 18.  1923<note><hi rend="italic">New York Times</hi> (18 November 1923). 31 October 1923, there was a brief notice that the cavern had been made a national monument.</note>               Gothic arch--</l>
+                        <l n="01">   <bibl rend="b"/>N Y  Times Nov 18.  1923<note><hi rend="italic">New York Times</hi> (18 November 1923). 31 October 1923, there was a brief notice that the cavern had been made a national monument.</note>               Gothic arch&#8211;</l>
                         <l n="02">   Carlsbad Cave<note> MM apparently considered writing a poem on Carlsbad Caverns. See miscellaneous notebook (1929-1940) 07.03.11, image 37 verso.</note>. N. Mexico.   <bibl rend="end"/><quote type="begin"/>A vaulted room in</l>
                         <l n="03"> <hi rend="shorthand_the">the</hi> cave in the middle of which rises a dark pillar, w all</l>
                         <l n="04">   around it pendants of Sparkling white.</l>
@@ -7599,8 +7614,8 @@
                         n="0093-recto"/>
                     <lg>
                         <l n="01">    <bibl rend="begin"/>Ill London News  Aug 11 1923<note>"A Summer 'Seaside' Visitor to be Avoided." Photographs by Dr. Francis Ward. <hi rend="italic">Illustrated London News</hi>, 11 September 1923: 21.</note><bibl rend="end"/>           45<note> MM takes notes toward drafting "An Octopus," first published <hi rend="italic">Dial</hi> December 1924. Her Notes to the poem refer to this article and claim to quote from Ward.</note></l>
-                        <l n="02">     <quote type="begin"/>Finish of a swim--out of breath--</l>
-                        <l n="03">     tiptoeing after a swim--Showing the white</l>
+                        <l n="02">     <quote type="begin"/>Finish of a swim&#8211;out of breath&#8211;</l>
+                        <l n="03">     tiptoeing after a swim&#8211;Showing the white</l>
                         <l n="04">     under surfaces of the arms.  Swimming backward</l>
                         <l n="05">     arms curled up &amp; one used as a leg creeping</l>
                         <l n="06">     towards prey. (The arms seemed to approach</l>
@@ -7656,7 +7671,7 @@
                         <l n="02">    if disturbed                                                 46</l>
                         <l n="03">      <hi rend="underline">escapes by swimming away backward</hi>s.  arms</l>
                         <l n="04">     trailed horizontally    the  arms expanded, the</l>
-                        <l n="05">     undersurfaces white--during these movements</l>
+                        <l n="05">     undersurfaces white&#8211;during these movements</l>
                         <l n="06">                                       extraordinary</l>
                         <l n="07">     the color changes to an <del>remarkable</del> degree.   Normally</l>
                         <l n="08">     large patches of reddish buff are seen on a cream</l>
@@ -7668,10 +7683,10 @@
                         <l n="14">    |   The delicate green metallic tinge is due to</l>
                         <l n="15">    iridocysts below the layer of color cells. (wh</l>
                         <l n="16">    lie in the skin          Only  swims when he wishes</l>
-                        <l n="17">     to escape--at other times he (it creeps    suggesting</l>
+                        <l n="17">     to escape&#8211;at other times he (it creeps    suggesting</l>
                         <l n="18">     meditated stealth).   To deal w a tough</l>
                         <l n="19">     diet of crabs &amp; crustacions is provided w a strong</l>
-                        <l n="20">     organ like a gizzard--(<hi rend="shorthand_the">the</hi> gizzard of a bird)</l>
+                        <l n="20">     organ like a gizzard&#8211;(<hi rend="shorthand_the">the</hi> gizzard of a bird)</l>
                     </lg>
                 </div>
             </div>
@@ -7707,7 +7722,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0097-recto.jpeg"
                         n="0097-recto"/>
                     <lg>
-                        <l n="01"> <note>Carey, M. C. "The Octopus in the Channel Islands" (see earlier note). </note> <quote type="begin"/>  timid creature &amp; <hi rend="underline">makes his home</hi> in the rock <note>MM takes notes toward drafting "An Octopus."</note></l>
+                        <l n="01"> <note>Carey, M. C. "The Octopus in the Channel Islands" (see earlier note).</note> <quote type="begin"/>  timid creature &amp; <hi rend="underline">makes his home</hi> in the rock <note>MM takes notes toward drafting "An Octopus."</note></l>
                         <l n="02">                                                                 47</l>
                         <l n="03">    pools in <hi rend="underline">quite an innocent fashion</hi>.  Off the</l>
                         <l n="04">    Breton coast he is undoubtedly very destructive</l>
@@ -7736,7 +7751,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0098-verso.jpeg"
                         n="0098-verso"/>
                     <lg>
-                        <l n="01"> <note>Carey, M. C. "The Octopus in the Channel Islands" (see earlier note). </note> <quote type="begin"/>  are very scornful of the tourists' alarm of these queer <note>MM takes notes toward drafting "An Octopus" and attributes "picking periwinkles" to Carey.</note></l>
+                        <l n="01"> <note>Carey, M. C. "The Octopus in the Channel Islands" (see earlier note).</note> <quote type="begin"/>  are very scornful of the tourists' alarm of these queer <note>MM takes notes toward drafting "An Octopus" and attributes "picking periwinkles" to Carey.</note></l>
                         <l n="02">    beasts.    They . . . fish for them, using the cut-up feelers</l>
                         <l n="03">    as bait for conger. . .    They bait the trot w chunks</l>
                         <l n="04">    of spider crab, the octopuss favorite food. &amp; then</l>
@@ -7850,7 +7865,7 @@
                         <l n="05">   which causes our admiration.   At  times  Maya</l>
                         <l n="06">  sculpture has a certain similarity to Indian</l>
                         <l n="07">   religious sculptural reliefs,  particularly in the</l>
-                        <l n="08">   use of flat surfaces--entirely encrusted with</l>
+                        <l n="08">   use of flat surfaces&#8211;entirely encrusted with</l>
                         <l n="09">   ornaments in low relief;  but on the  whole</l>
                         <l n="10">   the comparison in all in favour of the  higher</l>
                         <l n="11">   aesthetic sensibility of the Maya artists, whose</l>
@@ -7906,7 +7921,7 @@
                         <l n="09">   at the top of this painting,  like woodpeckers</l>
                         <l n="10">   to a bough."<quote type="end"/></l>
                         <l n="11"/>
-                        <l n="12">  <bibl rend="begin"/>The Lavender Lad.  Dolf Willarde--H. Botolph</l>
+                        <l n="12">  <bibl rend="begin"/>The Lavender Lad.  Dolf Willarde&#8211;H. Botolph</l>
                         <l n="13">   Society   Boston.<note> Dolf, Wyllarde. The Lavender Lad. Boston: St. Botolph Society, 1923.</note>          $1.90</l>
                         <l n="14"/>
                         <l n="15">  26  <quote type="begin"/>some dainty cat who leaves off lapping milk to</l>
@@ -7935,7 +7950,7 @@
                         <l n="12">    roses, the whole attention concentrated on the process.<quote type="end"/></l>
                         <l n="13">                                                                              (2 vols)</l>
                         <l n="14">  <bibl rend="begin"/>John  Gay<note> Gay, John [1685-1732]. English poet and dramatist. MM refers to him in a film review in Close-Up, 10 September 1933.</note>           :    Poetical works in a memoir    Vol I</l>
-                        <l n="15">      Boston    Houghton.<bibl rend="end"/> <note> Gay, John. <hi rend="italic">The Poetical Works, With a Memoir</hi>. Boston: Houghton, 1879. </note>           p. 83    <quote type="begin"/>The  jugglers.</l>
+                        <l n="15">      Boston    Houghton.<bibl rend="end"/> <note> Gay, John. <hi rend="italic">The Poetical Works, With a Memoir</hi>. Boston: Houghton, 1879.</note>           p. 83    <quote type="begin"/>The  jugglers.</l>
                         <l n="16">     seg type="begin" subtype="verse"/>The cards,  obedient  to his  words</l>
                         <l n="17">      Are by a fillip   turned to birds.<seg type="end" subtype="verse"/><quote type="end"/></l>
                     </lg>
@@ -7947,7 +7962,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0106-verso.jpeg"
                         n="0106-verso"/>
                     <lg>
-                        <l n="01"> <seg type="begin" subtype="verse"/><quote type="begin"/><note> Gay, John. <hi rend="italic">The Poetical Works</hi> (see earlier note). </note> <hi rend="underline">     His</hi> little boxes change the grain:</l>
+                        <l n="01"> <seg type="begin" subtype="verse"/><quote type="begin"/><note> Gay, John. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note> <hi rend="underline">     His</hi> little boxes change the grain:</l>
                         <l n="02">       Trick after trick deludes the train.</l>
                         <l n="03">       He shakes his bag, he shows all fair;</l>
                         <l n="04">       His fingers spread, and nothing there;</l>
@@ -8001,7 +8016,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0108-verso.jpeg"
                         n="0108-verso"/>
                     <lg>
-                        <l n="01"> <note> Gay, John. <hi rend="italic">The Poetical Works</hi> (see earlier note). </note>  <seg type="begin" subtype="verse"/><quote type="begin"/>   And on the hearth the milk white embers spread;</l>
+                        <l n="01"> <note> Gay, John. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note>  <seg type="begin" subtype="verse"/><quote type="begin"/>   And on the hearth the milk white embers spread;</l>
                         <l n="02">      Slow crawl'd the snail, and if I  right can spell,</l>
                         <l n="03">      In the soft ashes mark<del>e</del>'d a curious  L:</l>
                         <l n="04">   61                                (dairy)</l>
@@ -8012,10 +8027,10 @@
                         <l n="09"/>
                         <l n="10"> <note><note>Larned, Josephus Nelson. A Primer of Right and Wrong. Boston: Houghton, 1902.</note></note>  <bibl>Larned (?)   A Primer of right and wrong. </bibl></l>
                         <l n="11">   a book on ethics with diagrams.</l>
-                        <l n="12">   <quote type="begin"/>Our freedom exalts us -- gives our conduct its moral</l>
+                        <l n="12">   <quote type="begin"/>Our freedom exalts us &#8211; gives our conduct its moral</l>
                         <l n="13">   qual.   (cf lower animals incap of doing wrong)</l>
                         <l n="14">   In betting,  the  loss is an intended consequence</l>
-                        <l n="15">   of the gain.  ⸫ is a form of theft--<quote type="end"/></l>
+                        <l n="15">   of the gain.  ⸫ is a form of theft&#8211;<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -8027,7 +8042,7 @@
                     <lg>
                         <l n="01">     <bibl rend="begin"/>Harpers Bazar  Dec 1923</l>
                         <l n="02">                                                            53</l>
-                        <l n="03">     Tapp&#233;.  <bibl rend="end"/><!-- NW: Should this be a quote? --> Christmas--the mere thought of it</l>
+                        <l n="03">     Tapp&#233;.  <bibl rend="end"/><!-- NW: Should this be a quote? --> Christmas&#8211;the mere thought of it</l>
                         <l n="04">   . . . kindles such a glow of joviality &amp; good fellowship</l>
                         <l n="05">   in my imagination that I find my charming wraps</l>
                         <l n="06">   and gowns, hats, and fans reflecting my</l>
@@ -8079,7 +8094,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0111-recto.jpeg"
                         n="0111-recto"/>
                     <lg>
-                        <l n="01"> <note> Heller, Frank. <hi rend="italic">The Marriage of Yussuf Kahn </hi>(see earlier note). </note>  18 <quote type="begin"/>The steamer's whistle tooted in its hoarse</l>
+                        <l n="01"> <note> Heller, Frank. <hi rend="italic">The Marriage of Yussuf Kahn </hi>(see earlier note).</note>  18 <quote type="begin"/>The steamer's whistle tooted in its hoarse</l>
                         <l n="02">      bass, drunkenlike tone.                                      54</l>
                         <l n="03">    26  2   bags,  a hat box &amp; some travelling cushions.  At</l>
                         <l n="04">      the moment, she was sitting sunk back in an</l>
@@ -8097,7 +8112,7 @@
                         <l n="16">     Most of the space was taken up with a bed and</l>
                         <l n="17">     dresser &amp; on account of its architectural shape</l>
                         <l n="18">      resembled a sepulchral chamber in some Egyptian</l>
-                        <l n="19">      pyramid--</l>
+                        <l n="19">      pyramid&#8211;</l>
                         <l n="20">                     132  a black island i<quote type="end"/>n a sea of glass</l>
                     </lg>
                 </div>
@@ -8109,7 +8124,7 @@
                         n="0112-verso"/>
                     <lg>
                         <l n="01">    <bibl rend="begin"/>Yale Review:   January  1924</l>
-                        <l n="02">      Story animals--Caroline Francis Richardson.<note> Richardson, Caroline Francis. "Story Animals." <hi rend="italic">Yale Review</hi> (January 1924):365-74.</note>   <bibl rend="end"/></l>
+                        <l n="02">      Story animals&#8211;Caroline Francis Richardson.<note> Richardson, Caroline Francis. "Story Animals." <hi rend="italic">Yale Review</hi> (January 1924):365-74.</note>   <bibl rend="end"/></l>
                         <l n="03"/>
                         <l n="04">    Golden Legend.   There was a lion <del>n</del>healed by St Jerome</l>
                         <l n="05">    that remained at the monastery to act as beast of</l>
@@ -8248,7 +8263,7 @@
                         <l n="09">   The hart he loves the high wood</l>
                         <l n="10">      The hare she loves the hill</l>
                         <l n="11">    The knight he loves his bright sword,</l>
-                        <l n="12">        The lady--loves her will.<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="12">        The lady&#8211;loves her will.<quote type="end"/><seg type="end" subtype="verse"/></l>
                         <l n="13"/>
                         <l n="14">   Best Poems of 1922     Thos. Moult  Harcourt</l>
                         <l n="15">  Thomas Hardy<note> Hardy, Thomas [1840-1928]. English novelist and poet. MM reviewed some of his fiction and referred to him frequently in her essays.</note>: An Ancient to Ancients<bibl type="end"/><note>Hardy, Thomas. "An Ancient to Ancients." <hi rend="italic">The Best Poems of 1922.</hi> Ed. Thomas Moult. New York: Harcourt, 1923.</note></l>
@@ -8295,12 +8310,12 @@
                         <l n="01"><note>Hardy, Thomas. "An Ancient to Ancients" (see earlier note).</note>    <seg type="begin" subtype="verse"/><quote type="begin"/>In dance the polka hit our wish,      58</l>
                         <l n="02">                 Gentlemen</l>
                         <l n="03">     The paced quadrille, the spry schottische,</l>
-                        <l n="04">     'Sir Roger,'--And in opera spheres</l>
-                        <l n="05">     The Girl--(the famed 'Bohemian'),</l>
+                        <l n="04">     'Sir Roger,'&#8211;And in opera spheres</l>
+                        <l n="05">     The Girl&#8211;(the famed 'Bohemian'),</l>
                         <l n="06">     And 'Trovatore' held the ears,</l>
                         <l n="07">                 Gentlemen.</l>
                         <l n="08">     The seasons paintings do not please, <del>Gentlemen</del></l>
-                        <l n="09">                 G -- --</l>
+                        <l n="09">                 G &#8211; &#8211;</l>
                         <l n="10">     Like Etty, Mulready, Maclise;</l>
                         <l n="11">       Throbbing romance has waned &amp; wanned;</l>
                         <l n="12">          No wizard wields the witching pen.</l>
@@ -8330,12 +8345,12 @@
                         <l n="09">   That evening's shades are stretching out,</l>
                         <l n="10">                  Gentlemen!</l>
                         <l n="11">  And yet, though ours be failing frames,</l>
-                        <l n="12">                  G--</l>
+                        <l n="12">                  G&#8211;</l>
                         <l n="13">   So were some others' history names,</l>
                         <l n="14">   Who trode their track light limbed &amp; fast</l>
                         <l n="15">   As these youth, and not alien</l>
                         <l n="16">   From enterprise,  to their long last,</l>
-                        <l n="17">                   G--<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="17">                   G&#8211;<quote type="end"/><seg type="end" subtype="verse"/></l>
                     </lg>
                 </div>
             </div>
@@ -8346,12 +8361,12 @@
                         n="0121-recto"/>
                     <lg>
                         <l n="01"> <note>Hardy, Thomas. "An Ancient to Ancients" (see earlier note).</note><bibl rend="begin"/><quote type="begin"/>     Sophocles, Plato, Socrates         59</l>
-                        <l n="02">                    G--</l>
+                        <l n="02">                    G&#8211;</l>
                         <l n="03">     Pythogras,  Thucydides</l>
-                        <l n="04">     Herodotus and Homer--yea,</l>
+                        <l n="04">     Herodotus and Homer&#8211;yea,</l>
                         <l n="05">     Clement,  Augustin  Origen</l>
                         <l n="06">     Burnt brightlier towards their setting-day.</l>
-                        <l n="07">                    G--</l>
+                        <l n="07">                    G&#8211;</l>
                         <l n="08">   And ye, red-lipped &amp; smooth-browed; list</l>
                         <l n="09">                    G.</l>
                         <l n="11">     Much is there wai<del>s</del>t<del>t</del>s you we have missed.</l>
@@ -8368,28 +8383,28 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0122-verso.jpeg"
                         n="0122-verso"/>
                     <lg>
-                        <l n="01">         <note>MM writes text across both pages in lines 10 and 14. Text across both pages reads: "Cescinsky chinese furniture 27" and "Chinese painting met. museum 5"</note>          A.                                                                                                                                     Bridges           Poetic diction--10</l>
+                        <l n="01">         <note>MM writes text across both pages in lines 10 and 14. Text across both pages reads: "Cescinsky chinese furniture 27" and "Chinese painting met. museum 5"</note>          A.                                                                                                                                     Bridges           Poetic diction&#8211;10</l>
                         <l n="02">                        Acres, Bob 41                                                                                               Brooke, Leslie  56</l>
-                        <l n="03">                        Adventures in Bolivia--8</l>
-                        <l n="04">                        Advertisements:  Bunin: The gentleman--19</l>
-                        <l n="05">                                                                                   Lawrence,   DH.   Captain's doll--19</l>
-                        <l n="06">                                                                                   Lotus &amp; Delta Shoes--56                     C.  Cabell &amp; censorship         --8</l>
+                        <l n="03">                        Adventures in Bolivia&#8211;8</l>
+                        <l n="04">                        Advertisements:  Bunin: The gentleman&#8211;19</l>
+                        <l n="05">                                                                                   Lawrence,   DH.   Captain's doll&#8211;19</l>
+                        <l n="06">                                                                                   Lotus &amp; Delta Shoes&#8211;56                     C.  Cabell &amp; censorship         &#8211;8</l>
                         <l n="07">                                                                                   Wit to measure 30                                     Cambodian ballet                12</l>
                         <l n="08">                         Amoretti, Spenser 41                                                                                          Carlsbad cave                     45</l>
-                        <l n="09">                        Animals at home, giraffe &amp; rhinos 12                                                                  Censorship--8</l>
+                        <l n="09">                        Animals at home, giraffe &amp; rhinos 12                                                                  Censorship&#8211;8</l>
                         <l n="10">                             "      Story animals (Yale Review 55                                                               Cescinsky chinese furniture</l>
                         <l n="11">                        Arts, industrial 55</l>
                         <l n="12">                                                                                                                                                     Chinese furniture 27</l>
                         <l n="13">                  B.</l>
                         <l n="14">                         Bacon, 2 sorts of rovers 29                                                                                 Chinese paintings met. mus</l>
-                        <l n="15">                         Baseball fellow-fans--20</l>
+                        <l n="15">                         Baseball fellow-fans&#8211;20</l>
                         <l n="16">                         Belinka &amp; frog 12                                                                                               Coomaraswamy     3</l>
-                        <l n="17">                         Benson, Stella--(poorman)  5</l>
-                        <l n="18">                         Bernhardt: ma double vie--32                                                                              Craig E.G. Scene 44</l>
-                        <l n="19">                         Blue water--44                                                                                                     Creative spirits Brandes--13</l>
-                        <l n="20">                         Bolivia, adventures in--8                                                                                     Cupid--Loves L. Lost--17</l>
-                        <l n="21">                         Bone, David (rev of Blue Water)--44                                                                  Current events: inventors 13</l>
-                        <l n="22">                         Bra<del>i</del>ndes          creative spirits--13</l>
+                        <l n="17">                         Benson, Stella&#8211;(poorman)  5</l>
+                        <l n="18">                         Bernhardt: ma double vie&#8211;32                                                                              Craig E.G. Scene 44</l>
+                        <l n="19">                         Blue water&#8211;44                                                                                                     Creative spirits Brandes&#8211;13</l>
+                        <l n="20">                         Bolivia, adventures in&#8211;8                                                                                     Cupid&#8211;Loves L. Lost&#8211;17</l>
+                        <l n="21">                         Bone, David (rev of Blue Water)&#8211;44                                                                  Current events: inventors 13</l>
+                        <l n="22">                         Bra<del>i</del>ndes          creative spirits&#8211;13</l>
                     </lg>
                 </div>
             </div>
@@ -8403,24 +8418,24 @@
                         pencil.</desc>
                     <lg>
                         <l n="01">        <note>MM writes text across both pages in lines 10 and 12. Text across both pages reads: "Cescinsky chinese furniture 27" and "Chinese painting met. museum 5"</note>                   D                                                                                                                                                                                                                                  60</l>
-                        <l n="02">                 Defense of poetry, Shelley 36        G         Galsworthy, Forsyte S       --14</l>
+                        <l n="02">                 Defense of poetry, Shelley 36        G         Galsworthy, Forsyte S       &#8211;14</l>
                         <l n="03">                    "        " poesie Spenser 33                       Gay, Jolen            51</l>
-                        <l n="04">                  diction, Bridges--10                                   George W.L.       1-3</l>
-                        <l n="05">                  dogs Book of noble dogs 4                        Giraffe &amp; rhinoceros     --12</l>
-                        <l n="06">                   Dreiser. Le Gallienne--8                            Gothic rose--see reviews</l>
+                        <l n="04">                  diction, Bridges&#8211;10                                   George W.L.       1-3</l>
+                        <l n="05">                  dogs Book of noble dogs 4                        Giraffe &amp; rhinoceros     &#8211;12</l>
+                        <l n="06">                   Dreiser. Le Gallienne&#8211;8                            Gothic rose&#8211;see reviews</l>
                         <l n="07">                                                                                      Glass that will bend 13</l>
                         <l n="08">             E                                                                      Glover, British folk Tales 15</l>
-                        <l n="09">                 embroidery  10                                             Gregory, A   marriage     --29</l>
+                        <l n="09">                 embroidery  10                                             Gregory, A   marriage     &#8211;29</l>
                         <l n="10">   27          ethics, Princes, Larned  53</l>
-                        <l n="11">                                                                         H          Hardy--Ancient to Ancients 57</l>
-                        <l n="12">   eum 5      F     Fairy Tales  Belinka 12                           <del>Hueffer, Women &amp; Men--40</del></l>
+                        <l n="11">                                                                         H          Hardy&#8211;Ancient to Ancients 57</l>
+                        <l n="12">   eum 5      F     Fairy Tales  Belinka 12                           <del>Hueffer, Women &amp; Men&#8211;40</del></l>
                         <l n="13">                                   Dick Dodder etc 15</l>
-                        <l n="14">                           Feuchtersleben--38                                    <del>Hunt--What is poetry 17</del></l>
-                        <l n="15">                           Forsyte Saga--14                                    Health &amp; Suggestion--Feuchtersleben--38</l>
-                        <l n="16">                           Frog--(poem) 56                                      Hegel--Brandes--13</l>
-                        <l n="17">                           Fry, Roger 48                                          Hopkins, Gerard--5</l>
-                        <l n="18">                                                                                            Hueffer. Women &amp; men--40</l>
-                        <l n="19">                                                                                            Hunt--What is poetry 17</l>
+                        <l n="14">                           Feuchtersleben&#8211;38                                    <del>Hunt&#8211;What is poetry 17</del></l>
+                        <l n="15">                           Forsyte Saga&#8211;14                                    Health &amp; Suggestion&#8211;Feuchtersleben&#8211;38</l>
+                        <l n="16">                           Frog&#8211;(poem) 56                                      Hegel&#8211;Brandes&#8211;13</l>
+                        <l n="17">                           Fry, Roger 48                                          Hopkins, Gerard&#8211;5</l>
+                        <l n="18">                                                                                            Hueffer. Women &amp; men&#8211;40</l>
+                        <l n="19">                                                                                            Hunt&#8211;What is poetry 17</l>
                     </lg>
                 </div>
             </div>
@@ -8432,27 +8447,27 @@
                     <desc>MM draws a bracket from "the left of Belasco in line 4 to below "slightly
                         nervous" in line 9.</desc>
                     <lg>
-                        <l n="01">I        Indian art, Coomaraswamy   3                <!-- NW: looks like we're missing the capital M heading CN: it is the capital M of Marriage in the next line --> ma double vie--32</l>
-                        <l n="02">          Industrial arts   55                              Marriage--see George 1--3</l>
-                        <l n="03">          Inventors   13                                        marriage dilemma of . . . AG.--29</l>
-                        <l n="04">                  Belasco--30                                       "    of Yussuf Kahn--54</l>
-                        <l n="05">J.  jokes: lady buying cigars--7                       Meynell,  A,  prose 19</l>
-                        <l n="06">               old rep--3                                         mosquitoes--28</l>
-                        <l n="07">               room &amp;  bath--32</l>
+                        <l n="01">I        Indian art, Coomaraswamy   3                <!-- NW: looks like we're missing the capital M heading CN: it is the capital M of Marriage in the next line --> ma double vie&#8211;32</l>
+                        <l n="02">          Industrial arts   55                              Marriage&#8211;see George 1&#8211;3</l>
+                        <l n="03">          Inventors   13                                        marriage dilemma of . . . AG.&#8211;29</l>
+                        <l n="04">                  Belasco&#8211;30                                       "    of Yussuf Kahn&#8211;54</l>
+                        <l n="05">J.  jokes: lady buying cigars&#8211;7                       Meynell,  A,  prose 19</l>
+                        <l n="06">               old rep&#8211;3                                         mosquitoes&#8211;28</l>
+                        <l n="07">               room &amp;  bath&#8211;32</l>
                         <l n="08">               Saturated w 'em 31                    N.</l>
-                        <l n="09">               Slightly nervous--<del>30</del> 25               New Mexico Carlsbad cave--45</l>
-                        <l n="10">      Jonson,  B  on Shakes.--21                       New York, Gov Smith 22</l>
+                        <l n="09">               Slightly nervous&#8211;<del>30</del> 25               New Mexico Carlsbad cave&#8211;45</l>
+                        <l n="10">      Jonson,  B  on Shakes.&#8211;21                       New York, Gov Smith 22</l>
                         <l n="11"> </l>
                         <l n="12">                                                                   O    octopus  45</l>
                         <l n="13">K      King, GG.   Sardinian</l>
                         <l n="14">                               painting 50                    P  Poems: An ancient to ancients 57</l>
                         <l n="15">                                                                                      elephants Rickword 7</l>
-                        <l n="16">L        lacquer  27          See BK--                                 For children King 11</l>
-                        <l n="17">           Larned,   Primer--53                                           Frog 56</l>
-                        <l n="18">           Lawrence, D.H unconsious--33                         Interregnum, Jennings 3</l>
-                        <l n="19">                     rev. of C. Verse 40                                  Little young lambs--7</l>
-                        <l n="20">            Lavender lad--51                                              Masques &amp; poems Quennell</l>
-                        <l n="21">            Legallienne on Dreiser  &amp;  Cabell--8</l>
+                        <l n="16">L        lacquer  27          See BK&#8211;                                 For children King 11</l>
+                        <l n="17">           Larned,   Primer&#8211;53                                           Frog 56</l>
+                        <l n="18">           Lawrence, D.H unconsious&#8211;33                         Interregnum, Jennings 3</l>
+                        <l n="19">                     rev. of C. Verse 40                                  Little young lambs&#8211;7</l>
+                        <l n="20">            Lavender lad&#8211;51                                              Masques &amp; poems Quennell</l>
+                        <l n="21">            Legallienne on Dreiser  &amp;  Cabell&#8211;8</l>
                     </lg>
                 </div>
             </div>
@@ -8464,25 +8479,25 @@
                     <desc>MM draws a bracket from the right of "Poor man" in line 6 to line 9. On
                         left bottom margin, MM also draws a small upward arrow.</desc>
                     <lg>
-                        <l n="01">               Mediaeval  (unicorn)  11                                       Lawrence Fantasia--33</l>
-                        <l n="02">               Traherne--23                                                          Meynell, A.  prose 19</l>
-                        <l n="03">               wit to measure--31                                                 Pound, glib worst--33</l>
-                        <l n="04">          Poetic diction Bridges--10                                           Santayana,  poems 32</l>
-                        <l n="05">          Poetry,  What is poetry--17</l>
-                        <l n="06">          Poor man--5                                                                         "      scepticism  39</l>
-                        <l n="07">          Pound, glib worst--33                       <hi rend="pencil">Reviews</hi></l>
-                        <l n="08">           Prodgers, adventures in Bolivia--8                              Tarn--Last walz--27</l>
-                        <l n="09">           Primer of right &amp; wrong 53                                                  "       Laughing lady--27</l>
+                        <l n="01">               Mediaeval  (unicorn)  11                                       Lawrence Fantasia&#8211;33</l>
+                        <l n="02">               Traherne&#8211;23                                                          Meynell, A.  prose 19</l>
+                        <l n="03">               wit to measure&#8211;31                                                 Pound, glib worst&#8211;33</l>
+                        <l n="04">          Poetic diction Bridges&#8211;10                                           Santayana,  poems 32</l>
+                        <l n="05">          Poetry,  What is poetry&#8211;17</l>
+                        <l n="06">          Poor man&#8211;5                                                                         "      scepticism  39</l>
+                        <l n="07">          Pound, glib worst&#8211;33                       <hi rend="pencil">Reviews</hi></l>
+                        <l n="08">           Prodgers, adventures in Bolivia&#8211;8                              Tarn&#8211;Last walz&#8211;27</l>
+                        <l n="09">           Primer of right &amp; wrong 53                                                  "       Laughing lady&#8211;27</l>
                         <l n="10"> </l>
                         <l n="11">           Quennell, masques &amp; poems 4                             Ross, Estelle, BK of noble dogs  4</l>
-                        <l n="12">                                                                                          rhinoceros--12</l>
-                        <l n="13">            R   reviews:        Benson Poor man--5                     Rivals Bob Acres 41</l>
+                        <l n="12">                                                                                          rhinoceros&#8211;12</l>
+                        <l n="13">            R   reviews:        Benson Poor man&#8211;5                     Rivals Bob Acres 41</l>
                         <l n="14">                                     Cescinksy Chinese furniture  27    S</l>
-                        <l n="15"><hi rend="pencil">Right &amp; Wrong</hi>        Childe: gothic rose--33                          Safety--27</l>
-                        <l n="16">                                      Craig Scene  44                                     Saint Francis &amp; wolf--55</l>
-                        <l n="17"><hi rend="pencil">See Primer</hi>                     Hildebrand and Blue water--44         Sand on the diamond--20</l>
-                        <l n="18">                                      Hueffer,  women  &amp;  men--40                     </l>
-                        <l n="19">                                      Hurst,  Barney--19                                 Santayana, poems 32</l>
+                        <l n="15"><hi rend="pencil">Right &amp; Wrong</hi>        Childe: gothic rose&#8211;33                          Safety&#8211;27</l>
+                        <l n="16">                                      Craig Scene  44                                     Saint Francis &amp; wolf&#8211;55</l>
+                        <l n="17"><hi rend="pencil">See Primer</hi>                     Hildebrand and Blue water&#8211;44         Sand on the diamond&#8211;20</l>
+                        <l n="18">                                      Hueffer,  women  &amp;  men&#8211;40                     </l>
+                        <l n="19">                                      Hurst,  Barney&#8211;19                                 Santayana, poems 32</l>
                         <l n="20">                                      King:  Sardinian painting  50                         "         scepticism  39</l>
                         <l n="21">                                      Lawrence, D H. Contemp verse   40      Sardinian painting 50</l>
                         <l n="22"> </l>
@@ -8497,21 +8512,21 @@
                     <desc>MM draws a line, with bracketed top, in the left margin from line 6 to
                         line 9.</desc>
                     <lg>
-                        <l n="01">          Shakespeare--tercentenary 1st folio--21                    U</l>
-                        <l n="02">          Shelley--Def of poetry  36                                           unamuno--30</l>
+                        <l n="01">          Shakespeare&#8211;tercentenary 1st folio&#8211;21                    U</l>
+                        <l n="02">          Shelley&#8211;Def of poetry  36                                           unamuno&#8211;30</l>
                         <l n="03">          Sidney, Sir P. Defense of poesie  33                            unicorn in Punch 11</l>
                         <l n="04">          Silver Tassels 16</l>
-                        <l n="05">          Slightly nervous--26                                                  V    vision &amp; design 48</l>
-                        <l n="06">          Spectator,   elephants--7</l>
+                        <l n="05">          Slightly nervous&#8211;26                                                  V    vision &amp; design 48</l>
+                        <l n="06">          Spectator,   elephants&#8211;7</l>
                         <l n="07">          Spencer,   poems 41</l>
                         <l n="08">       Sterne 55                                                                       W</l>
-                        <l n="09">       Smith,   Gov     22                                                               women  &amp;  men--40</l>
-                        <l n="10">                                                                                                    Wyllarde--51</l>
+                        <l n="09">       Smith,   Gov     22                                                               women  &amp;  men&#8211;40</l>
+                        <l n="10">                                                                                                    Wyllarde&#8211;51</l>
                         <l n="11">T        Tapp&#233;         christmas, 53                                       Y</l>
-                        <l n="12">                              gulf stream--3                                                 Yussuf Kahn--54</l>
+                        <l n="12">                              gulf stream&#8211;3                                                 Yussuf Kahn&#8211;54</l>
                         <l n="13">        Teaching of industrial arts  55                                              Yale Review</l>
-                        <l n="14">        Tragic sense of life--30                                                               (animals)--55</l>
-                        <l n="15">        Traherne, poems--23</l>
+                        <l n="14">        Tragic sense of life&#8211;30                                                               (animals)&#8211;55</l>
+                        <l n="15">        Traherne, poems&#8211;23</l>
                         <l n="16">        Typewriter,  50th birthday  26</l>
                     </lg>
                 </div>
