@@ -9,8 +9,8 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="#all" version="2.0"
     xmlns="http://www.w3.org/1999/xhtml" xmlns:funct="urn:stylesheet-functions"
     xmlns:tei="http://www.tei-c.org/ns/1.0">
-    <xsl:output indent="no"/>
-    <xsl:preserve-space elements="*"/>
+<!--    <xsl:output indent="no"/>-->
+<!--    <xsl:preserve-space elements="tei:l"/>-->
     
     <!-- Suppress all the templates which are not used -->
     <xsl:template match="*"/>
@@ -251,6 +251,12 @@
     </xsl:template>
     <xsl:template match="tei:del">
         <span style="text-decoration: line-through;">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <!-- A template for the <add> tag -->
+    <xsl:template match="tei:add">
+        <span>
             <xsl:apply-templates/>
         </span>
     </xsl:template>
