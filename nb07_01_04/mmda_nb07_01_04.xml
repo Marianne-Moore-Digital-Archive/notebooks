@@ -5430,11 +5430,11 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0010-verso.jpeg"
                         n="0010-verso"/>
                     <lg>
-                        <l n="01"><seg type="begin" subtype="verse"/><quote type="begin"/>With vague, moist mouths grown hungry to devour<note>Jennings, Leslie Nelson. "Interregnum" (see earlier note).</note></l>
-                        <l n="02">       The honey of the heart. Oh, let me break</l>
-                        <l n="03"> Into all rooms of worship or despair</l>
-                        <l n="04">        And mercifully scatter ashes there!<quote type="end"/><seg type="end" subtype="verse"/></l>
-                        <l n="05"/>
+                        <l n="01" rend="verse"><quote type="begin"/>With vague, moist mouths grown hungry to devour<note>Jennings, Leslie Nelson. "Interregnum" (see earlier note).</note></l>
+                        <l n="02" rend="verse">       The honey of the heart. Oh, let me break</l>
+                        <l n="03" rend="verse"> Into all rooms of worship or despair</l>
+                        <l n="04" rend="verse">        And mercifully scatter ashes there!<quote type="end"/></l>
+                        <l n="05"></l>
                         <l n="06">             Indian Art in Boston     The Arts</l>
                         <l n="07">           Ananda Coomaraswamy<note><!-- type="glossary" -->Coomaraswamy, Ananda Kentish [1877-1947]. Anglo-Ceylonese philosopher and pioneering historian of Indian art.</note>                     Jan. 1923<note>Coomaraswamy, Ananda K. "Indian Art in Boston." <hi rend="underline">The Arts</hi>. Volume III.1 (January 1923): 36-46.</note><bibl rend="end"/></l>
                         <l n="08"> <quote type="begin"/>The hour of 'Cowdust,' that is to say, Sundown, when the</l>
