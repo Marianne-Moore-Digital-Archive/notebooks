@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Notebook 07.04.05</title>
+                <author>Marianne Moore</author>
+                <editor>
+                    <persName>Elizabeth Gregory</persName>
+                    <note>Notebook Editor, November 5, 2015 - April 25, 2021</note>
+                </editor>
+                <respStmt>
+                    <persName>Cristanne Miller,</persName>
+                    <resp>Proofreader</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Claire Nashar,</persName>
+                    <resp>Proofreader</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Heather Cass White,</persName>
+                    <resp>Proofreader</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Emelie Griffin,</persName>
+                    <resp>Editorial Assistant</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Abigale Ramos,</persName>
+                    <resp>Editorial Assistant</resp>
+                </respStmt>
+                <editor>
+                    <persName>Nikolaus Wasmoen,</persName>
+                    <note>Digital Editor</note>
+                </editor>
+                <respStmt>
+                    <persName>Edward J. Sobczak,</persName>
+                    <resp>Web Administrator</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Marianne Moore Digital Archive (moorearchive.org)</publisher>
+                <date>[Pub Date]</date>
+                <availability>
+                    <licence>[License info]</licence>
+                </availability>
+                <idno>07.04.05</idno>
+                <date>August 7, 1960 &#8211; 1969</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository> Marianne Moore Collection, Rosenbach Museum and Library,
+                            Philadelphia, PA
+                            (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
+                        <idno>VII.04.05</idno>
+                    </msIdentifier>
+                    <p>Study Assignments book, with calendars on first page for 1959 and 1960, blue
+                        leather binding with gold decorations and lettering on cover. The 2 words
+                        Study / Assignments are stacked vertically, on the cover. RML number written
+                        in pencil 1251/10 on image 0003. Pages are lined, with 34 lines per page,
+                        plus space at the top in which MM sometimes writes one or more lines of
+                        notes. Pages are numbered on odd/recto pages only, in blue ink, by hand
+                        through p. 31 [image 0037; no numbers thereafter]. Verso pages have the
+                        words STUDY ASSIGNMENTS printed in ink at top [through image 0078; after
+                        that all pages are unlined with no printing], and the lines below are
+                        divided into 5 sections, each with CLASS and DATE printed on the first line
+                        of the section, with room to write that information in. The first four
+                        sections are 7 lines each, the fifth is 6 lines. Recto pages are blank but
+                        are effectively lined because the lines from the reverse page show through.
+                        Moore uses black ink except as noted. Old RML notebook number: 1251-10.</p>
+                    <!-- Editorial Note: 
+                        For ease of proofing, I mark passages written vertically or in clusters independent of regular 
+                        horizontal lineation in green, or if additional colors are needed to distinguish, blue, red or 
+                        yellow. MM’s use of ditto marks will be replicated as "—that is, by a single set of quotation 
+                        marks.
+                    -->
+                    <p>Relevant to publications: “An Expedient—Leonardo da Vinci’s—and a Query,”
+                        “Arthur Mitchell,” “Avec Ardeur,” “Baseball and Writing,” “Blue Bug,”
+                        “Charity Overcoming Envy,” “Dream,” “Enough (1969),” “Foreword” to the
+                        Marianne Moore Reader, “Mercifully,” “Old Amusement Park,” “Prevalent at One
+                        Time,” “Reminiscent of a Wave at the Curl,” “Rescue with Yul Brynner,” “The
+                        Camperdown Elm,” “The Magician’s Retreat,” “The Mind, Intractable Thing,”
+                        “To a Giraffe,” “To Victor Hugo of My Crow Pluto,” “W. S. Landor”!</p>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <!-- <encodingDesc>
+            <classDecl>
+                <taxonomy source="https://arc-staging.dh.tamu.edu/index.php/Submitting_RDF">
+                    <category source="collex" xml:id="discipline">
+                        <catDesc>Literature</catDesc>
+                        <catDesc>Manuscript Studies</catDesc>
+                    </category>
+                    <category source="collex" xml:id="genre">
+                        <catDesc>Advertisement</catDesc>
+                        <catDesc>Criticism</catDesc>
+                        <catDesc>Ephemera</catDesc>
+                        <catDesc>Poetry</catDesc>
+                        <catDesc>Religion</catDesc>
+                        <catDesc>Review</catDesc>
+                        <catDesc>Speech</catDesc>
+                        <catDesc>Visual Art</catDesc>
+                    </category>
+                    <category source="collex" xml:id="thumbnail">
+                        <catDesc>[thumbnail image URL for notebook/object]</catDesc>
+                    </category>
+                    <category source="collex" xml:id="text">
+                        <catDesc>[plain text URL]</catDesc>
+                    </category>
+                    <category source="dc" xml:id="date">
+                        <catDesc>1930-43</catDesc>
+                    </category>
+                    <category source="dcterms" xml:id="hasPart">
+                        <catDesc>[notebook page RDF objects]</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc> -->
+    </teiHeader>
+    <facsimile>
+        <!-- graphic@width values need to be updated -->
+        <surface xml:id="nb07_04_05_0011_surface">
+            <surface xml:id="nb07_01_04_0011_recto_surface">
+                <graphic
+                    url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0011-recto.jpg"
+                    width="2902px"/>
+                <zone xml:id="nb07_04_05_0011_recto_surface_line_01" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0011_recto_surface_line_02" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0011_recto_surface_line_03" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0011_recto_surface_line_04" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0011_recto_surface_line_05" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0011_recto_surface_line_06" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0011_recto_surface_line_07" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0011_recto_surface_line_08" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0011_recto_surface_line_09" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_04_05_0012_surface">
+            <surface xml:id="nb07_01_04_0012_verso_surface">
+                <graphic
+                    url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0012-verso.jpg"
+                    width="2902px"/>
+                <zone xml:id="nb07_04_05_0012_verso_surface_line_01" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_04_05_0013_surface">
+            <surface xml:id="nb07_01_04_0013_recto_surface">
+                <graphic
+                    url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0013-recto.jpg"
+                    width="2902px"/>
+                <zone xml:id="nb07_04_05_0013_recto_surface_line_01" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_04_05_0014_surface">
+            <surface xml:id="nb07_01_04_0014_recto_surface">
+                <graphic
+                    url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0014-recto.jpg"
+                    width="2902px"/>
+                <zone xml:id="nb07_04_05_0014_recto_surface_line_01" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+            </surface>
+        </surface>
+        <surface xml:id="nb07_04_05_0015_surface">
+            <surface xml:id="nb07_01_04_0015_recto_surface">
+                <graphic
+                    url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0015-recto.jpg"
+                    width="2902px"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_01" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_02" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_03" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_04" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_05" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_06" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_07" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_08" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_09" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_10" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_11" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_12" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_13" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_14" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_15" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_16" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_17" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_18" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_19" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_20" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_21" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_22" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_23" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_24" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_25" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_26" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_27" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_28" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_29" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_30" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_31" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_32" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_33" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_34" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+                <zone xml:id="nb07_04_05_0015_recto_surface_line_35" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
+            </surface>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div type="image" xml:id="nb07_04_05_0011_text">
+                <div type="page" n="v.0011" xml:id="nb_07_04_05_0011_recto_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0011-recto.jpg"
+                        n="0011-recto"/>
+                    <lg>
+                        <l n="01">  The Bull resting on a hill                                                               <hi rend="blue">7</hi></l>
+                        <l n="02">       his bulk tapering like a wedge</l>
+                        <l n="03"/>
+                        <l n="04">       rays of the sun <del>creating</del> over him</l>
+                        <l n="05"/>
+                        <l n="06">          <del>a</del>  creating a fine black edge</l>
+                        <l n="07"/>
+                        <l n="08">       Prominence is not eminence.  Zuni's<note n="n016"> Zunis are a Native American people of northwestern New Mexico.</note>                                                                            — "powerful </l>
+                        <l n="09">                                                  wise, prominent"</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_04_05_0012_text">
+                <div type="page" n="v.0012" xml:id="nb_07_04_05_0012_verso_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0012-verso.jpg"
+                        n="0012-verso"/>
+                    <lg>
+                        <l n="01">[No transcription for this page.]<note>This image results from a copying and filing error in the files sent to the MMDA. It repeats image 010. Disregard. MM’s own handwritten numbers on the top right-hand corner of recto pages indicate the appropriate sequence.</note></l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_04_05_0013_text">
+                <div type="page" n="r.0013" xml:id="nb_07_04_05_0013_recto_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0013-recto.jpg"
+                        n="0013-recto"/>
+                    <lg>
+                        <l n="01">[No transcription for this page.]<note>This image results from a copying and filing error in the files sent to the MMDA. It repeats image 011. Disregard. MM’s own handwritten numbers on the top right-hand corner of recto pages indicate the appropriate sequence. In this case, image 014 follows directly from image 011.</note></l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_04_05_0014_text">
+                <div type="page" n="r.0014" xml:id="nb_07_04_05_0014_recto_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0014-recto.jpg"
+                        n="0014-recto"/>
+                    <lg>
+                        <l n="01">[No handwriting on this page.]</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_04_05_0015_text">
+                <div type="page" n="r.0015" xml:id="nb_07_04_05_0015_recto_text">
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0015-recto.jpg"
+                        n="0015-recto"/>
+                    <desc>MM draws a half circle around the words at the end of line 26.</desc>
+                    <lg>
+                        <l n="01"> <seg type="draft-begin">         </seg><hi rend="blue">My crow, Pluto</hi>                  The Jewel                                           9<note n="n017"> MM drafts toward "To Victor Hugo of My Crow Pluto," first published<hi rend="italic">Harper's Bazaar</hi>  95 (1 October 1961): 120; midway down the page, she also drafts toward "To a Giraffe," first published in <hi rend="italic">Poetry in Crystal </hi>(New York: Steuben Glass, Inc., 1963): 44.</note> </l>
+                        <l n="02">  <hi rend="blue">         a blow;                                     </hi><foreign xml:lang="it">gio jello</foreign></l>
+                        <l n="03">  <hi rend="blue">         and so  &amp;lt;  <foreign xml:lang="it">caro corvo</foreign><note n="n018"> The &amp;lt; mark indicates that "caro corvo" belongs below "and so."</note></hi></l>
+                        <l n="04"><hi rend="blue">         had to</hi></l>
+                        <l n="05">						<foreign xml:lang="it">                                      lucro: profit</foreign></l>
+                        <l n="06">  <hi rend="blue">         let you            </hi><foreign xml:lang="it">minuto minute</foreign> very small</l>
+                        <l n="07">  <hi rend="blue">         go</hi></l>
+                        <l n="08"> </l>
+                        <l n="09"> </l>
+                        <l n="10"><hi rend="blue">  Tedium &amp; technique instead of<note n="n019"> MM invokes terms she employed in two essays, "Tedium and Integrity," given 1957 (first published 2017), and "Idiosyncrasy and Technique" (first published 1958).</note></hi></l>
+                        <l n="11"/>
+                        <l n="12"><hi rend="blue">  revenging himself by excelling the</hi></l>
+                        <l n="13"><hi rend="blue">  tiresome man <del>defends</del> explains his</hi></l>
+                        <l n="14"><hi rend="blue">                                                                  case</hi><seg type="draft-end"/></l>
+                        <l n="15">  _______________________</l>
+                        <l n="16">  	<hi rend="blue"><seg type="draft-begin">                                                              </seg>(Personal)</hi></l>
+                        <l n="17"><hi rend="blue">            O to Be Ogden Nash<note n="n020"> MM echoes her poem title "O to Be a Dragon," first published<hi rend="italic">Sequoia</hi>  3 (Autumn 1957): 20, as "Oh, to Be a Dragon." Ogden Nash [1902-1971]. American poet of light verse, frequently published in <hi rend="italic">The New Yorker</hi>. MM knew and admired Nash.</note></hi></l>
+                        <l n="18"/>
+                        <l n="19"><hi rend="blue">     It is not permissible      or be miserable</hi></l>
+                        <l n="20"/>
+                        <l n="21"><hi rend="blue">     to be personal;                because a man is</hi></l>
+                        <l n="22"><hi rend="blue">     or desirable                            enviable</hi></l>
+                        <l n="23"><hi rend="blue">     to be literal</hi></l>
+                        <l n="24"/>
+                        <l n="25"><hi rend="blue">     <hi rend="underline">but "he" has anticipated me</hi>                (last line</hi></l>
+                        <l n="26"/>
+                        <l n="27"><hi rend="blue">     <del>an</del>  in my disapproval</hi></l>
+                        <l n="28"><hi rend="blue">      of the <del>B of E for being</del>  Uneconomical</hi></l>
+                        <l n="29"><hi rend="blue">       <hi rend="underline">Bureau of Printing and Eng</hi>raving  </hi></l>
+                        <l n="30"/>
+                        <l n="31"><hi rend="blue">    I submit that it be legal</hi></l>
+                        <l n="32"><hi rend="blue">    to use half a stamp or stamp &amp; a half</hi></l>
+                        <l n="33"><hi rend="blue">                                  as well as</hi></l>
+                        <l n="34"><hi rend="blue">   for <del>1</del> an ounce of sealed mail</hi></l>
+                        <l n="35"><hi rend="blue">                OUNCE</hi><seg type="draft-end"/></l>
+                    </lg>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
