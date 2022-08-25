@@ -275,12 +275,12 @@
                     <lg>
                         <l n="01"> </l>
                         <l n="02"> </l>
-                        <l n="03"> <hi rend="blue">               Metropolitan Museum<note n="n000"> The 1512 "Portrait of a Man in Red Chalk" by Leonardo da Vinci (1452-1519) may be clipped from materials for the Metropolitan Museum's exhibition of the Mona Lisa in 1963.</note></hi></l>
+                        <l n="03">                <hi rend="blue">Metropolitan Museum</hi><note> The 1512 "Portrait of a Man in Red Chalk" by Leonardo da Vinci (1452-1519) may be clipped from materials for the Metropolitan Museum's exhibition of the Mona Lisa in 1963.</note></l>
                         <l n="04"> </l>
-                        <l n="05"><hi rend="blue">                                                                       1964</hi></l>
-                        <l n="06"><hi rend="blue">  National Geographic April 64</hi></l>
+                        <l n="05">                                                                       <hi rend="blue">1964</hi></l>
+                        <l n="06">  <hi rend="blue">National Geographic April 64</hi></l>
                         <l n="07"> </l>
-                        <l n="08"><hi rend="blue">      A cuckoo<note n="n001"> Roadrunner photographed by James Blair [1931- ], on staff at<hi rend="italic">National Geographic</hi>  from 1962-1994. Ralph Gray. "From Sun-Clad Sea to Shining Mountains." <hi rend="italic">National Geographic</hi>  125 (April 1964): 563. </note></hi></l>
+                        <l n="08">      <hi rend="blue">A cuckoo</hi><note> Roadrunner photographed by James Blair [1931- ], on staff at<hi rend="italic">National Geographic</hi>  from 1962-1994. Ralph Gray. "From Sun-Clad Sea to Shining Mountains." <hi rend="italic">National Geographic</hi>  125 (April 1964): 563.</note></l>
                     </lg>
                 </div>
             </div>
@@ -290,7 +290,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0003-recto.jpg"
                         n="0003-recto"/>
                     <lg>
-                        <l n="01">[No handwriting on this page.] </l>
+                        <l n="01">[No handwriting on this page.]</l>
                     </lg>
                 </div>
             </div>
@@ -302,8 +302,8 @@
                     <lg>
                         <l n="01"><hi rend="blue">Marianne Moore                      260 Cumberland Street</hi></l>
                         <l n="02"/>
-                        <l n="03"><hi rend="blue">                                                        Brooklyn 5 NY</hi></l>
-                        <l n="04"><hi rend="blue">                                                          <del>S</del> UL 8 – 5444<note n="n002"> The UL telephone exchange stood for ULSTER.</note></hi></l>
+                        <l n="03">                                                        <hi rend="blue">Brooklyn 5 NY</hi></l>
+                        <l n="04">                                                          <hi rend="blue"><del>S</del> UL 8 – 5444</hi><note> The UL telephone exchange stood for ULSTER.</note></l>
                     </lg>
                 </div>
             </div>
@@ -322,7 +322,7 @@
                         <l n="07"> <del>up high</del> in a pumpkin-yellow square <del>u</del>, up high</l>
                         <l n="08">         on the wing<hi rend="sub">v</hi>  among the tall dry weeds —</l>
                         <l n="09">                           flying</l>
-                        <l n="10"> there<del>s</del> <add>is</add> something in protective</l>
+                        <l n="10"> there<del>s</del> is something in protective</l>
                         <l n="11">           coloration— must <del>be</del> be</l>
                         <l n="12"> <del>  be</del></l>
                         <l n="13">                        red</l>
@@ -341,7 +341,7 @@
                         <l n="26"> <del>with on each wing</del> a yellow patch, a square  —</l>
                         <l n="27">  and <hi rend="underline">in</hi> it a peacocks eye</l>
                         <l n="28"> </l>
-                        <l n="29"> <seg type="draft-begin"/>Patience I say       The Gordian knot<note n="n003"> Starting in these lines, MM may draft toward "Charity Overcoming Envy," first published<hi rend="italic">The New Yorker</hi>  39 (30 March1963): 44; one phrase appears in the published poem.</note> </l>
+                        <l n="29"> <seg type="draft-begin"/>Patience I say       The Gordian knot<note> Starting in these lines, MM may draft toward "Charity Overcoming Envy," first published<hi rend="italic">The New Yorker</hi>  39 (30 March1963): 44; one phrase appears in the published poem.</note> </l>
                         <l n="30"> </l>
                         <l n="31"> <hi rend="pencil">wrecked</hi>                 need not be cut</l>
                         <l n="32"> <hi rend="pencil">by vanity unchecked</hi></l>
