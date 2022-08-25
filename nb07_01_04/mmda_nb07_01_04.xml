@@ -5410,17 +5410,17 @@
                         <!-- NW: text zones from line 08 to end need to be redone, the "1923" in line 8 should be part of line 8, missing blank line 18, etc. -->
                         <l n="08">                     <hi rend="underline">Interregnum</hi>                                         1923<bibl rend="end"/><note>Jennings, Leslie Nelson. "Interregnum." <hi rend="underline">Forum</hi> Volume 69 (January 1923): 1119.</note></l>
                         <l n="09">               Leslie Nelson Jennings. <note><!-- type="glossary" -->Jennings, Leslie Nelson [1892-1972]. American poet and editor.</note></l>
-                        <l n="10"> <seg type="begin" subtype="verse"/><quote type="begin"/>Bring me an herb of healing, bring me fruit</l>
-                        <l n="11">    Cool from the hills, a charger heaped w snow;</l>
-                        <l n="12"> Sea water chill &amp; colorless and mute</l>
-                        <l n="13">    In jars of smoky agate; let me know</l>
-                        <l n="14"> Rigors of bronze, &amp; all the frozen, white</l>
-                        <l n="15">           Procession of lads &amp; girls who stand</l>
-                        <l n="16"> Stricken upon the threshold of delight,</l>
-                        <l n="17">             Their limbs unloosened hand apart from hand!</l>
-                        <l n="18"/>
-                        <l n="19">  These I will put between me and that hour</l>
-                        <l n="20">             when Beauty learns to plague the eyes awake<quote type="end"/><seg type="end" subtype="verse"/><note> Perhaps anticipating MM's descriptions of beauty in paradise, in "Marriage"; Adam is "plagued" by some aspects.</note></l>
+                        <l n="10" rend="verse"> <quote type="begin"/>Bring me an herb of healing, bring me fruit</l>
+                        <l n="11" rend="verse">    Cool from the hills, a charger heaped w snow;</l>
+                        <l n="12" rend="verse"> Sea water chill &amp; colorless and mute</l>
+                        <l n="13" rend="verse">    In jars of smoky agate; let me know</l>
+                        <l n="14" rend="verse"> Rigors of bronze, &amp; all the frozen, white</l>
+                        <l n="15" rend="verse">           Procession of lads &amp; girls who stand</l>
+                        <l n="16" rend="verse"> Stricken upon the threshold of delight,</l>
+                        <l n="17" rend="verse">             Their limbs unloosened hand apart from hand!</l>
+                        <l n="18" rend="verse"/>
+                        <l n="19" rend="verse">  These I will put between me and that hour</l>
+                        <l n="20" rend="verse">             when Beauty learns to plague the eyes awake<quote type="end"/><note> Perhaps anticipating MM's descriptions of beauty in paradise, in "Marriage"; Adam is "plagued" by some aspects.</note></l>
                     </lg>
                 </div>
             </div>
