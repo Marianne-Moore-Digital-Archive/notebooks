@@ -5027,43 +5027,45 @@
                 <graphic
                     url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0123-recto.jpeg"
                     width="2884px"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_01" lry="145" lrx="2825" uly="20"
+                <zone xml:id="nb07_01_04_0123_recto_surface_line_01" lry="0" lrx="0" uly="0"
+                    ulx="0" rend="line"/>
+                <zone xml:id="nb07_01_04_0123_recto_surface_line_02" lry="145" lrx="2825" uly="20"
                     ulx="80" rend="line"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_02" lry="245" lrx="2835" uly="155"
+                <zone xml:id="nb07_01_04_0123_recto_surface_line_03" lry="245" lrx="2835" uly="155"
                     ulx="140" rend="line"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_03" lry="325" lrx="2545" uly="260"
+                <zone xml:id="nb07_01_04_0123_recto_surface_line_04" lry="325" lrx="2545" uly="260"
                     ulx="190" rend="line"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_04" lry="445" lrx="2555" uly="360"
+                <zone xml:id="nb07_01_04_0123_recto_surface_line_05" lry="445" lrx="2555" uly="360"
                     ulx="220" rend="line"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_05" lry="545" lrx="2765" uly="465"
+                <zone xml:id="nb07_01_04_0123_recto_surface_line_06" lry="545" lrx="2765" uly="465"
                     ulx="205" rend="line"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_06" lry="640" lrx="2780" uly="555"
+                <zone xml:id="nb07_01_04_0123_recto_surface_line_07" lry="640" lrx="2780" uly="555"
                     ulx="155" rend="line"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_07" lry="740" lrx="2740" uly="660"
+                <zone xml:id="nb07_01_04_0123_recto_surface_line_08" lry="740" lrx="2740" uly="660"
                     ulx="215" rend="line"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_08" lry="815" lrx="2835" uly="755"
+                <zone xml:id="nb07_01_04_0123_recto_surface_line_09" lry="815" lrx="2835" uly="755"
                     ulx="150" rend="line"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_09" lry="955" lrx="2850" uly="825"
+                <zone xml:id="nb07_01_04_0123_recto_surface_line_10" lry="955" lrx="2850" uly="825"
                     ulx="255" rend="line"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_10" lry="970" lrx="1275" uly="870"
+                <zone xml:id="nb07_01_04_0123_recto_surface_line_11" lry="970" lrx="1275" uly="870"
                     ulx="65" rend="line"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_11" lry="1045" lrx="2805"
+                <zone xml:id="nb07_01_04_0123_recto_surface_line_12" lry="1045" lrx="2805"
                     uly="1005" ulx="65" rend="line"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_12" lry="1145" lrx="2845"
+                <zone xml:id="nb07_01_04_0123_recto_surface_line_13" lry="1145" lrx="2845"
                     uly="1070" ulx="115" rend="line"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_13" lry="1235" lrx="1550"
+                <zone xml:id="nb07_01_04_0123_recto_surface_line_14" lry="1235" lrx="1550"
                     uly="1170" ulx="530" rend="line"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_14" lry="1345" lrx="2345"
+                <zone xml:id="nb07_01_04_0123_recto_surface_line_15" lry="1345" lrx="2345"
                     uly="1260" ulx="330" rend="line"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_15" lry="1470" lrx="2855"
+                <zone xml:id="nb07_01_04_0123_recto_surface_line_16" lry="1470" lrx="2855"
                     uly="1360" ulx="345" rend="line"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_16" lry="1570" lrx="2695"
+                <zone xml:id="nb07_01_04_0123_recto_surface_line_17" lry="1570" lrx="2695"
                     uly="1475" ulx="505" rend="line"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_17" lry="1655" lrx="2610"
+                <zone xml:id="nb07_01_04_0123_recto_surface_line_18" lry="1655" lrx="2610"
                     uly="1585" ulx="270" rend="line"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_18" lry="1735" lrx="2850"
+                <zone xml:id="nb07_01_04_0123_recto_surface_line_19" lry="1735" lrx="2850"
                     uly="1675" ulx="1635" rend="line"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_19" lry="1825" lrx="2805"
+                <zone xml:id="nb07_01_04_0123_recto_surface_line_20" lry="1825" lrx="2805"
                     uly="1740" ulx="1630" rend="line"/>
             </surface>
         </surface>
@@ -5110,9 +5112,9 @@
                     uly="1550" ulx="125" rend="line"/>
                 <zone xml:id="nb07_01_04_0124_verso_surface_line_19" lry="1695" lrx="2775"
                     uly="1635" ulx="200" rend="line"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_20" lry="1755" lrx="2825"
+                <zone xml:id="nb07_01_04_0124_verso_surface_line_20" lry="1755" lrx="2825"
                     uly="1730" ulx="200" rend="line"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_21" lry="1805" lrx="1750"
+                <zone xml:id="nb07_01_04_0124_verso_surface_line_21" lry="1805" lrx="1750"
                     uly="1785" ulx="215" rend="line"/>
             </surface>
         </surface>
@@ -8505,25 +8507,26 @@
                         and 13 in black pen. She shades the middle of the circle with blue
                         pencil.</desc>
                     <lg>
-                        <l n="01">        <note>MM writes text across both pages in lines 10 and 12. Text across both pages reads: "Cescinsky chinese furniture 27" and "Chinese painting met. museum 5"</note>                   D                                                                                                                                                                                                                                  60</l>
-                        <l n="02">                 Defense of poetry, Shelley 36        G         Galsworthy, Forsyte S       &#8211;14</l>
-                        <l n="03">                    "        " poesie Spenser 33                       Gay, Jolen            51</l>
-                        <l n="04">                  diction, Bridges&#8211;10                                   George W.L.       1-3</l>
-                        <l n="05">                  dogs Book of noble dogs 4                        Giraffe &amp; rhinoceros     &#8211;12</l>
-                        <l n="06">                   Dreiser. Le Gallienne&#8211;8                            Gothic rose&#8211;see reviews</l>
-                        <l n="07">                                                                                      Glass that will bend 13</l>
-                        <l n="08">             E                                                                      Glover, British folk Tales 15</l>
-                        <l n="09">                 embroidery  10                                             Gregory, A   marriage     &#8211;29</l>
-                        <l n="10">   27          ethics, Princes, Larned  53</l>
-                        <l n="11">                                                                         H          Hardy&#8211;Ancient to Ancients 57</l>
-                        <l n="12">   eum 5      F     Fairy Tales  Belinka 12                           <del>Hueffer, Women &amp; Men&#8211;40</del></l>
-                        <l n="13">                                   Dick Dodder etc 15</l>
-                        <l n="14">                           Feuchtersleben&#8211;38                                    <del>Hunt&#8211;What is poetry 17</del></l>
-                        <l n="15">                           Forsyte Saga&#8211;14                                    Health &amp; Suggestion&#8211;Feuchtersleben&#8211;38</l>
-                        <l n="16">                           Frog&#8211;(poem) 56                                      Hegel&#8211;Brandes&#8211;13</l>
-                        <l n="17">                           Fry, Roger 48                                          Hopkins, Gerard&#8211;5</l>
-                        <l n="18">                                                                                            Hueffer. Women &amp; men&#8211;40</l>
-                        <l n="19">                                                                                            Hunt&#8211;What is poetry 17</l>
+                        <l n="01"><note>MM writes text across both pages in lines 10 and 12. Text across both pages reads: "Cescinsky chinese furniture 27" and "Chinese painting met. museum 5"</note></l>
+                        <l n="02">              D                                                                                                   60</l>
+                        <l n="03">                 Defense of poetry, Shelley 36        G         Galsworthy, Forsyte S       &#8211;14</l>
+                        <l n="04">                    "        " poesie Spenser 33                       Gay, Jolen            51</l>
+                        <l n="05">                  diction, Bridges&#8211;10                                   George W.L.       1-3</l>
+                        <l n="06">                  dogs Book of noble dogs 4                        Giraffe &amp; rhinoceros     &#8211;12</l>
+                        <l n="07">                   Dreiser. Le Gallienne&#8211;8                            Gothic rose&#8211;see reviews</l>
+                        <l n="08">                                                                                      Glass that will bend 13</l>
+                        <l n="09">             E                                                                      Glover, British folk Tales 15</l>
+                        <l n="10">                 embroidery  10                                             Gregory, A   marriage     &#8211;29</l>
+                        <l n="11">   27          ethics, Princes, Larned  53</l>
+                        <l n="12">                                                                         H          Hardy&#8211;Ancient to Ancients 57</l>
+                        <l n="13">   eum 5      F     Fairy Tales  Belinka 12                           <del>Hueffer, Women &amp; Men&#8211;40</del></l>
+                        <l n="14">                                   Dick Dodder etc 15</l>
+                        <l n="15">                           Feuchtersleben&#8211;38                                    <del>Hunt&#8211;What is poetry 17</del></l>
+                        <l n="16">                           Forsyte Saga&#8211;14                                    Health &amp; Suggestion&#8211;Feuchtersleben&#8211;38</l>
+                        <l n="17">                           Frog&#8211;(poem) 56                                      Hegel&#8211;Brandes&#8211;13</l>
+                        <l n="18">                           Fry, Roger 48                                          Hopkins, Gerard&#8211;5</l>
+                        <l n="19">                                                                                            Hueffer. Women &amp; men&#8211;40</l>
+                        <l n="20">                                                                                            Hunt&#8211;What is poetry 17</l>
                     </lg>
                 </div>
             </div>
