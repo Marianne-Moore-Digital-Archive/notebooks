@@ -7804,58 +7804,60 @@
                     </lg>
                 </div>
             </div>
+            <!-- Nick: rezone lines 17-18 to overlap consistently at least part of diagonal words at end of lines; currently 17 excludes last word in line "permanen" while 18 includes "posi".  -->
             <div type="image" xml:id="nb07_01_04_0098_text">
                 <div type="page" n="v.0098" xml:id="nb07_01_04_0098_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0098-verso.jpeg"
                         n="0098-verso"/>
                     <lg>
-                        <l n="01"> <note>Carey, M. C. "The Octopus in the Channel Islands" (see earlier note).</note> <quote type="begin"/>  are very scornful of the tourists' alarm of these queer <note>MM takes notes toward drafting "An Octopus" and attributes "picking periwinkles" to Carey.</note></l>
+                        <l n="01">    <note>Carey, M. C. "The Octopus in the Channel Islands" (see earlier note).</note><quote type="begin"/>are very scornful of the tourists' alarm of these queer<note>MM takes notes toward drafting "An Octopus" and attributes "picking periwinkles" to Carey.</note></l>
                         <l n="02">    beasts.    They . . . fish for them, using the cut-up feelers</l>
                         <l n="03">    as bait for conger. . .    They bait the trot w chunks</l>
                         <l n="04">    of spider crab, the octopuss favorite food. &amp; then</l>
                         <l n="05">    pay out the trot from the   boat in deep water,</l>
                         <l n="06">   generally in the calm of a sandy bay.</l>
                         <l n="07">       The big arms double rowed w 140 suckers</l>
-                        <l n="08">                                                                                       <hi rend="pencil">&amp; unimaginable delicacy</hi></l>
+                        <l n="08">                                                 <hi rend="pencil">&amp; unimaginable delicacy</hi></l>
                         <l n="09">    each are of   amazing <hi rend="underline">strength</hi> combined w extreme</l>
                         <l n="10">    delicacy of touch, thick at the base (of the body)</l>
                         <l n="11">    and then tapering to the finest possible point,</l>
-                        <l n="12">                           <hi rend="pencil">the</hi></l>
+                        <l n="12">                                                    <hi rend="pencil">the</hi></l>
                         <l n="13">    resembling the sensitive tongue of a wood pecker</l>
-                        <l n="14">      able            to.                                                              from</l>
+                        <l n="14">      able            to.                            from</l>
                         <l n="15">    . .         <hi rend="pencil">(</hi>It can<hi rend="pencil">)</hi> pick a periwinkle <hi rend="pencil">(</hi>out of<hi rend="pencil">)</hi> a crack,</l>
                         <l n="16">      &amp;  yet <hi rend="pencil">or</hi> crush <del>a</del> large<del>r</del> prey   w   <hi rend="pencil">iron</hi> the grip of a</l>
-                        <l n="17">     small python . . . .    The largest <hi rend="pencil">concluding</hi> seen in these  permanen</l>
-                        <l n="18">     waters was about 9 feet four inches across,          posi <note> MM writes the phrase "permanent grip positive" across the verso/recto border of these pages.</note></l>
+                        <l n="17">     small python . . . .    The largest <hi rend="pencil">concluding</hi> seen in these permanen</l>
+                        <l n="18">     waters was about 9 feet four inches across,                         posi<note>MM writes the phrase "permanent grip positive" across the verso/recto border of these pages.</note></l>
                         <l n="19">     <hi rend="underline">weighing over 10 pounds wh</hi>ich was <hi rend="underline">rather too </hi></l>
                         <l n="20">     large for comfort on the line.<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
+            <!-- Nick: rezone line 13 to include "ve" at beginning of line -->
             <div type="image" xml:id="nb07_01_04_0099_text">
                 <div type="page" n="r.0099" xml:id="nb07_01_04_0099_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0099-recto.jpeg"
                         n="0099-recto"/>
                     <lg>
-                        <l n="01">     <bibl rend="begin"/>Vision  and  Design  Roger Fry.  <note> Fry, Roger [1866-1934]. English painter and critic, part of the Bloomsbury group. MM refers to or quotes Fry in several essays, starting in 1926.</note>    Brentano<note> Fry, Roger. <hi rend="italic">Vision and Design</hi>. London: Chatto and Windus, 1920; NY: Brentano's, 1923.</note>             48</l>
+                        <l n="01">        <bibl rend="begin"/>Vision  and  Design  Roger Fry.<note>Fry, Roger [1866-1934]. English painter and critic, part of the Bloomsbury group. MM refers to or quotes Fry in several essays, starting in 1926.</note>      Brentano<note>Fry, Roger. <hi rend="italic">Vision and Design</hi>. London: Chatto and Windus, 1920; NY: Brentano's, 1923.</note>             48</l>
                         <l n="02"/>
-                        <l n="03">   1917?<bibl rend="end"/>   _____  22 p 180   A possible Domestic Architecture</l>
-                        <l n="04">   <quote type="begin"/>The desire for a style at all costs, even a borrowed</l>
-                        <l n="05">    style, is part of that exaggerated social consciousness</l>
-                        <l n="06">    which in other respects manifests itself as snobbery.</l>
-                        <l n="07">   . . . .  I looked at a great many houses and found</l>
-                        <l n="08">    that those which had a sufficient number of rooms</l>
-                        <l n="09">    were all gentlemen's establishments,  w  lodge,  stabling</l>
-                        <l n="10">     &amp; green-houses.    Now it was characteristic</l>
-                        <l n="11"><hi rend="pencil">t grip</hi> <note> Here and 2 lines below, MM completes two words written across the verso/recto border of pages: "permanent grip positive."</note>              of my purse that I could not afford to keep</l>
-                        <l n="12">    up a gentleman's establishment,  &amp; of my tastes</l>
-                        <l n="13"><hi rend="pencil">ve</hi>     that I could not endure to.</l>
-                        <l n="14"/>
-                        <l n="15">    <del>97</del>   Giotto   89   In fact S. Bonaventure</l>
-                        <l n="16">   &amp; the great poet of the movement, the cultivated</l>
-                        <l n="17">     &amp; ecstatic Jacopone di Todi<note>MM reviews Jacopone da Todi, Poet and Mystic – 1228-1306: A Spiritual Biography by Evelyn Underhill for the Dial, January, 1921.</note>                did for the<quote type="end"/></l>
+                        <l n="03">      1917?<bibl rend="end"/>   _____  22 p 180   A possible Domestic Architecture</l>
+                        <l n="04">      <quote type="begin"/>The desire for a style at all costs, even a borrowed</l>
+                        <l n="05">       style, is part of that exaggerated social consciousness</l>
+                        <l n="06">       which in other respects manifests itself as snobbery.</l>
+                        <l n="07">      . . . .  I looked at a great many houses and found</l>
+                        <l n="08">       that those which had a sufficient number of rooms</l>
+                        <l n="09">       were all gentlemen's establishments,  w  lodge,  stabling</l>
+                        <l n="10">        &amp; green-houses.    Now it was characteristic</l>
+                        <l n="11"><hi rend="pencil">t grip</hi><note>Here and 2 lines below, MM completes two words written across the verso/recto border of pages: "permanent grip positive."</note>   of my purse that I could not afford to keep</l>
+                        <l n="12">       up a gentleman's establishment,  &amp; of my tastes</l>
+                        <l n="13"><hi rend="pencil">ve</hi>    that I could not endure to.</l>
+                        <l n="14"/> 
+                        <l n="15">       <del>97</del>   Giotto   89   In fact S. Bonaventure</l>
+                        <l n="16">      &amp; the great poet of the movement, the cultivated</l>
+                        <l n="17">        &amp; ecstatic Jacopone di Todi<note>MM reviews Jacopone da Todi, Poet and Mystic – 1228-1306: A Spiritual Biography by Evelyn Underhill for the Dial, January, 1921.</note>                did for the<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
