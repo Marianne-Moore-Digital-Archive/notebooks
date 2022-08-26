@@ -3794,13 +3794,13 @@
                     uly="1150" ulx="305" rend="line"/>
                 <zone xml:id="nb07_01_04_0093_recto_surface_line_13" lry="1360" lrx="2685"
                     uly="1265" ulx="235" rend="line"/>
-                <zone xml:id="nb07_01_04_0092_verso_surface_line_14" lry="1500" lrx="2830"
+                <zone xml:id="nb07_01_04_0093_recto_surface_line_14" lry="1500" lrx="2830"
                     uly="1370" ulx="185" rend="line"/>
-                <zone xml:id="nb07_01_04_0092_verso_surface_line_15" lry="1630" lrx="2735"
+                <zone xml:id="nb07_01_04_0093_recto_surface_line_15" lry="1630" lrx="2735"
                     uly="1530" ulx="235" rend="line"/>
-                <zone xml:id="nb07_01_04_0092_verso_surface_line_16" lry="1745" lrx="2825"
+                <zone xml:id="nb07_01_04_0093_recto_surface_line_16" lry="1745" lrx="2825"
                     uly="1650" ulx="225" rend="line"/>
-                <zone xml:id="nb07_01_04_0092_verso_surface_line_v01" lry="1535" lrx="205" uly="120"
+                <zone xml:id="nb07_01_04_0093_recto_surface_line_v01" lry="1535" lrx="205" uly="120"
                     ulx="40" rend="line"/>
             </surface>
         </surface>
@@ -7620,9 +7620,9 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0091-recto.jpeg"
                         n="0091-recto"/>
                     <lg>
-                        <l n="01"> <bibl rend="begin"/>Christian Science Monitor&#8211;Oct 24 1923</l>
-                        <l n="02">    E. Gordon Craig<note><!-- type="glossary" --> Craig, Edward Gordon [1872-1966]. English theater practitioner, including scene design and theory. MM writes of him in "Picking and Choosing" (<hi rend="italic">Observations</hi> 1924) and refers to him in "The Dial: A Retrospect," <hi rend="italic">Life and Letters To-Day</hi> 27 (1940).</note>         44</l>
-                        <l n="03">  Scene.  Oxford University Press. 1923<bibl rend="end"/>  25s/<note> Craig, Edward Gordon. <hi rend="italic">Scene</hi>. London: Humphrey Milford; Oxford University Press, 1923.</note></l>
+                        <l n="01">   <bibl rend="begin"/>Christian Science Monitor&#8211;  Oct  24  1923</l>
+                        <l n="02">    E. Gordon Craig<note><!-- type="glossary" --> Craig, Edward Gordon [1872-1966]. English theater practitioner, including scene design and theory. MM writes of him in "Picking and Choosing" (<hi rend="italic">Observations</hi> 1924) and refers to him in "The Dial: A Retrospect," <hi rend="italic">Life and Letters To-Day</hi> 27 (1940).</note>                                       44</l>
+                        <l n="03">  Scene. Oxford University Press. 1923<bibl rend="end"/>  25s/<note> Craig, Edward Gordon. <hi rend="italic">Scene</hi>. London: Humphrey Milford; Oxford University Press, 1923.</note></l>
                         <l n="04">   <quote type="begin"/>There is a certain weary patience in Mr. Gordon</l>
                         <l n="05">     Craig's attitude toward the public. Because</l>
                         <l n="06">   what he has to say is so important, so valuable, and</l>
@@ -7649,7 +7649,7 @@
                     <lg>
                         <l n="01">   <bibl rend="b"/>N Y  Times Nov 18.  1923<note><hi rend="italic">New York Times</hi> (18 November 1923). 31 October 1923, there was a brief notice that the cavern had been made a national monument.</note>               Gothic arch&#8211;</l>
                         <l n="02">   Carlsbad Cave<note> MM apparently considered writing a poem on Carlsbad Caverns. See miscellaneous notebook (1929-1940) 07.03.11, image 37 verso.</note>. N. Mexico.   <bibl rend="end"/><quote type="begin"/>A vaulted room in</l>
-                        <l n="03"> <hi rend="shorthand_the">the</hi> cave in the middle of which rises a dark pillar, w all</l>
+                        <l n="03"><hi rend="shorthand_the">the</hi> cave in the middle of which rises a dark pillar, w all</l>
                         <l n="04">   around it pendants of Sparkling white.</l>
                         <l n="05">      Titanic columns rising from a stalagmite, the</l>
                         <l n="06">   base of which is more than 200 feet across, &amp;</l>
@@ -7659,17 +7659,18 @@
                         <l n="10">   lights of the explorers.     Gigantic lace of many</l>
                         <l n="11">   colors.  the crow's nest covered with 1000's of</l>
                         <l n="12">   stalactites, crisscrossed by strawlike Formations</l>
-                        <l n="13">  in a network of prismatic colors. Stalagmites     The Sponges<quote type="end"/></l>
+                        <l n="13">  in a network of prismatic colors. Stalagmites  The Sponges<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
+            <!-- Nick: rezone lines 1 (missing "45" at end) -->
             <div type="image" xml:id="nb07_01_04_0093_text">
                 <div type="page" n="r.0093" xml:id="nb07_01_04_0093_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0093-recto.jpeg"
                         n="0093-recto"/>
                     <lg>
-                        <l n="01">    <bibl rend="begin"/>Ill London News  Aug 11 1923<note>"A Summer 'Seaside' Visitor to be Avoided." Photographs by Dr. Francis Ward. <hi rend="italic">Illustrated London News</hi>, 11 September 1923: 21.</note><bibl rend="end"/>           45<note> MM takes notes toward drafting "An Octopus," first published <hi rend="italic">Dial</hi> December 1924. Her Notes to the poem refer to this article and claim to quote from Ward.</note></l>
+                        <l n="01">    <bibl rend="begin"/>Ill London News  Aug 11 1923<note>"A Summer 'Seaside' Visitor to be Avoided." Photographs by Dr. Francis Ward. <hi rend="italic">Illustrated London News</hi>, 11 September 1923: 21.</note><bibl rend="end"/>                   45<note> MM takes notes toward drafting "An Octopus," first published <hi rend="italic">Dial</hi> December 1924. Her Notes to the poem refer to this article and claim to quote from Ward.</note></l>
                         <l n="02">     <quote type="begin"/>Finish of a swim&#8211;out of breath&#8211;</l>
                         <l n="03">     tiptoeing after a swim&#8211;Showing the white</l>
                         <l n="04">     under surfaces of the arms.  Swimming backward</l>
@@ -7697,14 +7698,14 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0094-verso.jpeg"
                         n="0094-verso"/>
                     <lg>
-                        <l n="01">   <note>"A Summer 'Seaside' Visitor to be Avoided" (see earlier note).</note><quote type="begin"/>   When in use the suckers hearing surface alters its<note> MM takes notes toward drafting "An Octopus."</note></l>
+                        <l n="01">   <note>"A Summer 'Seaside' Visitor to be Avoided" (see earlier note).</note><quote type="begin"/>When in use the suckers hearing surface alters its<note> MM takes notes toward drafting "An Octopus."</note></l>
                         <l n="02">    shape, in order to secure a more effective grip</l>
                         <l n="03">    than <del>would</del>. otherwise would be possible   The cep. itself</l>
                         <l n="04">    is very powerful, photograph 3 showing large stones</l>
                         <l n="05">    wh the animal has pushed aside, w greatest</l>
                         <l n="06">    ease.    Bet each of arms, a &#916;ular semi transparent</l>
                         <l n="07">    web, 1/5 of the arms' length, &amp;  then continued down</l>
-                        <l n="08">                      not used in swimming</l>
+                        <l n="08">                              not used in swimming</l>
                         <l n="09">    each side as lateral wings;   In swimming the arms</l>
                         <l n="10">    trail behind, but they convert eledone into a parachute</l>
                         <l n="11">    As he descends to the bottom.    Arms <del>often</del></l>
@@ -7723,19 +7724,19 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0095-recto.jpeg"
                         n="0095-recto"/>
                     <lg>
-                        <l n="01">   <note>"A Summer 'Seaside' Visitor to be Avoided" (see earlier note).</note>   This is done in a slow deliberate manner<note> MM takes notes toward drafting "An Octopus"; in her Notes, she attributes "ghostly pallor" to Francis Ward.</note></l>
-                        <l n="02">    if disturbed                                                 46</l>
+                        <l n="01">      <note>"A Summer 'Seaside' Visitor to be Avoided" (see earlier note).</note>This is done in a slow deliberate manner<note> MM takes notes toward drafting "An Octopus"; in her Notes, she attributes "ghostly pallor" to Francis Ward.</note></l>
+                        <l n="02">   if disturbed                                                                 46</l>
                         <l n="03">      <hi rend="underline">escapes by swimming away backward</hi>s.  arms</l>
                         <l n="04">     trailed horizontally    the  arms expanded, the</l>
                         <l n="05">     undersurfaces white&#8211;during these movements</l>
                         <l n="06">                                       extraordinary</l>
-                        <l n="07">     the color changes to an <del>remarkable</del> degree.   Normally</l>
+                        <l n="07">    the color changes to an <del>remarkable</del> degree.  Normally</l>
                         <l n="08">     large patches of reddish buff are seen on a cream</l>
                         <l n="09">     background.  When excited the animal's skin is</l>
                         <l n="10">     a deep dark terracotta.  If frightened an intense</l>
                         <l n="11">     <hi rend="underline">ghostly pallor passes right over the animal</hi> except</l>
                         <l n="12">        on the under surface of the suckers &amp; the web</l>
-                        <l n="13">                                                                                             <hi rend="pencil">etched on <hi rend="shorthand_the">the</hi> wan green <unclear>tip</unclear></hi></l>
+                        <l n="13">                                      <hi rend="pencil">etched on <hi rend="shorthand_the">the</hi> wan green <unclear>tip</unclear></hi></l>
                         <l n="14">    |   The delicate green metallic tinge is due to</l>
                         <l n="15">    iridocysts below the layer of color cells. (wh</l>
                         <l n="16">    lie in the skin          Only  swims when he wishes</l>
@@ -7746,13 +7747,14 @@
                     </lg>
                 </div>
             </div>
+            <!-- Nick: rezone lines 14-18 -->
             <div type="image" xml:id="nb07_01_04_0096_text">
                 <div type="page" n="v.0096" xml:id="nb07_01_04_0096_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0096-verso.jpeg"
                         n="0096-verso"/>
                     <lg>
-                        <l n="01"> <note>"A Summer 'Seaside' Visitor to be Avoided" (see earlier note).</note> crus.  was hiding under a bunch of weeds. The cep.</l>
+                        <l n="01"> <note>"A Summer 'Seaside' Visitor to be Avoided" (see earlier note).</note>crus.  was hiding under a bunch of weeds. The cep.</l>
                         <l n="02"> ^<note> MM takes notes toward drafting "An Octopus<hi rend="italic">.</hi>"</note></l>
                         <l n="03">   came up in quite an open manner, &amp; when within</l>
                         <l n="04">   striking distance, <hi rend="shorthand_the">the</hi> arms seemed to approach the prey</l>
@@ -7764,7 +7766,8 @@
                         <l n="10">   up in the air.       The three "cuts" illustrate the fight.</l>
                         <l n="11"/>
                         <l n="12">  <bibl rend="begin"/>Graphic   August   25   1923</l>
-                        <l n="13">   The Octopus in the Channel Islands M C Carey<note>Carey, M. C. "The Octopus in the Channel Islands." Graphic (25 August 1923): 282. MM indicates in her Notes to "An Octopus" that she quotes from this essay.</note> <bibl rend="end"/>                                                      has been         by the advance</l>
+                        <l n="13">   The Octopus in the Channel Islands M C Carey<note>Carey, M. C. "The Octopus in the Channel Islands." Graphic (25 August 1923): 282. MM indicates in her Notes to "An Octopus" that she quotes from this essay.</note><bibl rend="end"/></l>
+                        <l n="14">                                         has been       by the advance</l>
                         <l n="15">   Sark. . . . No little consternation is caused from time to time</l>
                         <l n="16">   when it is reported that there is an influx of octopuses</l>
                         <l n="17">   in these warm Channel waters; and letters to</l>
@@ -7778,8 +7781,8 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0097-recto.jpeg"
                         n="0097-recto"/>
                     <lg>
-                        <l n="01"> <note>Carey, M. C. "The Octopus in the Channel Islands" (see earlier note).</note> <quote type="begin"/>  timid creature &amp; <hi rend="underline">makes his home</hi> in the rock <note>MM takes notes toward drafting "An Octopus."</note></l>
-                        <l n="02">                                                                 47</l>
+                        <l n="01">    <note>Carey, M. C. "The Octopus in the Channel Islands" (see earlier note).</note><quote type="begin"/>timid creature &amp; <hi rend="underline">makes his home</hi> in the rock <note>MM takes notes toward drafting "An Octopus."</note></l>
+                        <l n="02">                                                                            47</l>
                         <l n="03">    pools in <hi rend="underline">quite an innocent fashion</hi>.  Off the</l>
                         <l n="04">    Breton coast he is undoubtedly very destructive</l>
                         <l n="05">    to all kinds of shellfish, actually sucking</l>
@@ -7789,7 +7792,7 @@
                         <l n="09">    empty shells.   Care must be taken when</l>
                         <l n="10">    exploring the wonderful anemone starred pools</l>
                         <l n="11">    in the Islands <del>. . .</del>  to avoid . . . .   treading on an</l>
-                        <l n="12">       <hi rend="pencil">2 like</hi></l>
+                        <l n="12">             <hi rend="pencil">2 like</hi></l>
                         <l n="13">    "arm" in (a dark. . . .  weed tangled pool.<hi rend="pencil">s</hi>)</l>
                         <l n="14">     ard octopus     1 <hi rend="pencil">fr ravines of firs like</hi></l>
                         <l n="15">  <hi rend="shorthand_the">the</hi>  <gap extent="2"/> affair of 2-3 feet across in the cave pools,</l>
@@ -7797,7 +7800,7 @@
                         <l n="17">    confused w its cousin;  it is also 8-armed</l>
                         <l n="18">    but has two tentacles to add to its weapons.</l>
                         <l n="19">    Can go <del>iCross</del>   across flat rocks out of the water</l>
-                        <l n="20">    as fast as a man can walk.   The fishermen<quote type="end"/></l>
+                        <l n="20">    as fast as a man can walk.     The fishermen<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
