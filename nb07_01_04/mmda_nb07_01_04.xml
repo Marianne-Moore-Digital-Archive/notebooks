@@ -27,7 +27,6 @@
             </surface>
         </surface>
         <surface xml:id="nb07_01_04_0002_surface">
-            <!-- testing -->
             <surface xml:id="nb07_01_04_0002_verso_surface">
                 <graphic
                     url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0002-verso.jpeg"
@@ -2506,20 +2505,20 @@
                     ulx="145" rend="line"/>
                 <zone xml:id="nb07_01_04_0062_verso_surface_line_08" lry="1020" lrx="1205" uly="950"
                     ulx="244" rend="line"/>
-                <zone xml:id="nb07_01_04_0062_verso_surface_line_09" lry="1125" lrx="2581" uly="1035"
-                    ulx="535" rend="line"/>
-                <zone xml:id="nb07_01_04_0062_verso_surface_line_10" lry="1240" lrx="1295" uly="1140"
-                    ulx="185" rend="line"/>
-                <zone xml:id="nb07_01_04_0062_verso_surface_line_11" lry="1290" lrx="2803" uly="1237"
-                    ulx="116" rend="line"/>
-                <zone xml:id="nb07_01_04_0062_verso_surface_line_12" lry="1435" lrx="2763" uly="1325"
-                    ulx="135" rend="line"/>
-                <zone xml:id="nb07_01_04_0062_verso_surface_line_13" lry="1570" lrx="2775" uly="1450"
-                    ulx="195" rend="line"/>
-                <zone xml:id="nb07_01_04_0062_verso_surface_line_14" lry="1690" lrx="2750" uly="1560"
-                    ulx="35" rend="line"/>
-                <zone xml:id="nb07_01_04_0062_verso_surface_line_15" lry="1787" lrx="2366" uly="1710"
-                    ulx="165" rend="line"/>
+                <zone xml:id="nb07_01_04_0062_verso_surface_line_09" lry="1125" lrx="2581"
+                    uly="1035" ulx="535" rend="line"/>
+                <zone xml:id="nb07_01_04_0062_verso_surface_line_10" lry="1240" lrx="1295"
+                    uly="1140" ulx="185" rend="line"/>
+                <zone xml:id="nb07_01_04_0062_verso_surface_line_11" lry="1290" lrx="2803"
+                    uly="1237" ulx="116" rend="line"/>
+                <zone xml:id="nb07_01_04_0062_verso_surface_line_12" lry="1435" lrx="2763"
+                    uly="1325" ulx="135" rend="line"/>
+                <zone xml:id="nb07_01_04_0062_verso_surface_line_13" lry="1570" lrx="2775"
+                    uly="1450" ulx="195" rend="line"/>
+                <zone xml:id="nb07_01_04_0062_verso_surface_line_14" lry="1690" lrx="2750"
+                    uly="1560" ulx="35" rend="line"/>
+                <zone xml:id="nb07_01_04_0062_verso_surface_line_15" lry="1787" lrx="2366"
+                    uly="1710" ulx="165" rend="line"/>
             </surface>
         </surface>
         <surface xml:id="nb07_01_04_0063_surface">
@@ -5434,7 +5433,7 @@
                         <l n="02" rend="verse">       The honey of the heart. Oh, let me break</l>
                         <l n="03" rend="verse"> Into all rooms of worship or despair</l>
                         <l n="04" rend="verse">        And mercifully scatter ashes there!<quote type="end"/></l>
-                        <l n="05"></l>
+                        <l n="05"/>
                         <l n="06">             Indian Art in Boston     The Arts</l>
                         <l n="07">           Ananda Coomaraswamy<note><!-- type="glossary" -->Coomaraswamy, Ananda Kentish [1877-1947]. Anglo-Ceylonese philosopher and pioneering historian of Indian art.</note>                     Jan. 1923<note>Coomaraswamy, Ananda K. "Indian Art in Boston." <hi rend="underline">The Arts</hi>. Volume III.1 (January 1923): 36-46.</note><bibl rend="end"/></l>
                         <l n="08"> <quote type="begin"/>The hour of 'Cowdust,' that is to say, Sundown, when the</l>
