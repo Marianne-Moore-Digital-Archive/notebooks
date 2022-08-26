@@ -4201,31 +4201,31 @@
                     ulx="85" rend="line"/>
                 <zone xml:id="nb07_01_04_0103_recto_surface_line_04" lry="370" lrx="2710" uly="355"
                     ulx="200" rend="line"/>
-                <zone xml:id="nb07_01_04_0103_recto_surface_line_06" lry="545" lrx="2840" uly="395"
+                <zone xml:id="nb07_01_04_0103_recto_surface_line_05" lry="545" lrx="2840" uly="395"
                     ulx="75" rend="line"/>
-                <zone xml:id="nb07_01_04_0103_recto_surface_line_07" lry="575" lrx="2135" uly="555"
+                <zone xml:id="nb07_01_04_0103_recto_surface_line_06" lry="575" lrx="2135" uly="555"
                     ulx="925" rend="line"/>
-                <zone xml:id="nb07_01_04_0103_recto_surface_line_08" lry="670" lrx="2770" uly="590"
+                <zone xml:id="nb07_01_04_0103_recto_surface_line_07" lry="670" lrx="2770" uly="590"
                     ulx="70" rend="line"/>
-                <zone xml:id="nb07_01_04_0103_recto_surface_line_09" lry="810" lrx="2610" uly="700"
+                <zone xml:id="nb07_01_04_0103_recto_surface_line_08" lry="810" lrx="2610" uly="700"
                     ulx="120" rend="line"/>
-                <zone xml:id="nb07_01_04_0103_recto_surface_line_10" lry="930" lrx="2815" uly="825"
+                <zone xml:id="nb07_01_04_0103_recto_surface_line_09" lry="930" lrx="2815" uly="825"
                     ulx="50" rend="line"/>
-                <zone xml:id="nb07_01_04_0103_recto_surface_line_11" lry="1030" lrx="2710" uly="950"
+                <zone xml:id="nb07_01_04_0103_recto_surface_line_10" lry="1030" lrx="2710" uly="950"
                     ulx="60" rend="line"/>
-                <zone xml:id="nb07_01_04_0103_recto_surface_line_12" lry="1140" lrx="2805"
+                <zone xml:id="nb07_01_04_0103_recto_surface_line_11" lry="1140" lrx="2805"
                     uly="1055" ulx="30" rend="line"/>
-                <zone xml:id="nb07_01_04_0103_recto_surface_line_13" lry="1260" lrx="2830"
+                <zone xml:id="nb07_01_04_0103_recto_surface_line_12" lry="1260" lrx="2830"
                     uly="1160" ulx="120" rend="line"/>
-                <zone xml:id="nb07_01_04_0103_recto_surface_line_14" lry="1350" lrx="2695"
+                <zone xml:id="nb07_01_04_0103_recto_surface_line_13" lry="1350" lrx="2695"
                     uly="1280" ulx="150" rend="line"/>
-                <zone xml:id="nb07_01_04_0103_recto_surface_line_15" lry="1460" lrx="2655"
+                <zone xml:id="nb07_01_04_0103_recto_surface_line_14" lry="1460" lrx="2655"
                     uly="1380" ulx="160" rend="line"/>
-                <zone xml:id="nb07_01_04_0103_recto_surface_line_16" lry="1550" lrx="2545"
+                <zone xml:id="nb07_01_04_0103_recto_surface_line_15" lry="1550" lrx="2545"
                     uly="1475" ulx="130" rend="line"/>
-                <zone xml:id="nb07_01_04_0103_recto_surface_line_17" lry="1660" lrx="2855"
+                <zone xml:id="nb07_01_04_0103_recto_surface_line_16" lry="1660" lrx="2855"
                     uly="1575" ulx="125" rend="line"/>
-                <zone xml:id="nb07_01_04_0103_recto_surface_line_18" lry="1760" lrx="2755"
+                <zone xml:id="nb07_01_04_0103_recto_surface_line_17" lry="1760" lrx="2755"
                     uly="1675" ulx="100" rend="line"/>
             </surface>
             <surface xml:id="nb07_01_04_0104_surface"> </surface>
@@ -4349,7 +4349,7 @@
                     ulx="400" rend="line"/>
                 <zone xml:id="nb07_01_04_0106_verso_surface_line_17" lry="1650" lrx="2770"
                     uly="1595" ulx="475" rend="line"/>
-                <zone xml:id="nb07_01_04_0099_recto_surface_line_18" lry="1760" lrx="2370"
+                <zone xml:id="nb07_01_04_0106_verso_surface_line_18" lry="1760" lrx="2370"
                     uly="1680" ulx="425" rend="line"/>
             </surface>
         </surface>
@@ -4368,29 +4368,32 @@
                     ulx="305" rend="line"/>
                 <zone xml:id="nb07_01_04_0107_recto_surface_line_05" lry="505" lrx="2760" uly="475"
                     ulx="185" rend="line"/>
-                <zone xml:id="nb07_01_04_0107_recto_surface_line_08" lry="565" lrx="2765" uly="525"
+                <zone xml:id="nb07_01_04_0107_recto_surface_line_06" lry="565" lrx="2765" uly="525"
                     ulx="235" rend="line"/>
-                <zone xml:id="nb07_01_04_0107_recto_surface_line_09" lry="755" lrx="2580" uly="670"
+                <zone xml:id="nb07_01_04_0107_recto_surface_line_07" lry="755" lrx="2580" uly="670"
                     ulx="455" rend="line"/>
-                <zone xml:id="nb07_01_04_0107_recto_surface_line_10" lry="860" lrx="2755" uly="780"
+                <zone xml:id="nb07_01_04_0107_recto_surface_line_08" lry="860" lrx="2755" uly="780"
                     ulx="300" rend="line"/>
-                <zone xml:id="nb07_01_04_0107_recto_surface_line_11" lry="950" lrx="2740" uly="890"
+                <zone xml:id="nb07_01_04_0107_recto_surface_line_09" lry="950" lrx="2740" uly="890"
                     ulx="180" rend="line"/>
-                <zone xml:id="nb07_01_04_0107_recto_surface_line_12" lry="1060" lrx="2795" uly="975"
+                <zone xml:id="nb07_01_04_0107_recto_surface_line_10" lry="1060" lrx="2795" uly="975"
                     ulx="135" rend="line"/>
-                <zone xml:id="nb07_01_04_0107_recto_surface_line_13" lry="1170" lrx="2770"
+                <zone xml:id="nb07_01_04_0107_recto_surface_line_11" lry="1170" lrx="2770"
                     uly="1080" ulx="190" rend="line"/>
-                <zone xml:id="nb07_01_04_0107_recto_surface_line_14" lry="1275" lrx="2780"
+                <zone xml:id="nb07_01_04_0107_recto_surface_line_12" lry="1275" lrx="2780"
                     uly="1185" ulx="195" rend="line"/>
-                <zone xml:id="nb07_01_04_0107_recto_surface_line_16" lry="1360" lrx="1610"
+                <zone xml:id="nb07_01_04_0107_recto_surface_line_13" lry="1360" lrx="1610"
                     uly="1290" ulx="225" rend="line"/>
-                <zone xml:id="nb07_01_04_0107_recto_surface_line_17" lry="1420" lrx="2770"
+                <zone xml:id="nb07_01_04_0107_recto_surface_line_14" lry="1420" lrx="2770"
                     uly="1385" ulx="240" rend="line"/>
-                <zone xml:id="nb07_01_04_0107_recto_surface_line_18" lry="1570" lrx="2710"
+                <zone xml:id="nb07_01_04_0107_recto_surface_line_15" lry="1570" lrx="2710"
                     uly="1465" ulx="175" rend="line"/>
-                <zone xml:id="zone_l4b_g31_k5b" lry="1675" lrx="2555" uly="1600" ulx="365"/>
-                <zone xml:id="zone_g1b_h31_k5b" lry="1725" lrx="2620" uly="1690" ulx="555"/>
-                <zone xml:id="zone_bm5_h31_k5b" lry="1795" lrx="2805" uly="1745" ulx="485"/>
+                <zone xml:id="nb07_01_04_0107_recto_surface_line_16" lry="1675" lrx="2555"
+                    uly="1600" ulx="365" rend="line"/>
+                <zone xml:id="nb07_01_04_0107_recto_surface_line_17" lry="1725" lrx="2620"
+                    uly="1690" ulx="555" rend="line"/>
+                <zone xml:id="nb07_01_04_0107_recto_surface_line_18" lry="1795" lrx="2805"
+                    uly="1745" ulx="485" rend="line"/>
             </surface>
         </surface>
         <surface xml:id="nb07_01_04_0108_surface">
@@ -4416,17 +4419,18 @@
                     ulx="225" rend="line"/>
                 <zone xml:id="nb07_01_04_0108_verso_surface_line_09" lry="980" lrx="2745" uly="950"
                     ulx="235" rend="line"/>
-                <zone xml:id="nb07_01_04_0108_verso_surface_line_11" lry="1200" lrx="2645"
+                <zone xml:id="nb07_01_04_0108_verso_surface_line_10" lry="1200" lrx="2645"
                     uly="1060" ulx="175" rend="line"/>
-                <zone xml:id="nb07_01_04_0108_verso_surface_line_12" lry="1300" lrx="2295"
+                <zone xml:id="nb07_01_04_0108_verso_surface_line_11" lry="1300" lrx="2295"
                     uly="1220" ulx="235" rend="line"/>
-                <zone xml:id="nb07_01_04_0108_verso_surface_line_13" lry="1460" lrx="2805"
+                <zone xml:id="nb07_01_04_0108_verso_surface_line_12" lry="1460" lrx="2805"
                     uly="1340" ulx="130" rend="line"/>
-                <zone xml:id="nb07_01_04_0108_verso_surface_line_14" lry="1560" lrx="2700"
+                <zone xml:id="nb07_01_04_0108_verso_surface_line_13" lry="1560" lrx="2700"
                     uly="1475" ulx="215" rend="line"/>
-                <zone xml:id="nb07_01_04_0108_verso_surface_line_15" lry="1685" lrx="2815"
+                <zone xml:id="nb07_01_04_0108_verso_surface_line_14" lry="1685" lrx="2815"
                     uly="1580" ulx="195" rend="line"/>
-                <zone xml:id="zone_jfb_mj1_k5b" lry="1770" lrx="2015" uly="1700" ulx="200"/>
+                <zone xml:id="nb07_01_04_0108_verso_surface_line_15" lry="1770" lrx="2015"
+                    uly="1700" ulx="200" rend="line"/>
             </surface>
         </surface>
         <surface xml:id="nb07_01_04_0109_surface">
@@ -4499,15 +4503,16 @@
                     uly="1085" ulx="840" rend="line"/>
                 <zone xml:id="nb07_01_04_0110_verso_surface_line_12" lry="1195" lrx="2750"
                     uly="1180" ulx="170" rend="line"/>
-                <zone xml:id="nb07_01_04_0110_verso_surface_line_14" lry="1350" lrx="2720"
+                <zone xml:id="nb07_01_04_0110_verso_surface_line_13" lry="1350" lrx="2720"
                     uly="1230" ulx="150" rend="line"/>
-                <zone xml:id="nb07_01_04_0110_verso_surface_line_15" lry="1440" lrx="2580"
+                <zone xml:id="nb07_01_04_0110_verso_surface_line_14" lry="1440" lrx="2580"
                     uly="1370" ulx="2165" rend="line"/>
-                <zone xml:id="nb07_01_04_0110_verso_surface_line_16" lry="1535" lrx="2580"
+                <zone xml:id="nb07_01_04_0110_verso_surface_line_15" lry="1535" lrx="2580"
                     uly="1475" ulx="80" rend="line"/>
-                <zone xml:id="nb07_01_04_0110_verso_surface_line_17" lry="1640" lrx="2695"
+                <zone xml:id="nb07_01_04_0110_verso_surface_line_16" lry="1640" lrx="2695"
                     uly="1560" ulx="95" rend="line"/>
-                <zone xml:id="zone_rwd_bm1_k5b" lry="1750" lrx="1865" uly="1665" ulx="125"/>
+                <zone xml:id="nb07_01_04_0110_verso_surface_line_17" lry="1750" lrx="1865"
+                    uly="1665" ulx="125" rend="line"/>
             </surface>
         </surface>
         <surface xml:id="nb07_01_04_0111_surface">
@@ -4531,29 +4536,30 @@
                     ulx="85" rend="line"/>
                 <zone xml:id="nb07_01_04_0111_recto_surface_line_08" lry="795" lrx="2780" uly="765"
                     ulx="115" rend="line"/>
-                <zone xml:id="nb07_01_04_0111_recto_surface_line_10" lry="925" lrx="2845" uly="830"
+                <zone xml:id="nb07_01_04_0111_recto_surface_line_09" lry="925" lrx="2845" uly="830"
                     ulx="60" rend="line"/>
-                <zone xml:id="nb07_01_04_0111_recto_surface_line_11" lry="995" lrx="695" uly="935"
+                <zone xml:id="nb07_01_04_0111_recto_surface_line_10" lry="995" lrx="695" uly="935"
                     ulx="315" rend="line"/>
-                <zone xml:id="nb07_01_04_0111_recto_surface_line_12" lry="1045" lrx="870" uly="985"
+                <zone xml:id="nb07_01_04_0111_recto_surface_line_11" lry="1045" lrx="870" uly="985"
                     ulx="675" rend="line"/>
-                <zone xml:id="nb07_01_04_0111_recto_surface_line_13" lry="1115" lrx="2785"
+                <zone xml:id="nb07_01_04_0111_recto_surface_line_12" lry="1115" lrx="2785"
                     uly="1025" ulx="125" rend="line"/>
-                <zone xml:id="nb07_01_04_0111_recto_surface_line_14" lry="1170" lrx="2645"
+                <zone xml:id="nb07_01_04_0111_recto_surface_line_13" lry="1170" lrx="2645"
                     uly="1135" ulx="1915" rend="line"/>
-                <zone xml:id="nb07_01_04_0111_recto_surface_line_15" lry="1260" lrx="2795"
+                <zone xml:id="nb07_01_04_0111_recto_surface_line_14" lry="1260" lrx="2795"
                     uly="1170" ulx="135" rend="line"/>
-                <zone xml:id="nb07_01_04_0111_recto_surface_line_16" lry="1365" lrx="2200"
+                <zone xml:id="nb07_01_04_0111_recto_surface_line_15" lry="1365" lrx="2200"
                     uly="1285" ulx="140" rend="line"/>
-                <zone xml:id="nb07_01_04_0111_recto_surface_line_17" lry="1455" lrx="2815"
+                <zone xml:id="nb07_01_04_0111_recto_surface_line_16" lry="1455" lrx="2815"
                     uly="1380" ulx="215" rend="line"/>
-                <zone xml:id="nb07_01_04_0110_verso_surface_line_18" lry="1555" lrx="2765"
+                <zone xml:id="nb07_01_04_0111_recto_surface_line_17" lry="1555" lrx="2765"
                     uly="1475" ulx="145" rend="line"/>
-                <zone xml:id="nb07_01_04_0107_recto_surface_line_19" lry="1655" lrx="2825"
+                <zone xml:id="nb07_01_04_0111_recto_surface_line_18" lry="1655" lrx="2825"
                     uly="1575" ulx="300" rend="line"/>
-                <zone xml:id="nb07_01_04_0099_recto_surface_line_20" lry="1735" lrx="770" uly="1670"
+                <zone xml:id="nb07_01_04_0111_recto_surface_line_19" lry="1735" lrx="770" uly="1670"
                     ulx="345" rend="line"/>
-                <zone xml:id="zone_hzv_vn1_k5b" lry="1825" lrx="2835" uly="1695" ulx="1095"/>
+                <zone xml:id="nb07_01_04_0111_recto_surface_line_20" lry="1825" lrx="2835"
+                    uly="1695" ulx="1095" rend="line"/>
             </surface>
             <surface xml:id="nb07_01_04_0112_surface"> </surface>
             <surface xml:id="nb07_01_04_0112_verso_surface">
@@ -4586,10 +4592,12 @@
                     uly="1285" ulx="105" rend="line"/>
                 <zone xml:id="nb07_01_04_0112_verso_surface_line_14" lry="1470" lrx="2780"
                     uly="1380" ulx="200" rend="line"/>
-                <zone xml:id="nb07_01_04_0112_verso_surface_line_16" lry="1530" lrx="2805"
+                <zone xml:id="nb07_01_04_0112_verso_surface_line_15" lry="1530" lrx="2805"
                     uly="1500" ulx="140" rend="line"/>
-                <zone xml:id="zone_kjs_zr1_k5b" lry="1645" lrx="2595" uly="1555" ulx="160"/>
-                <zone xml:id="zone_asl_1s1_k5b" lry="1760" lrx="2750" uly="1680" ulx="145"/>
+                <zone xml:id="nb07_01_04_0112_verso_surface_line_16" lry="1645" lrx="2595"
+                    uly="1555" ulx="160" rend="line"/>
+                <zone xml:id="nb07_01_04_0112_verso_surface_line_17" lry="1760" lrx="2750"
+                    uly="1680" ulx="145" rend="line"/>
             </surface>
         </surface>
         <surface xml:id="nb07_01_04_0113_surface">
@@ -4617,14 +4625,16 @@
                     ulx="125" rend="line"/>
                 <zone xml:id="nb07_01_04_0113_recto_surface_line_11" lry="1050" lrx="2695" uly="960"
                     ulx="85" rend="line"/>
-                <zone xml:id="nb07_01_04_0113_recto_surface_line_13" lry="1150" lrx="2770"
+                <zone xml:id="nb07_01_04_0113_recto_surface_line_12" lry="1150" lrx="2770"
                     uly="1110" ulx="370" rend="line"/>
-                <zone xml:id="nb07_01_04_0113_recto_surface_line_14" lry="1330" lrx="2595"
+                <zone xml:id="nb07_01_04_0113_recto_surface_line_13" lry="1330" lrx="2595"
                     uly="1190" ulx="250" rend="line"/>
-                <zone xml:id="nb07_01_04_0113_recto_surface_line_15" lry="1440" lrx="2805"
+                <zone xml:id="nb07_01_04_0113_recto_surface_line_14" lry="1440" lrx="2805"
                     uly="1350" ulx="120" rend="line"/>
-                <zone xml:id="zone_ewc_451_k5b" lry="1550" lrx="2445" uly="1460" ulx="95"/>
-                <zone xml:id="zone_o1f_p51_k5b" lry="1740" lrx="2745" uly="1575" ulx="100"/>
+                <zone xml:id="nb07_01_04_0113_recto_surface_line_15" lry="1550" lrx="2445"
+                    uly="1460" ulx="95" rend="line"/>
+                <zone xml:id="nb07_01_04_0113_recto_surface_line_16" lry="1740" lrx="2745"
+                    uly="1575" ulx="100" rend="line"/>
             </surface>
         </surface>
         <surface xml:id="nb07_01_04_0114_surface">
@@ -4642,26 +4652,28 @@
                     ulx="190" rend="line"/>
                 <zone xml:id="nb07_01_04_0114_verso_surface_line_05" lry="600" lrx="2790" uly="575"
                     ulx="160" rend="line"/>
-                <zone xml:id="nb07_01_04_0114_verso_surface_line_08" lry="675" lrx="2830" uly="645"
+                <zone xml:id="nb07_01_04_0114_verso_surface_line_06" lry="675" lrx="2830" uly="645"
                     ulx="195" rend="line"/>
-                <zone xml:id="nb07_01_04_0114_verso_surface_line_09" lry="860" lrx="2755" uly="730"
+                <zone xml:id="nb07_01_04_0114_verso_surface_line_07" lry="860" lrx="2755" uly="730"
                     ulx="155" rend="line"/>
-                <zone xml:id="nb07_01_04_0114_verso_surface_line_10" lry="970" lrx="2710" uly="890"
+                <zone xml:id="nb07_01_04_0114_verso_surface_line_08" lry="970" lrx="2710" uly="890"
                     ulx="85" rend="line"/>
-                <zone xml:id="nb07_01_04_0114_verso_surface_line_11" lry="1070" lrx="2790"
+                <zone xml:id="nb07_01_04_0114_verso_surface_line_09" lry="1070" lrx="2790"
                     uly="1000" ulx="65" rend="line"/>
-                <zone xml:id="nb07_01_04_0114_verso_surface_line_12" lry="1165" lrx="2680"
+                <zone xml:id="nb07_01_04_0114_verso_surface_line_10" lry="1165" lrx="2680"
                     uly="1100" ulx="90" rend="line"/>
-                <zone xml:id="nb07_01_04_0114_verso_surface_line_13" lry="1275" lrx="2825"
+                <zone xml:id="nb07_01_04_0114_verso_surface_line_11" lry="1275" lrx="2825"
                     uly="1195" ulx="135" rend="line"/>
-                <zone xml:id="nb07_01_04_0114_verso_surface_line_14" lry="1375" lrx="2730"
+                <zone xml:id="nb07_01_04_0114_verso_surface_line_12" lry="1375" lrx="2730"
                     uly="1290" ulx="130" rend="line"/>
-                <zone xml:id="nb07_01_04_0114_verso_surface_line_15" lry="1485" lrx="2680"
+                <zone xml:id="nb07_01_04_0114_verso_surface_line_13" lry="1485" lrx="2680"
                     uly="1390" ulx="160" rend="line"/>
-                <zone xml:id="nb07_01_04_0113_recto_surface_line_16" lry="1595" lrx="2820"
+                <zone xml:id="nb07_01_04_0114_verso_surface_line_14" lry="1595" lrx="2820"
                     uly="1500" ulx="130" rend="line"/>
-                <zone xml:id="zone_vbr_bw1_k5b" lry="1710" lrx="2760" uly="1620" ulx="155"/>
-                <zone xml:id="zone_jbg_cw1_k5b" lry="1790" lrx="2645" uly="1725" ulx="70"/>
+                <zone xml:id="nb07_01_04_0114_verso_surface_line_15" lry="1710" lrx="2760"
+                    uly="1620" ulx="155" rend="line"/>
+                <zone xml:id="nb07_01_04_0114_verso_surface_line_16" lry="1790" lrx="2645"
+                    uly="1725" ulx="70" rend="line"/>
             </surface>
         </surface>
         <surface xml:id="nb07_01_04_0115_surface">
@@ -4689,23 +4701,24 @@
                     ulx="435" rend="line"/>
                 <zone xml:id="nb07_01_04_0115_recto_surface_line_10" lry="1045" lrx="2735"
                     uly="1015" ulx="125" rend="line"/>
-                <zone xml:id="nb07_01_04_0115_recto_surface_line_12" lry="1145" lrx="1990"
+                <zone xml:id="nb07_01_04_0115_recto_surface_line_11" lry="1145" lrx="1990"
                     uly="1060" ulx="255" rend="line"/>
-                <zone xml:id="nb07_01_04_0115_recto_surface_line_13" lry="1260" lrx="2205"
+                <zone xml:id="nb07_01_04_0115_recto_surface_line_12" lry="1260" lrx="2205"
                     uly="1175" ulx="385" rend="line"/>
-                <zone xml:id="nb07_01_04_0115_recto_surface_line_14" lry="1365" lrx="2370"
+                <zone xml:id="nb07_01_04_0115_recto_surface_line_13" lry="1365" lrx="2370"
                     uly="1285" ulx="635" rend="line"/>
-                <zone xml:id="nb07_01_04_0115_recto_surface_line_15" lry="1425" lrx="2570"
+                <zone xml:id="nb07_01_04_0115_recto_surface_line_14" lry="1425" lrx="2570"
                     uly="1380" ulx="435" rend="line"/>
-                <zone xml:id="nb07_01_04_0115_recto_surface_line_16" lry="1545" lrx="2485"
+                <zone xml:id="nb07_01_04_0115_recto_surface_line_15" lry="1545" lrx="2485"
                     uly="1455" ulx="275" rend="line"/>
-                <zone xml:id="nb07_01_04_0115_recto_surface_line_17" lry="1635" lrx="1365"
+                <zone xml:id="nb07_01_04_0115_recto_surface_line_16" lry="1635" lrx="1365"
                     uly="1565" ulx="310" rend="line"/>
-                <zone xml:id="nb07_01_04_0115_recto_surface_line_18" lry="1690" lrx="2305"
+                <zone xml:id="nb07_01_04_0115_recto_surface_line_17" lry="1690" lrx="2305"
                     uly="1655" ulx="375" rend="line"/>
-                <zone xml:id="nb07_01_04_0115_recto_surface_line_19" lry="1745" lrx="2310"
+                <zone xml:id="nb07_01_04_0115_recto_surface_line_18" lry="1745" lrx="2310"
                     uly="1685" ulx="440" rend="line"/>
-                <zone xml:id="zone_xm1_jy1_k5b" lry="1795" lrx="1535" uly="1755" ulx="475"/>
+                <zone xml:id="nb07_01_04_0115_recto_surface_line_19" lry="1795" lrx="1535"
+                    uly="1755" ulx="475" rend="line"/>
             </surface>
         </surface>
         <surface xml:id="nb07_01_04_0116_surface">
@@ -4729,23 +4742,26 @@
                     ulx="330" rend="line"/>
                 <zone xml:id="nb07_01_04_0116_verso_surface_line_08" lry="870" lrx="2770" uly="825"
                     ulx="160" rend="line"/>
-                <zone xml:id="nb07_01_04_0116_verso_surface_line_10" lry="1060" lrx="2375" uly="940"
+                <zone xml:id="nb07_01_04_0116_verso_surface_line_09" lry="1060" lrx="2375" uly="940"
                     ulx="215" rend="line"/>
-                <zone xml:id="nb07_01_04_0116_verso_surface_line_11" lry="1135" lrx="2470"
+                <zone xml:id="nb07_01_04_0116_verso_surface_line_10" lry="1135" lrx="2470"
                     uly="1075" ulx="305" rend="line"/>
-                <zone xml:id="nb07_01_04_0116_verso_surface_line_12" lry="1260" lrx="2385"
+                <zone xml:id="nb07_01_04_0116_verso_surface_line_11" lry="1260" lrx="2385"
                     uly="1145" ulx="335" rend="line"/>
-                <zone xml:id="nb07_01_04_0116_verso_surface_line_14" lry="1285" lrx="2500"
+                <zone xml:id="nb07_01_04_0116_verso_surface_line_12" lry="1285" lrx="2500"
                     uly="1260" ulx="305" rend="line"/>
-                <zone xml:id="nb07_01_04_0116_verso_surface_line_15" lry="1380" lrx="2180"
+                <zone xml:id="nb07_01_04_0116_verso_surface_line_13" lry="1380" lrx="2180"
                     uly="1295" ulx="145" rend="line"/>
-                <zone xml:id="nb07_01_04_0116_verso_surface_line_16" lry="1425" lrx="2080"
+                <zone xml:id="nb07_01_04_0116_verso_surface_line_14" lry="1425" lrx="2080"
                     uly="1395" ulx="270" rend="line"/>
-                <zone xml:id="nb07_01_04_0116_verso_surface_line_18" lry="1500" lrx="2365"
+                <zone xml:id="nb07_01_04_0116_verso_surface_line_15" lry="1500" lrx="2365"
                     uly="1430" ulx="125" rend="line"/>
-                <zone xml:id="zone_obr_kz1_k5b" lry="1555" lrx="2705" uly="1535" ulx="35"/>
-                <zone xml:id="zone_kmr_lz1_k5b" lry="1655" lrx="2340" uly="1570" ulx="160"/>
-                <zone xml:id="zone_z43_mz1_k5b" lry="1755" lrx="2610" uly="1665" ulx="215"/>
+                <zone xml:id="nb07_01_04_0116_verso_surface_line_16" lry="1555" lrx="2705"
+                    uly="1535" ulx="35" rend="line"/>
+                <zone xml:id="nb07_01_04_0116_verso_surface_line_17" lry="1655" lrx="2340"
+                    uly="1570" ulx="160" rend="line"/>
+                <zone xml:id="nb07_01_04_0116_verso_surface_line_18" lry="1755" lrx="2610"
+                    uly="1665" ulx="215" rend="line"/>
             </surface>
         </surface>
         <surface xml:id="nb07_01_04_0117_surface">
@@ -4767,28 +4783,30 @@
                     ulx="255" rend="line"/>
                 <zone xml:id="nb07_01_04_0117_recto_surface_line_07" lry="600" lrx="2750" uly="575"
                     ulx="195" rend="line"/>
-                <zone xml:id="nb07_01_04_0117_recto_surface_line_09" lry="670" lrx="2715" uly="640"
+                <zone xml:id="nb07_01_04_0117_recto_surface_line_08" lry="670" lrx="2715" uly="640"
                     ulx="215" rend="line"/>
-                <zone xml:id="nb07_01_04_0117_recto_surface_line_10" lry="795" lrx="1835" uly="700"
+                <zone xml:id="nb07_01_04_0117_recto_surface_line_09" lry="795" lrx="1835" uly="700"
                     ulx="195" rend="line"/>
-                <zone xml:id="nb07_01_04_0117_recto_surface_line_11" lry="890" lrx="1875" uly="810"
+                <zone xml:id="nb07_01_04_0117_recto_surface_line_10" lry="890" lrx="1875" uly="810"
                     ulx="435" rend="line"/>
-                <zone xml:id="nb07_01_04_0117_recto_surface_line_12" lry="1000" lrx="2295" uly="910"
+                <zone xml:id="nb07_01_04_0117_recto_surface_line_11" lry="1000" lrx="2295" uly="910"
                     ulx="155" rend="line"/>
-                <zone xml:id="nb07_01_04_0117_recto_surface_line_13" lry="1090" lrx="1855"
+                <zone xml:id="nb07_01_04_0117_recto_surface_line_12" lry="1090" lrx="1855"
                     uly="1015" ulx="425" rend="line"/>
-                <zone xml:id="nb07_01_04_0117_recto_surface_line_15" lry="1160" lrx="2805"
+                <zone xml:id="nb07_01_04_0117_recto_surface_line_13" lry="1160" lrx="2805"
                     uly="1120" ulx="100" rend="line"/>
-                <zone xml:id="nb07_01_04_0117_recto_surface_line_16" lry="1350" lrx="2865"
+                <zone xml:id="nb07_01_04_0117_recto_surface_line_14" lry="1350" lrx="2865"
                     uly="1200" ulx="135" rend="line"/>
-                <zone xml:id="nb07_01_04_0117_recto_surface_line_17" lry="1495" lrx="2665"
+                <zone xml:id="nb07_01_04_0117_recto_surface_line_15" lry="1495" lrx="2665"
                     uly="1370" ulx="190" rend="line"/>
-                <zone xml:id="nb07_01_04_0117_recto_surface_line_18" lry="1545" lrx="2785"
+                <zone xml:id="nb07_01_04_0117_recto_surface_line_16" lry="1545" lrx="2785"
                     uly="1520" ulx="50" rend="line"/>
-                <zone xml:id="nb07_01_04_0117_recto_surface_line_19" lry="1630" lrx="2730"
+                <zone xml:id="nb07_01_04_0117_recto_surface_line_17" lry="1630" lrx="2730"
                     uly="1565" ulx="255" rend="line"/>
-                <zone xml:id="zone_m2c_31b_k5b" lry="1700" lrx="1385" uly="1640" ulx="355"/>
-                <zone xml:id="zone_p1y_31b_k5b" lry="1805" lrx="2665" uly="1720" ulx="225"/>
+                <zone xml:id="nb07_01_04_0117_recto_surface_line_18" lry="1700" lrx="1385"
+                    uly="1640" ulx="355" rend="line"/>
+                <zone xml:id="nb07_01_04_0117_recto_surface_line_19" lry="1805" lrx="2665"
+                    uly="1720" ulx="225" rend="line"/>
             </surface>
         </surface>
         <surface xml:id="nb07_01_04_0118_surface">
@@ -4940,15 +4958,15 @@
                         uly="715" ulx="190" rend="line"/>
                     <zone xml:id="nb07_01_04_0121_recto_surface_line_09" lry="935" lrx="1035"
                         uly="850" ulx="845" rend="line"/>
-                    <zone xml:id="nb07_01_04_0121_recto_surface_line_11" lry="1030" lrx="2575"
+                    <zone xml:id="nb07_01_04_0121_recto_surface_line_10" lry="1030" lrx="2575"
                         uly="950" ulx="195" rend="line"/>
-                    <zone xml:id="nb07_01_04_0121_recto_surface_line_12" lry="1140" lrx="2755"
+                    <zone xml:id="nb07_01_04_0121_recto_surface_line_11" lry="1140" lrx="2755"
                         uly="1050" ulx="230" rend="line"/>
-                    <zone xml:id="nb07_01_04_0121_recto_surface_line_13" lry="1235" lrx="2720"
+                    <zone xml:id="nb07_01_04_0121_recto_surface_line_12" lry="1235" lrx="2720"
                         uly="1150" ulx="155" rend="line"/>
-                    <zone xml:id="nb07_01_04_0121_recto_surface_line_14" lry="1355" lrx="2775"
+                    <zone xml:id="nb07_01_04_0121_recto_surface_line_13" lry="1355" lrx="2775"
                         uly="1260" ulx="140" rend="line"/>
-                    <zone xml:id="nb07_01_04_0121_recto_surface_line_15" lry="1460" lrx="1815"
+                    <zone xml:id="nb07_01_04_0121_recto_surface_line_14" lry="1460" lrx="1815"
                         uly="1370" ulx="775" rend="line"/>
                 </surface>
             </surface>
@@ -5075,25 +5093,26 @@
                         uly="855" ulx="125" rend="line"/>
                     <zone xml:id="nb07_01_04_0124_verso_surface_line_11" lry="1025" lrx="2685"
                         uly="995" ulx="205" rend="line"/>
-                    <zone xml:id="nb07_01_04_0124_verso_surface_line_13" lry="1135" lrx="2385"
+                    <zone xml:id="nb07_01_04_0124_verso_surface_line_12" lry="1135" lrx="2385"
                         uly="1040" ulx="945" rend="line"/>
-                    <zone xml:id="nb07_01_04_0124_verso_surface_line_14" lry="1235" lrx="1245"
+                    <zone xml:id="nb07_01_04_0124_verso_surface_line_13" lry="1235" lrx="1245"
                         uly="1145" ulx="85" rend="line"/>
-                    <zone xml:id="nb07_01_04_0124_verso_surface_line_15" lry="1295" lrx="2685"
+                    <zone xml:id="nb07_01_04_0124_verso_surface_line_14" lry="1295" lrx="2685"
                         uly="1205" ulx="540" rend="line"/>
-                    <zone xml:id="nb07_01_04_0124_verso_surface_line_16" lry="1345" lrx="2675"
+                    <zone xml:id="nb07_01_04_0124_verso_surface_line_15" lry="1345" lrx="2675"
                         uly="1295" ulx="1785" rend="line"/>
-                    <zone xml:id="nb07_01_04_0124_verso_surface_line_17" lry="1445" lrx="2615"
+                    <zone xml:id="nb07_01_04_0124_verso_surface_line_16" lry="1445" lrx="2615"
                         uly="1365" ulx="115" rend="line"/>
-                    <zone xml:id="nb07_01_04_0124_verso_surface_line_18" lry="1530" lrx="2465"
+                    <zone xml:id="nb07_01_04_0124_verso_surface_line_17" lry="1530" lrx="2465"
                         uly="1465" ulx="155" rend="line"/>
-                    <zone xml:id="nb07_01_04_0124_verso_surface_line_19" lry="1625" lrx="2715"
+                    <zone xml:id="nb07_01_04_0124_verso_surface_line_18" lry="1625" lrx="2715"
                         uly="1550" ulx="125" rend="line"/>
-                    <zone xml:id="nb07_01_04_0124_verso_surface_line_20" lry="1695" lrx="2775"
+                    <zone xml:id="nb07_01_04_0124_verso_surface_line_19" lry="1695" lrx="2775"
                         uly="1635" ulx="200" rend="line"/>
-                    <zone xml:id="nb07_01_04_0123_recto_surface_line_21" lry="1755" lrx="2825"
+                    <zone xml:id="nb07_01_04_0123_recto_surface_line_20" lry="1755" lrx="2825"
                         uly="1730" ulx="200" rend="line"/>
-                    <zone xml:id="zone_rnl_5wk_k5b" lry="1805" lrx="1750" uly="1785" ulx="215"/>
+                    <zone xml:id="nb07_01_04_0123_recto_surface_line_21" lry="1805" lrx="1750"
+                        uly="1785" ulx="215" rend="line"/>
                 </surface>
             </surface>
             <surface xml:id="nb07_01_04_0125_surface">
@@ -5121,28 +5140,30 @@
                         uly="766" ulx="109" rend="line"/>
                     <zone xml:id="nb07_01_04_0125_recto_surface_line_10" lry="919" lrx="1723"
                         uly="890" ulx="133" rend="line"/>
-                    <zone xml:id="nb07_01_04_0125_recto_surface_line_12" lry="980" lrx="2814"
+                    <zone xml:id="nb07_01_04_0125_recto_surface_line_11" lry="980" lrx="2814"
                         uly="880" ulx="685" rend="line"/>
-                    <zone xml:id="nb07_01_04_0125_recto_surface_line_13" lry="1061" lrx="2633"
+                    <zone xml:id="nb07_01_04_0125_recto_surface_line_12" lry="1061" lrx="2633"
                         uly="976" ulx="166" rend="line"/>
-                    <zone xml:id="nb07_01_04_0125_recto_surface_line_14" lry="1209" lrx="2642"
+                    <zone xml:id="nb07_01_04_0125_recto_surface_line_13" lry="1209" lrx="2642"
                         uly="1076" ulx="133" rend="line"/>
-                    <zone xml:id="nb07_01_04_0125_recto_surface_line_15" lry="1280" lrx="1819"
+                    <zone xml:id="nb07_01_04_0125_recto_surface_line_14" lry="1280" lrx="1819"
                         uly="1228" ulx="690" rend="line"/>
-                    <zone xml:id="nb07_01_04_0125_recto_surface_line_16" lry="1371" lrx="2500"
+                    <zone xml:id="nb07_01_04_0125_recto_surface_line_15" lry="1371" lrx="2500"
                         uly="1295" ulx="628" rend="line"/>
-                    <zone xml:id="nb07_01_04_0125_recto_surface_line_17" lry="1452" lrx="2809"
+                    <zone xml:id="nb07_01_04_0125_recto_surface_line_16" lry="1452" lrx="2809"
                         uly="1390" ulx="528" rend="line"/>
-                    <zone xml:id="nb07_01_04_0125_recto_surface_line_18" lry="1509" lrx="2814"
+                    <zone xml:id="nb07_01_04_0125_recto_surface_line_17" lry="1509" lrx="2814"
                         uly="1461" ulx="547" rend="line"/>
-                    <zone xml:id="nb07_01_04_0125_recto_surface_line_19" lry="1580" lrx="1747"
+                    <zone xml:id="nb07_01_04_0125_recto_surface_line_18" lry="1580" lrx="1747"
                         uly="1509" ulx="681" rend="line"/>
-                    <zone xml:id="nb07_01_04_0125_recto_surface_line_20" lry="1652" lrx="2762"
+                    <zone xml:id="nb07_01_04_0125_recto_surface_line_19" lry="1652" lrx="2762"
                         uly="1566" ulx="471" rend="line"/>
-                    <zone xml:id="nb07_01_04_0125_recto_surface_line_21" lry="1714" lrx="2785"
+                    <zone xml:id="nb07_01_04_0125_recto_surface_line_20" lry="1714" lrx="2785"
                         uly="1652" ulx="319" rend="line"/>
-                    <zone xml:id="zone_lgr_wrk_k5b" lry="1766" lrx="2728" uly="1714" ulx="119"/>
-                    <zone xml:id="zone_srq_bsk_k5b" lry="1795" lrx="2800" uly="1776" ulx="100"/>
+                    <zone xml:id="nb07_01_04_0125_recto_surface_line_21" lry="1766" lrx="2728"
+                        uly="1714" ulx="119" rend="line"/>
+                    <zone xml:id="nb07_01_04_0125_recto_surface_line_22" lry="1795" lrx="2800"
+                        uly="1776" ulx="100" rend="line"/>
                 </surface>
             </surface>
             <surface xml:id="nb07_01_04_0126_surface">
@@ -5419,7 +5440,7 @@
                         <l n="17" rend="verse">             Their limbs unloosened hand apart from hand!</l>
                         <l n="18" rend="verse"/>
                         <l n="19" rend="verse">  These I will put between me and that hour</l>
-                        <l n="20" rend="verse">             when Beauty learns to plague the eyes awake<quote type="end"/><note> Perhaps anticipating MM's descriptions of beauty in paradise, in "Marriage"; Adam is "plagued" by some aspects.</note></l>
+                        <l n="20" rend="verse">             when Beauty learns to plague the eyes awake<quote type="end"/><note>Perhaps anticipating MM's descriptions of beauty in paradise, in "Marriage"; Adam is "plagued" by some aspects.</note></l>
                     </lg>
                 </div>
             </div>
@@ -5501,7 +5522,7 @@
                         <!-- NW text zones for lines 13 and 14 need to be redone -->
                         <l n="13"> Edward has crossed <hi rend="shorthand_the">the</hi> world to hear the sound</l>
                         <l n="14"> of her voice; he hears it. It shouts harshly:</l>
-                        <l n="15"> Leave me alone.<note> MM may think of these lines in drafting her portrait of Eve in "Marriage"; she stipulates, "I would like to be alone."</note> Cant you leave me alone? I</l>
+                        <l n="15"> Leave me alone.<note>MM may think of these lines in drafting her portrait of Eve in "Marriage"; she stipulates, "I would like to be alone."</note> Cant you leave me alone? I</l>
                         <l n="16"> cant bear you! &#8211;. . . Then she hit him on the Face.<quote type="end"/></l>
                     </lg>
                 </div>
@@ -6730,7 +6751,7 @@
                         <l n="09">   some of the simpler screens &amp; cabinets are</l>
                         <l n="10">   infinitely more attractive. <quote type="end"/></l>
                         <l n="11"/>
-                        <l n="12"> <bibl rend="begin"/>The coaching era Violet Wilson<note> Wilson, Violet A. <hi rend="italic">The Coaching Era</hi> (London: John Lane, The Bodley Head, 1922).</note> Lane 12/6<bibl rend="end"/></l>
+                        <l n="12"> <bibl rend="begin"/>The coaching era Violet Wilson<note>Wilson, Violet A. <hi rend="italic">The Coaching Era</hi> (London: John Lane, The Bodley Head, 1922).</note> Lane 12/6<bibl rend="end"/></l>
                         <!-- NW: should "with" be moved to a different line? It doesn't really line up with the rest of line 13; depending on choice, may need to rezone some lines on this page -->
                         <l n="13">   collection of coaching stories.                        with</l>
                         <l n="14"> <bibl>L. Digest June 9 1923    Fighting mosquitoes,   10 minnows</bibl></l>
@@ -6774,7 +6795,7 @@
                         n="0060-verso"/>
                     <lg>
                         <l n="01">   <bibl rend="begin"/><bibl/>The Dilemma of Mariage  Alyse Gregory<note><!-- type="glossary" -->Gregory, Alyse [1884-1967]. American writer and editor, and a friend of MM's. She was managing editor of <hi rend="italic">The Dial</hi>, 1924-June 1925.</note>  N. Rep.</l>
-                        <l n="02"> July 4 1923<bibl rend="end"/>&#8211;  <note> Gregory, Alyse. "The Dilemma of Marriage." <hi rend="italic">New Republic</hi> 4 July, 1923.</note></l>
+                        <l n="02"> July 4 1923<bibl rend="end"/>&#8211;  <note>Gregory, Alyse. "The Dilemma of Marriage." <hi rend="italic">New Republic</hi> 4 July, 1923.</note></l>
                     </lg>
                     <lg>
                         <l n="03"><quote type="begin"/>. . . Jonathan Swift w an electric storm of satire strips</l>
@@ -6849,7 +6870,7 @@
                         <l n="10">    I'll find a reason yet."</l>
                         <l n="11"/>
                         <l n="12">   <bibl rend="begin"/>Miguel de Unamuno<note><!-- type="glossary" --> Unamuno, Miguel de [1864-1936]. Spanish philosopher and writer in all creative genres. MM reviews one of his novels and refers to him in her prose.</note>    trans. J E. C. Flitch</l>
-                        <l n="13">     Macm 1921   <hi rend="underline">The Tragic Sense of Life<bibl rend="end"/><bibl rend="end"/></hi>&#8211;  <note> Unamuno, Miguel de. <hi rend="italic">The Tragic Sense of Life</hi> (1912). First published in English, Macmillan and Co. Ltd., 1921.</note></l>
+                        <l n="13">     Macm 1921   <hi rend="underline">The Tragic Sense of Life<bibl rend="end"/><bibl rend="end"/></hi>&#8211;  <note>Unamuno, Miguel de. <hi rend="italic">The Tragic Sense of Life</hi> (1912). First published in English, Macmillan and Co. Ltd., 1921.</note></l>
                         <l n="14">  90   <quote type="begin"/>And the truth is in all strictness that reason</l>
                         <l n="15">     is the enemy of life. . . . In order to<quote type="end"/></l>
                     </lg>
@@ -6861,7 +6882,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0063-recto.jpeg"
                         n="0063-recto"/>
                     <lg>
-                        <l n="01"> <note> Unamuno, Miguel de. <hi rend="italic">Tragic Sense of Life</hi> (see earlier note).</note> <quote type="begin"/>understand anything, it is nec. . . . to lay it out       30</l>
+                        <l n="01"> <note>Unamuno, Miguel de. <hi rend="italic">Tragic Sense of Life</hi> (see earlier note).</note> <quote type="begin"/>understand anything, it is nec. . . . to lay it out       30</l>
                         <l n="02">   rigid in the mind. . . . And truth? Is truth</l>
                         <l n="03">   Something that is lived or that is comprehended?</l>
                         <l n="04">        It is only nec. to read the terrible Parmenides</l>
@@ -6874,7 +6895,7 @@
                         <l n="11">   essentially skeptical.<quote type="end"/></l>
                         <l n="12"/>
                         <l n="13">      <bibl rend="begin"/>Punch  June 30  1923  p 578</l>
-                        <l n="14">   Wit to Measure.<note> "Wit to Measure." Ad. <hi rend="italic">Punch</hi> (30 June 1923): 578.</note><bibl rend="end"/>  <quote type="begin"/>Extracts fr recent advertise-</l>
+                        <l n="14">   Wit to Measure.<note>"Wit to Measure." Ad. <hi rend="italic">Punch</hi> (30 June 1923): 578.</note><bibl rend="end"/>  <quote type="begin"/>Extracts fr recent advertise-</l>
                         <l n="15">   ment of well-known tailoring house: “. . . . with an</l>
                         <l n="16">   eye to feminine admiration . . . a man’s wit</l>
                         <l n="17">   lacks point and brilliancy unless helped by the</l>
@@ -6940,7 +6961,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0066-verso.jpeg"
                         n="0066-verso"/>
                     <lg>
-                        <l n="01">         <note> Continued from previous page, <hi rend="italic">Life</hi> 9 August 1923.</note><quote type="begin"/>Aye&#8211;the sea be fair saturated with 'em</l>
+                        <l n="01">         <note>Continued from previous page, <hi rend="italic">Life</hi> 9 August 1923.</note><quote type="begin"/>Aye&#8211;the sea be fair saturated with 'em</l>
                         <l n="02">  week before?</l>
                         <l n="03">     clerk (monkey) I suppose you would like a room</l>
                         <l n="04">   and bath?</l>
@@ -6949,7 +6970,7 @@
                         <l n="07">    <bibl rend="begin"/><foreign xml:lang="fr">Ma Double Vie:  M&#233;moires de Sarah</foreign></l>
                         <l n="08">    <foreign xml:lang="fr">Bernhardt. Biblioth&#232;que&#8211;Charpentier   11, rue de grenelle</foreign> 11</l>
                         <l n="09">     1923<bibl rend="end"/></l>
-                        <l n="10">    vol. 1.<note> Bernhardt, Sarah. <hi rend="italic">Ma Double Vie. Memoires de Sarah Bernhardt</hi>. Paris: Bibliothèque-Charpentier, 1923. The text translates: "(my nanny) But she liked poor people; when they have time. mother Sainte-Sophie. I love her, because it seems to me . . . that wholly imperfect as I am, I would be a hundred times more so if I had not known"</note>  page 2 (<foreign xml:lang="fr">ma nourrice)   <quote type="begin"/>Mais elle avait</foreign></l>
+                        <l n="10">    vol. 1.<note>Bernhardt, Sarah. <hi rend="italic">Ma Double Vie. Memoires de Sarah Bernhardt</hi>. Paris: Bibliothèque-Charpentier, 1923. The text translates: "(my nanny) But she liked poor people; when they have time. mother Sainte-Sophie. I love her, because it seems to me . . . that wholly imperfect as I am, I would be a hundred times more so if I had not known"</note>  page 2 (<foreign xml:lang="fr">ma nourrice)   <quote type="begin"/>Mais elle avait</foreign></l>
                         <l n="11">     <foreign xml:lang="fr">comme aiment les gens pauvre; quand ils ont</foreign></l>
                         <l n="12">    <foreign xml:lang="fr">le temps</foreign>.</l>
                         <l n="13"/>
@@ -7003,11 +7024,11 @@
                         <l n="08">                       <bibl rend="begin"/>P. L. Rev.  15  Sept 1923             1923    1.25</l>
                         <l n="09">  The Gothic Rose &amp; other poems. W. R. Childe. Appleton<bibl rend="end"/></l>
                         <l n="10">  <bibl rend="begin"/>P.<hi rend="pencil">ost</hi> L.<hi rend="pencil">iterary</hi> Rev.<hi rend="pencil">iew</hi> 15 Sept 1923<bibl rend="end"/> Lit. pub. by</l>
-                        <l n="11">    D. H Lawrence<note> Sherman, Stuart. Review. New York Evening Post Literary Review (15 September 1923): 143-44.</note>  discourses from Fantasia of the</l>
+                        <l n="11">    D. H Lawrence<note>Sherman, Stuart. Review. New York Evening Post Literary Review (15 September 1923): 143-44.</note>  discourses from Fantasia of the</l>
                         <l n="12">    Unconscious<note>Lawrence, D. H. <hi rend="italic">Fantasia of the Unconscious.</hi> New York: Thomas Seltzer, 1922.</note><bibl rend="end"/>: on Love &amp; Marriage (in the Adelphi)</l>
                         <l n="13">   <quote type="begin"/>in a staccato and half baked manner that rouses</l>
                         <l n="14">   dismay.<quote type="end"/></l>
-                        <l n="15">(In October Criterion)  Ezra Pound's Malatesta Cantos <note> Pound, Ezra. "Malatesta Cantos (Cantos IX to XII of a Long Poem)." <hi rend="italic">The Criterion</hi> 1 (July 1923). MM reviewed A Draft of XXX Cantos, essentially positively, <hi rend="italic">Poetry</hi> 39 (October 1931): 37-56.</note></l>
+                        <l n="15">(In October Criterion)  Ezra Pound's Malatesta Cantos <note>Pound, Ezra. "Malatesta Cantos (Cantos IX to XII of a Long Poem)." <hi rend="italic">The Criterion</hi> 1 (July 1923). MM reviewed A Draft of XXX Cantos, essentially positively, <hi rend="italic">Poetry</hi> 39 (October 1931): 37-56.</note></l>
                         <l n="16">    . . . <quote type="begin"/>only reveal Mr. Pound at his glib essentially</l>
                         <l n="17">    dull pseudo scholarly worst.<quote type="end"/></l>
                     </lg>
@@ -7357,7 +7378,7 @@
                         <l n="01">    <quote>art &amp; activity, the alpha &amp; omega of our wellbeing</quote>.</l>
                         <l n="02">                                                                                      39</l>
                         <l n="03">   <bibl rend="begin"/>Post Lit Rev. 22 Sept 1923</l>
-                        <l n="04">   Scepticism &amp; Animal Faith. G. Santayana  Scribner 1923<note> See earlier note on review of Santayana's <hi rend="italic">Poems</hi>, 15 September 1923. <hi rend="italic">Scepticism and Animal Faith</hi> (NY: Charles Scribner's Sons, 1923).</note></l>
+                        <l n="04">   Scepticism &amp; Animal Faith. G. Santayana  Scribner 1923<note>See earlier note on review of Santayana's <hi rend="italic">Poems</hi>, 15 September 1923. <hi rend="italic">Scepticism and Animal Faith</hi> (NY: Charles Scribner's Sons, 1923).</note></l>
                         <l n="05">   Rev'd by Dickinson Sargent Miller<bibl rend="end"/>. Cf Scholasticism</l>
                         <l n="06">   <quote type="begin"/>"An imperceptible cognitive energy, whose essence is</l>
                         <l n="07"> 2  intuition"&#8211;how redolent of mediaeval science is</l>
@@ -7385,7 +7406,7 @@
                         <l n="01">     <bibl rend="begin"/>Lit. review. Sept 29 1923</l>
                         <l n="02">  A Blunt Old Tory: Women &amp; Men   Ford Madox Ford<note><!-- type="glossary" --> Ford, Ford Madox (born Hueffer) [1873-1939]. English novelist, poet, critic, and editor. MM refers to Ford in essays and letters, not always positively.</note></l>
                         <l n="03">     Paris 3 Mountains Press. 1923   Rev'd Lawrence</l>
-                        <l n="04">     Marsden <del>Price</del> Price<note> Price, Lawrence Marsden. Rev. Ford Madox Ford, <hi rend="italic">Women and Men</hi> (Paris: Three Mountains Press, 1923). <hi rend="italic">New York Evening Post</hi> Literary Review (29 September, 1923).</note>.  <bibl rend="end"/><quote type="begin"/>In this essay he discusses</l>
+                        <l n="04">     Marsden <del>Price</del> Price<note>Price, Lawrence Marsden. Rev. Ford Madox Ford, <hi rend="italic">Women and Men</hi> (Paris: Three Mountains Press, 1923). <hi rend="italic">New York Evening Post</hi> Literary Review (29 September, 1923).</note>.  <bibl rend="end"/><quote type="begin"/>In this essay he discusses</l>
                         <l n="05">     a question wh at some time has agitated nearly</l>
                         <l n="06">     every human being namely, which of the two tribes</l>
                         <l n="07">     mentioned in the title is in reality the less despicable</l>
@@ -7464,7 +7485,7 @@
                         <l n="03">          Mark, the poetic novelty of stilly deep &amp;</l>
                         <l n="04">     then says there is nothing new under the sun.<quote type="end"/></l>
                         <l n="05"/>
-                        <l n="06">   <bibl rend="begin"/>Sheridan&#8211;The Rivals&#8211;Nov 15 1923 <note> Sheridan, Richard Brinsley. <hi rend="italic">The Rivals</hi> (1775), produced on Broadway 1923.</note></l>
+                        <l n="06">   <bibl rend="begin"/>Sheridan&#8211;The Rivals&#8211;Nov 15 1923 <note>Sheridan, Richard Brinsley. <hi rend="italic">The Rivals</hi> (1775), produced on Broadway 1923.</note></l>
                         <l n="07">     Bob Acres<bibl rend="end"/>:   <quote type="begin"/>Theyre's  no meaning in the</l>
                         <l n="08">     common oaths&#8211;nothing but their antiquity</l>
                         <l n="09">     makes them respectable. . . . This we</l>
@@ -7622,7 +7643,7 @@
                     <lg>
                         <l n="01">   <bibl rend="begin"/>Christian Science Monitor&#8211;  Oct  24  1923</l>
                         <l n="02">    E. Gordon Craig<note><!-- type="glossary" --> Craig, Edward Gordon [1872-1966]. English theater practitioner, including scene design and theory. MM writes of him in "Picking and Choosing" (<hi rend="italic">Observations</hi> 1924) and refers to him in "The Dial: A Retrospect," <hi rend="italic">Life and Letters To-Day</hi> 27 (1940).</note>                                       44</l>
-                        <l n="03">  Scene. Oxford University Press. 1923<bibl rend="end"/>  25s/<note> Craig, Edward Gordon. <hi rend="italic">Scene</hi>. London: Humphrey Milford; Oxford University Press, 1923.</note></l>
+                        <l n="03">  Scene. Oxford University Press. 1923<bibl rend="end"/>  25s/<note>Craig, Edward Gordon. <hi rend="italic">Scene</hi>. London: Humphrey Milford; Oxford University Press, 1923.</note></l>
                         <l n="04">   <quote type="begin"/>There is a certain weary patience in Mr. Gordon</l>
                         <l n="05">     Craig's attitude toward the public. Because</l>
                         <l n="06">   what he has to say is so important, so valuable, and</l>
@@ -7648,7 +7669,7 @@
                         n="0092-verso"/>
                     <lg>
                         <l n="01">   <bibl rend="b"/>N Y  Times Nov 18.  1923<note><hi rend="italic">New York Times</hi> (18 November 1923). 31 October 1923, there was a brief notice that the cavern had been made a national monument.</note>               Gothic arch&#8211;</l>
-                        <l n="02">   Carlsbad Cave<note> MM apparently considered writing a poem on Carlsbad Caverns. See miscellaneous notebook (1929-1940) 07.03.11, image 37 verso.</note>. N. Mexico.   <bibl rend="end"/><quote type="begin"/>A vaulted room in</l>
+                        <l n="02">   Carlsbad Cave<note>MM apparently considered writing a poem on Carlsbad Caverns. See miscellaneous notebook (1929-1940) 07.03.11, image 37 verso.</note>. N. Mexico.   <bibl rend="end"/><quote type="begin"/>A vaulted room in</l>
                         <l n="03"><hi rend="shorthand_the">the</hi> cave in the middle of which rises a dark pillar, w all</l>
                         <l n="04">   around it pendants of Sparkling white.</l>
                         <l n="05">      Titanic columns rising from a stalagmite, the</l>
@@ -7670,7 +7691,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0093-recto.jpeg"
                         n="0093-recto"/>
                     <lg>
-                        <l n="01">    <bibl rend="begin"/>Ill London News  Aug 11 1923<note>"A Summer 'Seaside' Visitor to be Avoided." Photographs by Dr. Francis Ward. <hi rend="italic">Illustrated London News</hi>, 11 September 1923: 21.</note><bibl rend="end"/>                   45<note> MM takes notes toward drafting "An Octopus," first published <hi rend="italic">Dial</hi> December 1924. Her Notes to the poem refer to this article and claim to quote from Ward.</note></l>
+                        <l n="01">    <bibl rend="begin"/>Ill London News  Aug 11 1923<note>"A Summer 'Seaside' Visitor to be Avoided." Photographs by Dr. Francis Ward. <hi rend="italic">Illustrated London News</hi>, 11 September 1923: 21.</note><bibl rend="end"/>                   45<note>MM takes notes toward drafting "An Octopus," first published <hi rend="italic">Dial</hi> December 1924. Her Notes to the poem refer to this article and claim to quote from Ward.</note></l>
                         <l n="02">     <quote type="begin"/>Finish of a swim&#8211;out of breath&#8211;</l>
                         <l n="03">     tiptoeing after a swim&#8211;Showing the white</l>
                         <l n="04">     under surfaces of the arms.  Swimming backward</l>
@@ -7698,7 +7719,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0094-verso.jpeg"
                         n="0094-verso"/>
                     <lg>
-                        <l n="01">   <note>"A Summer 'Seaside' Visitor to be Avoided" (see earlier note).</note><quote type="begin"/>When in use the suckers hearing surface alters its<note> MM takes notes toward drafting "An Octopus."</note></l>
+                        <l n="01">   <note>"A Summer 'Seaside' Visitor to be Avoided" (see earlier note).</note><quote type="begin"/>When in use the suckers hearing surface alters its<note>MM takes notes toward drafting "An Octopus."</note></l>
                         <l n="02">    shape, in order to secure a more effective grip</l>
                         <l n="03">    than <del>would</del>. otherwise would be possible   The cep. itself</l>
                         <l n="04">    is very powerful, photograph 3 showing large stones</l>
@@ -7724,7 +7745,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0095-recto.jpeg"
                         n="0095-recto"/>
                     <lg>
-                        <l n="01">      <note>"A Summer 'Seaside' Visitor to be Avoided" (see earlier note).</note>This is done in a slow deliberate manner<note> MM takes notes toward drafting "An Octopus"; in her Notes, she attributes "ghostly pallor" to Francis Ward.</note></l>
+                        <l n="01">      <note>"A Summer 'Seaside' Visitor to be Avoided" (see earlier note).</note>This is done in a slow deliberate manner<note>MM takes notes toward drafting "An Octopus"; in her Notes, she attributes "ghostly pallor" to Francis Ward.</note></l>
                         <l n="02">   if disturbed                                                                 46</l>
                         <l n="03">      <hi rend="underline">escapes by swimming away backward</hi>s.  arms</l>
                         <l n="04">     trailed horizontally    the  arms expanded, the</l>
@@ -7755,7 +7776,7 @@
                         n="0096-verso"/>
                     <lg>
                         <l n="01"> <note>"A Summer 'Seaside' Visitor to be Avoided" (see earlier note).</note>crus.  was hiding under a bunch of weeds. The cep.</l>
-                        <l n="02"> ^<note> MM takes notes toward drafting "An Octopus<hi rend="italic">.</hi>"</note></l>
+                        <l n="02"> ^<note>MM takes notes toward drafting "An Octopus<hi rend="italic">.</hi>"</note></l>
                         <l n="03">   came up in quite an open manner, &amp; when within</l>
                         <l n="04">   striking distance, <hi rend="shorthand_the">the</hi> arms seemed to approach the prey</l>
                         <l n="05">   from all directions until the aggressor was right over</l>
@@ -7854,7 +7875,7 @@
                         <l n="11"><hi rend="pencil">t grip</hi><note>Here and 2 lines below, MM completes two words written across the verso/recto border of pages: "permanent grip positive."</note>   of my purse that I could not afford to keep</l>
                         <l n="12">       up a gentleman's establishment,  &amp; of my tastes</l>
                         <l n="13"><hi rend="pencil">ve</hi>    that I could not endure to.</l>
-                        <l n="14"/> 
+                        <l n="14"/>
                         <l n="15">       <del>97</del>   Giotto   89   In fact S. Bonaventure</l>
                         <l n="16">      &amp; the great poet of the movement, the cultivated</l>
                         <l n="17">        &amp; ecstatic Jacopone di Todi<note>MM reviews Jacopone da Todi, Poet and Mystic – 1228-1306: A Spiritual Biography by Evelyn Underhill for the Dial, January, 1921.</note>                did for the<quote type="end"/></l>
@@ -7868,41 +7889,42 @@
                         n="0100-verso"/>
                     <desc><!-- Lines 05, 07, MM circles 1 and 2 --></desc>
                     <lg>
-                        <l n="01"> <note> Fry, Roger. <hi rend="italic">Vision and Design</hi> (see earlier note).</note><hi rend="italic"><quote type="begin"/>     </hi>Christian legend very much what  Pindar did</l>
-                        <l n="02">    for  classical mythology.</l>
+                        <l n="01"> <note>Fry, Roger. <hi rend="italic">Vision and Design</hi> (see earlier note).</note><quote type="begin"/>Christian legend very much what  Pindar did</l>
+                        <l n="02">  for  classical mythology.</l>
                         <l n="03"/>
-                        <l n="04">    97.   Giotto  the  propitious moment of his advent.   For the</l>
+                        <l n="04">  97.   Giotto  the  propitious moment of his advent.   For the</l>
                         <l n="05"> 2optics of the  imagination are variable.</l>
                         <l n="06"/>
                         <l n="07"> 197    To what a temperature  must the imag. be raised</l>
-                        <l n="08">    before it can fuse in its  crucible those refractory</l>
-                        <l n="09">    squalid trivialities unconsecrated by time and</l>
-                        <l n="10">    untinged by romance w which the artist must  deal</l>
-                        <l n="11">    if  he is     to be at once "topical" and heroic.</l>
-                        <l n="12">    Homer could accomplish it ,  and   Dante,   but</l>
-                        <l n="13">    most poets must find a way round.   In  Dante</l>
-                        <l n="14">    the   power is constantly felt.  He  cld  not only</l>
-                        <l n="15">    introduce  the   politics and   personalities of   his own time</l>
-                        <l n="16">    but he could use such  similes as  that  of   old tailors<quote type="end"/></l>
+                        <l n="08">   before it can fuse in its  crucible those refractory</l>
+                        <l n="09">   squalid trivialities unconsecrated by time and</l>
+                        <l n="10">   untinged by romance w which the artist must  deal</l>
+                        <l n="11">   if  he is     to be at once "topical" and heroic.</l>
+                        <l n="12">   Homer could accomplish it ,  and   Dante,   but</l>
+                        <l n="13">   most poets must find a way round.   In  Dante</l>
+                        <l n="14">   the   power is constantly felt.  He  cld  not only</l>
+                        <l n="15">   introduce  the   politics and   personalities of   his own time</l>
+                        <l n="16">   but he could use such  similes as  that  of   old tailors<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
+            <!-- Nick: rezone line 6 to include just the "p." -->
             <div type="image" xml:id="nb07_01_04_0101_text">
                 <div type="page" n="r.0101" xml:id="nb07_01_04_0101_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0101-recto.jpeg"
                         n="0101-recto"/>
                     <lg>
-                        <l n="01"> <note> Fry, Roger. <hi rend="italic">Vision and Design</hi> (see earlier note).</note> <quote type="begin"/>  peering for their needles' eyes, a half burnt      49</l>
+                        <l n="01">   <note>Fry, Roger. <hi rend="italic">Vision and Design</hi> (see earlier note).</note> <quote type="begin"/>peering for their needles' eyes, a half burnt         49</l>
                         <l n="02">     piece of paper, dogs  nozzling  for fleas  &amp;</l>
                         <l n="03">     still more unsavory  trivialities  without for a</l>
                         <l n="04">     moment lowering the  high key   in which his comedy</l>
                         <l n="05">     was pitched.</l>
-                        <l n="06">                                      p.</l>
+                        <l n="06">                                     p.</l>
                         <l n="07">   <bibl rend="end"/>Ancient American Art    68   see  Thomas A Joyce</l>
                         <l n="08">      S. Amer. Archaeology London Macm.  19<del>2</del>12</l>
                         <l n="09">      Mexican Archaelogy,  London See Warner 1914</l>
-                        <l n="10">      Central Amer. Archaeology.   London &amp; NY Putnam  1916<note> Thomas Athol Joyce published three books on American archaeology with G. P. Putnam's Sons (NY): <hi rend="italic">South American Archeology</hi> (1912), <hi rend="italic">Mexican Archaeology</hi> (1914; also London: Lee Warner, 1914), and <hi rend="italic">Central American and West Indian Archaeology</hi> (1916).</note></l>
+                        <l n="10">      Central Amer. Archaeology.   London &amp; NY Putnam  1916<note>Thomas Athol Joyce published three books on American archaeology with G. P. Putnam's Sons (NY): <hi rend="italic">South American Archeology</hi> (1912), <hi rend="italic">Mexican Archaeology</hi> (1914; also London: Lee Warner, 1914), and <hi rend="italic">Central American and West Indian Archaeology</hi> (1916).</note></l>
                         <l n="11"> </l>
                         <l n="12">    72.  In looking at the artistic remains of so remote</l>
                         <l n="13">     and strange a civilization one sometimes wonders how far</l>
@@ -7913,13 +7935,14 @@
                     </lg>
                 </div>
             </div>
+            <!-- Nick: rezone line 16, missing part of "73" at beginning of line -->
             <div type="image" xml:id="nb07_01_04_0102_text">
                 <div type="page" n="v.0102" xml:id="nb07_01_04_0102_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0102-verso.jpeg"
                         n="0102-verso"/>
                     <lg>
-                        <l n="01"> <note> Fry, Roger. <hi rend="italic">Vision and Design</hi> (see earlier note).</note> <quote type="begin"/>  what seems to us the perfect &amp; delicate</l>
+                        <l n="01">    <note>Fry, Roger. <hi rend="italic">Vision and Design</hi> (see earlier note).</note><quote type="begin"/>what seems to us the perfect &amp; delicate</l>
                         <l n="02">   balance between representational  &amp;  purely  formal</l>
                         <l n="03">   considerations. . . . .  whether  . . .  the  <del>arstist</del>  artist</l>
                         <l n="04">   deplored or himself approved just that  reticence</l>
@@ -7945,13 +7968,13 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0103-recto.jpeg"
                         n="0103-recto"/>
                     <lg>
-                        <l n="01"> <note>Fry, Roger. <hi rend="italic">Vision and Design</hi> (see earlier note).</note>  <quote type="begin"/>is kept flat and generally square in the</l>
+                        <l n="01">   <note>Fry, Roger. <hi rend="italic">Vision and Design</hi> (see earlier note).</note><quote type="begin"/>is kept flat and generally square in the</l>
                         <l n="02">    section, it has nothing of the dryness &amp;          50</l>
                         <l n="03">    tightness  that such a treatment often implies.<quote type="end"/></l>
                         <l n="04"/>
-                        <l n="05">   <bibl rend="begin"/>Bryn  Mawr  Alumnae  Bulletin   Dec '23</l>
+                        <l n="05">     <bibl rend="begin"/>Bryn  Mawr  Alumnae  Bulletin   Dec '23</l>
                         <l n="06"> </l>
-                        <l n="07"> <note>King, Georgiana Goddard. <hi rend="italic">Sardinian Painting</hi>. NY: Longmans, Green &amp; Co., 1923.</note>             Sardinian Painting G. G. King<note><!-- type="glossary" -->King, Georgiana Goddard [1871-1939]. American pioneer Hispanist and teacher of MM's at Bryn Mawr College, who introduced MM to early modernism.</note>             Longmans 1923</l>
+                        <l n="07"> <note>King, Georgiana Goddard. <hi rend="italic">Sardinian Painting</hi>. NY: Longmans, Green &amp; Co., 1923.</note>Sardinian Painting G. G. King<note><!-- type="glossary" -->King, Georgiana Goddard [1871-1939]. American pioneer Hispanist and teacher of MM's at Bryn Mawr College, who introduced MM to early modernism.</note>      Longmans 1923</l>
                         <l n="08">   $2.00   <quote type="begin"/>She says of the Carnicer  Presepio</l>
                         <l n="09">   "In  the central scene Spanish realism triumphs</l>
                         <l n="10">   in the string of onions hanging on a wall,  and</l>
@@ -7965,13 +7988,14 @@
                     </lg>
                 </div>
             </div>
+            <!-- Nick: rezone line 7 to include initial "s" in "sang" at beginning of line -->
             <div type="image" xml:id="nb07_01_04_0104_text">
                 <div type="page" n="v.0104" xml:id="nb07_01_04_0104_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0104-verso.jpeg"
                         n="0104-verso"/>
                     <lg>
-                        <l n="01"> <note>King, Georgiana Goddard. <hi rend="italic">Sardinian Painting</hi> (see earlier note).</note> <quote type="begin"/>   last decade of the 15th century brought</l>
+                        <l n="01">     <note>King, Georgiana Goddard. <hi rend="italic">Sardinian Painting</hi> (see earlier note).</note><quote type="begin"/>last decade of the 15th century brought</l>
                         <l n="02">   their offerings to the palace of the King of</l>
                         <l n="03">   Portugal, or to the great hall of the  Duke of <del>Alvah</del></l>
                         <l n="04">   Alva on the Tarnes, while Gil Vicente and</l>
@@ -7983,7 +8007,7 @@
                         <l n="10">   to a bough."<quote type="end"/></l>
                         <l n="11"/>
                         <l n="12">  <bibl rend="begin"/>The Lavender Lad.  Dolf Willarde&#8211;H. Botolph</l>
-                        <l n="13">   Society   Boston.<note> Dolf, Wyllarde. The Lavender Lad. Boston: St. Botolph Society, 1923.</note>          $1.90</l>
+                        <l n="13">   Society   Boston.<note>Dolf, Wyllarde. The Lavender Lad. Boston: St. Botolph Society, 1923.</note>    $1.90</l>
                         <l n="14"/>
                         <l n="15">  26  <quote type="begin"/>some dainty cat who leaves off lapping milk to</l>
                         <l n="16">   smell fish</l>
@@ -7997,8 +8021,8 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0105-recto.jpeg"
                         n="0105-recto"/>
                     <lg>
-                        <l n="01"><note>Dolf, Wyllarde. <hi rend="italic">The Lavender Lad</hi> (see earlier note).</note><quote type="begin"/>  his . . .   cheeks.</l>
-                        <l n="02">  63   cloud of color still seemed to float between             51</l>
+                        <l n="01">  <note>Dolf, Wyllarde. <hi rend="italic">The Lavender Lad</hi> (see earlier note).</note><quote type="begin"/>his . . .   cheeks.</l>
+                        <l n="02">  63   cloud of color still seemed to float between                51</l>
                         <l n="03">     earth  and  sky.</l>
                         <l n="04">                                                      . . .                     . . .</l>
                         <l n="05"> 100.  Sir He<del>r</del>nry Leigh looked   ruefully at his   bandaged feet</l>
@@ -8010,8 +8034,8 @@
                         <l n="11">    the end as carefully as a gardener prunes</l>
                         <l n="12">    roses, the whole attention concentrated on the process.<quote type="end"/></l>
                         <l n="13">                                                                              (2 vols)</l>
-                        <l n="14">  <bibl rend="begin"/>John  Gay<note> Gay, John [1685-1732]. English poet and dramatist. MM refers to him in a film review in Close-Up, 10 September 1933.</note>           :    Poetical works in a memoir    Vol I</l>
-                        <l n="15">      Boston    Houghton.<bibl rend="end"/> <note> Gay, John. <hi rend="italic">The Poetical Works, With a Memoir</hi>. Boston: Houghton, 1879.</note>           p. 83    <quote type="begin"/>The  jugglers.</l>
+                        <l n="14">  <bibl rend="begin"/>John  Gay<note>Gay, John [1685-1732]. English poet and dramatist. MM refers to him in a film review in Close-Up, 10 September 1933.</note>           :    Poetical works in a memoir    Vol I</l>
+                        <l n="15">      Boston    Houghton.<bibl rend="end"/> <note>Gay, John. <hi rend="italic">The Poetical Works, With a Memoir</hi>. Boston: Houghton, 1879.</note>           p. 83    <quote type="begin"/>The  jugglers.</l>
                         <l n="16">     seg type="begin" subtype="verse"/>The cards,  obedient  to his  words</l>
                         <l n="17">      Are by a fillip   turned to birds.<seg type="end" subtype="verse"/><quote type="end"/></l>
                     </lg>
@@ -8023,7 +8047,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0106-verso.jpeg"
                         n="0106-verso"/>
                     <lg>
-                        <l n="01"> <seg type="begin" subtype="verse"/><quote type="begin"/><note> Gay, John. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note> <hi rend="underline">     His</hi> little boxes change the grain:</l>
+                        <l n="01">      <seg type="begin" subtype="verse"/><quote type="begin"/><note>Gay, John. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note> <hi rend="underline">His</hi> little boxes change the grain:</l>
                         <l n="02">       Trick after trick deludes the train.</l>
                         <l n="03">       He shakes his bag, he shows all fair;</l>
                         <l n="04">       His fingers spread, and nothing there;</l>
@@ -8050,7 +8074,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0107-recto.jpeg"
                         n="0107-recto"/>
                     <lg>
-                        <l n="01"> <note> Gay, John. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><seg type="begin" subtype="verse"/><quote type="begin"/>   Blood stuff'd in skins is British Christian's food,</l>
+                        <l n="01">    <note>Gay, John. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><seg type="begin" subtype="verse"/><quote type="begin"/>Blood stuff'd in skins is British Christian's food,</l>
                         <l n="02">      And France robs marshes of the croaking brood;          52</l>
                         <l n="03">      Spongy morels in strong ragouts are found,</l>
                         <l n="04">      And in the soup the slimy snail is drown'd.<quote type="end"/><seg type="end" subtype="verse"/></l>
@@ -8077,16 +8101,16 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0108-verso.jpeg"
                         n="0108-verso"/>
                     <lg>
-                        <l n="01"> <note> Gay, John. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note>  <seg type="begin" subtype="verse"/><quote type="begin"/>   And on the hearth the milk white embers spread;</l>
+                        <l n="01">      <note>Gay, John. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><seg type="begin" subtype="verse"/><quote type="begin"/>And on the hearth the milk white embers spread;</l>
                         <l n="02">      Slow crawl'd the snail, and if I  right can spell,</l>
                         <l n="03">      In the soft ashes mark<del>e</del>'d a curious  L:</l>
-                        <l n="04">   61                                (dairy)</l>
+                        <l n="04">   61                                  (dairy)</l>
                         <l n="05">      Friday;  or,  the Dirge.   For there her goodly countenance I've seen</l>
-                        <l n="06">                               Set off w kerchief starch'd &amp; pinners clean.</l>
+                        <l n="06">                                        Set off w kerchief starch'd &amp; pinners clean.</l>
                         <l n="07">        Sometimes,  like wax,  she rolls the butter round,</l>
                         <l n="08">        Or with the wooden lily prints the pound.<quote type="end"/><seg type="end" subtype="verse"/></l>
                         <l n="09"/>
-                        <l n="10"> <note><note>Larned, Josephus Nelson. A Primer of Right and Wrong. Boston: Houghton, 1902.</note></note>  <bibl>Larned (?)   A Primer of right and wrong. </bibl></l>
+                        <l n="10">   <note>Larned, Josephus Nelson. A Primer of Right and Wrong. Boston: Houghton, 1902.</note><bibl>Larned (?)   A Primer of right and wrong.</bibl></l>
                         <l n="11">   a book on ethics with diagrams.</l>
                         <l n="12">   <quote type="begin"/>Our freedom exalts us &#8211; gives our conduct its moral</l>
                         <l n="13">   qual.   (cf lower animals incap of doing wrong)</l>
@@ -8102,7 +8126,7 @@
                         n="0109-recto"/>
                     <lg>
                         <l n="01">     <bibl rend="begin"/>Harpers Bazar  Dec 1923</l>
-                        <l n="02">                                                            53</l>
+                        <l n="02">                                                                           53</l>
                         <l n="03">     Tapp&#233;.  <bibl rend="end"/><!-- NW: Should this be a quote? --> Christmas&#8211;the mere thought of it</l>
                         <l n="04">   . . . kindles such a glow of joviality &amp; good fellowship</l>
                         <l n="05">   in my imagination that I find my charming wraps</l>
@@ -8129,20 +8153,20 @@
                     <desc>MM draws a curly bracket around the end of the last 4 lines of the quoted
                         verse, before writing "Prologue"</desc>
                     <lg>
-                        <l n="01"> <note> Tapp&#233;, Herman Patrick. <hi rend="italic">Harper's Bazar</hi> (see earlier note).</note><quote type="begin"/>  all, a cloak of dull plum with a swirling</l>
+                        <l n="01">   <note>Tapp&#233;, Herman Patrick. <hi rend="italic">Harper's Bazar</hi> (see earlier note).</note><quote type="begin"/>all, a cloak of dull plum with a swirling</l>
                         <l n="02">   circular flounce falling from knee to ankle and</l>
                         <l n="03">  a high collar of dark fox bravely blushed</l>
                         <l n="04">   itself from its subdued hue into a deleriously</l>
                         <l n="05">   fervent Burgundy.  (<foreign xml:lang="fr">Joie de vivre</foreign>.)</l>
-                        <l n="06"> <note><!-- type="glossary" --> MM quotes from Scottish poet Charles Mackay [1814-1889], "The Holly Bough," also published as "Under the Holly Bough."</note>            old love and younger wooing</l>
-                        <l n="07">             Are sweet in the renewing,</l>
-                        <l n="08">                  Under the holly bough.</l>
+                        <l n="06">             <note><!-- type="glossary" --> MM quotes from Scottish poet Charles Mackay [1814-1889], "The Holly Bough," also published as "Under the Holly Bough."</note>old love and younger wooing</l>
+                        <l n="07">                  Are sweet in the renewing,</l>
+                        <l n="08">                         Under the holly bough.</l>
                         <l n="09">         Take heart unveil your faces,     <hi rend="underline">Prologue</hi></l>
                         <l n="10">              And join in our embraces</l>
                         <l n="11">                   Under the holly bough<quote type="end"/></l>
                         <l n="12"/>
                         <l n="13"> <bibl rend="begin"/>Marriage of Yussuf Kahn. Frank Heller</l>
-                        <l n="14">                                                 Crowell<bibl rend="end"/>.<note> Heller, Frank. <hi rend="italic">The Marriage of Yussuf Kahn</hi>. NY: Thomas Y. Crowell &amp; Co., 1923. Trans from the Swedish, Robert Emmons Lee.</note></l>
+                        <l n="14">                                                 Crowell<bibl rend="end"/>.<note>Heller, Frank. <hi rend="italic">The Marriage of Yussuf Kahn</hi>. NY: Thomas Y. Crowell &amp; Co., 1923. Trans from the Swedish, Robert Emmons Lee.</note></l>
                         <l n="15"> 12  <quote type="begin"/> what a provincial sort of Sybaris this was</l>
                         <l n="16">  18  His degree as doctor had been conferred by the</l>
                         <l n="17">    hotel, not by the University<quote type="end"/></l>
@@ -8155,8 +8179,8 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0111-recto.jpeg"
                         n="0111-recto"/>
                     <lg>
-                        <l n="01"> <note> Heller, Frank. <hi rend="italic">The Marriage of Yussuf Kahn </hi>(see earlier note).</note>  18 <quote type="begin"/>The steamer's whistle tooted in its hoarse</l>
-                        <l n="02">      bass, drunkenlike tone.                                      54</l>
+                        <l n="01">   <note>Heller, Frank. <hi rend="italic">The Marriage of Yussuf Kahn </hi>(see earlier note).</note>18 <quote type="begin"/>The steamer's whistle tooted in its hoarse</l>
+                        <l n="02">      bass, drunkenlike tone.                                        54</l>
                         <l n="03">    26  2   bags,  a hat box &amp; some travelling cushions.  At</l>
                         <l n="04">      the moment, she was sitting sunk back in an</l>
                         <l n="05">      artistically assumed pose between 4 of the latter</l>
@@ -8185,7 +8209,7 @@
                         n="0112-verso"/>
                     <lg>
                         <l n="01">    <bibl rend="begin"/>Yale Review:   January  1924</l>
-                        <l n="02">      Story animals&#8211;Caroline Francis Richardson.<note> Richardson, Caroline Francis. "Story Animals." <hi rend="italic">Yale Review</hi> (January 1924):365-74.</note>   <bibl rend="end"/></l>
+                        <l n="02">      Story animals&#8211;Caroline Francis Richardson.<note>Richardson, Caroline Francis. "Story Animals." <hi rend="italic">Yale Review</hi> (January 1924):365-74.</note>   <bibl rend="end"/></l>
                         <l n="03"/>
                         <l n="04">    Golden Legend.   There was a lion <del>n</del>healed by St Jerome</l>
                         <l n="05">    that remained at the monastery to act as beast of</l>
@@ -8209,7 +8233,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0113-recto.jpeg"
                         n="0113-recto"/>
                     <lg>
-                        <l n="01"> <note> Richardson, Caroline Francis. "Story Animals" (see earlier note).</note> <quote type="begin"/>   wolf's side of the quarrel, (" . . . I wot   55</l>
+                        <l n="01"> <note>Richardson, Caroline Francis. "Story Animals" (see earlier note).</note> <quote type="begin"/>   wolf's side of the quarrel, (" . . . I wot   55</l>
                         <l n="02">   well that through hunger thou hast wrought</l>
                         <l n="03">   all this ill."   Then the wolf knelt him</l>
                         <l n="04">   down and bowed his head, and with gentle</l>
@@ -8222,7 +8246,7 @@
                         <l n="11"/>
                         <l n="12"> <bibl rend="begin"/>Teaching  of  Industrial Arts</l>
                         <l n="13">   Oscar L. McMurry; Geo. W Eggers,  Charles</l>
-                        <l n="14">  A  McMurry    Macmillan  1923<bibl rend="end"/>  <note> McMurry, Oscar L., George W. Eggers, and Charles A. McMurry. <hi rend="italic">Teaching of Industrial Arts in the Elementary School</hi>. The MacMillan Company, 1924.</note></l>
+                        <l n="14">  A  McMurry    Macmillan  1923<bibl rend="end"/>  <note>McMurry, Oscar L., George W. Eggers, and Charles A. McMurry. <hi rend="italic">Teaching of Industrial Arts in the Elementary School</hi>. The MacMillan Company, 1924.</note></l>
                         <l n="15"> <del>The  The</del>  Teaching of Industrial Arts</l>
                     </lg>
                 </div>
@@ -8233,13 +8257,13 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0114-verso.jpeg"
                         n="0114-verso"/>
                     <lg>
-                        <l n="01"> <note> McMurry, Oscar L., George W. Eggers, and Charles A. McMurry. <hi rend="italic">Teaching of Industrial Arts in the Elementary School</hi> (see earlier note).</note>  p. 63  <quote type="begin"/>Decoration contrasted w plain</l>
+                        <l n="01"> <note>McMurry, Oscar L., George W. Eggers, and Charles A. McMurry. <hi rend="italic">Teaching of Industrial Arts in the Elementary School</hi> (see earlier note).</note>  p. 63  <quote type="begin"/>Decoration contrasted w plain</l>
                         <l n="02">   areas may simplify appearance, emphasize</l>
                         <l n="03">   structure or function, become "inevitable" rich</l>
                         <l n="04">   precious.<quote type="end"/>   Bookpage 20th century C R. Ashbee</l>
                         <l n="05"/>
                         <l n="06"/>
-                        <l n="07"> <note> Ad for Lotus and Delta Shoes, made by Lotus Ltd. <hi rend="italic">Punch</hi> (November 21, 1923).</note> <bibl>Punch  Nov. 21  1923.  Adv't. Lotus &amp; Delta</bibl></l>
+                        <l n="07"> <note>Ad for Lotus and Delta Shoes, made by Lotus Ltd. <hi rend="italic">Punch</hi> (November 21, 1923).</note> <bibl>Punch  Nov. 21  1923.  Adv't. Lotus &amp; Delta</bibl></l>
                         <l n="08">  <quote type="begin"/>Shoes are a man's most pardonable vanity.   A man</l>
                         <l n="09">    would rather you thought his excellent neckties</l>
                         <l n="10">   and his remarkable socks were an accident</l>
@@ -8258,10 +8282,10 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0115-recto.jpeg"
                         n="0115-recto"/>
                     <lg>
-                        <l n="01"> <note> Ad for Lotus and Delta Shoes (see earlier note).</note>  <quote> For all men &amp; most occasions </quote>      56</l>
+                        <l n="01"> <note>Ad for Lotus and Delta Shoes (see earlier note).</note>  <quote> For all men &amp; most occasions </quote>      56</l>
                         <l n="02">                   drawings by</l>
                         <l n="03">  <bibl rend="begin"/>Nursery  Rhymes:   Leslie  Brooke</l>
-                        <l n="04">    F.  Warne  &amp; Co.  London<bibl rend="end"/>.<note> <hi rend="italic">Nursery Rhymes With Drawings by Leslie Brooke</hi>. London: Frederick Warne &amp; Co., 1916.</note></l>
+                        <l n="04">    F.  Warne  &amp; Co.  London<bibl rend="end"/>.<note><hi rend="italic">Nursery Rhymes With Drawings by Leslie Brooke</hi>. London: Frederick Warne &amp; Co., 1916.</note></l>
                         <l n="05"> </l>
                         <l n="06">  <seg type="begin" subtype="verse"/><quote type="begin"/>There was a frog lived in a well</l>
                         <l n="07">       Kitty alone, Kitty alone;</l>
@@ -8286,7 +8310,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0116-verso.jpeg"
                         n="0116-verso"/>
                     <lg>
-                        <l n="01"> <note><hi rend="italic">Nursery Rhymes With Drawings by Leslie Brooke</hi> (see earlier note).</note> <seg type="begin" subtype="verse"/><quote type="begin"/>   He rode till he came to my Lady Mouse hall</l>
+                        <l n="01">     <note><hi rend="italic">Nursery Rhymes With Drawings by Leslie Brooke</hi> (see earlier note).</note><seg type="begin" subtype="verse"/><quote type="begin"/>He rode till he came to my Lady Mouse hall</l>
                         <l n="02">      Kitty alone,  :</l>
                         <l n="03">   "        "     "      "      "     "     "        "</l>
                         <l n="04">   and there he did both knock &amp; call;</l>
@@ -8327,7 +8351,7 @@
                         <l n="12">        The lady&#8211;loves her will.<quote type="end"/><seg type="end" subtype="verse"/></l>
                         <l n="13"/>
                         <l n="14">   Best Poems of 1922     Thos. Moult  Harcourt</l>
-                        <l n="15">  Thomas Hardy<note> Hardy, Thomas [1840-1928]. English novelist and poet. MM reviewed some of his fiction and referred to him frequently in her essays.</note>: An Ancient to Ancients<bibl type="end"/><note>Hardy, Thomas. "An Ancient to Ancients." <hi rend="italic">The Best Poems of 1922.</hi> Ed. Thomas Moult. New York: Harcourt, 1923.</note></l>
+                        <l n="15">  Thomas Hardy<note>Hardy, Thomas [1840-1928]. English novelist and poet. MM reviewed some of his fiction and referred to him frequently in her essays.</note>: An Ancient to Ancients<bibl type="end"/><note>Hardy, Thomas. "An Ancient to Ancients." <hi rend="italic">The Best Poems of 1922.</hi> Ed. Thomas Moult. New York: Harcourt, 1923.</note></l>
                         <l n="16"> </l>
                         <l n="17">        seg type="begin" subtype="verse"/><quote type="begin"/>Where once we danced, where once we sang,</l>
                         <l n="18">             gentlemen</l>
