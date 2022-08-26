@@ -3932,7 +3932,8 @@
                 <zone xml:id="nb07_01_04_0096_verso_surface_line_17" lry="1805" lrx="2820"
                     uly="1755" ulx="150"/>
             </surface>
-            <surface xml:id="nb07_01_04_0097_surface"> </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0097_surface">
             <surface xml:id="nb07_01_04_0097_recto_surface">
                 <graphic
                     url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0097-recto.jpeg"
@@ -4228,7 +4229,8 @@
                 <zone xml:id="nb07_01_04_0103_recto_surface_line_17" lry="1760" lrx="2755"
                     uly="1675" ulx="100" rend="line"/>
             </surface>
-            <surface xml:id="nb07_01_04_0104_surface"> </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0104_surface">
             <surface xml:id="nb07_01_04_0104_verso_surface">
                 <graphic
                     url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0104-verso.jpeg"
@@ -4561,7 +4563,8 @@
                 <zone xml:id="nb07_01_04_0111_recto_surface_line_20" lry="1825" lrx="2835"
                     uly="1695" ulx="1095" rend="line"/>
             </surface>
-            <surface xml:id="nb07_01_04_0112_surface"> </surface>
+        </surface>
+        <surface xml:id="nb07_01_04_0112_surface">
             <surface xml:id="nb07_01_04_0112_verso_surface">
                 <graphic
                     url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0112-verso.jpeg"
@@ -5027,8 +5030,8 @@
                 <graphic
                     url="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0123-recto.jpeg"
                     width="2884px"/>
-                <zone xml:id="nb07_01_04_0123_recto_surface_line_01" lry="0" lrx="0" uly="0"
-                    ulx="0" rend="line"/>
+                <zone xml:id="nb07_01_04_0123_recto_surface_line_01" lry="0" lrx="0" uly="0" ulx="0"
+                    rend="line"/>
                 <zone xml:id="nb07_01_04_0123_recto_surface_line_02" lry="145" lrx="2825" uly="20"
                     ulx="80" rend="line"/>
                 <zone xml:id="nb07_01_04_0123_recto_surface_line_03" lry="245" lrx="2835" uly="155"
