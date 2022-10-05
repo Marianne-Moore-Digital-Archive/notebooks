@@ -5490,8 +5490,8 @@
                         <l n="04">Rev. by Mrs. Williams-Ellis<bibl rend="end"/><note><!-- type="glossary" -->Williams-Ellis, Amabel [1894-1984]. British author, editor, translator, and commentator on politics, culture, and women's lives, best known for editing several volumes of fairy tales and legends; literary editor of the <hi rend="italic">Spectator</hi> 1922-1923.</note><note><hi rend="underline">Georgian Poetry 1920-1922</hi>. Ed. Edward Marsh (Devonshire London: The Poetry Bookshop, 1922). Rev. by Amabel Williams-Ellis, <hi rend="underline">The Spectator</hi> December 1922.</note></l>
                         <l n="05">       Peter Quennell&#8211;see Public School Verse about 2 yrs ago</l>
                         <l n="06">  a poem about a sunflower begins                              Masques &amp; Poems</l>
-                        <l n="07">                     <seg type="begin" subtype="verse"/><quote type="begin"/>"See I have bent thee by thy saffron hair Golden Cockerel<note>MM quotes Sir Peter Courtney Quennell's "A Man to a Sunflower," published in <hi rend="underline">Masques and Poems</hi> (Golden Cockerel Press, 1922).</note></l>
-                        <l n="08">                   &#8211;Oh most strange masker&#8211;"<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="07" rend="verse">                     <quote type="begin"/>"See I have bent thee by thy saffron hair Golden Cockerel<note>MM quotes Sir Peter Courtney Quennell's "A Man to a Sunflower," published in <hi rend="underline">Masques and Poems</hi> (Golden Cockerel Press, 1922).</note></l>
+                        <l n="08" rend="verse">                   &#8211;Oh most strange masker&#8211;"<quote type="end"/></l>
                         <l n="09"> </l>
                         <l n="10"> <bibl rend="begin"/>Estelle Ross.<note><!-- type="glossary" -->Ross, Estelle <!-- NW: What is the format for unknown birth and death dates? Is this correct? See page 59 for a variant example. --> [?-?]. Author of juvenile works, folklore, biographies, and history.</note>  Century&#8211;Book of noble dogs.<note>Ross, Estelle. <hi rend="underline">The Book of Noble Dogs</hi>. (NY:
                             The Century Company, 1922). MM refers to this book on the first page of
@@ -5624,22 +5624,22 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0016-verso.jpg"
                         n="0016-verso"/>
                     <lg>
-                        <l n="01">   <bibl rend="begin"/>Punch  Feb  21  1923<bibl rend="end"/>                    <seg type="begin" subtype="verse"/><quote type="begin"/>An' they stirred</l>
-                        <l n="02">         The Little Young Lambs<note><!-- type="glossary" -->Chalmers, Patrick R. "The Little Young Lambs." February 1923. Chalmers was an Irish poet, writer, and banker [1872-1942].</note>           When they heard</l>
-                        <l n="03">    In the fold                                   Did the little young lambs</l>
-                        <l n="04">    On the wold                                  Then they hopped, most absurd,</l>
-                        <l n="05"> There were little young lambs           From a-lee of their dams,</l>
-                        <l n="06"> <del>A</del> An' the wind blew so cold             An' they jumped &amp; they skipped</l>
-                        <l n="07"> They laid lees o' their dams,          With tip-toppetty skips,</l>
-                        <l n="08">     An' a shepherd old man                  As the little tune tripped</l>
-                        <l n="09"> He leaned over the cotes,                 From the reed at the lifs,</l>
-                        <l n="10"> An' a lilt he began                         of the crinkled old man o' the wold,</l>
-                        <l n="11"> With a flutter of motes,                As he piped 'em a merry downderry,</l>
-                        <l n="12">                                                               he did,</l>
-                        <l n="13">The little young lambs all among;              Since he was so old.</l>
-                        <l n="14">Oh, he piped 'em a derry downderry,</l>
-                        <l n="15">              he did,</l>
-                        <l n="16">   Since they were so young. <seg type="end" subtype="verse"/><quote type="end"/>                        <bibl type="begin"/>Punch Mar 14<bibl type="end"/>. <quote type="begin"/>Dear old</l>
+                        <l n="01" rend="verse">   <bibl rend="begin"/>Punch  Feb  21  1923<bibl rend="end"/>                    <quote type="begin"/>An' they stirred</l>
+                        <l n="02" rend="verse">         The Little Young Lambs<note><!-- type="glossary" -->Chalmers, Patrick R. "The Little Young Lambs." February 1923. Chalmers was an Irish poet, writer, and banker [1872-1942].</note>           When they heard</l>
+                        <l n="03" rend="verse">    In the fold                                   Did the little young lambs</l>
+                        <l n="04" rend="verse">    On the wold                                  Then they hopped, most absurd,</l>
+                        <l n="05" rend="verse"> There were little young lambs           From a-lee of their dams,</l>
+                        <l n="06" rend="verse"> <del>A</del> An' the wind blew so cold             An' they jumped &amp; they skipped</l>
+                        <l n="07" rend="verse"> They laid lees o' their dams,          With tip-toppetty skips,</l>
+                        <l n="08" rend="verse">     An' a shepherd old man                  As the little tune tripped</l>
+                        <l n="09" rend="verse"> He leaned over the cotes,                 From the reed at the lifs,</l>
+                        <l n="10" rend="verse"> An' a lilt he began                         of the crinkled old man o' the wold,</l>
+                        <l n="11" rend="verse"> With a flutter of motes,                As he piped 'em a merry downderry,</l>
+                        <l n="12" rend="verse">                                                               he did,</l>
+                        <l n="13" rend="verse">The little young lambs all among;              Since he was so old.</l>
+                        <l n="14" rend="verse">Oh, he piped 'em a derry downderry,</l>
+                        <l n="15" rend="verse">              he did,</l>
+                        <l n="16" rend="verse">   Since they were so young. <quote type="end"/>                        <bibl type="begin"/>Punch Mar 14<bibl type="end"/>. <quote type="begin"/>Dear old</l>
                         <l n="17">                                                                 lady buying cigars: It's a</l>
                         <l n="18">                                                             perfectly charming box &amp; would</l>
                         <l n="19">                                                             they be turkish or Virginian.<quote type="end"/></l>
@@ -5654,21 +5654,21 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0017-recto.jpg"
                         n="0017-recto"/>
                     <lg>
-                        <l n="01">      <seg type="begin" subtype="verse"/><quote type="begin"/>For he blew<note>Chalmers, Patrick R. "The Little Young Lambs" (see earlier note).</note></l>
-                        <l n="02">      That he knew                                 <bibl>Spectator Dec 30 1922  7</bibl></l>
-                        <l n="03">  Why the seasons went round</l>
-                        <l n="04">        An' why green the wheat grew       <bibl type="begin"/>Terminology: Edgell Rickword<bibl type="end"/><note>Rickword, Edgell. "Terminology" was the first poem in Rickword's Invocation to Angels and The Happy New Year (London: Wishart, 1928).</note><note><!-- type="glossary" NW: This note icon displays on a second line, not sure why. -->Rickword.Edgell [1898-1982]. English poet, critic, journalist, who became a leading Communist intellectual during the 1930s.</note></l>
-                        <l n="05">       To his pipes' pretty sound</l>
-                        <l n="06">          An' why rain follows sun,            The curious elephants,</l>
-                        <l n="07">       An' how sun follows rain,                        like women grown</l>
-                        <l n="08">            An' how everything's done           Too gentle in a habit not their</l>
-                        <l n="09">       To be started again,                                                         own,</l>
-                        <l n="10"> Till the stars like ripe acorns shall fall; And all fierce lives</l>
-                        <l n="11">An' he piped 'em his derry down derry,          Subdued to what they seem,</l>
-                        <l n="12">               he did,                               Shed their coarse husks</l>
-                        <l n="13">             Along of it all.                                 &amp; naked in Time's stream</l>
-                        <l n="14">                                                       Stand up unsullied out of</l>
-                        <l n="15">                                                                       the Sun's beam.<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="01" rend="verse">      <quote type="begin"/>For he blew<note>Chalmers, Patrick R. "The Little Young Lambs" (see earlier note).</note></l>
+                        <l n="02" rend="verse">      That he knew                                 <bibl>Spectator Dec 30 1922  7</bibl></l>
+                        <l n="03" rend="verse">  Why the seasons went round</l>
+                        <l n="04" rend="verse">        An' why green the wheat grew       <bibl type="begin"/>Terminology: Edgell Rickword<bibl type="end"/><note>Rickword, Edgell. "Terminology" was the first poem in Rickword's Invocation to Angels and The Happy New Year (London: Wishart, 1928).</note><note><!-- type="glossary" NW: This note icon displays on a second line, not sure why. -->Rickword.Edgell [1898-1982]. English poet, critic, journalist, who became a leading Communist intellectual during the 1930s.</note></l>
+                        <l n="05" rend="verse">       To his pipes' pretty sound</l>
+                        <l n="06" rend="verse">          An' why rain follows sun,            The curious elephants,</l>
+                        <l n="07" rend="verse">       An' how sun follows rain,                        like women grown</l>
+                        <l n="08" rend="verse">            An' how everything's done           Too gentle in a habit not their</l>
+                        <l n="09" rend="verse">       To be started again,                                                         own,</l>
+                        <l n="10" rend="verse"> Till the stars like ripe acorns shall fall; And all fierce lives</l>
+                        <l n="11" rend="verse">An' he piped 'em his derry down derry,          Subdued to what they seem,</l>
+                        <l n="12" rend="verse">               he did,                               Shed their coarse husks</l>
+                        <l n="13" rend="verse">             Along of it all.                                 &amp; naked in Time's stream</l>
+                        <l n="14" rend="verse">                                                       Stand up unsullied out of</l>
+                        <l n="15" rend="verse">                                                                       the Sun's beam.<quote type="end"/></l>
                         <l n="16">                                      see Promenade Sentimentale<note><!-- type="glossary" -->Perhaps a poem by Paul Verlaine [1844-1896], French poet associated with the Symbolist and Decadent movements. "Promenade sentimentale" appears in Verlaine's first book, <hi rend="italic">Poèmes saturniens</hi> (1866). Several paintings and a piece by Claude Debussy [1862-1918] also take this title.</note> Dec 30</l>
                     </lg>
                 </div>
@@ -5682,9 +5682,9 @@
                     <lg>
                         <l n="01"> <bibl type="begin"/>Jan 20    1922    Spectator     Robert  Risk<bibl type="end"/></l>
                         <l n="02"><quote type="begin"/>     She might just as well have written</l>
-                        <l n="03">                 <seg type="begin" subtype="verse"/>The small flowers grew to be a hairy husk</l>
-                        <l n="04">                 That holds Eternity (in its tusk)</l>
-                        <l n="05">                                                 for musk.<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="03" rend="verse">                 The small flowers grew to be a hairy husk</l>
+                        <l n="04" rend="verse">                 That holds Eternity (in its tusk)</l>
+                        <l n="05" rend="verse">                                                 for musk.<quote type="end"/></l>
                         <l n="06"> <bibl type="begin"/>Lit. Digest International Book Rev.        Feb 1923</l>
                         <l n="07"> Certain literary sins of Theodore Dreiser.    R LeGallienne<bibl type="end"/><note>Le Gallienne, Richard. "Certain Literary Sins of Theodore Dreiser." <hi rend="italic">Literary Digest International Book Review</hi> 1 (February 1923): 10–11, 70–71.</note></l>
                         <l n="08"> <quote type="begin"/><del>(But for Mr. <hi rend="underline">Sumner</hi></del>) without his aid: (<hi rend="underline">Sumner's</hi>) Mr Cabell</l>
@@ -5844,20 +5844,20 @@
                         <l n="02"> an anthology . . .    Published by Basil Blackwell</l>
                         <l n="03">  Oxford.<note>King, Edith. "Useful Things." <hi rend="italic">50 New Poems for Children Selected from Books Recently Published by Basil Blackwell</hi>. Ed. Basil Blackwell. (Oxford University Press, 1922) 32-33.</note></l>
                         <l n="04"> Edith King<note><!-- type="glossary" -->King, Edith [1871-1962]. Poet born in South Africa, lived primarily in England.</note>&#8211;<hi rend="underline">Useful things</hi>     p. 33<bibl type="end"/></l>
-                        <l n="05">        <seg type="begin" subtype="verse"/><quote type="begin"/>I'd like so very much to have</l>
-                        <l n="06">         Some of the useful things</l>
-                        <l n="07">         That lucky birds &amp; beasts have got,</l>
-                        <l n="08">         And first of all their wings;</l>
-                        <l n="09"> </l>
-                        <l n="10">         For then into the apple-tree</l>
-                        <l n="11">          I should not need to climb,</l>
-                        <l n="12">          And graze my legs &amp; tear my frock,</l>
-                        <l n="13">          In getting down each time.</l>
-                        <l n="14"> </l>
-                        <l n="15">         Then when the flies are troublesome</l>
-                        <l n="16">          I'd like to have a tail,</l>
-                        <l n="17">          And when I'm battling with the wasps</l>
-                        <l n="18">           The beetle's coat of mail.<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="05" rend="verse">        <quote type="begin"/>I'd like so very much to have</l>
+                        <l n="06" rend="verse">         Some of the useful things</l>
+                        <l n="07" rend="verse">         That lucky birds &amp; beasts have got,</l>
+                        <l n="08" rend="verse">         And first of all their wings;</l>
+                        <l n="09" rend="verse"> </l>
+                        <l n="10" rend="verse">         For then into the apple-tree</l>
+                        <l n="11" rend="verse">          I should not need to climb,</l>
+                        <l n="12" rend="verse">          And graze my legs &amp; tear my frock,</l>
+                        <l n="13" rend="verse">          In getting down each time.</l>
+                        <l n="14" rend="verse"> </l>
+                        <l n="15" rend="verse">         Then when the flies are troublesome</l>
+                        <l n="16" rend="verse">          I'd like to have a tail,</l>
+                        <l n="17" rend="verse">          And when I'm battling with the wasps</l>
+                        <l n="18" rend="verse">           The beetle's coat of mail.<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -5867,25 +5867,25 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0025-recto.jpg"
                         n="0025-recto"/>
                     <lg>
-                        <l n="01">        <note>King, Edith. "Useful Things" (see previous note).</note><seg type="begin" subtype="verse"/><quote type="begin"/>When I am bathing in the sea</l>
-                        <l n="02">        And find it hard to float,                          11</l>
-                        <l n="03">         I'd like to borrow from the duck</l>
-                        <l n="04">         Her web &amp; oily coat.</l>
+                        <l n="01" rend="verse">        <note>King, Edith. "Useful Things" (see previous note).</note><quote type="begin"/>When I am bathing in the sea</l>
+                        <l n="02" rend="verse">        And find it hard to float,                          11</l>
+                        <l n="03" rend="verse">         I'd like to borrow from the duck</l>
+                        <l n="04" rend="verse">         Her web &amp; oily coat.</l>
                         <l n="05"/>
-                        <l n="06">         For thus provided I could live</l>
-                        <l n="07">         On land in air or sea</l>
-                        <l n="08">         And fly and flap &amp; fight &amp; float,</l>
-                        <l n="09">            Just as it suited me.<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="06" rend="verse">         For thus provided I could live</l>
+                        <l n="07" rend="verse">         On land in air or sea</l>
+                        <l n="08" rend="verse">         And fly and flap &amp; fight &amp; float,</l>
+                        <l n="09" rend="verse">            Just as it suited me.<quote type="end"/></l>
                         <l n="10"><bibl type="begin"/>May 2<del>1</del>7. 1923  Punch.  25 April 1923</l>
                         <l n="11"> Mediaeval<bibl type="end"/><note>"Mediæval." Punch (25 April 1923). MM cites this poem in the notes to "Sea Unicorns And Land Unicorns," first published in Observations. New York: The Dial Press, 1924: 91-93.</note></l>
-                        <l n="12">                <seg type="begin" subtype="verse"/><quote type="begin"/>In forest fair, a forest rare</l>
-                        <l n="13">         And of an age remote</l>
-                        <l n="14">         A unicorn did walk one morn,</l>
-                        <l n="15">         Yclad in moonbeam coat,<note>MM changes the words "moonbeam coat" to "moonbeam throat" in "Sea Unicorns And Land Unicorns."</note></l>
-                        <l n="16">         As white as way he walked that day</l>
-                        <l n="17">             of mediaeval spring</l>
-                        <l n="18">         And heralds 3 ran out to see</l>
-                        <l n="19">         The fair heraldic thing.<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="12" rend="verse">                <quote type="begin"/>In forest fair, a forest rare</l>
+                        <l n="13" rend="verse">         And of an age remote</l>
+                        <l n="14" rend="verse">         A unicorn did walk one morn,</l>
+                        <l n="15" rend="verse">         Yclad in moonbeam coat,<note>MM changes the words "moonbeam coat" to "moonbeam throat" in "Sea Unicorns And Land Unicorns."</note></l>
+                        <l n="16" rend="verse">         As white as way he walked that day</l>
+                        <l n="17" rend="verse">             of mediaeval spring</l>
+                        <l n="18" rend="verse">         And heralds 3 ran out to see</l>
+                        <l n="19" rend="verse">         The fair heraldic thing.<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -5895,17 +5895,17 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0026-verso.jpg"
                         n="0026-verso"/>
                     <lg>
-                        <l n="01">          <seg type="begin" subtype="verse"/><quote type="begin"/>In tabards trim they followed him,</l>
-                        <l n="02">           Through jocund groves &amp; green,</l>
-                        <l n="03">               " "</l>
-                        <l n="04">           For sum, they prayed Marcelle to aid;</l>
-                        <l n="05">           She crossed the <hi rend="underline">fleurs de leys</hi>;</l>
-                        <l n="06">           She sat &amp; sang as sweet of tongue</l>
-                        <l n="07">               As ever merle on tree.</l>
-                        <l n="08">          Through flower &amp; thorn Sir Unicorn</l>
-                        <l n="09">                  With pavon high drew nigh,</l>
-                        <l n="10">               Till magic hop upon her lap</l>
-                        <l n="11">            His mild wild head doth lie<quote type="end"/><seg type="end" subtype="verse"/>. . . . . &#8211;etc<note>MM quotes from the previous two lines and this line in "Sea Unicorns And Land Unicorns," acknowledging the quotation imprecisely in her notes.</note></l>
+                        <l n="01" rend="verse">          <quote type="begin"/>In tabards trim they followed him,</l>
+                        <l n="02" rend="verse">           Through jocund groves &amp; green,</l>
+                        <l n="03" rend="verse">               " "</l>
+                        <l n="04" rend="verse">           For sum, they prayed Marcelle to aid;</l>
+                        <l n="05" rend="verse">           She crossed the <hi rend="underline">fleurs de leys</hi>;</l>
+                        <l n="06" rend="verse">           She sat &amp; sang as sweet of tongue</l>
+                        <l n="07" rend="verse">               As ever merle on tree.</l>
+                        <l n="08" rend="verse">          Through flower &amp; thorn Sir Unicorn</l>
+                        <l n="09" rend="verse">                  With pavon high drew nigh,</l>
+                        <l n="10" rend="verse">               Till magic hop upon her lap</l>
+                        <l n="11" rend="verse">            His mild wild head doth lie<quote type="end"/>. . . . . &#8211;etc<note>MM quotes from the previous two lines and this line in "Sea Unicorns And Land Unicorns," acknowledging the quotation imprecisely in her notes.</note></l>
                         <l n="12"/>
                         <l n="13">  <bibl type="begin"/>L. Ill News,         April 21     1923</l>
                         <l n="14"> Hunting without rifle         African animals at home.<bibl type="end"/><note>Dugmore, Arthur Radclyffe. "Hunting Without Rifle: African Animals at Home Filmed For The 'Wonderland' of Big Game." Illustrated London News (21 April 1923):630-631.</note></l>
@@ -6181,9 +6181,9 @@
                         <l n="13">   <del>Fancy.</del>  Fancy.   Drayton's  Nymphidia:</l>
                         <l n="14"> </l>
                         <l n="15">    (The fairy made)</l>
-                        <l n="16">            <seg type="begin" subtype="verse"/>The windows of the eyes of cats:</l>
-                        <l n="17">            And for the roof, insted of slats</l>
-                        <l n="18">            Is covered w the wings of of bats<seg type="end" subtype="verse"/><quote type="end"/></l>
+                        <l n="16" rend="verse">            The windows of the eyes of cats:</l>
+                        <l n="17" rend="verse">            And for the roof, insted of slats</l>
+                        <l n="18" rend="verse">            Is covered w the wings of of bats<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -6194,18 +6194,18 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0037-recto.jpg"
                         n="0037-recto"/>
                     <lg>
-                        <l n="01"> <note>Hunt, Leigh. <hi rend="italic">An Answer To The Question 'What Is Poetry?'</hi> (see earlier note).</note><gap extent="2"/>                 <seg type="begin" subtype="verse"/><quote type="begin"/>with moonshine that are gilded.</l>
-                        <l n="02">                                                                                                           17</l>
-                        <l n="03">       Here also is a fairy bed</l>
+                        <l n="01" rend="verse"> <note>Hunt, Leigh. <hi rend="italic">An Answer To The Question 'What Is Poetry?'</hi> (see earlier note).</note><gap extent="2"/>                 <quote type="begin"/>with moonshine that are gilded.</l>
+                        <l n="02" rend="verse">                                                                                                           17</l>
+                        <l n="03" rend="verse">       Here also is a fairy bed</l>
                         <l n="04"/>
-                        <l n="05">            Of leaves of roses  white and red.</l>
-                        <l n="06">            Shall be the covering of her bed;</l>
-                        <l n="07">            The curtains, vallens, tester all</l>
-                        <l n="08">            Shall be the flower imperial;</l>
-                        <l n="09">            And for the fringe, it all along</l>
-                        <l n="10">            With azure harebells shall be hung.</l>
-                        <l n="11">            Of lillies shall the pillows be,</l>
-                        <l n="12">            With down stuft of the butterfly.<seg type="end" subtype="verse"/></l>
+                        <l n="05" rend="verse">            Of leaves of roses  white and red.</l>
+                        <l n="06" rend="verse">            Shall be the covering of her bed;</l>
+                        <l n="07" rend="verse">            The curtains, vallens, tester all</l>
+                        <l n="08" rend="verse">            Shall be the flower imperial;</l>
+                        <l n="09" rend="verse">            And for the fringe, it all along</l>
+                        <l n="10" rend="verse">            With azure harebells shall be hung.</l>
+                        <l n="11" rend="verse">            Of lillies shall the pillows be,</l>
+                        <l n="12" rend="verse">            With down stuft of the butterfly.</l>
                         <l n="13"/>
                         <l n="14">      Inversion turned into a grace ... using it only</l>
                         <l n="15">       w a classical air               Dryden    The Hind &amp;  the Panther</l>
@@ -6220,16 +6220,16 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0038-verso.jpg"
                         n="0038-verso"/>
                     <lg>
-                        <l n="01">          <seg type="begin" subtype="verse"/><quote type="begin"/><note>Hunt, Leigh. <hi rend="italic">An Answer To The Question 'What Is Poetry?'</hi> (see earlier note).</note>That he should raise his mitred crest on high,</l>
-                        <l n="02">       And clap his wings &amp; call his family</l>
-                        <l n="03">       To sacred rites; &amp; vex the ethereal powers</l>
-                        <l n="04">       W midnight matins at uncivil hours;</l>
-                        <l n="05">       Nay more, his quiet neighbors should molest</l>
-                        <l n="06">       Just in the sweetness of their morning rest.</l>
-                        <l n="07">       Beast of a bird!  supinely when he might</l>
-                        <l n="08">       Lie smug <del>in bed</del> and sleep, to rise before the light!</l>
-                        <l n="09">       What if his dull forefathers used that cry?</l>
-                        <l n="10">        Could he not let a bad example die?<seg type="end" subtype="verse"/></l>
+                        <l n="01" rend="verse">          <quote type="begin"/><note>Hunt, Leigh. <hi rend="italic">An Answer To The Question 'What Is Poetry?'</hi> (see earlier note).</note>That he should raise his mitred crest on high,</l>
+                        <l n="02" rend="verse">       And clap his wings &amp; call his family</l>
+                        <l n="03" rend="verse">       To sacred rites; &amp; vex the ethereal powers</l>
+                        <l n="04" rend="verse">       W midnight matins at uncivil hours;</l>
+                        <l n="05" rend="verse">       Nay more, his quiet neighbors should molest</l>
+                        <l n="06" rend="verse">       Just in the sweetness of their morning rest.</l>
+                        <l n="07" rend="verse">       Beast of a bird!  supinely when he might</l>
+                        <l n="08" rend="verse">       Lie smug <del>in bed</del> and sleep, to rise before the light!</l>
+                        <l n="09" rend="verse">       What if his dull forefathers used that cry?</l>
+                        <l n="10" rend="verse">        Could he not let a bad example die?</l>
                         <l n="11"/>
                         <l n="12">    61.  as to Rime, wh might be thought too</l>
                         <l n="13">      insignificant to mention, it is not at all so. . . .</l>
@@ -6407,23 +6407,23 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0045-recto.jpg"
                         n="0045-recto"/>
                     <lg>
-                        <l n="01">  <note>Ridgway, Gertrude M. "The Book Table" (see earlier note).</note><seg type="begin" subtype="verse"/><quote type="begin"/>To draw no envy (Shakspeare) on thy name</l>
-                        <l n="02">  Am I thus ample to thy <del>b</del>Book, and Fame;                  21</l>
-                        <l n="03">   While I confess thy writings to be such,</l>
-                        <l n="04">  &#8211;As nether Man, nor Muse, can praise too much.</l>
-                        <l n="05">  Tis true, and all mens suffrage.  But these wayes,</l>
-                        <l n="06">    Were not the paths I meant unto thy praise;</l>
-                        <l n="07">    For silliest ignorance on these may light,</l>
-                        <l n="08">    Which, when it sounds at best, but echoes right;</l>
-                        <l n="09">    Or blind Affection, which doth ne're advance</l>
-                        <l n="10">      The truth but gropes and urgeth all by chance;</l>
-                        <l n="11">    Or crafty Malice, might pretend this praise,</l>
-                        <l n="12">      And thinke to ruine, where it seemed to raise.</l>
-                        <l n="13">    These are, as some infamous Bawd or whore</l>
-                        <l n="14">      Should praise a Matron: what could hurt her more?</l>
-                        <l n="15">    But thou art proofe against them, and indeed</l>
-                        <l n="16">      Above th' ill fortune if them, or the need.</l>
-                        <l n="17">     I therefore will begin.   Soule of the Age!<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="01" rend="verse">  <note>Ridgway, Gertrude M. "The Book Table" (see earlier note).</note><quote type="begin"/>To draw no envy (Shakspeare) on thy name</l>
+                        <l n="02" rend="verse">  Am I thus ample to thy <del>b</del>Book, and Fame;                  21</l>
+                        <l n="03" rend="verse">   While I confess thy writings to be such,</l>
+                        <l n="04" rend="verse">  &#8211;As nether Man, nor Muse, can praise too much.</l>
+                        <l n="05" rend="verse">  Tis true, and all mens suffrage.  But these wayes,</l>
+                        <l n="06" rend="verse">    Were not the paths I meant unto thy praise;</l>
+                        <l n="07" rend="verse">    For silliest ignorance on these may light,</l>
+                        <l n="08" rend="verse">    Which, when it sounds at best, but echoes right;</l>
+                        <l n="09" rend="verse">    Or blind Affection, which doth ne're advance</l>
+                        <l n="10" rend="verse">      The truth but gropes and urgeth all by chance;</l>
+                        <l n="11" rend="verse">    Or crafty Malice, might pretend this praise,</l>
+                        <l n="12" rend="verse">      And thinke to ruine, where it seemed to raise.</l>
+                        <l n="13" rend="verse">    These are, as some infamous Bawd or whore</l>
+                        <l n="14" rend="verse">      Should praise a Matron: what could hurt her more?</l>
+                        <l n="15" rend="verse">    But thou art proofe against them, and indeed</l>
+                        <l n="16" rend="verse">      Above th' ill fortune if them, or the need.</l>
+                        <l n="17" rend="verse">     I therefore will begin.   Soule of the Age!<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -6433,22 +6433,22 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0046-verso.jpg"
                         n="0046-verso"/>
                     <lg>
-                        <l n="01"> <note>Ridgway, Gertrude M. "The Book Table" (see earlier note).</note><seg type="begin" subtype="verse"/><quote type="begin"/>The applause! delight!  the wonder of our Stage!</l>
-                        <l n="02"> My Shakespeare rise; I will not lodge thee by</l>
-                        <l n="03">   Chaucer or Spenser or bid Beaumont lye</l>
-                        <l n="04"> A little further, to make thee a roome:</l>
-                        <l n="05">   And tell, how farre thou didst our Lily outshine</l>
-                        <l n="06">    Thou art a Moniment without a tombe,</l>
-                        <l n="07">  And art alive still, while thy Booke doth live;</l>
-                        <l n="08">      And we have wits to read and praise to give.</l>
-                        <l n="09"> That I not mixe thee so, my braine excuses,</l>
-                        <l n="10">     I meane with great, but disproportion'd Muses;</l>
-                        <l n="11"> For, if I thought my judgement were of yeares,</l>
-                        <l n="12">     I should commit thee surely with thy peeres,</l>
-                        <l n="13">     Or sporting Kid or Marlowes mighty line.</l>
-                        <l n="14"> And though thou hadst Small Latine, and lesse Greeke,</l>
-                        <l n="15">     From thence to honour thee, I would not seeke</l>
-                        <l n="16"> For names; but call forth thundering Aeschylus,<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="01" rend="verse"> <note>Ridgway, Gertrude M. "The Book Table" (see earlier note).</note><quote type="begin"/>The applause! delight!  the wonder of our Stage!</l>
+                        <l n="02" rend="verse"> My Shakespeare rise; I will not lodge thee by</l>
+                        <l n="03" rend="verse">   Chaucer or Spenser or bid Beaumont lye</l>
+                        <l n="04" rend="verse"> A little further, to make thee a roome:</l>
+                        <l n="05" rend="verse">   And tell, how farre thou didst our Lily outshine</l>
+                        <l n="06" rend="verse">    Thou art a Moniment without a tombe,</l>
+                        <l n="07" rend="verse">  And art alive still, while thy Booke doth live;</l>
+                        <l n="08" rend="verse">      And we have wits to read and praise to give.</l>
+                        <l n="09" rend="verse"> That I not mixe thee so, my braine excuses,</l>
+                        <l n="10" rend="verse">     I meane with great, but disproportion'd Muses;</l>
+                        <l n="11" rend="verse"> For, if I thought my judgement were of yeares,</l>
+                        <l n="12" rend="verse">     I should commit thee surely with thy peeres,</l>
+                        <l n="13" rend="verse">     Or sporting Kid or Marlowes mighty line.</l>
+                        <l n="14" rend="verse"> And though thou hadst Small Latine, and lesse Greeke,</l>
+                        <l n="15" rend="verse">     From thence to honour thee, I would not seeke</l>
+                        <l n="16" rend="verse"> For names; but call forth thundering Aeschylus,<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -6459,12 +6459,12 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0047-recto.jpg"
                         n="0047-recto"/>
                     <lg>
-                        <l n="01">     <note>Ridgway, Gertrude M. "The Book Table" (see earlier note).<seg type="begin" subtype="verse"/><quote type="begin"/></note>Euripides <del>&amp;</del> Sophocles to us,</l>
-                        <l n="02">       and</l>
-                        <l n="03">   Paccuuius; Accius, him of Cordova dead,              22</l>
-                        <l n="04">      To life againe,   to hear thy Buskin tread,</l>
-                        <l n="05">   And shake a stage; or, when thy sockes were on</l>
-                        <l n="06">      Leave thee alone, for the comparison.<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="01" rend="verse">     <note>Ridgway, Gertrude M. "The Book Table" (see earlier note).<quote type="begin"/></note>Euripides <del>&amp;</del> Sophocles to us,</l>
+                        <l n="02" rend="verse">       and</l>
+                        <l n="03" rend="verse">   Paccuuius; Accius, him of Cordova dead,              22</l>
+                        <l n="04" rend="verse">      To life againe,   to hear thy Buskin tread,</l>
+                        <l n="05" rend="verse">   And shake a stage; or, when thy sockes were on</l>
+                        <l n="06" rend="verse">      Leave thee alone, for the comparison.<quote type="end"/></l>
                         <l n="07">                                    1924</l>
                         <l n="08"><bibl type="begin"/>Outlook   13 June.   Gov.  Smith Burns his</l>
                         <l n="09">   Bridges.<note>"Governor Smith Burns His Bridges." <hi rend="italic">The Outlook</hi> 134 (13 June 1923): 164.</note><bibl type="end"/>     <quote type="begin"/>N. Y. is apt to think of itself as</l>
@@ -6492,17 +6492,17 @@
                         <l n="03">  Cross Road W.C. 1906<bibl type="end"/><note>Traherne, Thomas. <hi rend="italic">The Poetical Works of Thomas Traherne: 1936?-1974 From The Original Manuscripts</hi>. Edited by Bertram Dobell. London: Bertram Dobell, 1906.</note></l>
                         <l n="04"/>
                         <l n="05"> <quote type="begin"/>The Salutation&#8211;     2  IV     (Joys)</l>
-                        <l n="06">      <seg type="begin" subtype="verse"/>Their organised joints and azure reins</l>
-                        <l n="07">      More wealth include than all the world contains.</l>
+                        <l n="06" rend="verse">      Their organised joints and azure reins</l>
+                        <l n="07" rend="verse">      More wealth include than all the world contains.</l>
                         <l n="08"/>
-                        <l n="09">  Eden:  8      II</l>
-                        <l n="10">    I knew not that there was a serpent's sting,</l>
-                        <l n="11">          Whose poison shed</l>
-                        <l n="12">      On men, did overspread</l>
-                        <l n="13">   The world; nor did I dream of such a thing</l>
-                        <l n="14">      as sin, in which mankind lay dead.</l>
-                        <l n="15">   They all were brisk and living wights to me,</l>
-                        <l n="16">   Yea, pure and full of immortality.<seg type="end" subtype="verse"/><quote type="end"/></l>
+                        <l n="09" rend="verse">  Eden:  8      II</l>
+                        <l n="10" rend="verse">    I knew not that there was a serpent's sting,</l>
+                        <l n="11" rend="verse">          Whose poison shed</l>
+                        <l n="12" rend="verse">      On men, did overspread</l>
+                        <l n="13" rend="verse">   The world; nor did I dream of such a thing</l>
+                        <l n="14" rend="verse">      as sin, in which mankind lay dead.</l>
+                        <l n="15" rend="verse">   They all were brisk and living wights to me,</l>
+                        <l n="16" rend="verse">   Yea, pure and full of immortality.<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -6514,22 +6514,22 @@
                         n="0049-recto"/>
                     <lg>
                         <l n="01"><note>Traherne, Thomas. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><quote type="begin"/>The Preparative    12        V                                 23</l>
-                        <l n="02">    <seg type="begin" subtype="verse"/>Being thus prepared for all felicity</l>
-                        <l n="03">        Not prepossest with dross,</l>
-                        <l n="04">        Nor stiffy glued to gross</l>
-                        <l n="05">     And dull materials that might ruin me,</l>
-                        <l n="06">                    __________</l>
-                        <l n="07">                         VI</l>
-                        <l n="08">     Pure empty powers that did nothing loath,</l>
-                        <l n="09">        Did like the fairest glass,</l>
-                        <l n="10">        Or spotless polished brass,</l>
-                        <l n="11">      Themselves soon in their object's image clothe.</l>
-                        <l n="12"> </l>
-                        <l n="13"> The improvement     30    XIII</l>
-                        <l n="14">         That was enough at first: eternity</l>
-                        <l n="15">         Infinity and love were silent joys.</l>
-                        <l n="16">         Power, wisdom, goodness and felicity,</l>
-                        <l n="17">          . . . . . . . . . .   <seg type="end" subtype="verse"/><quote type="end"/></l>
+                        <l n="02" rend="verse">    Being thus prepared for all felicity</l>
+                        <l n="03" rend="verse">        Not prepossest with dross,</l>
+                        <l n="04" rend="verse">        Nor stiffy glued to gross</l>
+                        <l n="05" rend="verse">     And dull materials that might ruin me,</l>
+                        <l n="06" rend="verse">                    __________</l>
+                        <l n="07" rend="verse">                         VI</l>
+                        <l n="08" rend="verse">     Pure empty powers that did nothing loath,</l>
+                        <l n="09" rend="verse">        Did like the fairest glass,</l>
+                        <l n="10" rend="verse">        Or spotless polished brass,</l>
+                        <l n="11" rend="verse">      Themselves soon in their object's image clothe.</l>
+                        <l n="12" rend="verse"> </l>
+                        <l n="13" rend="verse"> The improvement     30    XIII</l>
+                        <l n="14" rend="verse">         That was enough at first: eternity</l>
+                        <l n="15" rend="verse">         Infinity and love were silent joys.</l>
+                        <l n="16" rend="verse">         Power, wisdom, goodness and felicity,</l>
+                        <l n="17" rend="verse">          . . . . . . . . . .   <quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -6540,19 +6540,19 @@
                         n="0050-verso"/>
                     <lg>
                         <l n="01">       <note>Traherne, Thomas. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note> <quote type="begin"/>XIV</l>
-                        <l n="02"> <seg type="begin" subtype="verse"/>As sponges gather moisture from the earth</l>
-                        <l n="03">  Whereon there is scarce any sign of dew;</l>
-                        <l n="04">  As air infecteth salt: so at my birth</l>
-                        <l n="05">  All these were unperceiv'd, yet near and true;</l>
-                        <l n="06">         Not by reflexion and distinctly known,</l>
-                        <l n="07">         But by their efficacy all mine own.</l>
+                        <l n="02" rend="verse"> As sponges gather moisture from the earth</l>
+                        <l n="03" rend="verse">  Whereon there is scarce any sign of dew;</l>
+                        <l n="04" rend="verse">  As air infecteth salt: so at my birth</l>
+                        <l n="05" rend="verse">  All these were unperceiv'd, yet near and true;</l>
+                        <l n="06" rend="verse">         Not by reflexion and distinctly known,</l>
+                        <l n="07" rend="verse">         But by their efficacy all mine own.</l>
                         <l n="08"/>
-                        <l n="09"> Dumbness      37</l>
-                        <l n="10">  (my foes)</l>
-                        <l n="11">  And having once inspired me with a sense</l>
-                        <l n="12">   of foreign vanities, they march out thence</l>
-                        <l n="13">   In troops that cover and despoil my coasts,</l>
-                        <l n="14">   Being the invisible, most hurtful hosts<seg type="end" subtype="verse"/>.<quote type="end"/></l>
+                        <l n="09" rend="verse"> Dumbness      37</l>
+                        <l n="10" rend="verse">  (my foes)</l>
+                        <l n="11" rend="verse">  And having once inspired me with a sense</l>
+                        <l n="12" rend="verse">   of foreign vanities, they march out thence</l>
+                        <l n="13" rend="verse">   In troops that cover and despoil my coasts,</l>
+                        <l n="14" rend="verse">   Being the invisible, most hurtful hosts.<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -6563,22 +6563,22 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0051-recto.jpg"
                         n="0051-recto"/>
                     <lg>
-                        <l n="01">                      <note>Traherne, Thomas. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><quote type="begin"/><seg type="begin" subtype="verse"/>Silence     38                           29</l>
-                        <l n="02">    A quiet silent person may possess</l>
-                        <l n="03">    All that is great or high in Blessedness.</l>
-                        <l n="04">    The inward work is the supreme; for all</l>
-                        <l n="05">    The other were occasioned by the fall.</l>
-                        <l n="06">    A man that seemeth idle to the view</l>
-                        <l n="07">    Of others, may the greatest business do.</l>
-                        <l n="08">    Those acts which Adam in his Innocence</l>
-                        <l n="09">    Performed, carry all the excellence.</l>
-                        <l n="10">    Those outward busy Acts he knew not were</l>
-                        <l n="11">    But meaner matters of a lower sphere.</l>
-                        <l n="12">    Building of churches, giving to the poor,</l>
-                        <l n="13">    In dust and ashes lying on the floor,</l>
-                        <l n="14">    Administering of justice, preaching peace,</l>
-                        <l n="15">    Ploughing &amp; toiling for a forct increase,</l>
-                        <l n="16">    With visiting the sick, or governing<seg type="end" subtype="verse"/><quote type="end"/></l>
+                        <l n="01" rend="verse">                      <note>Traherne, Thomas. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><quote type="begin"/>Silence     38                           29</l>
+                        <l n="02" rend="verse">    A quiet silent person may possess</l>
+                        <l n="03" rend="verse">    All that is great or high in Blessedness.</l>
+                        <l n="04" rend="verse">    The inward work is the supreme; for all</l>
+                        <l n="05" rend="verse">    The other were occasioned by the fall.</l>
+                        <l n="06" rend="verse">    A man that seemeth idle to the view</l>
+                        <l n="07" rend="verse">    Of others, may the greatest business do.</l>
+                        <l n="08" rend="verse">    Those acts which Adam in his Innocence</l>
+                        <l n="09" rend="verse">    Performed, carry all the excellence.</l>
+                        <l n="10" rend="verse">    Those outward busy Acts he knew not were</l>
+                        <l n="11" rend="verse">    But meaner matters of a lower sphere.</l>
+                        <l n="12" rend="verse">    Building of churches, giving to the poor,</l>
+                        <l n="13" rend="verse">    In dust and ashes lying on the floor,</l>
+                        <l n="14" rend="verse">    Administering of justice, preaching peace,</l>
+                        <l n="15" rend="verse">    Ploughing &amp; toiling for a forct increase,</l>
+                        <l n="16" rend="verse">    With visiting the sick, or governing<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -6588,18 +6588,18 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0052-verso.jpg"
                         n="0052-verso"/>
                     <lg>
-                        <l n="01">   <note>Traherne, Thomas. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><quote type="begin"/><seg type="begin" subtype="verse"/>The rude and ignorant: this was a thing</l>
-                        <l n="02">   As then unknown.   For neither ignorance</l>
-                        <l n="03">   Nor poverty, nor sickness did advance</l>
-                        <l n="04">   Their banner in the world, till Sin came in.</l>
-                        <l n="05">   Those therefore were occasioned all by Sin,</l>
-                        <l n="06">   The first and only work he had to do,</l>
-                        <l n="07">   Was in himself to feel his bliss, to view</l>
-                        <l n="08">   His Sacred treasures, to admire, rejoice,</l>
-                        <l n="09">   Sing praises with a sweet and heavenly voice,</l>
-                        <l n="10">   See, prize, give hourly thanks within, and love,</l>
-                        <l n="11">   Which is the high and only work above</l>
-                        <l n="12">   Them all. . . .<seg type="end" subtype="verse"/> . .</l>
+                        <l n="01" rend="verse">   <note>Traherne, Thomas. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><quote type="begin"/>The rude and ignorant: this was a thing</l>
+                        <l n="02" rend="verse">   As then unknown.   For neither ignorance</l>
+                        <l n="03" rend="verse">   Nor poverty, nor sickness did advance</l>
+                        <l n="04" rend="verse">   Their banner in the world, till Sin came in.</l>
+                        <l n="05" rend="verse">   Those therefore were occasioned all by Sin,</l>
+                        <l n="06" rend="verse">   The first and only work he had to do,</l>
+                        <l n="07" rend="verse">   Was in himself to feel his bliss, to view</l>
+                        <l n="08" rend="verse">   His Sacred treasures, to admire, rejoice,</l>
+                        <l n="09" rend="verse">   Sing praises with a sweet and heavenly voice,</l>
+                        <l n="10" rend="verse">   See, prize, give hourly thanks within, and love,</l>
+                        <l n="11" rend="verse">   Which is the high and only work above</l>
+                        <l n="12" rend="verse">   Them all. . . . . .</l>
                         <l n="13"/>
                         <l n="14"> An Hymn upon St. Bartholomew's Day</l>
                         <l n="15">              I<quote type="end"/></l>
@@ -6614,15 +6614,15 @@
                         n="0053-recto"/>
                     <lg>
                         <l n="01">                                                              <note>Traherne, Thomas. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><quote type="begin"/>25</l>
-                        <l n="02">     <seg type="begin" subtype="verse"/>What powerful Spirit lives within!</l>
-                        <l n="03">   What active Angel doth inhabit here!</l>
-                        <l n="04">      What heavenly light inspires my skin,</l>
-                        <l n="05">   Which doth so like a Deity appear!</l>
-                        <l n="06">   A living Temple of all ages, I</l>
-                        <l n="07">            Within me see</l>
-                        <l n="08">        A Temple of Eternity!</l>
-                        <l n="09">            All Kingdoms I descry</l>
-                        <l n="10">                In me.<seg type="end" subtype="verse"/></l>
+                        <l n="02" rend="verse">     What powerful Spirit lives within!</l>
+                        <l n="03" rend="verse">   What active Angel doth inhabit here!</l>
+                        <l n="04" rend="verse">      What heavenly light inspires my skin,</l>
+                        <l n="05" rend="verse">   Which doth so like a Deity appear!</l>
+                        <l n="06" rend="verse">   A living Temple of all ages, I</l>
+                        <l n="07" rend="verse">            Within me see</l>
+                        <l n="08" rend="verse">        A Temple of Eternity!</l>
+                        <l n="09" rend="verse">            All Kingdoms I descry</l>
+                        <l n="10" rend="verse">                In me.</l>
                         <l n="11"/>
                         <l n="12"> Poems extracted from Traherne's Christian Ethicks</l>
                         <l n="13"> 157     It is apparent that no corporeal</l>
@@ -6639,15 +6639,15 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0054-verso.jpg"
                         n="0054-verso"/>
                     <lg>
-                        <l n="01"> <note>Traherne, Thomas. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><quote type="begin"/><seg type="begin" subtype="verse"/>As in a Clock 'tis hinder'd Force doth bring</l>
-                        <l n="02"> The wheels to ordered Motion by a Spring;</l>
-                        <l n="03"> Which order'd Motion guides a steddy Hand</l>
-                        <l n="04"> In useful sort at Figures just to stand;</l>
-                        <l n="05"> Which, were it not by Counter-ballance staid,</l>
-                        <l n="06"> The Fabrick quickly would aside be laid,</l>
-                        <l n="07"> As wholly useless; so a Might too great</l>
-                        <l n="08"> But well proportioned makes the world <del>Complete</del>.</l>
-                        <l n="09">                                                         compleat.<seg type="end" subtype="verse"/><quote type="end"/></l>
+                        <l n="01" rend="verse"> <note>Traherne, Thomas. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><quote type="begin"/>As in a Clock 'tis hinder'd Force doth bring</l>
+                        <l n="02" rend="verse"> The wheels to ordered Motion by a Spring;</l>
+                        <l n="03" rend="verse"> Which order'd Motion guides a steddy Hand</l>
+                        <l n="04" rend="verse"> In useful sort at Figures just to stand;</l>
+                        <l n="05" rend="verse"> Which, were it not by Counter-ballance staid,</l>
+                        <l n="06" rend="verse"> The Fabrick quickly would aside be laid,</l>
+                        <l n="07" rend="verse"> As wholly useless; so a Might too great</l>
+                        <l n="08" rend="verse"> But well proportioned makes the world <del>Complete</del>.</l>
+                        <l n="09" rend="verse">                                                         compleat.<quote type="end"/></l>
                         <l n="10"> <bibl type="begin"/><hi rend="underline">Life</hi>    5 July  1923</l>
                         <l n="11">p 30  <bibl rend="end"/>     <quote type="begin"/>Slightly nervous&#8211;  An English barrister</l>
                         <l n="12">  after a particularly trying day came home with</l>
@@ -6917,19 +6917,19 @@
                         <l n="01">     <note>"Wit to Measure" advertisement (see previous page).</note><quote type="begin"/>shirts of Sea Island cotton . . . backless waist-coats</l>
                         <l n="02">  . . . Spitalfields silk cravats.” etc</l>
                         <l n="03">            &#8211; &#8211; &#8211;</l>
-                        <l n="04">  . . .  <seg type="begin" subtype="verse"/>Not from a backless waistcoat&#8211;shirt to match&#8211;</l>
-                        <l n="05">              Nor from a silken tie of wondrous knit</l>
-                        <l n="06">         Shall I seek counsel, Sir, when I despatch</l>
-                        <l n="07">                 My sparkling shafts of wit.</l>
-                        <l n="08">         I scorn the help of Spitalfield’s cravats.</l>
-                        <l n="09">              And if you say, without all these you’ll sink</l>
-                        <l n="10">         Lower in female eyes, I’ll answer, Rats!”</l>
-                        <l n="11">                 Or “Tush” or I <del>dontt</del> don’t think!”</l>
+                        <l n="04" rend="verse">  . . .  Not from a backless waistcoat&#8211;shirt to match&#8211;</l>
+                        <l n="05" rend="verse">              Nor from a silken tie of wondrous knit</l>
+                        <l n="06" rend="verse">         Shall I seek counsel, Sir, when I despatch</l>
+                        <l n="07" rend="verse">                 My sparkling shafts of wit.</l>
+                        <l n="08" rend="verse">         I scorn the help of Spitalfield’s cravats.</l>
+                        <l n="09" rend="verse">              And if you say, without all these you’ll sink</l>
+                        <l n="10" rend="verse">         Lower in female eyes, I’ll answer, Rats!”</l>
+                        <l n="11" rend="verse">                 Or “Tush” or I <del>dontt</del> don’t think!”</l>
                         <l n="12"/>
-                        <l n="13">        Mid serried ranks of girls I shall not miss</l>
-                        <l n="14">            Your tailoring, sir, for wit may live in rags;</l>
-                        <l n="15">        As proof, I may say I am writing this</l>
-                        <l n="16">                  In old grey flannel bags.<seg type="end" subtype="verse"/><quote type="end"/></l>
+                        <l n="13" rend="verse">        Mid serried ranks of girls I shall not miss</l>
+                        <l n="14" rend="verse">            Your tailoring, sir, for wit may live in rags;</l>
+                        <l n="15" rend="verse">        As proof, I may say I am writing this</l>
+                        <l n="16" rend="verse">                  In old grey flannel bags.<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -7511,20 +7511,20 @@
                         n="0086-verso"/>
                     <lg>
                         <l n="01"> <note>Spenser, Edmund. <hi rend="italic">The Poetical Works of Spenser</hi> (see earlier note).</note> <quote type="begin"/>Sonnet LVI</l>
-                        <l n="02">   <seg type="begin" subtype="verse"/>Fayre ye be sure but cruell &amp; unkind,</l>
-                        <l n="03">     As is a Tygre that with greedinesse</l>
-                        <l n="04">     hunts after bloud, when he by chance doth find</l>
-                        <l n="05">     a feeble beast, doth felly him oppress.</l>
-                        <l n="06">     Fayre be ye sure that proud &amp; pittilesse,</l>
-                        <l n="07">     as is a storme that all things doth prostrate:&#8211;</l>
-                        <l n="08">     finding a tree alone all comfortlesse,</l>
-                        <l n="09">     beats on it strongly it to ruinate.</l>
-                        <l n="10">     Fayre be ye sure, but hard and obstinate,</l>
-                        <l n="11">       as is a rocke amidst the raging floods;</l>
-                        <l n="12">      gaynst which a ship of succour desolate,</l>
-                        <l n="13">      doth suffer wreck both of her selfe &amp; goods.</l>
-                        <l n="14">     That ship, that tree, and that same beast am I,</l>
-                        <l n="15">     Whom ye doe wreck, doe ruine, and destroy.<seg type="end" subtype="verse"/><quote type="end"/></l>
+                        <l n="02" rend="verse">   Fayre ye be sure but cruell &amp; unkind,</l>
+                        <l n="03" rend="verse">     As is a Tygre that with greedinesse</l>
+                        <l n="04" rend="verse">     hunts after bloud, when he by chance doth find</l>
+                        <l n="05" rend="verse">     a feeble beast, doth felly him oppress.</l>
+                        <l n="06" rend="verse">     Fayre be ye sure that proud &amp; pittilesse,</l>
+                        <l n="07" rend="verse">     as is a storme that all things doth prostrate:&#8211;</l>
+                        <l n="08" rend="verse">     finding a tree alone all comfortlesse,</l>
+                        <l n="09" rend="verse">     beats on it strongly it to ruinate.</l>
+                        <l n="10" rend="verse">     Fayre be ye sure, but hard and obstinate,</l>
+                        <l n="11" rend="verse">       as is a rocke amidst the raging floods;</l>
+                        <l n="12" rend="verse">      gaynst which a ship of succour desolate,</l>
+                        <l n="13" rend="verse">      doth suffer wreck both of her selfe &amp; goods.</l>
+                        <l n="14" rend="verse">     That ship, that tree, and that same beast am I,</l>
+                        <l n="15" rend="verse">     Whom ye doe wreck, doe ruine, and destroy.<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -7536,14 +7536,14 @@
                         n="0087-recto"/>
                     <lg>
                         <l n="01">           <note>Spenser, Edmund. <hi rend="italic">The Poetical Works of Spenser</hi> (see earlier note).</note>LIII</l>
-                        <l n="02">  <quote type="begin"/><seg type="begin" subtype="verse"/>The Panther knowing that his spotted hyde               42</l>
-                        <l n="03">  Doth please all beasts, but that his looks them</l>
-                        <l n="04">                                                            fray</l>
-                        <l n="05">  LIIII</l>
-                        <l n="06">   Of this worlds Theatre in which we stay</l>
-                        <l n="07">     My love lyke the Spectator idly sits</l>
-                        <l n="08">   beholding me that all the pageants play,</l>
-                        <l n="09">   disguysing diversly my troubled wits.<seg type="end" subtype="verse"/></l>
+                        <l n="02" rend="verse">  <quote type="begin"/>The Panther knowing that his spotted hyde               42</l>
+                        <l n="03" rend="verse">  Doth please all beasts, but that his looks them</l>
+                        <l n="04" rend="verse">                                                            fray</l>
+                        <l n="05" rend="verse">  LIIII</l>
+                        <l n="06" rend="verse">   Of this worlds Theatre in which we stay</l>
+                        <l n="07" rend="verse">     My love lyke the Spectator idly sits</l>
+                        <l n="08" rend="verse">   beholding me that all the pageants play,</l>
+                        <l n="09" rend="verse">   disguysing diversly my troubled wits.</l>
                         <l n="10"/>
                         <l n="11"> 536.  To the Right worthy &amp; noble Knight</l>
                         <l n="12">    Sir Walter Raleigh Captaine of her Maiesties</l>
@@ -8041,8 +8041,8 @@
                         <l n="13">                                                                              (2 vols)</l>
                         <l n="14">  <bibl rend="begin"/>John  Gay<note>Gay, John [1685-1732]. English poet and dramatist. MM refers to him in a film review in Close-Up, 10 September 1933.</note>           :    Poetical works in a memoir    Vol I</l>
                         <l n="15">      Boston    Houghton.<bibl rend="end"/> <note>Gay, John. <hi rend="italic">The Poetical Works, With a Memoir</hi>. Boston: Houghton, 1879.</note>           p. 83    <quote type="begin"/>The  jugglers.</l>
-                        <l n="16">     seg type="begin" subtype="verse"/>The cards,  obedient  to his  words</l>
-                        <l n="17">      Are by a fillip   turned to birds.<seg type="end" subtype="verse"/><quote type="end"/></l>
+                        <l n="16" rend="verse">     The cards,  obedient  to his  words</l>
+                        <l n="17" rend="verse">      Are by a fillip   turned to birds.<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -8052,24 +8052,24 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0106-verso.jpg"
                         n="0106-verso"/>
                     <lg>
-                        <l n="01">      <seg type="begin" subtype="verse"/><quote type="begin"/><note>Gay, John. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note> <hi rend="underline">His</hi> little boxes change the grain:</l>
-                        <l n="02">       Trick after trick deludes the train.</l>
-                        <l n="03">       He shakes his bag, he shows all fair;</l>
-                        <l n="04">       His fingers spread, and nothing there;</l>
-                        <l n="05">          _________________________</l>
-                        <l n="06">   Trivia    245.  If where Fleet-ditch w muddy current flows,</l>
-                        <l n="07">             You chance to roam; where oyster tubs in rows</l>
-                        <l n="08">             Are rang'd beside the posts; there stay thy taste;</l>
-                        <l n="09">             The damsel's knife the gaping shell commands,</l>
-                        <l n="10">             While the salt liquor streams between her hands.</l>
-                        <l n="11"> </l>
-                        <l n="12">          The man had sure a palate cover'd o'er</l>
-                        <l n="13">        With brass or steel, that on the rocky shore</l>
-                        <l n="14">          First broke the oozy oyster's pearly coat,</l>
-                        <l n="15">          And risk'd the living morsel down his throat</l>
-                        <l n="16">        . . . . . .</l>
-                        <l n="17">          What will not luxury taste? Earth, sea, &amp; air,</l>
-                        <l n="18">          Are daily ransack'd for the bill of fare.<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="01" rend="verse">      <quote type="begin"/><note>Gay, John. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note> <hi rend="underline">His</hi> little boxes change the grain:</l>
+                        <l n="02" rend="verse">       Trick after trick deludes the train.</l>
+                        <l n="03" rend="verse">       He shakes his bag, he shows all fair;</l>
+                        <l n="04" rend="verse">       His fingers spread, and nothing there;</l>
+                        <l n="05" rend="verse">          _________________________</l>
+                        <l n="06" rend="verse">   Trivia    245.  If where Fleet-ditch w muddy current flows,</l>
+                        <l n="07" rend="verse">             You chance to roam; where oyster tubs in rows</l>
+                        <l n="08" rend="verse">             Are rang'd beside the posts; there stay thy taste;</l>
+                        <l n="09" rend="verse">             The damsel's knife the gaping shell commands,</l>
+                        <l n="10" rend="verse">             While the salt liquor streams between her hands.</l>
+                        <l n="11" rend="verse"> </l>
+                        <l n="12" rend="verse">          The man had sure a palate cover'd o'er</l>
+                        <l n="13" rend="verse">        With brass or steel, that on the rocky shore</l>
+                        <l n="14" rend="verse">          First broke the oozy oyster's pearly coat,</l>
+                        <l n="15" rend="verse">          And risk'd the living morsel down his throat</l>
+                        <l n="16" rend="verse">        . . . . . .</l>
+                        <l n="17" rend="verse">          What will not luxury taste? Earth, sea, &amp; air,</l>
+                        <l n="18" rend="verse">          Are daily ransack'd for the bill of fare.<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -8079,10 +8079,10 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0107-recto.jpg"
                         n="0107-recto"/>
                     <lg>
-                        <l n="01">    <note>Gay, John. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><seg type="begin" subtype="verse"/><quote type="begin"/>Blood stuff'd in skins is British Christian's food,</l>
-                        <l n="02">      And France robs marshes of the croaking brood;          52</l>
-                        <l n="03">      Spongy morels in strong ragouts are found,</l>
-                        <l n="04">      And in the soup the slimy snail is drown'd.<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="01" rend="verse">    <note>Gay, John. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><quote type="begin"/>Blood stuff'd in skins is British Christian's food,</l>
+                        <l n="02" rend="verse">      And France robs marshes of the croaking brood;          52</l>
+                        <l n="03" rend="verse">      Spongy morels in strong ragouts are found,</l>
+                        <l n="04" rend="verse">      And in the soup the slimy snail is drown'd.<quote type="end"/></l>
                         <l n="05"/>
                         <l n="06"/>
                         <l n="07">        Advertisement  (to Trivia)  p.  204</l>
@@ -8094,9 +8094,9 @@
                         <l n="13">   it to Dr.  Swift. . . .  etc.</l>
                         <l n="14"/>
                         <l n="15">  The Shepherds week:  Thursday or the   Spell 55</l>
-                        <l n="16">        <seg type="begin" subtype="verse"/> upon a gooseberry  bush a snail I found.</l>
-                        <l n="17">              . . . . . . . . .</l>
-                        <l n="18">         I seiz'd the vermin, home I quickly sped<seg type="end" subtype="verse"/><quote type="end"/></l>
+                        <l n="16" rend="verse">         upon a gooseberry  bush a snail I found.</l>
+                        <l n="17" rend="verse">              . . . . . . . . .</l>
+                        <l n="18" rend="verse">         I seiz'd the vermin, home I quickly sped<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -8106,14 +8106,14 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0108-verso.jpg"
                         n="0108-verso"/>
                     <lg>
-                        <l n="01">      <note>Gay, John. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><seg type="begin" subtype="verse"/><quote type="begin"/>And on the hearth the milk white embers spread;</l>
-                        <l n="02">      Slow crawl'd the snail, and if I  right can spell,</l>
-                        <l n="03">      In the soft ashes mark<del>e</del>'d a curious  L:</l>
-                        <l n="04">   61                                  (dairy)</l>
-                        <l n="05">      Friday;  or,  the Dirge.   For there her goodly countenance I've seen</l>
-                        <l n="06">                                        Set off w kerchief starch'd &amp; pinners clean.</l>
-                        <l n="07">        Sometimes,  like wax,  she rolls the butter round,</l>
-                        <l n="08">        Or with the wooden lily prints the pound.<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="01" rend="verse">      <note>Gay, John. <hi rend="italic">The Poetical Works</hi> (see earlier note).</note><quote type="begin"/>And on the hearth the milk white embers spread;</l>
+                        <l n="02" rend="verse">      Slow crawl'd the snail, and if I  right can spell,</l>
+                        <l n="03" rend="verse">      In the soft ashes mark<del>e</del>'d a curious  L:</l>
+                        <l n="04" rend="verse">   61                                  (dairy)</l>
+                        <l n="05" rend="verse">      Friday;  or,  the Dirge.   For there her goodly countenance I've seen</l>
+                        <l n="06" rend="verse">                                        Set off w kerchief starch'd &amp; pinners clean.</l>
+                        <l n="07" rend="verse">        Sometimes,  like wax,  she rolls the butter round,</l>
+                        <l n="08" rend="verse">        Or with the wooden lily prints the pound.<quote type="end"/></l>
                         <l n="09"/>
                         <l n="10">   <note>Larned, Josephus Nelson. A Primer of Right and Wrong. Boston: Houghton, 1902.</note><bibl>Larned (?)   A Primer of right and wrong.</bibl></l>
                         <l n="11">   a book on ethics with diagrams.</l>
@@ -8294,20 +8294,20 @@
                         <l n="03">  <bibl rend="begin"/>Nursery  Rhymes:   Leslie  Brooke</l>
                         <l n="04">    F.  Warne  &amp; Co.  London<bibl rend="end"/>.<note><hi rend="italic">Nursery Rhymes With Drawings by Leslie Brooke</hi>. London: Frederick Warne &amp; Co., 1916.</note></l>
                         <l n="05"> </l>
-                        <l n="06">  <seg type="begin" subtype="verse"/><quote type="begin"/>There was a frog lived in a well</l>
-                        <l n="07">       Kitty alone, Kitty alone;</l>
-                        <l n="08">     There was a frog liv'd in a well</l>
-                        <l n="09">          Kitty alone &amp; I!</l>
+                        <l n="06" rend="verse">  <quote type="begin"/>There was a frog lived in a well</l>
+                        <l n="07" rend="verse">       Kitty alone, Kitty alone;</l>
+                        <l n="08" rend="verse">     There was a frog liv'd in a well</l>
+                        <l n="09" rend="verse">          Kitty alone &amp; I!</l>
                         <l n="10"/>
-                        <l n="11">   There was a frog lived in a well,</l>
-                        <l n="12">        And a farce mouse in a <del>n</del>mill</l>
-                        <l n="13">            Cock me carry, Kitty alone</l>
-                        <l n="14">                                     "        "       &amp; I</l>
-                        <l n="15">   This frog he would a-wooing ride</l>
-                        <l n="16">        Kitty etc</l>
-                        <l n="17">      "     "     "        "     "      "     "   "</l>
-                        <l n="18">        and on a snail he got astride</l>
-                        <l n="19">            Cock me carry etc<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="11" rend="verse">   There was a frog lived in a well,</l>
+                        <l n="12" rend="verse">        And a farce mouse in a <del>n</del>mill</l>
+                        <l n="13" rend="verse">            Cock me carry, Kitty alone</l>
+                        <l n="14" rend="verse">                                     "        "       &amp; I</l>
+                        <l n="15" rend="verse">   This frog he would a-wooing ride</l>
+                        <l n="16" rend="verse">        Kitty etc</l>
+                        <l n="17" rend="verse">      "     "     "        "     "      "     "   "</l>
+                        <l n="18" rend="verse">        and on a snail he got astride</l>
+                        <l n="19" rend="verse">            Cock me carry etc<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -8318,24 +8318,24 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0116-verso.jpg"
                         n="0116-verso"/>
                     <lg>
-                        <l n="01">     <note><hi rend="italic">Nursery Rhymes With Drawings by Leslie Brooke</hi> (see earlier note).</note><seg type="begin" subtype="verse"/><quote type="begin"/>He rode till he came to my Lady Mouse hall</l>
-                        <l n="02">           Kitty alone,  :</l>
-                        <l n="03">    "   "          "      "    "   "           "    "</l>
-                        <l n="04">    and there he did both knock &amp; call;</l>
-                        <l n="05">      etc.</l>
-                        <l n="06">   Quoth he "Miss Mouse, I'm come to thee,</l>
-                        <l n="07">       To see if thou canst fancy me;</l>
+                        <l n="01" rend="verse">     <note><hi rend="italic">Nursery Rhymes With Drawings by Leslie Brooke</hi> (see earlier note).</note><quote type="begin"/>He rode till he came to my Lady Mouse hall</l>
+                        <l n="02" rend="verse">           Kitty alone,  :</l>
+                        <l n="03" rend="verse">    "   "          "      "    "   "           "    "</l>
+                        <l n="04" rend="verse">    and there he did both knock &amp; call;</l>
+                        <l n="05" rend="verse">      etc.</l>
+                        <l n="06" rend="verse">   Quoth he "Miss Mouse, I'm come to thee,</l>
+                        <l n="07" rend="verse">       To see if thou canst fancy me;</l>
                         <l n="08"/>
-                        <l n="09">   Quoth she,  Answer I'll give you none,</l>
-                        <l n="10">       "        "          "     "      "   "  "</l>
-                        <l n="11">      until my Uncle Rat come home;</l>
+                        <l n="09" rend="verse">   Quoth she,  Answer I'll give you none,</l>
+                        <l n="10" rend="verse">       "        "          "     "      "   "  "</l>
+                        <l n="11" rend="verse">      until my Uncle Rat come home;</l>
                         <l n="12"/>
-                        <l n="13">   And when her Uncle Rat came home</l>
-                        <l n="14">     "        "          "        "</l>
-                        <l n="15">    who's been here since I've been gone?</l>
+                        <l n="13" rend="verse">   And when her Uncle Rat came home</l>
+                        <l n="14" rend="verse">     "        "          "        "</l>
+                        <l n="15" rend="verse">    who's been here since I've been gone?</l>
                         <l n="16"/>
-                        <l n="17">    Sir (theres been) a worthy gentleman</l>
-                        <l n="18">      That's been here since you've been gone.<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="17" rend="verse">    Sir (theres been) a worthy gentleman</l>
+                        <l n="18" rend="verse">      That's been here since you've been gone.<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -8345,18 +8345,18 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0117-recto.jpg"
                         n="0117-recto"/>
                     <lg>
-                        <l n="01"> <note><hi rend="italic">Nursery Rhymes With Drawings by Leslie Brooke</hi> (see earlier note).</note><seg type="begin" subtype="verse"/><quote type="begin"/>The frog he came whistling through the brook     57</l>
-                        <l n="02">   .  . .     "</l>
-                        <l n="03">     And there he met with a dainty duck</l>
-                        <l n="04">       . . .</l>
-                        <l n="05">   This duck she swallowed him up with a pluck,</l>
-                        <l n="06">      So there's an end of my history book</l>
+                        <l n="01" rend="verse"> <note><hi rend="italic">Nursery Rhymes With Drawings by Leslie Brooke</hi> (see earlier note).</note><quote type="begin"/>The frog he came whistling through the brook     57</l>
+                        <l n="02" rend="verse">   .  . .     "</l>
+                        <l n="03" rend="verse">     And there he met with a dainty duck</l>
+                        <l n="04" rend="verse">       . . .</l>
+                        <l n="05" rend="verse">   This duck she swallowed him up with a pluck,</l>
+                        <l n="06" rend="verse">      So there's an end of my history book</l>
                         <l n="07"/>
-                        <l n="08"> </l>
-                        <l n="09">   The hart he loves the high wood</l>
-                        <l n="10">      The hare she loves the hill</l>
-                        <l n="11">    The knight he loves his bright sword,</l>
-                        <l n="12">        The lady&#8211;loves her will.<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="08" rend="verse"> </l>
+                        <l n="09" rend="verse">   The hart he loves the high wood</l>
+                        <l n="10" rend="verse">      The hare she loves the hill</l>
+                        <l n="11" rend="verse">    The knight he loves his bright sword,</l>
+                        <l n="12" rend="verse">        The lady&#8211;loves her will.<quote type="end"/></l>
                         <l n="13"/>
                         <l n="14">   Best Poems of 1922     Thos. Moult  Harcourt</l>
                         <l n="15">  Thomas Hardy<note>Hardy, Thomas [1840-1928]. English novelist and poet. MM reviewed some of his fiction and referred to him frequently in her essays.</note>: An Ancient to Ancients<bibl type="end"/><note>Hardy, Thomas. "An Ancient to Ancients." <hi rend="italic">The Best Poems of 1922.</hi> Ed. Thomas Moult. New York: Harcourt, 1923.</note></l>
@@ -8373,24 +8373,24 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0118-verso.jpg"
                         n="0118-verso"/>
                     <lg>
-                        <l n="01">     <seg type="begin" subtype="verse"/><note>Hardy, Thomas. "An Ancient to Ancients" (see earlier note).</note><quote type="begin"/>And cracks creep; worms have fed upon</l>
-                        <l n="02">    The doors.  Yea! sprightlier times were then</l>
-                        <l n="03">    Than now, with harps and tabrets gone,</l>
-                        <l n="04">               Gentlemen!</l>
-                        <l n="05">    Where once we rowed, where once we sailed,</l>
-                        <l n="06">               Gentlemen.</l>
-                        <l n="07">    And damsels took the tiller, veiled</l>
-                        <l n="08">    Against too strong a stare (God wot</l>
-                        <l n="09">    Their fancy, then or anywhen!)</l>
-                        <l n="10">    Upon that shore we are clean forgot,</l>
-                        <l n="11">                Gentlemen!</l>
-                        <l n="12">    We have lost somewhat of that, afar &amp; near,</l>
-                        <l n="13">                Gentlemen,</l>
-                        <l n="14">     The thinning of our ranks each year</l>
-                        <l n="15">     Affords a hint we are nigh undone,</l>
-                        <l n="16">       That we shall not be ever again</l>
-                        <l n="17">        The marked of many, loved of one.</l>
-                        <l n="18">                 Gentlemen.<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="01" rend="verse">     <note>Hardy, Thomas. "An Ancient to Ancients" (see earlier note).</note><quote type="begin"/>And cracks creep; worms have fed upon</l>
+                        <l n="02" rend="verse">    The doors.  Yea! sprightlier times were then</l>
+                        <l n="03" rend="verse">    Than now, with harps and tabrets gone,</l>
+                        <l n="04" rend="verse">               Gentlemen!</l>
+                        <l n="05" rend="verse">    Where once we rowed, where once we sailed,</l>
+                        <l n="06" rend="verse">               Gentlemen.</l>
+                        <l n="07" rend="verse">    And damsels took the tiller, veiled</l>
+                        <l n="08" rend="verse">    Against too strong a stare (God wot</l>
+                        <l n="09" rend="verse">    Their fancy, then or anywhen!)</l>
+                        <l n="10" rend="verse">    Upon that shore we are clean forgot,</l>
+                        <l n="11" rend="verse">                Gentlemen!</l>
+                        <l n="12" rend="verse">    We have lost somewhat of that, afar &amp; near,</l>
+                        <l n="13" rend="verse">                Gentlemen,</l>
+                        <l n="14" rend="verse">     The thinning of our ranks each year</l>
+                        <l n="15" rend="verse">     Affords a hint we are nigh undone,</l>
+                        <l n="16" rend="verse">       That we shall not be ever again</l>
+                        <l n="17" rend="verse">        The marked of many, loved of one.</l>
+                        <l n="18" rend="verse">                 Gentlemen.<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -8400,24 +8400,24 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0119-recto.jpg"
                         n="0119-recto"/>
                     <lg>
-                        <l n="01">    <note>Hardy, Thomas. "An Ancient to Ancients" (see earlier note).</note><seg type="begin" subtype="verse"/><quote type="begin"/>In dance the polka hit our wish,              58</l>
-                        <l n="02">                 Gentlemen</l>
-                        <l n="03">     The paced quadrille, the spry schottische,</l>
-                        <l n="04">     'Sir Roger,'&#8211;And in opera spheres</l>
-                        <l n="05">     The Girl&#8211;(the famed 'Bohemian'),</l>
-                        <l n="06">     And 'Trovatore' held the ears,</l>
-                        <l n="07">                 Gentlemen.</l>
-                        <l n="08">     The seasons paintings do not please, <del>Gentlemen</del></l>
-                        <l n="09">                         G &#8211; &#8211;</l>
-                        <l n="10">     Like Etty, Mulready, Maclise;</l>
-                        <l n="11">       Throbbing romance has waned &amp; wanned;</l>
-                        <l n="12">          No wizard wields the witching pen.</l>
-                        <l n="13">       Of Bulwer, Scott, Dumas, &amp; Sand,</l>
-                        <l n="14">                  Gentlemen.</l>
-                        <l n="15">     The bower we shrined to Tennyson,</l>
-                        <l n="16">                   Gentlemen,</l>
-                        <l n="17">     Is roof-wrecked; damps there drip upon</l>
-                        <l n="18">       Sagged seats, the creeper nails are rust<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="01" rend="verse">    <note>Hardy, Thomas. "An Ancient to Ancients" (see earlier note).</note><quote type="begin"/>In dance the polka hit our wish,              58</l>
+                        <l n="02" rend="verse">                 Gentlemen</l>
+                        <l n="03" rend="verse">     The paced quadrille, the spry schottische,</l>
+                        <l n="04" rend="verse">     'Sir Roger,'&#8211;And in opera spheres</l>
+                        <l n="05" rend="verse">     The Girl&#8211;(the famed 'Bohemian'),</l>
+                        <l n="06" rend="verse">     And 'Trovatore' held the ears,</l>
+                        <l n="07" rend="verse">                 Gentlemen.</l>
+                        <l n="08" rend="verse">     The seasons paintings do not please, <del>Gentlemen</del></l>
+                        <l n="09" rend="verse">                         G &#8211; &#8211;</l>
+                        <l n="10" rend="verse">     Like Etty, Mulready, Maclise;</l>
+                        <l n="11" rend="verse">       Throbbing romance has waned &amp; wanned;</l>
+                        <l n="12" rend="verse">          No wizard wields the witching pen.</l>
+                        <l n="13" rend="verse">       Of Bulwer, Scott, Dumas, &amp; Sand,</l>
+                        <l n="14" rend="verse">                  Gentlemen.</l>
+                        <l n="15" rend="verse">     The bower we shrined to Tennyson,</l>
+                        <l n="16" rend="verse">                   Gentlemen,</l>
+                        <l n="17" rend="verse">     Is roof-wrecked; damps there drip upon</l>
+                        <l n="18" rend="verse">       Sagged seats, the creeper nails are rust<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -8427,23 +8427,23 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0120-verso.jpg"
                         n="0120-verso"/>
                     <lg>
-                        <l n="01">    <note>Hardy, Thomas. "An Ancient to Ancients" (see earlier note).</note><seg type="begin" subtype="verse"/><quote type="begin"/>the spider is sole denizen,</l>
-                        <l n="02">       Even she who read those rhymes is dust,</l>
-                        <l n="03">                    Gentlemen!</l>
-                        <l n="04">   We who met sunrise sanguine-souled,</l>
-                        <l n="05">                    Gentlemen</l>
-                        <l n="06">   Are wearing weary! We are old,</l>
-                        <l n="07">   These younger press; we feel our rout</l>
-                        <l n="08">   Is imminent to A&#239;des' den,</l>
-                        <l n="09">   That evening's shades are stretching out,</l>
-                        <l n="10">                    Gentlemen!</l>
-                        <l n="11">  And yet, though ours be failing frames,</l>
-                        <l n="12">                    G&#8211;</l>
-                        <l n="13">   So were some others' history names,</l>
-                        <l n="14">   Who trode their track light limbed &amp; fast</l>
-                        <l n="15">   As these youth, and not alien</l>
-                        <l n="16">   From enterprise,  to their long last,</l>
-                        <l n="17">                    G&#8211;<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="01" rend="verse">    <note>Hardy, Thomas. "An Ancient to Ancients" (see earlier note).</note><quote type="begin"/>the spider is sole denizen,</l>
+                        <l n="02" rend="verse">       Even she who read those rhymes is dust,</l>
+                        <l n="03" rend="verse">                    Gentlemen!</l>
+                        <l n="04" rend="verse">   We who met sunrise sanguine-souled,</l>
+                        <l n="05" rend="verse">                    Gentlemen</l>
+                        <l n="06" rend="verse">   Are wearing weary! We are old,</l>
+                        <l n="07" rend="verse">   These younger press; we feel our rout</l>
+                        <l n="08" rend="verse">   Is imminent to A&#239;des' den,</l>
+                        <l n="09" rend="verse">   That evening's shades are stretching out,</l>
+                        <l n="10" rend="verse">                    Gentlemen!</l>
+                        <l n="11" rend="verse">  And yet, though ours be failing frames,</l>
+                        <l n="12" rend="verse">                    G&#8211;</l>
+                        <l n="13" rend="verse">   So were some others' history names,</l>
+                        <l n="14" rend="verse">   Who trode their track light limbed &amp; fast</l>
+                        <l n="15" rend="verse">   As these youth, and not alien</l>
+                        <l n="16" rend="verse">   From enterprise,  to their long last,</l>
+                        <l n="17" rend="verse">                    G&#8211;<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
@@ -8453,20 +8453,20 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_01_04_0121-recto.jpg"
                         n="0121-recto"/>
                     <lg>
-                        <l n="01">    <note>Hardy, Thomas. "An Ancient to Ancients" (see earlier note).</note><bibl rend="begin"/><seg type="begin" subtype="verse"/><quote type="begin"/>Sophocles, Plato, Socrates                        59</l>
-                        <l n="02">                    G&#8211;</l>
-                        <l n="03">     Pythogras,  Thucydides</l>
-                        <l n="04">     Herodotus and Homer&#8211;yea,</l>
-                        <l n="05">     Clement,  Augustin  Origen</l>
-                        <l n="06">     Burnt brightlier towards their setting-day.</l>
-                        <l n="07">                    G&#8211;</l>
-                        <l n="08">   And ye, red-lipped &amp; smooth-browed; list</l>
-                        <l n="09">                    G.</l>
-                        <l n="10">     Much is there wai<del>s</del>t<del>t</del>s you we have missed.</l>
-                        <l n="11">     Much lore we leave you worth the knowing</l>
-                        <l n="12">     Much, much has lain outside our ken.  <del>s</del></l>
-                        <l n="13">   Nay, rush not . . . . time serves; we are going</l>
-                        <l n="14">                    Gentlemen.<quote type="end"/><seg type="end" subtype="verse"/></l>
+                        <l n="01" rend="verse">    <note>Hardy, Thomas. "An Ancient to Ancients" (see earlier note).</note><bibl rend="begin"/><quote type="begin"/>Sophocles, Plato, Socrates                        59</l>
+                        <l n="02" rend="verse">                    G&#8211;</l>
+                        <l n="03" rend="verse">     Pythogras,  Thucydides</l>
+                        <l n="04" rend="verse">     Herodotus and Homer&#8211;yea,</l>
+                        <l n="05" rend="verse">     Clement,  Augustin  Origen</l>
+                        <l n="06" rend="verse">     Burnt brightlier towards their setting-day.</l>
+                        <l n="07" rend="verse">                    G&#8211;</l>
+                        <l n="08" rend="verse">   And ye, red-lipped &amp; smooth-browed; list</l>
+                        <l n="09" rend="verse">                    G.</l>
+                        <l n="10" rend="verse">     Much is there wai<del>s</del>t<del>t</del>s you we have missed.</l>
+                        <l n="11" rend="verse">     Much lore we leave you worth the knowing</l>
+                        <l n="12" rend="verse">     Much, much has lain outside our ken.  <del>s</del></l>
+                        <l n="13" rend="verse">   Nay, rush not . . . . time serves; we are going</l>
+                        <l n="14" rend="verse">                    Gentlemen.<quote type="end"/></l>
                     </lg>
                 </div>
             </div>
