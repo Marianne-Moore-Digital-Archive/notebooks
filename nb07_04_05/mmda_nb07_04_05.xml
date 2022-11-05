@@ -3912,7 +3912,7 @@
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/><hi rend="underline">R Southey</hi><note> Southey, Robert [1774-1843]. English poet, associated with Romanticism. MM pastes in and annotates a newspaper clipping from 1916, containing two of Southey's poems.  </note>	<bibl type="begin"/>                                           NY. Times	May 7) 1916<note>MM cancels "nearer as she gazed" in the penultimate line and "tremblingly" in the final line of "The Locust"; she draws parentheses around "Sea"  in the title of "The Sea Anemone" and numbers words in its first line to change their order; she underlines the penultimate and cancels the final line of this poem.</note></l>
                         <l n="02"> </l>
-                        <l n="03">                                                          May 7, 1916<bibl type="end"/><note> Artz, V. T. "Letters from Book Review Readers." <hi rend="italic">New York Times</hi>  (7 May 1916): B197. Letter to the editor defending the continued value of Southey's poetry in 1916 and the view that he is still appreciated by some discriminating readers.</note></l>
+                        <l n="03">                                                          May 7, 1916<bibl type="end"/><note> Artz, V. T. "Letters from Book Review Readers." <hi rend="italic">New York Times</hi>  (7 May 1916): B197. Letter to the editor defending the continued value of Southey's poetry in 1916 and the view that he is still appreciated by some discriminating readers.</note><seg type="genre-read-end"/></l>
                         <l n="04"> </l>
                         <l n="05"> </l>
                         <l n="06"> </l>
@@ -3925,20 +3925,11 @@
                         <l n="13"> </l>
                         <l n="14"> </l>
                         <l n="15"> </l>
-                        <l n="16"/>
-                        <l n="17"/>
-                        <l n="18"> </l>
-                        <l n="19"/>
-                        <l n="20">                        3   2     1</l>
-                        <l n="21"/>
-                        <l n="22"/>
-                        <l n="23"/>
-                        <l n="24"/>
-                        <l n="25"/>
-                        <l n="26"> </l>
-                        <l n="27"/>
-                        <l n="28"> <seg type="genre-read-end"/> </l>
+                        <l n="16"> </l>
                         <l n="17"> </l>
+                        <l n="18"> </l>
+                        <l n="19"> </l>
+                        <l n="20">                        3   2     1</l>
                     </lg>
                 </div>
             </div>
