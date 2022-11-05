@@ -122,7 +122,7 @@
         </encodingDesc> -->
     </teiHeader>
     <facsimile>
-<!-- NW: the graphic@width values in this file need to be updated using the following values:
+        <!-- NW: the graphic@width values in this file need to be updated using the following values:
 
 nb07_04_05_0001-recto.jpg width="3114px"
 nb07_04_05_0002-verso.jpg width="1552px"
@@ -311,8 +311,6 @@ nb07_04_05_0134-verso.jpg width="3142px"
                 <zone xml:id="nb07_04_05_0004_verso_surface_line_02" lry="0" lrx="0" uly="0" ulx="0"
                     rend="line"/>
                 <zone xml:id="nb07_04_05_0004_verso_surface_line_03" lry="0" lrx="0" uly="0" ulx="0"
-                    rend="line"/>
-                <zone xml:id="nb07_04_05_0004_verso_surface_line_04" lry="0" lrx="0" uly="0" ulx="0"
                     rend="line"/>
             </surface>
         </surface>
@@ -7649,12 +7647,12 @@ nb07_04_05_0134-verso.jpg width="3142px"
                     <lg>
                         <l n="01"> </l>
                         <l n="02"> </l>
-                        <l n="03">             <hi rend="blue">Metropolitan Museum</hi><note>The 1512 "Portrait of a Man in Red Chalk" by Leonardo da Vinci (1452-1519) may be clipped from materials for the Metropolitan Museum's exhibition of the Mona Lisa in 1963.</note></l>
+                        <l n="03">      <hi rend="blue">Metropolitan Museum</hi><note>The 1512 "Portrait of a Man in Red Chalk" by Leonardo da Vinci (1452-1519) may be clipped from materials for the Metropolitan Museum's exhibition of the Mona Lisa in 1963.</note></l>
                         <l n="04"> </l>
-                        <l n="05">                                     <hi rend="blue">1964</hi></l>
-                        <l n="06">          <hi rend="blue">National Geographic April 64</hi></l>
+                        <l n="05">                              <hi rend="blue">1964</hi></l>
+                        <l n="06"><hi rend="blue">National Geographic April 64</hi></l>
                         <l n="07"> </l>
-                        <l n="08">      <hi rend="blue">A cuckoo</hi><note>Roadrunner photographed by James Blair [1931- ], on staff at <hi rend="italic">National Geographic</hi> from 1962-1994. Ralph Gray. "From Sun-Clad Sea to Shining Mountains." <hi rend="italic">National Geographic</hi>  125 (April 1964): 563.</note></l>
+                        <l n="08">    <hi rend="blue">A   cuckoo</hi><note>Roadrunner photographed by James Blair [1931- ], on staff at <hi rend="italic">National Geographic</hi> from 1962-1994. Ralph Gray. "From Sun-Clad Sea to Shining Mountains." <hi rend="italic">National Geographic</hi>  125 (April 1964): 563.</note></l>
                     </lg>
                 </div>
             </div>
@@ -7664,6 +7662,7 @@ nb07_04_05_0134-verso.jpg width="3142px"
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0003-recto.jpg"
                         n="0003-recto"/>
                     <lg>
+                        <!-- NW: there does appear to a RML number in the top left of the page, should that be transcribed? We've transcribed those numbers elsewhere. -->
                         <l n="01">[No handwriting on this page.]</l>
                     </lg>
                 </div>
@@ -7675,9 +7674,8 @@ nb07_04_05_0134-verso.jpg width="3142px"
                         n="0004-verso"/>
                     <lg>
                         <l n="01"><hi rend="blue">Marianne Moore                      260 Cumberland Street</hi></l>
-                        <l n="02"> </l>
-                        <l n="03">                                                        <hi rend="blue">Brooklyn 5 NY</hi></l>
-                        <l n="04">                                                          <hi rend="blue"><del>S</del> UL 8 – 5444</hi><note>The UL telephone exchange stood for ULSTER.</note></l>
+                        <l n="02">                                                  <hi rend="blue">Brooklyn 5 NY</hi></l>
+                        <l n="03">                                                    <hi rend="blue"><del>S</del> UL 8 – 5444</hi><note>The UL telephone exchange stood for ULSTER.</note></l>
                     </lg>
                 </div>
             </div>
@@ -7687,19 +7685,19 @@ nb07_04_05_0134-verso.jpg width="3142px"
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0005-recto.jpg"
                         n="0005-recto"/>
                     <lg>
-                        <l n="01">  August 7 1960 <hi rend="blue">1</hi></l>
+                        <l n="01">  August 7 1960                                            <hi rend="blue">1</hi></l>
                         <l n="02">         <hi rend="underline">Near the raspberry patch</hi></l>
                         <l n="03"> African-brown butterfly</l>
                         <l n="04">       with a mouse's face</l>
-                        <l n="05"> and white dot in a <hi rend="sub">v</hi>  peacocks eye,</l>
-                        <l n="06">                               black</l>
+                        <l n="05"> and white dot in a <!-- NW: Should this be rendered as subscript? See line 08 --><hi rend="sub">v</hi>  peacocks eye,</l>
+                        <l n="06">                         black</l>
                         <l n="07"> <del>up high</del> in a pumpkin-yellow square <del>u</del>, up high</l>
-                        <l n="08">         on the wing<hi rend="sub">v</hi>  among the tall dry weeds —</l>
-                        <l n="09">                           flying</l>
+                        <l n="08">         on the wing <hi rend="sub">v</hi>  among the tall dry weeds —</l>
+                        <l n="09">                          flying</l>
                         <l n="10"> there<del>s</del> is something in protective</l>
                         <l n="11">           coloration— must <del>be</del> be</l>
-                        <l n="12"> <del>  be</del></l>
-                        <l n="13">                        red</l>
+                        <l n="12">      <del>be</del></l>
+                        <l n="13">                     red</l>
                         <l n="14"> The enormous raspberry  shaped like a beehive</l>
                         <l n="15"> </l>
                         <l n="16"> The Bassett hound.</l>
@@ -7711,7 +7709,7 @@ nb07_04_05_0134-verso.jpg width="3142px"
                         <l n="22"> depredating gypsies</l>
                         <l n="23"> </l>
                         <l n="24"> A brown butterfly</l>
-                        <l n="25">                 cigar  color, w. on each wing</l>
+                        <l n="25">                cigar  color, w. on each wing</l>
                         <l n="26"> <del>with on each wing</del> a yellow patch, a square  —</l>
                         <l n="27">  and <hi rend="underline">in</hi> it a peacocks eye</l>
                         <l n="28"> </l>
@@ -7732,7 +7730,7 @@ nb07_04_05_0134-verso.jpg width="3142px"
                         n="0006-verso"/>
                     <lg>
                         <l n="01" rend="read">          <hi rend="pencil">a swing on a rope &amp; a dive fr a big tree</hi></l>
-                        <l n="02" rend="read">  <bibl type="begin"/><hi rend="pencil"><unclear resp="eg">Times</unclear> magazine                                                    </hi>August 21         '60<note>The scene MM describes is not on the <hi rend="italic">NY Times Magazine</hi>  or <hi rend="italic">Time</hi>  cover for the week of August 21.</note><bibl type="end"/></l>
+                        <l n="02" rend="read">  <bibl type="begin"/><hi rend="pencil"><unclear resp="eg">Times</unclear> magazine                                               </hi>August 21         '60<note>The scene MM describes is not on the <hi rend="italic">NY Times Magazine</hi>  or <hi rend="italic">Time</hi>  cover for the week of August 21.</note><bibl type="end"/></l>
                         <l n="03" rend="read">      Brook &amp; pond – reflecting trees</l>
                         <l n="04" rend="read">     The water so clear 		the only difference being</l>
                         <l n="05" rend="read">     That I could not but stare 		 that one was upside</l>
@@ -7756,7 +7754,7 @@ nb07_04_05_0134-verso.jpg width="3142px"
                         <l n="23">       to warn you not to deceive it</l>
                         <l n="24"> </l>
                         <l n="25"> </l>
-                        <l n="26">			<hi rend="blue">                  to W H Auden</hi></l>
+                        <l n="26">			<hi rend="blue">to W H Auden</hi></l>
                         <l n="27"><hi rend="blue">      I read // somewhere that you said</hi></l>
                         <l n="28"><hi rend="blue">         Only those who reverence life can master</hi></l>
                         <l n="29"><hi rend="blue">         <hi rend="underline">Did</hi>  you say it? 		  it<note>Albert Schweitzer said this, in his autobiography <hi rend="italic">Out of My Life and Thought</hi>  (1931), first published in English by  Johns Hopkins University Press, 1933.</note></hi></l>
@@ -7764,8 +7762,8 @@ nb07_04_05_0134-verso.jpg width="3142px"
                         <l n="31"><hi rend="blue">        If you <hi rend="underline">didn't</hi> it will not dismay me</hi></l>
                         <l n="32"> </l>
                         <l n="33"><hi rend="blue">        and in any case let    me imply it</hi></l>
-                        <l n="34">                           <hi rend="pencil begin"/>Rain</l>
-                        <l n="35">	     Just so</l>
+                        <l n="34">                           <hi rend="pencil">Rain</hi></l>
+                        <l n="35">	     <hi rend="pencil">Just so</hi></l>
                         <l n="36">  	<hi rend="pencil">that it isn't snow</hi></l>
                     </lg>
                     <lg type="vertical">
