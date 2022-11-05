@@ -648,9 +648,9 @@
         </surface>
     </facsimile>
     <text>
-        <body>
+        <body>   
             <div type="image" xml:id="nb07_04_05_0001_text">
-                <div type="page" n="v.0001" xml:id="nb_07_04_05_0001_recto_text">
+                <div type="page" n="v.0001" xml:id="nb07_04_05_0001_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0001-recto.jpg"
                         n="0001-recto"/>
@@ -660,7 +660,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0002_text">
-                <div type="page" n="v.0002" xml:id="nb_07_04_05_0002_verso_text">
+                <div type="page" n="v.0002" xml:id="nb07_04_05_0002_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0002-verso.jpg"
                         n="0002-verso"/>
@@ -677,7 +677,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0003_text">
-                <div type="page" n="v.0003" xml:id="nb_07_04_05_0003_recto_text">
+                <div type="page" n="v.0003" xml:id="nb07_04_05_0003_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0003-recto.jpg"
                         n="0003-recto"/>
@@ -687,7 +687,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0004_text">
-                <div type="page" n="v.0004" xml:id="nb_07_04_05_0004_verso_text">
+                <div type="page" n="v.0004" xml:id="nb07_04_05_0004_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0004-verso.jpg"
                         n="0004-verso"/>
@@ -700,7 +700,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0005_text">
-                <div type="page" n="v.0005" xml:id="nb_07_04_05_0005_recto_text">
+                <div type="page" n="v.0005" xml:id="nb07_04_05_0005_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0005-recto.jpg"
                         n="0005-recto"/>
@@ -743,8 +743,8 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0006_text">
-                <div type="page" n="v.0006" xml:id="nb_07_04_05_0006_verso_text">
-                    <desc>Line 21, MM draws a straight line over "and".</desc>
+                <div type="page" n="v.0006" xml:id="nb07_04_05_0006_verso_text">
+                    <!-- <desc>Line 21, MM draws a straight line over "and".</desc> -->
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0006-verso.jpg"
                         n="0006-verso"/>
@@ -792,7 +792,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0007_text">
-                <div type="page" n="v.0007" xml:id="nb_07_04_05_0007_recto_text">
+                <div type="page" n="v.0007" xml:id="nb07_04_05_0007_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0007-recto.jpg"
                         n="0007-recto"/>
@@ -837,12 +837,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0008_text">
-                <div type="page" n="v.0008" xml:id="nb_07_04_05_0008_verso_text">
+                <div type="page" n="v.0008" xml:id="nb07_04_05_0008_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0008-verso.jpg"
                         n="0008-verso"/>
-                    <desc>MM draws square brackets around a phrase on the right-hand side of the
-                        page, lines 24-27, from "to cope" to "captivity".</desc>
+                    <!-- <desc>MM draws square brackets around a phrase on the right-hand side of the
+                        page, lines 24-27, from "to cope" to "captivity".</desc> -->
                     <lg>
                         <l n="01" rend="verse">   Hunary and Hungary<note> MM drafts toward "Rescue with Yul Brynner."</note></l>
                         <l n="02"> </l>
@@ -881,7 +881,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0009_text">
-                <div type="page" n="v.0009" xml:id="nb_07_04_05_0009_recto_text">
+                <div type="page" n="v.0009" xml:id="nb07_04_05_0009_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0009-recto.jpg"
                         n="0009-recto"/>
@@ -897,7 +897,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0010_text">
-                <div type="page" n="v.0010" xml:id="nb_07_04_05_0010_verso_text">
+                <div type="page" n="v.0010" xml:id="nb07_04_05_0010_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0010-verso.jpg"
                         n="0010-verso"/>
@@ -907,7 +907,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0011_text">
-                <div type="page" n="v.0011" xml:id="nb_07_04_05_0011_recto_text">
+                <div type="page" n="v.0011" xml:id="nb07_04_05_0011_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0011-recto.jpg"
                         n="0011-recto"/>
@@ -925,7 +925,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0012_text">
-                <div type="page" n="v.0012" xml:id="nb_07_04_05_0012_verso_text">
+                <div type="page" n="v.0012" xml:id="nb07_04_05_0012_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0012-verso.jpg"
                         n="0012-verso"/>
@@ -935,7 +935,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0013_text">
-                <div type="page" n="r.0013" xml:id="nb_07_04_05_0013_recto_text">
+                <div type="page" n="r.0013" xml:id="nb07_04_05_0013_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0013-recto.jpg"
                         n="0013-recto"/>
@@ -945,7 +945,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0014_text">
-                <div type="page" n="r.0014" xml:id="nb_07_04_05_0014_recto_text">
+                <div type="page" n="r.0014" xml:id="nb07_04_05_0014_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0014-recto.jpg"
                         n="0014-recto"/>
@@ -955,11 +955,11 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0015_text">
-                <div type="page" n="r.0015" xml:id="nb_07_04_05_0015_recto_text">
+                <div type="page" n="r.0015" xml:id="nb07_04_05_0015_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0015-recto.jpg"
                         n="0015-recto"/>
-                    <desc>MM draws a half circle around the words at the end of line 26.</desc>
+                    <!-- <desc>MM draws a half circle around the words at the end of line 26.</desc> -->
                     <lg>
                         <l n="01"> <seg type="draft-begin">         </seg><hi rend="blue">My crow, Pluto</hi>                  The Jewel                                           9<note> MM drafts toward "To Victor Hugo of My Crow Pluto," first published<hi rend="italic">Harper's Bazaar</hi>  95 (1 October 1961): 120; midway down the page, she also drafts toward "To a Giraffe," first published in <hi rend="italic">Poetry in Crystal </hi>(New York: Steuben Glass, Inc., 1963): 44.</note> </l>
                         <l n="02">  <hi rend="blue">         a blow;                                     </hi><foreign xml:lang="it">gio jello</foreign></l>
@@ -1000,7 +1000,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0016_text">
-                <div type="page" n="v.0016" xml:id="nb_07_04_05_0016_verso_text">
+                <div type="page" n="v.0016" xml:id="nb07_04_05_0016_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0016-verso.jpg"
                         n="0016-verso"/>
@@ -1043,7 +1043,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0017_text">
-                <div type="page" n="v.0017" xml:id="nb_07_04_05_0017_recto_text">
+                <div type="page" n="v.0017" xml:id="nb07_04_05_0017_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0017-recto.jpg"
                         n="0017-recto"/>
@@ -1095,13 +1095,13 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0018_text">
-                <div type="page" n="v.0018" xml:id="nb_07_04_05_0018_verso_text">
+                <div type="page" n="v.0018" xml:id="nb07_04_05_0018_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0018-verso.jpg"
                         n="0018-verso"/>
-                    <desc>MM draws a large parenthesis around words in the left margin of lines
+                    <!-- <desc>MM draws a large parenthesis around words in the left margin of lines
                         06-07; between lines 21-22 she has a series of dots, underneath most words
-                        of the upper line; similar dots appear under two words in line 19.</desc>
+                        of the upper line; similar dots appear under two words in line 19.</desc> -->
                     <lg>
                         <l n="01">                                               July 11 . 1961<note> MM drafts toward "Baseball and Writing," first published <hi rend="italic">The New Yorker</hi>  37 (9 December 1961): 48. The poem discusses the 1961 baseball season. The line "O Fons Bandusa" also appears in "In Lieu of the Lyre," first published <hi rend="italic">Harvard Advocate</hi>  100 (November 1965): 5. </note></l>
                         <l n="02">                  Sentiment</l>
@@ -1151,12 +1151,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0019_text">
-                <div type="page" n="v.0019" xml:id="nb_07_04_05_0019_recto_text">
+                <div type="page" n="v.0019" xml:id="nb07_04_05_0019_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0019-recto.jpg"
                         n="0019-recto"/>
-                    <desc>In line 24, the word "dumb" is written in three colors, "du" in pencil;
-                        "mb" in black ink; the top of the "b" is written over in red ink.</desc>
+                    <!-- <desc>In line 24, the word "dumb" is written in three colors, "du" in pencil;
+                        "mb" in black ink; the top of the "b" is written over in red ink.</desc> -->
                     <lg>
                         <l n="01"> <seg type="genre-read-begin">              </seg><quote>"Foremost of the Peach Orchard"</quote><note>Title awarded to female impersonator and actor Mei Lan-Fang [1894-1962]. </note>	<hi rend="blue">                                                                                                                              13</hi></l>
                         <l n="02">                                                                   NYT Aug 9 1961<note> "Stage Actor, Dies: Top Chinese Star Was Noted Female Impersonator."<hi rend="italic">New York Times</hi>  (9 August 1961): 33. Obituary for Mei Lan-Fang, 67. The piece clarifies that the title "Foremost of the Peach Orchard" indicated that Mei was "without a peer as an actor in China." The actor emerged from retirement after WWII and became a deputy of the National People's Congress in 1955; he did not join the Communist Party until 1959. </note><bibl type="end"/><seg type="genre-read-end"/></l>
@@ -1195,12 +1195,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0020_text">
-                <div type="page" n="v.0020" xml:id="nb_07_04_05_0020_verso_text">
+                <div type="page" n="v.0020" xml:id="nb07_04_05_0020_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0020-verso.jpg"
                         n="0020-verso"/>
-                    <desc>Lines 09-16 are crossed out with one diagonal line; MM draws a partial
-                        circle around lines 18-19.</desc>
+                    <!-- <desc>Lines 09-16 are crossed out with one diagonal line; MM draws a partial
+                        circle around lines 18-19.</desc> -->
                     <lg>
                         <l n="01"> 	 <seg type="draft-begin">                             </seg><hi rend="pencil">In Heroic Detachment<note> MM drafts toward "Baseball and Writing."</note></hi></l>
                         <l n="02"><hi rend="pencil">                        Something to write about, talk about, see</hi></l>
@@ -1238,11 +1238,11 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0021_text">
-                <div type="page" n="v.0021" xml:id="nb_07_04_05_0021_recto_text">
+                <div type="page" n="v.0021" xml:id="nb07_04_05_0021_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0021-recto.jpg"
                         n="0021-recto"/>
-                    <desc>MM circles the word "individual" in blank ink, line 11.</desc>
+                    <!-- <desc>MM circles the word "individual" in blank ink, line 11.</desc> -->
                     <lg>
                         <l n="01"> <seg type="draft-begin">              </seg><hi rend="red">What is the fascination</hi><note> MM drafts toward "Baseball and Writing."</note> <hi rend="blue">                                                                                                                          15</hi></l>
                         <l n="02"> <hi rend="red">   What i<del>s</del></hi><hi rend="pencil">s</hi> <hi rend="red">the charm</hi></l>
@@ -1287,12 +1287,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0022_text">
-                <div type="page" n="v.0022" xml:id="nb_07_04_05_0022_verso_text">
+                <div type="page" n="v.0022" xml:id="nb07_04_05_0022_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0022-verso.jpg"
                         n="0022-verso"/>
-                    <desc>MM circles the word "two" line 17 and "do" line 20; line 30, she draws a
-                        wavy line under the interlineation "the ball tribe".</desc>
+                    <!-- <desc>MM circles the word "two" line 17 and "do" line 20; line 30, she draws a
+                        wavy line under the interlineation "the ball tribe".</desc> -->
                     <lg>
                         <l n="01"><hi rend="red">            a parody of course<note> MM drafts toward "Baseball and Writing."</note></hi></l>
                         <l n="02"> <hi rend="red">                                   ?  at source</hi></l>
@@ -1334,12 +1334,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0023_text">
-                <div type="page" n="v.0023" xml:id="nb_07_04_05_0023_recto_text">
+                <div type="page" n="v.0023" xml:id="nb07_04_05_0023_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0023-recto.jpg"
                         n="0023-recto"/>
-                    <desc>Throughout the page, MM writes over letters to clarify with red pen; line
-                        35, MM circles "of me".</desc>
+                    <!-- <desc>Throughout the page, MM writes over letters to clarify with red pen; line
+                        35, MM circles "of me".</desc> -->
                     <lg>
                         <l n="01"> <seg type="draft-begin"/>                         An adastrium of runs<note> MM drafts toward "Baseball and Writing."                                                 </note><hi rend="blue">                                                                                                                          17</hi></l>
                         <l n="02">  		                                                         <del>for</del> in one season</l>
@@ -1389,11 +1389,11 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0024_text">
-                <div type="page" n="v.0024" xml:id="nb_07_04_05_0024_verso_text">
+                <div type="page" n="v.0024" xml:id="nb07_04_05_0024_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0024-verso.jpg"
                         n="0024-verso"/>
-                    <desc>MM circles "pitcherly" in line 09 and "juice" in line 21.</desc>
+                    <!-- <desc>MM circles "pitcherly" in line 09 and "juice" in line 21.</desc> -->
                     <lg>
                         <l n="01"> <seg type="draft-begin">              </seg>James M. Grant<note> Grant, James "Mudcat" [1935 - ]. Pitcher, Cleveland Indians 1958-64, African American.</note>                                               next  pitchers are<note> MM drafts toward "Baseball and Writing"; some lines and phrases appear in published poem. </note> </l>
                         <l n="02"> Study assignment                                   peculiar</l>
@@ -1439,12 +1439,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0025_text">
-                <div type="page" n="v.0025" xml:id="nb_07_04_05_0025_recto_text">
+                <div type="page" n="v.0025" xml:id="nb07_04_05_0025_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0025-recto.jpg"
                         n="0025-recto"/>
-                    <desc>MM circles "very" line 01 and "we" line 02, in pencil; she draws curly
-                        bracket dividing right from left side of lines 14-17.</desc>
+                    <!-- <desc>MM circles "very" line 01 and "we" line 02, in pencil; she draws curly
+                        bracket dividing right from left side of lines 14-17.</desc> -->
                     <lg>
                         <l n="01"> <seg type="draft-begin"/><hi rend="red">S. 20                      I m very satisfied<note> MM drafts toward "Baseball and Writing."</note></hi><hi rend="blue">                                                                                      19</hi> </l>
                         <l n="02"> <hi rend="red">                 We won the pennant;— <hi rend="underline">we.</hi></hi></l>
@@ -1482,7 +1482,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0026_text">
-                <div type="page" n="v.0026" xml:id="nb_07_04_05_0026_verso_text">
+                <div type="page" n="v.0026" xml:id="nb07_04_05_0026_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0026-verso.jpg"
                         n="0026-verso"/>
@@ -1492,12 +1492,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0027_text">
-                <div type="page" n="v.0027" xml:id="nb_07_04_05_0027_recto_text">
+                <div type="page" n="v.0027" xml:id="nb07_04_05_0027_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0027-recto.jpg"
                         n="0027-recto"/>
-                    <desc>MM draws an arrow pointing from "charity" in line 13 to "imaginary" in
-                        line 11.</desc>
+                    <!-- <desc>MM draws an arrow pointing from "charity" in line 13 to "imaginary" in
+                        line 11.</desc> -->
                     <lg>
                         <l n="01"> <seg type="draft-begin">                      </seg>Dr. Raworth Williams                      by Gerald Holland<note> MM drafts toward "Blue Bug," firstpublished <hi rend="italic">The New Yorker</hi>  38 (26 May 1962): 40. </note></l>
                         <l n="02">  	<hi rend="blue">                            Blue Bug                                                   </hi>	Holland     <hi rend="blue">(21</hi></l>
@@ -1534,11 +1534,11 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0028_text">
-                <div type="page" n="v.0028" xml:id="nb_07_04_05_0028_verso_text">
+                <div type="page" n="v.0028" xml:id="nb07_04_05_0028_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0028-verso.jpg"
                         n="0028-verso"/>
-                    <desc>MM circles "go" in line 12 and "grow" in line 16.</desc>
+                    <!-- <desc>MM circles "go" in line 12 and "grow" in line 16.</desc> -->
                     <lg>
                         <l n="01"> <seg type="draft-begin">                  </seg> <hi rend="blue">I can imagine -<note> MM drafts toward "Blue Bug."</note></hi></l>
                         <l n="02"><hi rend="blue">                 or can I?</hi></l>
@@ -1572,14 +1572,14 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0029_text">
-                <div type="page" n="v.0029" xml:id="nb_07_04_05_0029_recto_text">
+                <div type="page" n="v.0029" xml:id="nb07_04_05_0029_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0029-recto.jpg"
                         n="0029-recto"/>
-                    <desc>MM draws a straight line in the left margin by lines 07-08; she circles
+                    <!-- <desc>MM draws a straight line in the left margin by lines 07-08; she circles
                         the numbers 2 and 1, respectively, in lines 29 and 31; she draws an arrow
                         from line 24 to 22; on lines 21-22, she draws a wedge shape and concluding
-                        line to insert words "When the".</desc>
+                        line to insert words "When the".</desc> -->
                     <lg>
                         <l n="01"> <seg type="draft-begin"/>                      Yes, I envy<note> MM drafts toward "Charity Overcoming Envy."</note> <hi rend="blue">                                                                                                                   23</hi></l>
                         <l n="02"><hi rend="blue">                            Charity</hi></l>
@@ -1626,12 +1626,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0030_text">
-                <div type="page" n="v.0030" xml:id="nb_07_04_05_0030_verso_text">
+                <div type="page" n="v.0030" xml:id="nb07_04_05_0030_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0030-verso.jpg"
                         n="0030-verso"/>
-                    <desc>MM draws a large parenthesis on the right side of the words nearest the
-                        left margin in lines 31-32.</desc>
+                    <!-- <desc>MM draws a large parenthesis on the right side of the words nearest the
+                        left margin in lines 31-32.</desc> -->
                     <lg>
                         <l n="01"> <seg type="draft-begin">                        </seg>The postman, the      telephone<note> MM drafts toward "Charity Overcoming Envy."</note></l>
                         <l n="02">                    The florist the telegraph boy</l>
@@ -1673,7 +1673,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0031_text">
-                <div type="page" n="v.0031" xml:id="nb_07_04_05_0031_recto_text">
+                <div type="page" n="v.0031" xml:id="nb07_04_05_0031_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0031-recto.jpg"
                         n="0031-recto"/>
@@ -1720,12 +1720,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0032_text">
-                <div type="page" n="v.0032" xml:id="nb_07_04_05_0032_verso_text">
+                <div type="page" n="v.0032" xml:id="nb07_04_05_0032_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0032-verso.jpg"
                         n="0032-verso"/>
-                    <desc>MM draws a large parenthesis around words in lines 33-34, starting
-                        "from".</desc>
+                    <!-- <desc>MM draws a large parenthesis around words in lines 33-34, starting
+                        "from".</desc> -->
                     <lg>
                         <l n="01">  <seg type="draft-begin">             </seg>O eternity   O my Soul              or as we used to say<note> MM drafts toward "Charity Overcoming Envy."</note></l>
                         <l n="02">                                                                      soul and body</l>
@@ -1768,11 +1768,11 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0033_text">
-                <div type="page" n="v.0033" xml:id="nb_07_04_05_0033_recto_text">
+                <div type="page" n="v.0033" xml:id="nb07_04_05_0033_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0033-recto.jpg"
                         n="0033-recto"/>
-                    <desc>MM's parentheses include lines 25-27.</desc>
+                    <!-- <desc>MM's parentheses include lines 25-27.</desc> -->
                     <lg>
                         <l n="01"> 	 <seg type="draft-begin">                      </seg>a thousand flowers<note> MM drafts toward "Charity Overcoming Envy."</note> <hi rend="blue">                                                                                                                                             27</hi></l>
                         <l n="02">                       of <del>the</del> kind that do not weigh</l>
@@ -1811,12 +1811,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0034_text">
-                <div type="page" n="v.0034" xml:id="nb_07_04_05_0034_verso_text">
+                <div type="page" n="v.0034" xml:id="nb07_04_05_0034_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0034-verso.jpg"
                         n="0034-verso"/>
-                    <desc>MM cancels lines 08–22 with blue ink; in line 34, "See 19" is half
-                        circled.</desc>
+                    <!-- <desc>MM cancels lines 08–22 with blue ink; in line 34, "See 19" is half
+                        circled.</desc> -->
                     <lg>
                         <l n="01"> <seg type="draft-begin">           </seg> that elephant viewed with relish<note> MM drafts toward "Charity Overcoming Envy."</note></l>
                         <l n="02"> H. Holts                                           little great-horned</l>
@@ -1860,7 +1860,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0035_text">
-                <div type="page" n="v.0035" xml:id="nb_07_04_05_0035_recto_text">
+                <div type="page" n="v.0035" xml:id="nb07_04_05_0035_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0035-recto.jpg"
                         n="0035-recto"/>
@@ -1910,13 +1910,13 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0036_text">
-                <div type="page" n="v.0036" xml:id="nb_07_04_05_0036_verso_text">
+                <div type="page" n="v.0036" xml:id="nb07_04_05_0036_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0036-verso.jpg"
                         n="0036-verso"/>
-                    <desc>MM writes over several words in green or black ink; line 19, underlining
+                    <!-- <desc>MM writes over several words in green or black ink; line 19, underlining
                         is in green ink; left margin of line 21, she draws a mark with a tail
-                        leading to line 23.</desc>
+                        leading to line 23.</desc> -->
                     <lg>
                         <l n="01">  		<seg type="draft-begin">                                               </seg><hi rend="pencil">my</hi><note> MM drafts toward "Charity Overcoming Envy."</note></l>
                         <l n="02">  		<hi rend="pencil">                        deliver me fr  self-blinded dark</hi></l>
@@ -1950,12 +1950,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0037_text">
-                <div type="page" n="v.0037" xml:id="nb_07_04_05_0037_recto_text">
+                <div type="page" n="v.0037" xml:id="nb07_04_05_0037_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0037-recto.jpg"
                         n="0037-recto"/>
-                    <desc>Line 29, MM draws a double underline, once in blue ink, once in
-                        pencil.</desc>
+                    <!-- <desc>Line 29, MM draws a double underline, once in blue ink, once in
+                        pencil.</desc> -->
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/><hi rend="blue"><bibl type="begin"/>Routledge &amp; Kegan Paul Ltd                               31  </hi></l>
                         <l n="02">  		<hi rend="blue">                    Athens &amp; the Greek Miracle</hi></l>
@@ -1991,7 +1991,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0038_text">
-                <div type="page" n="v.0038" xml:id="nb_07_04_05_0038_verso_text">
+                <div type="page" n="v.0038" xml:id="nb07_04_05_0038_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0038-verso.jpg"
                         n="0038-verso"/>
@@ -2036,7 +2036,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0039_text">
-                <div type="page" n="v.0039" xml:id="nb_07_04_05_0039_recto_text">
+                <div type="page" n="v.0039" xml:id="nb07_04_05_0039_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0039-recto.jpg"
                         n="0039-recto"/>
@@ -2073,7 +2073,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0040_text">
-                <div type="page" n="v.0040" xml:id="nb_07_04_05_0040_verso_text">
+                <div type="page" n="v.0040" xml:id="nb07_04_05_0040_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0040-verso.jpg"
                         n="0040-verso"/>
@@ -2100,7 +2100,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0041_text">
-                <div type="page" n="v.0041" xml:id="nb_07_04_05_0041_recto_text">
+                <div type="page" n="v.0041" xml:id="nb07_04_05_0041_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0041-recto.jpg"
                         n="0041-recto"/>
@@ -2146,15 +2146,15 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0042_text">
-                <div type="page" n="v.0042" xml:id="nb_07_04_05_0042_verso_text">
+                <div type="page" n="v.0042" xml:id="nb07_04_05_0042_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0042-verso.jpg"
                         n="0042-verso"/>
-                    <desc>MM makes a one-sided bracket around words on the far right of lines 13-14
+                    <!-- <desc>MM makes a one-sided bracket around words on the far right of lines 13-14
                         and 15-16; and a curly bracket around left side of the far right column of
                         words, lines 34-39; she makes a mathematical symbol for "therefore"
                         mid-line, line 23, and an arrow pointing from the beginning of line 36 to
-                        line 35. Other marks on the page may be stray.</desc>
+                        line 35. Other marks on the page may be stray.</desc> -->
                     <lg>
                         <l n="01">  <seg type="draft-begin"/> such things 	I save<note> MM drafts toward "Avec Ardeur," first published as a Lowell House Separatum limited edition entitled <hi rend="italic">Occasionem Cognosce: A Poem </hi>(Stinehour Press, May 1963). MM renamed it "I've Been Thinking" in <hi rend="italic">Complete Poems</hi>  (1967); editors renamed it "Avec Ardeur" in <hi rend="italic">Complete Poems</hi>  (1981).</note></l>
                         <l n="02">  	(<del>not rings</del>)	and have</l>
@@ -2199,12 +2199,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0043_text">
-                <div type="page" n="v.0043" xml:id="nb_07_04_05_0043_recto_text">
+                <div type="page" n="v.0043" xml:id="nb07_04_05_0043_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0043-recto.jpg"
                         n="0043-recto"/>
-                    <desc>MM draws an arrow from "to pluck" in line 21 to "markings" in line 31 and
-                        from "but wait" in line 38 to "excess" in line 32.</desc>
+                    <!-- <desc>MM draws an arrow from "to pluck" in line 21 to "markings" in line 31 and
+                        from "but wait" in line 38 to "excess" in line 32.</desc> -->
                     <lg>
                         <l n="01">  <seg type="draft-begin">                        </seg>  I may have to go<note> MM drafts toward "Avec Ardeur."</note>                                                                                          I resign  seek Spain</l>
                         <l n="02"> I possess  to Tibidabo                                                   may have to go</l>
@@ -2254,12 +2254,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0044_text">
-                <div type="page" n="v.0044" xml:id="nb_07_04_05_0044_verso_text">
+                <div type="page" n="v.0044" xml:id="nb07_04_05_0044_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0044-verso.jpg"
                         n="0044-verso"/>
-                    <desc>In lines 4-5, MM draws a large stray mark; MM draws curly bracket around
-                        lines 17-20 on left.</desc>
+                    <!-- <desc>In lines 4-5, MM draws a large stray mark; MM draws curly bracket around
+                        lines 17-20 on left.</desc> -->
                     <lg>
                         <l n="01">  <seg type="draft-begin">     </seg> refuse             a cross?              Atlas                  Yes?  No<note> MM drafts toward "Avec Ardeur."</note></l>
                         <l n="02">     to use</l>
@@ -2285,14 +2285,14 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0045_text">
-                <div type="page" n="v.0045" xml:id="nb_07_04_05_0045_recto_text">
+                <div type="page" n="v.0045" xml:id="nb07_04_05_0045_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0045-recto.jpg"
                         n="0045-recto"/>
-                    <desc>MM circles "good?" and "wood," lines 11 and 25 respectively; she draws a
+                    <!-- <desc>MM circles "good?" and "wood," lines 11 and 25 respectively; she draws a
                         large parenthesis around mid-line words, lines 14-16; lines 5-7 toward right
                         margin, it is unclear whether MM places quotation marks and a question mark
-                        around "A bequest," on slanted lines.</desc>
+                        around "A bequest," on slanted lines.</desc> -->
                     <lg>
                         <l n="01">  <seg type="draft-begin">   </seg> da Vinci     Dr. Henry Noss, Feb. 28<note> MM drafts toward "An Expedient—Leonardo da Vinci's—&amp; a Query." </note></l>
                         <l n="02">  <hi rend="green">  Who has access to the fountain does not go to the waterpot</hi></l>
@@ -2338,13 +2338,13 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0046_text">
-                <div type="page" n="v.0046" xml:id="nb_07_04_05_0046_verso_text">
+                <div type="page" n="v.0046" xml:id="nb07_04_05_0046_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0046-verso.jpg"
                         n="0046-verso"/>
-                    <desc>MM circles 2 and "+" in lines 02 and 05; she writes over letters in lines
+                    <!-- <desc>MM circles 2 and "+" in lines 02 and 05; she writes over letters in lines
                         25-26 with green ink; she circles the word "most" in line 08 and "rest" in
-                        line 10.</desc>
+                        line 10.</desc> -->
                     <lg>
                         <l n="01">  <seg type="draft-begin"/>Title                 a category of one<note> MM drafts toward "An Expedient—Leonardo da Vinci's—&amp; a Query."</note></l>
                         <l n="02">           End         2 He invented invention</l>
@@ -2377,13 +2377,13 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0047_text">
-                <div type="page" n="v.0047" xml:id="nb_07_04_05_0047_recto_text">
+                <div type="page" n="v.0047" xml:id="nb07_04_05_0047_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0047-recto.jpg"
                         n="0047-recto"/>
-                    <desc>Line 29, MM underlines "Brendan Gill" in red; MM overwrites in black ink
+                    <!-- <desc>Line 29, MM underlines "Brendan Gill" in red; MM overwrites in black ink
                         an O over the last letter of Cano (misspelled) in line 30 and the word
-                        "indictment" in line 32.</desc>
+                        "indictment" in line 32.</desc> -->
                     <lg>
                         <l n="01"><hi rend="blue">           seclusion 	</hi></l>
                         <l n="02"><hi rend="blue">  Like	A Young Katydid			</hi></l>
@@ -2425,12 +2425,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0048_text">
-                <div type="page" n="v.0048" xml:id="nb_07_04_05_0048_verso_text">
+                <div type="page" n="v.0048" xml:id="nb07_04_05_0048_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0048-verso.jpg"
                         n="0048-verso"/>
-                    <desc>Line 1 "Want" is half circled. Right column lines 01-10 are bracketed on
-                        left side.</desc>
+                    <!-- <desc>Line 1 "Want" is half circled. Right column lines 01-10 are bracketed on
+                        left side.</desc> -->
                     <lg>
                         <l n="01">  Want,                                _Resentless          Philip Ward<note> Ward,Philip  [1938- ]. British poet, author of <hi rend="italic">Collected Poems</hi>  (<hi rend="background-color(#ffffff)">North Harrow, England: Philip Ward, </hi>1960). </note>                                                                            A Family</l>
                         <l n="02">  assurances                                                              Man</l>
@@ -2463,7 +2463,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0049_text">
-                <div type="page" n="r.0049" xml:id="nb_07_04_05_0049_recto_text">
+                <div type="page" n="r.0049" xml:id="nb07_04_05_0049_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0049-recto.jpg"
                         n="0049-recto"/>
@@ -2502,7 +2502,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0050_text">
-                <div type="page" n="v.0050" xml:id="nb_07_04_05_0050_verso_text">
+                <div type="page" n="v.0050" xml:id="nb07_04_05_0050_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0050-verso.jpg"
                         n="0050-verso"/>
@@ -2547,15 +2547,15 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0051_text">
-                <div type="page" n="v.0051" xml:id="nb_07_04_05_0051_recto_text">
+                <div type="page" n="v.0051" xml:id="nb07_04_05_0051_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0051-recto.jpg"
                         n="0051-recto"/>
-                    <desc>line 2, MM draws a sequence of short lines in 2 rows; line 16, she traces
+                    <!-- <desc>line 2, MM draws a sequence of short lines in 2 rows; line 16, she traces
                         most of the letters of her question in blue ink; line 24, she draws an arrow
                         in green ink from "his" to "purse," on line 23; lines 26-27, underline is in
                         green ink and half circles "company" to attach it to end of previous
-                        line.</desc>
+                        line.</desc> -->
                     <lg>
                         <l n="01">  <seg type="draft-begin">                               </seg> <seg type="genre-read-begin"/><quote type="begin"/>The Open Book: A Riddle<note> MM drafts toward "An Expedient—Leonardo da Vinci's—&amp; a Query," and cites a poem by Philip Ward from his self-published <hi rend="italic">Collected Poems </hi>(1960):14, entitled "An Open Book: a riddle.".</note></l>
                         <l n="02">                                   -_ -_ <hi rend="underline">-  </hi>5 lines<note> Ellipsis – followed by the number of lines MM skipped (5). MM cites line 6 of Ward's poem, beginning "Leap"; da Vinci's line; then line 8 of Ward's poem, beginning "Breathe."</note></l>
@@ -2595,13 +2595,13 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0052_text">
-                <div type="page" n="v.0052" xml:id="nb_07_04_05_0052_verso_text">
+                <div type="page" n="v.0052" xml:id="nb07_04_05_0052_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0052-verso.jpg"
                         n="0052-verso"/>
-                    <desc>MM writes some lines first in pencil then in green ink; line 06, she draws
+                    <!-- <desc>MM writes some lines first in pencil then in green ink; line 06, she draws
                         a line from the long parenthesis following "wrongs—" underneath "from cold";
-                        line 33, she draws a circle around "A" of "At".</desc>
+                        line 33, she draws a circle around "A" of "At".</desc> -->
                     <lg>
                         <l n="01">  <seg type="draft-begin"/><seg type="genre-read-begin">             </seg><hi rend="pencil">Patience</hi><hi rend="green">,</hi> <hi rend="pencil">as clothes the body can protect<del>ing</del> the soul</hi><note> MM drafts toward "An Expedient—Leonardo da Vinci's—&amp; a Query"; she evolves phrases from various books about da Vinci, including her copy of <hi rend="italic">Selections from the Notebooks of Leonardo da Vinci</hi><hi rend="background-color(#ffffff)"> (New York: Oxford, 1952), </hi>translated by Irma Richter.  </note></l>
                         <l n="02">  	<hi rend="green">           Patience—the solution is inward</hi></l>
@@ -2644,12 +2644,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0053_text">
-                <div type="page" n="v.0053" xml:id="nb_07_04_05_0053_recto_text">
+                <div type="page" n="v.0053" xml:id="nb07_04_05_0053_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0053-recto.jpg"
                         n="0053-recto"/>
-                    <desc>MM draws a vertical black line in lines 4-5 to the right, and a vertical
-                        red line in lines 14-15, to the left; she circles "A" in line 02.</desc>
+                    <!-- <desc>MM draws a vertical black line in lines 4-5 to the right, and a vertical
+                        red line in lines 14-15, to the left; she circles "A" in line 02.</desc> -->
                     <lg>
                         <l n="01">  <seg type="draft-begin"/><seg type="genre-read-begin"/><hi rend="green">   They who took as their standard anything</hi><note> MM drafts toward "An Expedient—Leonardo da Vinci's—&amp; a Query." </note></l>
                         <l n="02"><hi rend="green">  A  other than nature the supreme guide of all the				</hi></l>
@@ -2670,7 +2670,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0054_text">
-                <div type="page" n="v.0054" xml:id="nb_07_04_05_0054_verso_text">
+                <div type="page" n="v.0054" xml:id="nb07_04_05_0054_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0054-verso.jpg"
                         n="0054-verso"/>
@@ -2709,7 +2709,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0055_text">
-                <div type="page" n="v.0055" xml:id="nb_07_04_05_0055_recto_text">
+                <div type="page" n="v.0055" xml:id="nb07_04_05_0055_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0055-recto.jpg"
                         n="0055-recto"/>
@@ -2745,7 +2745,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0056_text">
-                <div type="page" n="v.0056" xml:id="nb_07_04_05_0056_verso_text">
+                <div type="page" n="v.0056" xml:id="nb07_04_05_0056_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0056-verso.jpg"
                         n="0056-verso"/>
@@ -2789,13 +2789,13 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0057_text">
-                <div type="page" n="v.0057" xml:id="nb_07_04_05_0057_recto_text">
+                <div type="page" n="v.0057" xml:id="nb07_04_05_0057_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0057-recto.jpg"
                         n="0057-recto"/>
-                    <desc>MM draws a semicircle under and beside lines 31-33, and an arrow pointing
+                    <!-- <desc>MM draws a semicircle under and beside lines 31-33, and an arrow pointing
                         toward line 35 indicating connection to reference on prior notebook page. A
-                        mark (perhaps shorthand) begins line 33.</desc>
+                        mark (perhaps shorthand) begins line 33.</desc> -->
                     <lg>
                         <l n="01">  		<hi rend="blue">                         Full Moon</hi></l>
                         <l n="02"><hi rend="blue">                                                                            see it	</hi></l>
@@ -2838,7 +2838,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0058_text">
-                <div type="page" n="v.0058" xml:id="nb_07_04_05_0058_verso_text">
+                <div type="page" n="v.0058" xml:id="nb07_04_05_0058_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0058-verso.jpg"
                         n="0058-verso"/>
@@ -2875,14 +2875,14 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0059_text">
-                <div type="page" n="v.0059" xml:id="nb_07_04_05_0059_recto_text">
+                <div type="page" n="v.0059" xml:id="nb07_04_05_0059_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0059-recto.jpg"
                         n="0059-recto"/>
-                    <desc>MM draws an emphatic squiggle under the words "down," "nne,"
+                    <!-- <desc>MM draws an emphatic squiggle under the words "down," "nne,"
                         "calculation,"and "out done" (twice)—lines 18, 21, 25, and 26-27. This does
                         not appear elsewhere in this notebook. Lines 02-13, 16-24 &amp; 28-38 are
-                        bracketed with a curly bracket, left side.</desc>
+                        bracketed with a curly bracket, left side.</desc> -->
                     <lg>
                         <l n="01"> <hi rend="blue">on a fair I decided              </hi><del>I thought</del>               <hi rend="blue">is fair</hi></l>
                         <l n="02"><hi rend="blue">            day yes /                                     on a day <del>that</del>	</hi></l>
@@ -2929,7 +2929,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0060_text">
-                <div type="page" n="v.0060" xml:id="nb_07_04_05_0060_verso_text">
+                <div type="page" n="v.0060" xml:id="nb07_04_05_0060_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0060-verso.jpg"
                         n="0060-verso"/>
@@ -2968,7 +2968,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0061_text">
-                <div type="page" n="v.0061" xml:id="nb_07_04_05_0061_recto_text">
+                <div type="page" n="v.0061" xml:id="nb07_04_05_0061_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0061-recto.jpg"
                         n="0061-recto"/>
@@ -3002,7 +3002,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0062_text">
-                <div type="page" n="v.0062" xml:id="nb_07_04_05_0062_verso_text">
+                <div type="page" n="v.0062" xml:id="nb07_04_05_0062_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0062-verso.jpg"
                         n="0062-verso"/>
@@ -3043,15 +3043,15 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0063_text">
-                <div type="page" n="v.0063" xml:id="nb_07_04_05_0063_recto_text">
+                <div type="page" n="v.0063" xml:id="nb07_04_05_0063_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0063-recto.jpg"
                         n="0063-recto"/>
-                    <desc>Lines 02-03 are first written in pencil, then written over in blue ink;
+                    <!-- <desc>Lines 02-03 are first written in pencil, then written over in blue ink;
                         underline in 06 and 16 is in red; line 30 underline is in pencil. MM circles
                         "of" in line 11; she draws square bracket in lines 22-23 and a curly bracket
                         to the left of lines 24-36. In the left margin line 30, MM pencils an arrow
-                        pointing from the source written vertically to line 30.</desc>
+                        pointing from the source written vertically to line 30.</desc> -->
                     <lg>
                         <l n="01">  <seg type="draft-begin"/><hi rend="blue"><seg type="genre-read-begin"/>Landor's dialogues cameos of indignation</hi><note> MM drafts toward "W. S. Landor." As indicated in her published note to this poem, she draws on Havelock Ellis's Introduction to Landor's <hi rend="italic">Imaginary Conversations: A Selection</hi>, edited by Ellis (London: J. M. Dent &amp; Sons, and New York: E. P. Dutton &amp; Co., multiple editions).</note></l>
                         <l n="02">  <hi rend="blue">Landor   I pant! I fight </hi><del><hi rend="pencil">sit down</hi></del><hi rend="blue">  I write</hi></l>
@@ -3096,12 +3096,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0064_text">
-                <div type="page" n="v.0064" xml:id="nb_07_04_05_0064_verso_text">
+                <div type="page" n="v.0064" xml:id="nb07_04_05_0064_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0064-verso.jpg"
                         n="0064-verso"/>
-                    <desc>Lines 6-12, MM draws a long curly bracket on the left margin, pointing to
-                        her vertical note "J Masefield".</desc>
+                    <!-- <desc>Lines 6-12, MM draws a long curly bracket on the left margin, pointing to
+                        her vertical note "J Masefield".</desc> -->
                     <lg>
                         <l n="01"><seg type="draft-begin"/>     The Spectacled owl in Gerald Durrell's<note> MM drafts toward "Old Amusement Park."</note></l>
                         <l n="02">  	Photo EDH Johnson<note> Johnson, Edward Dudley Hume [1911-1995]. Princeton Professor of English.</note>                                                     Jersey Zoo<note> Durrell, Gerald [1925-1995]. Naturalist who collected pen portraits of some of the animals in his personal zoo on the island of Jersey.</note> </l>
@@ -3143,11 +3143,11 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0065_text">
-                <div type="page" n="v.0065" xml:id="nb_07_04_05_0065_recto_text">
+                <div type="page" n="v.0065" xml:id="nb07_04_05_0065_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0065-recto.jpg"
                         n="0065-recto"/>
-                    <desc>MM underlines "Stay" in pencil, line 21.</desc>
+                    <!-- <desc>MM underlines "Stay" in pencil, line 21.</desc> -->
                     <lg>
                         <l n="01">  <seg type="draft-begin"/>         Ah               Ah me!<note> MM drafts toward "The Mind, Intractable Thing," first published <hi rend="italic">The New Yorker</hi>  41 (27 November 1965): 60.</note></l>
                         <l n="02">                                 O bee—</l>
@@ -3190,7 +3190,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0066_text">
-                <div type="page" n="v.0066" xml:id="nb_07_04_05_0066_verso_text">
+                <div type="page" n="v.0066" xml:id="nb07_04_05_0066_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0066-verso.jpg"
                         n="0066-verso"/>
@@ -3224,7 +3224,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0067_text">
-                <div type="page" n="v.0067" xml:id="nb_07_04_05_0067_recto_text">
+                <div type="page" n="v.0067" xml:id="nb07_04_05_0067_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0067-recto.jpg"
                         n="0067-recto"/>
@@ -3245,7 +3245,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0068_text">
-                <div type="page" n="v.0068" xml:id="nb_07_04_05_0068_verso_text">
+                <div type="page" n="v.0068" xml:id="nb07_04_05_0068_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0068-verso.jpg"
                         n="0068-verso"/>
@@ -3255,7 +3255,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0069_text">
-                <div type="page" n="v.0069" xml:id="nb_07_04_05_0069_recto_text">
+                <div type="page" n="v.0069" xml:id="nb07_04_05_0069_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0069-recto.jpg"
                         n="0069-recto"/>
@@ -3291,7 +3291,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0070_text">
-                <div type="page" n="v.0070" xml:id="nb_07_04_05_0070_verso_text">
+                <div type="page" n="v.0070" xml:id="nb07_04_05_0070_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0070-verso.jpg"
                         n="0070-verso"/>
@@ -3301,11 +3301,11 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0071_text">
-                <div type="page" n="r.0071" xml:id="nb_07_04_05_0071_recto_text">
+                <div type="page" n="r.0071" xml:id="nb07_04_05_0071_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0071-recto.jpg"
                         n="0071-recto"/>
-                    <desc>Line 10, MM draws arrow from "ovoid" to "egg" in previous line.</desc>
+                    <!-- <desc>Line 10, MM draws arrow from "ovoid" to "egg" in previous line.</desc> -->
                     <lg>
                         <l n="01"> 	<seg type="draft-begin"/>                    The younger not stronger<note> MM drafts toward "Dream," first published<hi rend="italic">The New Yorker</hi>  41 (16 October 1965): 52.</note> </l>
                         <l n="02">                    the older not wiser</l>
@@ -3349,7 +3349,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0072_text">
-                <div type="page" n="v.0072" xml:id="nb_07_04_05_0072_verso_text">
+                <div type="page" n="v.0072" xml:id="nb07_04_05_0072_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0072-verso.jpg"
                         n="0072-verso"/>
@@ -3366,12 +3366,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0073_text">
-                <div type="page" n="v.0073" xml:id="nb_07_04_05_0073_verso_text">
+                <div type="page" n="v.0073" xml:id="nb07_04_05_0073_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0073-verso.jpg"
                         n="0073-verso"/>
-                    <desc>Lines 29 to 34 involve extensive erasure and overwriting; line 33 MM may
-                        write and then erase "there here" and then an ineligible third word.</desc>
+                    <!-- <desc>Lines 29 to 34 involve extensive erasure and overwriting; line 33 MM may
+                        write and then erase "there here" and then an ineligible third word.</desc> -->
                     <lg>
                         <l n="01">  <seg type="draft-begin">         </seg><hi rend="blue">I am                                 Would I were</hi><note> MM drafts toward "Mercifully," first published <hi rend="italic">The New Yorker</hi>  44 (20 July 1968): 34.</note></l>
                         <l n="02"><hi rend="blue">                                                          only stone</hi></l>
@@ -3412,7 +3412,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0074_text">
-                <div type="page" n="v.0074" xml:id="nb_07_04_05_0074_verso_text">
+                <div type="page" n="v.0074" xml:id="nb07_04_05_0074_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0074-verso.jpg"
                         n="0074-verso"/>
@@ -3426,11 +3426,11 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0075_text">
-                <div type="page" n="r.0075" xml:id="nb_07_04_05_0075_recto_text">
+                <div type="page" n="r.0075" xml:id="nb07_04_05_0075_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0075-recto.jpg"
                         n="0075-recto"/>
-                    <desc>Line 04, MM makes unidentifiable mark at the beginning of the line.</desc>
+                    <!-- <desc>Line 04, MM makes unidentifiable mark at the beginning of the line.</desc> -->
                     <lg>
                         <l n="01">  <seg type="draft-begin">                                 </seg>	The Camperdown Elm<note> MM drafts toward "The Camperdown Elm," first published <hi rend="italic">The New Yorker</hi>  43 (23 September 1967): 48.</note></l>
                         <l n="02">  <hi rend="blue">Thomas                                     Bryant &amp; Asher Durand</hi></l>
@@ -3464,13 +3464,13 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0076_text">
-                <div type="page" n="v.0076" xml:id="nb_07_04_05_0076_verso_text">
+                <div type="page" n="v.0076" xml:id="nb07_04_05_0076_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0076-verso.jpg"
                         n="0076-verso"/>
-                    <desc>MM either deletes or underlines words in line 20, in red ink; between
+                    <!-- <desc>MM either deletes or underlines words in line 20, in red ink; between
                         lines 22-24, she perhaps has written and then erased something now barely
-                        legible in red pencil.</desc>
+                        legible in red pencil.</desc> -->
                     <lg>
                         <l n="01"><seg type="draft-begin"/><hi rend="blue">Sep–Oct</hi><note> MM drafts toward "Mercifully."</note></l>
                         <l n="02"/>
@@ -3516,7 +3516,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0077_text">
-                <div type="page" n="r.0077" xml:id="nb_07_04_05_0077_recto_text">
+                <div type="page" n="r.0077" xml:id="nb07_04_05_0077_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0077-recto.jpg"
                         n="0077-recto"/>
@@ -3561,14 +3561,14 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0078_text">
-                <div type="page" n="v.0078" xml:id="nb_07_04_05_0078_verso_text">
+                <div type="page" n="v.0078" xml:id="nb07_04_05_0078_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0078-verso.jpg"
                         n="0078-verso"/>
-                    <desc>MM draws circles around the numbers 1, 2, and 3 lines 01, 03, 05; she
+                    <!-- <desc>MM draws circles around the numbers 1, 2, and 3 lines 01, 03, 05; she
                         draws a curly bracket on the left side of lines 23-30. Beginning of line 12,
                         MM may draw an arrow pointing to line 10. Line 2 may have been partially
-                        erased, as well as deleted, or the pen may have become faint.</desc>
+                        erased, as well as deleted, or the pen may have become faint.</desc> -->
                     <lg>
                         <l n="01">  <seg type="draft-begin">    </seg>1    I am hard to disgust<note> MM drafts toward "Mercifully."</note> </l>
                         <l n="02">   an pretentious poet can do it</l>
@@ -3605,13 +3605,13 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0079_text">
-                <div type="page" n="r.0079" xml:id="nb_07_04_05_0079_recto_text">
+                <div type="page" n="r.0079" xml:id="nb07_04_05_0079_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0079-recto.jpg"
                         n="0079-recto"/>
-                    <desc>MM circles "tall" line 04 and "small" line 16; slanted lines cancel "own
+                    <!-- <desc>MM circles "tall" line 04 and "small" line 16; slanted lines cancel "own
                         ermine" in line 11; in line 23 the letters of heaven are written
-                        over.</desc>
+                        over.</desc> -->
                     <lg>
                         <l n="01">  			 <seg type="draft-begin">                                         </seg> The panther sacred to him<note> MM drafts toward "Reminiscent of a Wave at the Curl," first published <hi rend="italic">The New Yorker</hi>  45 (29 November 1969): 44, as "Like a Wave at the Curl." The new title appeared in the 1981 edition of MM's <hi rend="italic">Complete Poems</hi>. </note></l>
                         <l n="02">                        Dionysis Kitten</l>
@@ -3643,13 +3643,13 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0080_text">
-                <div type="page" n="v.0080" xml:id="nb_07_04_05_0080_verso_text">
+                <div type="page" n="v.0080" xml:id="nb07_04_05_0080_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0080-verso.jpg"
                         n="0080-verso"/>
-                    <desc>MM draws a line between line 35 from the end of the word "interruption,"
+                    <!-- <desc>MM draws a line between line 35 from the end of the word "interruption,"
                         to the ellipses at the end of line 36; line 34, "music" is written over to
-                        the extent that it may be deleted.</desc>
+                        the extent that it may be deleted.</desc> -->
                     <lg>
                         <l n="01">  <seg type="draft-begin">                    </seg>A Aside<note> MM drafts toward "Mercifully."</note></l>
                         <l n="02">       I am hard to disgust</l>
@@ -3691,12 +3691,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0081_text">
-                <div type="page" n="r.0081" xml:id="nb_07_04_05_0081_recto_text">
+                <div type="page" n="r.0081" xml:id="nb07_04_05_0081_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0081-recto.jpg"
                         n="0081-recto"/>
-                    <desc>Top of page was cut off, leaving only the lower half, which was then
-                        overlaid on p. 83 (see footnote).</desc>
+                    <!-- <desc>Top of page was cut off, leaving only the lower half, which was then
+                        overlaid on p. 83 (see footnote).</desc> -->
                     <lg>
                         <l n="01">  <seg type="draft-begin">               </seg>Never mind what I said<note> MM drafts toward "Mercifully."</note> </l>
                         <l n="02">                                                  Said<note> MM cut off the top of page 81, then began writing on the top of 83, apparently not noticing that there were two different pages now overlapping. When she reached the point of overlap, she wrote a few words with their upper portions on 83 and the lower on 81. She continued on 81, so that upper 83 and lower 81 are a continuous text. The lower part of 83 was thus blank and available for further use later.</note></l>
@@ -3718,12 +3718,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0082_text">
-                <div type="page" n="v.0082" xml:id="nb_07_04_05_0082_verso_text">
+                <div type="page" n="v.0082" xml:id="nb07_04_05_0082_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0082-verso.jpg"
                         n="0082-verso"/>
-                    <desc>Top of page has been cut off, see note image 0081; in line 7 the word
-                        "inadequate" angles down.</desc>
+                    <!-- <desc>Top of page has been cut off, see note image 0081; in line 7 the word
+                        "inadequate" angles down.</desc> -->
                     <lg>
                         <l n="01">  <seg type="draft-begin"/> 2 In an uproar of conversation<note> MM drafts toward "Mercifully."</note></l>
                         <l n="02">  in which harmony loses its force</l>
@@ -3745,12 +3745,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0083_text">
-                <div type="page" n="r.0083" xml:id="nb_07_04_05_0083_recto_text">
+                <div type="page" n="r.0083" xml:id="nb07_04_05_0083_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0083-recto.jpg"
                         n="0083-recto"/>
-                    <desc>Material beginning line 12 is written separately from the material above;
-                        see note to image 0081.</desc>
+                    <!-- <desc>Material beginning line 12 is written separately from the material above;
+                        see note to image 0081.</desc> -->
                     <lg>
                         <l n="01">   a bolt fr heaven<note> The top of this page aligns with the bottom of image 0081 (see note there).</note></l>
                         <l n="02">              lightning rod</l>
@@ -3774,7 +3774,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0084_text">
-                <div type="page" n="v.0084" xml:id="nb_07_04_05_0084_verso_text">
+                <div type="page" n="v.0084" xml:id="nb07_04_05_0084_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0084-verso.jpg"
                         n="0084-verso"/>
@@ -3784,7 +3784,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0085_text">
-                <div type="page" n="r.0085" xml:id="nb_07_04_05_0085_recto_text">
+                <div type="page" n="r.0085" xml:id="nb07_04_05_0085_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0085-recto.jpg"
                         n="0085-recto"/>
@@ -3830,11 +3830,11 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0086_text">
-                <div type="page" n="v.0086" xml:id="nb_07_04_05_0086_verso_text">
+                <div type="page" n="v.0086" xml:id="nb07_04_05_0086_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0086-verso.jpg"
                         n="0086-verso"/>
-                    <desc>Underlining in line 13 is in blue ink.</desc>
+                    <!-- <desc>Underlining in line 13 is in blue ink.</desc> -->
                     <lg>
                         <l n="01"> 		 <seg type="draft-begin">                            </seg>In heavy trouble<note> MM drafts toward "Reminiscent of a Wave at the Curl."</note></l>
                         <l n="02">                           Sealpoints</l>
@@ -3862,11 +3862,11 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0087_text">
-                <div type="page" n="r.0087" xml:id="nb_07_04_05_0087_recto_text">
+                <div type="page" n="r.0087" xml:id="nb07_04_05_0087_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0087-recto.jpg"
                         n="0087-recto"/>
-                    <desc>MM cancels lines 01-10 with slanted lines.</desc>
+                    <!-- <desc>MM cancels lines 01-10 with slanted lines.</desc> -->
                     <lg>
                         <l n="01"> 	 <seg type="draft-begin">    </seg>Suffering from austerity<note> MM drafts toward "Enough 1969," first published <hi rend="italic">The New Yorker</hi>  46 (17 January 1970): 28.</note></l>
                         <l n="02">    This is writing perhaps without care of posterity</l>
@@ -3899,16 +3899,16 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0088_text">
-                <div type="page" n="v.0088" xml:id="nb_07_04_05_0088_verso_text">
+                <div type="page" n="v.0088" xml:id="nb07_04_05_0088_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0088-verso.jpg"
                         n="0088-verso"/>
-                    <desc>Two printed poems by Robert Southey. MM cancels "nearer as she gazed" in
+                    <!-- <desc>Two printed poems by Robert Southey. MM cancels "nearer as she gazed" in
                         the penultimate line and "tremblingly" in the final line of "The Locust" and
                         underlines the penultimate line of "The Sea Anemone" and cancels the final
                         line. She puts "Sea" in parentheses, in the title of this poem, and numbers
                         the final words of its first line 3, 2, 1, apparently to change their
-                        order.</desc>
+                        order.</desc> -->
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/><hi rend="underline">R Southey</hi><note> Southey, Robert [1774-1843]. English poet, associated with Romanticism. MM pastes in and annotates a newspaper clipping from 1916, containing two of Southey's poems.  </note>	<bibl type="begin"/>                                           NY. Times	May 7) 1916<note>MM cancels "nearer as she gazed" in the penultimate line and "tremblingly" in the final line of "The Locust"; she draws parentheses around "Sea"  in the title of "The Sea Anemone" and numbers words in its first line to change their order; she underlines the penultimate and cancels the final line of this poem.</note></l>
                         <l n="02"> </l>
@@ -3943,11 +3943,11 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0089_text">
-                <div type="page" n="r.0089" xml:id="nb_07_04_05_0089_recto_text">
+                <div type="page" n="r.0089" xml:id="nb07_04_05_0089_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0089-recto.jpg"
                         n="0089-recto"/>
-                    <desc>MM draws a squiggle in line 01.</desc>
+                    <!-- <desc>MM draws a squiggle in line 01.</desc> -->
                     <lg>
                         <l n="01">  <seg type="draft-begin">              </seg> — <note> MM drafts toward "The Magician's Retreat," first published <hi rend="italic">The New Yorker</hi>  46 (21 February 1970): 40. </note></l>
                         <l n="02"> 	<hi rend="blue">              The Magician's Retreat</hi></l>
@@ -3985,7 +3985,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0090_text">
-                <div type="page" n="v.0090" xml:id="nb_07_04_05_0090_verso_text">
+                <div type="page" n="v.0090" xml:id="nb07_04_05_0090_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0090-verso.jpg"
                         n="0090-verso"/>
@@ -4025,12 +4025,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0091_text">
-                <div type="page" n="r.0091" xml:id="nb_07_04_05_0091_recto_text">
+                <div type="page" n="r.0091" xml:id="nb07_04_05_0091_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0091-recto.jpg"
                         n="0091-recto"/>
-                    <desc>Lines 02-05, MM writes in pen over faint penciled words; she draws some
-                        mark before "born," line 13.</desc>
+                    <!-- <desc>Lines 02-05, MM writes in pen over faint penciled words; she draws some
+                        mark before "born," line 13.</desc> -->
                     <lg>
                         <l n="01"> 	 <seg type="draft-begin">            </seg> The Magician's Retreat<note> MM drafts toward "The Magician's Retreat."</note></l>
                         <l n="02"> A square <del>of with</del> mansard <del>of roof</del>roof     No</l>
@@ -4057,30 +4057,30 @@
                         <l n="23">                                                        mass of a tree</l>
                         <l n="24">            interpreters— closed in parallelogram </l>
                         <l n="25">             tower <del>a</del> or species of fortress complete</l>
-                        <l n="26"/>
+                        <l n="26"> </l>
                         <l n="27">            The Magician's Retreat</l>
                         <l n="28">                  <del>not</del> no with an archaic <del>hut</del> obsolete hut </l>
                         <l n="29">  <del> very</del> plain  symmetrical</l>
                         <l n="30">  <hi rend="pencil">                                                    neat</hi></l>
-                        <l n="29">  <del>in any case</del>     B<del>ut</del> a housewifely neat</l>
-                        <l n="30">                                                        Tall enough to  <unclear resp="eg">obscure</unclear>	 3 </l>
-                        <l n="31">                       <del>imaginative sanely squared 4 - 5</del>	sincerely </l>
-                        <l n="32">     commandingly plain with sky enough for  3    <del>quare</del></l>
-                        <l n="33">                                                                         crazed <del>new</del> moon </l>
-                        <l n="34">                                                                             trees moons</l>
-                        <l n="35">      [Last line <del>but</del> 	<hi rend="underline">above all; discreet</hi>]<seg type="draft-end"/></l>
+                        <l n="31">  <del>in any case</del>     B<del>ut</del> a housewifely neat</l>
+                        <l n="32">                                                        Tall enough to  <unclear resp="eg">obscure</unclear>	 3 </l>
+                        <l n="33">                       <del>imaginative sanely squared 4 - 5</del>	sincerely </l>
+                        <l n="34">     commandingly plain with sky enough for  3    <del>quare</del></l>
+                        <l n="35">                                                                         crazed <del>new</del> moon </l>
+                        <l n="36">                                                                             trees moons</l>
+                        <l n="37">      [Last line <del>but</del> 	<hi rend="underline">above all; discreet</hi>]<seg type="draft-end"/></l>
                     </lg>
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0092_text">
-                <div type="page" n="v.0092" xml:id="nb_07_04_05_0092_verso_text">
+                <div type="page" n="v.0092" xml:id="nb07_04_05_0092_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0092-verso.jpg"
                         n="0092-verso"/>
-                    <desc>This page contains traces of what may be original pencil or an ink pen
+                    <!-- <desc>This page contains traces of what may be original pencil or an ink pen
                         running out of ink, which are largely overwritten in ink; entire page
                         cancelled with a large "X" across the middle; in several places there are
-                        scribble marks—perhaps to encourage flow of ink.</desc>
+                        scribble marks—perhaps to encourage flow of ink.</desc> -->
                     <lg>
                         <l n="01"><seg type="draft-begin">                                                     </seg>May 6, 1969<note> MM drafts toward "Prevalent at One Time." </note></l>
                         <l n="02">                                                                              All black</l>
@@ -4121,13 +4121,13 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0093_text">
-                <div type="page" n="r.0093" xml:id="nb_07_04_05_0093_recto_text">
+                <div type="page" n="r.0093" xml:id="nb07_04_05_0093_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0093-recto.jpg"
                         n="0093-recto"/>
-                    <desc>This page was originally written in pencil, which is in some sections then
+                    <!-- <desc>This page was originally written in pencil, which is in some sections then
                         overwritten in ink, as indicated; MM draws a curved line in the right-middle
-                        part of line 28.</desc>
+                        part of line 28.</desc> -->
                     <lg>
                         <l n="01">  	<seg type="draft-begin"/>       <hi rend="pencil">My conveyance<note> MM drafts toward "Prevalent at One Time."</note></hi></l>
                         <l n="02">                      Al onde</l>
@@ -4162,12 +4162,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0094_text">
-                <div type="page" n="v.0094" xml:id="nb_07_04_05_0094_verso_text">
+                <div type="page" n="v.0094" xml:id="nb07_04_05_0094_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0094-verso.jpg"
                         n="0094-verso"/>
-                    <desc>This page was originally written in pencil or faint ink, then overwritten
-                        in ink.</desc>
+                    <!-- <desc>This page was originally written in pencil or faint ink, then overwritten
+                        in ink.</desc> -->
                     <lg>
                         <l n="01"><seg type="draft-begin"/><hi rend="pencil">           Then<note> MM drafts toward "Prevalent at One Time."</note><unclear resp="eg">                       on<gap extent="2" resp="eg"/></unclear></hi></l>
                         <l n="02">  	<hi rend="pencil">   Beside the a</hi> tigerskin pug</l>
@@ -4183,13 +4183,13 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0095_text">
-                <div type="page" n="r.0095" xml:id="nb_07_04_05_0095_recto_text">
+                <div type="page" n="r.0095" xml:id="nb07_04_05_0095_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0095-recto.jpg"
                         n="0095-recto"/>
-                    <desc>This page was originally written in pencil, which is in some sections
+                    <!-- <desc>This page was originally written in pencil, which is in some sections
                         overwritten in ink; MM circles "gig" line 02 and "fig" line 04 and
-                        "semicircular" line 28.</desc>
+                        "semicircular" line 28.</desc> -->
                     <lg>
                         <l n="01"><seg type="draft-begin"/><hi rend="pencil">                At one time prevalent<note> MM drafts toward "Prevalent at One Time."</note></hi></l>
                         <l n="02">         I've always wanted a gig</l>
@@ -4229,7 +4229,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0096_text">
-                <div type="page" n="v.0096" xml:id="nb_07_04_05_0096_verso_text">
+                <div type="page" n="v.0096" xml:id="nb07_04_05_0096_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0096-verso.jpg"
                         n="0096-verso"/>
@@ -4239,11 +4239,11 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0097_text">
-                <div type="page" n="r.0097" xml:id="nb_07_04_05_0097_recto_text">
+                <div type="page" n="r.0097" xml:id="nb07_04_05_0097_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0097-recto.jpg"
                         n="0097-recto"/>
-                    <desc>MM draws wavy vertical lines between lines 06 and 08.</desc>
+                    <!-- <desc>MM draws wavy vertical lines between lines 06 and 08.</desc> -->
                     <lg>
                         <l n="01">  <seg type="draft-begin"/><hi rend="pencil">                              Prevalent  at  One Time<note> MM drafts toward "Prevalent at One Time."</note></hi></l>
                         <l n="02">    I've always wanted a gig</l>
@@ -4260,7 +4260,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0098_text">
-                <div type="page" n="v.0098" xml:id="nb_07_04_05_0098_verso_text">
+                <div type="page" n="v.0098" xml:id="nb07_04_05_0098_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0098-verso.jpg"
                         n="0098-verso"/>
@@ -4270,7 +4270,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0099_text">
-                <div type="page" n="r.0099" xml:id="nb_07_04_05_0099_recto_text">
+                <div type="page" n="r.0099" xml:id="nb07_04_05_0099_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0099-recto.jpg"
                         n="0099-recto"/>
@@ -4280,7 +4280,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0100_text">
-                <div type="page" n="v.0100" xml:id="nb_07_04_05_0100_verso_text">
+                <div type="page" n="v.0100" xml:id="nb07_04_05_0100_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0100-verso.jpg"
                         n="0100-verso"/>
@@ -4290,11 +4290,11 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0101_text">
-                <div type="page" n="r.0101" xml:id="nb_07_04_05_0101_recto_text">
+                <div type="page" n="r.0101" xml:id="nb07_04_05_0101_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0101-recto.jpg"
                         n="0101-recto"/>
-                    <desc>Writing begins in lower tenth of the page.</desc>
+                    <!-- <desc>Writing begins in lower tenth of the page.</desc> -->
                     <lg>
                         <l n="01">          Bull ring</l>
                         <l n="02">  not killed but very                  injured</l>
@@ -4302,13 +4302,13 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0102_text">
-                <div type="page" n="v.0102" xml:id="nb_07_04_05_0102_verso_text">
+                <div type="page" n="v.0102" xml:id="nb07_04_05_0102_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0102-verso.jpg"
                         n="0102-verso"/>
-                    <desc>MM draws a rough map of Majorca that overlaps writing between lines 17 and
+                    <!-- <desc>MM draws a rough map of Majorca that overlaps writing between lines 17 and
                         23; it includes a depiction of a "one way" road across a peninsula, with an
-                        arrow from line 23 ("takes 4 hours") to the sketch of the road.</desc>
+                        arrow from line 23 ("takes 4 hours") to the sketch of the road.</desc> -->
                     <lg>
                         <l n="01"><seg type="genre-travel-begin"/><hi rend="blue">                Islands Palma majorca           10 months</hi><note> MM travelled to Europe by boat in 1962 with college friend Frances Browne and Frances's sister Norvelle, departing July 25, returning October 11. They visited Azores, Madeira, Lisbon, Majorca, Italy, and Greece. Some notes here were made on that trip, including Italian language practice.The purser lectured the group on the sites they would visit.</note> </l>
                         <l n="02"><hi rend="blue">                 in a year—prices good</hi></l>
@@ -4342,7 +4342,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0103_text">
-                <div type="page" n="r.0103" xml:id="nb_07_04_05_0103_recto_text">
+                <div type="page" n="r.0103" xml:id="nb07_04_05_0103_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0103-recto.jpg"
                         n="0103-recto"/>
@@ -4377,12 +4377,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0104_text">
-                <div type="page" n="v.0104" xml:id="nb_07_04_05_0104_verso_text">
+                <div type="page" n="v.0104" xml:id="nb07_04_05_0104_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0104-verso.jpg"
                         n="0104-verso"/>
-                    <desc>Lines 11-13, MM draws curly bracket linking three third-person
-                        pronouns.</desc>
+                    <!-- <desc>Lines 11-13, MM draws curly bracket linking three third-person
+                        pronouns.</desc> -->
                     <lg>
                         <l n="01"><seg type="genre-travel-begin"/><foreign xml:lang="it">        Augosto</foreign> 3                  Print shop = <foreign xml:lang="it"><note> MM took Italian lessons on the cruise over (beginning July 28th, per her appointment book) and she takes notes here.</note>                                                                     tipographia</foreign> </l>
                         <l n="02">  We try to learn a few phrases</l>
@@ -4420,7 +4420,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0105_text">
-                <div type="page" n="r.0105" xml:id="nb_07_04_05_0105_recto_text">
+                <div type="page" n="r.0105" xml:id="nb07_04_05_0105_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0105-recto.jpg"
                         n="0105-recto"/>
@@ -4441,15 +4441,15 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0106_text">
-                <div type="page" n="v.0106" xml:id="nb_07_04_05_0106_verso_text">
+                <div type="page" n="v.0106" xml:id="nb07_04_05_0106_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0106-verso.jpg"
                         n="0106-verso"/>
-                    <desc>MM draws diagonal line from "visto" to "from vedere" (line 10 to 13); she
+                    <!-- <desc>MM draws diagonal line from "visto" to "from vedere" (line 10 to 13); she
                         draws a curly bracket linking three third-person pronouns, lines 11-13 and
                         draws a diagonal line from "creduto" to "past … credere" (line 12 to 14);
                         she draws an arrow from "vorrei" to "andare" lines 27-28; the parentheses
-                        around "how much" extend from line 31 to 32.</desc>
+                        around "how much" extend from line 31 to 32.</desc> -->
                     <lg>
                         <l n="01">  	  <seg type="genre-travel-begin"/>                         August 1, 1962</l>
                         <l n="02">  <foreign xml:lang="it">  La spugna  lè spugne</foreign></l>
@@ -4488,7 +4488,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0107_text">
-                <div type="page" n="r.0107" xml:id="nb_07_04_05_0107_recto_text">
+                <div type="page" n="r.0107" xml:id="nb07_04_05_0107_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0107-recto.jpg"
                         n="0107-recto"/>
@@ -4507,14 +4507,14 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0108_text">
-                <div type="page" n="v.0108" xml:id="nb_07_04_05_0108_verso_text">
+                <div type="page" n="v.0108" xml:id="nb07_04_05_0108_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0108-verso.jpg"
                         n="0108-verso"/>
-                    <desc>MM draws curly brackets on the right side of "to have" and "to be" (lines
+                    <!-- <desc>MM draws curly brackets on the right side of "to have" and "to be" (lines
                         02-03) and of the third-person pronouns (lines 05-06); she draws a curly
                         braket on the left side of mid-line verbs lines 10-12. Several slanting
-                        lines on the page without clear purpose.</desc>
+                        lines on the page without clear purpose.</desc> -->
                     <lg>
                         <l n="01">  	  <seg type="genre-travel-begin"/>        July 31    a few idiomatic phrases</l>
                         <l n="02">  to have   auxil          <foreign xml:lang="it">Essere</foreign> to be     <foreign xml:lang="it">Io sono</foreign> I am</l>
@@ -4554,13 +4554,13 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0109_text">
-                <div type="page" n="r.0109" xml:id="nb_07_04_05_0109_recto_text">
+                <div type="page" n="r.0109" xml:id="nb07_04_05_0109_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0109-recto.jpg"
                         n="0109-recto"/>
-                    <desc>MM underlines "Lisbona" in black ink, line 03; MM sketches the Tagus
+                    <!-- <desc>MM underlines "Lisbona" in black ink, line 03; MM sketches the Tagus
                         river, with the town Estoril marked near the left margin and "2 maritime
-                        stations," ending with an arrow pointing left, lines 15-17.</desc>
+                        stations," ending with an arrow pointing left, lines 15-17.</desc> -->
                     <lg>
                         <l n="01">  <seg type="genre-travel-begin"/><foreign xml:lang="it"> Primo Commissario</foreign> First purser    Liborio Ligustri<note> While on cruise, MM takes notes on a pre-excursion lecture give by the purser Liborio Ligustri (also mentioned in her appointment book, July 31 and Aug. 4, 1962). They arrived in Lisbon on Aug. 2; Majorca on Aug. 3; Palermo, Sicily on Aug. 4.</note> </l>
                         <l n="02">  <hi rend="blue">   Lisbon you will ask the same question</hi></l>
@@ -4606,11 +4606,11 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0110_text">
-                <div type="page" n="v.0110" xml:id="nb_07_04_05_0110_verso_text">
+                <div type="page" n="v.0110" xml:id="nb07_04_05_0110_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0110-verso.jpg"
                         n="0110-verso"/>
-                    <desc>MM draws curly bracket on right of lines 17-21.</desc>
+                    <!-- <desc>MM draws curly bracket on right of lines 17-21.</desc> -->
                     <lg>
                         <l n="01"> <seg type="genre-travel-begin"/><hi rend="blue">                 July 30    Monday</hi></l>
                         <l n="02"><hi rend="blue">  2 masc articles 	il and lo				</hi></l>
@@ -4651,11 +4651,11 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0111_text">
-                <div type="page" n="r.0111" xml:id="nb_07_04_05_0111_recto_text">
+                <div type="page" n="r.0111" xml:id="nb07_04_05_0111_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0111-recto.jpg"
                         n="0111-recto"/>
-                    <desc>MM circles "tu" line 13.</desc>
+                    <!-- <desc>MM circles "tu" line 13.</desc> -->
                     <lg>
                         <l n="01">  <seg type="genre-travel-begin"/><hi rend="blue">      Only 3 conjugations                               infinitive</hi></l>
                         <l n="02"><hi rend="blue">      1st	2nd	3rd  according to ending of t<note> Possibly shorthand for "the" (as in "the ending of the infinitive").</note></hi></l>
@@ -4688,7 +4688,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0112_text">
-                <div type="page" n="v.0112" xml:id="nb_07_04_05_0112_verso_text">
+                <div type="page" n="v.0112" xml:id="nb07_04_05_0112_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0112-verso.jpg"
                         n="0112-verso"/>
@@ -4723,7 +4723,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0113_text">
-                <div type="page" n="r.0113" xml:id="nb_07_04_05_0113_recto_text">
+                <div type="page" n="r.0113" xml:id="nb07_04_05_0113_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0113-recto.jpg"
                         n="0113-recto"/>
@@ -4748,7 +4748,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0114_text">
-                <div type="page" n="v.0114" xml:id="nb_07_04_05_0114_verso_text">
+                <div type="page" n="v.0114" xml:id="nb07_04_05_0114_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0114-verso.jpg"
                         n="0114-verso"/>
@@ -4787,7 +4787,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0115_text">
-                <div type="page" n="r.0115" xml:id="nb_07_04_05_0115_recto_text">
+                <div type="page" n="r.0115" xml:id="nb07_04_05_0115_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0115-recto.jpg"
                         n="0115-recto"/>
@@ -4821,11 +4821,11 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0116_text">
-                <div type="page" n="v.0116" xml:id="nb_07_04_05_0116_verso_text">
+                <div type="page" n="v.0116" xml:id="nb07_04_05_0116_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0116-verso.jpg"
                         n="0116-verso"/>
-                    <desc>MM cancels "sciottolo" in blue ink.</desc>
+                    <!-- <desc>MM cancels "sciottolo" in blue ink.</desc> -->
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/><hi rend="blue"><bibl type="begin"/>         Living Language</hi></l>
                         <l n="02"><hi rend="blue">        Conversation Manual					</hi></l>
@@ -4852,11 +4852,11 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0117_text">
-                <div type="page" n="r.0117" xml:id="nb_07_04_05_0117_recto_text">
+                <div type="page" n="r.0117" xml:id="nb07_04_05_0117_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0117-recto.jpg"
                         n="0117-recto"/>
-                    <desc>MM circles "27", line 09.</desc>
+                    <!-- <desc>MM circles "27", line 09.</desc> -->
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/>       August 23 1960          Record 2    Side 1    Band 1<note> MM took notes on her Italian studies with records in 1960, two years before her 1962 cruise to Italy. Martin, Genevieve A., and Mario Ciatti. <hi rend="italic">Living Language conversational Italian</hi>  (see earlier note).</note></l>
                         <l n="02">  p 16</l>
@@ -4887,11 +4887,11 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0118_text">
-                <div type="page" n="v.0118" xml:id="nb_07_04_05_0118_verso_text">
+                <div type="page" n="v.0118" xml:id="nb07_04_05_0118_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0118-verso.jpg"
                         n="0118-verso"/>
-                    <desc>MM draws a line linking the endings of words mid-line, lines 03-04.</desc>
+                    <!-- <desc>MM draws a line linking the endings of words mid-line, lines 03-04.</desc> -->
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/><hi rend="blue">20  <foreign xml:lang="it">È lontano da qui?</foreign>       Is it far<note> Martin, Genevieve A., and Mario Ciatti. <hi rend="italic">Living Language conversational Italian</hi>  (see earlier note).</note>                                                              fr here</hi></l>
                         <l n="02"><hi rend="blue"><foreign xml:lang="it">         noi          voi		</foreign></hi></l>
@@ -4922,11 +4922,11 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0119_text">
-                <div type="page" n="r.0119" xml:id="nb_07_04_05_0119_recto_text">
+                <div type="page" n="r.0119" xml:id="nb07_04_05_0119_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0119-recto.jpg"
                         n="0119-recto"/>
-                    <desc>MM circles "39" in line 08.</desc>
+                    <!-- <desc>MM circles "39" in line 08.</desc> -->
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/><hi rend="blue">        o</hi></l>
                         <l n="02"><hi rend="blue"> 	<foreign xml:lang="it">cento settanto</foreign>    170</hi></l>
@@ -4953,12 +4953,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0120_text">
-                <div type="page" n="v.0120" xml:id="nb_07_04_05_0120_verso_text">
+                <div type="page" n="v.0120" xml:id="nb07_04_05_0120_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0120-verso.jpg"
                         n="0120-verso"/>
-                    <desc>MM draws line from "but" in line 01 to "disorganized" in line 06; she
-                        circles "not" in pencil, line 14.</desc>
+                    <!-- <desc>MM draws line from "but" in line 01 to "disorganized" in line 06; she
+                        circles "not" in pencil, line 14.</desc> -->
                     <lg>
                         <l n="01"> 					<hi rend="pencil">                                                                                diagrammed but explained</hi></l>
                         <l n="02">  		<seg type="draft-begin"/>                              Preface<note> Moore is drafting toward the Foreword to the <hi rend="italic">Marianne Moore Reader</hi>  (1961). That essay's second sentence ("The magazine was discontinued") is echoed below.</note></l>
@@ -5005,11 +5005,11 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0121_text">
-                <div type="page" n="r.0121" xml:id="nb_07_04_05_0121_recto_text">
+                <div type="page" n="r.0121" xml:id="nb07_04_05_0121_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0121-recto.jpg"
                         n="0121-recto"/>
-                    <desc>Line along the left margin by lines 04-03.</desc>
+                    <!-- <desc>Line along the left margin by lines 04-03.</desc> -->
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/> at the time must have been more burdensome<note> MM continues note-taking on Diana Holman-Hunt's memoir (see earlier note).</note></l>
                         <l n="02">  than appealing; for the reader of 1961, however, </l>
@@ -5019,7 +5019,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0122_text">
-                <div type="page" n="v.0122" xml:id="nb_07_04_05_0122_verso_text">
+                <div type="page" n="v.0122" xml:id="nb07_04_05_0122_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0122-verso.jpg"
                         n="0122-verso"/>
@@ -5029,7 +5029,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0123_text">
-                <div type="page" n="r.0123" xml:id="nb_07_04_05_0123_recto_text">
+                <div type="page" n="r.0123" xml:id="nb07_04_05_0123_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0123-recto.jpg"
                         n="0123-recto"/>
@@ -5039,7 +5039,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0124_text">
-                <div type="page" n="v.0124" xml:id="nb_07_04_05_0124_verso_text">
+                <div type="page" n="v.0124" xml:id="nb07_04_05_0124_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0124-verso.jpg"
                         n="0124-verso"/>
@@ -5049,7 +5049,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0125_text">
-                <div type="page" n="r.0125" xml:id="nb_07_04_05_0125_recto_text">
+                <div type="page" n="r.0125" xml:id="nb07_04_05_0125_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0125-recto.jpg"
                         n="0125-recto"/>
@@ -5059,7 +5059,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0126_text">
-                <div type="page" n="v.0126" xml:id="nb_07_04_05_0126_verso_text">
+                <div type="page" n="v.0126" xml:id="nb07_04_05_0126_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0126-verso.jpg"
                         n="0126-verso"/>
@@ -5069,7 +5069,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0127_text">
-                <div type="page" n="r.0127" xml:id="nb_07_04_05_0127_recto_text">
+                <div type="page" n="r.0127" xml:id="nb07_04_05_0127_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0127-recto.jpg"
                         n="0127-recto"/>
@@ -5085,7 +5085,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0128_text">
-                <div type="page" n="v.0128" xml:id="nb_07_04_05_0128_verso_text">
+                <div type="page" n="v.0128" xml:id="nb07_04_05_0128_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0128-verso.jpg"
                         n="0128-verso"/>
@@ -5128,14 +5128,14 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0129_text">
-                <div type="page" n="r.0129" xml:id="nb_07_04_05_0129_recto_text">
+                <div type="page" n="r.0129" xml:id="nb07_04_05_0129_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0129-recto.jpg"
                         n="0129-recto"/>
-                    <desc>MM sketches an open umbrella, line 13; three versions of the Northern
+                    <!-- <desc>MM sketches an open umbrella, line 13; three versions of the Northern
                         Pacific Railway logo, line 17—with Northern written above the first sketch
                         and Railway below it; and she sketches the Santa Fe Railway logo, line
-                        19.</desc>
+                        19.</desc> -->
                     <lg>
                         <l n="01">      <seg type="genre-read-begin"/><bibl type="begin"/>Newsweek Aug. 29 1960<bibl type="end"/>     Olympiad<note> "The Olympics: Sports Summit at Rome" (issue title).<hi rend="italic">Newsweek </hi>(29 August 1960).</note> </l>
                         <l n="02">  Cover<note> Van Houten, Norbert [dates unknown], designed the cover of the Rome Olympics issue of<hi rend="italic">Newsweek</hi>. MM cites the description of his work in the masthead. </note>             Norbert van Houten has painted the</l>
@@ -5171,12 +5171,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0130_text">
-                <div type="page" n="v.0130" xml:id="nb_07_04_05_0130_verso_text">
+                <div type="page" n="v.0130" xml:id="nb07_04_05_0130_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0130-verso.jpg"
                         n="0130-verso"/>
-                    <desc> MM sketches the Alcoa Aluminum logo, a human stick figure with legs and
-                        arms outspread, lines 03-04.</desc>
+                    <!-- <desc> MM sketches the Alcoa Aluminum logo, a human stick figure with legs and
+                        arms outspread, lines 03-04.</desc> -->
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/>Exploring the Unknown            Alcoa Aluminum<note> <hi rend="italic">Newsweek</hi>  (August 22, 1960):  MM cites ad for Alcoa Aluminum (p. 79) and sketches their logo.  </note></l>
                         <l n="02">                      Aluminum Co of America</l>
@@ -5204,16 +5204,16 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0131_text">
-                <div type="page" n="r.0131" xml:id="nb_07_04_05_0131_recto_text">
+                <div type="page" n="r.0131" xml:id="nb07_04_05_0131_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0131-recto.jpg"
                         n="0131-recto"/>
-                    <desc>Page is torn loose from notebook and has fraying right edge, cutting off
+                    <!-- <desc>Page is torn loose from notebook and has fraying right edge, cutting off
                         some letters and words. Lines 01-09 and 10-16 are linked with curly bracket
                         on the left; line 15-16; she also links lines 14-16 with a parenthesis on
                         the left and midway across the page draws a curving line separating off the
                         Willie Mays allusion; MM apparently links the end of lines 24-25 with a
-                        square bracket that extends under the word "soul".</desc>
+                        square bracket that extends under the word "soul".</desc> -->
                     <lg>
                         <l n="01"> <hi rend="blue"><seg type="draft-begin"/><seg type="genre-read-begin"/>    Landor Imaginary Conversations       His effort</hi><note> MM drafts toward "W.S. Landor."</note></l>
                         <l n="02"><hi rend="blue">  	for concentration results in obscurity<note>MM summarizes points from Havelock Ellis's "Introduction" to his Selection of Landor's <hi rend="italic">Imaginary Conversations</hi>  (see earlier note). </note>				</hi></l>
@@ -5259,7 +5259,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0132_text">
-                <div type="page" n="v.0132" xml:id="nb_07_04_05_0132_verso_text">
+                <div type="page" n="v.0132" xml:id="nb07_04_05_0132_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0132-verso.jpg"
                         n="0132-verso"/>
@@ -5279,7 +5279,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0133_text">
-                <div type="page" n="r.0133" xml:id="nb_07_04_05_0133_recto_text">
+                <div type="page" n="r.0133" xml:id="nb07_04_05_0133_recto_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0133-recto.jpg"
                         n="0133-recto"/>
@@ -5289,7 +5289,7 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_04_05_0134_text">
-                <div type="page" n="v.0134" xml:id="nb_07_04_05_0134_verso_text">
+                <div type="page" n="v.0134" xml:id="nb07_04_05_0134_verso_text">
                     <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0134-verso.jpg"
                         n="0134-verso"/>
