@@ -8521,34 +8521,34 @@ nb07_04_05_0134-verso.jpg width="3142px"
                         n="0028-verso"/>
                     <!-- <desc>MM circles "go" in line 12 and "grow" in line 16.</desc> -->
                     <lg>
-                        <l n="01"> <seg type="draft-begin">                  </seg> <hi rend="blue">I can imagine -<note>MM drafts toward "Blue Bug."</note></hi></l>
-                        <l n="02"><hi rend="blue">                 or can I?</hi></l>
-                        <l n="03"><hi rend="blue">                       What I have not seen—</hi></l>
-                        <l n="04"><hi rend="blue">  </hi></l>
-                        <l n="05"><hi rend="blue">  in A Midsummer Nights Dream</hi></l>
-                        <l n="06"><hi rend="blue">  </hi></l>
-                        <l n="07"><hi rend="blue">           or one of my own /</hi></l>
-                        <l n="08"><hi rend="blue">       <del>Dr Williams Blue              Bug</del></hi></l>
-                        <l n="09"><hi rend="blue">             Arthur Mitchel  </hi></l>
-                        <l n="10"><hi rend="blue">  </hi></l>
-                        <l n="11"><hi rend="blue">  </hi></l>
-                        <l n="12"><hi rend="blue">      Blue Bug    his ears go up</hi></l>
-                        <l n="13"><hi rend="blue">  	</hi></l>
-                        <l n="14"><hi rend="blue">                       close—   parallel</hi></l>
-                        <l n="15"><hi rend="blue">                   nostril expand                 wide</hi></l>
-                        <l n="16"><hi rend="blue">                   eyes grow triangular the <del>far</del></hi></l>
-                        <l n="17"><hi rend="blue">                                                     near</hi></l>
-                        <l n="18">       on the side at <del>the <hi rend="blue">Side  line, at</hi></del>  <hi rend="blue">the nose</hi></l>
+                        <l n="01"rend="verse">                    <hi rend="blue">I can imagine -<note>MM drafts toward "Blue Bug."</note></hi></l>
+                        <l n="02"rend="verse"><hi rend="blue">                 or can I?</hi></l>
+                        <l n="03"rend="verse"><hi rend="blue">                       What I have not seen—</hi></l>
+                        <l n="04"rend="verse"><hi rend="blue">  </hi></l>
+                        <l n="05"rend="verse"><hi rend="blue">  in A Midsummer Nights Dream</hi></l>
+                        <l n="06"rend="verse"><hi rend="blue">  </hi></l>
+                        <l n="07"rend="verse"><hi rend="blue">           or one of my own /</hi></l>
+                        <l n="08"rend="verse"><hi rend="blue">       <del>Dr Williams Blue              Bug</del></hi></l>
+                        <l n="09"rend="verse"><hi rend="blue">             Arthur Mitchel  </hi></l>
+                        <l n="10"rend="verse"><hi rend="blue">  </hi></l>
+                        <l n="11"rend="verse"><hi rend="blue">  </hi></l>
+                        <l n="12"rend="verse"><hi rend="blue">      Blue Bug    his ears go up</hi></l>
+                        <l n="13"rend="verse"><hi rend="blue">  	</hi></l>
+                        <l n="14"rend="verse"><hi rend="blue">                       close—   parallel</hi></l>
+                        <l n="15"rend="verse"><hi rend="blue">                   nostril expand                 wide</hi></l>
+                        <l n="16"rend="verse"><hi rend="blue">                   eyes grow triangular the <del>far</del></hi></l>
+                        <l n="17"rend="verse"><hi rend="blue">                                                     near</hi></l>
+                        <l n="18"rend="verse">       on the side at <del>the <hi rend="blue">Side  line, at</hi></del>  <hi rend="blue">the nose</hi></l>
                         <l n="19"> </l>
-                        <l n="20">         Operation Great Bear</l>
-                        <l n="21">        waffle weave underwear</l>
-                        <l n="22">                        how irrelevant to celestial pilgrim</l>
-                        <l n="23">      His eyes know where to look for</l>
-                        <l n="24">                                                       things</l>
-                        <l n="25">  like Redon's</l>
-                        <l n="26">                There's one</l>
-                        <l n="27">             thing about me</l>
-                        <l n="28">            I can't let well enough alone<seg type="draft-end"/></l>
+                        <l n="20"rend="verse">         Operation Great Bear</l>
+                        <l n="21"rend="verse">        waffle weave underwear</l>
+                        <l n="22"rend="verse">                        how irrelevant to celestial pilgrim</l>
+                        <l n="23"rend="verse">      His eyes know where to look for</l>
+                        <l n="24"rend="verse">                                                       things</l>
+                        <l n="25"rend="verse">  like Redon's</l>
+                        <l n="26"rend="verse">                There's one</l>
+                        <l n="27"rend="verse">             thing about me</l>
+                        <l n="28"rend="verse">            I can't let well enough alone</l>
                     </lg>
                 </div>
             </div>
