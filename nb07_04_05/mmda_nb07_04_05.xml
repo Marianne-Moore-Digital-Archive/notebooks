@@ -25,7 +25,7 @@
                     <resp>Proofreader</resp>
                 </respStmt>
                 <respStmt>
-                    <persName></persName>
+                    <persName/>
                     <resp>Editorial Assistant</resp>
                 </respStmt>
                 <respStmt>
@@ -121,7 +121,7 @@
             </classDecl>
         </encodingDesc> -->
     </teiHeader>
-    <!-- 
+  
     <facsimile>
 
 
@@ -7492,7 +7492,7 @@
             </surface>
         </surface>
     </facsimile>
-    -->
+   
     <text>
         <body>
             <div type="image" xml:id="nb07_04_05_0001_text">
@@ -7807,7 +7807,7 @@
                         n="0015-recto"/>
                     <!-- <desc>MM draws a half circle around the words at the end of line 26.</desc> -->
                     <lg>
-                        <l n="01" rend="verse">          <hi rend= "blue"> My crow,  Pluto</hi>                  The Jewel                                           9<note>MM drafts toward "To Victor Hugo of My Crow Pluto," first published<hi rend="italic">Harper's Bazaar</hi>  95 (1 October 1961): 120; midway down the page, she also drafts toward "To a Giraffe," first published in <hi rend="italic">Poetry in Crystal </hi>(New York: Steuben Glass, Inc., 1963): 44.</note></l>
+                        <l n="01" rend="verse">          <hi rend="blue"> My crow,  Pluto</hi>                  The Jewel                                           9<note>MM drafts toward "To Victor Hugo of My Crow Pluto," first published<hi rend="italic">Harper's Bazaar</hi>  95 (1 October 1961): 120; midway down the page, she also drafts toward "To a Giraffe," first published in <hi rend="italic">Poetry in Crystal </hi>(New York: Steuben Glass, Inc., 1963): 44.</note></l>
                         <l n="02" rend="verse">  <hi rend="blue">           a blow;                                   </hi><foreign xml:lang="it">gio jello</foreign></l>
                         <l n="03" rend="verse">  <hi rend="blue">         and so  &amp;lt;  <foreign xml:lang="it">caro corvo</foreign><note>The &amp;lt; mark indicates that "caro corvo" belongs below "and so."</note></hi></l>
                         <l n="04" rend="verse"> <hi rend="blue">           had to</hi></l>
@@ -8033,7 +8033,7 @@
                         <l n="26"> <hi rend="pencil">       though I don't let importunity</hi></l>
                         <l n="27"><hi rend="pencil">                                           hurry me</hi></l>
                         <l n="28"> </l>
-                        <l n="29"><hi rend="pencil"> a glittery day</hi></l> 
+                        <l n="29"><hi rend="pencil"> a glittery day</hi></l>
                         <l n="30"><hi rend="pencil">           beautiful <unclear resp="eg">place</unclear></hi></l>
                         <l n="31"><hi rend="pencil">            glittering</hi></l>
                         <l n="32"><hi rend="pencil">  What can it do  	what can it be</hi></l>
@@ -8712,22 +8712,22 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0035-recto.jpg"
                         n="0035-recto"/>
                     <lg>
-                        <l n="01"> <seg type="draft-begin">                                                                                                                                                       </seg><hi rend="blue">29</hi></l>
-                        <l n="02"><hi rend="blue">          like the lizards of Delos little dinosaurs<note>MM drafts toward "Charity Overcoming Envy."</note></hi></l>
+                        <l n="01"> <seg type="draft-begin"/>                                                                         <hi rend="blue">29</hi></l>
+                        <l n="02"><hi rend="blue">          like the lizards of Delos little dinosaurs</hi><note>MM drafts toward "Charity Overcoming Envy."</note></l>
                         <l n="03"><hi rend="blue">      <del>thought to be</del> descended from crocodiles</hi></l>
                         <l n="04"><hi rend="blue">    supposedly        brought from the Nile</hi></l>
                         <l n="05"><hi rend="blue">                 with <del>its its</del> unintentional smile</hi></l>
-                        <l n="06"><hi rend="blue">                                                                for a creature</hi></l>
+                        <l n="06"><hi rend="blue">                                                 for a creature</hi></l>
                         <l n="07"><hi rend="blue">         No <del>thought of fidelity</del> need to speak of fidelity</hi></l>
                         <l n="08"><hi rend="blue">              by for creature <del>to</del> speak</hi><hi rend="pencil">s</hi>  <hi rend="blue">of fidelity if it is <hi rend="underline">it</hi></hi></l>
-                        <l n="09">  <hi rend="pencil">                     No</hi></l>
+                        <l n="09">  <hi rend="pencil">                No</hi></l>
                         <l n="10">          no need of a tap on the cymbals &amp; ruffle of</l>
-                        <l n="11">			<hi rend="pencil">                             announcing	</hi></l>
+                        <l n="11">			<hi rend="pencil">     announcing	</hi></l>
                         <l n="12">  <hi rend="pencil">proclaiming </hi><hi rend="blue"><del>as to speak of </del> fidelity if it is it   drums</hi></l>
                         <l n="13"><hi rend="blue">   costume fit.  like the appropriate attitude to the 15 c</hi></l>
                         <l n="14"><hi rend="blue">  97                                              mosaic of flowers</hi></l>
                         <l n="15"><hi rend="blue">  p 97 It is interesting to note that the lizards of Delos</hi></l>
-                        <l n="16">  	<hi rend="pencil">       Illusion     Wishful thinking</hi></l>
+                        <l n="16">  	<hi rend="pencil">   Illusion     Wishful thinking</hi></l>
                         <l n="17">  <hi rend="blue">p 97 which look like miniature crocodiles, are popularly</hi></l>
                         <l n="18"><hi rend="blue">    believed to be descended fr the crocodiles of the Nile,</hi></l>
                         <l n="19"><hi rend="blue">    which have grown smaller &amp; smaller w the passage</hi></l>
@@ -8745,7 +8745,7 @@
                         <l n="31"><hi rend="pencil">                                                   devise</hi></l>
                         <l n="32"><hi rend="pencil">   when <del>the profane have</del> pursuers has contrived an</hi></l>
                         <l n="33"><hi rend="pencil">                                                             have    objective</hi></l>
-                        <l n="34"><hi rend="pencil">   Nothing abated it                       are pitiless</hi></l>
+                        <l n="34"><hi rend="pencil">                   Nothing abated it                       are pitiless</hi></l>
                         <l n="35"><hi rend="pencil"/>                                                         is  devising a plot</l>
                         <l n="36">  	<hi rend="pencil">     <del>But</del> <hi rend="underline">know that destiny has not <del>devised a plot</del></hi></hi></l>
                         <l n="37">	  <hi rend="pencil">The solution is inward It rests w yourself</hi></l>
@@ -8766,8 +8766,8 @@
                         leading to line 23.</desc> -->
                     <lg>
                         <l n="01">  		<seg type="draft-begin">                                               </seg><hi rend="pencil">my</hi><note>MM drafts toward "Charity Overcoming Envy."</note></l>
-                        <l n="02">  		<hi rend="pencil">                        deliver me fr  self-blinded dark</hi></l>
-                        <l n="03">  								<hi rend="pencil">                                                                             deeds</hi></l>
+                        <l n="02">  		<hi rend="pencil">       deliver me fr  self-blinded dark</hi></l>
+                        <l n="03">  								<hi rend="pencil"> deeds</hi></l>
                         <l n="04"> </l>
                         <l n="05">  	<hi rend="pencil">    <del>from self blind</del>ed the oppression  <del>obsession</del></hi></l>
                         <l n="06">  		<hi rend="pencil">                         of others like me</hi></l>
@@ -8776,14 +8776,14 @@
                         <l n="09"> </l>
                         <l n="10"> </l>
                         <l n="11"> </l>
-                        <l n="12">  	<hi rend="pencil">End</hi></l>
-                        <l n="13">  <hi rend="pencil">     I who have seen // Charity triumph over</hi></l>
-                        <l n="14">  	 		  			<hi rend="pencil">                                                                   Envy</hi></l>
-                        <l n="15">  <hi rend="pencil">     know that Destiny <del>has</del> is not maturing a plot— <!--OK?--></hi></l>
+                        <l n="12"><hi rend="pencil">    End</hi></l>
+                        <l n="13">  <hi rend="pencil">       I who have seen // Charity triumph over</hi></l>
+                        <l n="14">  	 		  			<hi rend="pencil">             Envy</hi></l>
+                        <l n="15">  <hi rend="pencil">        know that Destiny <del>has</del> is not maturing a plot— <!--OK?--></hi></l>
                         <l n="16">  				<hi rend="pencil">                                         the plot or <gap extent="3" resp="eg"/>t</hi></l>
-                        <l n="17">  <hi rend="green">                              is achieved </hi></l>
-                        <l n="18">  <hi rend="pencil">          that <hi rend="underline">emancipation <del>is from</del>  without</hi></hi></l>
-                        <l n="19">  						<hi rend="pencil">                                                  <hi rend="underline">from within</hi></hi></l>
+                        <l n="17">  <hi rend="green">                                is achieved </hi></l>
+                        <l n="18">  <hi rend="pencil">           that <hi rend="underline">emancipation <del>is from</del>  without</hi></hi></l>
+                        <l n="19">  						<hi rend="pencil"><hi rend="underline">from within</hi></hi></l>
                         <l n="20">  <hi rend="pencil">          the Gordian Knot need not be cut</hi></l>
                         <l n="21">  <hi rend="pencil">3 gifts</hi></l>
                         <l n="22">  <hi rend="pencil">         The pigmy crocodiles of Delos tell us</hi></l>
@@ -8792,7 +8792,7 @@
                         <l n="25">  demonstrating</l>
                         <l n="26">              that the Gordian knot <hi rend="pencil">already  knotted too tight</hi></l>
                         <l n="27"> </l>
-                        <l n="28">                               need not be cut<seg type="draft-end"/></l>
+                        <l n="28">                            need not be cut<seg type="draft-end"/></l>
                     </lg>
                 </div>
             </div>
@@ -8805,12 +8805,12 @@
                         pencil.</desc> -->
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/><hi rend="blue"><bibl type="begin"/>Routledge &amp; Kegan Paul Ltd                               31  </hi></l>
-                        <l n="02">  		<hi rend="blue">                    Athens &amp; the Greek Miracle</hi></l>
+                        <l n="02"><hi rend="blue">        Athens &amp; the Greek Miracle</hi></l>
                         <l n="03"><hi rend="blue">  Broadway House 68-71  Carter Lane EC1</hi></l>
                         <l n="04"><hi rend="blue">  </hi></l>
-                        <l n="05"><hi rend="blue">  by C P Rodocanachi<note>Rhodokankes, Konstantinos P. (aka C. P. Rodocanachi). <hi rend="italic">Athens and the Greek Miracle</hi>. London: Routledge &amp; Keagan Paul, 1948. Reference recurs.</note><bibl type="end"/></hi></l>
+                        <l n="05"><hi rend="blue">   by C P Rodocanachi<note>Rhodokankes, Konstantinos P. (aka C. P. Rodocanachi). <hi rend="italic">Athens and the Greek Miracle</hi>. London: Routledge &amp; Keagan Paul, 1948. Reference recurs.</note><bibl type="end"/></hi></l>
                         <l n="06"><hi rend="blue">  </hi></l>
-                        <l n="07"><hi rend="blue">  IX  A*     The author's xcuse</hi></l>
+                        <l n="07"><hi rend="blue">   IX  A*     The author's xcuse</hi></l>
                         <l n="08"><hi rend="blue">  </hi></l>
                         <l n="09"><hi rend="blue">  <quote type="begin"/>"an escape into the untrodden region</hi></l>
                         <l n="10"><hi rend="blue">  of primary causes and ultimate effects,</hi></l>
