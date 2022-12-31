@@ -25,7 +25,7 @@
                     <resp>Proofreader</resp>
                 </respStmt>
                 <respStmt>
-                    <persName/>
+                    <persName></persName>
                     <resp>Editorial Assistant</resp>
                 </respStmt>
                 <respStmt>
@@ -121,7 +121,7 @@
             </classDecl>
         </encodingDesc> -->
     </teiHeader>
-  
+    <!-- 
     <facsimile>
 
 
@@ -7492,7 +7492,7 @@
             </surface>
         </surface>
     </facsimile>
-   
+    -->
     <text>
         <body>
             <div type="image" xml:id="nb07_04_05_0001_text">
@@ -7645,21 +7645,21 @@
                     <lg>
                         <l n="01"> <hi rend="pencil">        My <unclear resp="eg">cyguent</unclear><note>The unclear word "cyguent" may read "unguent". </note><note>MM drafts toward "Rescue with Yul Brynner,"  first published in <hi rend="italic">The New Yorker</hi>  37 (20 May 1961): 40.</note>Candidate </hi><hi rend="blue">  3</hi></l>
                         <l n="02">  <hi rend="pencil">is an ointment                        debate</hi></l>
-                        <l n="03"><hi rend="pencil">       Justify       <del>one</del> man can debate</hi></l>
+                        <l n="03"><hi rend="pencil">       Justify                        <del>one</del> man can debate</hi></l>
                         <l n="04"><hi rend="pencil">            try</hi></l>
                         <l n="05"> </l>
                         <l n="06"><hi rend="pencil">     D'Artangnan  '  </hi></l>
-                        <l n="07"><hi rend="pencil">            the man                   <bibl type="begin"/>Arts Oct 1960</hi></l>
+                        <l n="07"><hi rend="pencil">                      the man                   <bibl type="begin"/>Arts Oct 1960</hi></l>
                         <l n="08"> </l>
-                        <l n="09"><hi rend="pencil"><foreign xml:lang="fr">         La ville et les iles</foreign> Arts<bibl type="end"/><note>Schulze, Alfred Otto Wolfgang. "La ville et les iles," a show at the Delacorte Gallery advertised in<hi rend="italic">ARTS</hi>  (October 1960). On image 009 MM pastes in an ad for this show.  </note>                                                                                     Wols<note>Schulze, Alfred Otto Wolfgang ("WOLS") [1913-1951]. Painter and photographer.</note></hi></l>
+                        <l n="09"><hi rend="pencil"><foreign xml:lang="fr">            La ville et les iles</foreign> Arts<bibl type="end"/><note>Schulze, Alfred Otto Wolfgang. "La ville et les iles," a show at the Delacorte Gallery advertised in<hi rend="italic">ARTS</hi>  (October 1960). On image 009 MM pastes in an ad for this show.  </note>                                                                                     Wols<note>Schulze, Alfred Otto Wolfgang ("WOLS") [1913-1951]. Painter and photographer.</note></hi></l>
                         <l n="10"> </l>
                         <l n="11"><hi rend="pencil">  Croxley Opaque<note>Croxley Opaque Gummed Envelopes were a product of John Dickinson Stationery Ltd..</note>                                a John Dickinson</hi></l>
-                        <l n="12"><hi rend="pencil">                                       Product</hi></l>
+                        <l n="12"><hi rend="pencil">                        Product</hi></l>
                         <l n="13"><hi rend="pencil"> Spicer's Tough Stuff</hi></l>
                         <l n="14"> </l>
-                        <l n="15"><hi rend="pencil">    simplify, condense, omit, ignore</hi></l>
-                        <l n="16">                                              acelyl<hi rend="underline">ene</hi></l>
-                        <l n="17"> <hi rend="underline">Oh</hi>       The Sp<hi rend="underline">ot</hi>                 gr<hi rend="underline">een</hi></l>
+                        <l n="15"><hi rend="pencil"> simplify, condense, omit, ignore</hi></l>
+                        <l n="16">                                                  acelyl<hi rend="underline">ene</hi></l>
+                        <l n="17"> <hi rend="underline">Oh</hi>       The Sp<hi rend="underline">ot</hi>                            gr<hi rend="underline">een</hi></l>
                         <l n="18">    <hi rend="underline">no</hi>      not yet got <hi rend="underline">out</hi><note>Here, and at many points in this notebook, MM cites advertisement language and imagery.</note></l>
                         <l n="19"> </l>
                         <l n="20"> </l>
@@ -7670,14 +7670,14 @@
                         <l n="25"> </l>
                         <l n="26">  like a grasshopper or lizard that the</l>
                         <l n="27">  mower has happened to miss</l>
-                        <l n="28">                          <hi rend="pencil">chanced</hi></l>
+                        <l n="28"><hi rend="pencil">                          chanced</hi></l>
                         <l n="29">  ________________________</l>
-                        <l n="30" rend="verse">        Yul                                                  heard</l>
+                        <l n="30" rend="verse">                   Yul                              heard</l>
                         <l n="31" rend="verse"> <hi rend="pencil">2<note>MM's "2" and "1" suggest that they be re-ordered.</note></hi>      a very small word <del>which</del> I may have misheard</l>
-                        <l n="32" rend="verse">     <hi rend="pencil">1</hi>  <del>Has it</del> <del>a</del><hi rend="pencil">A</hi>nything to do w Christmas? Something</l>
+                        <l n="32" rend="verse"> <hi rend="pencil">    1</hi>  <del>Has it</del> <del>a</del><hi rend="pencil">A</hi>nything to do w Christmas? Something</l>
                         <l n="33" rend="verse"> <hi rend="pencil">It but</hi></l>
                         <l n="34" rend="verse">     There he was <hi rend="pencil">the </hi>King <del>in a nic</del></l>
-                        <l n="35" rend="verse">             in a nice cloth hat <hi rend="pencil">and</hi></l>
+                        <l n="35" rend="verse">                  in a nice cloth hat <hi rend="pencil">and</hi></l>
                         <l n="36" rend="verse">    introducing beggars no?      <del>I</del>My name . . is . . . . So &amp; so</l>
                     </lg>
                 </div>
@@ -7699,15 +7699,15 @@
                         <l n="07" rend="verse"/>
                         <l n="08" rend="verse">               to Cah-nah-dah</l>
                         <l n="09"> </l>
-                        <l n="10" rend="verse">     I am a refugee</l>
+                        <l n="10" rend="verse">  I am a refugee</l>
                         <l n="11" rend="verse">         from that Society</l>
                         <l n="12"> </l>
                         <l n="13" rend="verse">  Rescue w Yul Brynner with &amp; by</l>
                         <l n="14" rend="verse">	<hi rend="pencil">                   the</hi></l>
-                        <l n="15" rend="verse">     <hi rend="underline">At last</hi> I have  an idea</l>
+                        <l n="15" rend="verse">   <hi rend="underline">At last</hi> I have  an idea</l>
                         <l n="16" rend="verse">     it has got into my thick <hi rend="underline">head</hi></l>
                         <l n="17" rend="verse">     that I <hi rend="underline">am<hi rend="underline"/></hi>  not persecu<hi rend="underline">ted</hi></l>
-                        <l n="18" rend="verse">	<hi rend="pencil">                     <del>being</del></hi></l>
+                        <l n="18" rend="verse">	<hi rend="pencil">                          <del>being</del></hi></l>
                         <l n="19" rend="verse"> in my warm home w my Bo<unclear>Is</unclear>khara rug</l>
                         <l n="20" rend="verse">   my elephant <unclear resp="eg">bell</unclear> fr India</l>
                         <l n="21" rend="verse">   my <del>priceless</del> cashmere scarf w patterns in pink &amp; blue</l>
@@ -7718,11 +7718,11 @@
                         <l n="26" rend="verse">			<hi rend="pencil">                                        w captivity]</hi></l>
                         <l n="27"> </l>
                         <l n="28"> </l>
-                        <l n="29" rend="verse">                             spinner</l>
+                        <l n="29" rend="verse">                                  spinner</l>
                         <l n="30" rend="verse">         of fairy tales that come true</l>
                         <l n="31" rend="verse">       Yul': a log for the Christmas fire?</l>
                         <l n="32"> </l>
-                        <l n="33" rend="verse">                          Yul Brynner</l>
+                        <l n="33" rend="verse">                                     Yul Brynner</l>
                     </lg>
                 </div>
             </div>
@@ -7758,15 +7758,15 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0011-recto.jpg"
                         n="0011-recto"/>
                     <lg>
-                        <l n="01"> The Bull resting on a hill                                                               <hi rend="blue">7</hi></l>
-                        <l n="02">    his bulk tapering like a wedge</l>
+                        <l n="01">  The Bull resting on a hill                                                               <hi rend="blue">7</hi></l>
+                        <l n="02">       his bulk tapering like a wedge</l>
                         <l n="03"> </l>
-                        <l n="04">    rays of the sun <del>creating</del> over him</l>
+                        <l n="04">       rays of the sun <del>creating</del> over him</l>
                         <l n="05"> </l>
-                        <l n="06">       <del>a</del>  creating a fine black edge</l>
+                        <l n="06">          <del>a</del>  creating a fine black edge</l>
                         <l n="07"> </l>
-                        <l n="08">    Prominence is not eminence.  Zuni's<note>Zunis are a Native American people of northwestern New Mexico.</note>— "powerful</l>
-                        <l n="09">                               wise, prominent"</l>
+                        <l n="08">       Prominence is not eminence.  Zuni's<note>Zunis are a Native American people of northwestern New Mexico.</note>                                                                            — "powerful</l>
+                        <l n="09">                                                  wise, prominent"</l>
                     </lg>
                 </div>
             </div>
@@ -7807,10 +7807,10 @@
                         n="0015-recto"/>
                     <!-- <desc>MM draws a half circle around the words at the end of line 26.</desc> -->
                     <lg>
-                        <l n="01" rend="verse">          <hi rend="blue"> My crow,  Pluto</hi>                  The Jewel                                           9<note>MM drafts toward "To Victor Hugo of My Crow Pluto," first published<hi rend="italic">Harper's Bazaar</hi>  95 (1 October 1961): 120; midway down the page, she also drafts toward "To a Giraffe," first published in <hi rend="italic">Poetry in Crystal </hi>(New York: Steuben Glass, Inc., 1963): 44.</note></l>
-                        <l n="02" rend="verse">  <hi rend="blue">           a blow;                                   </hi><foreign xml:lang="it">gio jello</foreign></l>
+                        <l n="01" rend="verse">          <hi rend= "blue"> My crow, Pluto</hi>                  The Jewel                                           9<note>MM drafts toward "To Victor Hugo of My Crow Pluto," first published<hi rend="italic">Harper's Bazaar</hi>  95 (1 October 1961): 120; midway down the page, she also drafts toward "To a Giraffe," first published in <hi rend="italic">Poetry in Crystal </hi>(New York: Steuben Glass, Inc., 1963): 44.</note></l>
+                        <l n="02" rend="verse">  <hi rend="blue">         a blow;                                     </hi><foreign xml:lang="it">gio jello</foreign></l>
                         <l n="03" rend="verse">  <hi rend="blue">         and so  &amp;lt;  <foreign xml:lang="it">caro corvo</foreign><note>The &amp;lt; mark indicates that "caro corvo" belongs below "and so."</note></hi></l>
-                        <l n="04" rend="verse"> <hi rend="blue">           had to</hi></l>
+                        <l n="04" rend="verse"> <hi rend="blue">         had to</hi></l>
                         <l n="05" rend="verse"> 						<foreign xml:lang="it">                                      lucro: profit</foreign></l>
                         <l n="06" rend="verse"> <hi rend="blue">         let you            </hi><foreign xml:lang="it">minuto minute</foreign> very small</l>
                         <l n="07" rend="verse"> <hi rend="blue">         go</hi></l>
@@ -7822,12 +7822,12 @@
                         <l n="13" rend="verse"> <hi rend="blue">  tiresome man <del>defends</del> explains his</hi></l>
                         <l n="14" rend="verse"> <hi rend="blue">                                                                  case</hi></l>
                         <l n="15">  _______________________</l>
-                        <l n="16" rend="verse">  	<hi rend="blue">                              (Personal)</hi></l>
+                        <l n="16" rend="verse">  	<hi rend="blue">                                                              (Personal)</hi></l>
                         <l n="17" rend="verse"><hi rend="blue">            O to Be Ogden Nash<note>MM echoes her poem title "O to Be a Dragon," first published<hi rend="italic">Sequoia</hi>  3 (Autumn 1957): 20, as "Oh, to Be a Dragon." Ogden Nash [1902-1971]. American poet of light verse, frequently published in <hi rend="italic">The New Yorker</hi>. MM knew and admired Nash.</note></hi></l>
                         <l n="18"> </l>
                         <l n="19" rend="verse"><hi rend="blue">     It is not permissible      or be miserable</hi></l>
                         <l n="20"> </l>
-                        <l n="21" rend="verse"><hi rend="blue">     to be personal;            because a man is</hi></l>
+                        <l n="21" rend="verse"><hi rend="blue">     to be personal;                because a man is</hi></l>
                         <l n="22" rend="verse"><hi rend="blue">     or desirable                            enviable</hi></l>
                         <l n="23" rend="verse"><hi rend="blue">     to be literal</hi></l>
                         <l n="24"> </l>
@@ -7839,7 +7839,7 @@
                         <l n="30"> </l>
                         <l n="31" rend="verse"><hi rend="blue">    I submit that it be legal</hi></l>
                         <l n="32" rend="verse"><hi rend="blue">    to use half a stamp or stamp &amp; a half</hi></l>
-                        <l n="33" rend="verse"><hi rend="blue">                   as well as</hi></l>
+                        <l n="33" rend="verse"><hi rend="blue">                                  as well as</hi></l>
                         <l n="34" rend="verse"><hi rend="blue">   for <del>1</del> an ounce of sealed mail</hi></l>
                         <l n="35" rend="verse"><hi rend="blue">                OUNCE</hi></l>
                     </lg>
@@ -7851,7 +7851,7 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0016-verso.jpg"
                         n="0016-verso"/>
                     <lg>
-                        <l n="01" rend="verse">                  <note>MM drafts toward "To a Giraffe"; some lines appear there.</note><hi rend="blue">Oh well</hi></l>
+                        <l n="01" rend="verse">                     <hi rend="blue">  Oh well<note>MM drafts toward "To a Giraffe"; some lines appear there.</note></hi></l>
                         <l n="02" rend="verse"><hi rend="blue">               I am not going to be literal</hi></l>
                         <l n="03"> </l>
                         <l n="04" rend="verse"><hi rend="blue">               What if a dollar bill</hi></l>
@@ -7860,11 +7860,11 @@
                         <l n="07" rend="verse"> <hi rend="blue">              when the cashier or teller                                  with a p</hi></l>
                         <l n="08" rend="verse"><hi rend="blue">              counted <del>new</del> money <del>with</del> as usual  pull</hi></l>
                         <l n="09" rend="verse"><hi rend="blue">                             new                                                 </hi></l>
-                        <l n="10" rend="verse"><hi rend="blue">                 by stretching it  <del>with pull it</del> all with</hi></l>
+                        <l n="10" rend="verse"><hi rend="blue">               by stretching it  <del>with pull it</del> all with</hi></l>
                         <l n="11" rend="verse"><hi rend="blue">             with a snap too casual snap pile,</hi></l>
                         <l n="12"> </l>
                         <l n="13" rend="verse"><hi rend="blue">            Crane paper for certificate<note>The family paper firm of MM's good friend Louise Crane [1913-1997] has supplied paper for US money since pre-Revolutionary times and has held a monopoly contract since 1879, negotiated by Louise's father, W. Murray Crane [1853-1920], Massachusetts Governor and Senator. Crane also made (and still makes) Argentine currency.</note></hi></l>
-                        <l n="14" rend="verse"><hi rend="blue">              and Argentine Republic</hi></l>
+                        <l n="14" rend="verse"><hi rend="blue">            and Argentine Republic</hi></l>
                         <l n="15" rend="verse"><hi rend="blue">      I am am  cash for                because 	an ad has</hi></l>
                         <l n="16" rend="verse"><hi rend="blue"> Here  <del>I'm</del> in bad taste—art has a small <del>waste</del> waist</hi></l>
                         <l n="17" rend="verse"><hi rend="blue">           Oh well complaints are detestable</hi></l>
@@ -7876,12 +7876,12 @@
                         <l n="23" rend="verse"><hi rend="blue">          four cents (rising)</hi></l>
                         <l n="24"> </l>
                         <l n="25" rend="verse"><hi rend="blue">           for an ounce of mail</hi></l>
-                        <l n="26" rend="verse"><hi rend="blue">          we may have to pay for everything</hi></l>
+                        <l n="26" rend="verse"><hi rend="blue">      we may have to pay for everything</hi></l>
                         <l n="27" rend="verse"><hi rend="blue">      in Gold                                                       cold</hi></l>
                         <l n="28" rend="verse"><hi rend="blue">                                                         a thousand fold</hi></l>
                         <l n="29"> </l>
-                        <l n="30" rend="verse"><hi rend="blue">     'Lady doctors, sculptresses           </hi></l>
-                        <l n="31" rend="verse"><hi rend="blue">        and poetesses, one confesses</hi></l>
+                        <l n="30" rend="verse"><hi rend="blue">   'Lady doctors, sculptresses           </hi></l>
+                        <l n="31" rend="verse"><hi rend="blue">           and poetesses, one confesses</hi></l>
                     </lg>
                     <lg type="vertical">
                         <l n="v32"><hi rend="blue"><!-- span lines 12-01, along left margin, in three rows --> What if a new bill / came apart— / tore in half</hi></l>
@@ -7894,14 +7894,14 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0017-recto.jpg"
                         n="0017-recto"/>
                     <lg>
-                        <l n="01" rend="verse"> 		          No<note>MM drafts toward "To a Giraffe."</note><hi rend="blue">                                                                                                                              11</hi></l>
-                        <l n="02" rend="verse">                   Unhumility—<del>no</del> oh enviable animal</l>
-                        <l n="03" rend="verse">                   is not my odyssey</l>
-                        <l n="04" rend="verse">                                                 the vipers knot<note>A variant of this phrase appears in "Tell Me, Tell Me," first published<hi rend="italic">The New Yorker </hi>36 (30 April 1960): 44.</note></l>
+                        <l n="01" rend="verse"> 		                                               No<note>MM drafts toward "To a Giraffe."</note><hi rend="blue">                                                                                                                              11</hi></l>
+                        <l n="02" rend="verse">                                             Unhumility—<del>no</del> oh enviable animal</l>
+                        <l n="03" rend="verse">                                             is not my odyssey</l>
+                        <l n="04" rend="verse">                                                                                   the vipers knot<note>A variant of this phrase appears in "Tell Me, Tell Me," first published<hi rend="italic">The New Yorker </hi>36 (30 April 1960): 44.</note></l>
                         <l n="05" rend="verse"> 		                                          <del>nor</del>                                        and horns</l>
-                        <l n="06" rend="verse">                 animals always act in character</l>
-                        <l n="07" rend="verse"> 	            <hi rend="green">arrayed</hi></l>
-                        <l n="08" rend="verse">                 on <del>us,</del> oblongs          you daren't personify them</l>
+                        <l n="06" rend="verse">                                       animals always act in character</l>
+                        <l n="07" rend="verse"> 		<hi rend="green">                                    arrayed</hi></l>
+                        <l n="08" rend="verse">                                   on <del>us,</del> oblongs          you daren't personify them</l>
                         <l n="09" rend="verse">                                                                                 or attribute motives</l>
                         <l n="10" rend="verse">                                        oblongs  diamonds              <del>of a</del> too complex</l>
                         <l n="11" rend="verse"> <hi rend="green">in <del>cl</del> vesture of</hi>  squares triangles and leopard spots</l>
@@ -7909,10 +7909,10 @@
                         <l n="13" rend="verse">                                  we do not grow them <hi rend="green">&amp; must be tattooed</hi></l>
                         <l n="14" rend="verse"> <hi rend="green">or "dressed"</hi> we have a different pilgrimage</l>
                         <l n="15" rend="verse">           to know the conditional nature of existence</l>
-                        <l n="16" rend="verse">                        the consolation of the  <hi rend="green">all kinds of shapes</hi></l>
-                        <l n="17" rend="verse">                        metaphorical  <hi rend="green">in combination</hi></l>
-                        <l n="18" rend="verse">	            <hi rend="green"> In</hi> the journey from sin to redemption</l>
-                        <l n="19" rend="verse"> <hi rend="green">                (  </hi><del>our </del> emotions <hi rend="green">can</hi>  get in the way<hi rend="green">)</hi>—their's too</l>
+                        <l n="16" rend="verse">                           the consolation of the  <hi rend="green">all kinds of shapes</hi></l>
+                        <l n="17" rend="verse">                            metaphorical  <hi rend="green">in combination</hi></l>
+                        <l n="18" rend="verse">		  <hi rend="green">                            In</hi> the journey from sin to redemption</l>
+                        <l n="19" rend="verse"> <hi rend="green">                    (  </hi><del>our </del> emotions <hi rend="green">can</hi>  get in the way<hi rend="green">)</hi>—their's too</l>
                         <l n="20" rend="verse"> Enviable <hi rend="green">"</hi>Okap<del>e</del><hi rend="green">i</hi>(see Snake <unclear resp="eg">man)<note>The unclear word "man" may read "name".</note></unclear></l>
                         <l n="21" rend="verse"> we must not be miserable</l>
                         <l n="22" rend="verse"> <hi rend="underline">because an animal is enviable</hi></l>
@@ -7950,10 +7950,10 @@
                         of the upper line; similar dots appear under two words in line 19.</desc> -->
                     <!--missing seg type "draft-begin"-->
                     <lg>
-                        <l n="01">                         July 11 . 1961<note>MM drafts toward "Baseball and Writing," first published <hi rend="italic">The New Yorker</hi>  37 (9 December 1961): 48. The poem discusses the 1961 baseball season. The line "O Fons Bandusa" also appears in "In Lieu of the Lyre," first published <hi rend="italic">Harvard Advocate</hi>  100 (November 1965): 5.</note></l>
-                        <l n="02">           Sentiment</l>
+                        <l n="01">                                               July 11 . 1961<note>MM drafts toward "Baseball and Writing," first published <hi rend="italic">The New Yorker</hi>  37 (9 December 1961): 48. The poem discusses the 1961 baseball season. The line "O Fons Bandusa" also appears in "In Lieu of the Lyre," first published <hi rend="italic">Harvard Advocate</hi>  100 (November 1965): 5.</note></l>
+                        <l n="02">                  Sentiment</l>
                         <l n="03">    Sentiment—<del>the clouds are whi</del></l>
-                        <l n="04">                                   thought</l>
+                        <l n="04">                                            thought</l>
                         <l n="05">                          prodigious word; ingenious?    O my</l>
                         <l n="06"> Prodigy     The bushes burn                               Soul!</l>
                         <l n="07"> O my soul  The clouds are white</l>
@@ -7969,17 +7969,17 @@
                         <l n="17">        (Back fr the Stadium) (Before and after Ball game)</l>
                         <l n="18">                      O Fons Bandusa</l>
                         <l n="19">                 White Rock or Poland—<note>Brands of bottled water.</note></l>
-                        <l n="20"> 		              <del>my glass</del> jeweled w bubbles!</l>
+                        <l n="20"> 		                               <del>my glass</del> jeweled w bubbles!</l>
                         <l n="21">                          <del>were</del>                                                  has</l>
                         <l n="22"> the mint green             the green of the bottle <del>can</del> banished</l>
                         <l n="23">         quart-bottle                                                        my troubles</l>
                         <l n="24"> qu                      <del>the</del> pliable mint-lea<del>e</del>f<del>ver</del>   (quart bottle)</l>
                         <l n="25">                             where  once crisp in the garden</l>
-                        <l n="26"> 			<unclear resp="eg">       <del>at</del></unclear> chew <del>they</del> &amp; feel like a Verdon or</l>
+                        <l n="26"> 			<unclear resp="eg">                               <del>at</del></unclear> chew <del>they</del> &amp; feel like a Verdon or</l>
                         <l n="27">                                               it                           Varden<note>Verdon, Gwen [1925-2000]. American actor and dancer; Varden is a type of trout with green skin.</note></l>
                         <l n="28">                         (if not "Verdant Green"<del>)</del></l>
                         <l n="29">                                 giglamped<note>Gig-lamped refers to the headlamps on a gig carriage. MM writes about a gig in the poem "Prevalent at One Time," first published privately, 1970.</note>                                                        by his glasses)</l>
-                        <l n="30">                         sparky refresher, the drink that surpasses</l>
+                        <l n="30">                      sparky refresher, the drink that surpasses</l>
                         <l n="31"> </l>
                         <l n="32">                              <del>all manmade</del>              manmade conhoptions</l>
                         <l n="33">                                           shaken</l>
@@ -8005,11 +8005,11 @@
                     <!-- <desc>In line 24, the word "dumb" is written in three colors, "du" in pencil;
                         "mb" in black ink; the top of the "b" is written over in red ink.</desc> -->
                     <lg>
-                        <l n="01"> <seg type="genre-read-begin">                                       </seg><quote>      "Foremost of the Peach Orchard"</quote><note>Title awarded to female impersonator and actor Mei Lan-Fang [1894-1962].</note>	<hi rend="blue">                                                                                                                              13</hi></l>
-                        <l n="02">                                       NYT Aug 9 1961<note>"Stage Actor, Dies: Top Chinese Star Was Noted Female Impersonator."<hi rend="italic">New York Times</hi>  (9 August 1961): 33. Obituary for Mei Lan-Fang, 67. The piece clarifies that the title "Foremost of the Peach Orchard" indicated that Mei was "without a peer as an actor in China." The actor emerged from retirement after WWII and became a deputy of the National People's Congress in 1955; he did not join the Communist Party until 1959.</note><bibl type="end"/><seg type="genre-read-end"/></l>
+                        <l n="01"> <seg type="genre-read-begin">              </seg><quote>"Foremost of the Peach Orchard"</quote><note>Title awarded to female impersonator and actor Mei Lan-Fang [1894-1962].</note>	<hi rend="blue">                                                                                                                              13</hi></l>
+                        <l n="02">                                                                   NYT Aug 9 1961<note>"Stage Actor, Dies: Top Chinese Star Was Noted Female Impersonator."<hi rend="italic">New York Times</hi>  (9 August 1961): 33. Obituary for Mei Lan-Fang, 67. The piece clarifies that the title "Foremost of the Peach Orchard" indicated that Mei was "without a peer as an actor in China." The actor emerged from retirement after WWII and became a deputy of the National People's Congress in 1955; he did not join the Communist Party until 1959.</note><bibl type="end"/><seg type="genre-read-end"/></l>
                         <l n="03"> Alas, a communist:!</l>
                         <l n="04"> <hi rend="pencil">                                   are all </hi></l>
-                        <l n="05">            Newspapers  alike the verbal twist</l>
+                        <l n="05">                    Newspapers  alike the verbal twist</l>
                         <l n="06"> </l>
                         <l n="07"> Yes, everything can go—  –</l>
                         <l n="08">       But no, oh no</l>
@@ -8028,16 +8028,16 @@
                         <l n="21"> <hi rend="pencil">   Oh M Hubbards cottage &amp; dog    </hi><bibl type="begin"/>Aug 3.    Listener<bibl type="end"/></l>
                         <l n="22"> <hi rend="pencil">    where can that be</hi>                         See Mother Goose</l>
                         <l n="23">                                                                    collection.<seg type="genre-read-end"/></l>
-                        <l n="24"> <hi rend="pencil">    They tell me that I am not du</hi>mb—but I <hi rend="red">am</hi></l>
+                        <l n="24"> <hi rend="pencil">  They tell me that I am not du</hi>mb—but I <hi rend="red">am</hi></l>
                         <l n="25"> </l>
-                        <l n="26"> <hi rend="pencil">       though I don't let importunity</hi></l>
+                        <l n="26"> <hi rend="pencil">         though I don't let importunity</hi></l>
                         <l n="27"><hi rend="pencil">                                           hurry me</hi></l>
                         <l n="28"> </l>
                         <l n="29"><hi rend="pencil"> a glittery day</hi></l>
                         <l n="30"><hi rend="pencil">           beautiful <unclear resp="eg">place</unclear></hi></l>
                         <l n="31"><hi rend="pencil">            glittering</hi></l>
                         <l n="32"><hi rend="pencil">  What can it do  	what can it be</hi></l>
-                        <l n="33"><hi rend="pencil">        Entertainment for me</hi></l>
+                        <l n="33"><hi rend="pencil">         Entertainment for me</hi></l>
                     </lg>
                 </div>
             </div>
@@ -8049,38 +8049,38 @@
                     <!-- <desc>Lines 09-16 are crossed out with one diagonal line; MM draws a partial
                         circle around lines 18-19.</desc> -->
                     <lg>
-                        <l n="01" rend="verse"> 	           <hi rend="pencil">In Heroic Detachment<note>MM drafts toward "Baseball and Writing."</note></hi></l>
-                        <l n="02" rend="verse"><hi rend="pencil">          Something to write about, talk about, see</hi></l>
-                        <l n="03" rend="verse"><hi rend="pencil">          generating excitement in</hi></l>
-                        <l n="04" rend="verse"><hi rend="pencil">                  the Tigers.?<note>The Detroit Tigers won 101 games in 1961 but finished second in the American League behind the Yankees.</note>                                                         <del>well . . . Me</del></hi></l>
-                        <l n="05" rend="verse"><hi rend="pencil">                       Alphabet, in C</hi></l>
+                        <l n="01" rend="verse"> 	                         <hi rend="pencil">In Heroic Detachment<note>MM drafts toward "Baseball and Writing."</note></hi></l>
+                        <l n="02" rend="verse"><hi rend="pencil">                        Something to write about, talk about, see</hi></l>
+                        <l n="03" rend="verse"><hi rend="pencil">                        generating excitement in</hi></l>
+                        <l n="04" rend="verse"><hi rend="pencil">                                  the Tigers.?<note>The Detroit Tigers won 101 games in 1961 but finished second in the American League behind the Yankees.</note>                                                         <del>well . . . Me</del></hi></l>
+                        <l n="05" rend="verse"><hi rend="pencil">                                             Alphabet, in C</hi></l>
                         <l n="06"> </l>
-                        <l n="07" rend="verse"><hi rend="pencil">                  in the letter C<note>The Tigers' Rocky Colavito [1933- ] and Norman Cash [1934-1986], both Caucasian, were called "the C &amp; C Boys."</note></hi></l>
+                        <l n="07" rend="verse"><hi rend="pencil">                                   in the letter C<note>The Tigers' Rocky Colavito [1933- ] and Norman Cash [1934-1986], both Caucasian, were called "the C &amp; C Boys."</note></hi></l>
                         <l n="08"> </l>
-                        <l n="09" rend="verse"><hi rend="pencil">   Seen by Mr Hutchinsons<note>Hutchinson, Fred [1919-1964]. Manager of the Cincinnati Reds, the Yankees' opponent in the 1961 World Series. The Yankees won in 5 games.</note>                                             experienced eye</hi></l>
-                        <l n="10" rend="verse"><hi rend="pencil">                                             say</hi></l>
-                        <l n="11" rend="verse"><hi rend="pencil">                and in solitary ^ solitude by me</hi></l>
-                        <l n="12" rend="verse"><hi rend="pencil">                             detachment</hi></l>
+                        <l n="09" rend="verse"><hi rend="pencil"> Seen by Mr Hutchinsons<note>Hutchinson, Fred [1919-1964]. Manager of the Cincinnati Reds, the Yankees' opponent in the 1961 World Series. The Yankees won in 5 games.</note>                                             experienced eye</hi></l>
+                        <l n="10" rend="verse"><hi rend="pencil">                                               say</hi></l>
+                        <l n="11" rend="verse"><hi rend="pencil">                    and in solitary ^ solitude by me</hi></l>
+                        <l n="12" rend="verse"><hi rend="pencil">                                   detachment</hi></l>
                         <l n="13"> </l>
-                        <l n="14" rend="verse"><hi rend="pencil">     appraised by Mr Hs experienced eye</hi></l>
+                        <l n="14" rend="verse"><hi rend="pencil"> appraised by Mr Hs experienced eye</hi></l>
                         <l n="15" rend="verse"><hi rend="pencil">          and in absentia by me</hi></l>
                         <l n="16" rend="verse"><hi rend="pencil">           w grape juice   fr the A &amp; P</hi></l>
                         <l n="17" rend="verse"><hi rend="pencil">                                 a tall glass</hi></l>
-                        <l n="18" rend="verse"><hi rend="pencil">       "a pitchers deal</hi></l>
+                        <l n="18" rend="verse"><hi rend="pencil">    "a pitchers deal</hi></l>
                         <l n="19" rend="verse"><hi rend="pencil">                                  all the way" along</hi></l>
-                        <l n="20" rend="verse"><hi rend="green">      Yogi B</hi>    <hi rend="pencil">Not quite,   a catcher's</hi></l>
+                        <l n="20" rend="verse"><hi rend="green">Yogi B</hi>    <hi rend="pencil">Not quite,   a catcher's</hi></l>
                         <l n="21" rend="verse"><hi rend="pencil">               the nights great defensive play</hi></l>
-                        <l n="22" rend="verse">                                                 the individual's</l>
+                        <l n="22" rend="verse">                                                      the individual's</l>
                         <l n="23" rend="verse"> <hi rend="pencil">                     or it would have got away</hi></l>
-                        <l n="24" rend="verse">                                            the Tigers prey</l>
-                        <l n="25" rend="verse">                     The D<hi rend="green">'s </hi><hi rend="pencil">had their slump</hi></l>
+                        <l n="24" rend="verse">                                           the Tigers prey</l>
+                        <l n="25" rend="verse">                The D<hi rend="green">'s </hi><hi rend="pencil">had their slump</hi></l>
                         <l n="26"> </l>
                         <l n="27" rend="verse"><hi rend="pencil">                                 6 games in a row</hi><note>The Dodgers had a total 10-loss streak in 1961.</note></l>
                         <l n="28"> </l>
-                        <l n="29" rend="verse"><hi rend="green">         B ball &amp; tigers milk</hi></l>
-                        <l n="30" rend="verse"> <hi rend="green">        <del>what will it do</del></hi></l>
-                        <l n="31" rend="verse"> <hi rend="green">          &amp; what can it be</hi></l>
-                        <l n="32" rend="verse"><hi rend="green">           &amp; what will it do?        High protein</hi></l>
+                        <l n="29" rend="verse"><hi rend="green"> B ball &amp; tigers milk</hi></l>
+                        <l n="30" rend="verse"> <hi rend="green">     <del>what will it do</del></hi></l>
+                        <l n="31" rend="verse"> <hi rend="green">        &amp; what can it be</hi></l>
+                        <l n="32" rend="verse"><hi rend="green">        &amp; what will it do?        High protein</hi></l>
                     </lg>
                 </div>
             </div>
@@ -8091,42 +8091,42 @@
                         n="0021-recto"/>
                     <!-- <desc>MM circles the word "individual" in blank ink, line 11.</desc> -->
                     <lg>
-                        <l n="01" rend="verse">            <hi rend="red">What is the fascination</hi><note>MM drafts toward "Baseball and Writing."</note> <hi rend="blue">                                                                                                                          15</hi></l>
+                        <l n="01" rend="verse">            <hi rend="red">What is the fascination</hi><note>MM drafts toward "Baseball and Writing."</note> <hi rend="blue">                                                                                                                          15</hi></l>
                         <l n="02" rend="verse"> <hi rend="red">   What i<del>s</del></hi><hi rend="pencil">s</hi> <hi rend="red">the charm</hi></l>
-                        <l n="03" rend="verse"><hi rend="red">     Elston Howard<note>Howard, Elston [1929-1980].  Left fielder/catcher/power hitter, and the first African American to play for the Yankees (1955-1967).</note>                                 there is no rhyme</hi></l>
+                        <l n="03" rend="verse"><hi rend="red">   Elston Howard<note>Howard, Elston [1929-1980].  Left fielder/catcher/power hitter, and the first African American to play for the Yankees (1955-1967).</note>                                 there is no rhyme</hi></l>
                         <l n="04" rend="verse">                      enthusiast??   <!-- is this a gap or just two ?'s -->  <hi rend="red">that could apply</hi></l>
                         <l n="05" rend="verse"><hi rend="red"> and  Who</hi><hi rend="pencil">,</hi> <hi rend="red">the admirer ?</hi></l>
-                        <l n="06" rend="verse"><hi rend="red">                            I could be<hi rend="underline">I</hi></hi></l>
+                        <l n="06" rend="verse"><hi rend="red">                                  I could be<hi rend="underline">I</hi></hi></l>
                         <l n="07" rend="verse"><hi rend="red">                               not</hi></l>
                         <l n="08" rend="verse"><hi rend="red"> It is <del>not</del> personal or  general</hi></l>
-                        <l n="09" rend="verse"><hi rend="red">          It  	the ball it is the way the ball</hi></l>
+                        <l n="09" rend="verse"><hi rend="red">       It  	the ball it is the way the ball</hi></l>
                         <l n="10"><hi rend="red"> _______________________________</hi></l>
-                        <l n="11" rend="verse"><hi rend="red">               behaves <del>and</del> for the individual</hi></l>
-                        <l n="12" rend="verse">             you might say—  	  a</l>
-                        <l n="13" rend="verse">  <hi rend="red">            a—diamond—     miracle</hi></l>
-                        <l n="14" rend="verse"><hi rend="red">     It is not milk  or cereal or cokes</hi></l>
-                        <l n="15" rend="verse"><hi rend="red">       or <del>what the</del> —or any unathletic kind</hi></l>
-                        <l n="16" rend="verse">   the unathletic  <hi rend="red"><del>of</del> nonsense about tobacco smoke</hi></l>
-                        <l n="17" rend="verse"><hi rend="red">  Wheat that is so crisp                      </hi>	  <hi rend="pencil">tobacco smoke</hi></l>
+                        <l n="11" rend="verse"><hi rend="red">             behaves <del>and</del> for the individual</hi></l>
+                        <l n="12" rend="verse">           you might say—  	  a</l>
+                        <l n="13" rend="verse">  <hi rend="red">              a—diamond—     miracle</hi></l>
+                        <l n="14" rend="verse"><hi rend="red"> It is not milk  or cereal or cokes</hi></l>
+                        <l n="15" rend="verse"><hi rend="red">  or <del>what the</del> —or any unathletic kind</hi></l>
+                        <l n="16" rend="verse"> the unathletic  <hi rend="red"><del>of</del> nonsense about tobacco smoke</hi></l>
+                        <l n="17" rend="verse"><hi rend="red"> Wheat that is so crisp                      </hi>	  <hi rend="pencil">tobacco smoke</hi></l>
                         <l n="18" rend="verse"> <hi rend="red">  as obstrective <unclear resp="eg">only</unclear> smoked smoke</hi></l>
                         <l n="19" rend="verse"><hi rend="red"> which     <del>unwar</del></hi></l>
                         <l n="20" rend="verse"><hi rend="red">  as what the unwary smoke</hi>r</l>
-                        <l n="21" rend="verse">   The thing entertains me the way it was</l>
-                        <l n="22" rend="verse">            meant to</l>
-                        <l n="23" rend="verse">   Hemingway—To help people to write more</l>
-                        <l n="24" rend="verse">     directly is a service but oh—</l>
-                        <l n="25" rend="verse">        Open the door</l>
-                        <l n="26" rend="verse">        — to receive a wild boar</l>
+                        <l n="21" rend="verse"> The thing entertains me the way it was</l>
+                        <l n="22" rend="verse">                meant to</l>
+                        <l n="23" rend="verse">  Hemingway—To help people to write more</l>
+                        <l n="24" rend="verse">     directly is a service but oh—</l>
+                        <l n="25" rend="verse">              Open the door</l>
+                        <l n="26" rend="verse">           — to receive a wild boar</l>
                         <l n="27" rend="verse"> writing is exciting________________</l>
                         <l n="28" rend="verse">                    and                                                          you said Tigers milk</l>
-                        <l n="26" rend="verse">       writing <del>is like</del> baseball                                 what can it be</l>
+                        <l n="26" rend="verse">        writing <del>is like</del> baseball                                 what can it be</l>
                         <l n="27" rend="verse">                                                                                      and what can it do</l>
                         <l n="28" rend="verse">         Writing    "    exciting                                           how does it apply?</l>
                         <l n="29" rend="verse">                                                                                     If a protein mix</l>
                         <l n="30" rend="verse">                                                                                            makes people strong</l>
                         <l n="31" rend="verse">       &amp; baseball is like writing                       beneficiary It cld be I</l>
                         <l n="32" rend="verse">                                                                            for you</l>
-                        <l n="33" rend="verse">              for never <del>know</del> can say;   never know</l>
+                        <l n="33" rend="verse">                for never <del>know</del> can say;   never know</l>
                         <l n="34" rend="verse">                                               in either</l>
                         <l n="35" rend="verse"> or Id tell    <del>just</del>how it will go.</l>
                         <l n="36" rend="verse"> you                                                                      The same things apply</l>
@@ -8144,35 +8144,35 @@
                         <l n="01"><hi rend="red">            a parody of course<note>MM drafts toward "Baseball and Writing."</note></hi></l>
                         <l n="02"> <hi rend="red">                                   ?  at source</hi></l>
                         <l n="03"> <hi rend="red">             but a eulog<del>log</del>ergy </hi><del>perforce</del></l>
-                        <l n="04">                      excitement</l>
-                        <l n="05">  			<hi rend="red">                the source</hi></l>
+                        <l n="04">                        excitement</l>
+                        <l n="05">  			<hi rend="red">                                             the source</hi></l>
                         <l n="06"> Title:    <hi rend="underline">Writing &amp; Baseball</hi>       <hi rend="pencil">that circumstances</hi></l>
-                        <l n="07"><hi rend="pencil">                                                               nurse</hi></l>
-                        <l n="08">         Writing is exciting                          writing                      </l>
+                        <l n="07"><hi rend="pencil">                                                                            nurse</hi></l>
+                        <l n="08">         Writing is exciting                         writing                      </l>
                         <l n="09">          and baseball is <del>exciting</del> like <del>baseball</del></l>
                         <l n="10">             <del>the same</del> like <del>principles apply</del></l>
                         <l n="11">  	                                     <del>judgements</del></l>
                         <l n="12"> </l>
-                        <l n="13">            You never know <del>with either</del></l>
+                        <l n="13">         You never know <del>with either</del></l>
                         <l n="14">  with either, how it will go</l>
-                        <l n="15">  	      <del>you have to wait &amp; see</del></l>
+                        <l n="15">  		        <del>you have to wait &amp; see</del></l>
                         <l n="16">                            work                 5 innings, or nine,</l>
-                        <l n="17">             you work nine innings                         or two</l>
-                        <l n="18">           you work 9 months for years    don't know</l>
-                        <l n="19">          the thing is entertaining            <del>and</del>    what you will</l>
-                        <l n="20">                   obstructions are detaining                    do</l>
+                        <l n="17">     you work nine innings                         or two</l>
+                        <l n="18">        you work 9 months for years    don't know</l>
+                        <l n="19">  the thing is entertaining            <del>and</del>    what you will</l>
+                        <l n="20">                    obstructions are detaining                    do</l>
                         <l n="21">  		<hi rend="pencil">                   but it generates fanatics</hi></l>
-                        <l n="22">           Cereal a protein, vitamins, nutriment</l>
+                        <l n="22">  Cereal a protein, vitamins, nutriment</l>
                         <l n="23">  		  <hi rend="pencil">                      what is there to excite</hi></l>
                         <l n="24"><hi rend="pencil">     a fan is a fanatic</hi></l>
-                        <l n="25"><hi rend="pencil">             whose emotions you ignite</hi></l>
+                        <l n="25"><hi rend="pencil">                whose emotions you ignite</hi></l>
                         <l n="26"> </l>
                         <l n="27"><hi rend="red">This is excitement not vacuus babble</hi></l>
                         <l n="28"><hi rend="red"><bibl type="begin"/>              NYT    Sept 11        Jack Gould<note>Gould, Jack [1914-1993]. <hi rend="italic">New York Times</hi>  TV critic. He described daytime TV as appropriately interruptable for viewing by busy housewives in the article Moore may refer to here: "Television Therapy: Daytime Shows Don't Divert the Mind," <hi rend="italic">New York Times</hi> (Sept. 10, 1961): X23.</note><bibl type="end"/></hi></l>
                         <l n="29"><hi rend="red"> </hi></l>
                         <l n="30"><hi rend="red"> In the ball tribe One detects a similarity to the writing </hi></l>
                         <l n="31"><hi rend="red">                       a need for privacy                             <del>crew</del>	</hi></l>
-                        <l n="32"><hi rend="red">   but they tell us in the papers                                tribe  </hi></l>
+                        <l n="32"><hi rend="red"> but they tell us in the papers                                tribe  </hi></l>
                         <l n="33"><hi rend="red">                          if you read the papers</hi><seg type="draft-end"/></l>
                     </lg>
                     <lg type="vertical">
@@ -8189,14 +8189,14 @@
                         35, MM circles "of me".</desc> -->
                     <lg>
                         <l n="01" rend="verse">                          An adastrium of runs<note>MM drafts toward "Baseball and Writing."                                                 </note><hi rend="blue">                                                                                                                          17</hi></l>
-                        <l n="02" rend="verse">  		                         <del>for</del> in one season</l>
-                        <l n="03" rend="verse">                          not all by one ball-team</l>
-                        <l n="04" rend="verse">         assorted                Willie Kirklands<note>Kirkland, Willie [1934 - ]. Right fielder and power hitter for the Cleveland Indians (1961-1963), African American.                                         </note>                                                               <del>lusty drive</del></l>
-                        <l n="05" rend="verse">             the M-pair		  	massive one</l>
-                        <l n="06" rend="verse">             the C-pair Elston Howard's <hi rend="red">massive</hi></l>
-                        <l n="07" rend="verse">                                 Rocky Colavito and <hi rend="red ">Norman</hi> Cash</l>
+                        <l n="02" rend="verse">  		                                                         <del>for</del> in one season</l>
+                        <l n="03" rend="verse">                            not all by one ball-team</l>
+                        <l n="04" rend="verse">  assorted                      Willie Kirklands<note>Kirkland, Willie [1934 - ]. Right fielder and power hitter for the Cleveland Indians (1961-1963), African American.                                         </note>                                                                            <del>lusty drive</del></l>
+                        <l n="05" rend="verse">       the M-pair		  	massive one</l>
+                        <l n="06" rend="verse">       the C-pair Elston Howard's <hi rend="red">massive</hi></l>
+                        <l n="07" rend="verse">                                         Rocky Colavito and <hi rend="red ">Norman</hi> Cash</l>
                         <l n="08" rend="verse">  <unclear resp="eg">       2</unclear> inside-the-Park home-runs—</l>
-                        <l n="09" rend="verse">                 injuries  some misbehavior by the crowd</l>
+                        <l n="09" rend="verse">                    injuries  some misbehavior by the crowd</l>
                         <l n="10" rend="verse">  in our international mass</l>
                         <l n="11" rend="verse">              becaus<hi rend="pencil">e the people control <del>w</del></hi>    control s</l>
                         <l n="12" rend="verse"><hi rend="red">See        </hi><hi rend="pencil">  things <del>matter</del> without learning</hi></l>
@@ -8242,7 +8242,7 @@
                         n="0024-verso"/>
                     <!-- <desc>MM circles "pitcherly" in line 09 and "juice" in line 21.</desc> -->
                     <lg>
-                        <l n="01" rend="verse">                   James M. Grant<note>Grant, James "Mudcat" [1935 - ]. Pitcher, Cleveland Indians 1958-64, African American.</note>                                               next  pitchers are<note>MM drafts toward "Baseball and Writing"; some lines and phrases appear in published poem.</note></l>
+                        <l n="01" rend="verse">            James M. Grant<note>Grant, James "Mudcat" [1935 - ]. Pitcher, Cleveland Indians 1958-64, African American.</note>                                               next  pitchers are<note>MM drafts toward "Baseball and Writing"; some lines and phrases appear in published poem.</note></l>
                         <l n="02" rend="verse"> Study assignment                                   peculiar</l>
                         <l n="03" rend="verse">       Signs &amp; symbols next</l>
                         <l n="04" rend="verse">                                 with his peculiarity</l>
@@ -8255,15 +8255,15 @@
                         <l n="11" rend="verse">  <hi rend="red">             in the local patois</hi>     in <del>ya</del>   local language</l>
                         <l n="12" rend="verse">        (it refracted the ball)                      accent)</l>
                         <l n="13"> </l>
-                        <l n="14" rend="verse">                    confounding them all.</l>
-                        <l n="15" rend="verse">                    interfered with them all.</l>
-                        <l n="16" rend="verse">                        (frustrated them all.)—</l>
+                        <l n="14" rend="verse">                  confounding them all.</l>
+                        <l n="15" rend="verse">                  interfered with them all.</l>
+                        <l n="16" rend="verse">                      (frustrated them all.)—</l>
                         <l n="17" rend="verse">	  <hi rend="red"><unclear resp="eg">                                          ing</unclear></hi></l>
-                        <l n="18" rend="verse">         Magnetised <hi rend="red"><unclear resp="eg"><hi rend="underline">I</hi></unclear></hi>to watch (them) him <del>toil</del> toil tigermilk <hi rend="red">fed</hi></l>
-                        <l n="19" rend="verse">            umpire-eyed watching—              fortified by <hi rend="red">cow each</hi></l>
+                        <l n="18" rend="verse">   Magnetised <hi rend="red"><unclear resp="eg"><hi rend="underline">I</hi></unclear></hi>to watch (them) him <del>toil</del> toil tigermilk <hi rend="red">fed</hi></l>
+                        <l n="19" rend="verse">     umpire-eyed watching—              fortified by <hi rend="red">cow each</hi></l>
                         <l n="20" rend="verse"> 	  <hi rend="red">                and dry</hi>        until the score was tied</l>
                         <l n="21" rend="verse">					<hi rend="red">                                                                     juice bottle</hi></l>
-                        <l n="22" rend="verse">         watching them toil                <hi rend="red">Concord grapes in fed</hi></l>
+                        <l n="22" rend="verse">     watching them toil                <hi rend="red">Concord grapes in fed</hi></l>
                         <l n="23" rend="verse">      B - b<del>and</del> or writing                             <hi rend="red">in hand</hi></l>
                         <l n="24" rend="verse">  <hi rend="red">                                                     umpire-eyed and </hi></l>
                         <l n="25" rend="verse"> ignoring disregarding imaginary clocks   <hi rend="red">dogday</hi></l>
@@ -8275,13 +8275,13 @@
                         <l n="31" rend="verse"><hi rend="pencil">                            Hurricane called Carla</hi></l>
                         <l n="32" rend="verse"><hi rend="pencil">                                  does not rain on them</hi></l>
                         <l n="33"> </l>
-                        <l n="34" rend="verse"> <hi rend="green">   Variety?  You never need a change</hi></l>
+                        <l n="34" rend="verse"> <hi rend="green">Variety?  You never need a change</hi></l>
                         <l n="35" rend="verse">  <hi rend="red">                                                            crown</hi></l>
-                        <l n="36" rend="verse"> <hi rend="green">      from baseball</hi></l>
+                        <l n="36" rend="verse"> <hi rend="green">     from baseball</hi></l>
                         <l n="37" rend="verse">  					<hi rend="red">                                       qualify for the batters</hi></l>
-                        <l n="38" rend="verse"> <hi rend="green">      apothecary's cotton</hi>        <hi rend="red">too bad you <unclear resp="eg">can't</unclear></hi></l>
+                        <l n="38" rend="verse"> <hi rend="green">   apothecary's cotton</hi>        <hi rend="red">too bad you <unclear resp="eg">can't</unclear></hi></l>
                         <l n="39" rend="verse"><hi rend="red">                              we won the pennant </hi></l>
-                        <l n="40" rend="verse"><hi rend="red">   Sept 20<note>September 20, 1961, the Yankees clinched the pennant, over the Baltimore Orioles.</note>                Wed. Elston H. I'm very satisfied. Wel </hi></l>
+                        <l n="40" rend="verse"><hi rend="red"> Sept 20<note>September 20, 1961, the Yankees clinched the pennant, over the Baltimore Orioles.</note>                Wed. Elston H. I'm very satisfied. Wel </hi></l>
                     </lg>
                 </div>
             </div>
@@ -8293,22 +8293,22 @@
                     <!-- <desc>MM circles "very" line 01 and "we" line 02, in pencil; she draws curly
                         bracket dividing right from left side of lines 14-17.</desc> -->
                     <lg>
-                        <l n="01" rend="verse"> <hi rend="red">   S. 20                      I m very satisfied<note>MM drafts toward "Baseball and Writing."</note></hi><hi rend="blue">                                                                                      19</hi></l>
+                        <l n="01" rend="verse"> <hi rend="red">S. 20                      I m very satisfied<note>MM drafts toward "Baseball and Writing."</note></hi><hi rend="blue">                                                                                      19</hi></l>
                         <l n="02" rend="verse"> <hi rend="red">                 We won the pennant;— <hi rend="underline">we.</hi></hi></l>
-                        <l n="03" rend="verse"> <hi rend="red">                 . . . . /</hi></l>
+                        <l n="03" rend="verse"> <hi rend="red">               . . . . /</hi></l>
                         <l n="04" rend="verse"> <hi rend="red">                           you could <del>It</del>refer<del>s</del> to me</hi></l>
-                        <l n="05" rend="verse"> <hi rend="red">  Like a kink in a cactus that ought to be straigted</hi></l>
+                        <l n="05" rend="verse"> <hi rend="red">Like a kink in a cactus that ought to be straigted</hi></l>
                         <l n="06" rend="verse"> <hi rend="red">                                                        in use</hi></l>
                         <l n="07" rend="verse"> <hi rend="red"> Tigers milk  like angel skin used  partly</hi></l>
-                        <l n="08" rend="verse"><hi rend="red">                               for the name</hi></l>
+                        <l n="08" rend="verse"><hi rend="red">                                                for the name</hi></l>
                         <l n="09" rend="verse"><hi rend="red">  qualified       </hi><hi rend="pencil">What is the good of it</hi></l>
                         <l n="10" rend="verse">  <hi rend="red">certified</hi>        <hi rend="pencil">Enjoy ent for me—  what</hi></l>
                         <l n="11" rend="verse"><hi rend="pencil">                       Entertainment              does it</hi></l>
-                        <l n="12" rend="verse">  <hi rend="green">     ruffle of drums    &amp; a hard tap on the</hi>        <hi rend="pencil">do? </hi></l>
-                        <l n="13" rend="verse">  <hi rend="green">      James Mudcat Grant                            cymbals</hi></l>
+                        <l n="12" rend="verse">  <hi rend="green">ruffle of drums    &amp; a hard tap on the</hi>        <hi rend="pencil">do? </hi></l>
+                        <l n="13" rend="verse">  <hi rend="green">James Mudcat Grant                            cymbals</hi></l>
                         <l n="14" rend="verse">		<hi rend="pencil">                                        to</hi></l>
                         <l n="15" rend="verse"><hi rend="pencil">  whom of whom I sing</hi></l>
-                        <l n="16" rend="verse"><hi rend="pencil">           and good morning to you Sir}  part of Tell me</hi></l>
+                        <l n="16" rend="verse"><hi rend="pencil">                and good morning to you Sir}  part of Tell me</hi></l>
                         <l n="17" rend="verse"><hi rend="pencil">                                        Bravo                         tell me<note>"Tell Me Tell Me," first published <hi rend="italic">The New Yorker</hi>  36 (April 30 1960): 44.</note></hi></l>
                         <l n="18"> </l>
                         <l n="19" rend="verse"> We influence each other                                     says</l>
@@ -8316,7 +8316,7 @@
                         <l n="21" rend="verse">  the breath of ambition		<bibl type="begin"/>              NYerorker  Oct 28<bibl type="end"/><note>"Profiles: The Player—II." <hi rend="italic">The New Yorker</hi>  (28 October 1961): 81. Zero Mostel about Burgess Meredith as director: "And I don't feel the breath of ambition on him, which is always disturbing to an actor."</note></l>
                         <l n="22" rend="verse">  is always disturbing                                             61</l>
                         <l n="23">            ____________</l>
-                        <l n="24" rend="verse">  Gilded    T as w. parted mouth</l>
+                        <l n="24" rend="verse">  Gilded                           as w. parted mouth</l>
                         <l n="25" rend="verse">  "Fair alligators"  with mouth opening to sing</l>
                         <l n="26" rend="verse">           John Adams</l>
                         <l n="27"> </l>
@@ -8346,25 +8346,25 @@
                     <!-- <desc>MM draws an arrow pointing from "charity" in line 13 to "imaginary" in
                         line 11.</desc> -->
                     <lg>
-                        <l n="01" rend="verse">      Dr. Raworth Williams                      by Gerald Holland<note>MM drafts toward "Blue Bug," firstpublished <hi rend="italic">The New Yorker</hi>  38 (26 May 1962): 40.</note></l>
-                        <l n="02" rend="verse">  	<hi rend="blue">                    Blue Bug                                                   </hi>	Holland     <hi rend="blue">(21</hi></l>
+                        <l n="01" rend="verse">                      Dr. Raworth Williams                      by Gerald Holland<note>MM drafts toward "Blue Bug," firstpublished <hi rend="italic">The New Yorker</hi>  38 (26 May 1962): 40.</note></l>
+                        <l n="02" rend="verse">  	<hi rend="blue">                            Blue Bug                                                   </hi>	Holland     <hi rend="blue">(21</hi></l>
                         <l n="03" rend="verse"><hi rend="blue">     I haven't see him <hi rend="underline">I</hi> have</hi></l>
                         <l n="04" rend="verse"><hi rend="blue">      just a general impression—</hi></l>
                         <l n="05" rend="verse"><hi rend="blue"> <unclear resp="eg">can </unclear> infer from the others which</hi></l>
                         <l n="06" rend="verse">  	<bibl type="begin"/>                 Don't pull up for Doc.<bibl type="end"/></l>
                         <l n="07" rend="verse"> <hi rend="blue">    he is</hi>   <bibl type="begin"/>Sports Ill.   Nov 13, <hi rend="underline">1961</hi><bibl type="end"/><note>Holland, Gerald. "Don't Pull Up For Doc."<hi rend="italic">Sports Illustrated</hi>  (13 November 1961). Article profiles Dr. Raworth Williams.</note></l>
                         <l n="08"> </l>
-                        <l n="09" rend="verse">   will not waste string—tail or body</l>
+                        <l n="09" rend="verse">  will not waste string—tail or body</l>
                         <l n="10" rend="verse">        Owl &amp; pussy cat</l>
                         <l n="11" rend="verse">                     with unenvious •  if not imaginary</l>
                         <l n="12" rend="verse">  January 10    <del>with</del> equine eye</l>
-                        <l n="13" rend="verse">                       of charity</l>
-                        <l n="14" rend="verse">                       oblivious of eulogy</l>
+                        <l n="13" rend="verse">                         of charity</l>
+                        <l n="14" rend="verse">                        oblivious of eulogy</l>
                         <l n="15" rend="verse">  		<hi rend="green">                             indifferent to</hi></l>
                         <l n="16" rend="verse">  		<foreign xml:lang="fr">                     les amateurs animateurs</foreign></l>
                         <l n="17" rend="verse">                                                                                 1962</l>
                         <l n="18" rend="verse">  <hi rend="blue">  Redon—<bibl type="begin"/>John Simon Arts February <bibl type="end"/><note>Simon, John. "Torments of Imagination." <hi rend="italic">Arts Magazine</hi>  36.5 (4 February 1962): 20-27.</note></hi></l>
-                        <l n="19" rend="verse"><hi rend="blue">    The face <del>existing to make</del> as a setting for the eye</hi></l>
+                        <l n="19" rend="verse"><hi rend="blue">  The face <del>existing to make</del> as a setting for the eye</hi></l>
                         <l n="20"> </l>
                         <l n="21" rend="verse"><hi rend="blue"><seg type="draft-begin"/>Cf                  a weasel which</hi><note>MM may draft toward "An Expedient—Leonardo da Vinci's—and a Query," first published <hi rend="italic">The New Yorker</hi>  40 (18 April 1964): 52.</note></l>
                         <l n="22" rend="verse"><hi rend="blue"> the an ermine  Leonardo da V might have</hi></l>
@@ -8372,7 +8372,7 @@
                         <l n="24" rend="verse"><hi rend="blue">                  a  <del>v</del>V left on the easel</hi></l>
                         <l n="25" rend="verse"><hi rend="blue">                         <del>sketched</del> sketched on the easel<seg type="draft-end"/></hi></l>
                         <l n="26" rend="verse"><hi rend="blue">                     Vale farewell or vale tine<note>The discussion of ermines, weasels, and valentines invokes two previously published poems—"Saint Valentine" (first published <hi rend="italic">New York Herald Tribune </hi>[13 February 1960]: 1) and "Then the Ermine" (first published <hi rend="italic">Poetry</hi>  81 [October 1952]: 55-6).</note> </hi></l>
-                        <l n="27" rend="verse"><hi rend="blue">    Arthur Mitchel<note>As above, MM invokes a previously published poem,"Arthur Mitchell," which was first published in the<hi rend="italic"> </hi>City Center Music and Drama Souvenir Program (January 1962) for the opening of Balanchine's ballet <hi rend="italic">A Midsummer Night's Dream</hi>—before the publication of the John Simon February 1962 essay that MM cites above. Mitchell is also mentioned in "Blue Bug."</note></hi></l>
+                        <l n="27" rend="verse"><hi rend="blue">  Arthur Mitchel<note>As above, MM invokes a previously published poem,"Arthur Mitchell," which was first published in the<hi rend="italic"> </hi>City Center Music and Drama Souvenir Program (January 1962) for the opening of Balanchine's ballet <hi rend="italic">A Midsummer Night's Dream</hi>—before the publication of the John Simon February 1962 essay that MM cites above. Mitchell is also mentioned in "Blue Bug."</note></hi></l>
                         <l n="28" rend="verse"><hi rend="blue">  Satirized     yr jewels of mobility            <unclear resp="eg">like</unclear>  Midsumme</hi></l>
                         <l n="29" rend="verse"><hi rend="blue">    or                reveal &amp; veil                         Ns Dream</hi></l>
                         <l n="30" rend="verse"><hi rend="blue">  Maximize(d)		  </hi></l>
@@ -8387,7 +8387,7 @@
                         n="0028-verso"/>
                     <!-- <desc>MM circles "go" in line 12 and "grow" in line 16.</desc> -->
                     <lg>
-                        <l n="01" rend="verse">         <hi rend="blue">        I can imagine -<note>MM drafts toward "Blue Bug."</note></hi></l>
+                        <l n="01" rend="verse">                  <hi rend="blue">I can imagine -<note>MM drafts toward "Blue Bug."</note></hi></l>
                         <l n="02" rend="verse"><hi rend="blue">                 or can I?</hi></l>
                         <l n="03" rend="verse"><hi rend="blue">                       What I have not seen—</hi></l>
                         <l n="04" rend="verse"><hi rend="blue">  </hi></l>
@@ -8404,7 +8404,7 @@
                         <l n="15" rend="verse"><hi rend="blue">                   nostril expand                 wide</hi></l>
                         <l n="16" rend="verse"><hi rend="blue">                   eyes grow triangular the <del>far</del></hi></l>
                         <l n="17" rend="verse"><hi rend="blue">                                                     near</hi></l>
-                        <l n="18" rend="verse">         on the side at <del>the <hi rend="blue">Side  line, at</hi></del>  <hi rend="blue">the nose</hi></l>
+                        <l n="18" rend="verse">       on the side at <del>the <hi rend="blue">Side  line, at</hi></del>  <hi rend="blue">the nose</hi></l>
                         <l n="19"> </l>
                         <l n="20" rend="verse">         Operation Great Bear</l>
                         <l n="21" rend="verse">        waffle weave underwear</l>
@@ -8428,7 +8428,7 @@
                         from line 24 to 22; on lines 21-22, she draws a wedge shape and concluding
                         line to insert words "When the".</desc> -->
                     <lg>
-                        <l n="01"> <seg type="draft-begin"/>              Yes, I envy<note>MM drafts toward "Charity Overcoming Envy."</note> <hi rend="blue">                                                                                                                   23</hi></l>
+                        <l n="01"> <seg type="draft-begin"/>                      Yes, I envy<note>MM drafts toward "Charity Overcoming Envy."</note> <hi rend="blue">                                                                                                                   23</hi></l>
                         <l n="02"><hi rend="blue">                            Charity</hi></l>
                         <l n="03"><hi rend="blue">                   her triumph over envy</hi></l>
                         <l n="04"><hi rend="blue">                     her modesty, sincerity</hi></l>
@@ -8452,14 +8452,14 @@
                         <l n="22">                                                       profane have an objective</l>
                         <l n="23">                          O Charity</l>
                         <l n="24">                              O Zeus and O Destiny<note>This line appears in"The Mind, Intractable Thing," first published <hi rend="italic">The New Yorker</hi>  39 (30 March 1963): 44.</note></l>
-                        <l n="25">elephant                  Emancipate me        nothing              thought a calamity</l>
-                        <l n="26">eye focussed    when the profane have an objective    abates it  be</l>
+                        <l n="25">	elephant                  Emancipate me        nothing              thought a calamity</l>
+                        <l n="26">  	eye focussed    when the profane have an objective    abates it  be</l>
                         <l n="27">                       accused of naivete</l>
-                        <l n="28"><hi rend="pencil">Only to the base         </hi> only to the base would innocence be</l>
+                        <l n="28">  <hi rend="pencil">Only to the base         </hi> only to the base would innocence be</l>
                         <l n="29">                        (although  ^  innocence is no calamity  2)</l>
-                        <l n="30"><hi rend="pencil">is innocence</hi></l>
+                        <l n="30">  <hi rend="pencil">is innocence</hi></l>
                         <l n="31">                 No <hi rend="blue">to the</hi> victims of calumny <hi rend="blue"> 1                 all</hi></l>
-                        <l n="32"><hi rend="pencil">a calamity</hi>                                                a mere thing of naivete</l>
+                        <l n="32">  <hi rend="pencil">a calamity</hi>                                                a mere thing of naivete</l>
                         <l n="33">                              None of it matters</l>
                         <l n="34">                                               a                    dis</l>
                         <l n="35">                               except <del>the</del> charge of <del>un</del>loyalty</l>
@@ -8480,35 +8480,35 @@
                     <!-- <desc>MM draws a large parenthesis on the right side of the words nearest the
                         left margin in lines 31-32.</desc> -->
                     <lg>
-                        <l n="01"> <seg type="draft-begin">          </seg>                      The postman, the      telephone<note>MM drafts toward "Charity Overcoming Envy."</note></l>
+                        <l n="01"> <seg type="draft-begin">                        </seg>The postman, the      telephone<note>MM drafts toward "Charity Overcoming Envy."</note></l>
                         <l n="02">                    The florist the telegraph boy</l>
                         <l n="03">                 and the locksmith; yes the exterminator</l>
                         <l n="04">                      O elephant without a castle that</l>
-                        <l n="05">                         you could recognize as one—</l>
-                        <l n="06">                         detained me.                   not to impropriety</l>
-                        <l n="07">    Emancipate me to nothing             mundane</l>
+                        <l n="05">                    you could recognize as one—</l>
+                        <l n="06">                   detained me.                   not to impropriety</l>
+                        <l n="07">  Emancipate me to nothing             mundane</l>
                         <l n="08">                 Virtue forsake, blessedness,   home</l>
                         <l n="09">                            turmoil—affrontery</l>
                         <l n="10">            elephant usually with impersonally faraway vacancy</l>
                         <l n="11">            eye  focussed  fixedly            abstracted</l>
                         <l n="12">                                                              apparently</l>
                         <l n="13">                    looking right at me<note>MM refers to the image of a 15th-century Flemish tapestry of Charity Overcoming Envy, which she received on a postcard from Laurence Scott (January 1962).</note></l>
-                        <l n="14">     Envy                                         (Scrutiny)</l>
-                        <l n="15">    Sighing tempestuously</l>
+                        <l n="14">   Envy                                         (Scrutiny)</l>
+                        <l n="15">  Sighing tempestuously</l>
                         <l n="16">                subserviently</l>
                         <l n="17">                                                                            were</l>
                         <l n="18">              triumphing augustly—as if there could</l>
                         <l n="19">                                                be no need for apology</l>
                         <l n="20">                             (Comely</l>
-                        <l n="21">              Handsome who knows what to call it)—</l>
-                        <l n="22">  			         <del>competently</del> (astute)  <del>aware</del></l>
+                        <l n="21">          Handsome who knows what to call it)—</l>
+                        <l n="22">  			                     <del>competently</del> (astute)  <del>aware</del></l>
                         <l n="23"> 1<hi rend="superscript">st </hi>Cor –13           un . . .       not   un-irascible        <hi rend="blue">comeliness</hi></l>
                         <l n="24"> 		                            <del>Not</del> self-conscious   <del>not</del>irascible <del>of</del>  <hi rend="blue">who knows</hi></l>
                         <l n="25">						<hi rend="blue">                                                                                      what to call</hi></l>
                         <l n="26">                                                    not unself righteous   not <hi rend="underline">prolix</hi></l>
                         <l n="27">                                         not <del>as</del> sounding brass</l>
                         <l n="28">  		             <del>all</del> faith to <del>remove</del> mountains—still</l>
-                        <l n="29">                                a more excellent     to bear,  hopee</l>
+                        <l n="29">                a more excellent     to bear,  hopee</l>
                         <l n="30">                                           thing				&amp; endure</l>
                         <l n="31">  with w powers      <del>never could ?</del> 	with conviction unjuding</l>
                         <l n="32">  the powerless      Never <del>un</del>ending—all peace &amp; all power</l>
@@ -8525,32 +8525,32 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0031-recto.jpg"
                         n="0031-recto"/>
                     <lg>
-                        <l n="01">  <seg type="draft-begin">                                     </seg>                        irritation<note>MM drafts toward "Charity Overcoming Envy."</note><hi rend="blue">                                                                                                                                              25</hi></l>
+                        <l n="01">  <seg type="draft-begin">                                     </seg>irritation<note>MM drafts toward "Charity Overcoming Envy."</note><hi rend="blue">                                                                                                                                              25</hi></l>
                         <l n="02">  with no eyes for effrontery vengeance, disdain</l>
                         <l n="03">          Complex, yes but serene</l>
                         <l n="04">          making environment appropriate</l>
-                        <l n="05">  		<del>an</del>  the impossible unattainable</l>
-                        <l n="06">    unconcerned to        <del>is</del>              steed</l>
-                        <l n="07">    investigate. If investigated, serene</l>
-                        <l n="08">    <unclear resp="eg">   thoroigt:</unclear> German Swiss: permeating</l>
-                        <l n="09">    all countries               Her attitude is right</l>
-                        <l n="10">                                                           rush</l>
-                        <l n="11">           popular?  loved        Is not in a</l>
-                        <l n="12">                                                      I can read</l>
-                        <l n="13">   || direct indirectly a sword of the spirit   her</l>
-                        <l n="14">                             modest                           writing</l>
-                        <l n="15">     as <unclear resp="eg">sent</unclear> a jugle a dense (mosaic of recognizable</l>
+                        <l n="05">  		                  <del>an</del>  the impossible unattainable</l>
+                        <l n="06">  unconcerned to        <del>is</del>              steed</l>
+                        <l n="07">  investigate. If investigated, serene</l>
+                        <l n="08">  <unclear resp="eg">   thoroigt:</unclear> German Swiss: permeating</l>
+                        <l n="09">  all countries               Her attitude is right</l>
+                        <l n="10">                                                                      rush</l>
+                        <l n="11">            popular?  loved              Is not in a</l>
+                        <l n="12">                                                                I can read</l>
+                        <l n="13">  ||direct indirectly a sword of the spirit   her</l>
+                        <l n="14">                             modest                                writing</l>
+                        <l n="15">  as <unclear resp="eg">sent</unclear> a jugle a dense (mosaic of recognizable</l>
                         <l n="16">                                            flowers)</l>
-                        <l n="17">    undictatorial, modest <unclear resp="eg">Girl</unclear></l>
-                        <l n="18">    <hi rend="blue">      Charity <del>over</del> triumphing  over envy</hi></l>
-                        <l n="19">    A <del>m</del>Master product   of    ours</l>
+                        <l n="17">  undictatorial, modest <unclear resp="eg">Girl</unclear></l>
+                        <l n="18">  <hi rend="blue">      Charity <del>over</del> triumphing  over envy</hi></l>
+                        <l n="19">  A <del>m</del>Master product   of    ours</l>
                         <l n="20">               a thousand flowers</l>
                         <l n="21">                               of the</l>
-                        <l n="22">      Envy w a gash (from her) sword on one cheek</l>
+                        <l n="22"> Envy w a gash (from her) sword on one cheek</l>
                         <l n="23">          on a harnessed dog sunk to its knees</l>
-                        <l n="24">    describing it— experiencing it—</l>
-                        <l n="25">                                2 fold</l>
-                        <l n="26">   blue sash, high neck &amp; double  gold chain   (15<!--check hi@rend=sup vs superscript --><hi rend="sup">th</hi>  c</l>
+                        <l n="24">  describing it— experiencing it—</l>
+                        <l n="25">                                              2 fold</l>
+                        <l n="26"> blue sash, high neck &amp; double  gold chain   (15<!--check hi@rend=sup vs superscript --><hi rend="sup">th</hi>  c</l>
                         <l n="27">   multiflowers in <foreign xml:lang="es">racimes</foreign><note>Racimes: Spanish for "clusters."</note></l>
                         <l n="28"> </l>
                         <l n="29">  can read her   An Obsession</l>
@@ -8574,43 +8574,43 @@
                     <!-- <desc>MM draws a large parenthesis around words in lines 33-34, starting
                         "from".</desc> -->
                     <lg>
-                        <l n="01">  <seg type="draft-begin">                 </seg>            O eternity   O my Soul              or as we used to say<note>MM drafts toward "Charity Overcoming Envy."</note></l>
-                        <l n="02">                                                               soul and body</l>
-                        <l n="03">             Her fabric of existence   weaves itself</l>
+                        <l n="01">  <seg type="draft-begin">             </seg>O eternity   O my Soul              or as we used to say<note>MM drafts toward "Charity Overcoming Envy."</note></l>
+                        <l n="02">                                                                      soul and body</l>
+                        <l n="03">       Her fabric of existence   weaves itself</l>
                         <l n="04">                                                         Whole Charity</l>
-                        <l n="05">                     Henry James would be the first to say</l>
+                        <l n="05">                  Henry James would be the first to say</l>
                         <l n="06">  As a city 	Charity does not miss its effect </l>
                         <l n="07">     Arles 	<bibl type="begin"/>259 H. James<bibl type="end"/></l>
                         <l n="08">  quite   which wholly misses its effect</l>
                         <l n="09">  misses                      260 Arles</l>
-                        <l n="10">  its effect<note>James, Henry. <hi rend="italic">The Art of Travel</hi>. Edited by Morton Dauwen Zabel. New York: Doubleday, 1962.</note>               The irrecoverable past</l>
+                        <l n="10">  its effect<note>James, Henry. <hi rend="italic">The Art of Travel</hi>. Edited by Morton Dauwen Zabel. New York: Doubleday, 1962.</note>                          The irrecoverable past</l>
                         <l n="11"> </l>
                         <l n="12">                                    And now</l>
-                        <l n="13">                              In the presence of his glory with exceeding</l>
+                        <l n="13">                           In the presence of his glory with exceeding</l>
                         <l n="14">                                                                                   joy</l>
                         <l n="15">                         dare I say it?  <del>I dare</del></l>
                         <l n="16">  	262</l>
-                        <l n="17">           In the moon charmed stillness</l>
-                        <l n="18">           in the light of day  	263</l>
+                        <l n="17">        In the moon charmed stillness</l>
+                        <l n="18">        in the light of day  	263</l>
                         <l n="19">                  Charity       as it lingers on the ear of</l>
                         <l n="20">                              time [a metaphor]—  allegory</l>
                         <l n="21"> </l>
                         <l n="22">  <hi rend="pencil">     264  the present &amp; the past touch</hi></l>
                         <l n="23"><hi rend="pencil">                                      each other</hi></l>
-                        <l n="24">  See April 15 <note>This Sunday date is not that of a <hi rend="italic">Listener</hi>  issue (published on Thursdays)<hi rend="italic">, </hi>but might refer to a sermon.</note>      62      The work of unfinished magnificence that</l>
+                        <l n="24">  See April 15 <note>This Sunday date is not that of a <hi rend="italic">Listener</hi>  issue (published on Thursdays)<hi rend="italic">, </hi>but might refer to a sermon.</note>  62      The work of unfinished magnificence that</l>
                         <l n="25">                    matters most is the soul</l>
                         <l n="26">                    dire           a world    world<del>ly</del> of disgust</l>
                         <l n="27">            In our chaos of the unbearable this</l>
                         <l n="28">                   is the victory even our faith</l>
                         <l n="29"> <hi rend="underline">She has</hi> the Victory               <bibl type="begin"/>Listener</l>
-                        <l n="30"><quote>        the elephant:  March 29<bibl type="end">  </bibl> (Instruction) &amp; delight</quote><note>"Ollyvaunts," <hi rend="italic">The Listener</hi>  (March 29, 1962): 555.</note></l>
+                        <l n="30">	  <quote>             the elephant:  March 29<bibl type="end">  </bibl> (Instruction) &amp; delight</quote><note>"Ollyvaunts," <hi rend="italic">The Listener</hi>  (March 29, 1962): 555.</note></l>
                         <l n="31">             on an  "signifying delight</l>
                         <l n="32">                <del>in</del> amid flowers on stalks expanding on</l>
-                        <l n="33">                    a                         in <foreign xml:lang="es">racimes</foreign>                         the ground</l>
-                        <l n="34">              your  gash on Envy's cheek                            from the             </l>
+                        <l n="33">               a                         in <foreign xml:lang="es">racimes</foreign>                         the ground</l>
+                        <l n="34">          your  gash on Envy's cheek                            from the             </l>
                         <l n="35">                   does not inspire <del>sadness</del>                sword of the spirit</l>
-                        <l n="36">                                       my embarrassment                         Spirit)</l>
-                        <l n="37">                   but imagination of friendship—           the sword of the<seg type="draft-end"/></l>
+                        <l n="36">                                                my embarrassment                         Spirit)</l>
+                        <l n="37">                 but imagination of friendship—           the sword of the<seg type="draft-end"/></l>
                     </lg>
                 </div>
             </div>
@@ -8621,32 +8621,32 @@
                         n="0033-recto"/>
                     <!-- <desc>MM's parentheses include lines 25-27.</desc> -->
                     <lg>
-                        <l n="01"> 	 <seg type="draft-begin">          </seg>           a thousand flowers<note>MM drafts toward "Charity Overcoming Envy."</note> <hi rend="blue">                                                                                                                                             27</hi></l>
+                        <l n="01"> 	 <seg type="draft-begin">                      </seg>a thousand flowers<note>MM drafts toward "Charity Overcoming Envy."</note> <hi rend="blue">                                                                                                                                             27</hi></l>
                         <l n="02">                       of <del>the</del> kind that do not weigh</l>
-                        <l n="03">                           a                                        in</l>
+                        <l n="03">                     a                                                           in</l>
                         <l n="04">  <del>does not</del>     like sounds ending in Y that linger on  the</l>
-                        <l n="05">                                Charity                    ear</l>
+                        <l n="05">                                      Charity                           ear</l>
                         <l n="06"> </l>
-                        <l n="07">           When the profane have an objective nothing abates</l>
-                        <l n="08">  			<hi rend="blue">                                  the profanity</hi>    it</l>
+                        <l n="07">         When the profane have an objective nothing abates</l>
+                        <l n="08">  			<hi rend="blue">                                                               the profanity</hi>       it</l>
                         <l n="09">                    a mighty idealism</l>
-                        <l n="10">			<hi rend="blue">                                           of envy</hi></l>
+                        <l n="10">			<hi rend="blue">                                                                           of envy</hi></l>
                         <l n="11">                    Vocabulary as elate</l>
-                        <l n="12">  	<hi rend="pencil">              winning</hi></l>
-                        <l n="13"><hi rend="pencil">                      genial 	 	</hi></l>
+                        <l n="12">  	<hi rend="pencil">                      winning</hi></l>
+                        <l n="13"><hi rend="pencil">                      genial 	 	</hi></l>
                         <l n="14"><hi rend="pencil">            No eager smile—You must imagine</hi></l>
-                        <l n="15"><hi rend="pencil">             that</hi></l>
+                        <l n="15"><hi rend="pencil">           that</hi></l>
                         <l n="16"><hi rend="pencil">               a gash on Envys cheek</hi></l>
-                        <l n="17">                     Charity             <hi rend="pencil">planted in imagination</hi></l>
+                        <l n="17">                        Charity                  <hi rend="pencil">planted in imagination</hi></l>
                         <l n="18">         amid a thousand flowers that are no care</l>
                         <l n="19">         Since planted in imagination's A<del>a</del>ir</l>
                         <l n="20">         in sun—at dusk</l>
-                        <l n="21">  <hi rend="pencil ">          I wd be Practical man not giving legs to snakes</hi></l>
+                        <l n="21">  <hi rend="pencil ">            I wd be Practical man not giving legs to snakes</hi></l>
                         <l n="22">         Repose of mind—stirring up no dust</l>
                         <l n="23">              by giving legs to a snake that had no need</l>
                         <l n="24">                                                                                      of them</l>
                         <l n="25">  <bibl type="begin"> </bibl>   (the World of Zen, Nancy W Ross p 57<note>Ross, Nancy Wilson. <hi rend="italic">The World of Zen</hi>. New York: Random House, 1960.</note><bibl type="end"/></l>
-                        <l n="26">                                                 Sokei-an<note>Sasaki, Sokei-an Shigetsu [1882-1945]. Japanese Rinzai Roshi, Buddhist Society of America founder.</note></l>
+                        <l n="26">                                                                Sokei-an<note>Sasaki, Sokei-an Shigetsu [1882-1945]. Japanese Rinzai Roshi, Buddhist Society of America founder.</note></l>
                         <l n="27">                I have stirred up dust aplenty)</l>
                         <l n="28"> </l>
                         <l n="29">	<quote type="begin">     </quote>ruffled w radiance</l>
@@ -8666,31 +8666,31 @@
                         circled.</desc> -->
                     <lg>
                         <l n="01"> <seg type="draft-begin">           </seg> that elephant viewed with relish<note>MM drafts toward "Charity Overcoming Envy."</note></l>
-                        <l n="02"> H. Holts                                 little great-horned</l>
-                        <l n="03">                                             great-horned owl</l>
+                        <l n="02"> H. Holts                                           little great-horned</l>
+                        <l n="03">                                                        great-horned owl</l>
                         <l n="04">  Who's Who of American Women In the public</l>
-                        <l n="05">                                                       interest</l>
+                        <l n="05">                                                                   interest</l>
                         <l n="06">  "educational notabilia"  <del>"biographical notanda"</del></l>
-                        <l n="07">                  notabilia</l>
+                        <l n="07">                           notabilia</l>
                         <l n="08"> </l>
                         <l n="09">       my head is full of guitar</l>
                         <l n="10"> </l>
                         <l n="11">            tunes yes there are</l>
-                        <l n="12">           <del>Some that made the composer</del></l>
+                        <l n="12">              <del>Some that made the composer</del></l>
                         <l n="13"> </l>
-                        <l n="14">  				                     <del>a God</del></l>
+                        <l n="14">  				                                                  <del>a God</del></l>
                         <l n="15">           Blessed Manuel                  <hi rend="blue">Penelope, a play</hi></l>
-                        <l n="16"><hi rend="blue">J V Cunningham<note>Cunningham, John Vincent ("JV") [1911-1985]. American critic, editor, and author of witty, epigrammatic poetry.</note></hi>the purified source</l>
-                        <l n="17"><hi rend="pencil">  				<bibl type="begin"> </bibl>                                See Poetry</hi></l>
-                        <l n="18"><hi rend="pencil">    Mindlessness vs. Conviction                        chicago</hi></l>
-                        <l n="19"><hi rend="pencil">            Aha! Cry? Cry for Joy.		        May 1962 </hi><bibl type="end"/></l>
+                        <l n="16"><hi rend="blue">  J V Cunningham<note>Cunningham, John Vincent ("JV") [1911-1985]. American critic, editor, and author of witty, epigrammatic poetry.</note></hi>                                 the purified source</l>
+                        <l n="17"><hi rend="pencil">  				<bibl type="begin"> </bibl>                                                                          See Poetry</hi></l>
+                        <l n="18"><hi rend="pencil">    Mindlessness vs. Conviction  chicago</hi></l>
+                        <l n="19"><hi rend="pencil">            Aha! Cry? Cry for Joy.		May 1962 </hi><bibl type="end"/></l>
                         <l n="20">  Words 	that it is not a battle of the Laocoon to</l>
                         <l n="21">   memorable                battle</l>
                         <l n="22">                                                         remember</l>
-                        <l n="23">             <hi rend="blue">we can imagine—or can we what we have not </hi></l>
+                        <l n="23">  		<hi rend="blue">         we can imagine—or can we what we have not </hi></l>
                         <l n="24"><hi rend="blue">                                                                            seen?</hi></l>
-                        <l n="25"><hi rend="blue">              we influence each other;—</hi></l>
-                        <l n="26"><hi rend="blue">              <del>and</del>  each other one another</hi></l>
+                        <l n="25"><hi rend="blue">         we influence each other;—</hi></l>
+                        <l n="26"><hi rend="blue">            <del>and</del>  each other one another</hi></l>
                         <l n="27"><hi rend="blue">  		</hi></l>
                         <l n="28"><hi rend="blue">              a ruffle of drums &amp; clash of the</hi></l>
                         <l n="29"><hi rend="blue">                                                      cymbals  </hi></l>
@@ -8702,7 +8702,7 @@
                         <l n="35">  		  <hi rend="blue">                 placed <del>for his entertainment?</del>	(who</hi></l>
                         <l n="36">  <hi rend="pencil">                                                      his</hi></l>
                         <l n="37">  <hi rend="blue">                knows) on the top of the spring</hi></l>
-                        <l n="38"><hi rend="blue">                                                         sing</hi><seg type="draft-end"/></l>
+                        <l n="38"><hi rend="blue">                                                                  sing</hi><seg type="draft-end"/></l>
                     </lg>
                 </div>
             </div>
@@ -8712,22 +8712,22 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0035-recto.jpg"
                         n="0035-recto"/>
                     <lg>
-                        <l n="01"> <seg type="draft-begin"/>                                                                         <hi rend="blue">29</hi></l>
-                        <l n="02"><hi rend="blue">        like the lizards of Delos little dinosaurs</hi><note>MM drafts toward "Charity Overcoming Envy."</note></l>
+                        <l n="01"> <seg type="draft-begin">                                                                                                                                                       </seg><hi rend="blue">29</hi></l>
+                        <l n="02"><hi rend="blue">          like the lizards of Delos little dinosaurs<note>MM drafts toward "Charity Overcoming Envy."</note></hi></l>
                         <l n="03"><hi rend="blue">      <del>thought to be</del> descended from crocodiles</hi></l>
                         <l n="04"><hi rend="blue">    supposedly        brought from the Nile</hi></l>
                         <l n="05"><hi rend="blue">                 with <del>its its</del> unintentional smile</hi></l>
-                        <l n="06"><hi rend="blue">                                                 for a creature</hi></l>
+                        <l n="06"><hi rend="blue">                                                                for a creature</hi></l>
                         <l n="07"><hi rend="blue">         No <del>thought of fidelity</del> need to speak of fidelity</hi></l>
                         <l n="08"><hi rend="blue">              by for creature <del>to</del> speak</hi><hi rend="pencil">s</hi>  <hi rend="blue">of fidelity if it is <hi rend="underline">it</hi></hi></l>
-                        <l n="09">  <hi rend="pencil">                No</hi></l>
+                        <l n="09">  <hi rend="pencil">                     No</hi></l>
                         <l n="10">          no need of a tap on the cymbals &amp; ruffle of</l>
-                        <l n="11">			<hi rend="pencil">     announcing	</hi></l>
+                        <l n="11">			<hi rend="pencil">                             announcing	</hi></l>
                         <l n="12">  <hi rend="pencil">proclaiming </hi><hi rend="blue"><del>as to speak of </del> fidelity if it is it   drums</hi></l>
                         <l n="13"><hi rend="blue">   costume fit.  like the appropriate attitude to the 15 c</hi></l>
                         <l n="14"><hi rend="blue">  97                                              mosaic of flowers</hi></l>
                         <l n="15"><hi rend="blue">  p 97 It is interesting to note that the lizards of Delos</hi></l>
-                        <l n="16">  	<hi rend="pencil">   Illusion     Wishful thinking</hi></l>
+                        <l n="16">  	<hi rend="pencil">       Illusion     Wishful thinking</hi></l>
                         <l n="17">  <hi rend="blue">p 97 which look like miniature crocodiles, are popularly</hi></l>
                         <l n="18"><hi rend="blue">    believed to be descended fr the crocodiles of the Nile,</hi></l>
                         <l n="19"><hi rend="blue">    which have grown smaller &amp; smaller w the passage</hi></l>
@@ -8745,7 +8745,7 @@
                         <l n="31"><hi rend="pencil">                                                   devise</hi></l>
                         <l n="32"><hi rend="pencil">   when <del>the profane have</del> pursuers has contrived an</hi></l>
                         <l n="33"><hi rend="pencil">                                                             have    objective</hi></l>
-                        <l n="34"><hi rend="pencil">                   Nothing abated it                       are pitiless</hi></l>
+                        <l n="34"><hi rend="pencil">   Nothing abated it                       are pitiless</hi></l>
                         <l n="35"><hi rend="pencil"/>                                                         is  devising a plot</l>
                         <l n="36">  	<hi rend="pencil">     <del>But</del> <hi rend="underline">know that destiny has not <del>devised a plot</del></hi></hi></l>
                         <l n="37">	  <hi rend="pencil">The solution is inward It rests w yourself</hi></l>
@@ -8766,8 +8766,8 @@
                         leading to line 23.</desc> -->
                     <lg>
                         <l n="01">  		<seg type="draft-begin">                                               </seg><hi rend="pencil">my</hi><note>MM drafts toward "Charity Overcoming Envy."</note></l>
-                        <l n="02">  		<hi rend="pencil">       deliver me fr  self-blinded dark</hi></l>
-                        <l n="03">  								<hi rend="pencil"> deeds</hi></l>
+                        <l n="02">  		<hi rend="pencil">                        deliver me fr  self-blinded dark</hi></l>
+                        <l n="03">  								<hi rend="pencil">                                                                             deeds</hi></l>
                         <l n="04"> </l>
                         <l n="05">  	<hi rend="pencil">    <del>from self blind</del>ed the oppression  <del>obsession</del></hi></l>
                         <l n="06">  		<hi rend="pencil">                         of others like me</hi></l>
@@ -8776,14 +8776,14 @@
                         <l n="09"> </l>
                         <l n="10"> </l>
                         <l n="11"> </l>
-                        <l n="12"><hi rend="pencil">    End</hi></l>
-                        <l n="13">  <hi rend="pencil">       I who have seen // Charity triumph over</hi></l>
-                        <l n="14">  	 		  			<hi rend="pencil">             Envy</hi></l>
-                        <l n="15">  <hi rend="pencil">        know that Destiny <del>has</del> is not maturing a plot— <!--OK?--></hi></l>
+                        <l n="12">  	<hi rend="pencil">End</hi></l>
+                        <l n="13">  <hi rend="pencil">     I who have seen // Charity triumph over</hi></l>
+                        <l n="14">  	 		  			<hi rend="pencil">                                                                   Envy</hi></l>
+                        <l n="15">  <hi rend="pencil">     know that Destiny <del>has</del> is not maturing a plot— <!--OK?--></hi></l>
                         <l n="16">  				<hi rend="pencil">                                         the plot or <gap extent="3" resp="eg"/>t</hi></l>
-                        <l n="17">  <hi rend="green">                                is achieved </hi></l>
-                        <l n="18">  <hi rend="pencil">           that <hi rend="underline">emancipation <del>is from</del>  without</hi></hi></l>
-                        <l n="19">  						<hi rend="pencil"><hi rend="underline">from within</hi></hi></l>
+                        <l n="17">  <hi rend="green">                              is achieved </hi></l>
+                        <l n="18">  <hi rend="pencil">          that <hi rend="underline">emancipation <del>is from</del>  without</hi></hi></l>
+                        <l n="19">  						<hi rend="pencil">                                                  <hi rend="underline">from within</hi></hi></l>
                         <l n="20">  <hi rend="pencil">          the Gordian Knot need not be cut</hi></l>
                         <l n="21">  <hi rend="pencil">3 gifts</hi></l>
                         <l n="22">  <hi rend="pencil">         The pigmy crocodiles of Delos tell us</hi></l>
@@ -8792,7 +8792,7 @@
                         <l n="25">  demonstrating</l>
                         <l n="26">              that the Gordian knot <hi rend="pencil">already  knotted too tight</hi></l>
                         <l n="27"> </l>
-                        <l n="28">                            need not be cut<seg type="draft-end"/></l>
+                        <l n="28">                               need not be cut<seg type="draft-end"/></l>
                     </lg>
                 </div>
             </div>
@@ -8805,30 +8805,30 @@
                         pencil.</desc> -->
                     <lg>
                         <l n="01">  <seg type="genre-read-begin"/><hi rend="blue"><bibl type="begin"/>Routledge &amp; Kegan Paul Ltd                               31  </hi></l>
-                        <l n="02"><hi rend="blue">                 Athens &amp; the Greek Miracle</hi></l>
+                        <l n="02">  		<hi rend="blue">                    Athens &amp; the Greek Miracle</hi></l>
                         <l n="03"><hi rend="blue">  Broadway House 68-71  Carter Lane EC1</hi></l>
                         <l n="04"><hi rend="blue">  </hi></l>
-                        <l n="05"><hi rend="blue">   by C P Rodocanachi<note>Rhodokankes, Konstantinos P. (aka C. P. Rodocanachi). <hi rend="italic">Athens and the Greek Miracle</hi>. London: Routledge &amp; Keagan Paul, 1948. Reference recurs.</note><bibl type="end"/></hi></l>
+                        <l n="05"><hi rend="blue">  by C P Rodocanachi<note>Rhodokankes, Konstantinos P. (aka C. P. Rodocanachi). <hi rend="italic">Athens and the Greek Miracle</hi>. London: Routledge &amp; Keagan Paul, 1948. Reference recurs.</note><bibl type="end"/></hi></l>
                         <l n="06"><hi rend="blue">  </hi></l>
-                        <l n="07"><hi rend="blue">    IX  A*     The author's xcuse</hi></l>
+                        <l n="07"><hi rend="blue">  IX  A*     The author's xcuse</hi></l>
                         <l n="08"><hi rend="blue">  </hi></l>
-                        <l n="09"><hi rend="blue">  <quote type="begin"/> "an escape into the untrodden region</hi></l>
-                        <l n="10"><hi rend="blue">   of primary causes and ultimate effects,</hi></l>
-                        <l n="11"><hi rend="blue">   must needs be less scientific &amp; historical</hi></l>
-                        <l n="12"><hi rend="blue">   than poetic.  <hi rend="underline">The authors Xcuse</hi></hi></l>
-                        <l n="13"><hi rend="blue">   for introducing poetry into the realm of</hi></l>
-                        <l n="14"><hi rend="blue">   science &amp; history <del>must</del> <hi rend="underline">shall be in</hi></hi></l>
-                        <l n="15"><hi rend="blue">   <hi rend="underline">the words of Aristotle</hi>: History differs				 	</hi></l>
-                        <l n="16"><hi rend="blue">   fr poetry in that it recounts what happened</hi></l>
-                        <l n="17"><hi rend="blue">   as it happened.  In this we see why poetry 				 	</hi></l>
-                        <l n="18"><hi rend="blue">   is more philosophic and, therefore,</hi></l>
-                        <l n="19"><hi rend="blue">   more important than history.  <hi rend="underline">Poetry is </hi></hi></l>
-                        <l n="20"><hi rend="blue">   <hi rend="underline">concerned with the universal, whereas history</hi></hi></l>
-                        <l n="21"><hi rend="blue">   <hi rend="underline">is concerned with the particular</hi>.  The universal</hi></l>
-                        <l n="22"><hi rend="blue">   is that which is said or done essentially</hi></l>
-                        <l n="23"><hi rend="blue">   and necessarily. <hi rend="underline">The name of him </hi></hi></l>
-                        <l n="24"><hi rend="blue">   <hi rend="underline">who said or did it is not the</hi></hi></l>
-                        <l n="25"><hi rend="blue">   <hi rend="underline">concern of poetry</hi><quote type="end"/></hi></l>
+                        <l n="09"><hi rend="blue">  <quote type="begin"/>"an escape into the untrodden region</hi></l>
+                        <l n="10"><hi rend="blue">  of primary causes and ultimate effects,</hi></l>
+                        <l n="11"><hi rend="blue">  must needs be less scientific &amp; historical</hi></l>
+                        <l n="12"><hi rend="blue">  than poetic.  <hi rend="underline">The authors Xcuse</hi></hi></l>
+                        <l n="13"><hi rend="blue">  for introducing poetry into the realm of</hi></l>
+                        <l n="14"><hi rend="blue">  science &amp; history <del>must</del> <hi rend="underline">shall be in</hi></hi></l>
+                        <l n="15"><hi rend="blue">  <hi rend="underline">the words of Aristotle</hi>: History differs				 	</hi></l>
+                        <l n="16"><hi rend="blue">  fr poetry in that it recounts what happened</hi></l>
+                        <l n="17"><hi rend="blue">  as it happened.  In this we see why poetry 				 	</hi></l>
+                        <l n="18"><hi rend="blue">  is more philosophic and, therefore,</hi></l>
+                        <l n="19"><hi rend="blue">  more important than history.  <hi rend="underline">Poetry is </hi></hi></l>
+                        <l n="20"><hi rend="blue">  <hi rend="underline">concerned with the universal, whereas history</hi></hi></l>
+                        <l n="21"><hi rend="blue">  <hi rend="underline">is concerned with the particular</hi>.  The universal</hi></l>
+                        <l n="22"><hi rend="blue">  is that which is said or done essentially</hi></l>
+                        <l n="23"><hi rend="blue">  and necessarily. <hi rend="underline">The name of him </hi></hi></l>
+                        <l n="24"><hi rend="blue">  <hi rend="underline">who said or did it is not the</hi></hi></l>
+                        <l n="25"><hi rend="blue">  <hi rend="underline">concern of poetry</hi><quote type="end"/></hi></l>
                         <l n="26"> </l>
                         <l n="27">          unembarassingly impersonal<seg type="genre-read-end"/></l>
                         <l n="28"> </l>
@@ -8843,13 +8843,13 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0038-verso.jpg"
                         n="0038-verso"/>
                     <lg>
-                        <l n="01">  	  <seg type="draft-begin">                            </seg>Titian and the Musician<note>MM drafts toward "Charity Overcoming Envy."</note></l>
+                        <l n="01">  	  <seg type="draft-begin">                        </seg>Titian and the Musician<note>MM drafts toward "Charity Overcoming Envy."</note></l>
                         <l n="02"> </l>
                         <l n="03"> </l>
-                        <l n="04">                  Apostrophe  	creature baffled by</l>
+                        <l n="04">                                  Apostrophe  	creature baffled by</l>
                         <l n="05"> </l>
-                        <l n="06">                   O Zeus and O Destiny<note>This line appears in "The Mind, Intractable Thing."</note></l>
-                        <l n="07">                     extricated by charity—</l>
+                        <l n="06">                                O Zeus and O Destiny<note>This line appears in "The Mind, Intractable Thing."</note></l>
+                        <l n="07">                                   extricated by charity—</l>
                         <l n="08">        uncompromised principal</l>
                         <l n="09">  affirmed by charity</l>
                         <l n="10">   a denuded   pomegranate-tree, <hi rend="pencil">denuded by charity</hi></l>
@@ -8860,10 +8860,10 @@
                         <l n="15">                                           denuded <del>quickly</del>  impulsively</l>
                         <l n="16">                                                                            — u u —<!-- Can we put in better scansion marks? Wait. CN --></l>
                         <l n="17">  	 	                                          <del>clearly proving</del>       to me unmistakably</l>
-                        <l n="18">                   showing me that the Gordian Knot</l>
-                        <l n="19">                                                      need not be cut</l>
+                        <l n="18">                       showing me that the Gordian Knot</l>
+                        <l n="19">                                                           need not be cut</l>
                         <l n="20"> </l>
-                        <l n="21">                   Everything takes time</l>
+                        <l n="21">                      Everything takes time</l>
                         <l n="22">  		<hi rend="pencil">                                                       <del>it</del></hi></l>
                         <l n="23">      The name of him who said or did</l>
                         <l n="24">            the thing is not the concern</l>
