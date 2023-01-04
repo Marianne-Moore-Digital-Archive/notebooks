@@ -9404,16 +9404,16 @@
                         green ink and half circles "company" to attach it to end of previous
                         line.</desc> -->
                     <lg>
-                        <l n="01">  <seg type="draft-begin">                               </seg> <seg type="genre-read-begin"/><quote type="begin"/>The Open Book: A Riddle<note>MM drafts toward "An Expedient—Leonardo da Vinci's—&amp; a Query," and cites a poem by Philip Ward from his self-published <hi rend="italic">Collected Poems </hi>(1960):14, entitled "An Open Book: a riddle.".</note></l>
-                        <l n="02">                                   -_ -_ <hi rend="underline">-  </hi>5 lines<note>Ellipsis – followed by the number of lines MM skipped (5). MM cites line 6 of Ward's poem, beginning "Leap"; da Vinci's line; then line 8 of Ward's poem, beginning "Breathe."</note></l>
-                        <l n="03">                              Leap, since you have the blood and weight</l>
-                        <l n="04">                                                  of men gigantic in imagina<hi rend="underline">tion</hi><quote type="end"/></l>
-                        <l n="05">                                                                        nothing at all has been</l>
+                        <l n="01">  <seg type="draft-begin"></seg> <seg type="genre-read-begin"/><quote type="begin"/>     The Open Book: A Riddle<note>MM drafts toward "An Expedient—Leonardo da Vinci's—&amp; a Query," and cites a poem by Philip Ward from his self-published <hi rend="italic">Collected Poems </hi>(1960):14, entitled "An Open Book: a riddle.".</note></l>
+                        <l n="02">        -_ -_ <hi rend="underline">-  </hi>5 lines<note>Ellipsis – followed by the number of lines MM skipped (5). MM cites line 6 of Ward's poem, beginning "Leap"; da Vinci's line; then line 8 of Ward's poem, beginning "Breathe."</note></l>
+                        <l n="03">        Leap, since you have the blood and weight</l>
+                        <l n="04">                 of men gigantic in imagina<hi rend="underline">tion</hi><quote type="end"/></l>
+                        <l n="05">                              nothing at all has been</l>
                         <l n="06">                                                                                                    done?</l>
-                        <l n="07">  <quote type="begin">                        </quote>Breathe,  since you possess the</l>
+                        <l n="07">  <quote type="begin">    </quote>Breathe,  since you possess the</l>
                         <l n="08">                                              spirit of an immortality we know<quote type="end"/></l>
                         <l n="09"> </l>
-                        <l n="10">  	<bibl type="begin">   </bibl>(Philip Ward     Coll . Poems</l>
+                        <l n="10">  	<bibl type="begin"></bibl>(Philip Ward     Coll . Poems</l>
                         <l n="11">                          Parkfield Crescent</l>
                         <l n="12">                                  North Harrow, England)<bibl type="end"/></l>
                         <l n="13"> </l>
@@ -9432,7 +9432,7 @@
                         <l n="26">  421    ge<hi rend="underline">nius like a dear friend in his</hi></l>
                         <l n="27">  422  intimate w. the stranger within	<hi rend="underline">company</hi></l>
                         <l n="28">  438   Johnson not like Sampson strong to his <unclear resp="eg">le<gap extent="2" resp="eg"/></unclear></l>
-                        <l n="29">           own  hurt                                  scenes occp. only</l>
+                        <l n="29">           own  hurt                         scenes occp. only</l>
                         <l n="30">                                                                   . . . </l>
                         <l n="31">  442   Johnson: Shakes has no heroes: only men.<seg type="genre-read-end"/><seg type="draft-end"/></l>
                     </lg>
@@ -9450,12 +9450,12 @@
                         a line from the long parenthesis following "wrongs—" underneath "from cold";
                         line 33, she draws a circle around "A" of "At".</desc> -->
                     <lg>
-                        <l n="01">  <seg type="draft-begin"/><seg type="genre-read-begin">             </seg><hi rend="pencil">Patience</hi><hi rend="green">,</hi> <hi rend="pencil">as clothes the body can protect<del>ing</del> the soul</hi><note>MM drafts toward "An Expedient—Leonardo da Vinci's—&amp; a Query"; she evolves phrases from various books about da Vinci, including her copy of <hi rend="italic">Selections from the Notebooks of Leonardo da Vinci</hi><hi rend="background-color(#ffffff)"> (New York: Oxford, 1952), </hi>translated by Irma Richter.</note></l>
-                        <l n="02">  	<hi rend="green">           Patience—the solution is inward</hi></l>
+                        <l n="01">  <seg type="draft-begin"/><seg type="genre-read-begin"></seg><hi rend="pencil">    Patience</hi><hi rend="green">,</hi> <hi rend="pencil">as clothes the body can protect<del>ing</del> the soul</hi><note>MM drafts toward "An Expedient—Leonardo da Vinci's—&amp; a Query"; she evolves phrases from various books about da Vinci, including her copy of <hi rend="italic">Selections from the Notebooks of Leonardo da Vinci</hi><hi rend="background-color(#ffffff)"> (New York: Oxford, 1952), </hi>translated by Irma Richter.</note></l>
+                        <l n="02">  <hi rend="green">   Patience—the solution is inward</hi></l>
                         <l n="03"> 			<hi rend="pencil">                                                  as</hi></l>
                         <l n="04"><hi rend="green">               protecting the soul <del>like</del> clothes, the body</hi></l>
                         <l n="05">  <hi rend="pencil">                In</hi></l>
-                        <l n="06">  <hi rend="green">  It <del> in It in </del>  meeting great wrongs —)     from cold.</hi></l>
+                        <l n="06">  <hi rend="green">It <del> in It in </del>  meeting great wrongs —)     from cold.</hi></l>
                         <l n="07">  <hi rend="green">             finds them powerless to vex it</hi></l>
                         <l n="08">  <hi rend="pencil">                   for him 		 + what can perplex it is fruit!</hi></l>
                         <l n="09">  <hi rend="green"><del>For him</del>  genius like a dear friend in <del>its</del>his company—</hi></l>
