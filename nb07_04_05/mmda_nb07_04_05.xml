@@ -10201,14 +10201,14 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_04_05_0072-verso.jpg"
                         n="0072-verso"/>
                     <lg>
-                        <l n="01">  	<seg type="draft-begin">                                        </seg> he                   <hi rend="pencil">compose<note>MM drafts toward "Dream."</note></hi></l>
+                        <l n="01">  	<seg type="draft-begin"></seg>                          he            <hi rend="pencil">compose<note>MM drafts toward "Dream."</note></hi></l>
                         <l n="02">   At the Thomas-kirche had had to produce<note>Bach spent his last 27 years (1723–1750) in service to and writing cantatas for St. Thomas Church (Thomaskirche) in Leipzig, Germany.</note></l>
                         <l n="03">             a cantata each week              Create</l>
                         <l n="04"> </l>
                         <l n="05"> </l>
                         <l n="06"> </l>
-                        <l n="07">  				  <hi rend="blue">                                                            rest</hi></l>
-                        <l n="08">  	<hi rend="blue">            Restive even when calling it</hi><seg type="draft-end"/></l>
+                        <l n="07">  				  <hi rend="blue">                       rest</hi></l>
+                        <l n="08">  	<hi rend="blue">Restive even when calling it</hi><seg type="draft-end"/></l>
                     </lg>
                 </div>
             </div>
