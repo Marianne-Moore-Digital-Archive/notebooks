@@ -10220,11 +10220,11 @@
                     <!-- <desc>Lines 29 to 34 involve extensive erasure and overwriting; line 33 MM may
                         write and then erase "there here" and then an ineligible third word.</desc> -->
                     <lg>
-                        <l n="01">  <seg type="draft-begin">         </seg><hi rend="blue">I am                                 Would I were</hi><note>MM drafts toward "Mercifully," first published <hi rend="italic">The New Yorker</hi>  44 (20 July 1968): 34.</note></l>
-                        <l n="02"><hi rend="blue">                                                          only stone</hi></l>
+                        <l n="01">  <seg type="draft-begin"></seg><hi rend="blue">    I am                                 Would I were</hi><note>MM drafts toward "Mercifully," first published <hi rend="italic">The New Yorker</hi>  44 (20 July 1968): 34.</note></l>
+                        <l n="02"><hi rend="blue">                                                    only stone</hi></l>
                         <l n="03"><hi rend="blue">  Hard to Disgust ?                            yes I am			</hi></l>
-                        <l n="04"><hi rend="blue">                            am at least</hi></l>
-                        <l n="05"><hi rend="blue">	At least    <del>That is to say</del> Yes        try to be</hi></l>
+                        <l n="04"><hi rend="blue">                        am at least</hi></l>
+                        <l n="05"><hi rend="blue">At least    <del>That is to say</del> Yes        try to be</hi></l>
                         <l n="06"><hi rend="blue">  I hope I am                                 I think I am</hi></l>
                         <l n="07"><hi rend="blue"><hi rend="blue">   Like a <del>true mother</del></hi>  <hi rend="pencil">nurse or Mother </hi> <hi rend="blue">I hope so</hi></hi></l>
                         <l n="08"><hi rend="blue">    a nurse <del>not quite       </del><del>somtime</del></hi></l>
