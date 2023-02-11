@@ -10498,7 +10498,7 @@
                         to the ellipses at the end of line 36; line 34, "music" is written over to
                         the extent that it may be deleted.</desc> -->
                     <lg>
-                        <l n="01">  <seg type="draft-begin">                    </seg>A Aside<note>MM drafts toward "Mercifully."</note></l>
+                        <l n="01">  <seg type="draft-begin"></seg>               A Aside<note>MM drafts toward "Mercifully."</note></l>
                         <l n="02">       I am hard to disgust</l>
                         <l n="03">       but a pretentious poet can do</l>
                         <l n="04">         <del>Or a</del> A person without a tap root</l>
@@ -10506,7 +10506,7 @@
                         <l n="06">             oh . . . .</l>
                         <l n="07">         <del>But</del> <hi rend="underline">why talk about it</hi>           about  combating</l>
                         <l n="08">                                                                        ta</l>
-                        <l n="09">  		                          <del>some</del>                                   <del>I</del></l>
+                        <l n="09">  		                          <del>some</del>              <del>I</del></l>
                         <l n="10">       Offset by that legendary performance 		recently</l>
                         <l n="11">                        pondering  slowly  <gap extent="2" resp="eg"/>  heard</l>
                         <l n="12">  whole notes the words read by <del>W H</del>  Aude, a bard</l>
@@ -10532,7 +10532,7 @@
                         <l n="32">  in wh <del>words</del>   that strange exactitude  _   _</l>
                         <l n="33">                    As I was saying Life is flat 	<del>for the</del></l>
                         <l n="34">                        without music             most part</l>
-                        <l n="35">  			                                 <del>Pardon the interrup</del>tion,</l>
+                        <l n="35">  			         <del>Pardon the interrup</del>tion,</l>
                         <l n="36">                                  You were say<del>ing</del>?  . . .<seg type="draft-end"/></l>
                     </lg>
                 </div>
