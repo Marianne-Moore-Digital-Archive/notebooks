@@ -10545,7 +10545,7 @@
                     <!-- <desc>Top of page was cut off, leaving only the lower half, which was then
                         overlaid on p. 83 (see footnote).</desc> -->
                     <lg>
-                        <l n="01">  <seg type="draft-begin">               </seg>Never mind what I said<note>MM drafts toward "Mercifully."</note></l>
+                        <l n="01">  <seg type="draft-begin"></seg>               Never mind what I said<note>MM drafts toward "Mercifully."</note></l>
                         <l n="02">                                                  Said<note>MM cut off the top of page 81, then began writing on the top of 83, apparently not noticing that there were two different pages now overlapping. When she reached the point of overlap, she wrote a few words with their upper portions on 83 and the lower on 81. She continued on 81, so that upper 83 and lower 81 are a continuous text. The lower part of 83 was thus blank and available for further use later.</note></l>
                         <l n="03">           You have broken the thread</l>
                         <l n="04">                I was enraptured plain fact comple<unclear resp="eg">x fact</unclear></l>
@@ -10553,14 +10553,14 @@
                         <l n="06"> </l>
                         <l n="07">               an interruption is loss</l>
                         <l n="08">                  was  <hi rend="pencil">in words in</hi></l>
-                        <l n="09">  I've nothing  precisely enough, said for me</l>
-                        <l n="10">  <gap extent="5" resp="eg"/> without   to be conveying</l>
-                        <l n="11">  as I was saying</l>
-                        <l n="12">  <hi rend="pencil">  Life with</hi></l>
-                        <l n="13">  	<hi rend="blue">         Life without music is flat</hi></l>
+                        <l n="09">     I've nothing  precisely enough, said for me</l>
+                        <l n="10">     <gap extent="5" resp="eg"/> without   to be conveying</l>
+                        <l n="11">       as I was saying</l>
+                        <l n="12">     <hi rend="pencil">Life with</hi></l>
+                        <l n="13">  	<hi rend="blue">     Life without music is flat</hi></l>
                         <l n="14"> </l>
                         <l n="15"> </l>
-                        <l n="16">  <hi rend="green"><foreign xml:lang="it">Al' Onde<note>Italian: To the waves.</note></foreign></hi><seg type="draft-end"/></l>
+                        <l n="16">     <hi rend="green"><foreign xml:lang="it">Al' Onde<note>Italian: To the waves.</note></foreign></hi><seg type="draft-end"/></l>
                     </lg>
                 </div>
             </div>
@@ -10574,20 +10574,20 @@
                     <lg>
                         <l n="01">  <seg type="draft-begin"/> 2 In an uproar of conversation<note>MM drafts toward "Mercifully."</note></l>
                         <l n="02">  in which harmony loses its force</l>
-                        <l n="03">  1—  an elate tongue is music</l>
+                        <l n="03">    1—  an elate tongue is music</l>
                         <l n="04">  	<hi rend="blue">      which in an uproar of    conversation</hi></l>
                         <l n="05">  	<hi rend="blue">      loses its force</hi></l>
                         <l n="06">  <hi rend="pencil">This and that is <unclear resp="eg">something</unclear> that</hi></l>
                         <l n="07"><hi rend="pencil">  or the      the  that is inadequate</hi></l>
                         <l n="08"><hi rend="pencil">  this whole thing notion is valueless</hi></l>
                         <l n="09"><hi rend="pencil">      I prefer    a strange art</hi></l>
-                        <l n="10"><hi rend="pencil">  nothing gay at this</hi></l>
+                        <l n="10"><hi rend="pencil">     nothing gay at this</hi></l>
                         <l n="11"><hi rend="pencil">  something   functions and  <unclear resp="eg">below</unclear></hi></l>
                         <l n="12"><hi rend="pencil">                        music musc	</hi></l>
-                        <l n="13"><hi rend="pencil">  men were               without</hi></l>
-                        <l n="14"><hi rend="pencil">    dying unjustly    Life if that</hi></l>
-                        <l n="15"><hi rend="pencil">    in any case            without music			 	</hi></l>
-                        <l n="16"><hi rend="pencil">                                           is flat</hi><seg type="draft-end"/></l>
+                        <l n="13"><hi rend="pencil">men were               without</hi></l>
+                        <l n="14"><hi rend="pencil">   dying unjustly    Life if that</hi></l>
+                        <l n="15"><hi rend="pencil">     in any case            without music			 	</hi></l>
+                        <l n="16"><hi rend="pencil">                                         is flat</hi><seg type="draft-end"/></l>
                     </lg>
                 </div>
             </div>
