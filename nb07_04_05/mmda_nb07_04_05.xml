@@ -11731,7 +11731,7 @@
                         n="0118-verso"/>
                     <!-- <desc>MM draws a line linking the endings of words mid-line, lines 03-04.</desc> -->
                     <lg>
-                        <l n="01">  <seg type="genre-read-begin"/><hi rend="blue">20  <foreign xml:lang="it">È lontano da qui?</foreign>       Is it far<note>Martin, Genevieve A., and Mario Ciatti. <hi rend="italic">Living Language conversational Italian</hi>  (see earlier note).</note>                                                              fr here</hi></l>
+                        <l n="01">  <seg type="genre-read-begin"/><hi rend="blue">20  <foreign xml:lang="it">È lontano da qui?</foreign>       Is it far<note>Martin, Genevieve A., and Mario Ciatti. <hi rend="italic">Living Language conversational Italian</hi>  (see earlier note).</note>                                                       fr here</hi></l>
                         <l n="02"><hi rend="blue"><foreign xml:lang="it">         noi          voi		</foreign></hi></l>
                         <l n="03"><hi rend="blue">  21  <foreign xml:lang="it">no-ie        voi-ie</foreign> (you)</hi></l>
                         <l n="04"><hi rend="blue">  	  we</hi></l>
@@ -11740,7 +11740,7 @@
                         <l n="07"><hi rend="blue"><foreign xml:lang="it">      È il loro   </foreign>		Its their's</hi></l>
                         <l n="08"><hi rend="blue">  </hi></l>
                         <l n="09"><hi rend="blue"><foreign xml:lang="it">      Essi <hi rend="underline"><hi rend="underline">par</hi></hi>lano de loro</foreign>     they are speaking</hi></l>
-                        <l n="10"><hi rend="blue">                                         about them</hi></l>
+                        <l n="10"><hi rend="blue">                             about them</hi></l>
                         <l n="11"><hi rend="blue">  23      <foreign xml:lang="it">Ha visito Maria e Luisa</foreign></hi></l>
                         <l n="12"><hi rend="blue">  </hi></l>
                         <l n="13"><hi rend="blue">                    Lesson 16</hi></l>
