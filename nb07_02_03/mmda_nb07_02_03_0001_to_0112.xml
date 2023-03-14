@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/testcss"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/testcss"?>
+<TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <teiHeader>
             <fileDesc>
@@ -6,7 +7,8 @@
                     <title>Notebook 07.02.03</title>
                     <author>Marianne Moore</author>
                     <editor>
-                        <persName>Luke Carson</persName><note>Notebook Editor</note>
+                        <persName>Luke Carson</persName>
+                        <note>Notebook Editor</note>
                     </editor>
                     <respStmt>
                         <persName/>
@@ -67,10 +69,11 @@
         received and paid; the second 12, each again headed with the month, are dedicated to “Bills
         Payable” and “Receivable.” First image with MM's writing is the inside front cover. RML
         number written in pencil: 1250/7.]</p>
-    <p>Relevant to publications: ["Comment" in <hi rend="italics">The Dial</hi> 80 (February 1926); "Emily Dickinson" (1933); "We Will Walk Like the Tapir" (1943);
-        "There is a War That Never Ends" (1943); "Feeling and Precision"
-        (1944); "Humility, Concentration, and Gusto" (1949); "E. McKnight Kauffer" (1949); "W.H.
-        Auden" (1952); note to "To a Snail" in <hi rend="italics">Collected Poems</hi> (1951)].</p>
+    <p>Relevant to publications: ["Comment" in <hi rend="italics">The Dial</hi> 80 (February 1926);
+        "Emily Dickinson" (1933); "We Will Walk Like the Tapir" (1943); "There is a War That Never
+        Ends" (1943); "Feeling and Precision" (1944); "Humility, Concentration, and Gusto" (1949);
+        "E. McKnight Kauffer" (1949); "W.H. Auden" (1952); note to "To a Snail" in <hi
+            rend="italics">Collected Poems</hi> (1951)].</p>
     <teiHeader>
         <fileDesc>
             <sourceDesc>
@@ -146,63 +149,21 @@
         <body>
             <div type="image" xml:id="nb07_02_03_0001_text">
                 <div type="page" n="r.0001" xml:id="nb07_02_03_0001_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0001-recto.jpeg" n="0001-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0001-recto.jpeg"
+                        n="0001-recto"/>
                     <desc>[Outside front cover.]</desc>
                     <lg>
                         <l n="01">[No handwriting on this page.]</l>
-                        <l n="02">[blank]</l>
-                        <l n="03">[blank]</l>
-                        <l n="04">[blank]</l>
-                        <l n="05">[blank]</l>
-                        <l n="06">[blank]</l>
-                        <l n="07">[blank]</l>
-                        <l n="08">[blank]</l>
-                        <l n="09">[blank]</l>
-                        <l n="10">[blank]</l>
-                        <l n="11">[blank]</l>
-                        <l n="12">[blank]</l>
-                        <l n="13">[blank]</l>
-                        <l n="14">[blank]</l>
-                        <l n="15">[blank]</l>
-                        <l n="16">[blank]</l>
-                        <l n="17">[blank]</l>
-                        <l n="18">[blank]</l>
-                        <l n="19">[blank]</l>
-                        <l n="20">[blank]</l>
-                        <l n="21">[blank]</l>
-                        <l n="22">[blank]</l>
-                        <l n="23">[blank]</l>
-                        <l n="24">[blank]</l>
-                        <l n="25">[blank]</l>
-                        <l n="26">[blank]</l>
-                        <l n="27">[blank]</l>
-                        <l n="28">[blank]</l>
-                        <l n="29">[blank]</l>
-                        <l n="30">[blank]</l>
-                        <l n="31">[blank]</l>
-                        <l n="32">[blank]</l>
-                        <l n="33">[blank]</l>
-                        <l n="34">[blank]</l>
-                        <l n="35">[blank]</l>
-                        <l n="36">[blank]</l>
-                        <l n="37">[blank]</l>
-                        <l n="38">[blank]</l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
-                    </lg>
-                    <lg type="vertical">
-                        <l n="v01">[vertical line]</l>
-                        <l n="v02">[vertical line]</l>
-                        <l n="v03">[vertical line]</l>
-                        <l n="v04">[vertical line]</l>
-                        <l n="v05">[vertical line]</l>
-                        <l n="v06">[vertical line]</l>
+
                     </lg>
                 </div>
             </div>
             <div type="image" xml:id="nb07_02_03_0002_text">
                 <div type="page" n="v.0002" xml:id="nb07_02_03_0002_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0002-verso.jpeg" n="0002-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0002-verso.jpeg"
+                        n="0002-verso"/>
                     <desc>[Inside front cover.]</desc>
                     <lg>
                         <l n="01">[blank] <hi rend="pencil">1250/4</hi> <note>These numbers were entered by Rosenbach staff before they moved to the roman numeral system (VII.02.03 for this notebook).</note></l>
@@ -258,7 +219,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0003_text">
                 <div type="page" n="r.0003" xml:id="nb07_02_03_0003_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0003-recto.jpeg" n="0003-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0003-recto.jpeg"
+                        n="0003-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01"/>
@@ -314,8 +277,11 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0004_text">
                 <div type="page" n="v.0004" xml:id="nb07_02_03_0004_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0004-verso.jpeg" n="0004-verso"/>
-                    <desc/><lg>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0004-verso.jpeg"
+                        n="0004-verso"/>
+                    <desc/>
+                    <lg>
                         <l n="01">[blank]</l>
                         <l n="02">[blank]</l>
                         <l n="03">[blank]</l>
@@ -369,7 +335,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0005_text">
                 <div type="page" n="r.0005" xml:id="nb07_02_03_0005_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0005-recto.jpeg" n="0005-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0005-recto.jpeg"
+                        n="0005-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 10-11 is in
                         pencil. MM places a right curly bracket to the left of "Plato" at the end of
                         lines 10 and 11.!&amp;gt;</desc>
@@ -427,7 +395,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0006_text">
                 <div type="page" n="v.0006" xml:id="nb07_02_03_0006_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0006-verso.jpeg" n="0006-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0006-verso.jpeg"
+                        n="0006-verso"/>
                     <desc>[Page-level Description] &amp;lt;!MM circles the numbers 1, 2, 3 and 4 in
                         lines 01-05.!&amp;gt;</desc>
                     <lg>
@@ -484,9 +454,11 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0007_text">
                 <div type="page" n="r.0007" xml:id="nb07_02_03_0007_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0007-recto.jpeg" n="0007-recto"/>
-                    <desc>[Page-level Description] &amp;lt;!MM places a curly bracket to the
-                        left of the two phrases beginning "partly by" that end lines 07 and
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0007-recto.jpeg"
+                        n="0007-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!MM places a curly bracket to the left of
+                        the two phrases beginning "partly by" that end lines 07 and
                         08.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                          <add>describes</add> </l>
@@ -542,10 +514,12 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0008_text">
                 <div type="page" n="v.0008" xml:id="nb07_02_03_0008_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0008-verso.jpeg" n="0008-verso"/>
-                    <desc>[Page-level Description] &amp;lt;!MM places a curly bracket to the
-                        right of the six words (from "plot" to "song") listed in lines 10-15. MM
-                        circles the numbers 1, 2, and 3 in lines 23-25.!&amp;gt;</desc>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0008-verso.jpeg"
+                        n="0008-verso"/>
+                    <desc>[Page-level Description] &amp;lt;!MM places a curly bracket to the right
+                        of the six words (from "plot" to "song") listed in lines 10-15. MM circles
+                        the numbers 1, 2, and 3 in lines 23-25.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank] Poetics V, 10-VI 7</l>
                         <l n="02">[blank] p. 23   <quote rend="begin"/><note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note>Tragedy is, then, a representation of an action that is heroic</l>
@@ -598,11 +572,13 @@
                     </lg>
                 </div>
                 <div type="page" n="r.0009" xml:id="nb07_02_03_0009_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0009-recto.jpeg" n="0009-recto"/>
-                    <desc>[Page-level Description] &amp;lt;!MM draws two parallel vertical strokes to the left
-                        of the text on lines 17-18. She places a curly bracket to the right of
-                        the words of the first half of lines 17-18 and a curly bracket to the
-                        left of the words at the end of these lines.!&amp;gt;</desc>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0009-recto.jpeg"
+                        n="0009-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!MM draws two parallel vertical strokes
+                        to the left of the text on lines 17-18. She places a curly bracket to the
+                        right of the words of the first half of lines 17-18 and a curly bracket to
+                        the left of the words at the end of these lines.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]      33    <quote rend="begin"/><note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note>as for the natural limit of the action, the longer the better as</l>
                         <l n="02">[blank]              far as magnitude goes, provided it can all be grasped at once.</l>
@@ -657,7 +633,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0010_text">
                 <div type="page" n="v.0010" xml:id="nb07_02_03_0010_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0010-verso.jpeg" n="0010-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0010-verso.jpeg"
+                        n="0010-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] 43   <quote rend="begin"/><note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note>Constituent parts,—Prologue, Episode, Exode, Choral Song—</l>
@@ -717,15 +695,16 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0011_text">
                 <div type="page" n="r.0011" xml:id="nb07_02_03_0011_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0011-recto.jpeg" n="0011-recto"/>
-                    <desc>[Page-level Description] &amp;lt;!MM places a curly bracket pointing
-                        to the word "plot" to the left of the four words listed at the beginning of
-                        lines 18-21. She places curly bracket to the right of the first two
-                        words listed in lines 18 and 19 and two lines are drawn from it to converge
-                        on the word "reversal" of line 17. An arrow runs left from the number 4 on
-                        line 20 to "the" under the phrase "left in the air!" MM places a curly
-                        bracket to the left of the words listed at the ends of lines
-                        24-29.!&amp;gt;</desc>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0011-recto.jpeg"
+                        n="0011-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!MM places a curly bracket pointing to
+                        the word "plot" to the left of the four words listed at the beginning of
+                        lines 18-21. She places curly bracket to the right of the first two words
+                        listed in lines 18 and 19 and two lines are drawn from it to converge on the
+                        word "reversal" of line 17. An arrow runs left from the number 4 on line 20
+                        to "the" under the phrase "left in the air!" MM places a curly bracket to
+                        the left of the words listed at the ends of lines 24-29.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]   65   <quote rend="begin"/><note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note>And that is why poetry needs either <del>s</del> a sympathetic nature </l>
                         <l n="02">[blank]           or a madman, the former being impressionable &amp; the latter inspired</l>
@@ -781,16 +760,18 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0012_text">
                 <div type="page" n="v.0012" xml:id="nb07_02_03_0012_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0012-verso.jpeg" n="0012-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0012-verso.jpeg"
+                        n="0012-verso"/>
                     <desc>[Page-level Description] &amp;lt;!In line 03 MM draws a series of
                         individual strokes beneath the underlining. Parentheses enclose the phrases
-                        at the ends of lines 08 and 09. She places a curly bracket to the
-                        right of the phrases on lines 10 and 12. Parentheses enclose the
-                        words at the end of lines 17 and 18. Two sets of parentheses enclose word
-                        groups on lines 19-20: one contains "to be clear &amp;" and "ordinary words"
-                        while the other contains "commonplace." and "strange ones." MM places two
-                        vertical bars to the left of the text on lines 30-31. The underlining of
-                        line 30 is doubled.!&amp;gt;</desc>
+                        at the ends of lines 08 and 09. She places a curly bracket to the right of
+                        the phrases on lines 10 and 12. Parentheses enclose the words at the end of
+                        lines 17 and 18. Two sets of parentheses enclose word groups on lines 19-20:
+                        one contains "to be clear &amp;" and "ordinary words" while the other
+                        contains "commonplace." and "strange ones." MM places two vertical bars to
+                        the left of the text on lines 30-31. The underlining of line 30 is
+                        doubled.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]       81                <quote rend="begin"/><note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note>A word may be both ordinary &amp; rare but not in relation to the<quote rend="end"/> </l>
                         <l n="02">[blank] <seg type="prose">See I.A. Richards</seg>                                                                                                  <quote rend="begin"/>same people.<quote rend="end"/> </l>
@@ -845,9 +826,12 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0013_text">
                 <div type="page" n="r.0013" xml:id="nb07_02_03_0013_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0013-recto.jpeg" n="0013-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0013-recto.jpeg"
+                        n="0013-recto"/>
                     <desc>[Page-level Description] &amp;lt;! A vertical bar is placed to the left of
-                        lines 09-10. MM draws a series of x's through the underlining on line 31.!&amp;gt;</desc>
+                        lines 09-10. MM draws a series of x's through the underlining on line
+                        31.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]           <quote rend="begin"/><note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note>Epic needs reversals &amp; discoveries &amp; calamities &amp; the </l>
                         <l n="02">[blank]           thought &amp; diction must be good.        (Iliad a simple story turning on calamity</l>
@@ -902,7 +886,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0014_text">
                 <div type="page" n="v.0014" xml:id="nb07_02_03_0014_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0014-verso.jpeg" n="0014-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0014-verso.jpeg"
+                        n="0014-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] Dionysius or L O N G I N U S on the Sublime</l>
@@ -956,11 +942,13 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0015_text">
                 <div type="page" n="r.0015" xml:id="nb07_02_03_0015_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0015-recto.jpeg" n="0015-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0015-recto.jpeg"
+                        n="0015-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 01 is in red
                         pencil. In line 14 the "5" is doubly underlined. MM circles the number 1 on
-                        line 15 and the numbers from 2 to 5 on lines 19-22. A curly bracket
-                        connects lines 15-16 on the right.!&amp;gt;</desc>
+                        line 15 and the numbers from 2 to 5 on lines 19-22. A curly bracket connects
+                        lines 15-16 on the right.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]           <quote rend="begin"/><note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note>For <hi rend="underline">genius needs the curb as often as the spur</hi>.</l>
                         <l n="02">[blank]</l>
@@ -1015,7 +1003,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0016_text">
                 <div type="page" n="v.0016" xml:id="nb07_02_03_0016_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0016-verso.jpeg" n="0016-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0016-verso.jpeg"
+                        n="0016-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] 157   <quote rend="begin"/><note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note>She chooses the most striking &amp; combines them into a single whole.</l>
@@ -1071,7 +1061,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0017_text">
                 <div type="page" n="r.0017" xml:id="nb07_02_03_0017_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0017-recto.jpeg" n="0017-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0017-recto.jpeg"
+                        n="0017-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws a vertical bar in pencil to the
                         left of lines 15-17. In line 17 the underlining is triple and in pencil. In
                         line 18 the underlining is double.!&amp;gt;</desc>
@@ -1129,7 +1121,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0018_text">
                 <div type="page" n="v.0018" xml:id="nb07_02_03_0018_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0018-verso.jpeg" n="0018-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0018-verso.jpeg"
+                        n="0018-verso"/>
                     <desc>[Page-level Description] &amp;lt;!Underlining of line 21 is in red
                         pencil.!&amp;gt;</desc>
                     <lg>
@@ -1186,11 +1180,13 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0019_text">
                 <div type="page" n="r.0019" xml:id="nb07_02_03_0019_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0019-recto.jpeg" n="0019-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0019-recto.jpeg"
+                        n="0019-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM underlines lines 01-02 and marks a
                         double bar to the left of the text with red pencil. She places a vertical
-                        bar to the left of the text on lines 05-06. She places a curly bracket
-                        to the left of the words "democracy" and "freedom" in lines 16 and
+                        bar to the left of the text on lines 05-06. She places a curly bracket to
+                        the left of the words "democracy" and "freedom" in lines 16 and
                         17.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank] 217  <quote rend="begin"/><note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note><hi rend="underline">But which is better, in poetry &amp; in prose, grandeur</hi></l>
@@ -1246,10 +1242,13 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0020_text">
                 <div type="page" n="v.0020" xml:id="nb07_02_03_0020_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0020-verso.jpeg" n="0020-verso"/>
-                    <desc>[Page-level Description] &amp;lt;!MM draws an arrow down from "Tarsus" in line 13 to the end of the word "dedicated" on line 14. The underlining in line 24 is in pencil.
-                        MM draws a curly bracket to connect the words listed in lines
-                        27-30.!&amp;gt;</desc>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0020-verso.jpeg"
+                        n="0020-verso"/>
+                    <desc>[Page-level Description] &amp;lt;!MM draws an arrow down from "Tarsus" in
+                        line 13 to the end of the word "dedicated" on line 14. The underlining in
+                        line 24 is in pencil. MM draws a curly bracket to connect the words listed
+                        in lines 27-30.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                                                                                                                      W. Rhys Roberts<note>Roberts, W. Rhys [1858-1929]. Professor of Classics at University of Leeds.</note> <del>&amp; H Fyfe</del>  </l>
                         <l n="02">[blank]    DEMETRIUS<note>Demetrius of Tarsus [1st c. CE].</note>                    <hi rend="underline">On Style</hi>                                 <quote rend="begin"/> <note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note>text based on a collation of </l>
@@ -1302,7 +1301,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0021_text">
                 <div type="page" n="r.0021" xml:id="nb07_02_03_0021_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0021-recto.jpeg" n="0021-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0021-recto.jpeg"
+                        n="0021-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM connects lines 05-06 with a left
                         parenthesis. She places two vertical bars in pencil to the left of the page
                         number for lines 07-08. From lines 10-12 MM draws a line to set off the
@@ -1363,7 +1364,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0022_text">
                 <div type="page" n="v.0022" xml:id="nb07_02_03_0022_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0022-verso.jpeg" n="0022-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0022-verso.jpeg"
+                        n="0022-verso"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws a vertical bar in pencil to the
                         left of the text on lines 23-25.!&amp;gt;</desc>
                     <lg>
@@ -1420,7 +1423,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0023_text">
                 <div type="page" n="r.0023" xml:id="nb07_02_03_0023_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0023-recto.jpeg" n="0023-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0023-recto.jpeg"
+                        n="0023-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 8 is in pencil.
                         MM draws a vertical bar in pencil to the left of the text on lines 30-32.
                         The five vertical bars to the left of line 30 are in pencil. The underlining
@@ -1479,7 +1484,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0024_text">
                 <div type="page" n="v.0024" xml:id="nb07_02_03_0024_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0024-verso.jpeg" n="0024-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0024-verso.jpeg"
+                        n="0024-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]                       <quote rend="begin"/><note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note>“Her bow lay strung, her quiver full, her buckler by her head</l>
@@ -1535,7 +1542,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0025_text">
                 <div type="page" n="r.0025" xml:id="nb07_02_03_0025_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0025-recto.jpeg" n="0025-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0025-recto.jpeg"
+                        n="0025-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining in line 21 is
                         double.!&amp;gt;</desc>
                     <lg>
@@ -1592,7 +1601,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0026_text">
                 <div type="page" n="v.0026" xml:id="nb07_02_03_0026_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0026-verso.jpeg" n="0026-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0026-verso.jpeg"
+                        n="0026-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining in lines 09, 11 and 12
                         is double. MM draws two short slashes in the middle of the double underline
                         of line 12.!&amp;gt;</desc>
@@ -1650,10 +1661,12 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0027_text">
                 <div type="page" n="r.0027" xml:id="nb07_02_03_0027_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0027-recto.jpeg" n="0027-recto"/>
-                    <desc>[Page-level Description] &amp;lt;!The word "brutally" on line 09 is contained within
-                        two long slashes. MM places a curly bracket to the left of the text of
-                        lines 18-21.!&amp;gt;</desc>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0027-recto.jpeg"
+                        n="0027-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!The word "brutally" on line 09 is
+                        contained within two long slashes. MM places a curly bracket to the left of
+                        the text of lines 18-21.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                    <quote rend="begin"/><note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note>all Philip’s acts <add>indeed</add>—how he subjugated Thrace, etc</l>
                         <l n="02">[blank]                   &amp; besieged Byzantium . . . I shall pass over.</l>
@@ -1708,11 +1721,13 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0028_text">
                 <div type="page" n="v.0028" xml:id="nb07_02_03_0028_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0028-verso.jpeg" n="0028-verso"/>
-                    <desc>[Page-level Description] &amp;lt;!MM places a curly bracket to the
-                        left of the phrase "The graceful and / The plain" across lines 15 and 16.
-                        The underlining of line 17 and line 28 is double. MM circles the numbers 1
-                        and 2 in lines 19 and 21.!&amp;gt;</desc>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0028-verso.jpeg"
+                        n="0028-verso"/>
+                    <desc>[Page-level Description] &amp;lt;!MM places a curly bracket to the left of
+                        the phrase "The graceful and / The plain" across lines 15 and 16. The
+                        underlining of line 17 and line 28 is double. MM circles the numbers 1 and 2
+                        in lines 19 and 21.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]           443      <quote rend="begin"/><note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note>There should be a certain degree of freedom in the structure</l>
                         <l n="02">[blank]                        of a letter. It is absurd to build up periods, as if you were</l>
@@ -1756,7 +1771,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0029_text">
                 <div type="page" n="r.0029" xml:id="nb07_02_03_0029_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0029-recto.jpeg" n="0029-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0029-recto.jpeg"
+                        n="0029-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]               <quote rend="begin"/><note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note>symbolic expressions are forcible      yr cicalas shall c<add>h</add>irp from the</l>
@@ -1811,9 +1828,11 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0030_text">
                 <div type="page" n="v.0030" xml:id="nb07_02_03_0030_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0030-verso.jpeg" n="0030-verso"/>
-                    <desc>[Page-level Description] &amp;lt;!MM places a curly bracket to the
-                        left of the phrases listed at the end of lines 04-06.!&amp;gt;</desc>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0030-verso.jpeg"
+                        n="0030-verso"/>
+                    <desc>[Page-level Description] &amp;lt;!MM places a curly bracket to the left of
+                        the phrases listed at the end of lines 04-06.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]     <del>64</del>          <quote rend="begin"/><note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note><hi rend="underline">asyndeton</hi>     absence of conjunctions</l>
                         <l n="02">[blank] 463            <hi rend="underline">homoeoteleuton</hi> HOMOEOTELEUTON recurring termination</l>
@@ -1868,7 +1887,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0031_text">
                 <div type="page" n="r.0031" xml:id="nb07_02_03_0031_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0031-recto.jpeg" n="0031-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0031-recto.jpeg"
+                        n="0031-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]                   <quote rend="begin"/>  <note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note>By use of "yon" the pride of Craterus is rebuked.</l>
@@ -1924,7 +1945,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0032_text">
                 <div type="page" n="v.0032" xml:id="nb07_02_03_0032_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0032-verso.jpeg" n="0032-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0032-verso.jpeg"
+                        n="0032-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]                         <bibl type="begin"/>The Songs of Robert Burns                                 Burns b. 1759</l>
@@ -1980,7 +2003,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0033_text">
                 <div type="page" n="r.0033" xml:id="nb07_02_03_0033_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0033-recto.jpeg" n="0033-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0033-recto.jpeg"
+                        n="0033-recto"/>
                     <desc>[Page-level Description] &amp;lt;!In line 09 "strathspeys" is doubly
                         underlined. MM draws a vertical line to the right of lines
                         17-19.!&amp;gt; </desc>
@@ -1997,7 +2022,9 @@
                         <l n="10">[blank]              slow airs of the pathetic kind. (Note 2: On a private </l>
                         <l n="11">[blank]              copy of his <hi rend="underline">Epistle to Davie</hi> he describes himself as a brother </l>
                         <l n="12">[blank]              fiddler, &amp; in his humorous anonymous letter to Sharpe of</l>
-                        <l n="13">[blank]              Hoddam he styles himself a fiddler and a poet. (Works v. 366</l></lg><lg>
+                        <l n="13">[blank]              Hoddam he styles himself a fiddler and a poet. (Works v. 366</l>
+                    </lg>
+                    <lg>
                         <l n="14">[blank]              </l>
                         <l n="15">[blank]              strathspey: a reel deriving its name from the valley of the Spey.</l>
                         <l n="16">[blank]                                                                    <add>the</add> </l>
@@ -2035,8 +2062,11 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0034_text">
                 <div type="page" n="v.0034" xml:id="nb07_02_03_0034_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0034-verso.jpeg" n="0034-verso"/>
-                    <desc>[Page-level Description] &amp;lt;!The underlining in lines 09 and 10 is double.!&amp;gt;</desc>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0034-verso.jpeg"
+                        n="0034-verso"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining in lines 09 and 10 is
+                        double.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank] x       <quote rend="begin"/><note>Dick, James C., ed. <hi rend="italics">The Songs of Robert Burns</hi> (see earlier note).</note>during the Highland tours, he collected rare melodies as if it</l>
                         <l n="02">[blank]           were his business.</l>
@@ -2090,7 +2120,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0035_text">
                 <div type="page" n="r.0035" xml:id="nb07_02_03_0035_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0035-recto.jpeg" n="0035-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0035-recto.jpeg"
+                        n="0035-recto"/>
                     <desc>[Page-level Description] </desc>
                     <lg>
                         <l n="01">[blank]         <quote rend="begin"/><note>Dick, James C., ed. <hi rend="italics">The Songs of Robert Burns</hi> (see earlier note).</note> He undertook the cost of printing &amp; publishing. Burns</l>
@@ -2146,7 +2178,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0036_text">
                 <div type="page" n="v.0036" xml:id="nb07_02_03_0036_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0036-verso.jpeg" n="0036-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0036-verso.jpeg"
+                        n="0036-verso"/>
                     <desc>[Page-level Description] &amp;lt;!In line 01 "Auld Lang Syne" is doubly
                         underlined. In line 25 MM draws a line under and to the left of "thairfor"
                         to connect it to the text above.!&amp;gt;</desc>
@@ -2204,7 +2238,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0037_text">
                 <div type="page" n="r.0037" xml:id="nb07_02_03_0037_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0037-recto.jpeg" n="0037-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0037-recto.jpeg"
+                        n="0037-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM doubly underlines the capital "T" and
                         "W" on line 04. The dash opening line 05 is wavy.!&amp;gt;</desc>
                     <lg>
@@ -2261,7 +2297,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0038_text">
                 <div type="page" n="v.0038" xml:id="nb07_02_03_0038_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0038-verso.jpeg" n="0038-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0038-verso.jpeg"
+                        n="0038-verso"/>
                     <desc>[Page-level Description] &amp;lt;!Parentheses enclose "weaver" and
                         "webster" across lines 02 and 03. MM draws musical notes on lines
                         11-12.!&amp;gt;</desc>
@@ -2319,7 +2357,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0039_text">
                 <div type="page" n="r.0039" xml:id="nb07_02_03_0039_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0039-recto.jpeg" n="0039-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0039-recto.jpeg"
+                        n="0039-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <lg>
@@ -2339,7 +2379,7 @@
                         </lg>
                     </lg>
                     <lg>
-                        
+
                         <l n="14">[blank]                                                 His <hi rend="underline">giga</hi> solo—</l>
                         <l n="15">[blank]</l>
                         <l n="16">[blank] 353     p. 342        Rob Roy from the Highlands cam   Tune: Mill, Mill O</l>
@@ -2380,7 +2420,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0040_text">
                 <div type="page" n="v.0040" xml:id="nb07_02_03_0040_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0040-verso.jpeg" n="0040-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0040-verso.jpeg"
+                        n="0040-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] p. 369<quote rend="begin"/>       <note>Dick, James C., ed. <hi rend="italics">The Songs of Robert Burns</hi> (see earlier note).</note>No 51     <seg type="versebegin"/>Adown winding Nith I did wander.</l>
@@ -2436,7 +2478,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0041_text">
                 <div type="page" n="r.0041" xml:id="nb07_02_03_0041_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0041-recto.jpeg" n="0041-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0041-recto.jpeg"
+                        n="0041-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <lg>
@@ -2496,8 +2540,12 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0042_text">
                 <div type="page" n="v.0042" xml:id="nb07_02_03_0042_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0042-verso.jpeg" n="0042-verso"/>
-                    <desc>[Page-level Description] &amp;lt;!In line 29, "Dances" is doubly underlined and "Cuckoo's" partly so.!&amp;gt;</desc><lg>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0042-verso.jpeg"
+                        n="0042-verso"/>
+                    <desc>[Page-level Description] &amp;lt;!In line 29, "Dances" is doubly
+                        underlined and "Cuckoo's" partly so.!&amp;gt;</desc>
+                    <lg>
                         <lg>
                             <l n="01">[blank] <quote rend="begin"/><note>Dick, James C., ed. <hi rend="italics">The Songs of Robert Burns</hi> (see earlier note).</note>No. 127   O, luve will venture in. Scots Musical Museum, 1792, No. 373 signed ‘B,’</l>
                             <l n="02">[blank]                                                                                                                     entitled The Posie</l>
@@ -2557,7 +2605,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0043_text">
                 <div type="page" n="r.0043" xml:id="nb07_02_03_0043_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0043-recto.jpeg" n="0043-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0043-recto.jpeg"
+                        n="0043-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM's underlining on lines 20-21 is a
                         series of strokes.!&amp;gt;</desc>
                     <lg>
@@ -2618,7 +2668,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0044_text">
                 <div type="page" n="v.0044" xml:id="nb07_02_03_0044_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0044-verso.jpeg" n="0044-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0044-verso.jpeg"
+                        n="0044-verso"/>
                     <desc>[Page-level Description] &amp;lt;!MM encloses the two words at the end of
                         lines 04 and 05 in curly brackets. She doubly underlines the title in line
                         08.!&amp;gt;</desc>
@@ -2676,7 +2728,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0045_text">
                 <div type="page" n="r.0045" xml:id="nb07_02_03_0045_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0045-recto.jpeg" n="0045-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0045-recto.jpeg"
+                        n="0045-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] <quote rend="begin"/><note>Dick, James C., ed. <hi rend="italics">The Songs of Robert Burns</hi> (see earlier note).</note>This Dunlop Manuscript, incomplete, is in the possession of</l>
@@ -2732,7 +2786,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0046_text">
                 <div type="page" n="v.0046" xml:id="nb07_02_03_0046_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0046-verso.jpeg" n="0046-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0046-verso.jpeg"
+                        n="0046-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]                    454     <quote rend="begin"/> <note>Dick, James C., ed. <hi rend="italics">The Songs of Robert Burns</hi> (see earlier note).</note> 264          <hi rend="underline">The Curse</hi>, written after the Union was</l>
@@ -2789,7 +2845,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0047_text">
                 <div type="page" n="r.0047" xml:id="nb07_02_03_0047_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0047-recto.jpeg" n="0047-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0047-recto.jpeg"
+                        n="0047-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank] 479     <quote rend="begin"/><note>Dick, James C., ed. <hi rend="italics">The Songs of Robert Burns</hi> (see earlier note).</note> No 319      Ken ye ought o’ Captain Grose?                Captain Grose the</l>
@@ -2845,7 +2903,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0048_text">
                 <div type="page" n="v.0048" xml:id="nb07_02_03_0048_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0048-verso.jpeg" n="0048-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0048-verso.jpeg"
+                        n="0048-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]             <quote rend="begin"/> <note>Dick, James C., ed. <hi rend="italics">The Songs of Robert Burns</hi> (see earlier note).</note><del>It</del> I have not ascertained whether Burns communicated to</l>
@@ -2902,7 +2962,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0049_text">
                 <div type="page" n="r.0049" xml:id="nb07_02_03_0049_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0049-recto.jpeg" n="0049-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0049-recto.jpeg"
+                        n="0049-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM doubly underlines title in line
                         11.!&amp;gt;</desc>
                     <lg>
@@ -2959,7 +3021,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0050_text">
                 <div type="page" n="v.0050" xml:id="nb07_02_03_0050_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0050-verso.jpeg" n="0050-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0050-verso.jpeg"
+                        n="0050-verso"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]  230     <quote rend="begin"/> <note>Dick, James C., ed. <hi rend="italics">The Songs of Robert Burns</hi> (see earlier note).</note>No 254:</l>
@@ -3015,8 +3079,12 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0051_text">
                 <div type="page" n="r.0051" xml:id="nb07_02_03_0051_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0051-recto.jpeg" n="0051-recto"/>
-                    <desc>[Page-level Description] &amp;lt;!The underlining of 02 and 08 is doubled. She adds a wavy line beneath the underlining in blue pencil line 21.!&amp;gt;</desc>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0051-recto.jpeg"
+                        n="0051-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of 02 and 08 is doubled.
+                        She adds a wavy line beneath the underlining in blue pencil line
+                        21.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                                                                         copyright 1934</l>
                         <l n="02">[blank]                                    <bibl type="begin"/><hi rend="underline">The Art of the Novel</hi>                                     Blackmur  </l>
@@ -3072,10 +3140,12 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0052_text">
                 <div type="page" n="v.0052" xml:id="nb07_02_03_0052_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0052-verso.jpeg" n="0052-verso"/>
-                    <desc>[Page-level Description] &amp;lt;!The line drawn on line 19 is wavy. MM circles the
-                        "4" in line 26. She draws a red vertical bar to the left of the text on
-                        lines 32-35. The underlining of line 34 is doubled with a wavy
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0052-verso.jpeg"
+                        n="0052-verso"/>
+                    <desc>[Page-level Description] &amp;lt;!The line drawn on line 19 is wavy. MM
+                        circles the "4" in line 26. She draws a red vertical bar to the left of the
+                        text on lines 32-35. The underlining of line 34 is doubled with a wavy
                         line.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                     <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note><quote rend="begin"/>the joy of joys—renews in the modern alchemist</l>
@@ -3127,13 +3197,15 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0053_text">
                 <div type="page" n="r.0053" xml:id="nb07_02_03_0053_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0053-recto.jpeg" n="0053-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0053-recto.jpeg"
+                        n="0053-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws a vertical bar in red pencil to
                         the left of lines 06-08. The underlining in line 07 is in red pencil. The
                         "i" of "Piazza" in line 18 is dotted with red pencil. The "a" of "case" in
                         line 27 is marked over with a blue pencil stroke. MM places a left square
-                        bracket after the page number before lines 30-31. A wavy line is drawn over "Provins" in line
-                        31.!&amp;gt;</desc>
+                        bracket after the page number before lines 30-31. A wavy line is drawn over
+                        "Provins" in line 31.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank] <del>6</del>           <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note><quote rend="begin"/>He is in the perpetual predicament that the continuity of things is</l>
                         <l n="02">[blank] 5            the whole matter, for                                   him, of comedy &amp; tragedy,</l>
@@ -3187,7 +3259,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0054_text">
                 <div type="page" n="v.0054" xml:id="nb07_02_03_0054_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0054-verso.jpeg" n="0054-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0054-verso.jpeg"
+                        n="0054-verso"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws short slashes through the
                         underlining of the four words on line 10. The underlining of the words on
                         lines 11, 22, and 23 is doubled with a wavy line.!&amp;gt;</desc>
@@ -3245,11 +3319,13 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0055_text">
                 <div type="page" n="r.0055" xml:id="nb07_02_03_0055_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0055-recto.jpeg" n="0055-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0055-recto.jpeg"
+                        n="0055-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM rewrites an ellipsis under another
-                        one in line 11. The page at the end of lines 29-31 is water stained.
-                        MM has gone over the blurred words in darker ink and has done the same for
-                        words and letters in lines 19, 29, and 32.!&amp;gt;</desc>
+                        one in line 11. The page at the end of lines 29-31 is water stained. MM has
+                        gone over the blurred words in darker ink and has done the same for words
+                        and letters in lines 19, 29, and 32.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                     20   <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note><quote rend="begin"/>Preface to The American 1875–76</l>
                         <l n="02">[blank]                     21    I recall that I was seated in an American “horse-car” when I</l>
@@ -3304,7 +3380,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0056_text">
                 <div type="page" n="v.0056" xml:id="nb07_02_03_0056_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0056-verso.jpeg" n="0056-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0056-verso.jpeg"
+                        n="0056-verso"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws a red vertical bar to the left
                         of the text on lines 01-02. She draws two wavy lines through lines 17-19 to
                         include the added word below.!&amp;gt;</desc>
@@ -3360,19 +3438,21 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0057_text">
                 <div type="page" n="r.0057" xml:id="nb07_02_03_0057_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0057-recto.jpeg" n="0057-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0057-recto.jpeg"
+                        n="0057-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws a vertical bar in pencil to the
                         left of the text on lines 10-11. The underlining of line 32 is doubled with
                         a wavy line.!&amp;gt;</desc>
-                        <lg>
-                            <l n="01">[blank]                    42                 <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note><quote rend="begin"/>Turgenieff in regard to his own experience of the origin </l>
-                            <l n="02">[blank]                              of the fictive                              picture. It began</l>
-                            <l n="03">[blank]                              <del>with</del> for him almost always w the vision of some person or persons, </l>
-                            <l n="04">[blank]                              who hovered before him . . . . . . </l>
-                            <l n="05">[blank] <hi rend="pencil"><seg type="prose">origin of</seg></hi>                   (wind-blown germs) They are . . . floated into our minds</l>
-                            <l n="06">[blank] <hi rend="pencil"><seg type="prose">a subject</seg></hi>            by the current of life . . . . the stray figure, the unattached</l>
-                            <l n="07">[blank]                             character.</l>
-                            <l n="08">[blank]                     44      I was myself so much more antecedently conscious of my figures</l>
+                    <lg>
+                        <l n="01">[blank]                    42                 <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note><quote rend="begin"/>Turgenieff in regard to his own experience of the origin </l>
+                        <l n="02">[blank]                              of the fictive                              picture. It began</l>
+                        <l n="03">[blank]                              <del>with</del> for him almost always w the vision of some person or persons, </l>
+                        <l n="04">[blank]                              who hovered before him . . . . . . </l>
+                        <l n="05">[blank] <hi rend="pencil"><seg type="prose">origin of</seg></hi>                   (wind-blown germs) They are . . . floated into our minds</l>
+                        <l n="06">[blank] <hi rend="pencil"><seg type="prose">a subject</seg></hi>            by the current of life . . . . the stray figure, the unattached</l>
+                        <l n="07">[blank]                             character.</l>
+                        <l n="08">[blank]                     44      I was myself so much more antecedently conscious of my figures</l>
                         <l n="09">[blank]                             than my setting—</l>
                         <l n="10">[blank]                     45   . . . . this enveloping air of the artist's humanity . . . . . gives</l>
                         <l n="11">[blank]                            the last touch to the worth of the <del>book</del> work . . . . . </l>
@@ -3414,7 +3494,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0058_text">
                 <div type="page" n="v.0058" xml:id="nb07_02_03_0058_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0058-verso.jpeg" n="0058-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0058-verso.jpeg"
+                        n="0058-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 07 is doubled
                         with a wavy line. The underlining of the deleted word on line 29 is doubled
                         with a wavy line.!&amp;gt;</desc>
@@ -3470,7 +3552,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0059_text">
                 <div type="page" n="r.0059" xml:id="nb07_02_03_0059_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0059-recto.jpeg" n="0059-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0059-recto.jpeg"
+                        n="0059-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]                            <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note> <quote rend="begin"/>more deeply wondering, to the really sentient.</l>
@@ -3525,7 +3609,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0060_text">
                 <div type="page" n="v.0060" xml:id="nb07_02_03_0060_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0060-verso.jpeg" n="0060-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0060-verso.jpeg"
+                        n="0060-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining in lines 16-17 is in red
                         pencil. The first instance of the word "are" in line 16 is underlined doubly
                         with a wavy line.!&amp;gt;</desc>
@@ -3581,7 +3667,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0061_text">
                 <div type="page" n="r.0061" xml:id="nb07_02_03_0061_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0061-recto.jpeg" n="0061-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0061-recto.jpeg"
+                        n="0061-recto"/>
                     <desc>[Page-level Description] &amp;lt;!A light stroke is drawn through the word
                         "thick" in line 22.!&amp;gt;</desc>
                     <lg>
@@ -3638,7 +3726,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0062_text">
                 <div type="page" n="v.0062" xml:id="nb07_02_03_0062_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0062-verso.jpeg" n="0062-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0062-verso.jpeg"
+                        n="0062-verso"/>
                     <desc>[Page-level Description]  </desc>
                     <lg>
                         <l n="01">[blank]                      <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note><quote rend="begin"/> Miriam . . . in a complexity of relations finer than any</l>
@@ -3694,7 +3784,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0063_text">
                 <div type="page" n="r.0063" xml:id="nb07_02_03_0063_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0063-recto.jpeg" n="0063-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0063-recto.jpeg"
+                        n="0063-recto"/>
                     <desc>[Page-level Description] <desc>&amp;lt;!A long opening parenthesis is
                             faintly drawn to the left of the text on lines 19-25 and a small faint
                             circle is placed to the left of it. MM draws a vertical bar in pencil to
@@ -3751,12 +3843,15 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0064_text">
                 <div type="page" n="v.0064" xml:id="nb07_02_03_0064_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0064-verso.jpeg" n="0064-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0064-verso.jpeg"
+                        n="0064-verso"/>
                     <desc>[Page-level Description] &amp;lt;!<desc><desc>A long opening parenthesis
                                 is faintly drawn to the left of the text on lines 04-06 and a small
                                 faint circle is placed to the left of it. In line 19 a long concave
-                                line connects "Things" with "comparatively." the underlining in lines 26, 27, and 29 is in pencil. The underlining in line
-                                31 is doubled with a wavy line.!&amp;gt;</desc></desc></desc>
+                                line connects "Things" with "comparatively." the underlining in
+                                lines 26, 27, and 29 is in pencil. The underlining in line 31 is
+                                doubled with a wavy line.!&amp;gt;</desc></desc></desc>
                     <lg>
                         <l n="01">[blank]                                  <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note> <add>the</add> </l>
                         <l n="02">[blank]<quote rend="begin"/>                                   possibilities of <del>my</del> little drama of my “Spoils,”</l>
@@ -3806,7 +3901,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0065_text">
                 <div type="page" n="r.0065" xml:id="nb07_02_03_0065_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0065-recto.jpeg" n="0065-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0065-recto.jpeg"
+                        n="0065-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws a vertical bar in pencil to the
                         left of the main text on lines 03-06. She places an opening parenthesis to
                         the left of the text of lines 07-08. She draws two vertical bars in pencil
@@ -3865,7 +3962,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0066_text">
                 <div type="page" n="v.0066" xml:id="nb07_02_03_0066_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0066-verso.jpeg" n="0066-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0066-verso.jpeg"
+                        n="0066-verso"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws a vertical bar in pencil to the
                         left of the text of lines 15-19.!&amp;gt;</desc>
                     <lg>
@@ -3922,7 +4021,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0067_text">
                 <div type="page" n="r.0067" xml:id="nb07_02_03_0067_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0067-recto.jpeg" n="0067-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0067-recto.jpeg"
+                        n="0067-recto"/>
                     <desc>[Page-level Description]</desc>
                     <lg>
                         <l n="01">[blank]                            155            <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note><quote rend="begin"/>To criticize is to appreciate, to appropriate, to take</l>
@@ -3972,7 +4073,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0068_text">
                 <div type="page" n="v.0068" xml:id="nb07_02_03_0068_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0068-verso.jpeg" n="0068-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0068-verso.jpeg"
+                        n="0068-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 01, 16, 19 and
                         23 is doubled with a wavy line.!&amp;gt;</desc>
                     <lg>
@@ -4028,8 +4131,11 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0069_text">
                 <div type="page" n="r.0069" xml:id="nb07_02_03_0069_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0069-recto.jpeg" n="0069-recto"/>
-                    <desc>[Page-level Description] </desc><lg>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0069-recto.jpeg"
+                        n="0069-recto"/>
+                    <desc>[Page-level Description] </desc>
+                    <lg>
                         <l n="01">[blank]                  <del>165</del>  167   <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note><quote rend="begin"/>The state of being conspicuous involved . . . a recognition</l>
                         <l n="02">[blank]                                                                                                            <add>seable</add> </l>
                         <l n="03">[blank]                              &amp; none of my eminent folk were recogni<del>z</del>eable e.g. (Miriam</l>
@@ -4082,7 +4188,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0070_text">
                 <div type="page" n="v.0070" xml:id="nb07_02_03_0070_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0070-verso.jpeg" n="0070-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0070-verso.jpeg"
+                        n="0070-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 03 and 23 is
                         doubled with a wavy line. An arrow beginning at "The Liar" in line 24 curves
                         downward to point to the first words of line 27.!&amp;gt;</desc>
@@ -4138,8 +4246,11 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0071_text">
                 <div type="page" n="r.0071" xml:id="nb07_02_03_0071_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0071-recto.jpeg" n="0071-recto"/>
-                    <desc>[Page-level Description] &amp;lt;!The underlining of lines 02, 16, 21, and 31 is doubled with a wavy line.!&amp;gt;</desc>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0071-recto.jpeg"
+                        n="0071-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of lines 02, 16, 21, and
+                        31 is doubled with a wavy line.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                          <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note><quote rend="begin"/>Preface to “The Reverberator” (1888) Macmillan’s Mag.</l>
                         <l n="02">[blank]                180   a <hi rend="underline">jeu d’esprit</hi> . . . an exemplary anecdote, and at the same time . . .</l>
@@ -4174,7 +4285,9 @@
                         <l n="31">[blank]                        “success” . . . The ingenious stranger—had <hi rend="underline">written</hi> about</l>
                         <l n="32">[blank]                        them . . .                                                <add>it was awfully coming to light</add> </l>
                         <l n="33">[blank]               185   and the performance . . . had winged its way back to</l>
-                        <l n="34">[blank]                        its dishonoured nest like some monstrous black bird</l></lg><lg>
+                        <l n="34">[blank]                        its dishonoured nest like some monstrous black bird</l>
+                    </lg>
+                    <lg>
                         <l n="35">[blank]                        or beetle, an embodiment of popping eyes, a whirl of</l>
                         <l n="36">[blank]               <quote rend="end"/>         brandished feathers &amp; claws.         . . . The scandal reigned</l>
                         <l n="37">[blank]                        &amp; the commotion lasted, a nine days’ wonder.<del>”</del> </l>
@@ -4193,10 +4306,12 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0072_text">
                 <div type="page" n="v.0072" xml:id="nb07_02_03_0072_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0072-verso.jpeg" n="0072-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0072-verso.jpeg"
+                        n="0072-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 02, 04, and 11
-                        is doubled with a wavy line.  MM places two sets of two vertical strokes through the line on line
-                        13.</desc>
+                        is doubled with a wavy line.  MM places two sets of two vertical strokes
+                        through the line on line 13.</desc>
                     <lg>
                         <l n="01">[blank]          187     <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note><quote rend="begin"/>the international light . . . the American (of those days) almost</l>
                         <l n="02">[blank]                       incredibly <hi rend="underline">unaware of life</hi>—as the European order expressed life—</l>
@@ -4251,7 +4366,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0073_text">
                 <div type="page" n="r.0073" xml:id="nb07_02_03_0073_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0073-recto.jpeg" n="0073-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0073-recto.jpeg"
+                        n="0073-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 05 and 15 and 
                         is doubled with a wavy line. MM draws a vertical line to the left of the
                         text on lines 13-15.!&amp;gt;</desc>
@@ -4306,7 +4423,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0074_text">
                 <div type="page" n="v.0074" xml:id="nb07_02_03_0074_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0074-verso.jpeg" n="0074-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0074-verso.jpeg"
+                        n="0074-verso"/>
                     <desc>[Page-level Description] &amp;lt;!"Figure in the Carpet" is faintly
                         legible in erased pencil to the left of the text on lines 12-13 and to the
                         right of that MM draws a left curly bracket with pencil. She draws a
@@ -4363,9 +4482,11 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0075_text">
                 <div type="page" n="r.0075" xml:id="nb07_02_03_0075_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0075-recto.jpeg" n="0075-recto"/>
-                    <desc>[Page-level Description] &amp;lt;!The underlining of line 21 is
-                        doubled with a wavy line.!&amp;gt;</desc>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0075-recto.jpeg"
+                        n="0075-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of line 21 is doubled
+                        with a wavy line.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                              <add>innumerable</add>    </l>
                         <l n="02">[blank]                 240   <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note><quote rend="begin"/>the condensations that tend to make of the very short story,</l>
@@ -4414,7 +4535,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0076_text">
                 <div type="page" n="v.0076" xml:id="nb07_02_03_0076_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0076-verso.jpeg" n="0076-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0076-verso.jpeg"
+                        n="0076-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining in lines 06 and 10-11 is
                         in red pencil.!&amp;gt;</desc>
                     <lg>
@@ -4468,9 +4591,11 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0077_text">
                 <div type="page" n="r.0077" xml:id="nb07_02_03_0077_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0077-recto.jpeg" n="0077-recto"/>
-                    <desc>[Page-level Description] &amp;lt;!MM places a vertical bar to the left of the
-                        text on lines 06-09 in red pencil. The underlining of line 27 is double.
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0077-recto.jpeg"
+                        n="0077-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!MM places a vertical bar to the left of
+                        the text on lines 06-09 in red pencil. The underlining of line 27 is double.
                         Beneath the "M" after the page number on line 38 is a convex arc in red
                         pencil.!&amp;gt;</desc>
                     <lg>
@@ -4523,7 +4648,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0078_text">
                 <div type="page" n="v.0078" xml:id="nb07_02_03_0078_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0078-verso.jpeg" n="0078-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0078-verso.jpeg"
+                        n="0078-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 15-16 is in red
                         pencil.!&amp;gt;</desc>
                     <lg>
@@ -4580,7 +4707,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0079_text">
                 <div type="page" n="r.0079" xml:id="nb07_02_03_0079_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0079-recto.jpeg" n="0079-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0079-recto.jpeg"
+                        n="0079-recto"/>
                     <desc>[Page-level Description] &amp;lt;!An opening parenthesis in red pencil is
                         placed to the left of the text on lines 02-03. A vertical stroke in red
                         pencil is placed to the left of the text on lines 04-06. The underlining of
@@ -4637,7 +4766,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0080_text">
                 <div type="page" n="v.0080" xml:id="nb07_02_03_0080_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0080-verso.jpeg" n="0080-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0080-verso.jpeg"
+                        n="0080-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining in lines 06, 10, 15, and
                         25 are doubled with a wavy line. The underlining of line 14 has four dots
                         beneath it.!&amp;gt;</desc>
@@ -4692,7 +4823,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0081_text">
                 <div type="page" n="r.0081" xml:id="nb07_02_03_0081_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0081-recto.jpeg" n="0081-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0081-recto.jpeg"
+                        n="0081-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 03-05 and 09-10
                         is in red pencil. The underlining in lines 12 and 20 is doubled with a wavy
                         line. MM places a vertical bar to the left of the text on lines 09-10. She
@@ -4748,9 +4881,11 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0082_text">
                 <div type="page" n="v.0082" xml:id="nb07_02_03_0082_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0082-verso.jpeg" n="0082-verso"/>
-                    <desc>[Page-level Description] &amp;lt;!The underlining of lines 04, 05,
-                        24, 26-28, 33 and 34 is in red pencil. In line 05 the "is" in red pencil is
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0082-verso.jpeg"
+                        n="0082-verso"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of lines 04, 05, 24,
+                        26-28, 33 and 34 is in red pencil. In line 05 the "is" in red pencil is
                         overwritten in regular pencil. The underlining in lines 11 and 14 is doubled
                         with a wavy line.!&amp;gt; </desc>
                     <lg>
@@ -4804,7 +4939,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0083_text">
                 <div type="page" n="r.0083" xml:id="nb07_02_03_0083_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0083-recto.jpeg" n="0083-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0083-recto.jpeg"
+                        n="0083-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 17 is doubled
                         with a wavy line.!&amp;gt;</desc>
                     <lg>
@@ -4861,7 +4998,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0084_text">
                 <div type="page" n="v.0084" xml:id="nb07_02_03_0084_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0084-verso.jpeg" n="0084-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0084-verso.jpeg"
+                        n="0084-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 11 is doubled
                         with a wavy line.!&amp;gt;</desc>
                     <lg>
@@ -4918,7 +5057,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0085_text">
                 <div type="page" n="r.0085" xml:id="nb07_02_03_0085_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0085-recto.jpeg" n="0085-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0085-recto.jpeg"
+                        n="0085-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 07 is doubled.
                         The underlining of line 28 is doubled with a wavy line.!&amp;gt;</desc>
                     <lg>
@@ -4975,7 +5116,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0086_text">
                 <div type="page" n="v.0086" xml:id="nb07_02_03_0086_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0086-verso.jpeg" n="0086-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0086-verso.jpeg"
+                        n="0086-verso"/>
                     <desc>[Page-level Description] &amp;lt;!Two parallel vertical bars are placed to
                         the left of the text on lines 12-14. The underlining of line 20 is double.
                         An opening parenthesis is placed to the left of the text on lines 26-27. The
@@ -5035,7 +5178,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0087_text">
                 <div type="page" n="r.0087" xml:id="nb07_02_03_0087_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0087-recto.jpeg" n="0087-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0087-recto.jpeg"
+                        n="0087-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines o6 and 28 is
                         doubled with a wavy line.!&amp;gt;</desc>
                     <lg>
@@ -5092,7 +5237,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0088_text">
                 <div type="page" n="v.0088" xml:id="nb07_02_03_0088_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0088-verso.jpeg" n="0088-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0088-verso.jpeg"
+                        n="0088-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 13 and 20 is
                         doubled with a wavy line.</desc>
                     <lg>
@@ -5149,7 +5296,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0089_text">
                 <div type="page" n="r.0089" xml:id="nb07_02_03_0089_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0089-recto.jpeg" n="0089-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0089-recto.jpeg"
+                        n="0089-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 17, 22, and 31
                         is doubled with a wavy line. The underlining of line 23 is a wavy
                         line.!&amp;gt;</desc>
@@ -5207,7 +5356,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0090_text">
                 <div type="page" n="v.0090" xml:id="nb07_02_03_0090_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0090-verso.jpeg" n="0090-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0090-verso.jpeg"
+                        n="0090-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 12, 17 and 34
                         is doubled with a wavy line.!&amp;gt;</desc>
                     <lg>
@@ -5264,9 +5415,11 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0091_text">
                 <div type="page" n="r.0091" xml:id="nb07_02_03_0091_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0091-recto.jpeg" n="0091-recto"/>
-                    <desc>[Page-level Description] &amp;lt;!MM places a curly bracket to the
-                        left of "the tenor &amp;" and "the vehicle" at the end of lines 11-12. The
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0091-recto.jpeg"
+                        n="0091-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!MM places a curly bracket to the left of
+                        "the tenor &amp;" and "the vehicle" at the end of lines 11-12. The
                         underlining of lines 23, 26 and 27 is doubled with a wavy
                         line.!&amp;gt;</desc>
                     <lg>
@@ -5323,7 +5476,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0092_text">
                 <div type="page" n="v.0092" xml:id="nb07_02_03_0092_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0092-verso.jpeg" n="0092-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0092-verso.jpeg"
+                        n="0092-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 02 is doubled
                         with a wavy line.!&amp;gt;</desc>
                     <lg>
@@ -5380,7 +5535,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0093_text">
                 <div type="page" n="r.0093" xml:id="nb07_02_03_0093_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0093-recto.jpeg" n="0093-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0093-recto.jpeg"
+                        n="0093-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 30 is doubled
                         with a wavy line.!&amp;gt;</desc>
                     <lg>
@@ -5437,7 +5594,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0094_text">
                 <div type="page" n="v.0094" xml:id="nb07_02_03_0094_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0094-verso.jpeg" n="0094-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0094-verso.jpeg"
+                        n="0094-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 01 is doubled
                         with a wavy line.!&amp;gt;</desc>
                     <lg>
@@ -5492,7 +5651,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0095_text">
                 <div type="page" n="r.0095" xml:id="nb07_02_03_0095_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0095-recto.jpeg" n="0095-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0095-recto.jpeg"
+                        n="0095-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The marginal note on lines 24-25 is
                         circled, as is the asterisk. MM draws an arrow along line 24 from the
                         asterisk to the end of the first third of the page.!&amp;gt; </desc>
@@ -5550,7 +5711,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0096_text">
                 <div type="page" n="v.0096" xml:id="nb07_02_03_0096_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0096-verso.jpeg" n="0096-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0096-verso.jpeg"
+                        n="0096-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 05 and 14-15 is
                         doubled with a wavy line. Opening parentheses are placed to the left of the
                         text on lines 28-29 and 32-34.!&amp;gt;</desc>
@@ -5608,7 +5771,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0097_text">
                 <div type="page" n="r.0097" xml:id="nb07_02_03_0097_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0097-recto.jpeg" n="0097-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0097-recto.jpeg"
+                        n="0097-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 11, 22, and 27
                         is doubled with a wavy line.!&amp;gt;</desc>
                     <lg>
@@ -5665,7 +5830,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0098_text">
                 <div type="page" n="v.0098" xml:id="nb07_02_03_0098_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0098-verso.jpeg" n="0098-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0098-verso.jpeg"
+                        n="0098-verso"/>
                     <desc>[Page-level Description] &amp;lt;!MM places two vertical bars to the left
                         of the text on lines 25-27.!&amp;gt;</desc>
                     <lg>
@@ -5722,7 +5889,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0099_text">
                 <div type="page" n="r.0099" xml:id="nb07_02_03_0099_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0099-recto.jpeg" n="0099-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0099-recto.jpeg"
+                        n="0099-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 15 is doubled
                         with a wavy line.</desc>
                     <lg>
@@ -5778,7 +5947,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0100_text">
                 <div type="page" n="r.0100" xml:id="nb07_02_03_0100_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0100-recto.jpeg" n="0100-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0100-recto.jpeg"
+                        n="0100-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 23 is
                         doubled.!&amp;gt;</desc>
                     <lg>
@@ -5835,7 +6006,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0101_text">
                 <div type="page" n="r.0101" xml:id="nb07_02_03_0101_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0101-recto.jpeg" n="0101-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0101-recto.jpeg"
+                        n="0101-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 06 is doubled
                         with a wavy line. MM draws a vertical bar to the left of the text on lines
                         10-11 and 25-26 and another one to the right of lines 19-20.!&amp;gt;</desc>
@@ -5887,7 +6060,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0102_text">
                 <div type="page" n="v.0102" xml:id="nb07_02_03_0102_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0102-verso.jpeg" n="0102-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0102-verso.jpeg"
+                        n="0102-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 17 is doubled.
                         MM draws two vertical bars in pencil to the left of the text on lines 19-21.
                         The underlining of lines 24 and 25 is doubled with a wavy
@@ -5944,8 +6119,12 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0103_text">
                 <div type="page" n="r.0103" xml:id="nb07_02_03_0103_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0103-recto.jpeg" n="0103-recto"/>
-                    <desc>[Page-level Description] &amp;lt;!The underlining of line 36 is doubled with a wavy line.!&amp;gt;</desc><lg>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0103-recto.jpeg"
+                        n="0103-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!The underlining of line 36 is doubled
+                        with a wavy line.!&amp;gt;</desc>
+                    <lg>
                         <l n="01">[blank]                  <note>Eliot, T. S. <hi rend="italics">Selected Essays</hi> (see earlier note).</note><quote rend="begin"/>A Dialogue on Dramatic Poetry.   43.</l>
                         <l n="02">[blank]            E. &amp; B.      cf. Aristotle &amp; Corneille &amp; Dryden</l>
                         <l n="03">[blank]</l>
@@ -6001,10 +6180,13 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0104_text">
                 <div type="page" n="v.0104" xml:id="nb07_02_03_0104_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0104-verso.jpeg" n="0104-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0104-verso.jpeg"
+                        n="0104-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 05 and 09 is
                         doubled with a wavy line. MM draws two vertical bars in pencil to the left
-                        of the text on lines 25-26.!</desc><lg>
+                        of the text on lines 25-26.!</desc>
+                    <lg>
                         <l n="01">[blank]       50     <note>Eliot, T. S. <hi rend="italics">Selected Essays</hi> (see earlier note).</note><quote rend="begin"/>B: (William Archer) As a dramatic critic he had one fault:</l>
                         <l n="02">[blank]                  he knew nothing about poetry.</l>
                         <l n="03">[blank]</l>
@@ -6058,7 +6240,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0105_text">
                 <div type="page" n="r.0105" xml:id="nb07_02_03_0105_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0105-recto.jpeg" n="0105-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0105-recto.jpeg"
+                        n="0105-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 20 is
                         doubled.!&amp;gt;</desc>
                     <lg>
@@ -6115,7 +6299,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0106_text">
                 <div type="page" n="v.0106" xml:id="nb07_02_03_0106_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0106-verso.jpeg" n="0106-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0106-verso.jpeg"
+                        n="0106-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 01 is wavy. The
                         numbers 1, 2, and 3 in lines 08-10 are circled.!&amp;gt;</desc>
                     <lg>
@@ -6172,8 +6358,11 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0107_text">
                 <div type="page" n="r.0107" xml:id="nb07_02_03_0107_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0107-recto.jpeg" n="0107-recto"/>
-                    <desc>[Page-level Description] &amp;lt;!An opening parenthesis or curved arrow begins at the double vertical bars of line 06 and is placed to the left of
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0107-recto.jpeg"
+                        n="0107-recto"/>
+                    <desc>[Page-level Description] &amp;lt;!An opening parenthesis or curved arrow
+                        begins at the double vertical bars of line 06 and is placed to the left of
                         the text on lines 07-10. Parentheses enclose the text of lines 21-22. The
                         underlining of lines 21, 25, and 29 is doubled with a wavy
                         line.!&amp;gt;</desc>
@@ -6231,7 +6420,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0108_text">
                 <div type="page" n="v.0108" xml:id="nb07_02_03_0108_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0108-verso.jpeg" n="0108-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0108-verso.jpeg"
+                        n="0108-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines 03 and 09 is
                         doubled with a wavy line. The underlining of lines 04, 21 and 32 is a wavy
                         line. MM draws double vertical bars in pencil to the left of the text on
@@ -6290,7 +6481,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0109_text">
                 <div type="page" n="r.0109" xml:id="nb07_02_03_0109_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0109-recto.jpeg" n="0109-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0109-recto.jpeg"
+                        n="0109-recto"/>
                     <desc>[Page-level Description] &amp;lt;!MM draws a wavy vertical line to the
                         left of the text on lines 33-36.!&amp;gt;</desc>
                     <lg>
@@ -6347,7 +6540,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0110_text">
                 <div type="page" n="v.0110" xml:id="nb07_02_03_0110_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0110-verso.jpeg" n="0110-verso"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0110-verso.jpeg"
+                        n="0110-verso"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of line 01 is wavy. The
                         underlining of line 27 is doubled with a wavy line. The underlining of line
                         31 is doubled with a series of strokes.!&amp;gt;</desc>
@@ -6405,7 +6600,9 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0111_text">
                 <div type="page" n="r.0111" xml:id="nb07_02_03_0111_recto_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0111-recto.jpeg" n="0111-recto"/>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0111-recto.jpeg"
+                        n="0111-recto"/>
                     <desc>[Page-level Description] &amp;lt;!The underlining of lines  11, 29, and 30
                         is doubled with a wavy line. Water stains blur the ink in spots towards the
                         ends of lines 20-25. MM draws double vertical bars to the left of the text
@@ -6464,10 +6661,13 @@
             </div>
             <div type="image" xml:id="nb07_02_03_0112_text">
                 <div type="page" n="v.0112" xml:id="nb07_02_03_0112_verso_text">
-                    <pb facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0112-verso.jpeg" n="0112-verso"/>
-                    <desc>[Page-level Description] &amp;lt;!An arrow-like line points to the left in the left margin of line 06. A curly bracket is placed to the
-                        right of the verse on lines 15-17. The underlining of lines 26, 28, and 32
-                        is doubled with a wavy line.!&amp;gt;</desc>
+                    <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0112-verso.jpeg"
+                        n="0112-verso"/>
+                    <desc>[Page-level Description] &amp;lt;!An arrow-like line points to the left in
+                        the left margin of line 06. A curly bracket is placed to the right of the
+                        verse on lines 15-17. The underlining of lines 26, 28, and 32 is doubled
+                        with a wavy line.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]          242     <note>Eliot, T. S. <hi rend="italics">Selected Essays</hi> (see earlier note).</note><quote rend="begin"/>he lived in an age in which men still saw visions, . . . <del>It</del>  </l>
                         <l n="02">[blank]                      the trick of which we have forgotten; but as good as any</l>
