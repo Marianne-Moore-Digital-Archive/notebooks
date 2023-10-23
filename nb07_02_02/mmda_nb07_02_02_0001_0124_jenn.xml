@@ -3496,6 +3496,38 @@
                </lg>
             </div>
          </div>
+         <div type="image" xml:id="nb07_02_02_0086_text">
+            <div type="page" n="v.0086" xml:id="nb07_02_02_0086_verso_text">
+               <pb
+                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0086-verso.jpg"
+                  n="0086-verso"/>
+               <desc>The O and W of Old World are double underlined on line 22</desc>
+               <lg>
+                  <l n="01"><bibl rend="begin"/><hi rend="underline">Natnl Geographic May</hi> 1918</l>
+                  <l n="02">           May 1918</l>
+                  <l n="03">Smaller mammals of N. America</l>
+                  <l n="04">      By <hi rend="underline">Edward W. Nelson</hi></l>
+                  <l n="05">  is ills. in color fr printings by LA. Fuentes</l>
+                  <l n="06">                               Fuertes<note>Louis Aggasiz Fuertes [1874-1927]. American ornithologist, illustrator, and artist.</note><bibl rend="end"/><note>Nelson, Edward W. “Smaller Mammals of North America.” National Geographic (May 1918).</note></l>
+                  <l n="07"><quote rend="begin"/>cf Larger N. A Mammals Nov. 1916.</l>
+                  <l n="08"> </l>
+                  <l n="09">neat storage chambers dug for the<note>MM takes notes toward “The Jerboa."</note></l>
+                  <l n="10">purpose adjoining underground burrows.</l>
+                  <l n="11">. . . these little husbandmen.</l>
+                  <l n="12">many of the mainly nocturnal species</l>
+                  <l n="13">pursue minor activities by day, where</l>
+                  <l n="14">shelter . . . gives them a reasonable</l>
+                  <l n="15">feeling of security.</l>
+                  <l n="16">    directive coloration	 rabbit tail <del>etc</del></l>
+                  <l n="17">  under side of tail of antelope chipmunk.</l>
+                  <l n="18">    The Jumping Mouse</l>
+                  <l n="19"><foreign xml:lang="la">(Zapus hudsonius)</foreign></l>
+                  <l n="20">The long tail serves as a balance during</l>
+                  <l n="21">its extraordinary leaps.</l> 
+                  <l n="22">Many Old World Jerboas are desert<quote rend="end"/></l> 
+               </lg>
+            </div>
+         </div>
       </body>
    </text>
 </TEI>
