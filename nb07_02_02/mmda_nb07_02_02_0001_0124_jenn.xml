@@ -1458,7 +1458,7 @@
                   n="0053-recto"/>
                <desc>Moore puts square brackets around “as men” at top of page</desc>
                <lg>
-                  <l n="01"> <note>Willis, Helen. “Tennis Impressions” (see earlier note).</note><quote rend="begin"/>{as men}<!--do the brackets mean something?--> they are more</l>
+                  <l n="01"> <note>Willis, Helen. “Tennis Impressions” (see earlier note).</note><quote rend="begin"/>{as men} they are more</l>
                   <l n="02">entertaining to watch on the court</l>
                   <l n="03">because of their greater grace, their</l>
                   <l n="04">more charming ways, &amp; because</l>
@@ -2586,7 +2586,6 @@
                <desc/>
                <lg>
                   <l n="01"><quote rend="begin"/><note>Lauraine, Philip. “The Snake-Charming Sisters of Holy Popa” (see earlier note).</note>He cooks the rice, preserving some</l>
-                  <!--should <note> come before <quote>?-->
                   <l n="02">in its natural state, &amp; colouring</l>
                   <l n="03">the rest. He next cuts paper</l>
                   <l n="04">images of the snake and paints</l>
@@ -2622,7 +2621,6 @@
                <desc/>
                <lg>
                   <l n="01"><quote rend="begin"/><note>Lauraine, Philip. “The Snake-Charming Sisters of Holy Popa” (see earlier note).</note>w a secrecy . . . amounting to</l>
-                  <!--<note> and <quote> order-->
                   <l n="02">fanaticism. . . . . . In the fastnesses</l>
                   <l n="03">of this mountain home, they</l>
                   <l n="04">lie surrounded by . . . spirit</l>
@@ -2654,7 +2652,6 @@
                <desc/>
                <lg>
                   <l n="01">This page is missing.</l>
-                  <!--check missing page-->
                </lg>
             </div>
          </div>
@@ -2744,7 +2741,7 @@
                   <l n="04"> </l>
                   <l n="05">    <bibl rend="begin"/>Spectator 27 June 1931</l>
                   <l n="06">A Hospital for Animals      The Amer.</l>
-                  <l n="07">Fondouk<note>American Fondouk is a full-service equine hospital offering free veterinary care to poor owners of working animals in Morocco, since 1927. It also serves as an educational institution by providing information to local people about animal care.</note> by A.<bibl rend="end"/><note>“A Hospital for Animals.” The Spectactor (27 June 1931): 11. [!this note may not be complete, but title of Spectator essay doesn’t refer to Fondouk or “A.”]]</note>  <quote rend="begin"/>“‘The Beasts</l>
+                  <l n="07">Fondouk<note>American Fondouk is a full-service equine hospital offering free veterinary care to poor owners of working animals in Morocco, since 1927. It also serves as an educational institution by providing information to local people about animal care.</note> by A.<bibl rend="end"/><note>“A Hospital for Animals.” The Spectactor (27 June 1931): 11. <!--Editor's note: this note may not be complete, but title of Spectator essay doesn’t refer to Fondouk or “A.”--></note>  <quote rend="begin"/>“‘The Beasts</l>
                   <l n="08">of the field &amp; the birds of the air, are</l>
                   <l n="09">all a People like unto you, and unto</l>
                   <l n="10">Allah shall they return.’  (The Karan.)”<quote rend="end"/></l>
@@ -3219,7 +3216,6 @@
                <desc/>
                <lg>
                   <l n="01">This page is missing.</l>
-                  <!--check encoding of missing page-->
                </lg>
             </div>
          </div>
