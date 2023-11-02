@@ -94,14 +94,13 @@
                   <l n="17"><bibl rend="begin"/>19 July 1930 I L News   <add>By</add></l>
                   <l n="18">A Page for Collectors    Frank Davis<note>Davis, Frank Cecil [1892-1990]. English art critic, author of numerous books about the art market and collecting, and of the recurring Illustrated London News feature, “A Page for Collectors.”</note></l>
                   <l n="19">The Story of Tapestry.<bibl rend="end"/><note>Davis, Frank. “A Page for Collectors:  The Story of Tapestry.-1. The Beginnings.” Illustrated London News (19 July 1930): 128. MM quotes the caption for a large photograph that pictures a tapestry containing an elaborate array of lavishly dressed characters: “One of the Finest Gothic Tapestries at Present in England: A Piece Believed to Have Been Made in Touraine for John Le Greffier, Who is Shown Kneeling on the Left. (Dated 1512.) John le Greffier was a member of the order of St. Clement Morrone. His punning coat of arms (three [lang=french] griffes [/lang], or claws) is to be seen at the top, in the centre. The colours of the tapestry are extraordinarily brilliant.”</note><quote rend="begin"/> Piece believed</l>
-                  <!-- where is end quote? -->
                   <l n="20">to have been made in Touraine</l>
                   <l n="21">for John Le Greffier. (1512)</l> 
                   <l n="22">See punning coat of arms (3<foreign xml:lang="fr">griffes</foreign></l> 
                   <l n="23">or claws).</l>
                   <l n="24">	 In                                        1395 Duke Phillip</l>
                   <l n="25">of Burgundy 					ordered fr the</l>
-                  <l n="26">Parisian Tapestry maker Jacques</l>
+                  <l n="26">Parisian Tapestry maker Jacques<quote rend="end"/></l>
                </lg>
             </div>
             <div type="page" n="r.0029" xml:id="nb07_02_02_0029_recto_text">
@@ -297,9 +296,23 @@
                   n="0034-verso"/>
                <desc>MM draws an ancient Persian bronze object that depicts two elongated lions with open mouths standing face to face on hind legs, from a photo essay documenting discoveries of ancient Persian bronzes in Luristan</desc>
                <lg>
-                  <l n="01"><note>“Revelatory ‘Finds’ in Ancient Persian Graves: Bronzes from Luristan Whose Historical Importance Outruns Even Their Beauty.” Illustrated London News (6 September 1930): 390-391. The caption for the photo from which MM makes her sketch reads: “Fine Examples of the Bronzes Discovered this Year in Luristan: The Top of a Ceremonial Object which was Originally Mounted on a Bottle-shaped Base--Showing Confronted Lions (Left); and an Axe Head Decorated with a Lion-mask and Having an Arrow Indicating the Sweep of the Blow.”</note><quote>top of a ceremonial object on bottle shaped base<!--should I put these in the next line?--></quote></l>
-                  <l n="02"> </l>
-                  <l n="03"><quote>Bronzes fr. Luristan Persia </quote></l>
+                  <l n="01"><note>“Revelatory ‘Finds’ in Ancient Persian Graves: Bronzes from Luristan Whose Historical Importance Outruns Even Their Beauty.” Illustrated London News (6 September 1930): 390-391. The caption for the photo from which MM makes her sketch reads: “Fine Examples of the Bronzes Discovered this Year in Luristan: The Top of a Ceremonial Object which was Originally Mounted on a Bottle-shaped Base--Showing Confronted Lions (Left); and an Axe Head Decorated with a Lion-mask and Having an Arrow Indicating the Sweep of the Blow.”</note><quote rend="begin"/>top of a ceremonial object on bottle</l>
+                  <l n="02">shaped base<quote rend="end"/></l>
+                  <l n="03"> </l>
+                  <l n="04"> </l>
+                  <l n="05"> </l>
+                  <l n="06"> </l>
+                  <l n="07"> </l>
+                  <l n="08"> </l>
+                  <l n="09"> </l>
+                  <l n="10"> </l>
+                  <l n="11"> </l>
+                  <l n="12"> </l>
+                  <l n="13"> </l>
+                  <l n="14"> </l>
+                  <l n="15"> </l>
+                  <l n="16"> </l>
+                  <l n="17"><quote>Bronzes fr. Luristan Persia </quote></l>
                </lg>
             </div>
             <div type="page" n="r.0034" xml:id="nb07_02_02_0034_recto_text">
@@ -895,8 +908,7 @@
                   <l n="03">the lower part of the portal show<quote rend="end"/></l>
                </lg>
                <lg type="vertical">
-                  <l n="v04"><!--<desc>spans the length of the side of the page</desc>--></l>
-                  <!-- what is meant by "left top right"?-->
+                  <l n="v04"><!--<desc>spans the length of the side of the page</desc>-->left									top										right</l>
                </lg>
             </div>
          </div>
@@ -2454,10 +2466,9 @@
                   n="0069-recto"/>
                <desc>Spanning lines 06-19, finely sketched drawings of a moray eel and three fish: one labelled as a batfish and 2 labelled as butterfly fish, copied from Figure 83 in A History of Fishes, by J. R. Norman (1931); on the fish between the moray and the butterfly fish, a line points to end of tail.</desc>
                <lg>
-                  <l n="01"><bibl>WP Pycraft Ill. L. News 8 Aug 1931</bibl></l>
+                  <l n="01"><bibl rend="begin"/>WP Pycraft Ill. L. News 8 Aug 1931</l>
                   <l n="02">reviewing J R Norman    Ernest Benn</l>
                   <l n="03"><hi rend="underline">The History of Fishes.</hi> <bibl rend="end"/><note>Pycraft, W. P., FZS. Rev. of J. R. Norman, A History of Fishes (Ernest Benn Limited, London: Bouverie House, 1931) Illustrated London News (8 Aug 1931): 216.</note></l>
-                  <!--line 1 and 3 repeated end source-->
                   <l n="04">         Muraena or Moray   <hi rend="pencil">Moray</hi></l>
                   <l n="05">        gymnothorax Petelli</l>
                   <l n="06"> </l>
@@ -3138,12 +3149,11 @@
                   <l n="19">New Light on Sporting Painters</l>
                   <l n="20">			Frank Davis <bibl rend="end"/><note>Davis, Frank. “New Light on Sporting Painters.” Illustrated London News (21 November 1931): 828.</note></l>
                   <l n="21"><quote rend="begin"/>An epic figure of a country gentleman</l> 
-                  <l n="22">John Levett<note>Levett, John [1721-1799]. English landowner and investor, and Tory politician.</note> hunting in the park at</l>
+                  <l n="22">John Levett<note>Levett, John [1721-1799]. English landowner and investor, and Tory politician.</note> hunting in the park at<quote rend="end"/></l>
                </lg>
                <lg type="vertical">
-                  <l n="v23"><!--<desc>span lines 22-01, left margin, in two rows of print </desc>--> Wychnor, Staffordshire an oil painting, with a fine distance, by John Ward RA<note>Ward, John RA [1769-1859]. British painter and engraver.</note> Dated <del>dated</del>1817</l>
+                  <l n="v23"><!--<desc>span lines 22-01, left margin, in two rows of print </desc>--><quote rend="begin"/> Wychnor, Staffordshire an oil painting, with a fine distance, by John Ward RA<note>Ward, John RA [1769-1859]. British painter and engraver.</note> Dated <del>dated</del>1817</l>
                   <l n="v24"><!--<desc>span lines 09-01, right margin</desc>--> in Col. Berkeley Levett’s Collection <quote rend="end"/></l>
-                  <!--quote tag spans lg21 and lg v24-->
                </lg>
             </div>
             <div type="page" n="r.0080" xml:id="nb07_02_02_0080_recto_text">
@@ -3187,7 +3197,7 @@
                   <l n="06"> (George Stubbs) <quote rend="begin"/>Mr Sparrow</l>
                   <l n="07">has discovered that the correct date is Aug 25</l>
                   <l n="08">This epoch making contribution to history</l>
-                  <l n="09">is announced as follows:   <del>A???</del><!--double check the question marks, illegible letters?-->There</l>
+                  <l n="09">is announced as follows:   <del>A<gap extent="3"/></del>There</l>
                   <l n="10">is something to be said for bathos</l>
                   <l n="11">as a vehicle of deliberate of humour,</l>
                   <l n="12"> but I submit that here it is out</l>
@@ -3334,7 +3344,6 @@
                   <l n="27" rend="poetry">                          			  <hi rend="pencil">derivation</hi></l>
                   <l n="28" rend="poetry"><hi rend="pencil">                                                                   from dog</hi></l>
                   <l n="29" rend="poetry"><hi rend="pencil">                                                                            Canis </hi></l>
-                  <!--check genre encoding-->
                </lg>
             </div>
          </div>
@@ -3466,7 +3475,7 @@
                   <l n="17">linking oxen w antelopes</l>
                   <l n="18">a pigmy archaic buffalo. (<foreign xml:lang="la">bubalis</foreign></l>
                   <l n="19"><foreign xml:lang="la">depressicornis</foreign>) Photo by D. Seth-Smith</l>
-                  <l n="20"><unclear>??tise</unclear><!--should this be unclear tag or gap tag?--> of Celebes<quote rend="end"/></l>
+                  <l n="20"><unclear><gap extent="2"/>tise</unclear> of Celebes<quote rend="end"/></l>
                   <l n="21">   ________________________________</l> 
                   <l n="22">            <bibl rend="begin"/> Natnl Geographic</l> 
                   <l n="23">                                      May 1918 <bibl rend="end"/></l>
@@ -3641,7 +3650,7 @@
                   <l n="16">several openings—no effort to</l>
                   <l n="17">conceal them—&amp;  a little trail leads</l>
                   <l n="18">away thru the soft earth.     3 or 4 <add>often</add> in brood</l>
-                  <l n="19">a series of ramifying passages .<!--space typo?--></l>
+                  <l n="19">a series of ramifying passages.</l>
                   <l n="20">roomy nest chambers &amp; store-</l>
                   <l n="21">rooms for food.</l> 
                   <l n="22">Do not hibernate—Do  not</l> 
@@ -3897,7 +3906,7 @@
                   <l n="18">trees overhanging water.      inhabiting (Central</l>
                   <l n="19">&amp; S. America) <add>will when</add> <add>a</add><del>A</del>larmed <del>it</del> drop(s)</l>
                   <l n="20">to the water &amp; scuttle along the surface</l>
-                  <l n="21">on its hind-legs—a performance more   <gap extent="1"/>crossed t below<gap extent="1"/></l> <!--check this line-->
+                  <l n="21">on its hind-legs—a performance more   </l>
                   <l n="22">efficiently performed by the young than the</l> 
                   <l n="23">heavier adults. This surprising</l>
                   <l n="24">accomplishment is rendered possible by</l>
