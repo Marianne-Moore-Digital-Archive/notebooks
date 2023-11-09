@@ -4335,20 +4335,20 @@
                </lg>
             </div>
          </div>
-         <div type="image" xml:id="nb07_02_02_0100_text">
-            <div type="page" n="v.0100" xml:id="nb07_02_02_0100_verso_text">
+         <div type="image" xml:id="nb07_02_02_00100_text">
+            <div type="page" n="v.00100" xml:id="nb07_02_02_00100_verso_text">
                <pb
-                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0100-verso.jpg"
-                  n="0100-verso"/>
+                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_00100-verso.jpg"
+                  n="00100-verso"/>
                <desc/>
                <lg>
                   <l n="01">This page is missing.</l>
                </lg>
             </div>
-            <div type="page" n="r.0100" xml:id="nb07_02_02_0100_recto_text">
+            <div type="page" n="r.00100" xml:id="nb07_02_02_00100_recto_text">
                <pb
-                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0100-recto.jpg"
-                  n="0100-recto"/>
+                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_00100-recto.jpg"
+                  n="00100-recto"/>
                <desc>From lines 2 to 5, MM draws the profile of a raven, in the middle of the page. The bird is standing and  has a distinct eye, brow, and beak, with folded wings. This may be another depiction of a hieroglyphic from the door-jamb of the Golden Bed described on the previous intact page.</desc>
                <lg>
                   <l n="01">                       raven</l>
@@ -4368,6 +4368,140 @@
                   <l n="15">Herm . . .carved from Antico</l>
                   <l n="16">Gallo, the yellow Numidian</l>
                   <l n="17">marble of Northern Africa.<quote rend="end"/></l>
+               </lg>
+            </div>
+         </div>
+         <div type="image" xml:id="nb07_02_02_00101_text">
+            <div type="page" n="v.00101" xml:id="nb07_02_02_00101_verso_text">
+               <pb
+                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_00101-verso.jpg"
+                  n="00101-verso"/>
+               <desc/>
+               <lg>
+                  <l n="01"><bibl rend="begin"/>Reminiscences of Lord Kilbracken</l>
+                  <l n="02">       Macmillan 1931<bibl rend="end"/><note>Godley, Arthur. Reminiscences of Lord Kilbracken. Macmillan, 1931. John Arthur Godley [1847-1932] was the first Baron of Kilbracken and a British civil servant. He was the longest serving Permanent Under-Secretary of State for India.</note></l>
+                  <l n="03">          .  . . .</l>
+                  <l n="04">p. 103., Lord Granville.</l>
+                  <l n="05"><quote rend="begin"/>&amp; his family stayed for some months</l>
+                  <l n="06">w his. brother, Mr Frederick</l>
+                  <l n="07">Levenson Gowes, in S. Audley St.</l>
+                  <l n="08">When this protracted visit was</l>
+                  <l n="09">coming to an end, I was going</l>
+                  <l n="10">through some political work w</l>
+                  <l n="11">him in Mr. L. G’s house,</l>
+                  <l n="12">when he suddenly said to me,</l>
+                  <l n="13">“If you were me, having stayed</l>
+                  <l n="14">here all this time &amp; given a</l>
+                  <l n="15">great deal of trouble, how</l>
+                  <l n="16">much would you give to</l>
+                  <l n="17">Freddie’s butler?<quote rend="end"/></l>
+                  <l n="18"> </l>
+                  <l n="19"><hi rend="pencil"><add>Woodbury</add></hi></l>
+                  <l n="20"><hi rend="pencil"> <add>Aug 23 32</add> <bibl rend="begin"/>Natnl Geographic</hi></l>
+                  <l n="21"><hi rend="pencil">  <hi rend="underline">May</hi> 1932</hi></l> 
+                  <l n="22"><hi rend="pencil">Our Friend the Frog by</hi></l> 
+                  <l n="23"><hi rend="pencil">Doris M. Cochran<bibl rend="end"/><note>Cochran, Doris M. “Our Friend the Frog.” National Geographic (May 1932): 628-54. Doris Cochran [1898-1968] was an American herpetologist, scientific illustrator, and curator at the Smithsonian Institution in Washington.</note><quote rend="begin"/>Assistant</hi></l>
+                  <l n="24"><hi rend="pencil">Curator—Div of Reptiles &amp;<quote rend="end"/></hi></l>
+               </lg>
+            </div>
+            <div type="page" n="r.00101" xml:id="nb07_02_02_00101_recto_text">
+               <pb
+                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_00101-recto.jpg"
+                  n="00101-recto"/>
+               <desc/>
+               <lg>
+                  <l n="01"> <note>Cochran, Doris M. “Our Friend the Frog” (see earlier note).</note><quote rend="begin"/> <hi rend="blue">Amphibians  US Natnl Museum</hi></l>
+                  <l n="02"><hi rend="blue"><del>The Female Frog Never sings</del></hi></l>
+                  <l n="03"><hi rend="blue">A Frogs memory is short.</hi></l>
+                  <l n="04"><hi rend="blue"> –.The chorus appears to have at</hi></l>
+                  <l n="05"><hi rend="blue">times a kind of rhythm, destroyed</hi></l>
+                  <l n="06"><hi rend="blue">often by a small group that seems</hi></l>
+                  <l n="07"><hi rend="blue">to have got out of <del>tune</del> time w the</hi></l>
+                  <l n="08"><hi rend="blue">music &amp; restarted once more by the</hi></l>
+                  <l n="09"><hi rend="blue">efforts of the majority, only to be</hi></l>
+                  <l n="10"><hi rend="blue">lost again by some small</hi></l>
+                  <l n="11"><hi rend="blue">nonconformist. Heard close by the</hi></l>
+                  <l n="12"><hi rend="blue">note of an individual frog loses</hi></l>
+                  <l n="13"><hi rend="blue">some of its musical quality &amp; sounds</hi></l>
+                  <l n="14"><hi rend="blue">more like the spasmodic winding</hi></l>
+                  <l n="15"><hi rend="blue">of a watch or the . . . shaking of</hi></l>
+                  <l n="16"><hi rend="blue">castanets.</hi></l>
+                  <l n="17"><hi rend="blue">The Frog can see insects only in</hi></l>
+                  <l n="18"><hi rend="blue">motion . . . Food is never so</hi></l>
+                  <l n="19"><hi rend="blue">interesting to a frog as when there</hi></l>
+                  <l n="20"><hi rend="blue">is a chance of its going down the</hi></l>
+                  <l n="21"><hi rend="blue">other fellow’s throat. To watch</hi></l> 
+                  <l n="22"><hi rend="blue">2 frogs intent upon stalking</hi></l> 
+                  <l n="23"><hi rend="blue">one insect, is to observe one of</hi></l>
+                  <l n="24"><hi rend="blue">Nature’s little comedies of manners.</hi></l>
+                  <l n="25"><hi rend="blue">Even after the food has been </hi><quote rend="end"/></l>
+               </lg>
+            </div>
+         </div>
+         <div type="image" xml:id="nb07_02_02_00102_text">
+            <div type="page" n="v.00102" xml:id="nb07_02_02_00102_verso_text">
+               <pb
+                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_00102-verso.jpg"
+                  n="00102-verso"/>
+               <desc/>
+               <lg>
+                  <l n="01"><hi rend="blue"> <note>Cochran, Doris M. “Our Friend the Frog” (see earlier note).</note><quote rend="begin"/> snapped up by one frog, the other</hi></l>
+                  <l n="02"><hi rend="blue">often makes several vain</hi></l>
+                  <l n="03"><hi rend="blue">efforts to seize it by a fast-</hi></l>
+                  <l n="04"><hi rend="blue">vanishing wing or leg, the successful</hi></l>
+                  <l n="05"><hi rend="blue">captor often having to aid his</hi></l>
+                  <l n="06"><hi rend="blue">prize to its destination by using</hi></l>
+                  <l n="07"><hi rend="blue">his hands to shove the more</hi></l>
+                  <l n="08"><hi rend="blue">difficult portions into his wide</hi></l>
+                  <l n="09"><hi rend="blue">mouth</hi></l>
+                  <l n="10"> </l>
+                  <l n="11"><hi rend="blue"> . . . tadpole—if a toe or even a</hi></l>
+                  <l n="12"><hi rend="blue">leg is nipped off, another will grow</hi></l>
+                  <l n="13"><hi rend="blue"> in its place.</hi></l>
+                  <l n="14"><hi rend="blue">cricket frog (<foreign xml:lang="la">acris gryllus</foreign>)</hi></l>
+                  <l n="15"> </l>
+                  <l n="16"><hi rend="blue">toadskins as medicine in China</hi></l>
+                  <l n="17"><hi rend="blue">produce adrenalin. In Colombia</hi></l>
+                  <l n="18"><hi rend="blue">the Indians poison their arrows</hi></l>
+                  <l n="19"><hi rend="blue">w a secretion fr the small, brill,</hi></l>
+                  <l n="20"><hi rend="blue">colored <foreign xml:lang="la">Dendrobates tinctorius</foreign></hi></l>
+                  <l n="21"><hi rend="blue">wh is less than 2 in.s in length</hi></l> 
+                  <l n="22"><hi rend="blue">when fully grown. By exposing</hi></l> 
+                  <l n="23"><hi rend="blue">it to heat near a fire, suffic</hi></l>
+                  <l n="24"><hi rend="blue">poison may be scraped fr the</hi></l>
+                  <l n="25"><hi rend="blue">back of one indiv. to poison</hi></l>
+                  <l n="26"><hi rend="blue">50 arrows <quote rend="end"/></hi></l>
+               </lg>
+            </div>
+            <div type="page" n="r.00102" xml:id="nb07_02_02_00102_recto_text">
+               <pb
+                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_00102-recto.jpg"
+                  n="00102-recto"/>
+               <desc>Spanning lines 8-14, MM draws a dog offering a bowl of food before an empty table. Behind the table are torsos of a man and woman. </desc>
+               <lg>
+                  <l n="01"><hi rend="blue"> <note>Cochran, Doris M. “Our Friend the Frog” (see earlier note).</note><quote rend="begin"/> a man can make a running</hi></l>
+                  <l n="02"><hi rend="blue">jump of not much more than 4</hi></l>
+                  <l n="03"><hi rend="blue">times his length, while any 2-in</hi></l>
+                  <l n="04"><hi rend="blue">frog . .  thinks nothing of a jump</hi></l>
+                  <l n="05"><hi rend="blue">20 times his length.<quote rend="end"/></hi></l>
+                  <l n="06"> </l>
+                  <l n="07"> </l>
+                  <l n="08"> </l>
+                  <l n="09"> </l>
+                  <l n="10"> </l>
+                  <l n="11"> </l>
+                  <l n="12">                                                                          p. 177</l>
+                  <l n="13"> </l>
+                  <l n="14"> </l>
+                  <l n="15"><quote rend="begin"/>Feast with King and Queen at Table</l>
+                  <l n="16">                    serving the feast</l>
+                  <l n="17">The Kyng was one, apparayled all in</l>
+                  <l n="18">one sewte of shorte garments.<quote rend="end"/></l>
+                  <l n="19"><bibl rend="begin"/>The English Mediaeval Feast</l>
+                  <l n="20">Wm. Ed. Mead Houghton <add>m.</add> 1931<bibl rend="end"/><note>Mead, William Edward. The English Medieval Feast. Houghton &amp; Gunn, 1931. William Edward Mead [1860-1949] was a professor at Wesleyan University and an author of numerous books.</note></l>
+               </lg>
+               <lg type="vertical">
+                  <l n="v01"><!--<desc>span lines 1-8, left margin, running from bottom to top of page, in two rows of print</desc>--><quote>misc. power of frogs</quote></l>
                </lg>
             </div>
          </div>
