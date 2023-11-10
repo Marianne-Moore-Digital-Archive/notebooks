@@ -4573,6 +4573,80 @@
                </lg>
             </div>
          </div>
+         <div type="image" xml:id="nb07_02_02_00104_text">
+            <div type="page" n="v.00104" xml:id="nb07_02_02_00104_verso_text">
+               <pb
+                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_00104-verso.jpg"
+                  n="00104-verso"/>
+               <desc/>
+               <lg>
+                  <l n="01"><note>Wheelwright, Philip E. Rev. of Dr. Kerkhoven (see earlier note).</note><bibl rend="begin"/><!--do we count black as highlight?--><del>p. 277</del> from J. Wass<add>ermann</add><foreign xml:lang="de">||Versuch eines</foreign></l>
+                  <l n="02"><del>The problem</del><foreign xml:lang="de">geistigen Autobiographie.</foreign></l>
+                  <l n="03"><foreign xml:lang="de"> Die Literarische Welt </foreign> June 26, 1931.<bibl rend="end"/></l>
+                  <l n="04"><quote rend="begin"/> “A resolve must be taken and generally at an</l>
+                  <l n="05">early point in one’s career</l>
+                  <l n="06">p. 277 the problem that confronts</l>
+                  <l n="07">us there is always this: at what level</l>
+                  <l n="08">of intensity &amp; renewal can the</l>
+                  <l n="09">outer world w all it offers of</l>
+                  <l n="10">experience &amp; life, <del>be</del> be transferred</l>
+                  <l n="11">to the inner life &amp; there be</l>
+                  <l n="12">recast in such a way that the</l>
+                  <l n="13">resultant abbreviations, which are</l>
+                  <l n="14">constructive &amp; of the order of</l>
+                  <l n="15">phantasy, can comprise on a</l>
+                  <l n="16">higher level what our immediate</l>
+                  <l n="17">experiences . . . . offer at first</l>
+                  <l n="18">hand. Well, that is exactly the</l>
+                  <l n="19">problem of form, which is nothing</l>
+                  <l n="20">more than the problem of the</l>
+                  <l n="21">artist.”</l> 
+                  <l n="22">  The ‘abbreviations’ (abbreviations)</l> 
+                  <l n="23">that are of principal interest in</l>
+                  <l n="24">any writer’s work are those by which</l>
+                  <l n="25">he happens to be preeminently</l>
+                  <l n="26">sensitive  (W: this extraord<quote rend="end"/></l>
+               </lg>
+               <lg type="vertical">
+                  <l n="v01"><!--<desc>span lines 10-21, left margin </desc>--><quote>a common phantasy-value </quote></l>
+               </lg>
+            </div>
+            <div type="page" n="r.00104" xml:id="nb07_02_02_00104_recto_text">
+               <pb
+                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_00104-recto.jpg"
+                  n="00104-recto"/>
+               <desc/>
+               <lg>
+                  <l n="01"> <note>Wheelwright, Philip E. Rev. of Dr. Kerkhoven (see earlier note).</note><quote>sensitiveness to moral atmosphere) </quote></l>
+                  <l n="02">               18 Oct. 32</l>
+                  <l n="03"><bibl rend="begin"/>Memories of Victorian  London</l>
+                  <l n="04">L. B Walford. (Ed. Arnold, 1912)<bibl rend="end"/><note>Walford, Lucy Bethia. Memories of Victorian London. (E. Arnold, 1912). Lucy Bethia Walford [1845-1915]. Scottish novelist and artist.</note></l>
+                  <l n="05">p. 7-8 <quote rend="begin"/> <del>There we sat &amp; sipped</del></l>
+                  <l n="06">. . . we went to parties in the afternoon,</l>
+                  <l n="07">differently dressed, &amp; seated aloft</l>
+                  <l n="08"> in the barouche, w its very low sides</l>
+                  <l n="09">over wh. our airy summer robes frothed</l>
+                  <l n="10">&amp; billowed . . . . We were on view</l>
+                  <l n="11">all over, as it were. . . . We wore <add> . . . .</add></l>
+                  <l n="12"><add>. . .</add> –I think the headgear I fancied</l>
+                  <l n="13">most was a very tiny cap-bonnet</l>
+                  <l n="14">of turquoise-blue crêpe, w a</l>
+                  <l n="15">single large tea rose at the side, &amp;</l>
+                  <l n="16">strings of soft, blue silk, tied in</l>
+                  <l n="17">a bow beneath the chin—while</l>
+                  <l n="18">fr. the back depended a gauze</l>
+                  <l n="19">or net veil down to the waist.</l>
+                  <l n="20">Now blue was <hi rend="underline">not the</hi> colour</l>
+                  <l n="21">that year; mauve was the colour</l> 
+                  <l n="22">&amp; that to such an extent that the</l> 
+                  <l n="23">eye wearied of the everlasting tint</l>
+                  <l n="24">&amp; Presently we had demonstration</l>
+                  <l n="25">of this by cheers fr the Oxford</l>
+                  <l n="26">undergraduates when we went</l>
+                  <l n="27">down to that ancient city for<quote rend="end"/></l>
+               </lg>
+            </div>
+         </div>
       </body>
    </text>
 </TEI>
