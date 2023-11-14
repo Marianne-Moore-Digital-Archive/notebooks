@@ -25,21 +25,56 @@
                   n="0125-verso"/>
                <desc> </desc>
                <lg>
+                  <l n="01"><note>Fanny Burney and Her Friends (see earlier note).</note><quote rend="begin"/> persuade her.  But perhaps you</l> <!--check where [qu] ends-->
+                  <l n="02">have begun something? May we ask?</l>
+                  <l n="03">Will you answer a question candidly?</l>
+                  <l n="04">F.B. I don’t know, but as candidly</l>
+                  <l n="05">as <hi rend="underline">Mrs. Candour I think </hi>I</l>
+                  <l n="06">certainly shall.</l>
+                  <l n="07">Mr. Sheridan. What then are you</l>
+                  <l n="08">about now?</l>
+                  <l n="09">F.B: Why, twirling my fan, I think!</l>
+                  <l n="10">Mr Sheridan: No, no; but what</l>
+                  <l n="11">are you about at home? However,</l>
+                  <l n="12">it is not a fair question, so I won’t</l>
+                  <l n="13">press it.</l>
+                  <l n="14">     Yet he looked very inquisitive;</l>
+                  <l n="15">but I was glad to get off without</l>
+                  <l n="16">any downright answer.</l>
+                  <l n="17">Sir J: Anything in the dialogue</l>
+                  <l n="18">way, I think, she must succeed</l>
+                  <l n="19">in; and I am sure inventions will</l>
+                  <l n="20">not be wanting<quote rend="end"/></l> 
+                  <l n="21"> </l>
+                  <l n="22"><bibl rend="begin"/>Under the Maples</l>
+                  <l n="23">       John Burroughs </l>
+                  <l n="24">     Houghton Mifflin Company </l>
+                  <l n="25">                    1921<bibl rend="end"/><note>Burroughs, John. Under the Maples. Boston: Houghton Mifflin, 1921. John Burroughs [1837-1921] was an American naturalist and nature essayist active in the United States’s conservation movement.</note></l>
+               </lg>
+            </div>
+         </div>
+         <div type="image" xml:id="nb07_02_02_0125_text">
+            <div type="page" n="r.0125" xml:id="nb07_02_02_0125_recto_text">
+               <pb
+                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0125-recto.jpg"
+                  n="0125-recto"/>
+               <desc> </desc>
+               <lg>
                   <l n="01"> </l>
                   <l n="02"> </l>
                   <l n="03"> </l>
                   <l n="04"> </l>
                   <l n="05"> </l>
                   <l n="06"> </l>
-                  <l n="07">copy known of 1<add>st</add> edition of T. Lodge’s</l>
-                  <l n="08">pastoral romance “Rosalynde” was</l>
-                  <l n="09">sold to the Rosenbach Co. of N.Y &amp; Phila</l>
-                  <l n="10">for £2400—In July 1901 this very</l>
-                  <l n="11">copy was sold for £210. 	According</l>
-                  <l n="12">to Steevens, Shakespeare followed</l>
-                  <l n="13">Rosalynde more xactly than is his</l>
-                  <l n="14">gen’l. custom when he is indebted to</l>
-                  <l n="15">such originals.<quote rend="end"/></l>
+                  <l n="07"> </l>
+                  <l n="08"> </l>
+                  <l n="09"> </l>
+                  <l n="10"> </l>
+                  <l n="11"> </l>
+                  <l n="12"> </l>
+                  <l n="13"> </l>
+                  <l n="14"> </l>
+                  <l n="15"> </l>
                   <l n="16" rend="poetry">	      Rosalynde.               <add>noursed up</add></l>
                   <l n="17" rend="poetry">  Euphues golden  le-</l>
                   <l n="18" rend="poetry">	  gacie: found after his death</l>
@@ -57,45 +92,85 @@
                   <!--check genre encoding-->
                </lg>
             </div>
-         </div>
-         <div type="image" xml:id="nb07_02_02_0125_text">
-            <div type="page" n="v.0125" xml:id="nb07_02_02_0125_verso_text">
-               <pb
-                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0125-verso.jpg"
-                  n="0125-verso"/>
-               <desc> </desc>
-               <lg>
-                  <l n="01"> </l>
-                  <l n="02"> </l>
-                  <l n="03"> </l>
-                  <l n="04"> </l>
-                  <l n="05"> </l>
-                  <l n="06"> </l>
-                  <l n="07">copy known of 1<add>st</add> edition of T. Lodge’s</l>
-                  <l n="08">pastoral romance “Rosalynde” was</l>
-                  <l n="09">sold to the Rosenbach Co. of N.Y &amp; Phila</l>
-                  <l n="10">for £2400—In July 1901 this very</l>
-                  <l n="11">copy was sold for £210. 	According</l>
-                  <l n="12">to Steevens, Shakespeare followed</l>
-                  <l n="13">Rosalynde more xactly than is his</l>
-                  <l n="14">gen’l. custom when he is indebted to</l>
-                  <l n="15">such originals.<quote rend="end"/></l>
-                  <l n="16" rend="poetry">	      Rosalynde.               <add>noursed up</add></l>
-                  <l n="17" rend="poetry">  Euphues golden  le-</l>
-                  <l n="18" rend="poetry">	  gacie: found after his death</l>
-                  <l n="19" rend="poetry">    <hi rend="underline">in his Cell at Si—</hi></l>
-                  <l n="20" rend="poetry">		     lexandria</l>
-                  <l n="21" rend="poetry">  Bequeathed to Philantus sonnes</l>
-                  <l n="22" rend="poetry">    noursed up with their</l>
-                  <l n="23" rend="poetry">	    <hi rend="underline">father in</hi>Eng-</l>
-                  <l n="24" rend="poetry">	                land.</l>
-                  <l n="25" rend="poetry">  Fetcht from the Canaries,</l>
-                  <l n="26" rend="poetry">	   By T. L. Gent.  <add>^</add></l>
-                  <l n="27" rend="poetry">                          			  <hi rend="pencil">derivation</hi></l>
-                  <l n="28" rend="poetry"><hi rend="pencil">                                                                   from dog</hi></l>
-                  <l n="29" rend="poetry"><hi rend="pencil">                                                                            Canis </hi></l>
-                  <!--check genre encoding-->
-               </lg>
+            <div type="image" xml:id="nb07_02_02_0126_text">
+               <div type="page" n="v.0126" xml:id="nb07_02_02_0126_verso_text">
+                  <pb
+                     facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0126-verso.jpg"
+                     n="0126-verso"/>
+                  <desc> </desc>
+                  <lg>
+                     <l n="01"> </l>
+                     <l n="02"> </l>
+                     <l n="03"> </l>
+                     <l n="04"> </l>
+                     <l n="05"> </l>
+                     <l n="06"> </l>
+                     <l n="07"> </l>
+                     <l n="08"> </l>
+                     <l n="09"> </l>
+                     <l n="10"> </l>
+                     <l n="11"> </l>
+                     <l n="12"> </l>
+                     <l n="13"> </l>
+                     <l n="14"> </l>
+                     <l n="15"> </l>
+                     <l n="16" rend="poetry">	      Rosalynde.               <add>noursed up</add></l>
+                     <l n="17" rend="poetry">  Euphues golden  le-</l>
+                     <l n="18" rend="poetry">	  gacie: found after his death</l>
+                     <l n="19" rend="poetry">    <hi rend="underline">in his Cell at Si—</hi></l>
+                     <l n="20" rend="poetry">		     lexandria</l>
+                     <l n="21" rend="poetry">  Bequeathed to Philantus sonnes</l>
+                     <l n="22" rend="poetry">    noursed up with their</l>
+                     <l n="23" rend="poetry">	    <hi rend="underline">father in</hi>Eng-</l>
+                     <l n="24" rend="poetry">	                land.</l>
+                     <l n="25" rend="poetry">  Fetcht from the Canaries,</l>
+                     <l n="26" rend="poetry">	   By T. L. Gent.  <add>^</add></l>
+                     <l n="27" rend="poetry">                          			  <hi rend="pencil">derivation</hi></l>
+                     <l n="28" rend="poetry"><hi rend="pencil">                                                                   from dog</hi></l>
+                     <l n="29" rend="poetry"><hi rend="pencil">                                                                            Canis </hi></l>
+                     <!--check genre encoding-->
+                  </lg>
+               </div>
+            <div type="image" xml:id="nb07_02_02_0126_text">
+                  <div type="page" n="r.0126" xml:id="nb07_02_02_0126_recto_text">
+                     <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0126-recto.jpg"
+                        n="0126-recto"/>
+                     <desc> </desc>
+                     <lg>
+                        <l n="01"> </l>
+                        <l n="02"> </l>
+                        <l n="03"> </l>
+                        <l n="04"> </l>
+                        <l n="05"> </l>
+                        <l n="06"> </l>
+                        <l n="07"> </l>
+                        <l n="08"> </l>
+                        <l n="09"> </l>
+                        <l n="10"> </l>
+                        <l n="11"> </l>
+                        <l n="12"> </l>
+                        <l n="13"> </l>
+                        <l n="14"> </l>
+                        <l n="15"> </l>
+                        <l n="16" rend="poetry">	      Rosalynde.               <add>noursed up</add></l>
+                        <l n="17" rend="poetry">  Euphues golden  le-</l>
+                        <l n="18" rend="poetry">	  gacie: found after his death</l>
+                        <l n="19" rend="poetry">    <hi rend="underline">in his Cell at Si—</hi></l>
+                        <l n="20" rend="poetry">		     lexandria</l>
+                        <l n="21" rend="poetry">  Bequeathed to Philantus sonnes</l>
+                        <l n="22" rend="poetry">    noursed up with their</l>
+                        <l n="23" rend="poetry">	    <hi rend="underline">father in</hi>Eng-</l>
+                        <l n="24" rend="poetry">	                land.</l>
+                        <l n="25" rend="poetry">  Fetcht from the Canaries,</l>
+                        <l n="26" rend="poetry">	   By T. L. Gent.  <add>^</add></l>
+                        <l n="27" rend="poetry">                          			  <hi rend="pencil">derivation</hi></l>
+                        <l n="28" rend="poetry"><hi rend="pencil">                                                                   from dog</hi></l>
+                        <l n="29" rend="poetry"><hi rend="pencil">                                                                            Canis </hi></l>
+                        <!--check genre encoding-->
+                     </lg>
+                  </div>
+               </div>
             </div>
          </div>
       </body>
