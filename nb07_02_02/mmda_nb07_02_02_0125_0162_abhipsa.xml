@@ -94,39 +94,185 @@
                      n="0126-verso"/>
                   <desc> </desc>
                   <lg>
-                     <l n="01"> </l>
-                     <l n="02"> </l>
-                     <l n="03"> </l>
-                     <l n="04"> </l>
-                     <l n="05"> </l>
-                     <l n="06"> </l>
-                     <l n="07"> </l>
-                     <l n="08"> </l>
-                     <l n="09"> </l>
-                     <l n="10"> </l>
-                     <l n="11"> </l>
-                     <l n="12"> </l>
-                     <l n="13"> </l>
-                     <l n="14"> </l>
-                     <l n="15"> </l>
-                     <l n="16" rend="poetry">	      Rosalynde.               <add>noursed up</add></l>
-                     <l n="17" rend="poetry">  Euphues golden  le-</l>
-                     <l n="18" rend="poetry">	  gacie: found after his death</l>
-                     <l n="19" rend="poetry">    <hi rend="underline">in his Cell at Si—</hi></l>
-                     <l n="20" rend="poetry">		     lexandria</l>
-                     <l n="21" rend="poetry">  Bequeathed to Philantus sonnes</l>
-                     <l n="22" rend="poetry">    noursed up with their</l>
-                     <l n="23" rend="poetry">	    <hi rend="underline">father in</hi>Eng-</l>
-                     <l n="24" rend="poetry">	                land.</l>
-                     <l n="25" rend="poetry">  Fetcht from the Canaries,</l>
-                     <l n="26" rend="poetry">	   By T. L. Gent.  <add>^</add></l>
-                     <l n="27" rend="poetry">                          			  <hi rend="pencil">derivation</hi></l>
-                     <l n="28" rend="poetry"><hi rend="pencil">                                                                   from dog</hi></l>
-                     <l n="29" rend="poetry"><hi rend="pencil">                                                                            Canis </hi></l>
-                     <!--check genre encoding-->
+                     <l n="01"><note>Beavan, Arthur Henry. Animals I Have Known (see earlier note).</note><quote rend="begin"/>whither poor pussy was conveyed</l>
+                     <l n="02">by train. <add>After A few</add> days the cat</l>
+                     <l n="03">[03]was missing fr her new quarters,</l>
+                     <l n="04">&amp; later on in the week was found</l>
+                     <l n="05">sitting on the doorstep of her old</l>
+                     <l n="06">home,  . . . . she looked as though</l>
+                     <l n="07">she had had a somewhat rough time,</l>
+                     <l n="08">at wh. there can be little wonder,</l>
+                     <l n="09">seeing the distance from Chelmsford</l>
+                     <l n="10">to Bellington is some three hundred</l>
+                     <l n="11">miles.</l>
+                     <l n="12">177  mother cats sometimes take</l>
+                     <l n="13">strange likings to the young of</l>
+                     <l n="14">animals &amp; birds, especially when</l>
+                     <l n="15">deprived of their own offspring.</l>
+                     <l n="16">Thus a Tabby recently took</l>
+                     <l n="17">temporary charge of six newly-</l>
+                     <l n="18">hatched chickens, carefully</l>
+                     <l n="19">protecting them from injury. Another</l>
+                     <l n="20">acted as foster-mother to ten</l>
+                     <l n="21">ducklings . . . .<quote rend="end"/></l>
+                     <l n="22"> </l>
+                     <l n="23"><bibl rend="begin"/>Sea-Shore Life</l>
+                     <l n="24">The Invertebrates of the NY<bibl rend="end"/><note>Mayer, Alfred Goldborough. Sea-Shore Life: The Invertebrates of the New York Coast and the Adjacent Coast Region. New York: New York Zoological Society, 1905. Alfred Goldborough Mayer [1868-1922] was an American marine biologist and zoologist and popular science writer.</note></l>
                   </lg>
                </div>
-            <div type="image" xml:id="nb07_02_02_0126_text">
+               <div type="image" xml:id="nb07_02_02_0126_text">
+                  <div type="page" n="v.0126" xml:id="nb07_02_02_0126_verso_text">
+                     <pb
+                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0126-verso.jpg"
+                        n="0126-verso"/>
+                     <desc> </desc>
+                     <lg>
+                        <l n="01"> </l>
+                        <l n="02"> </l>
+                        <l n="03"> </l>
+                        <l n="04"> </l>
+                        <l n="05"> </l>
+                        <l n="06"> </l>
+                        <l n="07"> </l>
+                        <l n="08"> </l>
+                        <l n="09"> </l>
+                        <l n="10"> </l>
+                        <l n="11"> </l>
+                        <l n="12"> </l>
+                        <l n="13"> </l>
+                        <l n="14"> </l>
+                        <l n="15"> </l>
+                        <l n="16"> </l>
+                        <l n="17"> </l>
+                        <l n="18"> </l>
+                        <l n="19"> </l>
+                        <l n="20"> </l>
+                        <l n="21"> </l>
+                        <l n="22"> </l>
+                        <l n="23"> </l>
+                        <l n="24"> </l>
+                        <l n="25"> </l>
+                        <l n="26"> </l>
+                        <l n="27"> </l>
+                        <l n="28"> </l>
+                        <l n="29"> </l>
+                     </lg>
+                  </div>
+                  <div type="image" xml:id="nb07_02_02_0126_text">
+                     <div type="page" n="v.0126" xml:id="nb07_02_02_0126_verso_text">
+                        <pb
+                           facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0126-verso.jpg"
+                           n="0126-verso"/>
+                        <desc> </desc>
+                        <lg>
+                           <l n="01"> </l>
+                           <l n="02"> </l>
+                           <l n="03"> </l>
+                           <l n="04"> </l>
+                           <l n="05"> </l>
+                           <l n="06"> </l>
+                           <l n="07"> </l>
+                           <l n="08"> </l>
+                           <l n="09"> </l>
+                           <l n="10"> </l>
+                           <l n="11"> </l>
+                           <l n="12"> </l>
+                           <l n="13"> </l>
+                           <l n="14"> </l>
+                           <l n="15"> </l>
+                           <l n="16"> </l>
+                           <l n="17"> </l>
+                           <l n="18"> </l>
+                           <l n="19"> </l>
+                           <l n="20"> </l>
+                           <l n="21"> </l>
+                           <l n="22"> </l>
+                           <l n="23"> </l>
+                           <l n="24"> </l>
+                           <l n="25"> </l>
+                           <l n="26"> </l>
+                           <l n="27"> </l>
+                           <l n="28"> </l>
+                           <l n="29"> </l>
+                        </lg>
+                     </div>
+                     <div type="image" xml:id="nb07_02_02_0126_text">
+                        <div type="page" n="v.0126" xml:id="nb07_02_02_0126_verso_text">
+                           <pb
+                              facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0126-verso.jpg"
+                              n="0126-verso"/>
+                           <desc> </desc>
+                           <lg>
+                              <l n="01"> </l>
+                              <l n="02"> </l>
+                              <l n="03"> </l>
+                              <l n="04"> </l>
+                              <l n="05"> </l>
+                              <l n="06"> </l>
+                              <l n="07"> </l>
+                              <l n="08"> </l>
+                              <l n="09"> </l>
+                              <l n="10"> </l>
+                              <l n="11"> </l>
+                              <l n="12"> </l>
+                              <l n="13"> </l>
+                              <l n="14"> </l>
+                              <l n="15"> </l>
+                              <l n="16"> </l>
+                              <l n="17"> </l>
+                              <l n="18"> </l>
+                              <l n="19"> </l>
+                              <l n="20"> </l>
+                              <l n="21"> </l>
+                              <l n="22"> </l>
+                              <l n="23"> </l>
+                              <l n="24"> </l>
+                              <l n="25"> </l>
+                              <l n="26"> </l>
+                              <l n="27"> </l>
+                              <l n="28"> </l>
+                              <l n="29"> </l>
+                           </lg>
+                        </div>
+                        <div type="image" xml:id="nb07_02_02_012 _text">
+                           <div type="page" n="v.0126" xml:id="nb07_02_02_012 _verso_text">
+                              <pb
+                                 facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0126-verso.jpg"
+                                 n="0126-verso"/>
+                              <desc> </desc>
+                              <lg>
+                                 <l n="01"> </l>
+                                 <l n="02"> </l>
+                                 <l n="03"> </l>
+                                 <l n="04"> </l>
+                                 <l n="05"> </l>
+                                 <l n="06"> </l>
+                                 <l n="07"> </l>
+                                 <l n="08"> </l>
+                                 <l n="09"> </l>
+                                 <l n="10"> </l>
+                                 <l n="11"> </l>
+                                 <l n="12"> </l>
+                                 <l n="13"> </l>
+                                 <l n="14"> </l>
+                                 <l n="15"> </l>
+                                 <l n="16"> </l>
+                                 <l n="17"> </l>
+                                 <l n="18"> </l>
+                                 <l n="19"> </l>
+                                 <l n="20"> </l>
+                                 <l n="21"> </l>
+                                 <l n="22"> </l>
+                                 <l n="23"> </l>
+                                 <l n="24"> </l>
+                                 <l n="25"> </l>
+                                 <l n="26"> </l>
+                                 <l n="27"> </l>
+                                 <l n="28"> </l>
+                                 <l n="29"> </l>
+                              </lg>
+                           </div>                        
+            <div type="image" xml:id="nb07_02_02_012 _text">
                   <div type="page" n="r.0126" xml:id="nb07_02_02_0126_recto_text">
                      <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0126-recto.jpg"
@@ -168,6 +314,7 @@
                </div>
             </div>
          </div>
+         
       </body>
    </text>
 </TEI>
