@@ -53,7 +53,6 @@
                </lg>
             </div>
          </div>
-         <div type="image" xml:id="nb07_02_02_0125_text">
             <div type="page" n="r.0125" xml:id="nb07_02_02_0125_recto_text">
                <pb
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0125-recto.jpg"
@@ -120,8 +119,7 @@
                      <l n="24">The Invertebrates of the NY<bibl rend="end"/><note>Mayer, Alfred Goldborough. Sea-Shore Life: The Invertebrates of the New York Coast and the Adjacent Coast Region. New York: New York Zoological Society, 1905. Alfred Goldborough Mayer [1868-1922] was an American marine biologist and zoologist and popular science writer.</note></l>
                   </lg>
                </div>
-               <div type="image" xml:id="nb07_02_02_0126_text">
-                  <div type="page" n="r.0126" xml:id="nb07_02_02_0126_recto_text">
+                <div type="page" n="r.0126" xml:id="nb07_02_02_0126_recto_text">
                      <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0126-recto.jpg"
                         n="0126-recto"/>
@@ -130,6 +128,7 @@
                         <l n="01">This page is missing from the notebook </l> 
                      </lg>
                   </div>
+            </div>
                   <div type="image" xml:id="nb07_02_02_0127_text">
                      <div type="page" n="v.0127" xml:id="nb07_02_02_0127_verso_text">
                         <pb
@@ -139,11 +138,11 @@
                            <l n="01">This page is missing from the notebook </l>
                         </lg>
                      </div>
-                     <div type="image" xml:id="nb07_02_02_0127_text">
-                        <div type="page" n="r.0126" xml:id="nb07_02_02_0127_recto_text">
+                     <div type="image" xml:id="nb07_02_02_0127_recto_text">
                            <pb
                               facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0127-recto.jpg"
                               n="0127-recto"/>
+                        <desc>MM draws a chambered nautilus on lines 12 through 17</desc>
                            <lg>
                               <l n="01"><bibl rend="begin"/>Coast</l>
                               <l n="02">Alfred Goldborough Mayer</l>
@@ -167,8 +166,8 @@
                               <l n="20">by  P. P. Howe   N.Y.</l>
                               <l n="21">Mitchell Kinnerley MCMXII<bibl rend="end"/><note>Howe, Percival Presland. J. M. Synge: A Critical Study. New York: Mitchell Kennerly, 1912. Percival Presland Howe [1886-1944] wrote numerous critical works, including studies of Bernard Shaw and William Hazlitt.</note></l>
                            </lg>
-                           <desc>MM draws a chambered nautilus on lines 12 through 17</desc>
                         </div>
+                  </div>
                         <div type="image" xml:id="nb07_02_02_0128_text">
                            <div type="page" n="v.0128" xml:id="nb07_02_02_0128_verso_text">
                               <pb
@@ -179,9 +178,9 @@
                                  <l n="01"><note>Howe, Percival Presland.  J. M. Synge (see earlier note).</note><quote rend="begin"/>Note: This is not a biographical</l>
                                  <l n="02">study of JM. Synge. Lies</l>
                                  <l n="03"> &amp;lives will be written of him.</l>
-                                 <l n="04">[04]Enid Mr. Masfield who</l>
-                                 <l n="05">[05]was Synge’s friend; it is my</l>
-                                 <l n="06">[06]w<add>i</add>sh not to add to either.<quote rend="end"/></l>
+                                 <l n="04">Enid Mr. Masfield who</l>
+                                 <l n="05">was Synge’s friend; it is my</l>
+                                 <l n="06">w<add>i</add>sh not to add to either.<quote rend="end"/></l>
                                  <l n="07">        <bibl rend="begin"/>Silas Marner</l>
                                  <l n="08">              The weaver of Raveloe</l>
                                  <l n="09"> By the author of</l>
@@ -198,47 +197,44 @@
                                  <l n="20">following work by mail postage</l>
                                  <l n="21">paid (for any distance in the United</l>
                                  <l n="22">States under 3000 miles), on receipt</l>
-                                 <l n="23">of the money.”<quote rend="begin"/></l>
+                                 <l n="23">of the money.”<quote rend="end"/></l>
                               </lg>
                            </div>  
-                           <div type="image" xml:id="nb07_02_02_0128_text">
                               <div type="page" n="r.0128" xml:id="nb07_02_02_0128_recto_text">
                                  <pb
                                     facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0128-recto.jpg"
                                     n="0128-recto"/>
                                  <desc> </desc>
                                  <lg>
-                                    <l n="01"> </l>
-                                    <l n="02"> </l>
-                                    <l n="03"> </l>
-                                    <l n="04"> </l>
-                                    <l n="05"> </l>
-                                    <l n="06"> </l>
-                                    <l n="07"> </l>
-                                    <l n="08"> </l>
-                                    <l n="09"> </l>
-                                    <l n="10"> </l>
-                                    <l n="11"> </l>
-                                    <l n="12"> </l>
-                                    <l n="13"> </l>
-                                    <l n="14"> </l>
-                                    <l n="15"> </l>
-                                    <l n="16"> </l>
-                                    <l n="17"> </l>
-                                    <l n="18"> </l>
-                                    <l n="19"> </l>
-                                    <l n="20"> </l>
-                                    <l n="21"> </l>
-                                    <l n="22"> </l>
-                                    <l n="23"> </l>
-                                    <l n="24"> </l>
-                                    <l n="25"> </l>
-                                    <l n="26"> </l>
-                                    <l n="27"> </l>
-                                    <l n="28"> </l>
-                                    <l n="29"> </l>
+                                    <l n="01">         <note>Ad. de Tocqueville’s The Old Regime (see earlier note).</note><quote rend="begin"/>The Old Regime</l>
+                                    <l n="02">                             and</l>
+                                    <l n="03">         The Revolution</l>
+                                    <l n="04">                                By</l>
+                                    <l n="05">           Alexis de Tocqueville,</l>
+                                    <l n="06">   A calm philosophical inquiry into</l>
+                                    <l n="07">the causes of the French Revolution,</l>
+                                    <l n="08">&amp; the working of the Old Regime.</l>
+                                    <l n="09">In this work, M. de Tocqueville</l>
+                                    <l n="10">has daguerrotyped French political</l>
+                                    <l n="11">society under the old monarchy;</l>
+                                    <l n="12">shown us where the real power lay;</l>
+                                    <l n="13">. . . what was the real condition</l>
+                                    <l n="14">of the nobility, of the clergy, of the</l>
+                                    <l n="15">middle classes, of the “people,” of</l>
+                                    <l n="16">the peasantry; wherein France</l>
+                                    <l n="17">differed fr all other countries in Europe</l>
+                                    <l n="18">; why a Rev. was inevitable. The</l>
+                                    <l n="19">information arrived at under these</l>
+                                    <l n="20"><add>various</add> heads, it may safely be said, is now</l>
+                                    <l n="21">first printed. It has been obtained,</l>
+                                    <l n="22">as M. de T. informs us, mainly</l>
+                                    <l n="23">fr [!shorthand!]the records of the old intendants’</l>
+                                    <l n="24">offices &amp; the Council of State. Of</l>
+                                    <l n="25">the labor devoted to the task an</l>
+                                    <l n="26">idea may be formed fr the author’s<quote rend="end"/></l>
                                  </lg>
                               </div> 
+                        </div>
                               <div type="image" xml:id="nb07_02_02_0126_text">
                                  <div type="page" n="v.0126" xml:id="nb07_02_02_0126_verso_text">
                                     <pb
