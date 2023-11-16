@@ -3166,9 +3166,9 @@
                   <l n="02">I.L.N.<bibl rend="end"/><note>Schaeffer, F. A. C. “A New Chapter in Ancient History.” Illustrated London News (21 November 1931): 806-809.</note></l>
                </lg>
                <lg type="vertical">
-                  <l n="v03">Circular with a movable engraved lid—</l>
+                  <l n="v03"><quote rend="begin"/>Circular with a movable engraved lid—</l>
                   <l n="v04">others in the form of ducks with reverted heads</l>
-                  <l n="v05">&amp; the lid formed of the wings pivoting on a knob<note>MM refers to a similar figure in “The Jerboa”</note></l>
+                  <l n="v05">&amp; the lid formed of the wings pivoting on a knob<note>MM refers to a similar figure in “The Jerboa.”</note></l>
                   <l n="v06">gold pendant</l>
                   <l n="v07">conventionalized</l>
                   <l n="v08">figure of  <hi rend="underline">astarte </hi></l>
@@ -3178,7 +3178,7 @@
                   <l n="v12">Ivories of the 14th-13th centuries B.C. Toilet-paint</l>
                   <l n="v13">vases . . including 2 in the form of ducks; w a glass</l>
                   <l n="v14">work of a Negro fr Egypt found at minet-el-Beida<note>Minet el-Beida is a small bay in Syria, on the coast of the Mediterranean Sea.</note></l>
-                  <l n="v15">among the treasures of a princess.<quote rend="end"/></l><!--missing begin quote-->
+                  <l n="v15">among the treasures of a princess.<quote rend="end"/></l>
                </lg>
             </div>
          </div>
@@ -3190,7 +3190,7 @@
                <desc> in line 09, MM makes ellipses vertical on the page after “follows:”; line 01, she draws a diagonal line between June 3 and 1931, in left corner</desc>
                <lg>
                   <l n="01">June 3 <add>1931</add> <bibl rend="begin"/> 21 Nov 1931 ILN.</l>
-                  <l n="02"><!--double check 2 begin source tags-->New Light on Sporting painters. Being</l>
+                  <l n="02">New Light on Sporting painters. Being</l><!--double check begin source tags-->
                   <l n="03">an apprec. of A Book of Sporting Painters</l>
                   <l n="04">by Walter Shaw Sparrow. By Frank</l>
                   <l n="05"><add>Aug 24 1724</add>          Davis<bibl rend="end"/><note>Davis, Frank. “New Light on Sporting Painters.” Rev. of A Book of Sporting Painters by Walter Shaw Sparrow. Illustrated London News (21 November 1931): 828.</note></l>
@@ -4041,7 +4041,7 @@
                   <l n="23">Photographs by Dr. Spencer R. Atkinson</l>
                   <l n="24">Reproduced by courtesy of Ntnil Geographic</l>
                   <l n="25">Magazine   (Agnes Akin Atkinson<note>Atkinson, Agnes Akin. “Befriending Nature’s Children.” National Geographic (February 1932): 199-215. Photographs reproduced in “The Camera as Spy Upon the Wild.”</note></l>
-                  <l n="26"> gives description.             A round-tailed<quote rend="end"/><!--begin quote a round tailed?--></l>
+                  <l n="26"> gives description.             <quote>A round-tailed</quote></l>
                </lg>
             </div>
          </div>
@@ -4580,7 +4580,7 @@
                   n="00104-verso"/>
                <desc/>
                <lg>
-                  <l n="01"><note>Wheelwright, Philip E. Rev. of Dr. Kerkhoven (see earlier note).</note><bibl rend="begin"/><!--do we count black as highlight?--><del>p. 277</del> from J. Wass<add>ermann</add><foreign xml:lang="de">||Versuch eines</foreign></l>
+                  <l n="01"><note>Wheelwright, Philip E. Rev. of Dr. Kerkhoven (see earlier note).</note><bibl rend="begin"/><del>p. 277</del> from J. Wass<add>ermann</add><foreign xml:lang="de">||Versuch eines</foreign></l>
                   <l n="02"><del>The problem</del><foreign xml:lang="de">geistigen Autobiographie.</foreign></l>
                   <l n="03"><foreign xml:lang="de"> Die Literarische Welt </foreign> June 26, 1931.<bibl rend="end"/></l>
                   <l n="04"><quote rend="begin"/> “A resolve must be taken and generally at an</l>
@@ -4676,7 +4676,7 @@
                   <l n="20">walkers too crowded each</l>
                   <l n="21"> other as they paraded up and down,</l> 
                   <l n="22">&amp; all were smartly dressed.</l> 
-                  <l n="23">112 Mrs. Proctor (<del></del><!--should I encode this as an illegible characger?-->&amp;<add>of</add> the poet</l>
+                  <l n="23">112 Mrs. Proctor (<del>&amp;</del>&amp;<add>of</add> the poet</l>
                   <l n="24">Rogers.) I had invited him to</l>
                   <l n="25">dinner &amp; <del>in reply</del> received in<quote rend="end"/></l>
                </lg>
