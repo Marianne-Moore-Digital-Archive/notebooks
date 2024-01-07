@@ -469,19 +469,19 @@
                                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0132-recto.jpg"
                                  n="0132-recto"/>
                               <lg>
-                                 <l n="01"><note>Bonar, Horatius.  Hymns of Faith &amp; Hope (see earlier note).</note><quote rend="begin"/>[g=v]Goodness is thine,</l>
-                                 <l n="02">      Lord pity me!</l>
-                                 <l n="03">Evil is mine.</l>
-                                 <l n="04">      Forsake not me!</l>
-                                 <l n="05">                    Repeat</l>
-                                 <l n="06">All light is thine,</l>
-                                 <l n="07">      Oh shine on me!</l>
-                                 <l n="08">Darkness is mine,</l>
-                                 <l n="09">       Enlighten me!</l>
-                                 <l n="10">True life is thine,</l>
-                                 <l n="11">     Breathe it on me;</l>
-                                 <l n="12">All death is mine.</l>
-                                 <l n="13">     Oh quicken me![/g]</l>
+                                 <l n="01" rend="verse"><note>Bonar, Horatius.  Hymns of Faith &amp; Hope (see earlier note).</note><quote rend="begin"/>Goodness is thine,</l>
+                                 <l n="02" rend="verse">      Lord pity me!</l>
+                                 <l n="03" rend="verse">Evil is mine.</l>
+                                 <l n="04" rend="verse">      Forsake not me!</l>
+                                 <l n="05" rend="verse">                    Repeat</l>
+                                 <l n="06" rend="verse">All light is thine,</l>
+                                 <l n="07" rend="verse">      Oh shine on me!</l>
+                                 <l n="08" rend="verse">Darkness is mine,</l>
+                                 <l n="09" rend="verse">       Enlighten me!</l>
+                                 <l n="10" rend="verse">True life is thine,</l>
+                                 <l n="11" rend="verse">     Breathe it on me;</l>
+                                 <l n="12" rend="verse">All death is mine.</l>
+                                 <l n="13" rend="verse">     Oh quicken me!</l>
                                  <l n="14"> </l>
                                  <l n="15">      (Mr. Martins p. c. book of Ireland)</l>
                                  <l n="16">Glasgow <del>Union</del> Cathedral</l>
@@ -523,43 +523,36 @@
                                     <l n="20"> </l>
                                     <l n="21">First Balcony by<bibl rend="end"/><note>Wright, Richardson. “First Balcony: The End of Quilts” The Sunday Review of the Brooklyn Daily Eagle. (18 March 1934): 13. Richardson L. Wright [1886-1961] was the editor of House and Garden museum and an author and lecturer on eclectic topics, including home and garden and early Americana. He was a literary critic for the New York Times from 1911-1914.</note></l>
                                  </lg>
-                              </div>               
-                              <div type="image" xml:id="nb07_02_02_0126_text">
-                                 <div type="page" n="v.0126" xml:id="nb07_02_02_0126_verso_text">
+                              </div>              
+                                 <div type="page" n="r.0133" xml:id="nb07_02_02_0133_recto_text">
                                     <pb
-                                       facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0126-verso.jpg"
-                                       n="0126-verso"/>
+                                       facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0133-recto.jpg"
+                                       n="0133-recto"/>
                                     <desc> </desc>
                                     <lg>
-                                       <l n="01"> </l>
-                                       <l n="02"> </l>
-                                       <l n="03"> </l>
-                                       <l n="04"> </l>
-                                       <l n="05"> </l>
-                                       <l n="06"> </l>
-                                       <l n="07"> </l>
+                                       <l n="01"><note>Wright, Richardson. “First Balcony” (see earlier note).</note><bibl rend="begin"/>Richardson Wright: The End</l>
+                                       <l n="02"> of quilts.<bibl rend="end"/></l>
+                                       <l n="03"> <quote rend="begin"/>It was once customary in Spain</l>
+                                       <l n="04">for fine ladies to send their</l>
+                                       <l n="05"> wedding dresses to <del>convents</del></l>
+                                       <l n="06">convents, where the nuns</l>
+                                       <l n="07"> used the silk for making vestments.<quote rend="end"/></l>
                                        <l n="08"> </l>
-                                       <l n="09"> </l>
-                                       <l n="10"> </l>
+                                       <l n="09"><bibl rend="begin"/>H. James. (p. 25 of my notes)</l>
+                                       <l n="10"> fr Notes of a Son &amp; Brother (?)<bibl rend="end"/><note>James, Henry. Notes of a Son and Brother. New York: Macmillan, 1914.</note></l>
                                        <l n="11"> </l>
-                                       <l n="12"> </l>
-                                       <l n="13"> </l>
-                                       <l n="14"> </l>
-                                       <l n="15"> </l>
+                                       <l n="12"><quote rend="begin"/>(his father) a chartered rebel</l>
+                                       <l n="13">against cold reserves—the sense</l>
+                                       <l n="14">of communicable pleasure in his</l>
+                                       <l n="15"> breast was positively explosive.<quote rend="end"/></l>
                                        <l n="16"> </l>
-                                       <l n="17"> </l>
-                                       <l n="18"> </l>
-                                       <l n="19"> </l>
-                                       <l n="20"> </l>
-                                       <l n="21"> </l>
-                                       <l n="22"> </l>
-                                       <l n="23"> </l>
-                                       <l n="24"> </l>
-                                       <l n="25"> </l>
-                                       <l n="26"> </l>
-                                       <l n="27"> </l>
-                                       <l n="28"> </l>
-                                       <l n="29"> </l>
+                                       <l n="17">     <bibl rend="begin"/>Mergenthaler Linotype  Co</l>
+                                       <l n="18">29 Ryerson St.     Brooklyn</l>
+                                       <l n="19">Portfolio quoting <bibl rend="begin"/>Printer’s Marks</l>
+                                       <l n="20">W. Roberts<bibl rend="end"/><note>Roberts, William. Printers’ Marks: A Chapter in the History of Typography. London: George Bell &amp; Sons, 1893.</note>  p. 91    <del>by W Roberts</del> </l>
+                                       <l n="21"></l>
+                                       <l n="22">    <quote rend="begin"/>Thomas Creede 1588-1618 </l>
+                                       <l n="23">Whose shop was at the sign of the<quote rend="end"/></l>
                                     </lg>
                                  </div>                                             
                               <div type="image" xml:id="nb07_02_02_0126_text">
