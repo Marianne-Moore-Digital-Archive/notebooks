@@ -3336,7 +3336,7 @@
                   <l n="01"><note>Ellis, Havelock. "Proust" (see earlier note).</note><hi rend="blue">life.</hi><hi rend="pencil">art?</hi></l>
                   <l n="02"><hi rend="blue">Oxford Lectures on Poetry</hi></l>
                   <l n="03"><hi rend="blue">E de Selincourt<note>De Selincourt, Ernest. <title>Oxford Lectures on Poetry</title>. Oxford: The Clarendon Press, 1934.</note>   quotes <hi rend="underline">Robt</hi></hi></l>
-                  <l n="04"><hi rend="blue"><hi rend="underline">Bridges<note>Bridges, Robert Seymour [1844-1930]. English poet and critic. MM mentions him favorably in both letters and published prose.</note></hi>   The Testament of Beauty</hi></l>
+                  <l n="04"><hi rend="blue"><hi rend="underline">Bridges<note target="bridges">Bridges, Robert Seymour [1844-1930]. English poet and critic. MM mentions him favorably in both letters and published prose.</note></hi>   The Testament of Beauty</hi></l>
                   <l n="05"><hi rend="blue">verily by Beauty it is that we come at</hi></l>
                   <l n="06"><hi rend="blue">wisdom.</hi></l>
                   <l n="07"><hi rend="blue"><hi rend="underline">Blake</hi>: "enthusiastic admiration</hi></l>
@@ -3379,9 +3379,9 @@
                   <l n="09"></l>
                   <l n="10"><hi rend="blue"><bibl type="begin"/>Exhibition of Paintings by</hi></l>
                   <l n="11"><hi rend="blue">          Salvador Dali</hi></l>
-                  <l n="12"><hi rend="blue">   Julien Levy<note>Julien Levy [1906-1981]. American art dealer known for launching the careers of some of the most significant artists of the twentieth century. With the help of his mother-in-law, poet Mina Loy, he was the first to exhibit the work of the Surrealists in New York.</note>Gallery.</hi></l>
+                  <l n="12"><hi rend="blue">   Julien Levy<note target="levy">Julien Levy [1906-1981]. American art dealer known for launching the careers of some of the most significant artists of the twentieth century. With the help of his mother-in-law, poet Mina Loy, he was the first to exhibit the work of the Surrealists in New York.</note>Gallery.</hi></l>
                   <l n="13"><hi rend="blue">        602  Madison   Avenue</hi></l>
-                  <l n="14"><hi rend="blue">   November 21<hi rend="superscript">st</hi>  to Dec 8<hi rend="superscript">th</hi><bibl type="end"/><note>MM quotes painting titles from a Julian Levy Gallery exhibition of the work of Salvador Dalí.</note><!-- I tried to find the catalogue for this exhibition, but unfortunately no luck. CN! --></hi></l>
+                  <l n="14"><hi rend="blue">   November 21<hi rend="superscript">st</hi>  to Dec 8<hi rend="superscript">th</hi><bibl type="end"/><note>MM quotes painting titles from a Julien Levy Gallery exhibition of the work of Salvador Dalí.</note><!-- I tried to find the catalogue for this exhibition, but unfortunately no luck. CN! --><!-- I have fixed a typo in the spelling of Levy's name. EF! --></hi></l>
                   <l n="15"></l>
                   <l n="16"><hi rend="blue"><quote rend="begin"/><del>4</del>  2.  Coiffeur distressed by</hi></l>
                   <l n="17"><hi rend="blue">persistent fair weather</hi></l>
@@ -3417,15 +3417,15 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0199-recto.jpg"
                   n="0199-recto"/>
                <lg>
-                  <l n="01"><hi rend="blue"><bibl type="begin"/>         Jan   3rd to 20th 1936    J. Le<add>vey</add><bibl type="end"/><note>MM apparently quotes painting titles from another Julian Levy Gallery exhibition.</note></hi></l>
-                  <l n="02"><hi rend="blue">           <quote rend="begin"/>René Magritte<note>Magritte, René François Ghislain [1898-1967]. Belgian Surrealist artist.</note></hi></l>
+                  <l n="01"><hi rend="blue"><bibl type="begin"/>         Jan   3rd to 20th 1936    J. Le<add>vey</add><bibl type="end"/><note>MM apparently quotes painting titles from another Julien Levy Gallery exhibition.<!-- I have fixed a typo in the spelling of Levy's name. EF! --></note></hi></l>
+                  <l n="02"><hi rend="blue">           <quote rend="begin"/>René Magritte<note target="magritte">Magritte, René François Ghislain [1898-1967]. Belgian Surrealist artist.</note></hi></l>
                   <l n="03"><hi rend="blue">11. The beautiful Captvie</hi></l>
                   <l n="04"></l>
                   <l n="05"><hi rend="blue">18. Difficult insult.<quote rend="end"/></hi></l>
                   <l n="06"><hi rend="blue">                                                  1936</hi></l>
-                  <l n="07"><hi rend="blue"><bibl type="begin"/>Jacques Lipchitz<note>Lipchitz, Jacques [1891-1973]. French-American Cubist sculptor.</note></hi></l>
+                  <l n="07"><hi rend="blue"><bibl type="begin"/>Jacques Lipchitz<note target="lipchitz">Lipchitz, Jacques [1891-1973]. French-American Cubist sculptor.</note></hi></l>
                   <l n="08"><hi rend="blue">Brummer Gallery      55 East 57<hi rend="superscript">th</hi> St, NY</hi></l>
-                  <l n="09"><hi rend="blue">    December 2 - January 31<bibl type="end"/><note>Faure, Élie. <title>Jacques Lipschitz.</title>Brummer Gallery Catalog (text by Faure). Exhibit, December 1935-January 1936.</note></hi></l>
+                  <l n="09"><hi rend="blue">    December 2 - January 31<bibl type="end"/><note target="faure">Faure, Élie. <title>Jacques Lipchitz</title>. Brummer Gallery Catalog (text by Faure). Exhibit, December 1935-January 1936.<!-- I have fixed a typo in the spelling of Lipchitz's name. EF! --></note></hi></l>
                   <l n="10"><hi rend="blue">Elie Faure<note>Faure, Élie [1873-1937]. French art historian and essayist.</note>:<quote rend="begin"/>Introduction . . . Tactual</hi></l>
                   <l n="11"><hi rend="blue">values change like social values.</hi></l>
                   <l n="12"><hi rend="blue">And the <unclear>virile</unclear>acceptance of this</hi></l>
@@ -3450,7 +3450,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0200-verso.jpg"
                   n="0200-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Faure, Elie. <title>Jacques Lipschitz</title>(see earlier note).</note><quote rend="begin"/>the three Unities, Lenotre's Garden,</hi></l>
+                  <l n="01"><hi rend="blue"><note>Faure, Elie. <title>Jacques Lipchitz</title>(see earlier note).<!-- I have fixed a typo in the spelling of Lipchitz's name. EF! --></note><quote rend="begin"/>the three Unities, Lenotre's Garden,</hi></l>
                   <l n="02"><hi rend="blue">the Metric System&#8212;seems to me,</hi></l>
                   <l n="03"><hi rend="blue">more than any other in all history,</hi></l>
                   <l n="04"><hi rend="blue">resolved to organize an intellectual</hi></l>
@@ -3572,7 +3572,7 @@
                   <l n="18"><hi rend="blue"><quote rend="begin"/><add>see</add>Spencer <hi rend="underline">c</hi>ollection of Illustrated</hi></l>
                   <l n="19"><hi rend="blue"><del>AMS's</del>Books in the NYP.L. &amp;</hi></l>
                   <l n="20"><hi rend="blue">monograph in the Bulletin</hi></l>
-                  <l n="21"><hi rend="blue">by Karl Kuep.<note>MM misspells the name of Karl Kup (1903-1981), art historian and curator of the Spencer Collection at the NYPL.</note>      This is the</hi></l>
+                  <l n="21"><hi rend="blue">by Karl Kuep.<note>MM misspells the name of Karl Kup (1903-1981), art historian and curator of the Spencer Collection at the NYPL. <!-- should Kup be added to the glossary? EF! --></note>      This is the</hi></l>
                   <l n="22"><hi rend="blue"><foreign xml:lang="la">Ars Moriendi</foreign>           Venice c. 1503</hi></l>
                   <l n="23"><hi rend="blue">printed by Johann Battista Sessa<quote rend="end"/></hi></l>
                </lg>
@@ -3814,6 +3814,7 @@
                </lg>
             </div>
          </div>
+         <!-- note to self (EF): glossary continue search here -->
          <div type="image" xml:id="nb07_02_02_0205_recto">
             <div type="page" n="r.0205" xml:id="nb07_02_02_0205_recto_text">
                <pb
