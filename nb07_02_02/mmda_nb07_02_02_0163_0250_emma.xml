@@ -3814,7 +3814,6 @@
                </lg>
             </div>
          </div>
-         <!-- note to self (EF): glossary continue search here -->
          <div type="image" xml:id="nb07_02_02_0205_recto">
             <div type="page" n="r.0205" xml:id="nb07_02_02_0205_recto_text">
                <pb
@@ -4245,7 +4244,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0212-recto.jpg"
                   n="0212-recto"/>
                <lg>
-                  <l n="01"><hi rend="blue"><bibl type="begin"/>Mary Newton Stanard<bibl type="end"/><note>Mary Newton Stanard [1865-1929]. Historian, specializing in Virginia history. The quotation that follows is from <title>Sara Jane</title>, first published in full by Westbow Press, 2014. MM was evidently quoting from an excerpt published by the 1930s, perhaps in the <title>Virginia Pilot</title>.</note></hi></l>
+                  <l n="01"><hi rend="blue"><bibl type="begin"/>Mary Newton Stanard<bibl type="end"/><note target="stanard">Mary Newton Stanard [1865-1929]. Historian, specializing in Virginia history. The quotation that follows is from <title>Sara Jane</title>, first published in full by Westbow Press, 2014. MM was evidently quoting from an excerpt published by the 1930s, perhaps in the <title>Virginia Pilot</title>.</note></hi></l>
                   <l n="02"><hi rend="blue">. . . .</hi></l>
                   <l n="03"><hi rend="blue"><quote rend="begin"/>Mammy Dilcie  What de matter Honey?</hi></l>
                   <l n="04"><hi rend="blue">I'm so ugly."</hi></l>
@@ -4353,7 +4352,7 @@
                   n="0214-verso"/>
                <lg>
                   <l n="01"><hi rend="blue"><bibl type="begin"/>Some Notes on Liturgical Printing<bibl type="end"/><note>Updike, D.B. "Some Notes on Liturgical Printing." <title>The Dolphin</title>No. 2 (1935): 208-219.</note></hi></l>
-                  <l n="02"><hi rend="blue">D. B. Updike<note>Updike, Daniel Berkeley [1860-1941]. American printer and historian of typography; founded the Merrymount Press (1896). MM quotes him in "Humility, Concentration, and Gusto."</note><quote rend="begin"/>P 216&#8212;. . . while it</hi></l>
+                  <l n="02"><hi rend="blue">D. B. Updike<note target="updike">Updike, Daniel Berkeley [1860-1941]. American printer and historian of typography; founded the Merrymount Press (1896). MM quotes him in "Humility, Concentration, and Gusto."</note><quote rend="begin"/>P 216&#8212;. . . while it</hi></l>
                   <l n="03"><hi rend="blue">seems simple to say that all directions</hi></l>
                   <l n="04"><hi rend="blue">in a liturgy should be rubricated and</hi></l>
                   <l n="05"><hi rend="blue">all else printed in black, . . . there must be</hi></l>
@@ -4577,8 +4576,8 @@
                      <l n="20"> situation.<quote rend="end"/></l>
                      <l n="21">                                            MANLEY</l>
                      <l n="22"><bibl type="begin"/>The Note-Books &amp; Papers of</l>
-                     <l n="23">     Gerard Manley Hopkins<note>Hopkins, Gerard Manley [1844-1889]. English poet, published posthumously, and Anglican priest. MM mentions his work in several essays.</note></l>
-                     <l n="24">Notes &amp; a Preface by Humphrey House</l>
+                     <l n="23">     Gerard Manley Hopkins<note target="hopkins">Hopkins, Gerard Manley [1844-1889]. English poet, published posthumously, and Anglican priest. MM mentions his work in several essays.</note></l>
+                     <l n="24">Notes &amp; a Preface by Humphrey House</l> 
                      <l n="25">         <foreign xml:lang="la">Esse Quam Videri</foreign><note>A Latin phrase meaning "To be, rather than to seem." It was the Hopkins family's motto.</note></l>
                      <l n="26">Oxford University Press 1937<bibl type="end"/><note>Hopkins, Gerard Manley. <title>The Note-Books and Papers of Gerard Manley Hopkins</title>. London: Oxford University Press, 1937.</note></l>
                      <l n="27"></l>
@@ -4749,7 +4748,7 @@
                   <l n="09">Ed. by J McKeen Cattell</l>
                   <l n="10">         <hi rend="pencil">Grand Central Terminal</hi></l>
                   <l n="11"><hi rend="underline">Francis &amp; Roger Bacon &amp; Modern Science</hi></l>
-                  <l n="12">by Dr. Fernando Sanford<note>Sanford, Fernando [1854-1948]. American physicist and professor at Stanford. Founder and first president of the Science Association.</note>     Prof. Emeritus</l>
+                  <l n="12">by Dr. Fernando Sanford<note target="sanford">Sanford, Fernando [1854-1948]. American physicist and professor at Stanford. Founder and first president of the Science Association.</note>     Prof. Emeritus</l>
                   <l n="13">of physics (Leland Stanford)<bibl type="end"/><note>Sanford, Fernando. "Francis and Roger Bacon and Modern Science." <title>Scientific Monthly</title>(May 1937): 440-52.</note></l>
                   <l n="14"></l>
                   <l n="15">p. 443. <quote rend="begin"/>Regarding the fallibility of</l>
@@ -4773,7 +4772,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0220-recto.jpg"
                   n="0220-recto"/>
                <lg>
-                  <l n="01"><note><quote rend="begin"/>false &amp; empty; wherefore man</note></l>
+                  <l n="01"><note>Fernando, Sanford. “Francis and Roger Bacon and Modern Science” (see earlier note).</note><quote rend="begin"/>false &amp; empty; wherefore man</l>
                   <l n="02">ought not to boast of <add>his</add>knowledge</l>
                   <l n="03"><hi rend="pencil">(He is snared but not really prone to it)</hi></l>
                   <l n="04">nor ought anyone to magnify and</l>
@@ -4782,14 +4781,13 @@
                   <l n="07">in comparison with that of</l>
                   <l n="08">which he is ignorant &amp; does</l>
                   <l n="09">not know either by faith or</l>
-                  <!-- small '00'? EF! -->
                   <l n="10">knowledge.<quote rend="end"/>              <hi rend="pencil">5<hi rend="superscript">00</hi>  a year</hi></l>
                   <l n="11"><hi rend="pencil">Garrison NY</hi>Jan.    1937</l>
                   <l n="12"><hi rend="pencil">or Grand  Central</hi></l>
                   <l n="13"><bibl type="begin"/>The Scientific Monthly.   <hi rend="pencil">50 a copy</hi></l>
                   <l n="14"><hi rend="pencil"> Terminal</hi></l>
                   <l n="15">Louis Joblot &amp; the Protozoa</l>
-                  <l n="16">by Dr. <del>t</del>Lorande Loss Woodruff<note>Woodruff, Lorande Loss [1879-1947]. Colgate Professor of protozoology at Yale and director of the Osborn Zoological Laboratory.</note></l>
+                  <l n="16">by Dr. <del>t</del>Lorande Loss Woodruff<note target="woodruff">Woodruff, Lorande Loss [1879-1947]. Colgate Professor of protozoology at Yale and director of the Osborn Zoological Laboratory.</note></l>
                   <l n="17">  Prof. of Protozoology, Yale U.<bibl type="end"/><note>Woodruff, Lorande Loss. "Louis Joblot and the Protozoa." <title>Scientific Monthly</title>(January 1937): 41-47.</note></l>
                   <l n="18"><quote rend="begin"/>Louis Joblot of Paris began observations</l>
                   <l n="19">which culminated in 1718 in the</l>
@@ -4850,7 +4848,7 @@
                   <l n="09"><bibl type="begin"/>"The Curious English"  30 Aug. 31</l>
                   <l n="10">                             ?</l>
                   <l n="11">By  H.A.L.   Fisher<bibl type="end"/><note>Fisher, H. A. L. "The Curious English." <title>The Spectator</title>(30 August 1931).</note>    Warden of New</l>
-                  <l n="12">College<note>Fisher, Herbert Albert Laurens [1865-1940]. English historian, Oxford tutor, and Liberal politician, President of the national board of education, 1916-1922.</note>&#8212;<add>Ox.</add>speaking at a Luncheon Meeting</l>
+                  <l n="12">College<note target="fisher">Fisher, Herbert Albert Laurens [1865-1940]. English historian, Oxford tutor, and Liberal politician, President of the national board of education, 1916-1922.</note>&#8212;<add>Ox.</add>speaking at a Luncheon Meeting</l>
                   <l n="13">of London Vacation Education Course</l>
                   <l n="14"></l>
                   <l n="15"><quote rend="begin"/>I trust that our foreign visitors</l>
@@ -5156,7 +5154,7 @@
                   <l n="14">p. 241  Professor Pugfrog's</l>
                   <l n="15">Great Bicycle  Feat  (bank)</l>
                   <l n="16">An Adventure in Publishing</l>
-                  <l n="17">Vrest Orton<note>Orton, Vrest [1897-1986]. Author, bibliophile, and founder of the Vermont Country Store.</note> p 256.<quote rend="end"/></l>
+                  <l n="17">Vrest Orton<note target="orton">Orton, Vrest [1897-1986]. Author, bibliophile, and founder of the Vermont Country Store.</note> p 256.<quote rend="end"/></l>
                   <l n="18">      ----------------------------------------------------------</l>
                   <l n="19">                                         <bibl type="begin"/>Vol  xxii  No 3</l>
                   <l n="20">Sportsman   Sept.   1937</l>
@@ -5335,7 +5333,7 @@
                   n="0229-recto"/>
                <lg>
                   <l n="01"><bibl type="begin"/>I Follow the Road</l>
-                  <l n="02">Anne Byrd Payson<note>Payson, Anne Byrd. Musician and adult convert from Judaism to Christianity. <!-- This is all I could find; maybe not accurate? CM. I couldn't find a DOB or any further info. CN --></note> (Abingdon 1933)<bibl type="end"/><note>Payson, Anne Byrd. <title>I Follow the Road: A Modern Woman's Search for God</title>. New York: Abingdon, 1933.</note></l>
+                  <l n="02">Anne Byrd Payson<note target="payson">Payson, Anne Byrd. Musician and adult convert from Judaism to Christianity. <!-- This is all I could find; maybe not accurate? CM. I couldn't find a DOB or any further info. CN --></note> (Abingdon 1933)<bibl type="end"/><note>Payson, Anne Byrd. <title>I Follow the Road: A Modern Woman's Search for God</title>. New York: Abingdon, 1933.</note></l>
                   <l n="03">102 . <quote rend="begin"/>Tears for my own tragedies had been</l>
                   <l n="04">washed from my eyes with those I had since,</l>
                   <l n="05">shed in joy, &amp; something that made me</l>
@@ -5353,7 +5351,7 @@
                   <l n="17">they knew it or not.<quote rend="end"/></l>
                   <l n="18"></l>
                   <l n="19">gayety every love</l>
-                  <l n="20"><bibl type="begin"/>Stanley E Jones<note>Jones, Eli Stanley [1884-1973]. American Methodist missionary to India, where he gave lectures on interfaith dialogue and supported Indian self-determination; became freinds of Ghandi and the Nehru family. <title>Christ of the Indian Road</title>sold more than one million copies. He wrote an introduction to the 1933 edition of Payson's <title>I Follow the Road</title>.</note>: The Christ of the</l>
+                  <l n="20"><bibl type="begin"/>Stanley E Jones<note target="jones">Jones, Eli Stanley [1884-1973]. American Methodist missionary to India, where he gave lectures on interfaith dialogue and supported Indian self-determination; became freinds of Ghandi and the Nehru family. <title>Christ of the Indian Road</title>sold more than one million copies. He wrote an introduction to the 1933 edition of Payson's <title>I Follow the Road</title>.</note>: The Christ of the</l>
                   <l n="21">Indian Road.<bibl type="end"/><note>Jones, Stanley E. <title>Christ of the Indian Road</title>. New York: Abingdon Press, 1925.</note></l>
                   <l n="22">         --------------------</l>
                   <l n="23"><quote rend="begin"/>Be courteous, be obliging, but don't give</l>
@@ -5480,7 +5478,7 @@
                   <l n="02">of all those influences and agencies</l>
                   <l n="03">by which we understand, assimilate</l>
                   <l n="04">and improve our inheritance.<quote rend="end"/></l>
-                  <l n="05">                            Leslie Pinckney Hill<note>Hill, Leslie Pinckney [1880-1960]. American educator, poet, dramatist, and community leader. Son of a former slave, he received both a BA and MA from Harvard then taught at the Tuskegee Institute, among other institutions, and became head of the Institute for Colored Youth in Chenyey, PA.<!-- I can't find the source but this is definitely Hill. I also tried to find this source no avail. CN! --></note></l>
+                  <l n="05">                            Leslie Pinckney Hill<note target="hill">Hill, Leslie Pinckney [1880-1960]. American educator, poet, dramatist, and community leader. Son of a former slave, he received both a BA and MA from Harvard then taught at the Tuskegee Institute, among other institutions, and became head of the Institute for Colored Youth in Chenyey, PA.<!-- I can't find the source but this is definitely Hill. I also tried to find this source no avail. CN! --></note></l>
                   <l n="06"></l>
                   <l n="07"><bibl type="begin"/>Varied Birds of Sunnyfields</l>
                   <l n="08">Clarence L Sibley&#8212;</l>
@@ -5511,7 +5509,7 @@
                   n="0232-verso"/>
                <desc>On line 12 MM draws a z-like mark on the left margin.</desc>
                <lg>
-                  <l n="01"><bibl type="begin"/>Rosetti &amp; His Circle Max Beerbohm<note>Beerbohm, Sir Henry Maximilian ("Max") [1872-1956]. English essayist, caricaturist, and theater critic.</note></l>
+                  <l n="01"><bibl type="begin"/>Rosetti &amp; His Circle Max Beerbohm<note target="beerbohm">Beerbohm, Sir Henry Maximilian ("Max") [1872-1956]. English essayist, caricaturist, and theater critic.</note></l>
                   <l n="02">Wm Heineman   1922<bibl type="end"/><note>Beerbohm, Max. <title>Rossetti and His Circle</title>. London: William Heinemann, 1922.</note></l>
                   <l n="03"><quote rend="begin"/>12  D G R. What <hi rend="underline">is</hi>the use,</l>
                   <l n="04">Christina, of having a heart like</l>
@@ -5525,7 +5523,7 @@
                   <l n="12"></l>
                   <l n="13">18 Mr. Morley of Blackburn on</l>
                   <l n="14">an afternoon in the spring of '69</l>
-                  <l n="15">introduces Mr. John Stuart Mill.<note>Mill, John Stuart [1806-1873]. Influential Engilsh language philosopher, naturalist, and liberal, whose essay "The Subjection of Women" (1869; see recto 00232) promotes legal and social equality between men and women.</note></l>
+                  <l n="15">introduces Mr. John Stuart Mill.<note target="mill">Mill, John Stuart [1806-1873]. Influential Engilsh language philosopher, naturalist, and liberal, whose essay "The Subjection of Women" (1869; see recto 00232) promotes legal and social equality between men and women.</note></l>
                   <l n="16">2</l>
                   <l n="17">It has recently, he says,</l>
                   <l n="18">occurred to Mr. Mill that in</l>
@@ -5562,7 +5560,7 @@
                   <l n="15">it, that a series of illustrative</l>
                   <l n="16">paintings by you," etc</l>
                   <l n="17">19  A Man from Hymettus</l>
-                  <l n="18">Mr. Frederic Leighton:<note>Frederic Leighton [1830-1896]. English painter and sculptor.</note>"think</l>
+                  <l n="18">Mr. Frederic Leighton:<note target="leighton"><!-- I have reversed the order of Leighton's name to match the glossary entry style (Last, First). EF! -->Leighton, Frederic [1830-1896]. English painter and sculptor.</note>"think</l>
                   <l n="19">for one moment my dear</l>
                   <l n="20">Mr Rosetti, that I am insensible</l>
                   <l n="21">to the charm of a life recluded</l>
@@ -5571,6 +5569,7 @@
                </lg>
             </div>
          </div>
+         <!-- note to self (EF): glossary continue search here -->
          <div type="image" xml:id="nb07_02_02_0233_verso">
             <div type="page" n="v.0233" xml:id="nb07_02_02_0233_verso_text">
                <pb
