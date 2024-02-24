@@ -5621,7 +5621,7 @@
                   <l n="13">life.  Hamlet feigned insanity</l>
                   <l n="14">for a purpose.  L. struggled out</l>
                   <l n="15">of his despairing  mood, put</l>
-                  <l n="16">the ghost of little Anne Rullidge<note>Anne Rutledge [1813-1835]. Alleged to be Lincoln's first love.</note></l>
+                  <l n="16">the ghost of little Anne Rullidge<note target="rutledge">Anne Rutledge [1813-1835]. Alleged to be Lincoln's first love.</note></l>
                   <l n="17">in the back of his mind with the</l>
                   <l n="18">equally lovely ghost of universal</l>
                   <l n="19">righteousness, married Mary</l>
@@ -5705,7 +5705,7 @@
                   <l n="04">against an absolute wrong.</l>
                   <l n="05"> _____________________</l>
                   <l n="06">                         <hi rend="pencil">Steffens rev’d by Duffus</hi></l>
-                  <l n="07">  R L. Duffus.<note>Duffus, Robert Luther [1888-1972]. Reporter and editorial writer for the <title>New York Times</title>.</note>    Justice is impossible</l>
+                  <l n="07">  R L. Duffus.<note target="duffus">Duffus, Robert Luther [1888-1972]. Reporter and editorial writer for the <title>New York Times</title>.</note>    Justice is impossible</l>
                   <l n="08">  but understanding is not. . . . .</l>
                   <l n="09"> Deep down I am sorry for the</l>
                   <l n="10"> war-mad on both sides.  They are truly</l>
@@ -5814,9 +5814,9 @@
                   <l n="19"></l>
                   <l n="20">46  cwt    0 gr.    5lb<quote rend="end"/></l>
                   <l n="21">                 -------------</l>
-                  <l n="22">                          ?             Leland Wang<note>Wang, Leland, originally Want Zai [1898-1975]. Cinese evangelist and founder of the Chinese Foreign Missionary Union, after leaving his Navy career as a gunboat officer in 1921.</note></l>
+                  <l n="22">                          ?             Leland Wang<note target="wang">Wang, Leland, originally Want Zai [1898-1975]. Chinese evangelist and founder of the Chinese Foreign Missionary Union, after leaving his Navy career as a gunboat officer in 1921.</note></l>
                   <l n="23"> <bibl type="begin"/>N.Y. Times  Dec. 1938</l>
-                  <l n="24"> speaker at the Gospel Tabernacle<bibl type="end"/><note>"Chinese Evangalist Is Speaker." <title>New York Times</title>(19 December 1938): 20.</note></l>
+                  <l n="24"> speaker at the Gospel Tabernacle<bibl type="end"/><note>"Chinese Evangelist Is Speaker." <title>New York Times</title>(19 December 1938): 20.</note></l>
                   <l n="25">8<hi rend="superscript">th</hi> Ave bet 43 &amp; 44<hi rend="superscript">th</hi> St</l>
                   <l n="26"><quote rend="begin"/>Seven words, he said, summed<quote rend="end"/></l>
                </lg>
@@ -5836,7 +5836,7 @@
                   <l n="06">     peace.<quote rend="end"/></l>
                   <l n="07">                       Dec 1938</l>
                   <!--I have replaced the curly braces with square brackets to match the image description for line 8. EF!-->
-                  <l n="08">Alyse Gregory<note>Gregory, Alyse [1882-1967]. American novelist and essayist, managing editor of <title>The Dial</title>, and friend of MM's. MM reviewed her novel <title>Hester Craddock</title>for the <title>New York Herald Tribune</title>(8 November 1931:21) and refers to Gregory's "delicately lethal honesty" in her "Retrospect" on <title>The Dial</title>(<title>Life and Letters To-Day</title>[December 1940]: 175-183).</note>[Through <unclear>Lancet Windrows</unclear>]</l>
+                  <l n="08">Alyse Gregory<note target="gregory">Gregory, Alyse [1882-1967]. American novelist and essayist, managing editor of <title>The Dial</title>, and friend of MM's. MM reviewed her novel <title>Hester Craddock</title>for the <title>New York Herald Tribune</title>(8 November 1931:21) and refers to Gregory's "delicately lethal honesty" in her "Retrospect" on <title>The Dial</title>(<title>Life and Letters To-Day</title>[December 1940]: 175-183).</note>[Through <unclear>Lancet Windrows</unclear>]</l>
                   <l n="09">   <bibl type="begin"/>Wheels on Gravel (Lane)<bibl type="end"/><note>Gregory, Alyse. <title>Wheels on Gravel</title>. London: John Lane The Bodley Head, 1938.</note></l>
                   <l n="10"><quote rend="begin"/>It was Bacon who said</l>
                   <l n="11">the first minister of state</l>
@@ -5850,7 +5850,7 @@
                   <l n="19">your eyes you wld think W was</l>
                   <l n="20">there.<quote rend="end"/></l>
                   <l n="21"></l>
-                  <l n="22"><bibl type="begin"/>The Summing Up.   S. Maugham<note>Maugham, William Somerset [1874-1965]. Popular English novelist, playwright, and short story writer. MM quotes him twice in "Fame Can Be Modest," <title>Brooklyn Daily Eagle</title>(18 April 1937): 15C.</note></l>
+                  <l n="22"><bibl type="begin"/>The Summing Up.   S. Maugham<note target="maugham">Maugham, William Somerset [1874-1965]. Popular English novelist, playwright, and short story writer. MM quotes him twice in "Fame Can Be Modest," <title>Brooklyn Daily Eagle</title>(18 April 1937): 15C.</note></l>
                   <l n="23">Doubleday Doran 1938<bibl type="end"/><note>Maugham, W. Somerset. <title>The Summing Up</title>. Garden City: Doubleday, Doran, &amp; Co., 1938.</note>   p. 29</l>
                   <l n="24"><quote rend="begin"/>I began with the impossible aim of<quote rend="end"/></l>
                </lg>
@@ -5905,7 +5905,7 @@
                   <l n="06">         -------------</l>
                   <l n="07"><bibl type="begin"/>Fiction    Graham Greene  J. Masefield</l>
                   <l n="08">Live &amp; Kicking Ned   &amp; G B Priestley</l>
-                  <l n="09">Let the People Sing.<bibl type="end"/><note>Greene, Graham. "Fiction." <title>The Spectator(10 November 1939): 336</title>.</note>    <quote rend="begin"/>a trusty</l>
+                  <l n="09">Let the People Sing.<bibl type="end"/><note>Greene, Graham. "Fiction." <title>The Spectator</title> (10 November 1939): 336.</note>    <quote rend="begin"/>a trusty</l>
                   <l n="10">tradesman has delivered the</l>
                   <l n="11">good again to his own customers</l>
                   <l n="12">. . Masefield.   The idea of life</l>
@@ -5913,7 +5913,7 @@
                   <l n="14">from my work of literature<quote rend="end"/></l>
                   <l n="15"> </l>
                   <l n="16"><bibl type="begin"/>The Ship of Death &amp; Other Poems</l>
-                  <l n="17">D H Lawrence.<note>Lawrence, David Herbert [1885-1930]. English novelist, short story writer, and poet. MM published Lawrence's poems in <title>The Dial</title>.</note>  Martin Secker<bibl type="end"/><note>Lawrence, D.H. <title>The Ship of Death and Other Poems</title>. London: Faber and Faber, 1941.</note></l>
+                  <l n="17">D H Lawrence.<note target="lawrence">Lawrence, David Herbert [1885-1930]. English novelist, short story writer, and poet. MM published Lawrence's poems in <title>The Dial</title>.</note>  Martin Secker<bibl type="end"/><note>Lawrence, D.H. <title>The Ship of Death and Other Poems</title>. London: Faber and Faber, 1941.</note></l>
                   <l n="18">                                                      drop</l>
                   <l n="19">55 <quote rend="begin"/>Terra Incognita</l>
                   <l n="20" rend="verse">... we can but touch, &amp;   wonder &amp; make <add>our effort</add></l>
