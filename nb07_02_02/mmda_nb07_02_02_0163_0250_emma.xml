@@ -3572,7 +3572,7 @@
                   <l n="18"><hi rend="blue"><quote rend="begin"/><add>see</add>Spencer <hi rend="underline">c</hi>ollection of Illustrated</hi></l>
                   <l n="19"><hi rend="blue"><del>AMS's</del>Books in the NYP.L. &amp;</hi></l>
                   <l n="20"><hi rend="blue">monograph in the Bulletin</hi></l>
-                  <l n="21"><hi rend="blue">by Karl Kuep.<note>MM misspells the name of Karl Kup (1903-1981), art historian and curator of the Spencer Collection at the NYPL. <!-- should Kup be added to the glossary? EF! --></note>      This is the</hi></l>
+                  <l n="21"><hi rend="blue">by Karl Kuep.<note>MM misspells the name of Karl Kup.</note><note target="kup">Kup, Karl [1903-1981]. Art historian and curator of the Spencer Collection at the NYPL.</note>      This is the</hi></l>
                   <l n="22"><hi rend="blue"><foreign xml:lang="la">Ars Moriendi</foreign>           Venice c. 1503</hi></l>
                   <l n="23"><hi rend="blue">printed by Johann Battista Sessa<quote rend="end"/></hi></l>
                </lg>
@@ -5569,7 +5569,6 @@
                </lg>
             </div>
          </div>
-         <!-- note to self (EF): glossary continue search here -->
          <div type="image" xml:id="nb07_02_02_0233_verso">
             <div type="page" n="v.0233" xml:id="nb07_02_02_0233_verso_text">
                <pb
