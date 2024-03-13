@@ -603,11 +603,11 @@
                   <l n="10"><hi rend="blue">who exclaimed: "Alas</hi><add><hi rend="pencil">!</hi></add><hi rend="blue">without</hi></l>
                   <l n="11"><hi rend="blue">loneliness, I should be more lonely,&#8212;<note>MM quotes this line in “Smooth Gnarled Crape Myrtle,” referring in her notes to quoting “Noguchi,—paraphrasing Saigyo.”</note></hi></l>
                   <l n="12"><hi rend="blue">so I keep it!"</hi><quote rend="end"/></l>
-                  <l n="13"><hi rend="blue">               <bibl rend="0156_verso_l13_bibl"/>22 Feb 1935</hi></l>
+                  <l n="13"><hi rend="blue">               <bibl corresp="0156_verso_l13_bibl"/>22 Feb 1935</hi></l>
                   <l n="14"><hi rend="blue"><add>Sir</add></hi></l>
                   <l n="15"><hi rend="blue"> W. Beach Thomas</hi></l>
                   <!-- After checking the notebook image, I have replaced the repeated line number for line 15 with the number "16". EF! -->
-                  <l n="16"><hi rend="blue">Our Weather Prophet. <bibl rend="#0156_verso_l13_bibl"/><quote rend="begin"/>Saints' days.</hi></l>
+                  <l n="16"><hi rend="blue">Our Weather Prophet. <bibl corresp="#0156_verso_l13_bibl"/><quote rend="begin"/>Saints' days.</hi></l>
                   <l n="17"><hi rend="blue">the moon, the ferries and the</hi></l>
                   <l n="18"><hi rend="blue">behavior of animals have inspired</hi></l>
                   <l n="19"><hi rend="blue">potent prognostics, &amp; the wiseacre has</hi></l>
@@ -1068,8 +1068,8 @@
                   <l n="06"><hi rend="blue">Rivers</hi></l>
                   <l n="07"><hi rend="blue">            Rev  W Gibbs McKenney</hi></l>
                   <l n="08"><hi rend="blue">"boys were faster than oxen"</hi></l>
-                  <l n="09"><hi rend="blue"><bibl type="begin"/>The Northern Neck of Virginia.<note>“The Northern Neck of Virginia” and “Boyhood Days in the Rappahanock County” (mentioned in this page’s margin) may be local history pamphlets, authored by W. H. T. Squires.</note></hi></l>
-                  <l n="10"><hi rend="blue">                Dr. W H T. Squires<bibl type="end"/><note target="squires">Squires, W. H. T. [1875-1948]. Presbyterian minister and local historian, author of three books on Virginia.</note></hi></l>
+                  <l n="09"><hi rend="blue"><bibl corresp="0163_recto_l09_bibl"/>The Northern Neck of Virginia.<note>“The Northern Neck of Virginia” and “Boyhood Days in the Rappahanock County” (mentioned in this page’s margin) may be local history pamphlets, authored by W. H. T. Squires.</note></hi></l>
+                  <l n="10"><hi rend="blue">                Dr. W H T. Squires<bibl corresp="#0163_recto_l09_bibl"/><note target="squires">Squires, W. H. T. [1875-1948]. Presbyterian minister and local historian, author of three books on Virginia.</note></hi></l>
                   <l n="11"><hi rend="blue">The Land.           I</hi></l>
                   <l n="12"><hi rend="blue">Five long peninsulas thrust them</hi></l>
                   <l n="13"><hi rend="blue">selves . . into the . . . Chesapeake.</hi></l>
@@ -1117,8 +1117,8 @@
                   <l n="14"><hi rend="blue">Landon Carter built Sabine Hall</hi></l>
                   <l n="15"></l>
                   <l n="16"><hi rend="blue">Marmion home of Betty Washington<quote rend="end"/></hi></l>
-                  <l n="17"><hi rend="blue">            <bibl type="begin"/>In Historic Gloucester</hi></l>
-                  <l n="18"><hi rend="blue">    Rev.  W H T Squires DD.<bibl type="end"/></hi></l>
+                  <l n="17"><hi rend="blue">            <bibl corresp="0164_verso_l17_bibl"/>In Historic Gloucester</hi></l>
+                  <l n="18"><hi rend="blue">    Rev.  W H T Squires DD.<bibl corresp="#0164_verso_l17_bibl"/></hi></l>
                   <l n="19"><hi rend="blue"><quote rend="begin"/>Part I   Werowocomoco the Home</hi></l>
                   <l n="20"><hi rend="blue">of Powhatan</hi></l>
                   <l n="21"><hi rend="blue">Railway</hi><add>s</add><hi rend="blue">&amp; electric trams do not</hi></l>
@@ -1218,8 +1218,8 @@
                   <l n="14"><hi rend="blue">to Mann Page.  Later came into</hi></l>
                   <l n="15"><hi rend="blue">the hands of the Carter family.</hi></l>
                   <l n="16"></l>
-                  <l n="17"><hi rend="blue">    <bibl type="begin"/>Spectator July 12    1935</hi></l>
-                  <l n="18"><hi rend="blue">The Cinema Graham Greene<note target="greene">Greene, Graham [1904-1991]. One of the leading English novelists of the twentieth century. MM quotes Greene in “Humility, Concentration, and Gusto,” first published <title>Grolier Club Gazette</title> (May 1949).</note><bibl type="end"/><note>Greene, Graham. "The Cinema." <title>The Spectator</title>(12 July 1935).</note></hi></l>
+                  <l n="17"><hi rend="blue">    <bibl corresp="0165_recto_l17_bibl"/>Spectator July 12    1935</hi></l>
+                  <l n="18"><hi rend="blue">The Cinema Graham Greene<note target="greene">Greene, Graham [1904-1991]. One of the leading English novelists of the twentieth century. MM quotes Greene in “Humility, Concentration, and Gusto,” first published <title>Grolier Club Gazette</title> (May 1949).</note><bibl corresp="#0165_recto_l17_bibl"/><note>Greene, Graham. "The Cinema." <title>The Spectator</title>(12 July 1935).</note></hi></l>
                   <l n="19"></l>
                   <l n="20"><hi rend="blue">(<hi rend="underline">The Phantom Light</hi>) . . . .There was</hi></l>
                   <l n="21"><hi rend="blue">something too about   "A door ajar</hi></l>
@@ -1244,9 +1244,9 @@
                   <l n="07"><hi rend="blue">a pitiful damned dog air which</hi></l>
                   <l n="08"><hi rend="blue">puts him in the same rank as</hi></l>
                   <l n="09"><hi rend="blue">Mr. Laughton.<quote rend="end"/></hi></l>
-                  <l n="10"><hi rend="blue"><bibl type="begin"/>Spectator. July 19 1935</hi></l>
+                  <l n="10"><hi rend="blue"><bibl corresp="0166_verso_l10_bibl"/>Spectator. July 19 1935</hi></l>
                   <!-- The following note needs author name – is it still Graham Greene? KN ! -->
-                  <l n="11"><hi rend="blue">The Cinema<bibl type="end"/><note>"The Cinema" <title>The Spectator</title>(19 July 1935).</note>  <quote rend="begin"/><hi rend="underline">Barcarole</hi><add>. . . . .</add>the film</hi></l>
+                  <l n="11"><hi rend="blue">The Cinema<bibl corresp="#0166_verso_l10_bibl"/><note>"The Cinema" <title>The Spectator</title>(19 July 1935).</note>  <quote rend="begin"/><hi rend="underline">Barcarole</hi><add>. . . . .</add>the film</hi></l>
                   <l n="12"><hi rend="blue">owes most to the acting of</hi></l>
                   <l n="13"><hi rend="blue">Pierre Richard Willm as the lover,</hi></l>
                   <l n="14"><hi rend="blue">with his sharp, handsome young-old</hi></l>
@@ -1255,12 +1255,12 @@
                   <l n="17"><hi rend="blue">fear of what he's recklessly pledged</hi></l>
                   <l n="18"><hi rend="blue">himself to suffer),</hi></l>
                   <l n="19"><hi rend="blue"> _____________________</hi></l>
-                  <l n="20"><hi rend="blue"><bibl type="begin"/>Dod's/ Peerage, Baronetage, /and,</hi></l>
+                  <l n="20"><hi rend="blue"><bibl corresp="0166_verso_l20_bibl"/>Dod's/ Peerage, Baronetage, /and,</hi></l>
                   <l n="21"><hi rend="blue">Knightage/ of / Great Britain and Ireland, )</hi></l>
                   <l n="22"><hi rend="blue">for /   1875, / including / All the</hi></l>
                   <l n="23"><hi rend="blue">Titled classes / Thirty-fifth year, /</hi></l>
                   <l n="24"><hi rend="blue">   Whitaker <add>London:</add>&amp; Co, Ave Maria Lane.</hi></l>
-                  <l n="25"><hi rend="blue">            MDCCLXXV.<bibl type="end"/><note>Dod, Charles R. <title>Dod’s Peerage, Baronetage and Knightage of Great Britain and Ireland for 1875</title>.  London: Whitaker &amp; Co., 1875.</note></hi></l>
+                  <l n="25"><hi rend="blue">            MDCCLXXV.<bibl corresp="#0166_verso_l20_bibl"/><note>Dod, Charles R. <title>Dod’s Peerage, Baronetage and Knightage of Great Britain and Ireland for 1875</title>.  London: Whitaker &amp; Co., 1875.</note></hi></l>
                </lg>
             </div>
          </div>
@@ -1476,15 +1476,15 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0169-recto.jpg"
                   n="0169-recto"/>
                <lg>
-                  <l n="01"><hi rend="blue">                <bibl type="begin"/>England</hi></l>
+                  <l n="01"><hi rend="blue">                <bibl corresp="0169_recto_l01_bibl"/>England</hi></l>
                   <l n="02"><hi rend="blue">Picturesque and Descriptive.  A</hi></l>
                   <l n="03"><hi rend="blue">Reminisence of Foreign Travel, By</hi></l>
-                  <l n="04"><hi rend="blue">Joel Cook.<bibl type="end"/><note>Cook, Joel. <title>England, Picturesque and Descriptive: A Reminiscence of Foreign Travel</title>. Philadelphia: Porter and Coates, 1882. Joel Cook [1842-1910] was a newspaper writer and editor and a member of the United States House of Representatives from Pennsylvania.</note>    Philad. Porter &amp; Coates</hi></l>
+                  <l n="04"><hi rend="blue">Joel Cook.<bibl corresp="#0169_recto_l01_bibl"/><note>Cook, Joel. <title>England, Picturesque and Descriptive: A Reminiscence of Foreign Travel</title>. Philadelphia: Porter and Coates, 1882. Joel Cook [1842-1910] was a newspaper writer and editor and a member of the United States House of Representatives from Pennsylvania.</note>    Philad. Porter &amp; Coates</hi></l>
                   <l n="05"><hi rend="pencil">Constance's Father's book</hi><hi rend="blue">1882</hi></l>
                   <l n="06"></l>
-                  <l n="07"><hi rend="blue"><bibl type="begin"/>Afloat on the James</hi></l>
+                  <l n="07"><hi rend="blue"><bibl corresp="0169_recto_l07_bibl"/>Afloat on the James</hi></l>
                   <l n="08"><hi rend="blue">Pubd    &amp; Copyrighted by The Virginia Navigation <add>Co.</add></hi></l>
-                  <l n="09"><hi rend="blue">Richmond .Va. <bibl type="end"/><note><title>Afloat on the James.</title>Richmond: Virginia Navigation Company, 1914.</note>       Steamer Pocahontas</hi></l>
+                  <l n="09"><hi rend="blue">Richmond .Va. <bibl corresp="#0169_recto_l07_bibl"/><note><title>Afloat on the James.</title>Richmond: Virginia Navigation Company, 1914.</note>       Steamer Pocahontas</hi></l>
                   <l n="10"></l>
                   <l n="11"><hi rend="blue">p. 53  <quote rend="begin"/>The Story of Pocahontas<note>MM is taking notes toward "Virginia Brittania".</note></hi></l>
                   <l n="12"><hi rend="blue">Powhatan, otherwise Mamatowick</hi></l>
@@ -1494,8 +1494,8 @@
                   <l n="15"><hi rend="blue">Condemned to torture when the daughter</hi></l>
                   <l n="16"><hi rend="blue">of Ucita, the chief intervened.<quote rend="end"/></hi></l>
                   <l n="17"><hi rend="blue">        _____________                             The <add>12</add>London Company</hi></l>
-                  <l n="18"><hi rend="blue">     <bibl type="begin"/>History of Hampton and</hi></l>
-                  <l n="19"><hi rend="blue">Elizabeth City County, Virginia<bibl type="end"/><note>Tyler, Lyon Gardiner. <title>History of Hampton and Elizabeth City County, Virginia</title>. Hampton: Board of Supervisors of Elizabeth City County, 1922. Lyon Gardiner Tyler [1853-1935] was an American educator and historian who served as the president of the College of William and Mary for over forty years. He was the son of tenth United States president, John Tyler.</note></hi></l>
+                  <l n="18"><hi rend="blue">     <bibl corresp="0169_recto_l18_bibl"/>History of Hampton and</hi></l>
+                  <l n="19"><hi rend="blue">Elizabeth City County, Virginia<bibl corresp="#0169_recto_l18_bibl"/><note>Tyler, Lyon Gardiner. <title>History of Hampton and Elizabeth City County, Virginia</title>. Hampton: Board of Supervisors of Elizabeth City County, 1922. Lyon Gardiner Tyler [1853-1935] was an American educator and historian who served as the president of the College of William and Mary for over forty years. He was the son of tenth United States president, John Tyler.</note></hi></l>
                   <l n="20"><hi rend="blue">     compiled by</hi></l>
                   <l n="21"><hi rend="blue">   Lyon G. Tyler.    Pubd by</hi></l>
                   <l n="22"><hi rend="blue">The Boardof Supervisors of Elizabeth</hi></l>
@@ -1597,9 +1597,9 @@
                   <l n="16"><hi rend="blue">adjoining parishes of Eliz. City</hi></l>
                   <l n="17"><hi rend="blue">&amp; Kiquotan<quote rend="end"/></hi></l>
                   <l n="18"></l>
-                  <l n="19"><hi rend="blue"><bibl type="begin"/>NY Times Book Review</hi></l>
+                  <l n="19"><hi rend="blue"><bibl corresp="0171_verso_l19_bibl"/>NY Times Book Review</hi></l>
                   <l n="20"><hi rend="blue">23   June 1935   Notes on Rare</hi></l>
-                  <l n="21"><hi rend="blue">Books<bibl type="end"/>.<note>Brooks, Philip. "Notes on Rare Books." <title>New York Times</title>(23 June 1935): BR 16. Philip Brooks [1899-1975] was a bookseller and specialist on rare books who wrote the "Notes on Rare Book" column for the <title>New York Times Book Review</title>from 1932 to 1943.</note>    Lockwood Mem. Lib.</hi></l>
+                  <l n="21"><hi rend="blue">Books<bibl corresp="#0171_verso_l19_bibl"/>.<note>Brooks, Philip. "Notes on Rare Books." <title>New York Times</title>(23 June 1935): BR 16. Philip Brooks [1899-1975] was a bookseller and specialist on rare books who wrote the "Notes on Rare Book" column for the <title>New York Times Book Review</title>from 1932 to 1943.</note>    Lockwood Mem. Lib.</hi></l>
                   <l n="22"><hi rend="blue">Buffalo</hi></l>
                   <l n="23"><hi rend="blue"><quote rend="begin"/>Accordingly there was issue a little</hi></l>
                   <l n="24"><hi rend="blue"><del>synopsis</del>  souvenir. . . . Watchfulness,</hi></l>
@@ -1636,15 +1636,15 @@
                   <l n="01"><hi rend="blue"><note>Brooks, Philip. "Notes on Rare Books" (see earlier note).</note><quote rend="begin"/>sufficient to keep intact treasures</hi></l>
                   <l n="02"><hi rend="blue">that could never be restored.<quote rend="end"/></hi></l>
                   <!-- The following note needs title and page number - archives available online but UB does not have access KN ! -->
-                  <l n="03"><hi rend="blue"><bibl type="begin"/>15 Feb.  30  Spectator<bibl type="end"/><note>Jones, Rufus. <title>The Spectator</title>(15 February 1930).Rufus Matthew Jones [1863-1948] was a prominent Quaker theologican and historian and taught philosophy at Bryn Mawr College.</note>Prof. Rufus</hi></l>
+                  <l n="03"><hi rend="blue"><bibl corresp="0172_recto_l03_bibl"/>15 Feb.  30  Spectator<bibl corresp="#0172_recto_l03_bibl"/><note>Jones, Rufus. <title>The Spectator</title>(15 February 1930).Rufus Matthew Jones [1863-1948] was a prominent Quaker theologican and historian and taught philosophy at Bryn Mawr College.</note>Prof. Rufus</hi></l>
                   <l n="04"><hi rend="blue">Jones   <quote rend="begin"/>In Defense of the Faith XIII</hi></l>
                   <l n="05"><hi rend="blue">awe and mystery were best left</hi></l>
                   <l n="06"><hi rend="blue"> without too many disturbing</hi></l>
                   <l n="07"><hi rend="blue">interrogation points.<quote rend="end"/></hi></l>
                   <l n="08"></l>
-                  <l n="09"><hi rend="blue">      <bibl type="begin"/>Travels and Works of Captain J. Smith</hi></l>
+                  <l n="09"><hi rend="blue">      <bibl corresp="0172_recto_l09_bibl"/>Travels and Works of Captain J. Smith</hi></l>
                   <l n="10"><hi rend="blue">President of Virginia, and Admiral of</hi></l>
-                  <l n="11"><hi rend="blue">New England         1580-1631<bibl type="end"/><note>Arbor, Edward, editor. <title>Travels and Works of Captain John Smith, President of Virginia and Admiral of New England</title>. Edinburgh: John Grant, 1910.</note></hi></l>
+                  <l n="11"><hi rend="blue">New England         1580-1631<bibl corresp="#0172_recto_l09_bibl"/><note>Arbor, Edward, editor. <title>Travels and Works of Captain John Smith, President of Virginia and Admiral of New England</title>. Edinburgh: John Grant, 1910.</note></hi></l>
                   <l n="12"><hi rend="blue">             Edited by</hi></l>
                   <l n="13"><hi rend="blue">          Edward Arbor, F.S.A.</hi></l>
                   <l n="14"><hi rend="blue">A New Edition w a Biographical &amp; Critical</hi></l>
@@ -1728,11 +1728,11 @@
                   <l n="20"><hi rend="blue">recompense; and beare with their</hi></l>
                   <l n="21"><hi rend="blue">errors till I have done better.</hi></l>
                   <l n="22"></l>
-                  <l n="23"><hi rend="blue">             <bibl type="begin"/>An</hi></l>
+                  <l n="23"><hi rend="blue">             <bibl corresp="0173_recto_l23_bibl"/>An</hi></l>
                   <l n="24"><hi rend="blue">       Accidence</hi></l>
                   <l n="25"><hi rend="blue">              or</hi></l>
                   <l n="26"><hi rend="blue">      the Path-way to </hi></l>
-                  <l n="27"><hi rend="blue"><add>ed</add>         Experience.<bibl type="end"/><quote rend="end"/><note>Smith, John.  <title>An Accidence, Or the Path-way to Experience Necessary for All Young Sea-Men</title>.  London: Jonas Man and Benjamin Fisher, 1626. John Smith [c.1580-1631] was an English soldier, explorer, colonial governor who played an important role in establishing the first English colonial settlement in North America, at Jamestown, Virginia.</note></hi></l>
+                  <l n="27"><hi rend="blue"><add>ed</add>         Experience.<bibl corresp="#0173_recto_l23_bibl"/><quote rend="end"/><note>Smith, John.  <title>An Accidence, Or the Path-way to Experience Necessary for All Young Sea-Men</title>.  London: Jonas Man and Benjamin Fisher, 1626. John Smith [c.1580-1631] was an English soldier, explorer, colonial governor who played an important role in establishing the first English colonial settlement in North America, at Jamestown, Virginia.</note></hi></l>
                </lg>
             </div>
          </div>
@@ -1743,11 +1743,11 @@
                   n="0174-verso"/>
                <desc>From the T on line 22, MM draws an arrow pointing upward to <hi rend="underline">“An Accidence.”</hi></desc>
                <lg>
-                  <l n="01"><hi rend="blue"><quote rend="begin"/><bibl type="begin"/>Necessary for all Young Sea-men &amp; those</hi></l>
+                  <l n="01"><hi rend="blue"><quote rend="begin"/><bibl corresp="0174_verso_l01_bibl"/>Necessary for all Young Sea-men &amp; those</hi></l>
                   <l n="02"><hi rend="blue">that are desirous to goe to Sea,</hi></l>
                   <l n="03"><hi rend="blue">  ____________________</hi></l>
                   <l n="04"><hi rend="blue">              London:                                           <add>Fisher</add></hi></l>
-                  <l n="05"><hi rend="blue">Printed for <hi rend="underline">Jonas Man</hi>, and Benjamin<bibl type="end"/><note>Smith, John. <title>An Accidence</title>(see note on previous page).</note></hi></l>
+                  <l n="05"><hi rend="blue">Printed for <hi rend="underline">Jonas Man</hi>, and Benjamin<bibl corresp="#0174_verso_l01_bibl"/><note>Smith, John. <title>An Accidence</title>(see note on previous page).</note></hi></l>
                   <l n="06"><hi rend="blue">    and are to be sold at the signe of the Talbot</hi></l>
                   <l n="07"><hi rend="blue">     in   Aldersgate <del>S</del>treete.   1626.</hi></l>
                   <l n="08"><hi rend="blue">                                s </hi></l>
@@ -1964,7 +1964,7 @@
                   <!-- I have replaced the curly bracket with a square bracket in line 9 to match the image description. EF! -->
                   <l n="09"><hi rend="blue"> [12 the smith with the tongs.<quote rend="end"/></hi></l>
                   <l n="10"><hi rend="blue">                                         1935</hi></l>
-                  <l n="11"><hi rend="blue"><bibl type="begin"/><hi rend="underline">Current Events</hi>Oct 28 Nov 1<bibl type="end"/></hi></l>
+                  <l n="11"><hi rend="blue"><bibl corresp="0177_verso_l11_bibl"/><hi rend="underline">Current Events</hi>Oct 28 Nov 1<bibl corresp="#0177_verso_l11_bibl"/></hi></l>
                   <l n="12"><hi rend="blue"><quote rend="begin"/>The next 10 years    may be the driest</hi></l>
                   <l n="13"><hi rend="blue">we have had since 1787, acc to</hi></l>
                   <l n="14"><hi rend="blue">H.P. Gillette, a Chicago mining</hi></l>
@@ -2000,7 +2000,7 @@
                   <l n="09"><hi rend="blue">decade (děḱ-ād: a period of</hi></l>
                   <l n="10"><hi rend="blue">ten years).<quote rend="end"/></hi></l>
                   <l n="11"></l>
-                  <l n="12"><hi rend="blue"><bibl type="begin"/>20 ap.  Art News.     1935<bibl type="end"/></hi></l>
+                  <l n="12"><hi rend="blue"><bibl corresp="0177_recto_l12_bibl"/>20 ap.  Art News.     1935<bibl corresp="#0177_recto_l12_bibl"/></hi></l>
                   <l n="13"><hi rend="blue"><quote rend="begin"/>Rains Galleries (Rains Auction Rooms Inc.)</hi></l>
                   <l n="14"><hi rend="blue">. . .To be sold at Public Sale Friday ev. <del>in eg</del></hi></l>
                   <l n="15"><hi rend="blue">April 26 at 8.30 P.M.     Important Amer</hi></l>
@@ -2011,7 +2011,7 @@
                   <l n="20"><hi rend="blue">Bargue    Sales conducted by Mr. E Harold</hi></l>
                   <l n="21"><hi rend="blue">L. Thompson          (Fromentin Delacroix etc)<quote rend="end"/></hi></l>
                   <l n="22"></l>
-                  <l n="23"><hi rend="blue"><bibl type="begin"/>April 13  1935     p.   15<bibl type="end"/></hi></l>
+                  <l n="23"><hi rend="blue"><bibl corresp="0177_recto_l23_bibl"/>April 13  1935     p.   15<bibl corresp="#0177_recto_l23_bibl"/></hi></l>
                   <l n="24"><hi rend="blue"><quote rend="begin"/>Rockefeller Gift to Metrop. Museum</hi></l>
                   <l n="25"><hi rend="blue">The Hunt of the Unicorn.<quote rend="end"/></hi></l>
                </lg>
@@ -2043,7 +2043,7 @@
                   <l n="17"><hi rend="blue">de Barbezieux and hung for</hi></l>
                   <l n="18"><hi rend="blue">Centuries in the Castle of Verteuil,</hi></l>
                   <l n="19"><hi rend="blue">France.<quote rend="end"/></hi></l>
-                  <l n="20"><hi rend="blue">          <bibl type="begin"/>May 18 1935    ART News<bibl type="end"/><note>"The Forum of Decorative Arts." <title>Art News</title>(18 May 1935): 10.</note></hi></l>
+                  <l n="20"><hi rend="blue">          <bibl corresp="0178_verso_l20_bibl"/>May 18 1935    ART News<bibl corresp="#0178_verso_l20_bibl"/><note>"The Forum of Decorative Arts." <title>Art News</title>(18 May 1935): 10.</note></hi></l>
                   <l n="21"><hi rend="blue"><quote rend="begin"/>p.10  The Forum of Decorative</hi></l>
                   <l n="22"><hi rend="blue">Arts Owing <del>to</del>its undoubted</hi></l>
                   <l n="23"><hi rend="blue">beauty to <del>the</del>perfection of form,</hi></l>
@@ -2103,8 +2103,8 @@
                   n="0179-verso"/>
                <desc>On lines 25-28, on the left side, MM draws an irregularly shaped bracket around the final two sentences, concluding on line 04 of the next page.</desc>
                <lg>
-                  <l n="01"><hi rend="blue"><bibl type="begin"/>p.3  On Designing a Type-Face</hi></l>
-                  <l n="02"><hi rend="blue">                         Frederick W Goudy<note target="goudy">Frederic W Goudy [1865-1947]. American printer and typographer who designed more than 100 typefaces outstanding for their strength and beauty.</note><bibl type="end"/><note>Goudy, Frederic. “On Designing a Type Face.” <title>The Dolphin</title>No. 1 (1933): 3-23.</note></hi></l>   
+                  <l n="01"><hi rend="blue"><bibl corresp="0179_verso_l01_bibl"/>p.3  On Designing a Type-Face</hi></l>
+                  <l n="02"><hi rend="blue">                         Frederick W Goudy<note target="goudy">Frederic W Goudy [1865-1947]. American printer and typographer who designed more than 100 typefaces outstanding for their strength and beauty.</note><bibl corresp="#0179_verso_l01_bibl"/><note>Goudy, Frederic. “On Designing a Type Face.” <title>The Dolphin</title>No. 1 (1933): 3-23.</note></hi></l>   
                   <l n="03"><hi rend="blue"><quote rend="begin"/>1. adapt</hi></l>
                   <!-- I have replaced the curly bracket with a square bracket to match the description for line 4. -->
                   <l n="04"><hi rend="blue"> [2 create something entirely new by reverting</hi></l>
@@ -2318,9 +2318,9 @@
                   <l n="14"><hi rend="blue">The earliest printers used a single</hi></l>
                   <l n="15"><hi rend="blue">italic design w several different romans</hi></l>
                   <l n="16"><hi rend="pencil">              The Bros Klingspor  Offenbach<note>The Klingspor Type Foundry was a German business established in 1892 when Carl Klingspor bought out the Rudhard’sche Foundry of Offenbach.</note><quote rend="end"/></hi></l>
-                  <l n="17"><hi rend="blue"><bibl type="begin"/>Paul Koch    The Making of</hi></l>
+                  <l n="17"><hi rend="blue"><bibl corresp="0182_recto_l17_bibl"/>Paul Koch    The Making of</hi></l>
                   <l n="18"><hi rend="blue">Printing Types.   The Cutting of Punches</hi></l>
-                  <l n="19"><hi rend="blue">trans. in     Otto W Fuhrmann<bibl type="end"/><note>Koch, Paul. "The Making of Printing Types," <title>The Dolphin: A Journal of the Making of Books</title>No. 1 (1933): 24-57. Paul Koch [1906-1945]. German punchcutter and founder of typefaces who specialized in music printing. He was son of designer and typographer Rudolf Koch.</note></hi></l>
+                  <l n="19"><hi rend="blue">trans. in     Otto W Fuhrmann<bibl corresp="#0182_recto_l17_bibl"/><note>Koch, Paul. "The Making of Printing Types," <title>The Dolphin: A Journal of the Making of Books</title>No. 1 (1933): 24-57. Paul Koch [1906-1945]. German punchcutter and founder of typefaces who specialized in music printing. He was son of designer and typographer Rudolf Koch.</note></hi></l>
                   <l n="20"><hi rend="blue"><quote rend="begin"/>I cut the 4 characters OIBV</hi></l>
                   <l n="21"><hi rend="blue">w</hi><hi rend="pencil">ith</hi><hi rend="blue">these 4 characters I can</hi></l>
                   <l n="22"><hi rend="blue"> form some syllables    cut in addition</hi></l>
@@ -2433,8 +2433,8 @@
                   <l n="20"><hi rend="blue">the distnce between the letters &amp; their</hi></l>
                   <l n="21"><hi rend="blue">position.</hi></l>
                   <l n="22"><hi rend="pencil">_____________</hi><hi rend="blue">.p 58</hi></l>
-                  <l n="23"><hi rend="blue"><bibl type="begin"/>The Characteristics of a good</hi></l>
-                  <l n="24"><hi rend="blue"> Book Type David T Pottinger<bibl type="end"/><note>Potter, David T. "The Characteristics of a Good Book Type." <title>Dolphin</title>1 (1933): 58-66. David T. Pottinger [1884-1958]. Associate Director of Harvard University Press.</note></hi></l>
+                  <l n="23"><hi rend="blue"><bibl corresp="0184_verso_l23_bibl"/>The Characteristics of a good</hi></l>
+                  <l n="24"><hi rend="blue"> Book Type David T Pottinger<bibl corresp="#0184_verso_l23_bibl"/><note>Potter, David T. "The Characteristics of a Good Book Type." <title>Dolphin</title>1 (1933): 58-66. David T. Pottinger [1884-1958]. Associate Director of Harvard University Press.</note></hi></l>
                   <l n="25"><hi rend="pencil">________________________</hi></l>
                   <l n="26"><hi rend="blue">Mountjoye   Mr Updike has called</hi></l>
                   <l n="27"><hi rend="blue">Brimmer    Mr Rogers   <del>same</del><add>"  "</add></hi></l>
@@ -2493,8 +2493,8 @@
                   <l n="09"><hi rend="blue">Fell fr the 17<hi rend="superscript">th</hi>. Carlson &amp; Basker</hi></l>
                   <l n="10"><hi rend="blue">ville fr the 18<hi rend="superscript">th</hi>, Scotch from</hi></l>
                   <l n="11"><hi rend="blue">the 19<hi rend="superscript">th</hi></hi></l>
-                  <l n="12"><hi rend="blue">                            p 67     <bibl type="begin"/>Alfred W</hi></l>
-                  <l n="13"><hi rend="blue">2 //    Pollard.      MARGINS<bibl type="end"/><note>Pollard, Alfred W. "Margins." <title>Dolphin</title>1 (1933): 67-80. Pollard [1859-1944] was an English bibliographer.</note></hi></l>
+                  <l n="12"><hi rend="blue">                            p 67     <bibl corresp="0185_verso_l12_bibl"/>Alfred W</hi></l>
+                  <l n="13"><hi rend="blue">2 //    Pollard.      MARGINS<bibl corresp="#0185_verso_l12_bibl"/><note>Pollard, Alfred W. "Margins." <title>Dolphin</title>1 (1933): 67-80. Pollard [1859-1944] was an English bibliographer.</note></hi></l>
                   <l n="14"><hi rend="blue">Wm. Morris &amp; Mr Charles T Jacobi</hi></l>
                   <l n="15"><hi rend="blue">of the Cheswick Press read papers</hi></l>
                   <l n="16"><hi rend="blue">to it on the same evening (the</hi></l>
@@ -2880,8 +2880,8 @@
                   <l n="11"><hi rend="blue">I think the Nonesuch <hi rend="underline">Walton</hi>sets</hi></l>
                   <l n="12"><hi rend="blue">a new standard.<quote rend="end"/></hi></l>
                   <l n="13"></l>
-                  <l n="14"><hi rend="blue">81 <bibl type="begin"/>Formats &amp; Sizes</hi></l>
-                  <l n="15"><hi rend="blue">Lawrence C Wroth<bibl type="end"/><note>Wroth, Lawrence C. "Formats and Sizes." <title>Dolphin</title>1 (1933): 81-95.</note></hi></l>
+                  <l n="14"><hi rend="blue">81 <bibl corresp="0191_verso_l14_bibl"/>Formats &amp; Sizes</hi></l>
+                  <l n="15"><hi rend="blue">Lawrence C Wroth<bibl corresp="#0191_verso_l14_bibl"/><note>Wroth, Lawrence C. "Formats and Sizes." <title>Dolphin</title>1 (1933): 81-95.</note></hi></l>
                   <l n="16"><hi rend="blue"><quote rend="begin"/>Jon Carter Brown Lib. Providence</hi></l>
                   <l n="17"><hi rend="blue">See</hi></l>
                   <l n="18"><hi rend="blue"> Ronald B McKerrow Intro.</hi></l>
@@ -2924,7 +2924,7 @@
                   <l n="18"><hi rend="blue">most of the sections of the Gutenberg</hi></l>
                   <l n="19"><hi rend="blue">Bible were quaterion</hi><quote rend="end"/></l>
                   <l n="20"><hi rend="blue">                                              <add>master of the</add></hi></l>
-                  <l n="21"><hi rend="blue">96           <bibl type="begin"/>Porter Garnett<bibl type="end"/><note>Garnett, Porter. "The Hand-Press." <title>Dolphin</title>1 (1933): 96-106.</note>; Laboratory Press</hi></l>
+                  <l n="21"><hi rend="blue">96           <bibl corresp="0191_recto_l21_bibl"/>Porter Garnett<bibl corresp="#0191_recto_l21_bibl"/><note>Garnett, Porter. "The Hand-Press." <title>Dolphin</title>1 (1933): 96-106.</note>; Laboratory Press</hi></l>
                   <l n="22"><quote rend="begin"/><hi rend="pencil">hand made paper has</hi><quote rend="end"/><hi rend="blue">Carnegie Sch of Tech</hi></l>
                   <l n="23"><hi rend="blue">103     <quote rend="begin"/>a liveliness &amp; sparkle to the eye</hi></l>
                   <l n="24"><hi rend="blue">and a slight but pleasant</hi></l>
@@ -2932,8 +2932,8 @@
                   <l n="25"><hi rend="blue">roughness to the touch [without</hi></l>
                   <l n="26"><hi rend="blue">exclusive embossment on the reverse</hi></l>
                   <l n="27"><hi rend="blue">of the sheet<quote rend="end"/></hi></l>
-                  <l n="28"><hi rend="blue">       <bibl type="begin"/>Arthur S Allen    Inks for</hi></l>
-                  <l n="29"><hi rend="blue">Printing<bibl type="end"/><note>Allen, Arthur S. "Inks for Printing." <title>Dolphin</title>1 (1933): 107-115.</note>      see Frank B Wilborg</hi></l>
+                  <l n="28"><hi rend="blue">       <bibl corresp="0191_recto_l28_bibl"/>Arthur S Allen    Inks for</hi></l>
+                  <l n="29"><hi rend="blue">Printing<bibl corresp="#0191_recto_l28_bibl"/><note>Allen, Arthur S. "Inks for Printing." <title>Dolphin</title>1 (1933): 107-115.</note>      see Frank B Wilborg</hi></l>
                </lg>
             </div>
          </div>
