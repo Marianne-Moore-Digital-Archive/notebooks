@@ -66,7 +66,7 @@
                   <l n="05">tree.    The spider repairs her</l>
                   <l n="06">damaged net, but the tree never</l>
                   <l n="07">repairs its leaves.<quote rend="end"/></l>
-                  <l n="08"> </l>
+                  <l n="08"></l>
                   <l n="09"><bibl rend="begin"/>Animals I Have Known</l>
                   <l n="10">                    By </l>
                   <l n="11">           Arthur H. Beavan</l>
@@ -83,7 +83,7 @@
                   <l n="22">              . . . .</l>
                   <l n="23">. . . she had lived all her life</l>
                   <l n="24">in Northumberland until her mistress</l>
-                  <l n="25">gave her away to some people in Essex<bibl rend="end"/></l>
+                  <l n="25">gave her away to some people in Essex<bibl rend="end"/></l> 
                </lg>
             </div>
             <div type="image" xml:id="nb07_02_02_0126_text">
@@ -1386,7 +1386,7 @@
                                                                                              <!--check genre encoding-->
                                                                                           </lg>
                                                                                        </div>
-                                                                                       <div type="image" xml:id="nb07_02_02_012 _text">
+                                                                                       <div type="image" xml:id="nb07_02_02_0126 _text">
                                                                                           <div type="page" n="r.0126" xml:id="nb07_02_02_0126_recto_text">
                                                                                              <pb
                                                                                                 facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0126-recto.jpg"
@@ -1424,7 +1424,61 @@
                                                                                                 <l n="29" rend="poetry"><hi rend="pencil">                                                                            Canis </hi></l>
                                                                                                 <!--check genre encoding-->
                                                                                              </lg>
-                                                                                          </div>                                                                                    
+                                                                                          </div> 
+                                                                                          <div type="image" xml:id="nb07_02_02_0126 _text">
+                                                                                             <div type="page" n="r.0126" xml:id="nb07_02_02_0126_recto_text">
+                                                                                                <pb
+                                                                                                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0126-recto.jpg"
+                                                                                                   n="0126-recto"/>
+                                                                                                <desc> </desc>
+                                                                                                <lg>
+                                                                                                   <l n="01"> </l>
+                                                                                                   <l n="02"> </l>
+                                                                                                   <l n="03"> </l>
+                                                                                                   <l n="04"> </l>
+                                                                                                   <l n="05"> </l>
+                                                                                                   <l n="06"> </l>
+                                                                                                   <l n="07"> </l>
+                                                                                                   <l n="08"> </l>
+                                                                                                   <l n="09"> </l>
+                                                                                                   <l n="10"> </l>
+                                                                                                   <l n="11"> </l>
+                                                                                                   <l n="12"> </l>
+                                                                                                   <l n="13"> </l>
+                                                                                                   <l n="14"> </l>
+                                                                                                   <l n="15"> </l>
+                                                                                                   <l n="16"></l>
+                                                                                                   <l n="17"></l>
+                                                                                                   <l n="18"></l>
+                                                                                                </lg>
+                                                                                             </div> 
+                                                                                             <div type="image" xml:id="nb07_02_02_0163_text">
+                                                                                                <div type="page" n="v.0163" xml:id="nb07_02_02_0163_verso_text">
+                                                                                                   <pb
+                                                                                                      facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0163-verso.jpg"
+                                                                                                      n="0163-verso"/>
+                                                                                                   <desc> </desc>
+                                                                                                   <lg>
+                                                                                                      <l n="01"> </l>
+                                                                                                      <l n="02"> </l>
+                                                                                                      <l n="03"> </l>
+                                                                                                      <l n="04"> </l>
+                                                                                                      <l n="05"> </l>
+                                                                                                      <l n="06"> </l>
+                                                                                                      <l n="07"> </l>
+                                                                                                      <l n="08"> </l>
+                                                                                                      <l n="09"> </l>
+                                                                                                      <l n="10"> </l>
+                                                                                                      <l n="11"> </l>
+                                                                                                      <l n="12"> </l>
+                                                                                                      <l n="13"> </l>
+                                                                                                      <l n="14"> </l>
+                                                                                                      <l n="15"> </l>
+                                                                                                      <l n="16"></l>
+                                                                                                      <l n="17"></l>
+                                                                                                      <l n="18"></l>
+                                                                                                   </lg>
+                                                                                                </div> 
                            </div>
             </div>
          </div>
