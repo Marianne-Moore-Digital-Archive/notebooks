@@ -102,7 +102,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0148-verso.jpg"
                   n="0148-verso"/>
                <lg>
-                  <l n="01"><note>Eaton, H. A. “Some Quaint Notions about Animals” (see earlier note).</note><quote rend="begin"/>of a basilisk slain by a knight</l>
+                  <l n="01"><note>Eaton, H. A. “Some Quaint Notions about Animals” (see earlier note).</note><quote corresp="0148_verso_l01_quote"/>of a basilisk slain by a knight</l>
                   <l n="02">covered with crystal."</l>
                   <l n="03">          If in the cat the long hairs growing</l>
                   <l n="04">about the mouth be cut away it</l>
@@ -117,17 +117,17 @@
                   <l n="13"> rather run into the fire than into</l>
                   <l n="14">the leaves.   Three or 4 leaves taken</l>
                   <l n="15">in wine each morning make those</l>
-                  <l n="16">lean who were fat!<quote rend="end"/></l>
+                  <l n="16">lean who were fat!<quote corresp="#0148_verso_l01_quote"/></l>
                   <l n="17"></l>
                   <l n="18"><bibl corresp="0148_verso_l18_bibl"/>London Times   29 June 1916<bibl corresp="#0148_verso_l18_bibl"/><note>Source unidentified. MM publishes “Logic and ‘The Magic Flute’” in <title>Shenendoah</title> (Summer 1956). </note></l>
                   <l n="19">                         price 1 d.</l>
                   <l n="20">. . . .</l>
-                  <l n="21"><quote rend="begin"/>Only in Chinese art could</l>
+                  <l n="21"><quote corresp="0148_verso_l21_quote"/>Only in Chinese art could</l>
                   <l n="22">Papageno be a saint, . . . . .</l>
                   <l n="23">only in that world, wh. ranges</l>
                   <l n="24">from the willow-pattern plate to</l>
                   <l n="25">the Rishi in his mystical</l>
-                  <l n="26">ecstasy in the wilderness could<quote rend="end"/></l>
+                  <l n="26">ecstasy in the wilderness could<quote corresp="#0148_verso_l21_quote"/></l>
                </lg>
             </div>
          </div>
@@ -137,7 +137,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0148-recto.jpg"
                   n="0148-recto"/>
                <lg>
-                  <l n="01"> <quote rend="begin"/>the soul of Mozart  . . . be at home.</l>
+                  <l n="01"> <quote corresp="0148_recto_l01_quote"/>the soul of Mozart  . . . be at home.</l>
                   <l n="02">. . . in Chinese art, in fact, is the world</l>
                   <l n="03">of the magic flute; the world</l>
                   <l n="04">where silver bells hang on every</l>
@@ -150,17 +150,17 @@
                   <l n="11">where the lovers smile like sages;</l>
                   <l n="12">where everything is to the eye what</l>
                   <l n="13">the music of Mozart is to the ear</l>
-                  <l n="14">    ???<quote rend="end"/></l>
+                  <l n="14">    ???<quote corresp="#0148_recto_l01_quote"/></l>
                   <l n="15"></l>
                   <l n="16"><bibl corresp="0148_recto_l16_bibl"/>Transcript   Mar 11 1916<bibl corresp="#0148_recto_l16_bibl"/></l>
-                  <l n="17"><quote rend="begin"/>artists who are reviving here in Boston</l>
+                  <l n="17"><quote corresp="0148_recto_l17_quote"/>artists who are reviving here in Boston</l>
                   <l n="18">the Shattered Glories of Rheims.</l>
                   <l n="19"> Walter G. Ball etc. (glass)</l>
                   <l n="20">       see Viollet-le-Duc </l>
                   <l n="21">Longfellow:</l>
                   <l n="22" rend="verse">I lift mine eyes &amp; all the windows blaze</l>
                   <l n="23" rend="verse">w. forms of saints'&#8212;holy men who died</l>
-                  <l n="24" rend="verse">Here martyred &amp; hereafter glorified.<quote rend="end"/></l>
+                  <l n="24" rend="verse">Here martyred &amp; hereafter glorified.<quote corresp="#0148_recto_l17_quote"/></l>
                </lg>
             </div>
          </div>
@@ -173,7 +173,7 @@
                   <l n="01">Bird--                 flying</l>
                   <l n="02"><bibl corresp="0149_verso_l02_bibl"/>NY. H. Tribune  Oct. 14, 1934</l>
                   <l n="03">Bird in flight.  The perfection of Scientific</l>
-                  <l n="04">flying.<bibl corresp="#0149_verso_l02_bibl"/><note>“Birds in Flight: The Perfection of Scientific Flying.” <title>New York Herald Tribune</title> (14 October 1934).</note><quote rend="begin"/>  Photo by Dr Harold E</l>
+                  <l n="04">flying.<bibl corresp="#0149_verso_l02_bibl"/><note>“Birds in Flight: The Perfection of Scientific Flying.” <title>New York Herald Tribune</title> (14 October 1934).</note><quote corresp="0149_verso_l04_quote"/>  Photo by Dr Harold E</l>
                   <l n="05"> Edgerton &amp; Kenneth J. Germeshausen</l>
                   <l n="06"> at Mass. Inst. of Tech. w a camera</l>
                   <l n="07">speeded 1&#8212;50,000 of a second,</l>
@@ -182,12 +182,12 @@
                   <l n="10"> are opened slightly to permit air passage,</l>
                   <l n="11">reducing resistance.  On the down</l>
                   <l n="12">stroke the feathers overlap to increase</l>
-                  <l n="13">resistance.<quote rend="end"/></l>
+                  <l n="13">resistance.<quote corresp="#0149_verso_l04_quote"/></l>
                   <l n="14"></l>
                   <l n="15">                   Nov <add>20</add> 1924</l>
                   <l n="16">      ?</l>
                   <l n="17">source</l>
-                  <l n="18" rend="verse">     <quote rend="begin"/>Christ is born,    choirs are singing</l>
+                  <l n="18" rend="verse">     <quote corresp="0149_verso_l18_quote"/>Christ is born,    choirs are singing</l>
                   <l n="19" rend="verse">               and the air</l>
                   <l n="20" rend="verse">               everywhere</l>
                   <l n="21" rend="verse">       with new joy is ringing</l>
@@ -195,7 +195,7 @@
                   <l n="23" rend="verse">        Hear a voice from the manger:</l>
                   <l n="24" rend="verse">                 “You are freed</l>
                   <l n="25" rend="verse">                    All you need</l>
-                  <l n="26" rend="verse">                  I will give.”<quote rend="end"/></l>
+                  <l n="26" rend="verse">                  I will give.”<quote corresp="#0149_verso_l18_quote"/></l>
                </lg>
             </div>
          </div>
@@ -205,7 +205,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0149-recto.jpg"
                   n="0149-recto"/>
                <lg>
-                  <l n="01" rend="verse">        <quote rend="begin"/>angels give ear</l>
+                  <l n="01" rend="verse">        <quote corresp="0149_recto_l01_quote"/>angels give ear</l>
                   <l n="02" rend="verse">               God has drawn near</l>
                   <l n="03" rend="verse">          His glory we are telling</l>
                   <l n="04" rend="verse">                 The Savior born</l>
@@ -229,7 +229,7 @@
                   <l n="22"></l>
                   <l n="23"><foreign xml:lang="fr">Fulgence parle d'un auteur</foreign></l>
                   <l n="24"><foreign xml:lang="fr">grec, appelé Aristophane</foreign></l>
-                  <l n="25"><foreign xml:lang="fr">qui traita, dit-il le même</foreign><quote rend="end"/></l>
+                  <l n="25"><foreign xml:lang="fr">qui traita, dit-il le même</foreign><quote corresp="#0149_recto_l01_quote"/></l>
                </lg>
             </div>
          </div>
@@ -239,23 +239,23 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0150-verso.jpg"
                   n="0150-verso"/>
                <lg>
-                  <l n="01"><note>Apuleius. <title>La Fable De Psyché</title> (see earlier note). The text reads: “subject with the greatest prolixity, but unfortunately his books, titled Dysarestia, are completely lost. From Apuleius, philosopher from Madauros.” <!-- Check translation KN  --></note><quote rend="begin"/><foreign xml:lang="fr">sujet avec la plus grande prolixité</foreign></l>
+                  <l n="01"><note>Apuleius. <title>La Fable De Psyché</title> (see earlier note). The text reads: “subject with the greatest prolixity, but unfortunately his books, titled Dysarestia, are completely lost. From Apuleius, philosopher from Madauros.” <!-- Check translation KN  --></note><quote corresp="0150_verso_l01_quote"/><foreign xml:lang="fr">sujet avec la plus grande prolixité</foreign></l>
                   <l n="02"><foreign xml:lang="fr">mais malheureusement ses</foreign></l>
                   <l n="03"><foreign xml:lang="fr">livres, intitulés</foreign></l>
                   <l n="04">          <foreign xml:lang="greek">Dysarestia</foreign></l>
                   <l n="05"><foreign xml:lang="fr">sont totalement perdus</foreign></l>
                   <l n="06"> ______________</l>
-                  <l n="07"><foreign xml:lang="fr">d'Apulée   philosophe de Madaure</foreign><quote rend="end"/></l>
+                  <l n="07"><foreign xml:lang="fr">d'Apulée   philosophe de Madaure</foreign><quote corresp="#0150_verso_l01_quote"/></l>
                   <l n="08"></l>
                   <l n="09"><bibl corresp="0150_verso_l09_bibl"/>Roger Fry.   Art &amp; Commerce 2/6<bibl corresp="#0150_verso_l09_bibl"/><note>Fry, Roger Eliot. <title>Art and Commerce</title>. London: Hogarth Press, 1926. </note></l>
-                  <l n="10">          <quote rend="begin"/>(Dial days)</l>
+                  <l n="10">          <quote corresp="0150_verso_l10_quote"/>(Dial days)</l>
                   <l n="11">The mfgr.  soon discovers that</l>
                   <l n="12">a really creative design has</l>
                   <l n="13">a certain violence &amp; insistence,</l>
                   <l n="14">a spiritual energy, which is</l>
                   <l n="15">disquieting to people at first sight</l>
                   <l n="16">&#8212;however much they may</l>
-                  <l n="17"> come afterward to like it<quote rend="end"/></l>
+                  <l n="17"> come afterward to like it<quote corresp="#0150_verso_l10_quote"/></l>
                   <l n="18"></l>
                   <l n="19">  Raphael Tuck Christmas Greetings</l>
                   <l n="20"> fr  Lucy Thayer   1926.</l>
@@ -287,7 +287,7 @@
                   <l n="12"></l>
                   <l n="13"><bibl corresp="0150_recto_l13_bibl"/>The Lost Glen</l>
                   <l n="14">Neil <add>M</add> Gunn.    The Porpoise Press.<bibl corresp="#0150_recto_l13_bibl"/><note>Gunn, Neil Miller. <title>The Lost Glen</title>. Edinburgh: Porpoise Press, 1932. Neil Miller Gunn [1891-1973] was a Scottish novelist.</note></l>
-                  <l n="15">p.  166.  <quote rend="begin"/>Only now &amp; then there rose the</l>
+                  <l n="15">p.  166.  <quote corresp="0150_recto_l15_quote"/>Only now &amp; then there rose the</l>
                   <l n="16">thin scream of the reel, startling the</l>
                   <l n="17">the boat and its occupants to a slight</l>
                   <l n="18">commotion; which ended in Clare's</l>
@@ -297,7 +297,7 @@
                   <l n="22">in a final conspiracy of understanding</l>
                   <l n="23">in a final draft, where the dark</l>
                   <l n="24">loch marge, everdrawing near<del>er</del> hid</l>
-                  <l n="25">the lost cavern to the final secret&#8212;<quote rend="end"/></l>
+                  <l n="25">the lost cavern to the final secret&#8212;<quote corresp="#0150_recto_l15_quote"/></l>
                </lg>
             </div>
          </div>
@@ -307,12 +307,12 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0151-verso.jpg"
                   n="0151"/>
                <lg>
-                  <l n="01"><note>Gunn, Neil Miller. <title>The Lost Glen</title>(see earlier note).</note><quote rend="begin"/>guarded w such menace by that</l>
-                  <l n="02">grey eternity above<quote rend="end"/></l>
+                  <l n="01"><note>Gunn, Neil Miller. <title>The Lost Glen</title>(see earlier note).</note><quote corresp="0151_verso_l01_quote"/>guarded w such menace by that</l>
+                  <l n="02">grey eternity above<quote corresp="#0151_verso_l01_quote"/></l>
                   <l n="03"><bibl corresp="0151_verso_l03_bibl"/>12 Jan '35  N.Y.Ev. Sun H McBride</l>
                   <l n="04">                    _______________</l>
                   <l n="05">The De Segonzac<note target="segonzac">Segonzac de, André Dunoyer [1884-1974]. French painter and graphic artist; art critic for <title>The Dial</title> and, later, the <title>New York Sun</title>. MM quotes him frequently in her prose.</note>Paintings<bibl corresp="#0151_verso_l03_bibl"/><note>McBride, Henry. “The De Segonzac Paintings.” <title>New York Sun</title> (12 January 1935).</note></l>
-                  <l n="06"><quote rend="begin"/> . . . . One instinctively notes that it is</l>
+                  <l n="06"><quote corresp="0151_verso_l06_quote"/> . . . . One instinctively notes that it is</l>
                   <l n="07">the work of a gentleman.  This is so</l>
                   <l n="08">remarkable &amp; singular an observation</l>
                   <l n="09">to be made of the work of a contemporary</l>
@@ -330,7 +330,7 @@
                   <l n="21">me. . . . I take the world as I</l>
                   <l n="22">find it&#8212;and like it. . . . .</l>
                   <l n="23">It is simply that I love living</l>
-                  <l n="24">upon any terms.<quote rend="end"/></l>
+                  <l n="24">upon any terms.<quote corresp="#0151_verso_l06_quote"/></l>
                </lg>
             </div>
          </div>
@@ -342,22 +342,22 @@
                <desc>From lines 10 to 13 MM draws a bracket in the left margin, between the question mark and the text.</desc>
                <lg>
                   <l n="01"><bibl corresp="0151_recto_l01_bibl"/>Jan  18 1935          Philad. (Ledger?)</l>
-                  <l n="02">Joseph Fort Newton.<bibl corresp="#0151_recto_l01_bibl"/><note>Probably an article by Joseph Fort Newton from the <title>Philadelphia Ledger</title>, January 18, 1935.</note><note target="Newton">Joseph Fort Newton [1880-1950] was a prominent American Baptist minister whose sermons and other writing were widely circulated in print. He spent the latter part of his career in Philadelphia.</note><quote rend="begin"/>as you</l>
+                  <l n="02">Joseph Fort Newton.<bibl corresp="#0151_recto_l01_bibl"/><note>Probably an article by Joseph Fort Newton from the <title>Philadelphia Ledger</title>, January 18, 1935.</note><note target="Newton">Joseph Fort Newton [1880-1950] was a prominent American Baptist minister whose sermons and other writing were widely circulated in print. He spent the latter part of his career in Philadelphia.</note><quote corresp="0151_recto_l01_quote"/>as you</l>
                   <l n="03">recall, Ruskin said he would like</l>
                   <l n="04">to macadamize some new roads to</l>
                   <l n="05">heaven: make Italian's industrious</l>
                   <l n="06">the Swiss romantic, the Americans</l>
                   <l n="07">quiet, Churchmen rational, &amp; politicians</l>
                   <l n="08">honest, but had no hope of doing</l>
-                  <l n="09">any of these things.<quote rend="end"/></l>
+                  <l n="09">any of these things.<quote corresp="#0151_recto_l01_quote"/></l>
                   <l n="10"></l>
                   <l n="11">? The Playbill Beaunash.<note>MM quotes this source in her notes to “Smooth Gnarled Crape Myrtle” as from “Beau Nash: <title>The Playbill</title>, January 1935.”</note></l>
                   <l n="12"><del>Dec.</del>       Jan    1935</l>
                   <l n="13"></l>
-                  <l n="14"><quote rend="begin"/>. . . .   the Abassadorial Inverness</l>
+                  <l n="14"><quote corresp="0151_recto_l14_quote"/>. . . .   the Abassadorial Inverness</l>
                   <l n="15">is shouldering itself into wider favor</l>
                   <l n="16">among those who sleep in New York,</l>
-                  <l n="17">but dream of London&#8212;<quote rend="end"/></l>
+                  <l n="17">but dream of London&#8212;<quote corresp="#0151_recto_l14_quote"/></l>
                   <l n="18">         ___________________</l>
                   <l n="19">         The Tyro                1s 6d</l>
                   <l n="20">Edited by Wyndham Lewis<note target="lewis">Lewis, Wyndham [1882-1957]. English painter, writer, and critic, co-founder of Vorticism. MM admired his and Ezra Pound’s little magazine <title>Blast</title> (1914) and she praised Tyro in “Feeling and Precision.”</note></l>
