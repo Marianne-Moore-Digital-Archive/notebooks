@@ -1489,13 +1489,13 @@
                   <l n="08"><hi rend="blue">Pubd    &amp; Copyrighted by The Virginia Navigation <add>Co.</add></hi></l>
                   <l n="09"><hi rend="blue">Richmond .Va. <bibl corresp="#0169_recto_l07_bibl"/><note><title>Afloat on the James.</title>Richmond: Virginia Navigation Company, 1914.</note>       Steamer Pocahontas</hi></l>
                   <l n="10"></l>
-                  <l n="11"><hi rend="blue">p. 53  <quote rend="begin"/>The Story of Pocahontas<note>MM is taking notes toward "Virginia Brittania".</note></hi></l>
+                  <l n="11"><hi rend="blue">p. 53  <quote corresp="0169_recto_l11_quote"/>The Story of Pocahontas<note>MM is taking notes toward "Virginia Brittania".</note></hi></l>
                   <l n="12"><hi rend="blue">Powhatan, otherwise Mamatowick</hi></l>
                   <l n="13"><hi rend="blue">cf.  De Soto's soldier Juan Ortiz</hi></l>
                   <l n="14"><hi rend="blue">    captured by Florida Indians  1539.</hi></l>
                   <!-- After checking the notebook image, I have replaced the line number for line 16 with the number "15" to fill the gap in the transcription. EF! -->
                   <l n="15"><hi rend="blue">Condemned to torture when the daughter</hi></l>
-                  <l n="16"><hi rend="blue">of Ucita, the chief intervened.<quote rend="end"/></hi></l>
+                  <l n="16"><hi rend="blue">of Ucita, the chief intervened.<quote corresp="#0169_recto_l11_quote"/></hi></l>
                   <l n="17"><hi rend="blue">        _____________                             The <add>12</add>London Company</hi></l>
                   <l n="18"><hi rend="blue">     <bibl corresp="0169_recto_l18_bibl"/>History of Hampton and</hi></l>
                   <l n="19"><hi rend="blue">Elizabeth City County, Virginia<bibl corresp="#0169_recto_l18_bibl"/><note>Tyler, Lyon Gardiner. <title>History of Hampton and Elizabeth City County, Virginia</title>. Hampton: Board of Supervisors of Elizabeth City County, 1922. Lyon Gardiner Tyler [1853-1935] was an American educator and historian who served as the president of the College of William and Mary for over forty years. He was the son of tenth United States president, John Tyler.</note></hi></l>
@@ -1514,7 +1514,7 @@
                <desc>On lines 1-5, MM’s underscoring and crossing out are in pencil;
                   on line 4, after the word “tribe,” MM draws a diagonal arrow in pencil pointing to the phrase “cf. Alqonquins” on line 8</desc>
                <lg>
-                  <l n="01"><hi rend="pencil">Cf</hi>  <note>Tyler, Lyon Gardiner. <title>History of Hampton and Elizabeth City County, Virginia</title>(see earlier note).</note><quote rend="begin"/><hi rend="blue">The <hi rend="underline"><del>Indians</del></hi>were called Kecoughtans<note>MM is taking notes toward "Virginia Britannia."</note></hi></l>
+                  <l n="01"><hi rend="pencil">Cf</hi>  <note>Tyler, Lyon Gardiner. <title>History of Hampton and Elizabeth City County, Virginia</title>(see earlier note).</note><quote corresp="0170_verso_l01_quote"/><hi rend="blue">The <hi rend="underline"><del>Indians</del></hi>were called Kecoughtans<note>MM is taking notes toward "Virginia Britannia."</note></hi></l>
                   <l n="02"><hi rend="blue">(inhabitants of the Great Town")</hi></l>
                   <l n="03"><hi rend="blue"><hi rend="underline">member of a Confederacy of about</hi></hi></l>
                   <l n="04"><hi rend="blue"><hi rend="underline">34 tribes</hi>occupying Tidwater Virginia</hi></l>
@@ -1537,7 +1537,7 @@
                   <l n="21"><hi rend="blue">in honor of Henry Wriothesley,</hi></l>
                   <l n="22"><hi rend="blue">Earl of Southampton, Pres.</hi></l>
                   <l n="23"><hi rend="blue">of the Va Co of London from</hi></l>
-                  <l n="24"><hi rend="blue">1620 to 1625   &amp; his vague map<quote rend="end"/></hi></l>
+                  <l n="24"><hi rend="blue">1620 to 1625   &amp; his vague map</hi></l>
                </lg>
             </div>
          </div>
@@ -1547,7 +1547,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0170-recto.jpg"
                   n="0170-recto"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Tyler, Lyon Gardiner. <title>History of Hampton and Elizabeth City County, Virginia</title>(see earlier note).</note><quote rend="begin"/>gave to     Southampton Roads.<note>MM is taking notes toward "Virginia Britannia."</note></hi></l>
+                  <l n="01"><hi rend="blue"><note>Tyler, Lyon Gardiner. <title>History of Hampton and Elizabeth City County, Virginia</title>(see earlier note).</note>gave to     Southampton Roads.<note>MM is taking notes toward "Virginia Britannia."</note></hi></l>
                   <l n="02"><hi rend="blue">     Fort Monroe   Capt John Ratcliffe,</hi></l>
                   <l n="03"><hi rend="blue">        stockade =</hi></l>
                   <l n="04"><hi rend="blue">p. 13 <del>Fort</del>Algernourne Fort</hi></l>
@@ -1572,7 +1572,7 @@
                   <l n="22"><hi rend="blue">Newce  high marshall to Virginia</hi></l>
                   <l n="23"></l>
                   <l n="24"><hi rend="blue"> Newpor Newce   named for these</hi></l>
-                  <l n="25"><hi rend="blue">two brothers.<quote rend="end"/></hi></l>
+                  <l n="25"><hi rend="blue">two brothers.</hi></l>
                </lg>
             </div>
          </div>
@@ -1582,7 +1582,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0171-verso.jpg"
                   n="0171-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Tyler, Lyon Gardiner. <title>History of Hampton and Elizabeth City County, Virginia</title>(see earlier note).</note><quote rend="begin"/>1637  Fort Henry abandoned</hi></l>
+                  <l n="01"><hi rend="blue"><note>Tyler, Lyon Gardiner. <title>History of Hampton and Elizabeth City County, Virginia</title>(see earlier note).</note>1637  Fort Henry abandoned</hi></l>
                   <l n="02"><hi rend="blue">was called Fort Field</hi></l>
                   <l n="03"></l>
                   <l n="04"><hi rend="blue">22     4 yrs before J. Harvard</hi></l>
@@ -1598,15 +1598,15 @@
                   <l n="14"><hi rend="blue">increase of 8 cows for the ed.</hi></l>
                   <l n="15"><hi rend="blue">&amp; instruction of his children of the</hi></l>
                   <l n="16"><hi rend="blue">adjoining parishes of Eliz. City</hi></l>
-                  <l n="17"><hi rend="blue">&amp; Kiquotan<quote rend="end"/></hi></l>
+                  <l n="17"><hi rend="blue">&amp; Kiquotan<quote corresp="#0170_verso_l01_quote"/></hi></l>
                   <l n="18"></l>
                   <l n="19"><hi rend="blue"><bibl corresp="0171_verso_l19_bibl"/>NY Times Book Review</hi></l>
                   <l n="20"><hi rend="blue">23   June 1935   Notes on Rare</hi></l>
                   <l n="21"><hi rend="blue">Books<bibl corresp="#0171_verso_l19_bibl"/>.<note>Brooks, Philip. "Notes on Rare Books." <title>New York Times</title>(23 June 1935): BR 16. Philip Brooks [1899-1975] was a bookseller and specialist on rare books who wrote the "Notes on Rare Book" column for the <title>New York Times Book Review</title>from 1932 to 1943.</note>    Lockwood Mem. Lib.</hi></l>
                   <l n="22"><hi rend="blue">Buffalo</hi></l>
-                  <l n="23"><hi rend="blue"><quote rend="begin"/>Accordingly there was issue a little</hi></l>
+                  <l n="23"><hi rend="blue"><quote corresp="0171_verso_l23_quote"/>Accordingly there was issue a little</hi></l>
                   <l n="24"><hi rend="blue"><del>synopsis</del>  souvenir. . . . Watchfulness,</hi></l>
-                  <l n="25"><hi rend="blue">which must not seem excessive,<quote rend="end"/></hi></l>
+                  <l n="25"><hi rend="blue">which must not seem excessive,</hi></l>
                </lg>
             </div>
          </div>
@@ -1636,14 +1636,14 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0172-recto.jpg"
                   n="0172-recto"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Brooks, Philip. "Notes on Rare Books" (see earlier note).</note><quote rend="begin"/>sufficient to keep intact treasures</hi></l>
-                  <l n="02"><hi rend="blue">that could never be restored.<quote rend="end"/></hi></l>
+                  <l n="01"><hi rend="blue"><note>Brooks, Philip. "Notes on Rare Books" (see earlier note).</note>sufficient to keep intact treasures</hi></l>
+                  <l n="02"><hi rend="blue">that could never be restored.<quote corresp="#0171_verso_l23_quote"/></hi></l>
                   <!-- The following note needs title and page number - archives available online but UB does not have access KN ! -->
                   <l n="03"><hi rend="blue"><bibl corresp="0172_recto_l03_bibl"/>15 Feb.  30  Spectator<bibl corresp="#0172_recto_l03_bibl"/><note>Jones, Rufus. <title>The Spectator</title>(15 February 1930).Rufus Matthew Jones [1863-1948] was a prominent Quaker theologican and historian and taught philosophy at Bryn Mawr College.</note>Prof. Rufus</hi></l>
-                  <l n="04"><hi rend="blue">Jones   <quote rend="begin"/>In Defense of the Faith XIII</hi></l>
+                  <l n="04"><hi rend="blue">Jones   <quote corresp="0172_recto_l04_quote"/>In Defense of the Faith XIII</hi></l>
                   <l n="05"><hi rend="blue">awe and mystery were best left</hi></l>
                   <l n="06"><hi rend="blue"> without too many disturbing</hi></l>
-                  <l n="07"><hi rend="blue">interrogation points.<quote rend="end"/></hi></l>
+                  <l n="07"><hi rend="blue">interrogation points.<quote corresp="#0172_recto_l04_quote"/></hi></l>
                   <l n="08"></l>
                   <l n="09"><hi rend="blue">      <bibl corresp="0172_recto_l09_bibl"/>Travels and Works of Captain J. Smith</hi></l>
                   <l n="10"><hi rend="blue">President of Virginia, and Admiral of</hi></l>
@@ -1670,7 +1670,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0173-verso.jpg"
                   n="0173-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Arbor, Edward, editor. <title>Travels and Works of Captain John Smith</title>(see earlier note).</note><quote rend="begin"/>see W. Herbert's edition of</hi></l>
+                  <l n="01"><hi rend="blue"><note>Arbor, Edward, editor. <title>Travels and Works of Captain John Smith</title>(see earlier note).</note><quote corresp="0173_verso_l01_quote"/>see W. Herbert's edition of</hi></l>
                   <l n="02"><hi rend="blue">J. Ames's Typographical Antiquities</hi></l>
                   <l n="03"><hi rend="blue">iii   1398   Ed. 1790 4<hi rend="superscript">to</hi></hi></l>
                   <l n="04"><hi rend="blue">70   Part 1</hi></l>
@@ -1698,7 +1698,7 @@
                   <l n="24"><hi rend="blue">S. George his Dragon, as possible</hi></l>
                   <l n="25"><hi rend="blue">can be except his legs and wings.</hi></l>
                   <l n="26"></l>
-                  <l n="27"><hi rend="blue">7Captain Newport congratulated<note>MM writes the -ed suffix for "congratulated" on the recto page.</note><quote rend="end"/></hi></l>
+                  <l n="27"><hi rend="blue">7Captain Newport congratulated<note>MM writes the -ed suffix for "congratulated" on the recto page.</note></hi></l>
                </lg>
             </div>
          </div>
@@ -1708,7 +1708,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0173-recto.jpg"
                   n="0173-recto"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Arbor, Edward, editor. <title>Travels and Works of Captain John Smith</title>(see earlier note).</note><quote rend="begin"/>his kindness with a Gown and a</hi></l>
+                  <l n="01"><hi rend="blue"><note>Arbor, Edward, editor. <title>Travels and Works of Captain John Smith</title>(see earlier note).</note>his kindness with a Gown and a</hi></l>
                   <l n="02"><hi rend="blue">Hatchet.</hi></l>
                   <l n="03"><hi rend="blue">. . .</hi></l>
                   <l n="04"><hi rend="blue">Least I should wrong any in</hi></l>
@@ -1735,7 +1735,7 @@
                   <l n="24"><hi rend="blue">       Accidence</hi></l>
                   <l n="25"><hi rend="blue">              or</hi></l>
                   <l n="26"><hi rend="blue">      the Path-way to </hi></l>
-                  <l n="27"><hi rend="blue"><add>ed</add>         Experience.<bibl corresp="#0173_recto_l23_bibl"/><quote rend="end"/><note>Smith, John.  <title>An Accidence, Or the Path-way to Experience Necessary for All Young Sea-Men</title>.  London: Jonas Man and Benjamin Fisher, 1626. John Smith [c.1580-1631] was an English soldier, explorer, colonial governor who played an important role in establishing the first English colonial settlement in North America, at Jamestown, Virginia.</note></hi></l>
+                  <l n="27"><hi rend="blue"><add>ed</add>         Experience.<bibl corresp="#0173_recto_l23_bibl"/><quote corresp="#0173_verso_l01_quote"/><note>Smith, John.  <title>An Accidence, Or the Path-way to Experience Necessary for All Young Sea-Men</title>.  London: Jonas Man and Benjamin Fisher, 1626. John Smith [c.1580-1631] was an English soldier, explorer, colonial governor who played an important role in establishing the first English colonial settlement in North America, at Jamestown, Virginia.</note></hi></l>
                </lg>
             </div>
          </div>
@@ -1746,7 +1746,7 @@
                   n="0174-verso"/>
                <desc>From the T on line 22, MM draws an arrow pointing upward to <hi rend="underline">“An Accidence.”</hi></desc>
                <lg>
-                  <l n="01"><hi rend="blue"><quote rend="begin"/><bibl corresp="0174_verso_l01_bibl"/>Necessary for all Young Sea-men &amp; those</hi></l>
+                  <l n="01"><hi rend="blue"><quote corresp="0174_verso_l01_quote"/><bibl corresp="0174_verso_l01_bibl"/>Necessary for all Young Sea-men &amp; those</hi></l>
                   <l n="02"><hi rend="blue">that are desirous to goe to Sea,</hi></l>
                   <l n="03"><hi rend="blue">  ____________________</hi></l>
                   <l n="04"><hi rend="blue">              London:                                           <add>Fisher</add></hi></l>
@@ -1759,10 +1759,10 @@
                   <l n="11"><hi rend="blue">                                 hands of <del>th</del>master</hi></l>
                   <l n="12"><hi rend="blue">                                  Doctor  Worrall</hi></l>
                   <l n="13"><hi rend="blue">and both the wardens A Booke</hi></l>
-                  <l n="14"><hi rend="blue">Called     <hi rend="underline">An Accidence or pathway</hi><quote rend="end"/></hi></l>
+                  <l n="14"><hi rend="blue">Called     <hi rend="underline">An Accidence or pathway</hi><quote corresp="#0174_verso_l01_quote"/></hi></l>
                   <l n="15"></l>
                   <l n="16"><hi rend="blue">788.</hi></l>
-                  <l n="17"><hi rend="blue">          <quote rend="begin"/>To the Reader;   and <del>all</del>ALL //</hi></l>
+                  <l n="17"><hi rend="blue">          <quote corresp="0174_verso_l17_quote"/>To the Reader;   and <del>all</del>ALL //</hi></l>
                   <l n="18"><hi rend="blue"> // Generous and Noble Adventurers</hi></l>
                   <l n="19"><hi rend="blue">by Sea; //</hi></l>
                   <l n="20"><hi rend="blue">      and well-wsihers to Navigation.</hi></l>
@@ -1771,7 +1771,7 @@
                   <l n="23"><hi rend="blue">    Worthy Readers:</hi></l>
                   <!-- I have replaced the curly brackets with square brackets to match the image description for line 24. EF! -->
                   <l n="24"><hi rend="blue"> [1626]   How ever your perfections</hi></l>
-                  <l n="25"><hi rend="blue">may censure my imperfections,<quote rend="end"/></hi></l>
+                  <l n="25"><hi rend="blue">may censure my imperfections,</hi></l>
                </lg>
             </div>
          </div>
@@ -1782,7 +1782,7 @@
                   n="0174-recto"/>
                <desc>MM draws a bracket in the left margin on lines 14-18; on line 18, she draws a peculiarly shaped J, presumably to indicate the typescript used. She draws an arrow from the “J” pointing to the first letter of “John.”</desc>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Smith, John.  <title>An Accidence</title>(see earlier note)</note><quote rend="begin"/>I know not: my greatest error</hi></l>
+                  <l n="01"><hi rend="blue"><note>Smith, John.  <title>An Accidence</title>(see earlier note)</note>I know not: my greatest error</hi></l>
                   <l n="02"><hi rend="blue">in this is but a desire to do good;</hi></l>
                   <l n="03"><hi rend="blue">which disease hath ever haunted</hi></l>
                   <l n="04"><hi rend="blue">mee since child-hood; and all the</hi></l>
@@ -1808,7 +1808,7 @@
                   <l n="22"><hi rend="blue">to a great happiness; had they not</hi></l>
                   <l n="23"><hi rend="blue"> doated  so much on their Tobacco, on</hi></l>
                   <l n="24"><hi rend="blue">whose furnish foundaiton there is <del>small</del></hi></l>
-                  <l n="25"><hi rend="blue">small   stability: there being so many<quote rend="end"/></hi></l>
+                  <l n="25"><hi rend="blue">small   stability: there being so many</hi></l>
                </lg>
                <lg type="vertical">
                   <!-- Editorial description for line v27: span lines 19-16, left margin, in two rows of print -->
@@ -1823,9 +1823,9 @@
                   n="0175-verso"/>
                <desc>Bottom of page, center, in pencil, MM draws a stylized leaf, or sail, with a curved line intersecting its stem or mast. Directly to the right is a pasted-in image that she is duplicating. In the left margin, from this image to line 05, MM draws in pencil a long vertical line, with a second line parallel that ends in a large curve around lines 20-18; a large spiraling curlicue extends from these lines, between lines 16 and 09.</desc>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Smith, John. <title>An Accidence</title>(see earlier note).</note><quote rend="begin"/>good commodities beside.</hi></l>
+                  <l n="01"><hi rend="blue"><note>Smith, John. <title>An Accidence</title>(see earlier note).</note>good commodities beside.</hi></l>
                   <l n="02"><hi rend="blue">. . . But <hi rend="underline">Iames</hi>town was 500</hi></l>
-                  <l n="03"><hi rend="blue">pounds a year<quote rend="end"/>			1935</hi></l>
+                  <l n="03"><hi rend="blue">pounds a year<quote corresp="#0174_verso_l17_quote"/>			1935</hi></l>
                   <l n="04"><hi rend="blue">                 Pratt Library Oct. 12 </hi></l>
                   <l n="05"><hi rend="blue">                                       Bibles</hi></l>
                   <l n="06"><hi rend="blue"> folio   Booke of Psalms fr. an Italian convent</hi></l>
@@ -1960,15 +1960,15 @@
                   <l n="02"><hi rend="blue"><foreign xml:lang="fr">La lettre attendee.</foreign>The welcome letter</hi></l>
                   <l n="03"><hi rend="blue"><foreign xml:lang="fr">Faut-il l'envoyer</foreign>Shall I mail it</hi></l>
                   <l n="04"><hi rend="blue">       ____________</hi></l>
-                  <l n="05"><hi rend="blue">Isaiah ILIV  16-17.  <quote rend="begin"/>yea he</hi></l>
+                  <l n="05"><hi rend="blue">Isaiah ILIV  16-17.  <quote corresp="0177_verso_l05_quote"/>yea he</hi></l>
                   <l n="06"><hi rend="blue">warmeth himself, and saith Aha, I am</hi></l>
                   <l n="07"><hi rend="blue">warm, I have seen the fire.  17 And</hi></l>
                   <l n="08"><hi rend="blue">the residue thereof he maketh a god,</hi></l>
                   <!-- I have replaced the curly bracket with a square bracket in line 9 to match the image description. EF! -->
-                  <l n="09"><hi rend="blue"> [12 the smith with the tongs.<quote rend="end"/></hi></l>
+                  <l n="09"><hi rend="blue"> [12 the smith with the tongs.<quote corresp="#0177_verso_l05_quote"/></hi></l>
                   <l n="10"><hi rend="blue">                                         1935</hi></l>
                   <l n="11"><hi rend="blue"><bibl corresp="0177_verso_l11_bibl"/><hi rend="underline">Current Events</hi>Oct 28 Nov 1<bibl corresp="#0177_verso_l11_bibl"/></hi></l>
-                  <l n="12"><hi rend="blue"><quote rend="begin"/>The next 10 years    may be the driest</hi></l>
+                  <l n="12"><hi rend="blue"><quote corresp="0177_verso_l12_quote"/>The next 10 years    may be the driest</hi></l>
                   <l n="13"><hi rend="blue">we have had since 1787, acc to</hi></l>
                   <l n="14"><hi rend="blue">H.P. Gillette, a Chicago mining</hi></l>
                   <!-- After checking the notebook image, I have replaced the line number for line 16 with the number "15" to fill the gap in the transcription. EF! -->
@@ -1980,7 +1980,7 @@
                   <l n="20"><hi rend="blue"><del>silk</del>silt along river banks,</hi></l>
                   <l n="21"><hi rend="blue">and other signs found in nature</hi></l>
                   <l n="22"><hi rend="blue">(Tree rings are wide in years</hi></l>
-                  <l n="23"><hi rend="blue">of heavy rainfall; narrow in years<quote rend="end"/></hi></l>
+                  <l n="23"><hi rend="blue">of heavy rainfall; narrow in years</hi></l>
                </lg>
             </div>
          </div>
@@ -1991,7 +1991,7 @@
                   n="0177-recto"/>
                <lg>
                   <!-- Editor: Only include the note for line 1 if a proper citation is found -->
-                  <l n="01"><hi rend="blue"><note><title>Current Events</title>(see earlier note).</note><quote rend="begin"/>of drought.) &#182;  Mr <del>Giltle</del>Gillette</hi></l>
+                  <l n="01"><hi rend="blue"><note><title>Current Events</title>(see earlier note).</note>of drought.) &#182;  Mr <del>Giltle</del>Gillette</hi></l>
                   <!-- I have changed "three" to "there" in line two after checking the notebook image. EF! -->
                   <l n="02"><hi rend="blue">found that there is a period of drought</hi></l>
                   <l n="03"><hi rend="blue">every century and a half, &amp; that it</hi></l>
@@ -2001,10 +2001,10 @@
                   <l n="07"><hi rend="blue">to increase it,   so they will not suffer</hi></l>
                   <l n="08"><hi rend="blue">a shortage during the coming</hi></l>
                   <l n="09"><hi rend="blue">decade (děḱ-ād: a period of</hi></l>
-                  <l n="10"><hi rend="blue">ten years).<quote rend="end"/></hi></l>
+                  <l n="10"><hi rend="blue">ten years).<quote corresp="#0177_verso_l12_quote"/></hi></l>
                   <l n="11"></l>
                   <l n="12"><hi rend="blue"><bibl corresp="0177_recto_l12_bibl"/>20 ap.  Art News.     1935<bibl corresp="#0177_recto_l12_bibl"/></hi></l>
-                  <l n="13"><hi rend="blue"><quote rend="begin"/>Rains Galleries (Rains Auction Rooms Inc.)</hi></l>
+                  <l n="13"><hi rend="blue"><quote corresp="0177_recto_l13_quote"/>Rains Galleries (Rains Auction Rooms Inc.)</hi></l>
                   <l n="14"><hi rend="blue">. . .To be sold at Public Sale Friday ev. <del>in eg</del></hi></l>
                   <l n="15"><hi rend="blue">April 26 at 8.30 P.M.     Important Amer</hi></l>
                   <l n="16"><hi rend="blue">&amp;European <hi rend="underline">Paintings</hi>   The Collection of</hi></l>
@@ -2012,11 +2012,11 @@
                   <l n="18"><hi rend="blue">               Brookline, Mass.</hi></l>
                   <l n="19"><hi rend="blue"> "A Bashi Bazouk" by Charles</hi></l>
                   <l n="20"><hi rend="blue">Bargue    Sales conducted by Mr. E Harold</hi></l>
-                  <l n="21"><hi rend="blue">L. Thompson          (Fromentin Delacroix etc)<quote rend="end"/></hi></l>
+                  <l n="21"><hi rend="blue">L. Thompson          (Fromentin Delacroix etc)<quote corresp="#0177_recto_l13_quote"/></hi></l>
                   <l n="22"></l>
                   <l n="23"><hi rend="blue"><bibl corresp="0177_recto_l23_bibl"/>April 13  1935     p.   15<bibl corresp="#0177_recto_l23_bibl"/></hi></l>
-                  <l n="24"><hi rend="blue"><quote rend="begin"/>Rockefeller Gift to Metrop. Museum</hi></l>
-                  <l n="25"><hi rend="blue">The Hunt of the Unicorn.<quote rend="end"/></hi></l>
+                  <l n="24"><hi rend="blue"><quote corresp="0177_recto_l24_quote"/>Rockefeller Gift to Metrop. Museum</hi></l>
+                  <l n="25"><hi rend="blue">The Hunt of the Unicorn.</hi></l>
                </lg>
             </div>
          </div>
@@ -2026,7 +2026,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0178-verso.jpg"
                   n="0178-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note><title>Art News</title>(13 April 1935) (see earlier page).</note><quote rend="begin"/>1. The start of the Hunt</hi></l>
+                  <l n="01"><hi rend="blue"><note><title>Art News</title>(13 April 1935) (see earlier page).</note>1. The start of the Hunt</hi></l>
                   <l n="02"><hi rend="blue">2 The Unicorn at the Fountain</hi></l>
                   <l n="03"><hi rend="blue">3 The Unicorn Attempts to Escape</hi></l>
                   <l n="04"><hi rend="blue">Crossing the Charente River</hi></l>
@@ -2045,13 +2045,13 @@
                   <l n="16"><hi rend="blue">Rouchefoucauld &amp; his wife Marguerite</hi></l>
                   <l n="17"><hi rend="blue">de Barbezieux and hung for</hi></l>
                   <l n="18"><hi rend="blue">Centuries in the Castle of Verteuil,</hi></l>
-                  <l n="19"><hi rend="blue">France.<quote rend="end"/></hi></l>
+                  <l n="19"><hi rend="blue">France.<quote corresp="#0177_recto_l24_quote"/></hi></l>
                   <l n="20"><hi rend="blue">          <bibl corresp="0178_verso_l20_bibl"/>May 18 1935    ART News<bibl corresp="#0178_verso_l20_bibl"/><note>"The Forum of Decorative Arts." <title>Art News</title>(18 May 1935): 10.</note></hi></l>
-                  <l n="21"><hi rend="blue"><quote rend="begin"/>p.10  The Forum of Decorative</hi></l>
+                  <l n="21"><hi rend="blue"><quote corresp="0178_verso_l21_quote"/>p.10  The Forum of Decorative</hi></l>
                   <l n="22"><hi rend="blue">Arts Owing <del>to</del>its undoubted</hi></l>
                   <l n="23"><hi rend="blue">beauty to <del>the</del>perfection of form,</hi></l>
                   <l n="24"><hi rend="blue">this rare early Irish silver</hi></l>
-                  <l n="25"><hi rend="blue">bowl is a feature of the Wyler<quote rend="end"/></hi></l>
+                  <l n="25"><hi rend="blue">bowl is a feature of the Wyler</hi></l>
                </lg>
             </div>
          </div>
@@ -2062,11 +2062,11 @@
                   n="0178-recto"/>
                <desc>On line 23 MM underscores the phrase in orange crayon.</desc>
                <lg>
-                  <l n="01"><hi rend="blue"><note>"The Forum of Decorative Arts" (see earlier note).</note><quote rend="begin"/>collection. It was made in Dublin in</hi></l>
+                  <l n="01"><hi rend="blue"><note>"The Forum of Decorative Arts" (see earlier note).</note>collection. It was made in Dublin in</hi></l>
                   <l n="02"><hi rend="blue">1735 by a silversmith&#8212;identified only</hi></l>
                   <l n="03"><hi rend="blue">by the initials, D. B., and is bare of all</hi></l>
                   <l n="04"><hi rend="blue">ornament save the crest, which</hi></l>
-                  <l n="05"><hi rend="blue">provides the right note of contrast.<quote rend="end"/></hi></l>
+                  <l n="05"><hi rend="blue">provides the right note of contrast.<quote corresp="#0178_verso_l21_quote"/></hi></l>
                   <!-- Is this the editor's question mark or MM's in line 6? EF! -->
                   <l n="06"><hi rend="blue">     Oct?  19,  1935  A N </hi></l>
                   <l n="07"><hi rend="blue">A great vivacity of modeling characterizes</hi></l>
@@ -2108,7 +2108,7 @@
                <lg>
                   <l n="01"><hi rend="blue"><bibl corresp="0179_verso_l01_bibl"/>p.3  On Designing a Type-Face</hi></l>
                   <l n="02"><hi rend="blue">                         Frederick W Goudy<note target="goudy">Frederic W Goudy [1865-1947]. American printer and typographer who designed more than 100 typefaces outstanding for their strength and beauty.</note><bibl corresp="#0179_verso_l01_bibl"/><note>Goudy, Frederic. “On Designing a Type Face.” <title>The Dolphin</title>No. 1 (1933): 3-23.</note></hi></l>   
-                  <l n="03"><hi rend="blue"><quote rend="begin"/>1. adapt</hi></l>
+                  <l n="03"><hi rend="blue"><quote corresp="0179_verso_l03_quote"/>1. adapt</hi></l>
                   <!-- I have replaced the curly bracket with a square bracket to match the description for line 4. -->
                   <l n="04"><hi rend="blue"> [2 create something entirely new by reverting</hi></l>
                   <l n="05"><hi rend="blue">to the manuscript hand of a mediaeval</hi></l>
@@ -2134,7 +2134,7 @@
                   <l n="25"><hi rend="blue">method. . . . found his majuscule</hi></l>
                   <l n="26"><hi rend="blue"><add>2</add>ready to his hand<del>&amp; in the fixed</del></hi></l>
                   <l n="27"><hi rend="blue">&amp; needed only to add his minuscules</hi></l>
-                  <l n="28"><hi rend="blue">He exercised care of course, to secure<quote rend="end"/></hi></l>
+                  <l n="28"><hi rend="blue">He exercised care of course, to secure</hi></l>
                </lg>
             </div>
          </div>
@@ -2145,7 +2145,7 @@
                   n="0179-recto"/>
                <desc>On lines 01-04 in the left margin MM continues a bracket begun on the previous page; on lines 05-10, she draws another bracket in the left margin and extending under line 10. In the right margin, she numbers the bracketed texts respectively 2 and 1, circling both numerals.</desc>
                <lg>
-                  <l n="01"><hi rend="begin"><note>Goudy, Frederic. “On Designing a Type Face” (see earlier note).</note><quote rend="begin"/>harmony in weight of stems, but</hi></l>
+                  <l n="01"><hi rend="begin"><note>Goudy, Frederic. “On Designing a Type Face” (see earlier note).</note>harmony in weight of stems, but</hi></l>
                   <l n="02"><hi rend="begin">little change in actual design or           2</hi></l>
                   <l n="03"><hi rend="begin"><add>2</add>proportion, &amp; was prac. a mere</hi></l>
                   <l n="04"><hi rend="begin">translation from one medium to another.</hi></l>
@@ -2171,7 +2171,7 @@
                   <l n="23"><hi rend="begin">elegant &amp; strong.</hi></l>
                   <l n="24"><hi rend="begin"> . . .  Simon Pierre Fournier author</hi></l>
                   <l n="25"><hi rend="begin">of the Manuel Typographique</hi></l>
-                  <l n="26"><hi rend="begin">    1764-1766&#8212;<quote rend="end"/></hi></l>
+                  <l n="26"><hi rend="begin">    1764-1766&#8212;</hi></l>
                </lg>
             </div>
          </div>
@@ -2181,7 +2181,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0180-verso.jpg"
                   n="0180-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><quote rend="begin"/><note>Goudy, Frederic. "On Designing a Type Face" (see earlier note).</note>thought of himself as a <hi rend="underline">cutter</hi>rather</hi></l>
+                  <l n="01"><hi rend="blue"><note>Goudy, Frederic. "On Designing a Type Face" (see earlier note).</note>thought of himself as a <hi rend="underline">cutter</hi>rather</hi></l>
                   <l n="02"><hi rend="blue">than as a designer. observing</hi></l>
                   <l n="03"><hi rend="blue"><hi rend="underline">alterations</hi>that might be made in</hi></l>
                   <l n="04"><hi rend="blue">them.  Secondly, I attempted to combine</hi></l>
@@ -2204,7 +2204,7 @@
                   <l n="21"><hi rend="blue">a tendency to make everything&#8212;</hi></l>
                   <l n="22"><hi rend="blue">little too rigid and square is</hi></l>
                   <l n="23"><hi rend="blue">noticeable: can that be remedied</hi></l>
-                  <l n="24"><hi rend="blue">seriffs perhaps a little too fat</hi><hi rend="pencil">"</hi><quote rend="end"/></l>
+                  <l n="24"><hi rend="blue">seriffs perhaps a little too fat</hi><hi rend="pencil">"</hi></l>
                </lg>
             </div>
          </div>
@@ -2234,7 +2234,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0181-recto.jpg"
                   n="0181-recto"/>
                <lg>
-                  <l n="01"><hi rend="blue"><quote rend="begin"/><note>Goudy, Frederic. "On Designing a Type Face" (see earlier note)</note>B. Rogers' Centaur seems just to</hi></l>
+                  <l n="01"><hi rend="blue"><note>Goudy, Frederic. "On Designing a Type Face" (see earlier note)</note>B. Rogers' Centaur seems just to</hi></l>
                   <l n="02"><hi rend="blue">make the Jenson a little <del>clearer</del></hi></l>
                   <l n="03"><hi rend="blue">more clear cut</hi></l>
                   <l n="04"></l>
@@ -2260,7 +2260,7 @@
                   <l n="24"><hi rend="blue">by Jacobus Rebens in 1776 &amp;</hi></l>
                   <l n="25"><hi rend="blue">a Pliny printed by W. Jenson in</hi></l>
                   <l n="26"><hi rend="blue">the same year.</hi></l>
-                  <l n="27"><hi rend="blue">Wm Morris in The Aims of the K. Press<quote rend="end"/></hi></l>
+                  <l n="27"><hi rend="blue">Wm Morris in The Aims of the K. Press</hi></l>
                </lg>
             </div>
          </div>
@@ -2270,7 +2270,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0182-verso.jpg"
                   n="0182-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Goudy, Frederic. "On Designing a Type Face" (see earlier note).</note><quote rend="begin"/>Nicholas Jenson produced the</hi></l>
+                  <l n="01"><hi rend="blue"><note>Goudy, Frederic. "On Designing a Type Face" (see earlier note).</note>Nicholas Jenson produced the</hi></l>
                   <l n="02"><hi rend="blue">completest &amp; most Roman characters</hi></l>
                   <l n="03"><hi rend="blue">from 1470 to 1476 . . . I did not</hi></l>
                   <l n="04"><hi rend="blue">copy it servilely.</hi></l>
@@ -2295,7 +2295,7 @@
                   <l n="23"><hi rend="blue">really begins, . . . EXP. has</hi></l>
                   <l n="24"><hi rend="blue">taught me that certain features</hi></l>
                   <l n="25"><hi rend="blue">must be slightly exaggerated. . .</hi></l>
-                  <l n="26"><hi rend="blue">other features minimized<quote rend="end"/></hi></l>
+                  <l n="26"><hi rend="blue">other features minimized</hi></l>
                </lg>
             </div>
          </div>
@@ -2305,7 +2305,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0182-recto.jpg"
                   n="0182-recto"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Goudy, Frederic. "On Designing a Type Face" (see earlier note).</note><quote rend="begin"/>architects know that a vertical line</hi></l>
+                  <l n="01"><hi rend="blue"><note>Goudy, Frederic. "On Designing a Type Face" (see earlier note).</note>architects know that a vertical line</hi></l>
                   <l n="02"><hi rend="blue">the same thickness as a horizontal</hi></l>
                   <l n="03"><hi rend="blue">one does not always give the impression</hi></l>
                   <l n="04"><hi rend="blue">of identical thickness.  A letter</hi></l>
@@ -2320,17 +2320,17 @@
                   <l n="13"><hi rend="blue"> . . . .</hi></l>
                   <l n="14"><hi rend="blue">The earliest printers used a single</hi></l>
                   <l n="15"><hi rend="blue">italic design w several different romans</hi></l>
-                  <l n="16"><hi rend="pencil">              The Bros Klingspor  Offenbach<note>The Klingspor Type Foundry was a German business established in 1892 when Carl Klingspor bought out the Rudhard’sche Foundry of Offenbach.</note><quote rend="end"/></hi></l>
+                  <l n="16"><hi rend="pencil">              The Bros Klingspor  Offenbach<note>The Klingspor Type Foundry was a German business established in 1892 when Carl Klingspor bought out the Rudhard’sche Foundry of Offenbach.</note><quote corresp="#0179_verso_l03_quote"/></hi></l>
                   <l n="17"><hi rend="blue"><bibl corresp="0182_recto_l17_bibl"/>Paul Koch    The Making of</hi></l>
                   <l n="18"><hi rend="blue">Printing Types.   The Cutting of Punches</hi></l>
                   <l n="19"><hi rend="blue">trans. in     Otto W Fuhrmann<bibl corresp="#0182_recto_l17_bibl"/><note>Koch, Paul. "The Making of Printing Types," <title>The Dolphin: A Journal of the Making of Books</title>No. 1 (1933): 24-57. Paul Koch [1906-1945]. German punchcutter and founder of typefaces who specialized in music printing. He was son of designer and typographer Rudolf Koch.</note></hi></l>
-                  <l n="20"><hi rend="blue"><quote rend="begin"/>I cut the 4 characters OIBV</hi></l>
+                  <l n="20"><hi rend="blue"><quote corresp="0182_recto_l20_quote"/>I cut the 4 characters OIBV</hi></l>
                   <l n="21"><hi rend="blue">w</hi><hi rend="pencil">ith</hi><hi rend="blue">these 4 characters I can</hi></l>
                   <l n="22"><hi rend="blue"> form some syllables    cut in addition</hi></l>
                   <l n="23"><hi rend="blue">to O, C GQ:  <add>to</add>B: P R E F;</hi></l>
                   <l n="24"><hi rend="blue">to I : T H L K; to V; A M</hi></l>
                   <l n="25"><hi rend="blue">W X Y   Later on D. J. U N Z, and</hi></l>
-                  <l n="26"><hi rend="blue">finally S. <quote rend="end"/></hi></l>
+                  <l n="26"><hi rend="blue">finally S. </hi></l>
                </lg>
             </div>
          </div>
@@ -2340,7 +2340,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0183-verso.jpg"
                   n="0183-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Koch, Paul. "The Making of Printing Types" (see earlier note).</note><quote rend="begin"/><hi rend="underline">Hardening</hi>   The hardened</hi></l>
+                  <l n="01"><hi rend="blue"><note>Koch, Paul. "The Making of Printing Types" (see earlier note).</note><hi rend="underline">Hardening</hi>   The hardened</hi></l>
                   <l n="02"><hi rend="blue">punches are laid for ten minutes in</hi></l>
                   <l n="03"><hi rend="blue">a saucer filled w vinegar, then thor</hi></l>
                   <l n="04"><hi rend="blue">oughly dried w a rag, the face &amp;</hi></l>
@@ -2367,7 +2367,7 @@
                   <l n="24"><hi rend="blue">thick .            p55    The Type METAL.</hi></l>
                   <l n="25"><hi rend="blue">    &#182;  Justification &amp; Hand Casting</hi></l>
                   <l n="26"><hi rend="blue">. . . . Before casting I make a record</hi></l>
-                  <l n="27"><hi rend="blue">of all the characters &amp; note how many<quote rend="end"/></hi></l>
+                  <l n="27"><hi rend="blue">of all the characters &amp; note how many</hi></l>
                </lg>
             </div>
          </div>
@@ -2377,7 +2377,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0183-recto.jpg"
                   n="0183-recto"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Koch, Paul. “The Making of Printing Types” (see earlier note).</note><quote rend="begin"/>times each character occurs on 2</hi></l>
+                  <l n="01"><hi rend="blue"><note>Koch, Paul. “The Making of Printing Types” (see earlier note).</note>times each character occurs on 2</hi></l>
                   <l n="02"><hi rend="blue">pages of my ms. I multiply the sum by</hi></l>
                   <l n="03"><hi rend="blue">the numers of pages. . . .  wide letters</hi></l>
                   <l n="04"><hi rend="blue">such as M &amp; W, are difficult to cast</hi></l>
@@ -2402,7 +2402,7 @@
                   <l n="23"><hi rend="blue">I reverse the second letter</hi></l>
                   <l n="24"><hi rend="blue">p, d, p.   Thus I can form an opinion</hi></l>
                   <l n="25"><hi rend="blue">as to the set width of each letter.</hi></l>
-                  <l n="26"><hi rend="blue">as in punch-cutting, so in casting<quote rend="end"/></hi></l>
+                  <l n="26"><hi rend="blue">as in punch-cutting, so in casting</hi></l>
                </lg>
             </div>
          </div>
@@ -2413,7 +2413,7 @@
                   n="0184-verso"/>
                <desc>MM draws double lines in black pencil, line 22 and 25; after the last surnames on lines 25-27, MM draws a curly bracket, across all three lines.</desc>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Koch, Paul. "The Making of Print Types" (see earlier note).</note><quote rend="begin"/>I begin with I &amp; O. As a</hi></l>
+                  <l n="01"><hi rend="blue"><note>Koch, Paul. "The Making of Print Types" (see earlier note).</note>I begin with I &amp; O. As a</hi></l>
                   <l n="02"><hi rend="blue">rule I make the stems a trifle</hi></l>
                   <l n="03"><hi rend="blue">shorter than the curves, &#11819; when I</hi></l>
                   <l n="04"><hi rend="blue">turn the alignment screw, I must be</hi></l>
@@ -2434,14 +2434,15 @@
                   <!-- I have changed the four transcribed question marks to a gap after checking the image. EF! -->
                   <l n="19"><hi rend="blue">OIOOII, I can best judge<del>the <gap extent="4"/>ets</del></hi></l>
                   <l n="20"><hi rend="blue">the distnce between the letters &amp; their</hi></l>
-                  <l n="21"><hi rend="blue">position.</hi></l>
+                  <l n="21"><hi rend="blue">position.</hi><quote corresp="#0182_recto_l20_quote"/></l>
+                  <!-- I have added an 'end quote' tag in line 21 and a 'begin quote' tag in line 26. EF! -->
                   <l n="22"><hi rend="pencil">_____________</hi><hi rend="blue">.p 58</hi></l>
                   <l n="23"><hi rend="blue"><bibl corresp="0184_verso_l23_bibl"/>The Characteristics of a good</hi></l>
                   <l n="24"><hi rend="blue"> Book Type David T Pottinger<bibl corresp="#0184_verso_l23_bibl"/><note>Potter, David T. "The Characteristics of a Good Book Type." <title>Dolphin</title>1 (1933): 58-66. David T. Pottinger [1884-1958]. Associate Director of Harvard University Press.</note></hi></l>
                   <l n="25"><hi rend="pencil">________________________</hi></l>
-                  <l n="26"><hi rend="blue">Mountjoye   Mr Updike has called</hi></l>
+                  <l n="26"><hi rend="blue"><quote corresp="0184_verso_l26_quote"/>Mountjoye   Mr Updike has called</hi></l>
                   <l n="27"><hi rend="blue">Brimmer    Mr Rogers   <del>same</del><add>"  "</add></hi></l>
-                  <l n="28"><hi rend="blue">Bell             Mr Morison   “       "<quote rend="end"/></hi></l>
+                  <l n="28"><hi rend="blue">Bell             Mr Morison   “       "</hi></l>
                </lg>
             </div>
          </div>
@@ -2451,7 +2452,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0184-recto.jpg"
                   n="0184-recto"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Pottinger, David T. "The Characteristics of a Good Book Type (see earlier note).</note><quote rend="begin"/>The Merrymount Press&#8212;<add>recently</add>added</hi></l>
+                  <l n="01"><hi rend="blue"><note>Pottinger, David T. "The Characteristics of a Good Book Type (see earlier note).</note>The Merrymount Press&#8212;<add>recently</add>added</hi></l>
                   <l n="02"><hi rend="blue">Lutetia &amp; Janson.</hi></l>
                   <l n="03"><hi rend="blue">Bodoni roman for Pope Pius XI encyclical</hi></l>
                   <l n="04"><hi rend="blue">on Christian Marriage</hi></l>
@@ -2475,7 +2476,7 @@
                   <l n="22"><hi rend="blue">sins in the way of period typography</hi></l>
                   <l n="23"></l>
                   <l n="24"><hi rend="blue">one can recog. the unpleasing</hi></l>
-                  <l n="25"><hi rend="blue">app of the traditional French novel<quote rend="end"/></hi></l>
+                  <l n="25"><hi rend="blue">app of the traditional French novel</hi></l>
                </lg>
             </div>
          </div>
@@ -2485,7 +2486,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0185-verso.jpg"
                   n="0185-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Pottinger, David T. "The Characteristics of a Good Book Type" (see earlier note).</note><quote rend="begin"/>set in their anaemic Didot</hi></l>
+                  <l n="01"><hi rend="blue"><note>Pottinger, David T. "The Characteristics of a Good Book Type" (see earlier note).</note>set in their anaemic Didot</hi></l>
                   <l n="02"><hi rend="blue">uppercase W &amp; lower-c k . undue</hi></l>
                   <l n="03"><hi rend="blue">blackness &amp; converseley upper-c W</hi></l>
                   <l n="04"><hi rend="blue">&amp; l-c <del>b</del> o the W stand out w</hi></l>
@@ -2495,10 +2496,11 @@
                   <l n="08"><hi rend="blue">Deepdene Poliphilus Centaur Bembo</hi></l>
                   <l n="09"><hi rend="blue">Fell fr the 17<hi rend="superscript">th</hi>. Carlson &amp; Basker</hi></l>
                   <l n="10"><hi rend="blue">ville fr the 18<hi rend="superscript">th</hi>, Scotch from</hi></l>
-                  <l n="11"><hi rend="blue">the 19<hi rend="superscript">th</hi></hi></l>
+                  <l n="11"><hi rend="blue">the 19<hi rend="superscript">th</hi></hi><quote corresp="#0184_verso_l26_quote"/></l>
+                  <!-- I have added an 'end quote' tag in line 11 and a 'begin quote' tag in line 14. EF! -->
                   <l n="12"><hi rend="blue">                            p 67     <bibl corresp="0185_verso_l12_bibl"/>Alfred W</hi></l>
                   <l n="13"><hi rend="blue">2 //    Pollard.      MARGINS<bibl corresp="#0185_verso_l12_bibl"/><note>Pollard, Alfred W. "Margins." <title>Dolphin</title>1 (1933): 67-80. Pollard [1859-1944] was an English bibliographer.</note></hi></l>
-                  <l n="14"><hi rend="blue">Wm. Morris &amp; Mr Charles T Jacobi</hi></l>
+                  <l n="14"><hi rend="blue"><quote corresp="0185_verso_l14_quote"/>Wm. Morris &amp; Mr Charles T Jacobi</hi></l>
                   <l n="15"><hi rend="blue">of the Cheswick Press read papers</hi></l>
                   <l n="16"><hi rend="blue">to it on the same evening (the</hi></l>
                   <l n="17"><hi rend="blue">Bibliographical Society)   June 19 1893</hi></l>
@@ -2507,7 +2509,7 @@
                   <l n="20"><hi rend="blue">1 //  there is an established tradition</hi></l>
                   <l n="21"><hi rend="blue">based on the practice of many good</hi></l>
                   <l n="22"><hi rend="blue">book builders that the inner</hi></l>
-                  <l n="23"><hi rend="blue">margin shld be the smallest,<quote rend="end"/></hi></l>
+                  <l n="23"><hi rend="blue">margin shld be the smallest,</hi></l>
                </lg>
             </div>
          </div>
@@ -2517,7 +2519,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0185-recto.jpg"
                   n="0185-recto"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Pollard, Alfred W. "Margins" (see earlier note).</note><quote rend="begin"/>that the top should be larger</hi></l>
+                  <l n="01"><hi rend="blue"><note>Pollard, Alfred W. "Margins" (see earlier note).</note>that the top should be larger</hi></l>
                   <l n="02"><hi rend="blue">than the inner, the outer larger than</hi></l>
                   <l n="03"><hi rend="blue">the top, &amp; the margin at the foot of the</hi></l>
                   <l n="04"><hi rend="blue">page the largest of all. . . .</hi></l>
@@ -2545,7 +2547,7 @@
                   <l n="26"><hi rend="blue">to write close to the top of a page</hi></l>
                   <l n="27"><hi rend="blue">&amp; much more dif for him to</hi></l>
                   <l n="28"><hi rend="blue">continue to write close to the foot.</hi></l>
-                  <l n="29"><hi rend="blue">. . . a 9 partes  of an hour sheet<quote rend="end"/></hi></l>
+                  <l n="29"><hi rend="blue">. . . a 9 partes  of an hour sheet</hi></l>
                </lg>
             </div>
          </div>
@@ -2555,7 +2557,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0186-verso.jpg"
                   n="0186-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Pollard, Alfred W. "Margins" (see earlier note).</note><quote rend="begin"/>among the show cases in the British</hi></l>
+                  <l n="01"><hi rend="blue"><note>Pollard, Alfred W. "Margins" (see earlier note).</note>among the show cases in the British</hi></l>
                   <l n="02"><hi rend="blue">Museum, will show that <hi rend="underline">in the state</hi></hi></l>
                   <l n="03"><hi rend="blue"><hi rend="underline">in wh they have come down to us</hi>many</hi></l>
                   <l n="04"><hi rend="blue">medi. mss have the outer margin</hi></l>
@@ -2580,7 +2582,7 @@
                   <l n="23"><hi rend="blue">of the rule of successive increase</hi></l>
                   <l n="24"><hi rend="blue">in the upper <del>lower</del>outer &amp;</hi></l>
                   <l n="25"><hi rend="blue">lower ms in good mss &amp; early</hi></l>
-                  <l n="26"><hi rend="blue">printed books somewhat misrepresents<quote rend="end"/></hi></l>
+                  <l n="26"><hi rend="blue">printed books somewhat misrepresents</hi></l>
                </lg>
             </div>
          </div>
@@ -2590,7 +2592,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0186-recto.jpg"
                   n="0186-recto"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Pollard, Alfred W. "Margins" (see earlier note).</note><quote rend="begin"/> the facts.      cf. <hi rend="underline">Margins</hi>in</hi></l>
+                  <l n="01"><hi rend="blue"><note>Pollard, Alfred W. "Margins" (see earlier note).</note> the facts.      cf. <hi rend="underline">Margins</hi>in</hi></l>
                   <!-- I have replaced the curly bracket in line 2 with a square bracket to match the image description. EF! -->
                   <l n="02"><hi rend="blue">The Printing art (AW. P)  [1907</hi></l>
                   <l n="03"><hi rend="blue">I was thus already int'd in</hi></l>
@@ -2616,7 +2618,7 @@
                   <l n="23"><hi rend="blue">m wh Mr Edmond envisaged</hi></l>
                   <l n="24"><hi rend="blue">as proceeding all round the page,</hi></l>
                   <l n="25"><hi rend="blue">the inner &amp; upper margins formed</hi></l>
-                  <l n="26"><hi rend="blue">one pair &amp; the outer &amp; lower<quote rend="end"/></hi></l>
+                  <l n="26"><hi rend="blue">one pair &amp; the outer &amp; lower</hi></l>
                </lg>
                   <lg type="vertical">
                      <!-- Editorial description for line v27: span lines 17-1, left margin -->
@@ -2630,7 +2632,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0187-verso.jpg"
                   n="0187-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Pollard, Alfred W. "Margins" (see earlier note).</note><quote rend="begin"/>another, tho members of each</hi></l>
+                  <l n="01"><hi rend="blue"><note>Pollard, Alfred W. "Margins" (see earlier note).</note>another, tho members of each</hi></l>
                   <l n="02"><hi rend="blue">                <add>fr e other</add></hi></l>
                   <l n="03"><hi rend="blue"> pair differs  only slightly</hi></l>
                   <l n="04"><hi rend="blue">&amp; a great increase coming between</hi></l>
@@ -2657,7 +2659,7 @@
                   <l n="25"><hi rend="blue"><del>Presses was Sir Emery Walker</del></hi></l>
                   <l n="26"><hi rend="blue">   . . . I must apologize for</hi></l>
                   <l n="27"><hi rend="blue">the varying ways in which the</hi></l>
-                  <l n="28"><hi rend="blue">relations between successive<quote rend="end"/></hi></l>
+                  <l n="28"><hi rend="blue">relations between successive</hi></l>
                </lg>
             </div>
          </div>
@@ -2668,7 +2670,7 @@
                   n="0187-recto"/>
                <desc>MM strikes through the “F” in Folio on line 08 using a proofreader’s mark to correct the capital “F” to a lowercase “f.”</desc>
                <lg>
-                  <l n="01"><note>Pollard, Alfred W. "Margins" (see earlier note).</note><quote rend="begin"/><hi rend="blue">margins are being stated in this essay.</hi></l>
+                  <l n="01"><note>Pollard, Alfred W. "Margins" (see earlier note).</note><hi rend="blue">margins are being stated in this essay.</hi></l>
                   <l n="02"><hi rend="blue">In the case of measurements which</hi></l>
                   <l n="03"><hi rend="blue">have been kindly supplied <add>to</add>me, I have</hi></l>
                   <l n="04"><hi rend="blue">preferred to give them in the form used,</hi></l>
@@ -2696,7 +2698,7 @@
                   <l n="26"><hi rend="blue">rich scholarly patrons to please, con-</hi></l>
                   <l n="27"><hi rend="blue">tenting himself w a type page small</hi></l>
                   <l n="28"><hi rend="blue">for his da<del>te</del></hi><add><hi rend="pencil">y?</hi></add>   <hi rend="blue">Of course all the</hi></l>
-                  <l n="29"><hi rend="blue">copies may have been slightly cut</hi><quote rend="end"/></l>
+                  <l n="29"><hi rend="blue">copies may have been slightly cut</hi></l>
                </lg>
             </div>
          </div>
@@ -2706,7 +2708,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0188-verso.jpg"
                   n="0188-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Pollard, Alfred W. "Margins" (see earlier note).</note><quote rend="begin"/>and some printers loved margins</hi></l>
+                  <l n="01"><hi rend="blue"><note>Pollard, Alfred W. "Margins" (see earlier note).</note>and some printers loved margins</hi></l>
                   <l n="02"><hi rend="blue">more than their contemporaries &amp;</hi></l>
                   <l n="03"><hi rend="blue">were extravagant in them, as Anton</hi></l>
                   <l n="04"><hi rend="blue">Koberger was in his earlier books,</hi></l>
@@ -2733,7 +2735,7 @@
                   <l n="25"><hi rend="blue">93 mm.  In this type he printed</hi></l>
                   <l n="26"><hi rend="blue">2 of his romances.  The Tale of</hi></l>
                   <l n="27"><hi rend="blue">the House of the Wolfings 1888,</hi></l>
-                  <l n="28"><hi rend="blue">&amp; The Roots of the Mountains<quote rend="end"/></hi></l>
+                  <l n="28"><hi rend="blue">&amp; The Roots of the Mountains</hi></l>
                </lg>
             </div>
          </div>
@@ -2743,7 +2745,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0188-recto.jpg"
                   n="0188-recto"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Pollard, Alfred W. "Margins" (see earlier note).</note><quote rend="begin"/>,  Nov 1889.     The Roots of</hi></l>
+                  <l n="01"><hi rend="blue"><note>Pollard, Alfred W. "Margins" (see earlier note).</note>,  Nov 1889.     The Roots of</hi></l>
                   <l n="02"><hi rend="blue">the Mountains . . though the second</hi></l>
                   <l n="03"><hi rend="blue">250 copies were called large paper</hi></l>
                   <l n="04"><hi rend="blue">they were really on Whatman paper of</hi></l>
@@ -2767,7 +2769,7 @@
                   <l n="22"><hi rend="blue">low as they were for the work</hi></l>
                   <l n="23"><hi rend="blue"><add>he</add>put into them.</hi></l>
                   <l n="24"><hi rend="blue">   In The <hi rend="underline">Rs of the Mountains</hi>Morris</hi></l>
-                  <l n="25"><hi rend="blue">used shoulder-notes instead of<quote rend="end"/></hi></l>
+                  <l n="25"><hi rend="blue">used shoulder-notes instead of</hi></l>
                </lg>
             </div>
          </div>
@@ -2777,7 +2779,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0189-verso.jpg"
                   n="0189-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Pollard, Alfred W. "Margins" (see earlier note).</note><quote rend="begin"/>headlines &amp; centered the page-</hi></l>
+                  <l n="01"><hi rend="blue"><note>Pollard, Alfred W. "Margins" (see earlier note).</note>headlines &amp; centered the page-</hi></l>
                   <l n="02"><hi rend="blue">numbers at the foot of the</hi></l>
                   <l n="03"><hi rend="blue">type-page, a change wh had the</hi></l>
                   <l n="04"><hi rend="blue">support of Herbert Horne &amp; Selwyn</hi></l>
@@ -2802,7 +2804,7 @@
                   <l n="23"><hi rend="blue">rather in the position of the</hi></l>
                   <l n="24"><hi rend="blue">early teachers of bibliography</hi></l>
                   <l n="25"><hi rend="blue">who in their lectures or</hi></l>
-                  <l n="26"><hi rend="blue">manuals, after enunciating the<quote rend="end"/></hi></l>
+                  <l n="26"><hi rend="blue">manuals, after enunciating the</hi></l>
                </lg>
             </div>
          </div>
@@ -2832,7 +2834,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0190-recto.jpg"
                   n="0190-recto"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Pollard, Alfred W. "Margins" (see earlier note).</note><quote rend="begin"/> rules for the position of water-</hi></l>
+                  <l n="01"><hi rend="blue"><note>Pollard, Alfred W. "Margins" (see earlier note).</note> rules for the position of water-</hi></l>
                   <l n="02"><hi rend="blue">marked chain lines w folios,<note>MM may take notes toward "Walking-Sticks and Paperweights and Watermarks."</note></hi></l>
                   <l n="03"><hi rend="blue">quartos, &amp; octavos, used cheerfully</hi></l>
                   <l n="04"><hi rend="blue">to add "and so on far smaller sizes",</hi></l>
@@ -2860,7 +2862,7 @@
                   <l n="26"><hi rend="blue">many of them are my personal</hi></l>
                   <l n="27"><hi rend="blue">friends, whom I am not prepared to</hi></l>
                   <l n="28"><hi rend="blue">criticize &amp; some of whom it would be</hi></l>
-                  <l n="29"><hi rend="blue">an impertinence to praise, but I cannot<quote rend="end"/></hi></l>
+                  <l n="29"><hi rend="blue">an impertinence to praise, but I cannot</hi></l>
                </lg>
             </div>
          </div>
@@ -2870,7 +2872,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0191-verso.jpg"
                   n="0191-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Pollard, Alfred W. "Margins" (see earlier note).</note><quote rend="begin"/>forebear drawing attention to the</hi></l>
+                  <l n="01"><hi rend="blue"><note>Pollard, Alfred W. "Margins" (see earlier note).</note>forebear drawing attention to the</hi></l>
                   <l n="02"><hi rend="blue">Nonesuch edition of the works</hi></l>
                   <l n="03"><hi rend="blue">of Isaak Walton, w. some 700</hi></l>
                   <l n="04"><hi rend="blue">words on its 8x5 page &amp; its delightful</hi></l>
@@ -2881,7 +2883,7 @@
                   <l n="09"><hi rend="blue">it was "the best looking book issued</hi></l>
                   <l n="10"><hi rend="blue">since the seventeenth century."</hi></l>
                   <l n="11"><hi rend="blue">I think the Nonesuch <hi rend="underline">Walton</hi>sets</hi></l>
-                  <l n="12"><hi rend="blue">a new standard.<quote rend="end"/></hi></l>
+                  <l n="12"><hi rend="blue">a new standard.<quote corresp="#0185_verso_l14_quote"/></hi></l>
                   <l n="13"></l>
                   <l n="14"><hi rend="blue">81 <bibl corresp="0191_verso_l14_bibl"/>Formats &amp; Sizes</hi></l>
                   <l n="15"><hi rend="blue">Lawrence C Wroth<bibl corresp="#0191_verso_l14_bibl"/><note>Wroth, Lawrence C. "Formats and Sizes." <title>Dolphin</title>1 (1933): 81-95.</note></hi></l>
