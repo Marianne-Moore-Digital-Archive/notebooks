@@ -286,7 +286,7 @@
                   <l n="11">{entered in blue book  error}</l>
                   <l n="12"></l>
                   <l n="13"><bibl corresp="0150_recto_l13_bibl"/>The Lost Glen</l>
-                  <l n="14">Neil <add>M</add> Gunn.    The Porpoise Press.<bibl corresp="#0150_recto_l13_bibl"/><note>Gunn, Neil Miller. <title>The Lost Glen</title>. Edinburgh: Porpoise Press, 1932. Neil Miller Gunn [1891-1973] was a Scottish novelist.</note></l>
+                  <l n="14">Neil <add>M</add> Gunn.    The Porpoise Press.<bibl corresp="#0150_recto_l13_bibl"/><note>Gunn, Neil Miller. <title>The Lost Glen</title>. Edinburgh: Porpoise Press, 1932.</note><note target="gunn">Gunn, Neil Miller [1891-1973] was a Scottish novelist.</note></l>
                   <l n="15">p.  166.  <quote corresp="0150_recto_l15_quote"/>Only now &amp; then there rose the</l>
                   <l n="16">thin scream of the reel, startling the</l>
                   <l n="17">the boat and its occupants to a slight</l>
@@ -408,7 +408,7 @@
                   n="0152-recto"/>
                <lg>
                   <l n="01">p. 7.</l>
-                  <l n="02"><note>Rodker, John. “Mr. Segando in the Fifth Cataclysm.” <title>The Tyro</title> no. 1 (1921): 8. John Rodker [1894-1955] was an English modernist poet best known for his work as an editor and publisher. He started the Ovid Press, which published work by both Eliot and Pound. He was an editor for <title>The Little Review</title> and worked on French translations of <title>Ulysses</title>.</note><quote corresp="0152_recto_l02_quote"/>Mr. Segando: The mood of</l>
+                  <l n="02"><note>Rodker, John. “Mr. Segando in the Fifth Cataclysm.” <title>The Tyro</title> no. 1 (1921): 8.</note><note target="rodker">Rodker, John [1894-1955] was an English modernist poet best known for his work as an editor and publisher. He started the Ovid Press, which published work by both Eliot and Pound. He was an editor for <title>The Little Review</title> and worked on French translations of <title>Ulysses</title>.</note><quote corresp="0152_recto_l02_quote"/>Mr. Segando: The mood of</l>
                   <l n="03">nostalgia, our fancies, Phillip, is</l>
                   <l n="04">soon frightened off by the bombastic</l>
                   <l n="05">shadow of my hair!</l>
@@ -714,7 +714,7 @@
                   <l n="08"></l>
                   <l n="09"><hi rend="blue">   <bibl corresp="0157_recto_l09_bibl"/>Lost &amp; Vanishing Birds</hi></l>
                   <l n="10"><hi rend="blue">   Charles Dixon   John Macqueen</hi></l>
-                  <l n="11"><hi rend="blue">                                London 1918<bibl corresp="#0157_recto_l09_bibl"/><note>Dixon, Charles. <title>Lost and Vanishing Birds</title>. London: John Macqueen, 1918. Charles Dixon [1858-1926] was an English ornithologist.</note></hi></l>
+                  <l n="11"><hi rend="blue">                                London 1918<bibl corresp="#0157_recto_l09_bibl"/><note>Dixon, Charles. <title>Lost and Vanishing Birds</title>. London: John Macqueen, 1918.</note><note target="dixon"> Dixon, Charles [1858-1926] was an English ornithologist.</note></hi></l>
                   <l n="12"><hi rend="blue">215 The Dodo   <foreign xml:lang="la">Didus ineptus</foreign></hi></l>
                   <l n="13"></l>
                   <l n="14"><hi rend="blue"><quote corresp="0157_recto_l14_quote"/>De Bry, alludes to the Dodos</hi></l>
@@ -841,12 +841,12 @@
                   <l n="02"><hi rend="blue">be read by singers sitting around a</hi></l>
                   <l n="03"><hi rend="blue">table.  Orlando Gibbons' <hi rend="underline">First Sel</hi></hi></l>
                   <l n="04"><hi rend="blue"><hi rend="underline">of Madrigals</hi>open at <hi rend="underline">The Silver</hi></hi></l>
-                  <l n="05"><hi rend="blue"><hi rend="underline">Swan</hi>.<note>Gibbons, Orlando. <title>The First Set of Madrigals and Mottets.</title>London: Thomas Snodham, 1612. Gibbons [1583-1625] was the foremost composer of his times and "The Silver Swan" is among his most popular madrigals.</note>    Morley, Byrd, Jenkins</hi></l>
+                  <l n="05"><hi rend="blue"><hi rend="underline">Swan</hi>.<note>Gibbons, Orlando. <title>The First Set of Madrigals and Mottets.</title>London: Thomas Snodham, 1612.</note><note target="gibbons"> Gibbons, Orlando [1583-1625] was the foremost composer of his times and "The Silver Swan" is among his most popular madrigals.</note>    Morley, Byrd, Jenkins</hi></l>
                   <l n="06"></l>
                   <l n="07"><hi rend="blue">Bach Greifet zu! Fasst das</hi></l>
-                  <l n="08"><hi rend="blue">Heyl!<note>Aria B from Cantata BWV 174 by Johann Sebastian Bach [1685-1750].</note> was filled w large firm,</hi></l>
+                  <l n="08"><hi rend="blue">Heyl!<note>Aria B from Cantata BWV 174 by Johann Sebastian Bach</note><note target="bach">Bach, Johann Sebastian [1685-1750]. Major German composer of the baroque period.</note> was filled w large firm,</hi></l>
                   <l n="09"><hi rend="blue">black, determined notes.</hi></l>
-                  <l n="10"><hi rend="blue">Handel: to <hi rend="underline">Flavio</hi><note>Opera seria (HWV 15) by George Frideric Handel [1685-1789], German-British composer.</note>&amp; in</hi></l>
+                  <l n="10"><hi rend="blue">Handel: to <hi rend="underline">Flavio</hi><note>Opera seria (HWV 15) by George Frideric Handel</note><note target="handel">Handel, George Frideric [1685-1789]. German-British composer.</note>&amp; in</hi></l>
                   <!-- question mark? -->
                   <l n="11"><hi rend="blue">                     <add>style?</add></hi></l>
                   <l n="12"><hi rend="blue">cursive <del>handwriting</del>as though H</hi></l>
