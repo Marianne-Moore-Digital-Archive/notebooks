@@ -1482,7 +1482,7 @@
                   <l n="01"><hi rend="blue">                <bibl corresp="0169_recto_l01_bibl"/>England</hi></l>
                   <l n="02"><hi rend="blue">Picturesque and Descriptive.  A</hi></l>
                   <l n="03"><hi rend="blue">Reminisence of Foreign Travel, By</hi></l>
-                  <l n="04"><hi rend="blue">Joel Cook.<bibl corresp="#0169_recto_l01_bibl"/><note>Cook, Joel. <title>England, Picturesque and Descriptive: A Reminiscence of Foreign Travel</title>. Philadelphia: Porter and Coates, 1882. Joel Cook [1842-1910] was a newspaper writer and editor and a member of the United States House of Representatives from Pennsylvania.</note>    Philad. Porter &amp; Coates</hi></l>
+                  <l n="04"><hi rend="blue">Joel Cook.<bibl corresp="#0169_recto_l01_bibl"/><note>Cook, Joel. <title>England, Picturesque and Descriptive: A Reminiscence of Foreign Travel</title>. Philadelphia: Porter and Coates, 1882.</note><note target="cook">Cook, Joel [1842-1910] was a newspaper writer, editor, and a member of the United States House of Representatives from Pennsylvania.</note>    Philad. Porter &amp; Coates</hi></l>
                   <l n="05"><hi rend="pencil">Constance's Father's book</hi><hi rend="blue">1882</hi></l>
                   <l n="06"></l>
                   <l n="07"><hi rend="blue"><bibl corresp="0169_recto_l07_bibl"/>Afloat on the James</hi></l>
@@ -1498,7 +1498,7 @@
                   <l n="16"><hi rend="blue">of Ucita, the chief intervened.<quote corresp="#0169_recto_l11_quote"/></hi></l>
                   <l n="17"><hi rend="blue">        _____________                             The <add>12</add>London Company</hi></l>
                   <l n="18"><hi rend="blue">     <bibl corresp="0169_recto_l18_bibl"/>History of Hampton and</hi></l>
-                  <l n="19"><hi rend="blue">Elizabeth City County, Virginia<bibl corresp="#0169_recto_l18_bibl"/><note>Tyler, Lyon Gardiner. <title>History of Hampton and Elizabeth City County, Virginia</title>. Hampton: Board of Supervisors of Elizabeth City County, 1922. Lyon Gardiner Tyler [1853-1935] was an American educator and historian who served as the president of the College of William and Mary for over forty years. He was the son of tenth United States president, John Tyler.</note></hi></l>
+                  <l n="19"><hi rend="blue">Elizabeth City County, Virginia<bibl corresp="#0169_recto_l18_bibl"/><note>Tyler, Lyon Gardiner. <title>History of Hampton and Elizabeth City County, Virginia</title>. Hampton: Board of Supervisors of Elizabeth City County, 1922.</note><note target="tyler">Tyler, Lyon Gardiner [1853-1935] was an American educator and historian who served as the president of the College of William and Mary for over forty years. He was the son of tenth United States president, John Tyler.</note></hi></l>
                   <l n="20"><hi rend="blue">     compiled by</hi></l>
                   <l n="21"><hi rend="blue">   Lyon G. Tyler.    Pubd by</hi></l>
                   <l n="22"><hi rend="blue">The Boardof Supervisors of Elizabeth</hi></l>
@@ -1602,7 +1602,7 @@
                   <l n="18"></l>
                   <l n="19"><hi rend="blue"><bibl corresp="0171_verso_l19_bibl"/>NY Times Book Review</hi></l>
                   <l n="20"><hi rend="blue">23   June 1935   Notes on Rare</hi></l>
-                  <l n="21"><hi rend="blue">Books<bibl corresp="#0171_verso_l19_bibl"/>.<note>Brooks, Philip. "Notes on Rare Books." <title>New York Times</title>(23 June 1935): BR 16. Philip Brooks [1899-1975] was a bookseller and specialist on rare books who wrote the "Notes on Rare Book" column for the <title>New York Times Book Review</title>from 1932 to 1943.</note>    Lockwood Mem. Lib.</hi></l>
+                  <l n="21"><hi rend="blue">Books<bibl corresp="#0171_verso_l19_bibl"/>.<note>Brooks, Philip. "Notes on Rare Books." <title>New York Times</title>(23 June 1935): BR 16.</note><note target="brooks">Brooks, Philip [1899-1975] was a bookseller and specialist on rare books who wrote the "Notes on Rare Book" column for the <title>New York Times Book Review</title>from 1932 to 1943.</note>    Lockwood Mem. Lib.</hi></l>
                   <l n="22"><hi rend="blue">Buffalo</hi></l>
                   <l n="23"><hi rend="blue"><quote corresp="0171_verso_l23_quote"/>Accordingly there was issue a little</hi></l>
                   <l n="24"><hi rend="blue"><del>synopsis</del>  souvenir. . . . Watchfulness,</hi></l>
@@ -1639,7 +1639,7 @@
                   <l n="01"><hi rend="blue"><note>Brooks, Philip. "Notes on Rare Books" (see earlier note).</note>sufficient to keep intact treasures</hi></l>
                   <l n="02"><hi rend="blue">that could never be restored.<quote corresp="#0171_verso_l23_quote"/></hi></l>
                   <!-- The following note needs title and page number - archives available online but UB does not have access KN ! -->
-                  <l n="03"><hi rend="blue"><bibl corresp="0172_recto_l03_bibl"/>15 Feb.  30  Spectator<bibl corresp="#0172_recto_l03_bibl"/><note>Jones, Rufus. <title>The Spectator</title>(15 February 1930).Rufus Matthew Jones [1863-1948] was a prominent Quaker theologican and historian and taught philosophy at Bryn Mawr College.</note>Prof. Rufus</hi></l>
+                  <l n="03"><hi rend="blue"><bibl corresp="0172_recto_l03_bibl"/>15 Feb.  30  Spectator<bibl corresp="#0172_recto_l03_bibl"/><note>Jones, Rufus. <title>The Spectator</title>(15 February 1930).</note><note target="jonesRufus">Jones, Rufus Matthew [1863-1948] was a prominent Quaker theologican and historian and taught philosophy at Bryn Mawr College.</note>Prof. Rufus</hi></l>
                   <l n="04"><hi rend="blue">Jones   <quote corresp="0172_recto_l04_quote"/>In Defense of the Faith XIII</hi></l>
                   <l n="05"><hi rend="blue">awe and mystery were best left</hi></l>
                   <l n="06"><hi rend="blue"> without too many disturbing</hi></l>
@@ -2323,7 +2323,7 @@
                   <l n="16"><hi rend="pencil">              The Bros Klingspor  Offenbach<note>The Klingspor Type Foundry was a German business established in 1892 when Carl Klingspor bought out the Rudhard’sche Foundry of Offenbach.</note><quote corresp="#0179_verso_l03_quote"/></hi></l>
                   <l n="17"><hi rend="blue"><bibl corresp="0182_recto_l17_bibl"/>Paul Koch    The Making of</hi></l>
                   <l n="18"><hi rend="blue">Printing Types.   The Cutting of Punches</hi></l>
-                  <l n="19"><hi rend="blue">trans. in     Otto W Fuhrmann<bibl corresp="#0182_recto_l17_bibl"/><note>Koch, Paul. "The Making of Printing Types," <title>The Dolphin: A Journal of the Making of Books</title>No. 1 (1933): 24-57. Paul Koch [1906-1945]. German punchcutter and founder of typefaces who specialized in music printing. He was son of designer and typographer Rudolf Koch.</note></hi></l>
+                  <l n="19"><hi rend="blue">trans. in     Otto W Fuhrmann<bibl corresp="#0182_recto_l17_bibl"/><note>Koch, Paul. "The Making of Printing Types," <title>The Dolphin: A Journal of the Making of Books</title>No. 1 (1933): 24-57.</note><note target="koch">Koch, Paul [1906-1945]. German punchcutter and founder of typefaces who specialized in music printing. He was son of designer and typographer Rudolf Koch.</note></hi></l>
                   <l n="20"><hi rend="blue"><quote corresp="0182_recto_l20_quote"/>I cut the 4 characters OIBV</hi></l>
                   <l n="21"><hi rend="blue">w</hi><hi rend="pencil">ith</hi><hi rend="blue">these 4 characters I can</hi></l>
                   <l n="22"><hi rend="blue"> form some syllables    cut in addition</hi></l>
