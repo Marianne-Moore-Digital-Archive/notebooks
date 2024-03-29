@@ -46,10 +46,10 @@
                   <l n="19">in; and I am sure inventions will</l>
                   <l n="20">not be wanting<quote rend="end"/></l> 
                   <l n="21"> </l>
-                  <l n="22"><bibl rend="begin"/>Under the Maples</l>
+                  <l n="22"><bibl corresp="0125_verso_l22_bibl"/>Under the Maples</l>
                   <l n="23">       John Burroughs </l>
                   <l n="24">     Houghton Mifflin Company </l>
-                  <l n="25">                    1921<bibl rend="end"/><note>Burroughs, John. Under the Maples. Boston: Houghton Mifflin, 1921. John Burroughs [1837-1921] was an American naturalist and nature essayist active in the United States’s conservation movement.</note></l>
+                  <l n="25">                    1921><bibl corresp="#0125_verso_l25_bibl"/><note>Burroughs, John. Under the Maples. Boston: Houghton Mifflin, 1921. John Burroughs [1837-1921] was an American naturalist and nature essayist active in the United States’s conservation movement.</note></l>
                </lg>
             </div>
          </div>
@@ -67,11 +67,11 @@
                   <l n="06">damaged net, but the tree never</l>
                   <l n="07">repairs its leaves.<quote rend="end"/></l>
                   <l n="08"></l>
-                  <l n="09"><bibl rend="begin"/>Animals I Have Known</l>
+                  <l n="09"><bibl corresp="0125_recto_l09_biblA"/>Animals I Have Known</l>
                   <l n="10">                    By </l>
                   <l n="11">           Arthur H. Beavan</l>
                   <l n="12">          N.Y. Frederick A. Stokes Co.</l>
-                  <l n="13">                     publishers<bibl rend="end"/><note>Beavan, Arthur Henry. Animals I Have Known. New York: Frederick A. Stokes, 1905. Arthur Henry Beavan [1844-1907] was a writer of histories and biographies. Similar titles include Birds I Have Known (1905) and Fishes I Have Known (1905).</note></l>
+                  <l n="13">                     publishers<bibl corresp="#0125_recto_l13_biblA"/><note>Beavan, Arthur Henry. Animals I Have Known. New York: Frederick A. Stokes, 1905. Arthur Henry Beavan [1844-1907] was a writer of histories and biographies. Similar titles include Birds I Have Known (1905) and Fishes I Have Known (1905).</note></l>
                   <l n="14">          see Hedgehog p. 78</l>
                   <l n="15">                Koala       p. 202</l>
                   <l n="16">                Native cats   214</l>
@@ -655,14 +655,13 @@
                         n="0135-recto"/>
                      <desc>This page is missing from the notebook.</desc>
                   </div>
- <div type="image" xml:id="nb07_02_02_0136 _text">
+ <div type="image" xml:id="nb07_02_02_0136_text">
 <div type="page" n="v.0136" xml:id="nb07_02_02_0136_verso_text">
      <pb
         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0136-verso.jpg"
                         n="0136-verso"/>
 <desc>This page is missing from the notebook.</desc>
                   </div>
-               <div type="image" xml:id="nb07_02_02_0136 _text">
                   <div type="page" n="r.0136" xml:id="nb07_02_02_0136_recto_text">
                      <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0136-recto.jpg"
@@ -693,7 +692,7 @@
                         <desc>MM draws circles around the numbers 3, 2, and 1, on lines 12, 17, and 19. </desc>
                      </lg>
                   </div>
-                  <div type="image" xml:id="nb07_02_02_0137 _text">
+                  <div type="image" xml:id="nb07_02_02_0137_text">
                      <div type="page" n="v.0137" xml:id="nb07_02_02_0137_verso_text">
                         <pb
                            facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0137-verso.jpg"
@@ -724,8 +723,7 @@
                            <l n="22">     Thalias’ Banquet (epigrams)</l>
                            <l n="23"> The Art  of Living in London 842</l>
                         </lg>
-                     </div>  
-                     <div type="image" xml:id="nb07_02_02_0137 _text">
+                     </div> 
                         <div type="page" n="r.0137" xml:id="nb07_02_02_0137_recto_text">
                            <pb
                               facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0137-recto.jpg"
@@ -757,7 +755,7 @@
                               <l n="24">example of bud and seed variation<quote rend="end"/></l>
                            </lg>
                         </div>
-                        <div type="image" xml:id="nb07_02_02_0138 _text">
+                        <div type="image" xml:id="nb07_02_02_0138_text">
                            <div type="page" n="v.0138" xml:id="nb07_02_02_0138_verso_text">
                               <pb
                                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0126-recto.jpg"
@@ -789,7 +787,6 @@
                                  <desc>On line 10 MM draws an upward pointing arrow after the last word, pointing to Marilaun</desc>
                               </lg>
                            </div>
-                           <div type="image" xml:id="nb07_02_02_0138_text">
                               <div type="page" n="r.0138" xml:id="nb07_02_02_0138_recto_text">
                                  <pb
                                     facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0138-recto.jpg"
@@ -915,7 +912,7 @@
                                              <desc>On lines 2 through12, MM draws a nightshade branch with buds and symmetrical leaves in a diagonal slanting downward from left to right, so that the tip of the branch with its reaching bud points toward the right margin.</desc>
                                           </lg>
                                        </div>
-                                       <div type="image" xml:id="nb07_02_02_0140 _text">
+                                       <div type="image" xml:id="nb07_02_02_0140_text">
                                           <div type="page" n="r.0140" xml:id="nb07_02_02_0140_recto_text">
                                              <pb
                                                 facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0140-recto.jpg"
@@ -948,7 +945,7 @@
                                                 <desc>MM draws horizontal lines above and below line 18.</desc>
                                              </lg>
                                           </div>
-                                          <div type="image" xml:id="nb07_02_02_0141 _text">
+                                          <div type="image" xml:id="nb07_02_02_0141_text">
                                              <div type="page" n="v.0141" xml:id="nb07_02_02_0141_verso_text">
                                                 <pb
                                                    facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0141-verso.jpg"
@@ -979,7 +976,7 @@
                                                    <l n="23">224  Early travellers . . . .<quote rend="end"/></l>
                                                 </lg>
                                              </div>
-                                             <div type="image" xml:id="nb07_02_02_0141 _text">
+                                             <div type="image" xml:id="nb07_02_02_0141_text">
                                                 <div type="page" n="r.0141" xml:id="nb07_02_02_0141_recto_text">
                                                    <pb
                                                       facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0141-recto.jpg"
@@ -1163,21 +1160,21 @@
                                                                      <l n="24">“Ah he exclaimed, and, through”<quote rend="end"/></l>
                                                                   </lg>
                                                                </div>
-                                                               <div type="image" xml:id="nb07_02_02_0144 _text">
+                                                               <div type="image" xml:id="nb07_02_02_0144_text">
                                                                   <div type="page" n="r.0144" xml:id="nb07_02_02_0144_recto_text">
                                                                      <pb
                                                                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0144-recto.jpg"
                                                                         n="0144-recto"/>
                                                                      <desc>This page is missing from the notebook.</desc>
                                                                   </div>
-                                                                  <div type="image" xml:id="nb07_02_02_0145 _text">
+                                                                  <div type="image" xml:id="nb07_02_02_0145_text">
                                                                      <div type="page" n="v.0145" xml:id="nb07_02_02_0145_verso_text">
                                                                         <pb
                                                                            facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0145-verso.jpg"
                                                                            n="0145-verso"/>
                                                                         <desc>This page is missing from the notebook.</desc>
                                                                      </div>
-                                                                     <div type="image" xml:id="nb07_02_02_0145 _text">
+                                                                     <div type="image" xml:id="nb07_02_02_0145_text">
                                                                         <div type="page" n="r.0145" xml:id="nb07_02_02_0145_recto_text">
                                                                            <pb
                                                                               facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0145-recto.jpg"
@@ -1209,7 +1206,7 @@
                                                                               <l n="24">Sidgwick &amp; Jackson 7.6d  <bibl rend="end"/><note>Roberts, Harry. Rev. of Whither Medicine?, by Josef Löbel. Spectator (22 July 1934): 937.</note></l>
                                                                            </lg>
                                                                         </div>
-                                                                        <div type="image" xml:id="nb07_02_02_0146 _text">
+                                                                        <div type="image" xml:id="nb07_02_02_0146_text">
                                                                            <div type="page" n="v.0146" xml:id="nb07_02_02_0146_verso_text">
                                                                               <pb
                                                                                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0146-verso.jpg"
@@ -1240,7 +1237,7 @@
                                                                                  <l n="23">“The only way of working the miracle<quote rend="end"/></l>
                                                                               </lg>
                                                                            </div>
-                                                                           <div type="image" xml:id="nb07_02_02_0146 _text">
+                                                                           <div type="image" xml:id="nb07_02_02_0146_text">
                                                                               <div type="page" n="r.0146" xml:id="nb07_02_02_0146_recto_text">
                                                                                  <pb
                                                                                     facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0146-recto.jpg"
@@ -1276,7 +1273,7 @@
                                                                                  </lg>
                                                                                  <desc>MM draws square brackets around the words on line 3.</desc>
                                                                               </div>
-                                                                              <div type="image" xml:id="nb07_02_02_047 _text">
+                                                                              <div type="image" xml:id="nb07_02_02_0147_text">
                                                                                  <div type="page" n="v.0147" xml:id="nb07_02_02_0147_verso_text">
                                                                                     <pb
                                                                                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0147-verso.jpg"
