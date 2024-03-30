@@ -25,7 +25,6 @@
                   n="0000-recto"/>
                <desc/>
                <lg>
-                  <!-- Git Test. EF! -->
                   <l n="01"></l>
                   <l n="02"></l>
                   <l n="03"></l>
@@ -287,7 +286,7 @@
                   <l n="11">{entered in blue book  error}</l>
                   <l n="12"></l>
                   <l n="13"><bibl corresp="0150_recto_l13_bibl"/>The Lost Glen</l>
-                  <l n="14">Neil <add>M</add> Gunn.    The Porpoise Press.<bibl corresp="#0150_recto_l13_bibl"/><note>Gunn, Neil Miller. <title>The Lost Glen</title>. Edinburgh: Porpoise Press, 1932.</note><note target="gunn">Gunn, Neil Miller [1891-1973] was a Scottish novelist.</note></l>
+                  <l n="14">Neil <add>M</add> Gunn.    The Porpoise Press.<bibl corresp="#0150_recto_l13_bibl"/><note>Gunn, Neil Miller. <title>The Lost Glen</title>. Edinburgh: Porpoise Press, 1932.</note><note target="gunn">Gunn, Neil Miller [1891-1973]. Scottish novelist.</note></l>
                   <l n="15">p.  166.  <quote corresp="0150_recto_l15_quote"/>Only now &amp; then there rose the</l>
                   <l n="16">thin scream of the reel, startling the</l>
                   <l n="17">the boat and its occupants to a slight</l>
@@ -343,7 +342,7 @@
                <desc>From lines 10 to 13 MM draws a bracket in the left margin, between the question mark and the text.</desc>
                <lg>
                   <l n="01"><bibl corresp="0151_recto_l01_bibl"/>Jan  18 1935          Philad. (Ledger?)</l>
-                  <l n="02">Joseph Fort Newton.<bibl corresp="#0151_recto_l01_bibl"/><note>Probably an article by Joseph Fort Newton from the <title>Philadelphia Ledger</title>, January 18, 1935.</note><note target="Newton">Joseph Fort Newton [1880-1950] was a prominent American Baptist minister whose sermons and other writing were widely circulated in print. He spent the latter part of his career in Philadelphia.</note><quote corresp="0151_recto_l01_quote"/>as you</l>
+                  <l n="02">Joseph Fort Newton.<bibl corresp="#0151_recto_l01_bibl"/><note>Probably an article by Joseph Fort Newton from the <title>Philadelphia Ledger</title>, January 18, 1935.</note><note target="Newton">Newton, Joseph Fort [1880-1950]. Prominent American Baptist minister whose sermons and other writing were widely circulated in print. He spent the latter part of his career in Philadelphia.</note><quote corresp="0151_recto_l01_quote"/>as you</l>
                   <l n="03">recall, Ruskin said he would like</l>
                   <l n="04">to macadamize some new roads to</l>
                   <l n="05">heaven: make Italian's industrious</l>
@@ -409,7 +408,7 @@
                   n="0152-recto"/>
                <lg>
                   <l n="01">p. 7.</l>
-                  <l n="02"><note>Rodker, John. “Mr. Segando in the Fifth Cataclysm.” <title>The Tyro</title> no. 1 (1921): 8.</note><note target="rodker">Rodker, John [1894-1955] was an English modernist poet best known for his work as an editor and publisher. He started the Ovid Press, which published work by both Eliot and Pound. He was an editor for <title>The Little Review</title> and worked on French translations of <title>Ulysses</title>.</note><quote corresp="0152_recto_l02_quote"/>Mr. Segando: The mood of</l>
+                  <l n="02"><note>Rodker, John. “Mr. Segando in the Fifth Cataclysm.” <title>The Tyro</title> no. 1 (1921): 8.</note><note target="rodker">Rodker, John [1894-1955]. English modernist poet best known for his work as an editor and publisher. He started the Ovid Press, which published work by both Eliot and Pound. He was an editor for <title>The Little Review</title> and worked on French translations of <title>Ulysses</title>.</note><quote corresp="0152_recto_l02_quote"/>Mr. Segando: The mood of</l>
                   <l n="03">nostalgia, our fancies, Phillip, is</l>
                   <l n="04">soon frightened off by the bombastic</l>
                   <l n="05">shadow of my hair!</l>
@@ -673,7 +672,7 @@
                   n="0157-verso"/>
                <lg>
                   <l n="01"><hi rend="blue"><bibl corresp="0157_verso_l01_bibl"/>Cecil Sharp.<note target="sharp">Cecil Sharp [1859-1924]. English musician noted for his collecting of English folk song and dance. MM praised his folklore collecting in the Appalachian mountains, Dial (December 1928): 542.</note>  A H Fox Strangways</hi></l>
-                  <l n="02"><hi rend="blue">Ox. U. Press       1933<bibl corresp="#0157_verso_l01_bibl"/><note>Strangways, Arthur Henry Fox. <title>Cecil Sharp</title>. London: Oxford, 1933.</note> <note target="strangways">Arthur Henry Fox Strangways [1859-1948] was an English musicologist who wrote music criticism for <title>The Times</title> (London) and was chief music critic of <title>The Observer</title>.</note></hi></l>
+                  <l n="02"><hi rend="blue">Ox. U. Press       1933<bibl corresp="#0157_verso_l01_bibl"/><note>Strangways, Arthur Henry Fox. <title>Cecil Sharp</title>. London: Oxford, 1933.</note> <note target="strangways">Arthur Henry Fox Strangways [1859-1948]. English musicologist who wrote music criticism for <title>The Times</title> (London) and was chief music critic of <title>The Observer</title>.</note></hi></l>
                   <l n="03"><hi rend="blue"><quote corresp="0157_verso_l03_quote"/>Chapter IV    1903 Folk-Song Collecting</hi></l>
                   <l n="04"><hi rend="blue">I have read books enough and observed</hi></l>
                   <l n="05"><hi rend="blue">&amp; conversed w</hi><add><hi rend="pencil">ith</hi></add><hi rend="blue">enough of eminent &amp;</hi></l>
@@ -715,7 +714,7 @@
                   <l n="08"></l>
                   <l n="09"><hi rend="blue">   <bibl corresp="0157_recto_l09_bibl"/>Lost &amp; Vanishing Birds</hi></l>
                   <l n="10"><hi rend="blue">   Charles Dixon   John Macqueen</hi></l>
-                  <l n="11"><hi rend="blue">                                London 1918<bibl corresp="#0157_recto_l09_bibl"/><note>Dixon, Charles. <title>Lost and Vanishing Birds</title>. London: John Macqueen, 1918.</note><note target="dixon"> Dixon, Charles [1858-1926] was an English ornithologist.</note></hi></l>
+                  <l n="11"><hi rend="blue">                                London 1918<bibl corresp="#0157_recto_l09_bibl"/><note>Dixon, Charles. <title>Lost and Vanishing Birds</title>. London: John Macqueen, 1918.</note><note target="dixon"> Dixon, Charles [1858-1926]. English ornithologist.</note></hi></l>
                   <l n="12"><hi rend="blue">215 The Dodo   <foreign xml:lang="la">Didus ineptus</foreign></hi></l>
                   <l n="13"></l>
                   <l n="14"><hi rend="blue"><quote corresp="0157_recto_l14_quote"/>De Bry, alludes to the Dodos</hi></l>
@@ -842,7 +841,7 @@
                   <l n="02"><hi rend="blue">be read by singers sitting around a</hi></l>
                   <l n="03"><hi rend="blue">table.  Orlando Gibbons' <hi rend="underline">First Sel</hi></hi></l>
                   <l n="04"><hi rend="blue"><hi rend="underline">of Madrigals</hi>open at <hi rend="underline">The Silver</hi></hi></l>
-                  <l n="05"><hi rend="blue"><hi rend="underline">Swan</hi>.<note>Gibbons, Orlando. <title>The First Set of Madrigals and Mottets.</title>London: Thomas Snodham, 1612.</note><note target="gibbons"> Gibbons, Orlando [1583-1625] was the foremost composer of his times and "The Silver Swan" is among his most popular madrigals.</note>    Morley, Byrd, Jenkins</hi></l>
+                  <l n="05"><hi rend="blue"><hi rend="underline">Swan</hi>.<note>Gibbons, Orlando. <title>The First Set of Madrigals and Mottets.</title>London: Thomas Snodham, 1612.</note><note target="gibbons"> Gibbons, Orlando [1583-1625]. The foremost composer of his times. "The Silver Swan" is among his most popular madrigals.</note>    Morley, Byrd, Jenkins</hi></l>
                   <l n="06"></l>
                   <l n="07"><hi rend="blue">Bach Greifet zu! Fasst das</hi></l>
                   <l n="08"><hi rend="blue">Heyl!<note>Aria B from Cantata BWV 174 by Johann Sebastian Bach</note><note target="bach">Bach, Johann Sebastian [1685-1750]. Major German composer of the baroque period.</note> was filled w large firm,</hi></l>
@@ -856,7 +855,7 @@
                   <l n="15"><hi rend="blue">&amp; tiny notes.  Mss of the <hi rend="underline">Nachte</hi></hi></l>
                   <l n="16"><hi rend="blue"><hi rend="underline">S.</hi><note>“Das Veilchin” (K. 476), composed by Mozart in 1785. It sets to music a poem by Goethe. “Eine Kleine Nachtmusik” is the Serenade for Strings No. 13 (K. 575) composed in 1787.</note> &amp; <hi rend="underline">Sketches for the Moonlight</hi>.</hi></l>
                   <l n="17"><hi rend="blue">Showed Beethoven's violent &amp;</hi></l>
-                  <l n="18"><hi rend="blue">erratic method of writing.<note target="beethoven">Ludwig van Beethoven [1770-1827], completed Piano Sonata No. 14 in C# Minor, Op. 27, No. 2, known as the Moonlight Sonata, in 1801.</note></hi></l>
+                  <l n="18"><hi rend="blue">erratic method of writing.<note target="beethoven">Beethoven, Ludwig van [1770-1827]. Completed Piano Sonata No. 14 in C# Minor, Op. 27, No. 2, known as the Moonlight Sonata, in 1801.</note></hi></l>
                   <l n="19"><hi rend="blue">Stravinsky decorated in colors.</hi></l>
                   <l n="20"><hi rend="blue">Mozarts wedding contract. w signatures</hi></l>
                   <l n="21"><hi rend="blue">of b. &amp; b above those of the</hi></l>
@@ -884,13 +883,13 @@
                   <l n="10"><hi rend="blue"><hi rend="underline"><foreign xml:lang="greek">Poliphile</foreign></hi> (Venice Aldus 1499),</hi></l>
                   <l n="11"><hi rend="blue">w its perfect balance between</hi></l>
                   <l n="12"><hi rend="blue">type &amp; illustrations</hi></l>
-                  <l n="13"><hi rend="blue">           Higden:<note target="higden">Ranulf Higden, [1280-1364], British historian. Composed <title>Polychronicon</title>, a compilation of most of the knowledge of his age.</note> <hi rend="underline">Polycronycon</hi></hi></l>
+                  <l n="13"><hi rend="blue">           Higden:<note target="higden">Higden, Ranulf [1280-1364]. British historian. Composed <title>Polychronicon</title>, a compilation of most of the knowledge of his age.</note> <hi rend="underline">Polycronycon</hi></hi></l>
                   <l n="14"><hi rend="blue">Southwark 1627) w its magnif</hi></l>
                   <l n="15"><hi rend="blue">title page, Turberville: <hi rend="underline">Book</hi></hi></l>
                   <l n="16"><hi rend="blue"><hi rend="underline">of Falconrie</hi>  (London, 1575).</hi></l>
                   <l n="17"><hi rend="blue">of the first ed. of Gerarde's <hi rend="underline">Herball</hi></hi></l>
                   <l n="18"><hi rend="blue">(London 1592):</hi></l>
-                  <l n="19"><hi rend="blue">La Fontaine,<note target="fontaine">Jean de La Fontaine [1621-1695], French poet. MM translated his fables: <title>The Fables of La Fontaine</title>. Viking Press, 1954.</note> Laborde, Morceaus</hi></l>
+                  <l n="19"><hi rend="blue">La Fontaine,<note target="fontaine">Fontaine, Jean de La [1621-1695]. French poet. MM translated his fables: <title>The Fables of La Fontaine</title>. Viking Press, 1954.</note> Laborde, Morceaus</hi></l>
                   <l n="20"><hi rend="blue">Miraculous costume plate &amp;</hi></l>
                   <l n="21"><hi rend="blue">Prudhon's color.</hi></l>
                   <l n="22"><hi rend="blue">    England was well rep'd by Hogarth</hi></l>
@@ -907,19 +906,19 @@
                   <l n="01"><hi rend="blue"><note>"A Book Exhibition in London" (see earlier note).</note>&amp; in the 19<add>th</add>Bewick Flaxman</hi></l>
                   <l n="02"><hi rend="blue">Turner  Rowlandson, Cruikshank</hi></l>
                   <l n="03"><hi rend="blue">Phiz, Leech. Alken, Doyle Tenniel</hi></l>
-                  <l n="04"><hi rend="blue">B-Jones, Kate Greenaway<note target="greenaway">Catherine Greenaway [1846-1901] English artist and writer, known for her children's book illustrations. MM quotes her and (in her notes) considers Greenaway as a candidate for a list of “ten leaders in the educational history of the last 2,300 years,” “Currents Events,” <title>Dial</title> February 1925.</note>&amp;</hi></l>
+                  <l n="04"><hi rend="blue">B-Jones, Kate Greenaway<note target="greenaway">Greenaway, Catherine [1846-1901]. English artist and writer, known for her children's book illustrations. MM quotes her and (in her notes) considers Greenaway as a candidate for a list of “ten leaders in the educational history of the last 2,300 years,” “Currents Events,” <title>Dial</title> February 1925.</note>&amp;</hi></l>
                   <l n="05"><hi rend="blue">Beardsley</hi></l>
                   <l n="06"><hi rend="blue">    Doré, Gavarni Johannat &amp;</hi></l>
                   <l n="07"><hi rend="blue">Daumier rep'd 19<hi rend="superscript">th</hi>c France&#8212;</hi></l>
                   <l n="08"><hi rend="blue">     1834     <del>Maryat</del>  Marryat, maria</hi></l>
-                  <l n="09"><hi rend="blue">Edgeworth:<note target="edgeworth">Maria Edgeworth [1767-1849], Anglo-Irish author. MM published a dramatization of one of Edgeworth's novels: <title>The Absentee: A Comedy in Four Acts</title>. 1962.</note><hi rend="underline">Helen</hi>her last full length</hi></l>
+                  <l n="09"><hi rend="blue">Edgeworth:<note target="edgeworth">Edgeworth, Maria [1767-1849]. Anglo-Irish author. MM published a dramatization of one of Edgeworth's novels: <title>The Absentee: A Comedy in Four Acts</title>. 1962.</note><hi rend="underline">Helen</hi>her last full length</hi></l>
                   <l n="10"><hi rend="blue">novel, Letitia Landon. Francesca</hi></l>
                   <l n="11"><hi rend="blue"><hi rend="underline">Carrara</hi>. Mrs. Gore, Harrison</hi></l>
                   <l n="12"><hi rend="blue">Ainsworth; Thomas Hood.</hi></l>
                   <l n="13"><hi rend="blue">     Crabbe, Burns, Remains in</hi></l>
                   <l n="14"><hi rend="blue">Prose &amp; Verse.  Arthur Hallam.</hi></l>
                   <l n="15"><hi rend="blue">Saml, Rogers, Thomas Moore,</hi></l>
-                  <l n="16"><hi rend="blue">Mrs. Hemans, Mrs Opie, Disraeli<note target="disraeli">Benjamin Disraeli [1804-1888], author and twice Prime Minister of the United Kingdom. MM published “To Disraeli on Conservatism,” <title>The Lantern</title> (Spring 1915), later re-titled “To a Strategist,” and a review of André Maurois’s biography of Disraeli, <title>Dial</title>(May 1928): 435, 437.</note></hi></l>
+                  <l n="16"><hi rend="blue">Mrs. Hemans, Mrs Opie, Disraeli<note target="disraeli">Disraeli, Benjamin [1804-1888]. Author and twice Prime Minister of the United Kingdom. MM published “To Disraeli on Conservatism,” <title>The Lantern</title> (Spring 1915), later re-titled “To a Strategist,” and a review of André Maurois’s biography of Disraeli, <title>Dial</title>(May 1928): 435, 437.</note></hi></l>
                   <!-- No 'end' tag for blue colour here? I assume the blue colour resumes in line 18. EF! -->
                   <l n="17">  <add><hi rend="pencil">andor s</hi></add></l>
                   <l n="18"><hi rend="blue">  Landor's  <hi rend="underline">Citation &amp; Examination</hi></hi></l>
@@ -984,7 +983,7 @@
                   <l n="09"><bibl corresp="0161_recto_l09_bibl"/>Atlantic Monthly. August 1935</l>
                   <l n="10"></l>
                   <l n="11">Private Fortunes &amp; the Public Future</l>
-                  <l n="12">    Abraham Flexner<bibl corresp="#0161_recto_l09_bibl"/><note>Flexner, Abraham. "Private Fortunes and the Public Future." <title>Atlantic Monthly</title>(August 1935): 215-224.</note> <note target="flexner">Abraham Flexner [1866-1959] was an American educator and higher education and medical school reformer. He founded the Institute for Advanced Study in Princeton, NJ.</note></l>
+                  <l n="12">    Abraham Flexner<bibl corresp="#0161_recto_l09_bibl"/><note>Flexner, Abraham. "Private Fortunes and the Public Future." <title>Atlantic Monthly</title>(August 1935): 215-224.</note> <note target="flexner">Abraham Flexner [1866-1959]. American educator and higher education and medical school reformer. He founded the Institute for Advanced Study in Princeton, NJ.</note></l>
                   <l n="13"></l>
                   <l n="14"><hi rend="blue"><quote corresp="0161_recto_l14_quote"/>p. 224 (Our universities) Any</hi></l>
                   <l n="15"><hi rend="blue">governmental or economic policy</hi></l>
@@ -1483,7 +1482,7 @@
                   <l n="01"><hi rend="blue">                <bibl corresp="0169_recto_l01_bibl"/>England</hi></l>
                   <l n="02"><hi rend="blue">Picturesque and Descriptive.  A</hi></l>
                   <l n="03"><hi rend="blue">Reminisence of Foreign Travel, By</hi></l>
-                  <l n="04"><hi rend="blue">Joel Cook.<bibl corresp="#0169_recto_l01_bibl"/><note>Cook, Joel. <title>England, Picturesque and Descriptive: A Reminiscence of Foreign Travel</title>. Philadelphia: Porter and Coates, 1882.</note><note target="cook">Cook, Joel [1842-1910] was a newspaper writer, editor, and a member of the United States House of Representatives from Pennsylvania.</note>    Philad. Porter &amp; Coates</hi></l>
+                  <l n="04"><hi rend="blue">Joel Cook.<bibl corresp="#0169_recto_l01_bibl"/><note>Cook, Joel. <title>England, Picturesque and Descriptive: A Reminiscence of Foreign Travel</title>. Philadelphia: Porter and Coates, 1882.</note><note target="cook">Cook, Joel [1842-1910]. Newspaper writer, editor, and a member of the United States House of Representatives from Pennsylvania.</note>    Philad. Porter &amp; Coates</hi></l>
                   <l n="05"><hi rend="pencil">Constance's Father's book</hi><hi rend="blue">1882</hi></l>
                   <l n="06"></l>
                   <l n="07"><hi rend="blue"><bibl corresp="0169_recto_l07_bibl"/>Afloat on the James</hi></l>
@@ -1499,7 +1498,7 @@
                   <l n="16"><hi rend="blue">of Ucita, the chief intervened.<quote corresp="#0169_recto_l11_quote"/></hi></l>
                   <l n="17"><hi rend="blue">        _____________                             The <add>12</add>London Company</hi></l>
                   <l n="18"><hi rend="blue">     <bibl corresp="0169_recto_l18_bibl"/>History of Hampton and</hi></l>
-                  <l n="19"><hi rend="blue">Elizabeth City County, Virginia<bibl corresp="#0169_recto_l18_bibl"/><note>Tyler, Lyon Gardiner. <title>History of Hampton and Elizabeth City County, Virginia</title>. Hampton: Board of Supervisors of Elizabeth City County, 1922.</note><note target="tyler">Tyler, Lyon Gardiner [1853-1935] was an American educator and historian who served as the president of the College of William and Mary for over forty years. He was the son of tenth United States president, John Tyler.</note></hi></l>
+                  <l n="19"><hi rend="blue">Elizabeth City County, Virginia<bibl corresp="#0169_recto_l18_bibl"/><note>Tyler, Lyon Gardiner. <title>History of Hampton and Elizabeth City County, Virginia</title>. Hampton: Board of Supervisors of Elizabeth City County, 1922.</note><note target="tyler">Tyler, Lyon Gardiner [1853-1935]. American educator and historian who served as the president of the College of William and Mary for over forty years. He was the son of tenth United States president, John Tyler.</note></hi></l>
                   <l n="20"><hi rend="blue">     compiled by</hi></l>
                   <l n="21"><hi rend="blue">   Lyon G. Tyler.    Pubd by</hi></l>
                   <l n="22"><hi rend="blue">The Boardof Supervisors of Elizabeth</hi></l>
@@ -1603,7 +1602,7 @@
                   <l n="18"></l>
                   <l n="19"><hi rend="blue"><bibl corresp="0171_verso_l19_bibl"/>NY Times Book Review</hi></l>
                   <l n="20"><hi rend="blue">23   June 1935   Notes on Rare</hi></l>
-                  <l n="21"><hi rend="blue">Books<bibl corresp="#0171_verso_l19_bibl"/>.<note>Brooks, Philip. "Notes on Rare Books." <title>New York Times</title>(23 June 1935): BR 16.</note><note target="brooks">Brooks, Philip [1899-1975] was a bookseller and specialist on rare books who wrote the "Notes on Rare Book" column for the <title>New York Times Book Review</title>from 1932 to 1943.</note>    Lockwood Mem. Lib.</hi></l>
+                  <l n="21"><hi rend="blue">Books<bibl corresp="#0171_verso_l19_bibl"/>.<note>Brooks, Philip. "Notes on Rare Books." <title>New York Times</title>(23 June 1935): BR 16.</note><note target="brooks">Brooks, Philip [1899-1975]. Bookseller and specialist on rare books who wrote the "Notes on Rare Books" column for the <title>New York Times Book Review</title>from 1932 to 1943.</note>    Lockwood Mem. Lib.</hi></l>
                   <l n="22"><hi rend="blue">Buffalo</hi></l>
                   <l n="23"><hi rend="blue"><quote corresp="0171_verso_l23_quote"/>Accordingly there was issue a little</hi></l>
                   <l n="24"><hi rend="blue"><del>synopsis</del>  souvenir. . . . Watchfulness,</hi></l>
@@ -1640,7 +1639,7 @@
                   <l n="01"><hi rend="blue"><note>Brooks, Philip. "Notes on Rare Books" (see earlier note).</note>sufficient to keep intact treasures</hi></l>
                   <l n="02"><hi rend="blue">that could never be restored.<quote corresp="#0171_verso_l23_quote"/></hi></l>
                   <!-- The following note needs title and page number - archives available online but UB does not have access KN ! -->
-                  <l n="03"><hi rend="blue"><bibl corresp="0172_recto_l03_bibl"/>15 Feb.  30  Spectator<bibl corresp="#0172_recto_l03_bibl"/><note>Jones, Rufus. <title>The Spectator</title>(15 February 1930).</note><note target="jonesRufus">Jones, Rufus Matthew [1863-1948] was a prominent Quaker theologican and historian and taught philosophy at Bryn Mawr College.</note>Prof. Rufus</hi></l>
+                  <l n="03"><hi rend="blue"><bibl corresp="0172_recto_l03_bibl"/>15 Feb.  30  Spectator<bibl corresp="#0172_recto_l03_bibl"/><note>Jones, Rufus. <title>The Spectator</title>(15 February 1930).</note><note target="jonesRufus">Jones, Rufus Matthew [1863-1948]. Prominent Quaker theologican and historian and taught philosophy at Bryn Mawr College.</note>Prof. Rufus</hi></l>
                   <l n="04"><hi rend="blue">Jones   <quote corresp="0172_recto_l04_quote"/>In Defense of the Faith XIII</hi></l>
                   <l n="05"><hi rend="blue">awe and mystery were best left</hi></l>
                   <l n="06"><hi rend="blue"> without too many disturbing</hi></l>
@@ -2439,7 +2438,7 @@
                   <!-- I have added an 'end quote' tag in line 21 and a 'begin quote' tag in line 26. EF! -->
                   <l n="22"><hi rend="pencil">_____________</hi><hi rend="blue">.p 58</hi></l>
                   <l n="23"><hi rend="blue"><bibl corresp="0184_verso_l23_bibl"/>The Characteristics of a good</hi></l>
-                  <l n="24"><hi rend="blue"> Book Type David T Pottinger<bibl corresp="#0184_verso_l23_bibl"/><note>Potter, David T. "The Characteristics of a Good Book Type." <title>Dolphin</title>1 (1933): 58-66. David T. Pottinger [1884-1958]. Associate Director of Harvard University Press.</note></hi></l>
+                  <l n="24"><hi rend="blue"> Book Type David T Pottinger<bibl corresp="#0184_verso_l23_bibl"/><note>Pottinger, David T. "The Characteristics of a Good Book Type." <title>Dolphin</title>1 (1933): 58-66.</note><note target="pottinger">Pottinger, David T. [1884-1958]. Associate Director of Harvard University Press.</note></hi></l>
                   <l n="25"><hi rend="pencil">________________________</hi></l>
                   <l n="26"><hi rend="blue"><quote corresp="0184_verso_l26_quote"/>Mountjoye   Mr Updike has called</hi></l>
                   <l n="27"><hi rend="blue">Brimmer    Mr Rogers   <del>same</del><add>"  "</add></hi></l>
@@ -2500,7 +2499,7 @@
                   <l n="11"><hi rend="blue">the 19<hi rend="superscript">th</hi></hi><quote corresp="#0184_verso_l26_quote"/></l>
                   <!-- I have added an 'end quote' tag in line 11 and a 'begin quote' tag in line 14. EF! -->
                   <l n="12"><hi rend="blue">                            p 67     <bibl corresp="0185_verso_l12_bibl"/>Alfred W</hi></l>
-                  <l n="13"><hi rend="blue">2 //    Pollard.      MARGINS<bibl corresp="#0185_verso_l12_bibl"/><note>Pollard, Alfred W. "Margins." <title>Dolphin</title>1 (1933): 67-80. Pollard [1859-1944] was an English bibliographer.</note></hi></l>
+                  <l n="13"><hi rend="blue">2 //    Pollard.      MARGINS<bibl corresp="#0185_verso_l12_bibl"/><note>Pollard, Alfred W. "Margins." <title>Dolphin</title>1 (1933): 67-80.</note><note target="pollard">Pollard, Alfred W. [1859-1944]. English bibliographer.</note></hi></l>
                   <l n="14"><hi rend="blue"><quote corresp="0185_verso_l14_quote"/>Wm. Morris &amp; Mr Charles T Jacobi</hi></l>
                   <l n="15"><hi rend="blue">of the Cheswick Press read papers</hi></l>
                   <l n="16"><hi rend="blue">to it on the same evening (the</hi></l>
@@ -3172,7 +3171,7 @@
                   <l n="09"><hi rend="blue">said to be in a healthy state, but</hi></l>
                   <l n="10"><hi rend="blue">a little lacking in imagination &amp; in taste.<quote rend="end"/></hi></l>
                   <l n="11"></l>
-                  <l n="12"><hi rend="blue">342 <bibl corresp="0195_verso_l12_bibl"/>England<bibl corresp="#0195_verso_l12_bibl"/><note>Cleverdon, Douglas. "England." <title>Dolphin</title>1 (1933): 342-356.</note>     Douglas Cleverdon<note>Douglas Cleverdon [1903-1987], British bookseller, broadcaster, publisher, and writer. MM probably quotes below from Cleverdon’s “England” (<title>Dolphin</title> 1 [1930]), although she may quote directly from Euripides’ <title>Electra</title>.</note></hi></l>
+                  <l n="12"><hi rend="blue">342 <bibl corresp="0195_verso_l12_bibl"/>England<bibl corresp="#0195_verso_l12_bibl"/><note>Cleverdon, Douglas. "England." <title>Dolphin</title>1 (1933): 342-356.</note>     Douglas Cleverdon<note target="cleverdon">Cleverdon, Douglas [1903-1987]. British bookseller, broadcaster, publisher, and writer.</note><note> MM probably quotes below from Cleverdon’s “England” (<title>Dolphin</title> 1 [1930]), although she may quote directly from Euripides’ <title>Electra</title>.</note></hi></l>
                   <l n="13"><hi rend="blue"><quote rend="begin"/><bibl corresp="0195_verso_l13_bibl"/>Gregynog   The Plays of Euripides</hi></l>
                   <l n="14"><hi rend="blue">trans. by G. Murray.<bibl corresp="#0195_verso_l13_bibl"/><note>Euripides. <title>The Plays of Euripides</title>. Trans. Gilbert Murray. Newton Montgomeryshire: Gregynog Press, 1933.</note></hi><hi rend="pencil">M</hi><hi rend="blue"><del>P</del>onotype Books</hi></l>
                   <l n="15"><hi rend="blue">Ha, see above the roof tree high  Electra</hi></l>
@@ -3432,7 +3431,7 @@
                   <l n="07"><hi rend="blue"><bibl corresp="0199_recto_l07_bibl"/>Jacques Lipchitz<note target="lipchitz">Lipchitz, Jacques [1891-1973]. French-American Cubist sculptor.</note></hi></l>
                   <l n="08"><hi rend="blue">Brummer Gallery      55 East 57<hi rend="superscript">th</hi> St, NY</hi></l>
                   <l n="09"><hi rend="blue">    December 2 - January 31<bibl corresp="#0199_recto_l07_bibl"/><note target="faure">Faure, Élie. <title>Jacques Lipchitz</title>. Brummer Gallery Catalog (text by Faure). Exhibit, December 1935-January 1936.<!-- I have fixed a typo in the spelling of Lipchitz's name. EF! --></note></hi></l>
-                  <l n="10"><hi rend="blue">Elie Faure<note>Faure, Élie [1873-1937]. French art historian and essayist.</note>:<quote rend="begin"/>Introduction . . . Tactual</hi></l>
+                  <l n="10"><hi rend="blue">Elie Faure<note target="faure">Faure, Élie [1873-1937]. French art historian and essayist.</note>:<quote rend="begin"/>Introduction . . . Tactual</hi></l>
                   <l n="11"><hi rend="blue">values change like social values.</hi></l>
                   <l n="12"><hi rend="blue">And the <unclear>virile</unclear>acceptance of this</hi></l>
                   <l n="13"><hi rend="blue">change is the best means we have of</hi></l>
@@ -3574,7 +3573,7 @@
                   <l n="14"><hi rend="blue">of our nation and the memory of</hi></l>
                   <l n="15"><hi rend="blue">our people."<quote rend="end"/></hi></l>
                   <l n="16"><hi rend="blue"> <bibl corresp="0201_recto_l16_bibl"/>NY. Times.      19 Jan 1936</hi></l>
-                  <l n="17"><hi rend="blue">Notes on Rare Books<bibl corresp="#0201_recto_l16_bibl"/><note>Brooke, Philip. "Notes on Rare Books." <title>New York Times</title>(19 January 1936): BR24.</note>Philip Brooke<note>Brooke, Philip [1899-1975]. Rare book specialist and collector who contributed to the "Notes on Rare Books" column of the <title>New York Times Sunday Book Review</title>, 1932-1943.</note></hi></l>
+                  <l n="17"><hi rend="blue">Notes on Rare Books<bibl corresp="#0201_recto_l16_bibl"/><!-- MM misspells Brooks' surname as 'Brooke'. I am editing all notes to reflect the correct spelling. EF! --><note>Brooks, Philip. "Notes on Rare Books." <title>New York Times</title>(19 January 1936): BR24.</note>Philip Brooke</hi></l>
                   <l n="18"><hi rend="blue"><quote rend="begin"/><add>see</add>Spencer <hi rend="underline">c</hi>ollection of Illustrated</hi></l>
                   <l n="19"><hi rend="blue"><del>AMS's</del>Books in the NYP.L. &amp;</hi></l>
                   <l n="20"><hi rend="blue">monograph in the Bulletin</hi></l>
@@ -3590,7 +3589,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0202-verso.jpg"
                   n="0202-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Brooke, Philip. "Notes on Rare Books" (see earlier note).</note><quote rend="begin"/>(Sessa) a quarto of 29</hi></l>
+                  <l n="01"><hi rend="blue"><note>Brooks, Philip. "Notes on Rare Books" (see earlier note).</note><quote rend="begin"/>(Sessa) a quarto of 29</hi></l>
                   <l n="02"><hi rend="blue">leaves w 11 bordered woodcuts</hi></l>
                   <l n="03"><hi rend="blue">in the text. "Whenever" said the</hi></l>
                   <l n="04"><hi rend="blue">late Bishop of Ely, "you see a book</hi></l>
@@ -3663,7 +3662,7 @@
                   <l n="06"><hi rend="blue">dignities adroitly upheld, overshadowed</hi></l>
                   <l n="07"><hi rend="blue">himself.&#8212; . . . .<quote rend="end"/></hi></l>
                   <l n="08"><hi rend="blue"><bibl corresp="0203_verso_l08_bibl"/>NYT.  BK Review 26 Jan 36</hi></l>
-                  <l n="09"><hi rend="blue">Notes on Rare Books.<bibl corresp="#0203_verso_l08_bibl"/><note>Brooke, Philip. "Notes on Rare Books." <title>New York Times</title>(26 January 1936): BR23.</note></hi></l>
+                  <l n="09"><hi rend="blue">Notes on Rare Books.<bibl corresp="#0203_verso_l08_bibl"/><note>Brooks, Philip. "Notes on Rare Books." <title>New York Times</title>(26 January 1936): BR23.</note></hi></l>
                   <l n="10"><hi rend="blue"><quote rend="begin"/>29<hi rend="superscript">th</hi> &amp; 30<hi rend="superscript">th</hi>  Amer. Art. Anderson</hi></l>
                   <l n="11"><hi rend="blue">Galleries sale Elbridge L.</hi></l>
                   <l n="12"><hi rend="blue">Adams, Irving S. Underhill,</hi></l>
@@ -3797,7 +3796,7 @@
                   <l n="02"><hi rend="blue">                                    meaning seal?</hi></l>
                   <l n="03"><hi rend="blue"><bibl corresp="0205_verso_l03_bibl"/>Letters of Charles    Lamb to</hi></l>
                   <l n="04"><hi rend="blue">which are added  a store of his sister Mary Lamb</hi></l>
-                  <l n="05"><hi rend="blue">3 vol.s    Ed. by E V. Lucas<note>Lucas, Edward Verrall [1868-1938]. English humorist who wrote for <title>Punch</title>but also published in most genres, including essays and poetry.</note></hi></l>
+                  <l n="05"><hi rend="blue">3 vol.s    Ed. by E V. Lucas<note target="lucas">Lucas, Edward Verrall [1868-1938]. English humorist who wrote for <title>Punch</title>but also published in most genres, including essays and poetry.</note></hi></l>
                   <l n="06"><hi rend="blue">N. Have Yale Un. Press.</hi></l>
                   <l n="07"><hi rend="blue">Printed at the Temple Press   Letchworth</hi></l>
                   <l n="08"><hi rend="blue">                         1935</hi></l>
@@ -5566,7 +5565,7 @@
                   <l n="15">it, that a series of illustrative</l>
                   <l n="16">paintings by you," etc</l>
                   <l n="17">19  A Man from Hymettus</l>
-                  <l n="18">Mr. Frederic Leighton:<note target="leighton"><!-- I have reversed the order of Leighton's name to match the glossary entry style (Last, First). EF! -->Leighton, Frederic [1830-1896]. English painter and sculptor.</note>"think</l>
+                  <l n="18">Mr. Frederic Leighton:<note target="leighton">Leighton, Frederic [1830-1896]. English painter and sculptor.</note>"think</l>
                   <l n="19">for one moment my dear</l>
                   <l n="20">Mr Rosetti, that I am insensible</l>
                   <l n="21">to the charm of a life recluded</l>
