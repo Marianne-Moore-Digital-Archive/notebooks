@@ -517,11 +517,11 @@
                                     <l n="14">O Painted Piece of Living Clay</l>
                                     <l n="15">Man Be Not Proud of Thy Short</l>
                                     <l n="16">                                         Day.<quote rend="end"/></l>
-                                    <l n="17"><bibl rend="begin"/>Sunday Review of the</l>
+                                    <l n="17"><bibl corresp="0133_verso_l17_bibl"/>Sunday Review of the</l>
                                     <l n="18">Brooklyn Daily Eagle Mar <add>18</add> <del>1934</del></l>
                                     <l n="19">1934.</l>
                                     <l n="20"> </l>
-                                    <l n="21">First Balcony by<bibl rend="end"/><note>Wright, Richardson. “First Balcony: The End of Quilts” The Sunday Review of the Brooklyn Daily Eagle. (18 March 1934): 13. Richardson L. Wright [1886-1961] was the editor of House and Garden museum and an author and lecturer on eclectic topics, including home and garden and early Americana. He was a literary critic for the New York Times from 1911-1914.</note></l>
+                                    <l n="21">First Balcony by<bibl corresp="#0133_verso_l21_bibl"/><note>Wright, Richardson. “First Balcony: The End of Quilts” The Sunday Review of the Brooklyn Daily Eagle. (18 March 1934): 13. Richardson L. Wright [1886-1961] was the editor of House and Garden museum and an author and lecturer on eclectic topics, including home and garden and early Americana. He was a literary critic for the New York Times from 1911-1914.</note></l>
                                  </lg>
                               </div>              
                                  <div type="page" n="r.0133" xml:id="nb07_02_02_0133_recto_text">
@@ -530,26 +530,27 @@
                                        n="0133-recto"/>
                                     <desc> </desc>
                                     <lg>
-                                       <l n="01"><note>Wright, Richardson. “First Balcony” (see earlier note).</note><bibl rend="begin"/>Richardson Wright: The End</l>
-                                       <l n="02"> of quilts.<bibl rend="end"/></l>
+                                       <l n="01"><note>Wright, Richardson. “First Balcony” (see earlier note).</note><bibl corresp="0133_recto_l01_biblA"/>Richardson Wright: The End</l>
+                                       <l n="02"> of quilts.<bibl corresp="#0133_recto_l01_biblA"/></l>
                                        <l n="03"> <quote rend="begin"/>It was once customary in Spain</l>
                                        <l n="04">for fine ladies to send their</l>
                                        <l n="05"> wedding dresses to <del>convents</del></l>
                                        <l n="06">convents, where the nuns</l>
                                        <l n="07"> used the silk for making vestments.<quote rend="end"/></l>
                                        <l n="08"> </l>
-                                       <l n="09"><bibl rend="begin"/>H. James. (p. 25 of my notes)</l>
-                                       <l n="10"> fr Notes of a Son &amp; Brother (?)<bibl rend="end"/><note>James, Henry. Notes of a Son and Brother. New York: Macmillan, 1914.</note></l>
+                                       <l n="09"><bibl corresp="0133_recto_l09_biblB"/>H. James. (p. 25 of my notes)</l>
+                                       <l n="10"> fr Notes of a Son &amp; Brother (?)<bibl corresp="#0133_recto_l10_biblB"/><note>James, Henry. Notes of a Son and Brother. New York: Macmillan, 1914.</note></l>
                                        <l n="11"> </l>
                                        <l n="12"><quote rend="begin"/>(his father) a chartered rebel</l>
                                        <l n="13">against cold reserves—the sense</l>
                                        <l n="14">of communicable pleasure in his</l>
                                        <l n="15"> breast was positively explosive.<quote rend="end"/></l>
                                        <l n="16"> </l>
-                                       <l n="17">     <bibl rend="begin"/>Mergenthaler Linotype  Co</l>
+                                       <l n="17">     <bibl corresp="0133_recto_l01_biblC"/>Mergenthaler Linotype  Co</l> 
+                                       <!--the previous bibl tag does not have a close tag!--> 
                                        <l n="18">29 Ryerson St.     Brooklyn</l>
-                                       <l n="19">Portfolio quoting <bibl rend="begin"/>Printer’s Marks</l>
-                                       <l n="20">W. Roberts<bibl rend="end"/><note>Roberts, William. Printers’ Marks: A Chapter in the History of Typography. London: George Bell &amp; Sons, 1893.</note>  p. 91    <del>by W Roberts</del> </l>
+                                       <l n="19">Portfolio quoting <bibl corresp="0133_recto_l19_biblD"/>Printer’s Marks</l>
+                                       <l n="20">W. Roberts<bibl corresp="0133_recto_l19_biblD"/><note>Roberts, William. Printers’ Marks: A Chapter in the History of Typography. London: George Bell &amp; Sons, 1893.</note>  p. 91    <del>by W Roberts</del> </l>
                                        <l n="21"></l>
                                        <l n="22">    <quote rend="begin"/>Thomas Creede 1588-1618 </l>
                                        <l n="23">Whose shop was at the sign of the<quote rend="end"/></l>
