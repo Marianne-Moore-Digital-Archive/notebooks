@@ -77,13 +77,13 @@
                   <l n="16">                Native cats   214</l>
                   <l n="17">                Platypus      222</l>
                   <l n="18">172</l>
-                  <l n="19">173.        <bibl rend="begin"/>Cats have a marvelous<del>way</del></l>
+                  <l n="19">173.        <bibl corresp="0125_recto_l19_biblB"/>Cats have a marvelous<del>way</del></l>
                   <l n="20">faculty for finding their way over</l>
                   <l n="21">utterly unknown ground.</l>
                   <l n="22">              . . . .</l>
                   <l n="23">. . . she had lived all her life</l>
                   <l n="24">in Northumberland until her mistress</l>
-                  <l n="25">gave her away to some people in Essex<bibl rend="end"/></l> 
+                  <l n="25">gave her away to some people in Essex<bibl corresp="#0125_recto_l19_biblB"/></l> 
                </lg>
             </div>
             <div type="image" xml:id="nb07_02_02_0126_text">
@@ -115,8 +115,8 @@
                      <l n="20">acted as foster-mother to ten</l>
                      <l n="21">ducklings . . . .<quote rend="end"/></l>
                      <l n="22"> </l>
-                     <l n="23"><bibl rend="begin"/>Sea-Shore Life</l>
-                     <l n="24">The Invertebrates of the NY<bibl rend="end"/><note>Mayer, Alfred Goldborough. Sea-Shore Life: The Invertebrates of the New York Coast and the Adjacent Coast Region. New York: New York Zoological Society, 1905. Alfred Goldborough Mayer [1868-1922] was an American marine biologist and zoologist and popular science writer.</note></l>
+                     <l n="23"><bibl rend="begin"/><bibl corresp="0126_verso_l23_bibl"/>Sea-Shore Life</l>
+                     <l n="24">The Invertebrates of the NY<bibl corresp="#0126_verso_l23_bibl"/><note>Mayer, Alfred Goldborough. Sea-Shore Life: The Invertebrates of the New York Coast and the Adjacent Coast Region. New York: New York Zoological Society, 1905. Alfred Goldborough Mayer [1868-1922] was an American marine biologist and zoologist and popular science writer.</note></l>
                   </lg>
                </div>
                 <div type="page" n="r.0126" xml:id="nb07_02_02_0126_recto_text">
@@ -144,13 +144,13 @@
                               n="0127-recto"/>
                         <desc>MM draws a chambered nautilus on lines 12 through 17</desc>
                            <lg>
-                              <l n="01"><bibl rend="begin"/>Coast</l>
+                              <l n="01"><bibl corresp="0127_recto_l01_biblA"/>Coast</l>
                               <l n="02">Alfred Goldborough Mayer</l>
                               <l n="03">Dir. of the Marine Biological Lab</l>
                               <l n="04">of the Carnegie Institute of Tortugas,</l>
                               <l n="05">Florida.</l>
                               <l n="06">    N.Y. Zoological Society 1905</l>
-                              <l n="07">N.Y. Aquarium Nature Series No. 1<bibl rend="end"/><note>Mayer, Alfred Goldborough. Sea-Shore Life (see earlier note).</note></l>
+                              <l n="07">N.Y. Aquarium Nature Series No. 1<bibl corresp="#0127_recto_l07_biblA"/><note>Mayer, Alfred Goldborough. Sea-Shore Life (see earlier note).</note></l>
                               <l n="08"> </l>
                               <l n="09">157    The Chambered or pearly<note>MM first publishes “The Paper Nautilus” under the title “A Glass-Ribbed Nest,” Kenyon Review (Summer 1940).</note></l>
                               <l n="10">nautilus fr the Tropical Pacific</l>
@@ -162,9 +162,9 @@
                               <l n="16"> </l>
                               <l n="17"> </l>
                               <l n="18"> </l>
-                              <l n="19"><bibl rend="begin"/>J M. Synge<note>John Millington Synge [1871-1909] was an Irish playwright, poet, travel writer, and collector of folkore. He was a key figure in the Irish literary revival and one of the co-founders of the Abbey Theater.</note> —A Critical Study</l>
+                              <l n="19"><bibl corresp="0127_recto_l19_biblB"/>J M. Synge<note>John Millington Synge [1871-1909] was an Irish playwright, poet, travel writer, and collector of folkore. He was a key figure in the Irish literary revival and one of the co-founders of the Abbey Theater.</note> —A Critical Study</l>
                               <l n="20">by  P. P. Howe   N.Y.</l>
-                              <l n="21">Mitchell Kinnerley MCMXII<bibl rend="end"/><note>Howe, Percival Presland. J. M. Synge: A Critical Study. New York: Mitchell Kennerly, 1912. Percival Presland Howe [1886-1944] wrote numerous critical works, including studies of Bernard Shaw and William Hazlitt.</note></l>
+                              <l n="21">Mitchell Kinnerley MCMXII<bibl corresp="#0127_recto_l21_biblB"/><note>Howe, Percival Presland. J. M. Synge: A Critical Study. New York: Mitchell Kennerly, 1912. Percival Presland Howe [1886-1944] wrote numerous critical works, including studies of Bernard Shaw and William Hazlitt.</note></l>
                            </lg>
                         </div>
                   </div>
