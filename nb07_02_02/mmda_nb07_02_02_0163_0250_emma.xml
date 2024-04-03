@@ -25,7 +25,6 @@
                   n="0000-recto"/>
                <desc/>
                <lg>
-                  <!-- Git Test. EF! -->
                   <l n="01"></l>
                   <l n="02"></l>
                   <l n="03"></l>
@@ -287,7 +286,7 @@
                   <l n="11">{entered in blue book  error}</l>
                   <l n="12"></l>
                   <l n="13"><bibl corresp="0150_recto_l13_bibl"/>The Lost Glen</l>
-                  <l n="14">Neil <add>M</add> Gunn.    The Porpoise Press.<bibl corresp="#0150_recto_l13_bibl"/><note>Gunn, Neil Miller. <title>The Lost Glen</title>. Edinburgh: Porpoise Press, 1932.</note><note target="gunn">Gunn, Neil Miller [1891-1973] was a Scottish novelist.</note></l>
+                  <l n="14">Neil <add>M</add> Gunn.    The Porpoise Press.<bibl corresp="#0150_recto_l13_bibl"/><note>Gunn, Neil Miller. <title>The Lost Glen</title>. Edinburgh: Porpoise Press, 1932.</note><note target="gunn">Gunn, Neil Miller [1891-1973]. Scottish novelist.</note></l>
                   <l n="15">p.  166.  <quote corresp="0150_recto_l15_quote"/>Only now &amp; then there rose the</l>
                   <l n="16">thin scream of the reel, startling the</l>
                   <l n="17">the boat and its occupants to a slight</l>
@@ -343,7 +342,7 @@
                <desc>From lines 10 to 13 MM draws a bracket in the left margin, between the question mark and the text.</desc>
                <lg>
                   <l n="01"><bibl corresp="0151_recto_l01_bibl"/>Jan  18 1935          Philad. (Ledger?)</l>
-                  <l n="02">Joseph Fort Newton.<bibl corresp="#0151_recto_l01_bibl"/><note>Probably an article by Joseph Fort Newton from the <title>Philadelphia Ledger</title>, January 18, 1935.</note><note target="Newton">Joseph Fort Newton [1880-1950] was a prominent American Baptist minister whose sermons and other writing were widely circulated in print. He spent the latter part of his career in Philadelphia.</note><quote corresp="0151_recto_l01_quote"/>as you</l>
+                  <l n="02">Joseph Fort Newton.<bibl corresp="#0151_recto_l01_bibl"/><note>Probably an article by Joseph Fort Newton from the <title>Philadelphia Ledger</title>, January 18, 1935.</note><note target="Newton">Newton, Joseph Fort [1880-1950]. Prominent American Baptist minister whose sermons and other writing were widely circulated in print. He spent the latter part of his career in Philadelphia.</note><quote corresp="0151_recto_l01_quote"/>as you</l>
                   <l n="03">recall, Ruskin said he would like</l>
                   <l n="04">to macadamize some new roads to</l>
                   <l n="05">heaven: make Italian's industrious</l>
@@ -409,7 +408,7 @@
                   n="0152-recto"/>
                <lg>
                   <l n="01">p. 7.</l>
-                  <l n="02"><note>Rodker, John. “Mr. Segando in the Fifth Cataclysm.” <title>The Tyro</title> no. 1 (1921): 8.</note><note target="rodker">Rodker, John [1894-1955] was an English modernist poet best known for his work as an editor and publisher. He started the Ovid Press, which published work by both Eliot and Pound. He was an editor for <title>The Little Review</title> and worked on French translations of <title>Ulysses</title>.</note><quote corresp="0152_recto_l02_quote"/>Mr. Segando: The mood of</l>
+                  <l n="02"><note>Rodker, John. “Mr. Segando in the Fifth Cataclysm.” <title>The Tyro</title> no. 1 (1921): 8.</note><note target="rodker">Rodker, John [1894-1955]. English modernist poet best known for his work as an editor and publisher. He started the Ovid Press, which published work by both Eliot and Pound. He was an editor for <title>The Little Review</title> and worked on French translations of <title>Ulysses</title>.</note><quote corresp="0152_recto_l02_quote"/>Mr. Segando: The mood of</l>
                   <l n="03">nostalgia, our fancies, Phillip, is</l>
                   <l n="04">soon frightened off by the bombastic</l>
                   <l n="05">shadow of my hair!</l>
@@ -673,7 +672,7 @@
                   n="0157-verso"/>
                <lg>
                   <l n="01"><hi rend="blue"><bibl corresp="0157_verso_l01_bibl"/>Cecil Sharp.<note target="sharp">Cecil Sharp [1859-1924]. English musician noted for his collecting of English folk song and dance. MM praised his folklore collecting in the Appalachian mountains, Dial (December 1928): 542.</note>  A H Fox Strangways</hi></l>
-                  <l n="02"><hi rend="blue">Ox. U. Press       1933<bibl corresp="#0157_verso_l01_bibl"/><note>Strangways, Arthur Henry Fox. <title>Cecil Sharp</title>. London: Oxford, 1933.</note> <note target="strangways">Arthur Henry Fox Strangways [1859-1948] was an English musicologist who wrote music criticism for <title>The Times</title> (London) and was chief music critic of <title>The Observer</title>.</note></hi></l>
+                  <l n="02"><hi rend="blue">Ox. U. Press       1933<bibl corresp="#0157_verso_l01_bibl"/><note>Strangways, Arthur Henry Fox. <title>Cecil Sharp</title>. London: Oxford, 1933.</note> <note target="strangways">Arthur Henry Fox Strangways [1859-1948]. English musicologist who wrote music criticism for <title>The Times</title> (London) and was chief music critic of <title>The Observer</title>.</note></hi></l>
                   <l n="03"><hi rend="blue"><quote corresp="0157_verso_l03_quote"/>Chapter IV    1903 Folk-Song Collecting</hi></l>
                   <l n="04"><hi rend="blue">I have read books enough and observed</hi></l>
                   <l n="05"><hi rend="blue">&amp; conversed w</hi><add><hi rend="pencil">ith</hi></add><hi rend="blue">enough of eminent &amp;</hi></l>
@@ -715,7 +714,7 @@
                   <l n="08"></l>
                   <l n="09"><hi rend="blue">   <bibl corresp="0157_recto_l09_bibl"/>Lost &amp; Vanishing Birds</hi></l>
                   <l n="10"><hi rend="blue">   Charles Dixon   John Macqueen</hi></l>
-                  <l n="11"><hi rend="blue">                                London 1918<bibl corresp="#0157_recto_l09_bibl"/><note>Dixon, Charles. <title>Lost and Vanishing Birds</title>. London: John Macqueen, 1918.</note><note target="dixon"> Dixon, Charles [1858-1926] was an English ornithologist.</note></hi></l>
+                  <l n="11"><hi rend="blue">                                London 1918<bibl corresp="#0157_recto_l09_bibl"/><note>Dixon, Charles. <title>Lost and Vanishing Birds</title>. London: John Macqueen, 1918.</note><note target="dixon"> Dixon, Charles [1858-1926]. English ornithologist.</note></hi></l>
                   <l n="12"><hi rend="blue">215 The Dodo   <foreign xml:lang="la">Didus ineptus</foreign></hi></l>
                   <l n="13"></l>
                   <l n="14"><hi rend="blue"><quote corresp="0157_recto_l14_quote"/>De Bry, alludes to the Dodos</hi></l>
@@ -842,7 +841,7 @@
                   <l n="02"><hi rend="blue">be read by singers sitting around a</hi></l>
                   <l n="03"><hi rend="blue">table.  Orlando Gibbons' <hi rend="underline">First Sel</hi></hi></l>
                   <l n="04"><hi rend="blue"><hi rend="underline">of Madrigals</hi>open at <hi rend="underline">The Silver</hi></hi></l>
-                  <l n="05"><hi rend="blue"><hi rend="underline">Swan</hi>.<note>Gibbons, Orlando. <title>The First Set of Madrigals and Mottets.</title>London: Thomas Snodham, 1612.</note><note target="gibbons"> Gibbons, Orlando [1583-1625] was the foremost composer of his times and "The Silver Swan" is among his most popular madrigals.</note>    Morley, Byrd, Jenkins</hi></l>
+                  <l n="05"><hi rend="blue"><hi rend="underline">Swan</hi>.<note>Gibbons, Orlando. <title>The First Set of Madrigals and Mottets.</title>London: Thomas Snodham, 1612.</note><note target="gibbons"> Gibbons, Orlando [1583-1625]. The foremost composer of his times. "The Silver Swan" is among his most popular madrigals.</note>    Morley, Byrd, Jenkins</hi></l>
                   <l n="06"></l>
                   <l n="07"><hi rend="blue">Bach Greifet zu! Fasst das</hi></l>
                   <l n="08"><hi rend="blue">Heyl!<note>Aria B from Cantata BWV 174 by Johann Sebastian Bach</note><note target="bach">Bach, Johann Sebastian [1685-1750]. Major German composer of the baroque period.</note> was filled w large firm,</hi></l>
@@ -856,7 +855,7 @@
                   <l n="15"><hi rend="blue">&amp; tiny notes.  Mss of the <hi rend="underline">Nachte</hi></hi></l>
                   <l n="16"><hi rend="blue"><hi rend="underline">S.</hi><note>“Das Veilchin” (K. 476), composed by Mozart in 1785. It sets to music a poem by Goethe. “Eine Kleine Nachtmusik” is the Serenade for Strings No. 13 (K. 575) composed in 1787.</note> &amp; <hi rend="underline">Sketches for the Moonlight</hi>.</hi></l>
                   <l n="17"><hi rend="blue">Showed Beethoven's violent &amp;</hi></l>
-                  <l n="18"><hi rend="blue">erratic method of writing.<note target="beethoven">Ludwig van Beethoven [1770-1827], completed Piano Sonata No. 14 in C# Minor, Op. 27, No. 2, known as the Moonlight Sonata, in 1801.</note></hi></l>
+                  <l n="18"><hi rend="blue">erratic method of writing.<note target="beethoven">Beethoven, Ludwig van [1770-1827]. Completed Piano Sonata No. 14 in C# Minor, Op. 27, No. 2, known as the Moonlight Sonata, in 1801.</note></hi></l>
                   <l n="19"><hi rend="blue">Stravinsky decorated in colors.</hi></l>
                   <l n="20"><hi rend="blue">Mozarts wedding contract. w signatures</hi></l>
                   <l n="21"><hi rend="blue">of b. &amp; b above those of the</hi></l>
@@ -884,13 +883,13 @@
                   <l n="10"><hi rend="blue"><hi rend="underline"><foreign xml:lang="greek">Poliphile</foreign></hi> (Venice Aldus 1499),</hi></l>
                   <l n="11"><hi rend="blue">w its perfect balance between</hi></l>
                   <l n="12"><hi rend="blue">type &amp; illustrations</hi></l>
-                  <l n="13"><hi rend="blue">           Higden:<note target="higden">Ranulf Higden, [1280-1364], British historian. Composed <title>Polychronicon</title>, a compilation of most of the knowledge of his age.</note> <hi rend="underline">Polycronycon</hi></hi></l>
+                  <l n="13"><hi rend="blue">           Higden:<note target="higden">Higden, Ranulf [1280-1364]. British historian. Composed <title>Polychronicon</title>, a compilation of most of the knowledge of his age.</note> <hi rend="underline">Polycronycon</hi></hi></l>
                   <l n="14"><hi rend="blue">Southwark 1627) w its magnif</hi></l>
                   <l n="15"><hi rend="blue">title page, Turberville: <hi rend="underline">Book</hi></hi></l>
                   <l n="16"><hi rend="blue"><hi rend="underline">of Falconrie</hi>  (London, 1575).</hi></l>
                   <l n="17"><hi rend="blue">of the first ed. of Gerarde's <hi rend="underline">Herball</hi></hi></l>
                   <l n="18"><hi rend="blue">(London 1592):</hi></l>
-                  <l n="19"><hi rend="blue">La Fontaine,<note target="fontaine">Jean de La Fontaine [1621-1695], French poet. MM translated his fables: <title>The Fables of La Fontaine</title>. Viking Press, 1954.</note> Laborde, Morceaus</hi></l>
+                  <l n="19"><hi rend="blue">La Fontaine,<note target="fontaine">Fontaine, Jean de La [1621-1695]. French poet. MM translated his fables: <title>The Fables of La Fontaine</title>. Viking Press, 1954.</note> Laborde, Morceaus</hi></l>
                   <l n="20"><hi rend="blue">Miraculous costume plate &amp;</hi></l>
                   <l n="21"><hi rend="blue">Prudhon's color.</hi></l>
                   <l n="22"><hi rend="blue">    England was well rep'd by Hogarth</hi></l>
@@ -907,19 +906,19 @@
                   <l n="01"><hi rend="blue"><note>"A Book Exhibition in London" (see earlier note).</note>&amp; in the 19<add>th</add>Bewick Flaxman</hi></l>
                   <l n="02"><hi rend="blue">Turner  Rowlandson, Cruikshank</hi></l>
                   <l n="03"><hi rend="blue">Phiz, Leech. Alken, Doyle Tenniel</hi></l>
-                  <l n="04"><hi rend="blue">B-Jones, Kate Greenaway<note target="greenaway">Catherine Greenaway [1846-1901] English artist and writer, known for her children's book illustrations. MM quotes her and (in her notes) considers Greenaway as a candidate for a list of “ten leaders in the educational history of the last 2,300 years,” “Currents Events,” <title>Dial</title> February 1925.</note>&amp;</hi></l>
+                  <l n="04"><hi rend="blue">B-Jones, Kate Greenaway<note target="greenaway">Greenaway, Catherine [1846-1901]. English artist and writer, known for her children's book illustrations. MM quotes her and (in her notes) considers Greenaway as a candidate for a list of “ten leaders in the educational history of the last 2,300 years,” “Currents Events,” <title>Dial</title> February 1925.</note>&amp;</hi></l>
                   <l n="05"><hi rend="blue">Beardsley</hi></l>
                   <l n="06"><hi rend="blue">    Doré, Gavarni Johannat &amp;</hi></l>
                   <l n="07"><hi rend="blue">Daumier rep'd 19<hi rend="superscript">th</hi>c France&#8212;</hi></l>
                   <l n="08"><hi rend="blue">     1834     <del>Maryat</del>  Marryat, maria</hi></l>
-                  <l n="09"><hi rend="blue">Edgeworth:<note target="edgeworth">Maria Edgeworth [1767-1849], Anglo-Irish author. MM published a dramatization of one of Edgeworth's novels: <title>The Absentee: A Comedy in Four Acts</title>. 1962.</note><hi rend="underline">Helen</hi>her last full length</hi></l>
+                  <l n="09"><hi rend="blue">Edgeworth:<note target="edgeworth">Edgeworth, Maria [1767-1849]. Anglo-Irish author. MM published a dramatization of one of Edgeworth's novels: <title>The Absentee: A Comedy in Four Acts</title>. 1962.</note><hi rend="underline">Helen</hi>her last full length</hi></l>
                   <l n="10"><hi rend="blue">novel, Letitia Landon. Francesca</hi></l>
                   <l n="11"><hi rend="blue"><hi rend="underline">Carrara</hi>. Mrs. Gore, Harrison</hi></l>
                   <l n="12"><hi rend="blue">Ainsworth; Thomas Hood.</hi></l>
                   <l n="13"><hi rend="blue">     Crabbe, Burns, Remains in</hi></l>
                   <l n="14"><hi rend="blue">Prose &amp; Verse.  Arthur Hallam.</hi></l>
                   <l n="15"><hi rend="blue">Saml, Rogers, Thomas Moore,</hi></l>
-                  <l n="16"><hi rend="blue">Mrs. Hemans, Mrs Opie, Disraeli<note target="disraeli">Benjamin Disraeli [1804-1888], author and twice Prime Minister of the United Kingdom. MM published “To Disraeli on Conservatism,” <title>The Lantern</title> (Spring 1915), later re-titled “To a Strategist,” and a review of André Maurois’s biography of Disraeli, <title>Dial</title>(May 1928): 435, 437.</note></hi></l>
+                  <l n="16"><hi rend="blue">Mrs. Hemans, Mrs Opie, Disraeli<note target="disraeli">Disraeli, Benjamin [1804-1888]. Author and twice Prime Minister of the United Kingdom. MM published “To Disraeli on Conservatism,” <title>The Lantern</title> (Spring 1915), later re-titled “To a Strategist,” and a review of André Maurois’s biography of Disraeli, <title>Dial</title>(May 1928): 435, 437.</note></hi></l>
                   <!-- No 'end' tag for blue colour here? I assume the blue colour resumes in line 18. EF! -->
                   <l n="17">  <add><hi rend="pencil">andor s</hi></add></l>
                   <l n="18"><hi rend="blue">  Landor's  <hi rend="underline">Citation &amp; Examination</hi></hi></l>
@@ -984,7 +983,7 @@
                   <l n="09"><bibl corresp="0161_recto_l09_bibl"/>Atlantic Monthly. August 1935</l>
                   <l n="10"></l>
                   <l n="11">Private Fortunes &amp; the Public Future</l>
-                  <l n="12">    Abraham Flexner<bibl corresp="#0161_recto_l09_bibl"/><note>Flexner, Abraham. "Private Fortunes and the Public Future." <title>Atlantic Monthly</title>(August 1935): 215-224.</note> <note target="flexner">Abraham Flexner [1866-1959] was an American educator and higher education and medical school reformer. He founded the Institute for Advanced Study in Princeton, NJ.</note></l>
+                  <l n="12">    Abraham Flexner<bibl corresp="#0161_recto_l09_bibl"/><note>Flexner, Abraham. "Private Fortunes and the Public Future." <title>Atlantic Monthly</title>(August 1935): 215-224.</note> <note target="flexner">Abraham Flexner [1866-1959]. American educator and higher education and medical school reformer. He founded the Institute for Advanced Study in Princeton, NJ.</note></l>
                   <l n="13"></l>
                   <l n="14"><hi rend="blue"><quote corresp="0161_recto_l14_quote"/>p. 224 (Our universities) Any</hi></l>
                   <l n="15"><hi rend="blue">governmental or economic policy</hi></l>
@@ -1483,7 +1482,7 @@
                   <l n="01"><hi rend="blue">                <bibl corresp="0169_recto_l01_bibl"/>England</hi></l>
                   <l n="02"><hi rend="blue">Picturesque and Descriptive.  A</hi></l>
                   <l n="03"><hi rend="blue">Reminisence of Foreign Travel, By</hi></l>
-                  <l n="04"><hi rend="blue">Joel Cook.<bibl corresp="#0169_recto_l01_bibl"/><note>Cook, Joel. <title>England, Picturesque and Descriptive: A Reminiscence of Foreign Travel</title>. Philadelphia: Porter and Coates, 1882.</note><note target="cook">Cook, Joel [1842-1910] was a newspaper writer, editor, and a member of the United States House of Representatives from Pennsylvania.</note>    Philad. Porter &amp; Coates</hi></l>
+                  <l n="04"><hi rend="blue">Joel Cook.<bibl corresp="#0169_recto_l01_bibl"/><note>Cook, Joel. <title>England, Picturesque and Descriptive: A Reminiscence of Foreign Travel</title>. Philadelphia: Porter and Coates, 1882.</note><note target="cook">Cook, Joel [1842-1910]. Newspaper writer, editor, and a member of the United States House of Representatives from Pennsylvania.</note>    Philad. Porter &amp; Coates</hi></l>
                   <l n="05"><hi rend="pencil">Constance's Father's book</hi><hi rend="blue">1882</hi></l>
                   <l n="06"></l>
                   <l n="07"><hi rend="blue"><bibl corresp="0169_recto_l07_bibl"/>Afloat on the James</hi></l>
@@ -1499,7 +1498,7 @@
                   <l n="16"><hi rend="blue">of Ucita, the chief intervened.<quote corresp="#0169_recto_l11_quote"/></hi></l>
                   <l n="17"><hi rend="blue">        _____________                             The <add>12</add>London Company</hi></l>
                   <l n="18"><hi rend="blue">     <bibl corresp="0169_recto_l18_bibl"/>History of Hampton and</hi></l>
-                  <l n="19"><hi rend="blue">Elizabeth City County, Virginia<bibl corresp="#0169_recto_l18_bibl"/><note>Tyler, Lyon Gardiner. <title>History of Hampton and Elizabeth City County, Virginia</title>. Hampton: Board of Supervisors of Elizabeth City County, 1922.</note><note target="tyler">Tyler, Lyon Gardiner [1853-1935] was an American educator and historian who served as the president of the College of William and Mary for over forty years. He was the son of tenth United States president, John Tyler.</note></hi></l>
+                  <l n="19"><hi rend="blue">Elizabeth City County, Virginia<bibl corresp="#0169_recto_l18_bibl"/><note>Tyler, Lyon Gardiner. <title>History of Hampton and Elizabeth City County, Virginia</title>. Hampton: Board of Supervisors of Elizabeth City County, 1922.</note><note target="tyler">Tyler, Lyon Gardiner [1853-1935]. American educator and historian who served as the president of the College of William and Mary for over forty years. He was the son of tenth United States president, John Tyler.</note></hi></l>
                   <l n="20"><hi rend="blue">     compiled by</hi></l>
                   <l n="21"><hi rend="blue">   Lyon G. Tyler.    Pubd by</hi></l>
                   <l n="22"><hi rend="blue">The Boardof Supervisors of Elizabeth</hi></l>
@@ -1603,7 +1602,7 @@
                   <l n="18"></l>
                   <l n="19"><hi rend="blue"><bibl corresp="0171_verso_l19_bibl"/>NY Times Book Review</hi></l>
                   <l n="20"><hi rend="blue">23   June 1935   Notes on Rare</hi></l>
-                  <l n="21"><hi rend="blue">Books<bibl corresp="#0171_verso_l19_bibl"/>.<note>Brooks, Philip. "Notes on Rare Books." <title>New York Times</title>(23 June 1935): BR 16.</note><note target="brooks">Brooks, Philip [1899-1975] was a bookseller and specialist on rare books who wrote the "Notes on Rare Book" column for the <title>New York Times Book Review</title>from 1932 to 1943.</note>    Lockwood Mem. Lib.</hi></l>
+                  <l n="21"><hi rend="blue">Books<bibl corresp="#0171_verso_l19_bibl"/>.<note>Brooks, Philip. "Notes on Rare Books." <title>New York Times</title>(23 June 1935): BR 16.</note><note target="brooks">Brooks, Philip [1899-1975]. Bookseller and specialist on rare books who wrote the "Notes on Rare Books" column for the <title>New York Times Book Review</title>from 1932 to 1943.</note>    Lockwood Mem. Lib.</hi></l>
                   <l n="22"><hi rend="blue">Buffalo</hi></l>
                   <l n="23"><hi rend="blue"><quote corresp="0171_verso_l23_quote"/>Accordingly there was issue a little</hi></l>
                   <l n="24"><hi rend="blue"><del>synopsis</del>  souvenir. . . . Watchfulness,</hi></l>
@@ -1640,7 +1639,7 @@
                   <l n="01"><hi rend="blue"><note>Brooks, Philip. "Notes on Rare Books" (see earlier note).</note>sufficient to keep intact treasures</hi></l>
                   <l n="02"><hi rend="blue">that could never be restored.<quote corresp="#0171_verso_l23_quote"/></hi></l>
                   <!-- The following note needs title and page number - archives available online but UB does not have access KN ! -->
-                  <l n="03"><hi rend="blue"><bibl corresp="0172_recto_l03_bibl"/>15 Feb.  30  Spectator<bibl corresp="#0172_recto_l03_bibl"/><note>Jones, Rufus. <title>The Spectator</title>(15 February 1930).</note><note target="jonesRufus">Jones, Rufus Matthew [1863-1948] was a prominent Quaker theologican and historian and taught philosophy at Bryn Mawr College.</note>Prof. Rufus</hi></l>
+                  <l n="03"><hi rend="blue"><bibl corresp="0172_recto_l03_bibl"/>15 Feb.  30  Spectator<bibl corresp="#0172_recto_l03_bibl"/><note>Jones, Rufus. <title>The Spectator</title>(15 February 1930).</note><note target="jonesRufus">Jones, Rufus Matthew [1863-1948]. Prominent Quaker theologican and historian and taught philosophy at Bryn Mawr College.</note>Prof. Rufus</hi></l>
                   <l n="04"><hi rend="blue">Jones   <quote corresp="0172_recto_l04_quote"/>In Defense of the Faith XIII</hi></l>
                   <l n="05"><hi rend="blue">awe and mystery were best left</hi></l>
                   <l n="06"><hi rend="blue"> without too many disturbing</hi></l>
@@ -2439,7 +2438,7 @@
                   <!-- I have added an 'end quote' tag in line 21 and a 'begin quote' tag in line 26. EF! -->
                   <l n="22"><hi rend="pencil">_____________</hi><hi rend="blue">.p 58</hi></l>
                   <l n="23"><hi rend="blue"><bibl corresp="0184_verso_l23_bibl"/>The Characteristics of a good</hi></l>
-                  <l n="24"><hi rend="blue"> Book Type David T Pottinger<bibl corresp="#0184_verso_l23_bibl"/><note>Potter, David T. "The Characteristics of a Good Book Type." <title>Dolphin</title>1 (1933): 58-66. David T. Pottinger [1884-1958]. Associate Director of Harvard University Press.</note></hi></l>
+                  <l n="24"><hi rend="blue"> Book Type David T Pottinger<bibl corresp="#0184_verso_l23_bibl"/><note>Pottinger, David T. "The Characteristics of a Good Book Type." <title>Dolphin</title>1 (1933): 58-66.</note><note target="pottinger">Pottinger, David T. [1884-1958]. Associate Director of Harvard University Press.</note></hi></l>
                   <l n="25"><hi rend="pencil">________________________</hi></l>
                   <l n="26"><hi rend="blue"><quote corresp="0184_verso_l26_quote"/>Mountjoye   Mr Updike has called</hi></l>
                   <l n="27"><hi rend="blue">Brimmer    Mr Rogers   <del>same</del><add>"  "</add></hi></l>
@@ -2500,7 +2499,7 @@
                   <l n="11"><hi rend="blue">the 19<hi rend="superscript">th</hi></hi><quote corresp="#0184_verso_l26_quote"/></l>
                   <!-- I have added an 'end quote' tag in line 11 and a 'begin quote' tag in line 14. EF! -->
                   <l n="12"><hi rend="blue">                            p 67     <bibl corresp="0185_verso_l12_bibl"/>Alfred W</hi></l>
-                  <l n="13"><hi rend="blue">2 //    Pollard.      MARGINS<bibl corresp="#0185_verso_l12_bibl"/><note>Pollard, Alfred W. "Margins." <title>Dolphin</title>1 (1933): 67-80. Pollard [1859-1944] was an English bibliographer.</note></hi></l>
+                  <l n="13"><hi rend="blue">2 //    Pollard.      MARGINS<bibl corresp="#0185_verso_l12_bibl"/><note>Pollard, Alfred W. "Margins." <title>Dolphin</title>1 (1933): 67-80.</note><note target="pollard">Pollard, Alfred W. [1859-1944]. English bibliographer.</note></hi></l>
                   <l n="14"><hi rend="blue"><quote corresp="0185_verso_l14_quote"/>Wm. Morris &amp; Mr Charles T Jacobi</hi></l>
                   <l n="15"><hi rend="blue">of the Cheswick Press read papers</hi></l>
                   <l n="16"><hi rend="blue">to it on the same evening (the</hi></l>
@@ -2888,7 +2887,7 @@
                   <l n="13"></l>
                   <l n="14"><hi rend="blue">81 <bibl corresp="0191_verso_l14_bibl"/>Formats &amp; Sizes</hi></l>
                   <l n="15"><hi rend="blue">Lawrence C Wroth<bibl corresp="#0191_verso_l14_bibl"/><note>Wroth, Lawrence C. "Formats and Sizes." <title>Dolphin</title>1 (1933): 81-95.</note></hi></l>
-                  <l n="16"><hi rend="blue"><quote rend="begin"/>Jon Carter Brown Lib. Providence</hi></l>
+                  <l n="16"><hi rend="blue"><quote corresp="0191_verso_l16_quote"/>Jon Carter Brown Lib. Providence</hi></l>
                   <l n="17"><hi rend="blue">See</hi></l>
                   <l n="18"><hi rend="blue"> Ronald B McKerrow Intro.</hi></l>
                   <l n="19"><hi rend="blue">to Bibliography. Oxford, 1928 and</hi></l>
@@ -2900,7 +2899,7 @@
                   <l n="25"><hi rend="blue">Encyc. Brit.</hi>   <hi rend="pencil">(</hi><hi rend="blue">Esdaile: A</hi></l>
                   <l n="26"><hi rend="blue">Students Manual of Bibliography</hi></l>
                   <l n="27"><hi rend="blue"> Joseph Moxon: Mechanic</hi></l>
-                  <l n="28"><hi rend="blue">Exercises London 1683 edited in</hi><quote rend="end"/></l>
+                  <l n="28"><hi rend="blue">Exercises London 1683 edited in</hi></l>
                </lg>
             </div>
          </div>
@@ -2928,16 +2927,16 @@
                   <l n="16"></l>
                   <l n="17"><hi rend="blue">a quaternio or . ... a quire</hi></l>
                   <l n="18"><hi rend="blue">most of the sections of the Gutenberg</hi></l>
-                  <l n="19"><hi rend="blue">Bible were quaterion</hi><quote rend="end"/></l>
+                  <l n="19"><hi rend="blue">Bible were quaterion</hi><quote corresp="#0191_verso_l16_quote"/></l>
                   <l n="20"><hi rend="blue">                                              <add>master of the</add></hi></l>
                   <l n="21"><hi rend="blue">96           <bibl corresp="0191_recto_l21_bibl"/>Porter Garnett<bibl corresp="#0191_recto_l21_bibl"/><note>Garnett, Porter. "The Hand-Press." <title>Dolphin</title>1 (1933): 96-106.</note>; Laboratory Press</hi></l>
-                  <l n="22"><quote rend="begin"/><hi rend="pencil">hand made paper has</hi><quote rend="end"/><hi rend="blue">Carnegie Sch of Tech</hi></l>
-                  <l n="23"><hi rend="blue">103     <quote rend="begin"/>a liveliness &amp; sparkle to the eye</hi></l>
+                  <l n="22"><quote corresp="0191_recto_l22_quote"/><hi rend="pencil">hand made paper has</hi><quote corresp="#0191_recto_l22_quote"/><hi rend="blue">Carnegie Sch of Tech</hi></l>
+                  <l n="23"><hi rend="blue">103     <quote corresp="#0191_recto_l22_quote"/>a liveliness &amp; sparkle to the eye</hi></l>
                   <l n="24"><hi rend="blue">and a slight but pleasant</hi></l>
                   <!-- I have changed the curly brackets to square brackets to match the description for line 25. EF! -->
                   <l n="25"><hi rend="blue">roughness to the touch [without</hi></l>
                   <l n="26"><hi rend="blue">exclusive embossment on the reverse</hi></l>
-                  <l n="27"><hi rend="blue">of the sheet<quote rend="end"/></hi></l>
+                  <l n="27"><hi rend="blue">of the sheet<quote corresp="#0191_recto_l22_quote"/></hi></l>
                   <l n="28"><hi rend="blue">       <bibl corresp="0191_recto_l28_bibl"/>Arthur S Allen    Inks for</hi></l>
                   <l n="29"><hi rend="blue">Printing<bibl corresp="#0191_recto_l28_bibl"/><note>Allen, Arthur S. "Inks for Printing." <title>Dolphin</title>1 (1933): 107-115.</note>      see Frank B Wilborg</hi></l>
                </lg>
@@ -2951,7 +2950,7 @@
                <lg>
                   <l n="01"><hi rend="blue">Harper &amp; Bros.</hi></l>
                   <l n="02"><hi rend="blue"><bibl corresp="0192_verso_l02_bibl"/> Hand Made Paper  Dard Hunter<bibl corresp="#0192_verso_l02_bibl"/><note>Hunter, Dard. "Hand-made Paper and Its Relation to Modern Printing." <title>Dolphin</title>1 (1933): 116-127.</note></hi></l>
-                  <l n="03"><hi rend="blue"><quote rend="begin"/>paper formed on a machine <del>will</del>tears</hi></l>
+                  <l n="03"><hi rend="blue"><quote corresp="0192_verso_l03_quote"/>paper formed on a machine <del>will</del>tears</hi></l>
                   <l n="04"><hi rend="blue">more easily one way than the other,</hi></l>
                   <l n="05"><hi rend="blue">while hand made sheets will tear</hi></l>
                   <l n="06"><hi rend="blue">almost equally in either direction</hi></l>
@@ -2976,7 +2975,7 @@
                   <l n="25"><hi rend="blue">(unsized) . . can be printed dry</hi></l>
                   <l n="26"><hi rend="blue">without hardship but many of</hi></l>
                   <l n="27"><hi rend="blue">the handsized papers defy the</hi></l>
-                  <l n="28"><hi rend="blue">most ingenious pressman<quote rend="end"/></hi></l>
+                  <l n="28"><hi rend="blue">most ingenious pressman<quote corresp="#0192_verso_l03_quote"/></hi></l>
                </lg>
             </div>
          </div>
@@ -2988,7 +2987,7 @@
                <lg>
                   <l n="01"><hi rend="blue"><bibl corresp="0192_recto_l01_bibl"/>A List of Books About Books</hi></l>
                   <l n="02"><hi rend="blue">                           Horace Hart<bibl corresp="#0192_recto_l01_bibl"/><note>Hart, Horace. "Bibliotheca Typographica: A List of Books About Books." <title>Dolphin</title>1 (1933): 161-194.</note></hi></l>
-                  <l n="03"><hi rend="blue"><quote rend="begin"/>The Origin &amp; Progress of Letters An Essay</hi></l>
+                  <l n="03"><hi rend="blue"><quote corresp="0192_recto_l03_quote"/>The Origin &amp; Progress of Letters An Essay</hi></l>
                   <l n="04"><hi rend="blue">in Two Parts.  In Two Parts . . . The</hi></l>
                   <l n="05"><hi rend="blue">Second Part a Compendious account of</hi></l>
                   <l n="06"><hi rend="blue">the Most Celebrated English Penmen</hi></l>
@@ -3012,7 +3011,7 @@
                   <l n="24"><hi rend="blue"> The Eng Writing-Masters &amp; Their</hi></l>
                   <l n="25"><hi rend="blue">Copy-Books   1570-1800   A Bio</hi></l>
                   <l n="26"><hi rend="blue">graphical Dictionary &amp; A Biblio</hi></l>
-                  <l n="27"><hi rend="blue"><del>graphical Dic</del>graphy by<quote rend="end"/></hi></l>
+                  <l n="27"><hi rend="blue"><del>graphical Dic</del>graphy by</hi></l>
                </lg>
             </div>
          </div>
@@ -3022,7 +3021,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0193-verso.jpg"
                   n="0193-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Hart, Horace. "Bibliotheca Typographica" (see earlier note).</note><quote rend="begin"/>w  an Intro. on the Level of</hi></l>
+                  <l n="01"><hi rend="blue"><note>Hart, Horace. "Bibliotheca Typographica" (see earlier note).</note>w  an Intro. on the Level of</hi></l>
                   <l n="02"><hi rend="blue">Handwriting by Stanley Morison&#8212;</hi></l>
                   <l n="03"><hi rend="blue">Cambridge, 1931  Folio</hi></l>
                   <l n="04"><hi rend="blue"> Historic Printing Types  Theo. L. De Vinne</hi></l>
@@ -3045,7 +3044,7 @@
                   <l n="21"></l>
                   <l n="22"><hi rend="blue"> Mechanical Exercies</hi></l>
                   <l n="23"><hi rend="blue">or the Doctrine of Handy-Works</hi></l>
-                  <l n="24"><hi rend="blue">by Joseph Moxon   at the sign<quote rend="end"/></hi></l>
+                  <l n="24"><hi rend="blue">by Joseph Moxon   at the sign</hi></l>
                </lg>
             </div>
          </div>
@@ -3055,7 +3054,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0193-recto.jpg"
                   n="0193-recto"/>
                <lg>
-                  <l n="01"><note>Hart, Horace. "Bibliotheca Typographica" (see earlier note).<quote rend="begin"/><hi rend="blue">of the Atlas on Ludgate-Hill</hi></note></l>
+                  <l n="01"><note>Hart, Horace. "Bibliotheca Typographica" (see earlier note).<hi rend="blue">of the Atlas on Ludgate-Hill</hi></note></l>
                   <l n="02"><hi rend="blue">1677   cf De Vinne reprint.</hi></l>
                   <l n="03"></l>
                   <l n="04"><hi rend="blue"> The Eng Printers, Stationers</hi></l>
@@ -3081,7 +3080,7 @@
                   <l n="24"><hi rend="blue"> Bookbinding &amp; the Care of</hi></l>
                   <l n="25"><hi rend="blue">Books: Douglas Cockerell.</hi></l>
                   <l n="26"><hi rend="blue">John Hogg 1901</hi></l>
-                  <l n="27"><hi rend="blue"> Some Notes on Bookbinding DC</hi><quote rend="end"/></l>
+                  <l n="27"><hi rend="blue"> Some Notes on Bookbinding DC</hi></l>
                </lg>
             </div>
          </div>
@@ -3091,7 +3090,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0194-verso.jpg"
                   n="0194-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Hart, Horace. "Bibliotheca Typographica" (see earlier note).</note><quote rend="begin"/>Ox. U P. 1929</hi></l>
+                  <l n="01"><hi rend="blue"><note>Hart, Horace. "Bibliotheca Typographica" (see earlier note).</note>Ox. U P. 1929</hi></l>
                   <l n="02"><hi rend="blue"> A Hist. of Booksellers The Old &amp; the</hi></l>
                   <l n="03"><hi rend="blue">New: Henry Curwen Chatto</hi></l>
                   <l n="04"><hi rend="blue">&amp; Windus   1873</hi></l>
@@ -3112,7 +3111,7 @@
                   <l n="19"><hi rend="blue">author. </hi></l>
                   <l n="20"><hi rend="blue">      _____________________</hi></l>
                   <l n="21"><hi rend="blue">Harry, Count Kessler, (Cranach Press)</hi></l>
-                  <l n="22"><hi rend="blue">Oliver Simon mgr the Curwen<quote rend="end"/></hi></l>
+                  <l n="22"><hi rend="blue">Oliver Simon mgr the Curwen<quote corresp="#0192_recto_l03_quote"/></hi></l>
                   <l n="23"><hi rend="blue"><bibl corresp="0194_verso_l23_bibl"/>GERMANY<bibl corresp="#0194_verso_l23_bibl"/><note>Homeyer, Fritz. "Germany." Trans. Franz Hess. <title>Dolphin</title>1 (1933): 264-287.</note></hi></l>
                </lg>
             </div>
@@ -3124,7 +3123,7 @@
                   n="0194-recto"/>
                <lg>
                   <l n="01"><hi rend="blue"><bibl corresp="0194_recto_l01_bibl"/>Fritz Ho<add>h</add>meyer (tr. Franz Hess)<bibl corresp="#0194_recto_l01_bibl"/><note>Homeyer, Fritz. "Germany" (see earlier note).</note></hi></l>
-                  <l n="02"><hi rend="blue"><quote rend="begin"/>Grimm's F. Tales ill W Harwerth</hi></l>
+                  <l n="02"><hi rend="blue"><quote corresp="0194_recto_l02_quote"/>Grimm's F. Tales ill W Harwerth</hi></l>
                   <l n="03"><hi rend="blue"><foreign xml:lang="de">Gebrüder Klingspor <del>at (Offenbach)</del></foreign></hi></l>
                   <l n="04"><hi rend="blue"><foreign xml:lang="de">Leben der Schmetterlinge</foreign>Typog</hi></l>
                   <l n="05"><hi rend="blue">by Jacob Hegener Hellerau</hi></l>
@@ -3135,8 +3134,8 @@
                   <l n="10"><hi rend="blue">Jakob             <add>bound in</add></hi></l>
                   <l n="11"><hi rend="blue"> Hegener the printer   emerald</hi></l>
                   <l n="12"><hi rend="blue">grein <hi rend="underline">S</hi>affian              Weimar</hi></l>
-                  <!-- No 'end quote' tag in the transcription before the start of the quote in line 13. EF! -->
-                  <l n="13"><hi rend="blue"><quote rend="begin"/>the publications of the Cranach Presse</hi></l>
+                  <!-- No 'end quote' tag in the transcription before the apparent start of a new quote in line 13. I hypothesise that quote "0194_recto_l02_quote" continues until line 23 and have encoded it as such. My alternative hypothesis is that lines 13-23 are a continuation of quote "0192_recto_l03_quote". EF! -->
+                  <l n="13"><hi rend="blue">the publications of the Cranach Presse</hi></l>
                   <l n="14"><hi rend="blue">are at the pinnacle of achievement</hi></l>
                   <l n="15"><hi rend="blue">. . . recognizing only the law of</hi></l>
                   <l n="16"><hi rend="blue">                                                         <add>named for</add></hi></l>
@@ -3147,10 +3146,10 @@
                   <!-- I have replaced the curly brackets with square brackets in line 21 to match the editorial description. EF! -->
                   <l n="21"><hi rend="blue">     [see early]</hi></l>
                   <l n="22"><hi rend="blue">uses also a Fraktur &amp; a greek</hi></l>
-                  <l n="23"><hi rend="blue">letter after Wiegand's design<quote rend="end"/></hi></l>
+                  <l n="23"><hi rend="blue">letter after Wiegand's design<quote corresp="#0194_recto_l02_quote"/></hi></l>
                   <l n="24"><hi rend="blue">           <bibl corresp="0194_recto_l24_bibl"/>The U States of America</hi></l>
                   <l n="25"><hi rend="blue">. . . Carl Purington Rollins<bibl corresp="#0194_recto_l24_bibl"/><note>Rollins, Carl Purington. "The United States of America." <title>Dolphin</title>1 (1933): 88-300.</note>   (Yale)</hi></l>
-                  <l n="26"><hi rend="blue"><quote rend="begin"/>Presswork has been . . . fully equal to<quote rend="end"/></hi></l>
+                  <l n="26"><hi rend="blue"><quote corresp="0194_recto_l26_quote"/>Presswork has been . . . fully equal to</hi></l>
                </lg>
             </div>
          </div>
@@ -3161,7 +3160,7 @@
                   n="0195-verso"/>
                <desc>On line 15 MM precedes the name <title>Electra</title> with a right angle bracket, extending below the word; on line 21 MM marks an opening parenthesis with a series of cross-hatching perpendicular lines; she ends line 25 with an arrow pointing to the word Pigotts in line 23.</desc>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Rollins, Carl Purington. "The United States of America" (see earlier note).</note><quote rend="begin"/>typework&#8212;has been, indeed, a little <hi rend="underline">too</hi></hi></l>
+                  <l n="01"><hi rend="blue"><note>Rollins, Carl Purington. "The United States of America" (see earlier note).</note>typework&#8212;has been, indeed, a little <hi rend="underline">too</hi></hi></l>
                   <l n="02"><hi rend="blue">perfect owing to our national preoccupatn</hi></l>
                   <l n="03"><hi rend="blue">w machinery-       301  Following on the</hi></l>
                   <l n="04"><hi rend="blue">extensive xperiments in eclecticism wh</hi></l>
@@ -3170,24 +3169,26 @@
                   <l n="07"><hi rend="blue">memory.</hi></l>
                   <l n="08"><hi rend="blue">. . . on the whole Amer printing may be</hi></l>
                   <l n="09"><hi rend="blue">said to be in a healthy state, but</hi></l>
-                  <l n="10"><hi rend="blue">a little lacking in imagination &amp; in taste.<quote rend="end"/></hi></l>
+                  <l n="10"><hi rend="blue">a little lacking in imagination &amp; in taste.<quote corresp="#0194_recto_l26_quote"/></hi></l>
                   <l n="11"></l>
-                  <l n="12"><hi rend="blue">342 <bibl corresp="0195_verso_l12_bibl"/>England<bibl corresp="#0195_verso_l12_bibl"/><note>Cleverdon, Douglas. "England." <title>Dolphin</title>1 (1933): 342-356.</note>     Douglas Cleverdon<note>Douglas Cleverdon [1903-1987], British bookseller, broadcaster, publisher, and writer. MM probably quotes below from Cleverdon’s “England” (<title>Dolphin</title> 1 [1930]), although she may quote directly from Euripides’ <title>Electra</title>.</note></hi></l>
-                  <l n="13"><hi rend="blue"><quote rend="begin"/><bibl corresp="0195_verso_l13_bibl"/>Gregynog   The Plays of Euripides</hi></l>
+                  <l n="12"><hi rend="blue">342 <bibl corresp="0195_verso_l12_bibl"/>England<bibl corresp="#0195_verso_l12_bibl"/><note>Cleverdon, Douglas. "England." <title>Dolphin</title>1 (1933): 342-356.</note>     Douglas Cleverdon<note target="cleverdon">Cleverdon, Douglas [1903-1987]. British bookseller, broadcaster, publisher, and writer.</note><note> MM probably quotes below from Cleverdon’s “England” (<title>Dolphin</title> 1 [1930]), although she may quote directly from Euripides’ <title>Electra</title>.</note></hi></l>
+                  <l n="13"><hi rend="blue"><quote corresp="0195_verso_l13_quote"/><bibl corresp="0195_verso_l13_bibl"/>Gregynog   The Plays of Euripides</hi></l>
                   <l n="14"><hi rend="blue">trans. by G. Murray.<bibl corresp="#0195_verso_l13_bibl"/><note>Euripides. <title>The Plays of Euripides</title>. Trans. Gilbert Murray. Newton Montgomeryshire: Gregynog Press, 1933.</note></hi><hi rend="pencil">M</hi><hi rend="blue"><del>P</del>onotype Books</hi></l>
                   <l n="15"><hi rend="blue">Ha, see above the roof tree high  Electra</hi></l>
                   <l n="16"><hi rend="blue">     there shineth . . . Is some spirit there</hi></l>
                   <l n="17"><hi rend="blue">     Of earth or heaven.  That thin air</hi></l>
                   <l n="18"><hi rend="blue">was never trod by things that die!</hi></l>
                   <l n="19"><hi rend="blue">      What bodes it now that forth they fare,</hi></l>
-                  <l n="20"><hi rend="blue">To men revealed visibly?</hi></l>
-                  <l n="21"><hi rend="blue"> Clothing without Cloth Eric (G (G. Cockerell)</hi></l>
+                  <l n="20"><hi rend="blue">To men revealèd visibly?<quote corresp="#0195_verso_l13_quote"/></hi></l>
+                  <!-- I have added an 'end quote' tag to the end of line 20. EF! -->
+                  <!-- Line 21: I assume that MM continues quoting from Rollins' "The United States of America. EF! -->
+                  <l n="21"><hi rend="blue"><quote corresp="#0194_recto_l26_quote"/> Clothing without Cloth Eric (G (G. Cockerell)</hi></l>
                   <l n="22"><hi rend="blue">                                                                <add>printed</add></hi></l>
                   <l n="23"><hi rend="blue">+  An Essay on Typography  by E Gill</hi></l>
                   <l n="24"><hi rend="blue">&amp; Rene Hague at Pigotts</hi></l>
                   <l n="25"><hi rend="blue"><hi rend="underline">Park</hi>by Canon Gray</hi></l>
                   <l n="26"><hi rend="blue">                                               <add>his</add></hi></l>
-                  <l n="27"><hi rend="blue">Clothes by E Gill. in  Perpetua type (Jonathan<quote rend="end"/></hi></l>
+                  <l n="27"><hi rend="blue">Clothes by E Gill. in  Perpetua type (Jonathan></hi></l>
                </lg>
             </div>
          </div>
@@ -3198,7 +3199,7 @@
                   n="0195-recto"/>
                <desc>MM draws two lines connected by a short perpendicular, bracketing off the information about Hofmeyer, extending to the right margin (under line 23) and toward the left margin (under line 24), matching the straight line drawn beneath this information (line 26); she also draws a curly bracket enclosing this information, after the word “Germany”.</desc>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Rollins, Carl Purington. "The United States of America" (see earlier note).</note><quote rend="begin"/>Cape Ltd.) Printed at Cambridge&#8212;</hi></l>
+                  <l n="01"><hi rend="blue"><note>Rollins, Carl Purington. "The United States of America" (see earlier note).</note>Cape Ltd.) Printed at Cambridge&#8212;</hi></l>
                   <l n="02"><hi rend="blue"><unclear>failed</unclear>in            vitality</hi></l>
                   <l n="03"><hi rend="blue">Nonesuch Bibliography of Wm Hazlitt</hi></l>
                   <l n="04"><hi rend="blue">by Geoffrey Keynes and an ed of Dryden</hi></l>
@@ -3221,11 +3222,11 @@
                   <l n="21"><hi rend="blue">not properly bound, but merely cased</hi></l>
                   <l n="22"><hi rend="blue">The Curwen Press Miscellany&#8212;see art</hi></l>
                   <l n="23"><hi rend="blue">by Paul Nash on The Stencil.</hi><hi rend="pencil">w ref. to</hi></l>
-                  <l n="24"><hi rend="pencil">book ill of hte future</hi><quote rend="end"/><hi rend="blue">Fritz Hofmeyer</hi></l>
+                  <l n="24"><hi rend="pencil">book ill of hte future</hi><quote corresp="#0194_recto_l26_quote"/>><hi rend="blue">Fritz Hofmeyer</hi></l>
                   <l n="25"><hi rend="blue">   <bibl corresp="0195_recto_l25_biblA"/>Italy<bibl corresp="#0195_recto_l25_biblA"/><note>Bertieri, Rafaello. "Italy." <title>Dolphin</title>1 (1933): 357-364.</note>    <bibl corresp="0195_recto_l25_biblB"/>Germany<bibl corresp="#0195_recto_l25_biblB"/><note>Homeyer, Fritz. "Germany" (see earlier note).</note>Maximilian Gesellshaft</hi></l>
                   <l n="26"><hi rend="blue">                           _______________________________</hi></l>
-                  <l n="27"><hi rend="blue"><quote rend="begin"/>Rafaello Bertieri  Milan</hi></l>
-                  <l n="28"><hi rend="blue">also printed Goethe Torquato Tasso<quote rend="end"/><note>Bertieri, Rafaello. "Italy" (see earlier note).</note></hi></l>
+                  <l n="27"><hi rend="blue"><quote corresp="0195_recto_l27_quote"/>Rafaello Bertieri  Milan</hi></l>
+                  <l n="28"><hi rend="blue">also printed Goethe Torquato Tasso<quote corresp="#0195_recto_l27_quote"/><note>Bertieri, Rafaello. "Italy" (see earlier note).</note></hi></l>
                   <l n="29"><hi rend="blue">kind of modified hymnal gothic</hi></l>
                </lg>
             </div>
@@ -3237,7 +3238,7 @@
                   n="0196-verso"/>
                <lg>
                   <l n="01"><hi rend="blue">&amp; <add><unclear>double</unclear></add>rule at the head ___________<note>Here and at the end of the previous page, MM describes the reproduction of a page from Bertieri’s printing of Goethe’s <title>Torquato Tasso</title> that appears in “Italy” (<title>Dolphin</title> 1 [1930]). The double line MM draws here may illustrate the “double rule” that appears at the top of Bertieri’s page.</note></hi></l>
-                  <l n="02"><hi rend="blue"><bibl corresp="0196_verso_l02_bibl"/>Advts.<bibl corresp="#0196_verso_l02_bibl"/><note>"Advertisements." <title>Dolphin</title>1 (1933): 365-81.</note>   <quote rend="begin"/>DB Updike,   The Merrymount Press</hi></l>
+                  <l n="02"><hi rend="blue"><bibl corresp="0196_verso_l02_bibl"/>Advts.<bibl corresp="#0196_verso_l02_bibl"/><note>"Advertisements." <title>Dolphin</title>1 (1933): 365-81.</note>   <quote corresp="0196_verso_l02_quote"/>DB Updike,   The Merrymount Press</hi></l>
                   <l n="03"><hi rend="blue">         712   Beacon St.  Boston</hi></l>
                   <l n="04"><hi rend="blue">Printers of books of all kinds // <add>T</add><del>P</del>rade</hi></l>
                   <l n="05"><hi rend="blue">Editions &amp; Editions de luxe // Also</hi></l>
@@ -3259,7 +3260,7 @@
                   <l n="21"><hi rend="blue">  ugly Japanese wedge shapes</hi></l>
                   <l n="22"><hi rend="blue">The Colophon&#8212;a tree made</hi></l>
                   <l n="23"><hi rend="blue">of Type flowers  &amp;  a dog pursuing oryxes</hi></l>
-                  <l n="24"><hi rend="blue">unsuccessful<quote rend="end"/><note>As she transcribes from these advertisements, MM also describes their graphic qualities, as in the advertisement for the quarterly magazine <title>The Colophon</title>, which includes an illustration featuring a tree, flowers, and a dog chasing four oryxes. </note></hi></l>
+                  <l n="24"><hi rend="blue">unsuccessful<note>As she transcribes from these advertisements, MM also describes their graphic qualities, as in the advertisement for the quarterly magazine <title>The Colophon</title>, which includes an illustration featuring a tree, flowers, and a dog chasing four oryxes. </note></hi></l>
                </lg>
             </div>
          </div>
@@ -3270,7 +3271,7 @@
                   n="0196-recto"/>
                <desc>In the top left margin MM copies the illustration of the dog stalking the oryxes referred to at the bottom of the verso page,196.[/</desc>
                <lg>
-                  <l n="01">             <note>"Advertisements" (see earlier note).</note><quote rend="begin"/><hi rend="blue">Lakeside 305 E 45</hi></l>
+                  <l n="01">             <note>"Advertisements" (see earlier note).</note><hi rend="blue">Lakeside 305 E 45</hi></l>
                   <l n="02"><hi rend="blue">                                                          “  “ 305 E</hi></l>
                   <l n="03"><hi rend="blue">The Harbor Press Piscatorial Note                 45</hi></l>
                   <l n="04"></l>
@@ -3295,7 +3296,7 @@
                   <l n="23"><hi rend="blue">   4</hi></l>
                   <l n="24"><hi rend="blue">          Herbert Reichner</hi></l>
                   <l n="25"><hi rend="blue">  6. Strohmagergasse Vienna V<gap extent="1"/></hi></l>
-                  <l n="26"><hi rend="blue">                            Austria</hi><quote rend="end"/></l>
+                  <l n="26"><hi rend="blue">                            Austria</hi><quote corresp="#0196_verso_l02_quote"/></l>
                </lg>
             </div>
          </div>
@@ -3307,29 +3308,30 @@
                <lg>
                   <l n="01"><hi rend="blue"><bibl corresp="0197_verso_l01_bibl"/>The Landmark       Oct  1935</hi></l>
                   <l n="02"><hi rend="blue">London &amp; the World&#8212;Louis Golding<bibl corresp="#0197_verso_l01_bibl"/><note>Golding, Louis. "London and the World." <title>The Landmark</title>(October 1935). <!-- I am unable to locate article, but have put in a delivery+ request. Will enter correct page range if the article is located. CN! --></note></hi></l>
-                  <l n="03"><quote rend="begin"/><hi rend="blue">going abroad?  a friend asked me in</hi></l>
+                  <l n="03"><quote corresp="0197_verso_l03_quote"/><hi rend="blue">going abroad?  a friend asked me in</hi></l>
                   <l n="04"><hi rend="blue">the Strand yesterday. "I <hi rend="underline">am</hi>abroad!""</hi></l>
-                  <l n="05"><hi rend="blue">said I. "What do</hi><hi rend="pencil">I</hi><hi rend="blue">want to go abroad for?"</hi><quote rend="end"/></l>
+                  <l n="05"><hi rend="blue">said I. "What do</hi><hi rend="pencil">I</hi><hi rend="blue">want to go abroad for?"</hi><quote corresp="#0197_verso_l03_quote"/></l>
                   <l n="06"><bibl corresp="0197_verso_l06_bibl"/><hi rend="blue">:<hi rend="underline">New Statesman</hi><add><hi rend="underline">&amp; Nation</hi></add>   14 Sept 1935</hi></l>
                   <l n="07"><hi rend="blue">rev'd by Arthur Waley</hi></l>
                   <l n="08">                                            <hi rend="pencil">Yoga</hi></l>
                   <l n="09"><hi rend="blue"><hi rend="underline">Tibetan Yoga</hi>   (OX. U.P)</hi><bibl corresp="#0197_verso_l06_bibl"/><note>Waley, Arthur. Rev. of <title>Tibetan Yoga</title>by W. Y. Evans-Wentz. <title>New Statesman and Nation</title>(14 September 1935): 348.</note></l>
-                  <l n="10"><hi rend="blue"><quote rend="begin"/>escape fr pain &amp; as a method</hi></l>
+                  <l n="10"><hi rend="blue"><quote corresp="0197_verso_l10_quote"/>escape fr pain &amp; as a method</hi></l>
                   <l n="11"><hi rend="blue">of perceiving the true nature of</hi></l>
                   <l n="12"><hi rend="blue">things.    One must read this</hi></l>
                   <l n="13"><hi rend="blue">book as people who believe</hi></l>
                   <l n="14"><hi rend="blue">in the press read te newspaper,</hi></l>
                   <l n="15"><hi rend="blue">with what Dr. Marett calls</hi></l>
-                  <l n="16"><hi rend="blue">"ardor &amp; veritable abandon."<quote rend="end"/></hi></l>
+                  <l n="16"><hi rend="blue">"ardor &amp; veritable abandon."<quote corresp="#0197_verso_l10_quote"/></hi></l>
                   <l n="17"><hi rend="blue"><bibl corresp="0197_verso_l17_bibl"/>At.<add>lantic</add> Monthly Oct 1935</hi></l>
+                  <!-- No 'open quote' tag in the transcription. I have added an 'open quote' tag in the appropriate place (line 18). EF! -->
                   <!-- In the note on Ellis (line 18), I have corrected "1879" to "1897" and included the name of Ellis' textbook (Sexual Inversion). EF! -->
-                  <l n="18"><hi rend="blue">Havelock Ellis<note target="ellis">Ellis, Havelock [1859-1939]. English physician and social reformer who co-authored the first medical textbook in English on homosexuality, <title>Sexual Inversion</title> (1897) and wrote on transgender psychology and a variety of sexual practices and inclinations. MM reviews work of his on Casanova very favorably.</note>:    Proust<bibl corresp="#0197_verso_l17_bibl"/><note>Ellis, Havelock. "Proust." <title>Atlantic Monthly</title>(October 1935): 421-52.</note></hi></l>
+                  <l n="18"><hi rend="blue">Havelock Ellis<note target="ellis">Ellis, Havelock [1859-1939]. English physician and social reformer who co-authored the first medical textbook in English on homosexuality, <title>Sexual Inversion</title> (1897) and wrote on transgender psychology and a variety of sexual practices and inclinations. MM reviews work of his on Casanova very favorably.</note>:<quote corresp="0197_verso_l18_quote"/>    Proust<bibl corresp="#0197_verso_l17_bibl"/><note>Ellis, Havelock. "Proust." <title>Atlantic Monthly</title>(October 1935): 421-52.</note></hi></l>
                   <l n="19"><hi rend="blue"><add>when</add>(on)</hi></l>
                   <l n="20"><hi rend="blue"> a friend quoted to him the</hi></l>
                   <l n="21"><hi rend="blue">saying of Gourmont,<note target="gourmont">Gourmont, Remy de [1858-1915]. French symbolist poet, novelist, and critic.</note>  One only</hi></l>
                   <l n="22"><hi rend="blue"><del>wrti</del>writes what one has</hi></l>
                   <l n="23"><hi rend="blue">not lived,   he jumped up</hi></l>
-                  <l n="24"><hi rend="blue">xclaiming that is the whole of my<quote rend="end"/></hi></l>
+                  <l n="24"><hi rend="blue">xclaiming that is the whole of my</hi></l>
                </lg>
             </div>
          </div>
@@ -3339,20 +3341,21 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0197-recto.jpg"
                   n="0197-recto"/>
                <lg>
-                  <l n="01"><note>Ellis, Havelock. "Proust" (see earlier note).</note><hi rend="blue">life.</hi><hi rend="pencil">art?</hi></l>
+                  <l n="01"><note>Ellis, Havelock. "Proust" (see earlier note).</note><hi rend="blue">life.</hi><hi rend="pencil">art?<quote corresp="#0197_verso_l18_quote"/></hi></l>
+                  <!-- I have added an 'end quote' tag in line 1 to close the quote from Ellis. Added a 'begin quote' tag to line 5 to begin the quote from De Selincourt (quoting Bridges and Blake). EF!  -->
                   <l n="02"><hi rend="blue">Oxford Lectures on Poetry</hi></l>
                   <l n="03"><hi rend="blue">E de Selincourt<note>De Selincourt, Ernest. <title>Oxford Lectures on Poetry</title>. Oxford: The Clarendon Press, 1934.</note>   quotes <hi rend="underline">Robt</hi></hi></l>
                   <l n="04"><hi rend="blue"><hi rend="underline">Bridges<note target="bridges">Bridges, Robert Seymour [1844-1930]. English poet and critic. MM mentions him favorably in both letters and published prose.</note></hi>   The Testament of Beauty</hi></l>
-                  <l n="05"><hi rend="blue">verily by Beauty it is that we come at</hi></l>
+                  <l n="05"><hi rend="blue"><quote corresp="0197_recto_l05_quote"/>verily by Beauty it is that we come at</hi></l>
                   <l n="06"><hi rend="blue">wisdom.</hi></l>
                   <l n="07"><hi rend="blue"><hi rend="underline">Blake</hi>: "enthusiastic admiration</hi></l>
                   <l n="08"><hi rend="blue">is the first principle of knowledge, &amp;</hi></l>
-                  <l n="09"><hi rend="blue">the last."</hi><quote rend="end"/></l>
+                  <l n="09"><hi rend="blue">the last."</hi><quote corresp="#0197_recto_l05_quote"/></l>
                   <l n="10"></l>
                   <l n="11"><hi rend="blue"><bibl corresp="0197_recto_l11_bibl"/>Thomas Moore: Complete Works<bibl corresp="#0197_recto_l11_bibl"/><note>Moore, Thomas. <title>Thomas Moore's Complete Poetical Works</title>. New York: T.Y. Crowell &amp; Co., 1895.</note></hi></l>
                   <l n="12"><hi rend="blue">Song of the Evil Spirit of the Wood</hi></l>
                   <l n="13"><hi rend="blue">                 . . . . </hi></l>
-                  <l n="14"><hi rend="blue"><quote rend="begin"/>gleam then like the lightning bug</hi></l>
+                  <l n="14"><hi rend="blue"><quote corresp="0197_recto_l14_quote"/>gleam then like the lightning bug</hi></l>
                   <l n="15"><hi rend="blue">Tempt him to the Den  that's dug</hi></l>
                   <l n="16"><hi rend="blue">For the foul &amp; famished brood</hi></l>
                   <l n="17"><hi rend="blue">of the she-wolf, gaunt for blood.</hi></l>
@@ -3363,7 +3366,7 @@
                   <l n="21"><hi rend="blue">[refers to an aloe whereas there are none</hi></l>
                   <l n="22"><hi rend="blue">in the Dismal Swamp</hi></l>
                   <l n="23"></l>
-                  <l n="24"><hi rend="blue"><foreign xml:lang="greek">τριτατος απο της αληθειας</foreign><quote rend="end"/><note>MM qutoes from Thomas Moore, who both quotes Plato in the original Greek ("τριτατος απο της αληθειας") and translates the phrase as "three removes from the truth."</note></hi></l>
+                  <l n="24"><hi rend="blue"><foreign xml:lang="greek">τριτατος απο της αληθειας</foreign><note>MM qutoes from Thomas Moore, who both quotes Plato in the original Greek ("τριτατος απο της αληθειας") and translates the phrase as "three removes from the truth."</note></hi></l>
                </lg>
             </div>
          </div>
@@ -3374,14 +3377,14 @@
                   n="0198-verso"/>
                <desc>Beneath the line on line 04, MM inserts two dots or ellipses.</desc>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Moore, Thomas. <title>Thomas Moore's Complete Poetical Works</title>(see earlier note).</note><quote rend="begin"/>Dove poem</hi></l>
+                  <l n="01"><hi rend="blue"><note>Moore, Thomas. <title>Thomas Moore's Complete Poetical Works</title>(see earlier note).</note>Dove poem</hi></l>
                   <l n="02"><hi rend="blue">my bird reposed his silver plume</hi></l>
                   <l n="03"><hi rend="blue">upon a rich banana's bloom.</hi></l>
                   <l n="04"><hi rend="blue">         ___________</hi></l>
                   <l n="05"><hi rend="blue">Of whips &amp; charters, manacles &amp; rights</hi></l>
                   <l n="06"><hi rend="blue">Of starving blacks &amp; democratic whites</hi></l>
                   <l n="07"><hi rend="blue">and all the piebald polity that reigns</hi></l>
-                  <l n="08"><hi rend="blue">In fine confusion on Columbia's plains<quote rend="end"/></hi></l>
+                  <l n="08"><hi rend="blue">In fine confusion on Columbia's plains<quote corresp="#0197_recto_l14_quote"/></hi></l>
                   <l n="09"></l>
                   <l n="10"><hi rend="blue"><bibl corresp="0198_verso_l10_bibl"/>Exhibition of Paintings by</hi></l>
                   <l n="11"><hi rend="blue">          Salvador Dali</hi></l>
@@ -3389,11 +3392,11 @@
                   <l n="13"><hi rend="blue">        602  Madison   Avenue</hi></l>
                   <l n="14"><hi rend="blue">   November 21<hi rend="superscript">st</hi>  to Dec 8<hi rend="superscript">th</hi><bibl corresp="0198_verso_l10_bibl"/><note>MM quotes painting titles from a Julien Levy Gallery exhibition of the work of Salvador Dalí.</note><!-- I tried to find the catalogue for this exhibition, but unfortunately no luck. CN! --><!-- I have fixed a typo in the spelling of Levy's name. EF! --></hi></l>
                   <l n="15"></l>
-                  <l n="16"><hi rend="blue"><quote rend="begin"/><del>4</del>  2.  Coiffeur distressed by</hi></l>
+                  <l n="16"><hi rend="blue"><quote corresp="0198_verso_l16_quote"/><del>4</del>  2.  Coiffeur distressed by</hi></l>
                   <l n="17"><hi rend="blue">persistent fair weather</hi></l>
                   <l n="18"><hi rend="blue">4. Myself at the age of ten</hi></l>
                   <l n="19"><hi rend="blue">When I was a grasshopper</hi></l>
-                  <l n="20"><hi rend="blue">child.<quote rend="end"/></hi></l>
+                  <l n="20"><hi rend="blue">child.<quote corresp="#0198_verso_l16_quote"/></hi></l>
                </lg>
             </div>
          </div>
@@ -3424,15 +3427,15 @@
                   n="0199-recto"/>
                <lg>
                   <l n="01"><hi rend="blue"><bibl corresp="0199_recto_l01_bibl"/>         Jan   3rd to 20th 1936    J. Le<add>vey</add><bibl corresp="#0199_recto_l01_bibl"/><note>MM apparently quotes painting titles from another Julien Levy Gallery exhibition.<!-- I have fixed a typo in the spelling of Levy's name. EF! --></note></hi></l>
-                  <l n="02"><hi rend="blue">           <quote rend="begin"/>René Magritte<note target="magritte">Magritte, René François Ghislain [1898-1967]. Belgian Surrealist artist.</note></hi></l>
+                  <l n="02"><hi rend="blue">           <quote corresp="0199_recto_l02_quote"/>René Magritte<note target="magritte">Magritte, René François Ghislain [1898-1967]. Belgian Surrealist artist.</note></hi></l>
                   <l n="03"><hi rend="blue">11. The beautiful Captvie</hi></l>
                   <l n="04"></l>
-                  <l n="05"><hi rend="blue">18. Difficult insult.<quote rend="end"/></hi></l>
+                  <l n="05"><hi rend="blue">18. Difficult insult.<quote corresp="#0199_recto_l02_quote"/></hi></l>
                   <l n="06"><hi rend="blue">                                                  1936</hi></l>
                   <l n="07"><hi rend="blue"><bibl corresp="0199_recto_l07_bibl"/>Jacques Lipchitz<note target="lipchitz">Lipchitz, Jacques [1891-1973]. French-American Cubist sculptor.</note></hi></l>
                   <l n="08"><hi rend="blue">Brummer Gallery      55 East 57<hi rend="superscript">th</hi> St, NY</hi></l>
                   <l n="09"><hi rend="blue">    December 2 - January 31<bibl corresp="#0199_recto_l07_bibl"/><note target="faure">Faure, Élie. <title>Jacques Lipchitz</title>. Brummer Gallery Catalog (text by Faure). Exhibit, December 1935-January 1936.<!-- I have fixed a typo in the spelling of Lipchitz's name. EF! --></note></hi></l>
-                  <l n="10"><hi rend="blue">Elie Faure<note>Faure, Élie [1873-1937]. French art historian and essayist.</note>:<quote rend="begin"/>Introduction . . . Tactual</hi></l>
+                  <l n="10"><hi rend="blue">Elie Faure<note target="faure">Faure, Élie [1873-1937]. French art historian and essayist.</note>:<quote corresp="0199_recto_l10_quote"/>Introduction . . . Tactual</hi></l>
                   <l n="11"><hi rend="blue">values change like social values.</hi></l>
                   <l n="12"><hi rend="blue">And the <unclear>virile</unclear>acceptance of this</hi></l>
                   <l n="13"><hi rend="blue">change is the best means we have of</hi></l>
@@ -3445,7 +3448,7 @@
                   <l n="20"><hi rend="blue">I will go further.  Jacques</hi></l>
                   <l n="21"><hi rend="blue">Lipchitz does not betray the French</hi></l>
                   <l n="22"><hi rend="blue">tradition&#8212;and here I invoke</hi></l>
-                  <l n="23"><hi rend="blue">the Gothic Arch, Cartesianism<quote rend="end"/></hi></l>
+                  <l n="23"><hi rend="blue">the Gothic Arch, Cartesianism</hi></l>
                </lg>
             </div>
          </div>
@@ -3463,7 +3466,7 @@
                   <l n="05"><hi rend="blue">a world methodically &amp; logically</hi></l>
                   <l n="06"><hi rend="blue">conceived.</hi></l>
                   <l n="07"><hi rend="blue">          . . . . </hi></l>
-                  <l n="08"><hi rend="blue">                                tr. by Allan Ross MacDougall<quote rend="end"/></hi></l>
+                  <l n="08"><hi rend="blue">                                tr. by Allan Ross MacDougall<quote corresp="#0199_recto_l10_quote"/></hi></l>
                   <l n="09"><hi rend="blue"> Travel Dec. 1935</hi></l>
                   <l n="10"></l>
                   <l n="11"><hi rend="blue">Island of Lost Grandeur     Douglas</hi></l>
@@ -3471,7 +3474,7 @@
                   <l n="13"></l>
                   <l n="14"><hi rend="blue"><bibl corresp="0200_verso_l14_bibl"/>Tiny gladiators of the Orient.</hi></l>
                   <l n="15"><hi rend="blue">by Elizabeth Crump Enders.<bibl corresp="#0200_verso_l14_bibl"/><note>Enders, Elizabeth Crump. "Tiny Gladiators of the Orient." <title>Travel</title>(December 1935): 38.</note></hi></l>
-                  <l n="16"><hi rend="blue"><quote rend="begin"/>. . . If the cricket falls ill,</hi></l>
+                  <l n="16"><hi rend="blue"><quote corresp="0200_verso_l16_quote"/>. . . If the cricket falls ill,</hi></l>
                   <l n="17"><hi rend="blue">from over-eating he is fed little</hi></l>
                   <l n="18"><hi rend="blue">red isects; should he catch</hi></l>
                   <l n="19"><hi rend="blue">cold, mosquitoes; for fever,</hi></l>
@@ -3479,7 +3482,7 @@
                   <l n="21"><hi rend="blue">for difficulty in breathing, bamboo</hi></l>
                   <l n="22"><hi rend="blue">butterflies.  No smoke is ever</hi></l>
                   <l n="23"><hi rend="blue">permitted in the crickets' room</hi></l>
-                  <l n="24"><hi rend="blue">as it affects his temper; . . .<quote rend="end"/></hi></l>
+                  <l n="24"><hi rend="blue">as it affects his temper; . . .<quote corresp="#0200_verso_l16_quote"/></hi></l>
                </lg>
             </div>
          </div>
@@ -3492,7 +3495,7 @@
                   <l n="01"><hi rend="blue"><bibl corresp="0200_recto_l01_bibl"/>English Years James Whitall</hi></l>
                   <l n="02"><hi rend="blue">                                                                  Harcourt<bibl corresp="#0200_recto_l01_bibl"/><note>Whitall, James. <title>English Years</title>. London: Jonathan Cape, 1936.</note></hi></l>
                   <l n="03"><hi rend="blue">                                                                  2.75</hi></l>
-                  <l n="04"><hi rend="blue"> 143.   <quote rend="begin"/>I heard myself saying</hi></l>
+                  <l n="04"><hi rend="blue"> 143.   <quote corresp="0200_recto_l04_quote"/>I heard myself saying</hi></l>
                   <l n="05"><hi rend="blue">I have shaken the dust of my</hi></l>
                   <l n="06"><hi rend="blue">country from my heels." The moment</hi></l>
                   <l n="07"><hi rend="blue">these words escaped me I knew</hi></l>
@@ -3513,7 +3516,7 @@
                   <l n="22"><hi rend="blue">&amp; all complacently spoken, you</hi></l>
                   <l n="23"><hi rend="blue">strike a note, that, while I do</hi></l>
                   <l n="24"><hi rend="blue">full justice       to the accomplished</hi></l>
-                  <l n="25"><hi rend="blue">abandonment,   sounds harshly<quote rend="end"/></hi></l>
+                  <l n="25"><hi rend="blue">abandonment,   sounds harshly</hi></l>
                </lg>
                <lg type="vertical">
                   <!-- Editorial description for line v26: Span lines 06-02, left margin -->
@@ -3528,7 +3531,7 @@
                   n="0201-verso"/>
                <desc>On line 18, MM lets her pen slide into a downward slanting line.</desc>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Whitall, James. <title>English Years</title>(see earlier note).</note><quote rend="begin"/>to my ear; for though we may</hi></l>
+                  <l n="01"><hi rend="blue"><note>Whitall, James. <title>English Years</title>(see earlier note).</note>to my ear; for though we may</hi></l>
                   <l n="02"><hi rend="blue">have done the beautifully right</hi></l>
                   <l n="03"><hi rend="blue">thing, though the wisdom of our</hi></l>
                   <l n="04"><hi rend="blue">choice be strikingly and unmistakably</hi></l>
@@ -3543,12 +3546,12 @@
                   <l n="13"><hi rend="blue">that   the dear lady would command</hi></l>
                   <l n="14"><hi rend="blue">the presence of us all in the</hi></l>
                   <l n="15"><hi rend="blue">near future, &amp; he had been</hi></l>
-                  <l n="16"><hi rend="blue">charmed.<quote rend="end"/></hi></l>
+                  <l n="16"><hi rend="blue">charmed.<quote corresp="#0200_recto_l04_quote"/></hi></l>
                   <l n="17"><hi rend="blue">                                         1935</hi></l>
                   <l n="18"><hi rend="blue"><bibl corresp="0201_verso_l18_bibl"/>Quaker Calendar.     Nov. 1935<bibl corresp="#0201_verso_l18_bibl"/><!-- I couldn't find this source. Remove source tag if no one else can find it. CN! --></hi></l>
-                  <l n="19"><hi rend="blue"><quote rend="begin"/>Nothing will ever be attempted</hi></l>
+                  <l n="19"><hi rend="blue"><quote corresp="0201_verso_l19_quote"/>Nothing will ever be attempted</hi></l>
                   <l n="20"><hi rend="blue">if all possible objections must be</hi></l>
-                  <l n="21"><hi rend="blue">first overcome.   Dr. Johnson<quote rend="end"/></hi></l>
+                  <l n="21"><hi rend="blue">first overcome.   Dr. Johnson<quote corresp="#0201_verso_l19_quote"/></hi></l>
                </lg>
             </div>
          </div>
@@ -3559,7 +3562,7 @@
                   n="0201-recto"/>
                <lg>
                   <l n="01"><hi rend="blue">                               N Y Sun. Wed. Jan 22 1936</hi></l>
-                  <l n="02"><hi rend="blue"><quote rend="begin"/>the <del>N. Y.</del>Chamber of Commerce</hi></l>
+                  <l n="02"><hi rend="blue"><quote corresp="0201_recto_l02_quote"/>the <del>N. Y.</del>Chamber of Commerce</hi></l>
                   <l n="03"><hi rend="blue">of the State of New York chartered</hi></l>
                   <l n="04"><hi rend="blue">by Kg. George III in 1768 cabled</hi></l>
                   <l n="05"><hi rend="blue">the following message to the London</hi></l>
@@ -3572,15 +3575,15 @@
                   <l n="12"><hi rend="blue">of the United States will leave a</hi></l>
                   <l n="13"><hi rend="blue">permanent mark on the course</hi></l>
                   <l n="14"><hi rend="blue">of our nation and the memory of</hi></l>
-                  <l n="15"><hi rend="blue">our people."<quote rend="end"/></hi></l>
+                  <l n="15"><hi rend="blue">our people."<quote corresp="#0201_recto_l02_quote"/></hi></l>
                   <l n="16"><hi rend="blue"> <bibl corresp="0201_recto_l16_bibl"/>NY. Times.      19 Jan 1936</hi></l>
-                  <l n="17"><hi rend="blue">Notes on Rare Books<bibl corresp="#0201_recto_l16_bibl"/><note>Brooke, Philip. "Notes on Rare Books." <title>New York Times</title>(19 January 1936): BR24.</note>Philip Brooke<note>Brooke, Philip [1899-1975]. Rare book specialist and collector who contributed to the "Notes on Rare Books" column of the <title>New York Times Sunday Book Review</title>, 1932-1943.</note></hi></l>
-                  <l n="18"><hi rend="blue"><quote rend="begin"/><add>see</add>Spencer <hi rend="underline">c</hi>ollection of Illustrated</hi></l>
+                  <l n="17"><hi rend="blue">Notes on Rare Books<bibl corresp="#0201_recto_l16_bibl"/><!-- MM misspells Brooks' surname as 'Brooke'. I am editing all notes to reflect the correct spelling. EF! --><note>Brooks, Philip. "Notes on Rare Books." <title>New York Times</title>(19 January 1936): BR24.</note>Philip Brooke</hi></l>
+                  <l n="18"><hi rend="blue"><quote corresp="0201_recto_l18_quote"/><add>see</add>Spencer <hi rend="underline">c</hi>ollection of Illustrated</hi></l>
                   <l n="19"><hi rend="blue"><del>AMS's</del>Books in the NYP.L. &amp;</hi></l>
                   <l n="20"><hi rend="blue">monograph in the Bulletin</hi></l>
                   <l n="21"><hi rend="blue">by Karl Kuep.<note>MM misspells the name of Karl Kup.</note><note target="kup">Kup, Karl [1903-1981]. Art historian and curator of the Spencer Collection at the NYPL.</note>      This is the</hi></l>
                   <l n="22"><hi rend="blue"><foreign xml:lang="la">Ars Moriendi</foreign>           Venice c. 1503</hi></l>
-                  <l n="23"><hi rend="blue">printed by Johann Battista Sessa<quote rend="end"/></hi></l>
+                  <l n="23"><hi rend="blue">printed by Johann Battista Sessa</hi></l>
                </lg>
             </div>
          </div>
@@ -3590,7 +3593,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0202-verso.jpg"
                   n="0202-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Brooke, Philip. "Notes on Rare Books" (see earlier note).</note><quote rend="begin"/>(Sessa) a quarto of 29</hi></l>
+                  <l n="01"><hi rend="blue"><note>Brooks, Philip. "Notes on Rare Books" (see earlier note).</note>(Sessa) a quarto of 29</hi></l>
                   <l n="02"><hi rend="blue">leaves w 11 bordered woodcuts</hi></l>
                   <l n="03"><hi rend="blue">in the text. "Whenever" said the</hi></l>
                   <l n="04"><hi rend="blue">late Bishop of Ely, "you see a book</hi></l>
@@ -3602,17 +3605,17 @@
                   <l n="10"><hi rend="blue">cat with the mouse in its teeth</hi></l>
                   <l n="11"><hi rend="blue">was the device used by Sessa</hi></l>
                   <l n="12"><hi rend="blue">&amp; his sons used in their colophons</hi></l>
-                  <l n="13"><hi rend="blue">&amp; title pages.<quote rend="end"/></hi></l>
+                  <l n="13"><hi rend="blue">&amp; title pages.<quote corresp="#0201_recto_l18_quote"/></hi></l>
                   <l n="14"><hi rend="blue">   <bibl corresp="0202_verso_l14_bibl"/>N Y. Times 26 Jan 36</hi></l>
                   <l n="15"><hi rend="blue">A New King &amp; a New Era P. W. Wilson<bibl corresp="#0202_verso_l14_bibl"/><note>Wilson, P.W. "A New King and a New Era for England." <title>New York Times</title>(26 January 1936): SM2.</note></hi></l>
-                  <l n="16"><hi rend="blue"><quote rend="begin"/>Edward VIII It is a lonely, weary but</hi></l>
+                  <l n="16"><hi rend="blue"><quote corresp="0202_verso_l16_quote"/>Edward VIII It is a lonely, weary but</hi></l>
                   <l n="17"><hi rend="blue">but determined man who has</hi></l>
                   <l n="18"><hi rend="blue"> been summoned to undertake</hi></l>
                   <l n="19"><hi rend="blue">what he calls his "job." His realm</hi></l>
                   <l n="20"><hi rend="blue">is no <add>mere</add>pageant to please the eye.</hi></l>
                   <l n="21"><hi rend="blue">&amp; the ear, no song to be sung,</hi></l>
                   <l n="22"><hi rend="blue">no march to be played by bands,</hi></l>
-                  <l n="23"><hi rend="blue">no splash of red on the map.<quote rend="end"/></hi></l>
+                  <l n="23"><hi rend="blue">no splash of red on the map.</hi></l>
                </lg>
             </div>
          </div>
@@ -3622,11 +3625,11 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0202-recto.jpg"
                   n="0202-recto"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Wilson, P. W. "A New King and a New Era for England" (see previous note).</note><quote rend="begin"/>It is not even the flag that</hi></l>
-                  <l n="02"><hi rend="blue">waves in teh breeze. It is silence</hi></l>
+                  <l n="01"><hi rend="blue"><note>Wilson, P. W. "A New King and a New Era for England" (see previous note).</note>It is not even the flag that</hi></l>
+                  <l n="02"><hi rend="blue">waves in the breeze. It is silence</hi></l>
                   <l n="03"><hi rend="blue">around a Cenotaph, the silence</hi></l>
                   <l n="04"><hi rend="blue">of sorrow but no less the silence</hi></l>
-                  <l n="05"><hi rend="blue">of strength.<quote rend="end"/></hi></l>
+                  <l n="05"><hi rend="blue">of strength.<quote corresp="#0202_verso_l16_quote"/></hi></l>
                   <l n="06"><hi rend="blue">    _______       <bibl corresp="0202_recto_l06_bibl"/>Fri.</hi></l>
                   <l n="07"><hi rend="blue">     N. Y. Times  Jan 24     1936<bibl corresp="#0202_recto_l06_bibl"/><note>Selden, Charles A. "Edward VIII Sends Parliament A Note." <title>New York Times</title>(24 January 1936): 8.</note></hi></l>
                   <l n="08"><hi rend="blue">Ed.   VIII pledges himself to Follow</hi></l>
@@ -3639,13 +3642,13 @@
                   <l n="15"><hi rend="blue">of Canterbury.  By G K A Bell,</hi></l>
                   <l n="16"><hi rend="blue"> Bishop of Chichester <gap extent="3"/>. 2 Vols.</hi></l>
                   <l n="17"><hi rend="blue">1,430 pp.   N.Y.  Ox. U.P.  $12</hi></l>
-                  <l n="18"><hi rend="blue">Revd by P.W. Wilson<bibl corresp="#0202_recto_l10_bibl"/><note>Wilson, P. W. Rev. of <title>Portrait of an Anglican Prelate: Randall Davidson, Archbishop of Canterbury</title>by G. K. A. Bell. <title>New York Times</title>(26 January 1936): BR10.</note><quote rend="begin"/> . . . We see</hi></l>
+                  <l n="18"><hi rend="blue">Revd by P.W. Wilson<bibl corresp="#0202_recto_l10_bibl"/><note>Wilson, P. W. Rev. of <title>Portrait of an Anglican Prelate: Randall Davidson, Archbishop of Canterbury</title>by G. K. A. Bell. <title>New York Times</title>(26 January 1936): BR10.</note><quote corresp="0202_recto_l18_quote"/> . . . We see</hi></l>
                   <l n="19"><hi rend="blue">the Anglican Church not as the</hi></l>
                   <l n="20"><hi rend="blue">World sees her&#8212;a communion</hi></l>
                   <l n="21"><hi rend="blue">amid other communions&#8212;but as</hi></l>
                   <l n="22"><hi rend="blue">she sees herself, secure in her</hi></l>
                   <l n="23"><hi rend="blue">privileges, spiritual and temporal</hi></l>
-                  <l n="24"><hi rend="blue">within the cathedral close, beloved<quote rend="end"/></hi></l>
+                  <l n="24"><hi rend="blue">within the cathedral close, beloved></hi></l>
                </lg>
             </div>
          </div>
@@ -3655,16 +3658,16 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0203-verso.jpg"
                   n="0203-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Wilson, P. W. Rev. of <title>Portrait of an Anglican Prelate</title>(see earlier note).</note><quote rend="end"/>beloved of Anthony Trollope&#8212;</hi></l>
+                  <l n="01"><hi rend="blue"><note>Wilson, P. W. Rev. of <title>Portrait of an Anglican Prelate</title>(see earlier note).</note>beloved of Anthony Trollope&#8212;</hi></l>
                   <l n="02"><hi rend="blue">paradise of mown grass framed</hi></l>
                   <l n="03"><hi rend="blue">by gray walls and burtresses&#8212;</hi></l>
                   <l n="04"><hi rend="blue">strides Randall Davidson in his</hi></l>
                   <l n="05"><hi rend="blue">apron &amp; gaiters, a prelate whose</hi></l>
                   <l n="06"><hi rend="blue">dignities adroitly upheld, overshadowed</hi></l>
-                  <l n="07"><hi rend="blue">himself.&#8212; . . . .<quote rend="end"/></hi></l>
+                  <l n="07"><hi rend="blue">himself.&#8212; . . . .<quote corresp="#0202_recto_l18_quote"/></hi></l>
                   <l n="08"><hi rend="blue"><bibl corresp="0203_verso_l08_bibl"/>NYT.  BK Review 26 Jan 36</hi></l>
-                  <l n="09"><hi rend="blue">Notes on Rare Books.<bibl corresp="#0203_verso_l08_bibl"/><note>Brooke, Philip. "Notes on Rare Books." <title>New York Times</title>(26 January 1936): BR23.</note></hi></l>
-                  <l n="10"><hi rend="blue"><quote rend="begin"/>29<hi rend="superscript">th</hi> &amp; 30<hi rend="superscript">th</hi>  Amer. Art. Anderson</hi></l>
+                  <l n="09"><hi rend="blue">Notes on Rare Books.<bibl corresp="#0203_verso_l08_bibl"/><note>Brooks, Philip. "Notes on Rare Books." <title>New York Times</title>(26 January 1936): BR23.</note></hi></l>
+                  <l n="10"><hi rend="blue"><!-- Should this quote be linked to quote ""0201_recto_l18_quote" instead? EF!  --><quote corresp="0203_verso_l10_quote"/>29<hi rend="superscript">th</hi> &amp; 30<hi rend="superscript">th</hi>  Amer. Art. Anderson</hi></l>
                   <l n="11"><hi rend="blue">Galleries sale Elbridge L.</hi></l>
                   <l n="12"><hi rend="blue">Adams, Irving S. Underhill,</hi></l>
                   <l n="13"><hi rend="blue">C Sidney Crane &amp; others.</hi></l>
@@ -3673,11 +3676,11 @@
                   <l n="16"><hi rend="blue">Knight &amp; Saunders imprint</hi></l>
                   <l n="17"><hi rend="blue">making the unusual claim</hi></l>
                   <l n="18"><hi rend="blue">that it has never been</hi></l>
-                  <l n="19"><hi rend="blue">repaired<quote rend="end"/></hi></l>
+                  <l n="19"><hi rend="blue">repaired<quote corresp="#0203_verso_l10_quote"/></hi></l>
                   <l n="20"><hi rend="blue">    <bibl corresp="0203_verso_l20_bibl"/> News &amp; Views of Literary London</hi></l>
                   <l n="21"><hi rend="blue">Herbert W. Horwill Feb. 16 1936<bibl corresp="#0203_verso_l20_bibl"/><note>Horwill, Herbert W. "News and Views of Literary London." <title>New York Times</title>(16 February 1936): BR8.</note></hi></l>
-                  <l n="22"><hi rend="blue"><quote rend="begin"/>. . . To some of us perhaps, whose</hi></l>
-                  <l n="23"><hi rend="blue">personal inclinations tend to make us<quote rend="end"/></hi></l>
+                  <l n="22"><hi rend="blue"><quote corresp="0203_verso_l22_quote"/>. . . To some of us perhaps, whose</hi></l>
+                  <l n="23"><hi rend="blue">personal inclinations tend to make us</hi></l>
                </lg>
             </div>
          </div>
@@ -3688,17 +3691,17 @@
                   n="0203-recto"/>
                <desc>MM draws 2 feathers with end points joined and curving up in a half circle on line 17, extending into line 16; on lines 20-23, she draws three striped figures, resembling the top of a cane, with curved heads. The figures stand on a small stylized leaf. An arrow points from the left margin of line 19 to these figures.</desc>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Horwill, Herbert W. "News and Views of Literary London" (see earlier note).</note><quote rend="begin"/>exaggerate the importance of the</hi></l>
+                  <l n="01"><hi rend="blue"><note>Horwill, Herbert W. "News and Views of Literary London" (see earlier note).</note>exaggerate the importance of the</hi></l>
                   <l n="02"><hi rend="blue">printed page, the career of King</hi></l>
                   <!-- MM's spelling mistake in line 3? EF! -->
                   <l n="03"><hi rend="blue">George may be a wholseome</hi></l>
                   <l n="04"><hi rend="blue">reminder that books are not the</hi></l>
                   <l n="05"><hi rend="blue">only training of character &amp; preparation</hi></l>
-                  <l n="06"><hi rend="blue">for life. . . . . .<quote rend="end"/></hi></l>
+                  <l n="06"><hi rend="blue">for life. . . . . .<quote corresp="#0203_verso_l22_quote"/></hi></l>
                   <l n="07"><hi rend="blue"><bibl corresp="0203_recto_l07_bibl"/>The Sphere  Feb 1 1936</hi></l>
                   <l n="08"><hi rend="blue">p. 195    Cavalcade</hi></l>
                   <l n="09"><hi rend="blue">            of a Royal Career<bibl corresp="#0203_recto_l07_bibl"/><note>"Cavalcade of a Royal Career." <title>The Sphere</title>(1 February 1936): 195.</note></hi></l>
-                  <l n="10"><hi rend="blue"><quote rend="begin"/>The Badge and Mottoes Containing</hi></l>
+                  <l n="10"><hi rend="blue"><quote corresp="0203_recto_l10_quote"/>The Badge and Mottoes Containing</hi></l>
                   <l n="11"><hi rend="blue">the Feathers Device, Employed by</hi></l>
                   <l n="12"><hi rend="blue">the Prince of Wales During the</hi></l>
                   <l n="13"><hi rend="blue">Past 6 Centuries.</hi></l>
@@ -3711,7 +3714,7 @@
                   <l n="20"></l>
                   <l n="21"></l>
                   <l n="22"></l>
-                  <l n="23"><hi rend="blue"><foreign xml:lang="de">                   ich diene   ich diene  ich diene</foreign><note>ich diene translates to "I serve" in English.</note>in the lozenge<quote rend="end"/></hi></l>
+                  <l n="23"><hi rend="blue"><foreign xml:lang="de">                   ich diene   ich diene  ich diene</foreign><note>ich diene translates to "I serve" in English.</note>in the lozenge</hi></l>
                </lg>
             </div>
          </div>
@@ -3721,7 +3724,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0204-verso.jpg"
                   n="0204-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>"Cavalcade of a Royal Career" (see earlier note).</note><quote rend="begin"/>on the tomb the device in 2 shields</hi></l>
+                  <l n="01"><hi rend="blue"><note>"Cavalcade of a Royal Career" (see earlier note).</note>on the tomb the device in 2 shields</hi></l>
                   <l n="02"><hi rend="blue">bearing the mottoes            Houmont</hi></l>
                   <l n="03"><hi rend="blue">&amp; <foreign xml:lang="de">ich diene</foreign><note>See earlier note for translation.</note>        magnannum (high<note>This phrase continues on 204 verso: "(high spirited)."</note></hi></l>
                   <l n="04"><hi rend="blue">                               I serve</hi></l>
@@ -3746,7 +3749,7 @@
                   <l n="23"><hi rend="blue">as in a stained glass window</hi></l>
                   <l n="24"><hi rend="blue">in the porter's lodge at the Tower</hi></l>
                   <l n="25"><hi rend="blue">of London (three feathers for first</hi></l>
-                  <l n="26"><hi rend="blue">time)<quote rend="end"/></hi></l>
+                  <l n="26"><hi rend="blue">time)</hi></l>
                </lg>
             </div>
          </div>
@@ -3758,7 +3761,7 @@
                <desc>At the top of the page, MM draws three vertical feathers, resembling ferns, with a curling top. On lines 12-15, MM draws a schematic diagram of the shield, writing “lions” and “fleurdelis” in the relevant quadrants rather than drawing these images.  In the bottom left quadrant, she writes “3 lions running.” In the top left field, she draws a fleur-de-lis. The shield is bisected vertically with two lines, distinguishing the quadrants. At the beginning of line 19, left margin, MM draws a  small picture of a crowned lion head, with an arrow pointing toward it, left margin lines 17-18.</desc>
                <lg>
                   <l n="01"></l>
-                  <l n="02"><hi rend="blue"><note>"Cavalcade of a Royal Career" (see earlier note).</note><quote rend="begin"/>spirited) <note>This phrase begins on 204 recto: "(high spirited)."</note></hi></l>
+                  <l n="02"><hi rend="blue"><note>"Cavalcade of a Royal Career" (see earlier note).</note>spirited) <note>This phrase begins on 204 recto: "(high spirited)."</note></hi></l>
                   <l n="03"></l>
                   <l n="04"><hi rend="blue">Before &amp; after his succession.</hi></l>
                   <l n="05"><hi rend="blue">The device <del>as</del>was really used</hi></l>
@@ -3778,10 +3781,10 @@
                   <l n="19"><hi rend="blue"> A: <foreign xml:lang="la">henrici:  principis: </foreign><note>MM writes the Latin words for "Henry" and "prince." In this and the following lines, she appears to list his titles: Prince of Wales, Duke of Aquitaine, Lancaster, and Cornwall; and Earl of Chester.</note></hi></l>
                   <l n="20"><hi rend="blue">wall:  <foreign xml:lang="la">duci:   aquitan: <del>lancas</del></foreign></hi></l>
                   <l n="21"><hi rend="blue"><foreign xml:lang="la">lancastre: cornub: comitis:</foreign></hi></l>
-                  <l n="22"><hi rend="blue">celts<quote rend="end"/></hi></l>
+                  <l n="22"><hi rend="blue">celts</hi></l>
                </lg>
                <lg type="vertical">
-                     <!-- Editorial description for line v23: Span lines 19-07, left margin -->
+                     <!-- Editorial description for line v23: Span lines 19-07, left margin --><!-- Not sure how to encode the quote tags in line v23. EF! -->
                      <l n="v23"><hi rend="blue"><quote rend="begin"/>illtr   lions head at top of seal<quote rend="end"/></hi></l>
                </lg>
             </div>
@@ -3793,11 +3796,11 @@
                   n="0205-verso"/>
                <desc>On line 01, MM draws a  small picture of a crowned lion head and beneath the “S” a vertical line, linking the letter to the phrase “meaning seal?” on line 02.</desc>
                <lg>
-                  <l n="01"><hi rend="blue"><note>"Cavalcade of a Royal Career" (see earlier note).</note><quote rend="begin"/>celts: S: henrici: etc<quote rend="end"/></hi></l>
+                  <l n="01"><hi rend="blue"><note>"Cavalcade of a Royal Career" (see earlier note).</note>celts: S: henrici: etc<quote corresp="#0203_recto_l10_quote"/></hi></l>
                   <l n="02"><hi rend="blue">                                    meaning seal?</hi></l>
                   <l n="03"><hi rend="blue"><bibl corresp="0205_verso_l03_bibl"/>Letters of Charles    Lamb to</hi></l>
                   <l n="04"><hi rend="blue">which are added  a store of his sister Mary Lamb</hi></l>
-                  <l n="05"><hi rend="blue">3 vol.s    Ed. by E V. Lucas<note>Lucas, Edward Verrall [1868-1938]. English humorist who wrote for <title>Punch</title>but also published in most genres, including essays and poetry.</note></hi></l>
+                  <l n="05"><hi rend="blue">3 vol.s    Ed. by E V. Lucas<note target="lucas">Lucas, Edward Verrall [1868-1938]. English humorist who wrote for <title>Punch</title>but also published in most genres, including essays and poetry.</note></hi></l>
                   <l n="06"><hi rend="blue">N. Have Yale Un. Press.</hi></l>
                   <l n="07"><hi rend="blue">Printed at the Temple Press   Letchworth</hi></l>
                   <l n="08"><hi rend="blue">                         1935</hi></l>
@@ -3805,7 +3808,7 @@
                   <l n="10"><hi rend="blue">in memory of Philip Hamilton McMillan</hi></l>
                   <l n="11"><hi rend="blue">of the class of 1894 Yale College</hi></l>
                   <l n="12"></l>
-                  <l n="13"><hi rend="blue">Vol. II     p. 127    letter 253<bibl corresp="#0205_verso_l03_bibl"/><note>Lucas, E. V., ed. <title>Letters of Charles Lamb, to Which are Added Those of His Sister Mary Lamb</title>. North Haven: Hale University Press, 1935.</note>  <quote rend="begin"/>to</hi></l>
+                  <l n="13"><hi rend="blue">Vol. II     p. 127    letter 253<bibl corresp="#0205_verso_l03_bibl"/><note>Lucas, E. V., ed. <title>Letters of Charles Lamb, to Which are Added Those of His Sister Mary Lamb</title>. North Haven: Hale University Press, 1935.</note>  <quote corresp="0205_verso_l13_quote"/>to</hi></l>
                   <!--I have replaced the curly braces with square brackets to match the image description for line 14. EF!-->
                   <l n="14"><hi rend="blue">Wm. Wordsworth [9 Aug. 1814]  1814</hi></l>
                   <l n="15"><hi rend="blue">One feeling I was particularly</hi></l>
@@ -3816,7 +3819,7 @@
                   <l n="20"><hi rend="blue">coolness and calming, almost</hi></l>
                   <l n="21"><hi rend="blue">transforming, properties of a</hi></l>
                   <l n="22"><hi rend="blue">country church just entered&#8212;</hi></l>
-                  <l n="23"><hi rend="blue">a certain fragrance which it<quote rend="end"/></hi></l>
+                  <l n="23"><hi rend="blue">a certain fragrance which it</hi></l>
                </lg>
             </div>
          </div>
@@ -3826,7 +3829,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0205-recto.jpg"
                   n="0205-recto"/>
                <lg>
-                  <l n="01"><note>Lucas, E. V., ed. <title>Letters of Charles Lamb</title>(see earlier note).</note><quote rend="begin"/><hi rend="blue">has&#8212;either from the holiness, or</hi></l>
+                  <l n="01"><note>Lucas, E. V., ed. <title>Letters of Charles Lamb</title>(see earlier note).</note><hi rend="blue">has&#8212;either from the holiness, or</hi></l>
                   <l n="02"><hi rend="blue">being kept shut all week, or the</hi></l>
                   <l n="03"><hi rend="blue">air that is let in being pure country</hi></l>
                   <l n="04"><hi rend="blue">exactly what you have  reduced</hi>    <hi rend="pencil">air</hi></l>
@@ -3851,7 +3854,7 @@
                   <l n="22"><hi rend="blue">and could go to be without dreaming</hi></l>
                   <l n="23"><hi rend="blue">of the Last Day, must be as hardened</hi></l>
                   <l n="24"><hi rend="blue">an atheist as xxxxxx</hi></l>
-                  <l n="25"><hi rend="blue">. . . . C Lamb and sister</hi><quote rend="end"/></l>
+                  <l n="25"><hi rend="blue">. . . . C Lamb and sister</hi></l>
                </lg>
             </div>
          </div>
@@ -3861,7 +3864,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0206-verso.jpg"
                   n="0206-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Lucas, E. V., ed. <title>Letters of Charles Lamb</title>(see earlier note).</note><quote rend="begin"/>504     page 415   To Bernard Barton</hi></l>
+                  <l n="01"><hi rend="blue"><note>Lucas, E. V., ed. <title>Letters of Charles Lamb</title>(see earlier note).</note>504     page 415   To Bernard Barton</hi></l>
                   <l n="02"><hi rend="blue">But the natural power of a story</hi></l>
                   <l n="03"><hi rend="blue">is diminished when the uppermost</hi></l>
                   <l n="04"><hi rend="blue">purpose in the writer seems to be to</hi></l>
@@ -3887,7 +3890,7 @@
                   <l n="24"><hi rend="blue">to be a young man we had seen twice</hi></l>
                   <l n="25"><hi rend="blue">at Alsager's: He turned out a very</hi></l>
                   <l n="26"><hi rend="blue">pleasant fellow&#8212;showed us the</hi></l>
-                  <l n="27"><hi rend="blue">inside of places&#8212;. . . . &amp; drank tea<quote rend="end"/></hi></l>
+                  <l n="27"><hi rend="blue">inside of places&#8212;. . . . &amp; drank tea</hi></l>
                </lg>
             </div>
          </div>
@@ -3898,7 +3901,7 @@
                   n="0206-recto"/>
                <desc>MM writes 2 and 1, and uses a loose broad parenthesis in the left margin, to mark passages beginning around lines 11  and 16.</desc>
                <lg>
-                  <l n="01"><note>Lucas, E. V., ed. <title>Letters of Charles Lamb</title>(see earlier note).</note><quote rend="begin"/><hi rend="blue">with him in such a delicious college</hi></l>
+                  <l n="01"><note>Lucas, E. V., ed. <title>Letters of Charles Lamb</title>(see earlier note).</note><hi rend="blue">with him in such a delicious college</hi></l>
                   <l n="02"><hi rend="blue">room</hi></l>
                   <l n="03"></l>
                   <l n="04"><hi rend="blue">Vol II  p 429    to B. Barton</hi></l>
@@ -3923,7 +3926,7 @@
                   <l n="23"><hi rend="blue">to my Edmonton friends; at last</hi></l>
                   <l n="24"><hi rend="blue">(O Argus' penetration),  I have</hi></l>
                   <l n="25"><hi rend="blue">discovered a task that might be</hi></l> 
-                  <l n="26"><hi rend="blue">dispensed with.  Pray don't trouble</hi><quote rend="end"/></l>
+                  <l n="26"><hi rend="blue">dispensed with.  Pray don't trouble</hi></l>
                </lg>
             </div>
          </div>
@@ -3933,7 +3936,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0207-verso.jpg"
                   n="0207-verso"/>
                <lg>
-                  <l n="01"><note>Lucas, E. V., ed. <title>Letters of Charles Lamb</title>(see earlier note).</note><quote rend="begin"/><hi rend="blue">yourself with such useless courtesies.</hi></l>
+                  <l n="01"><note>Lucas, E. V., ed. <title>Letters of Charles Lamb</title>(see earlier note).</note><hi rend="blue">yourself with such useless courtesies.</hi></l>
                   <l n="02"><hi rend="blue">I can well trust your editor, when</hi></l>
                   <l n="03"><hi rend="blue">I don't use queer phrases which</hi></l>
                   <l n="04"><hi rend="blue">prove themselves wrong by creating</hi></l>
@@ -3956,7 +3959,7 @@
                   <l n="21"><hi rend="blue">attempted to personate a mere</hi></l>
                   <l n="22"><hi rend="blue">stranger to you; perhaps with too</hi></l>
                   <l n="23"><hi rend="blue">much strangeness. . . . I also but</hi></l>
-                  <l n="24"><hi rend="blue">act the stranger in the Review.</hi><quote rend="end"/></l>
+                  <l n="24"><hi rend="blue">act the stranger in the Review.</hi></l>
                </lg>
             </div>
          </div>
@@ -3986,7 +3989,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0208-recto.jpg"
                   n="0208-recto"/>
                <lg>
-                  <l n="01">     <note>Lucas, E. V., ed. <title>Letters of Charles Lamb</title>(see earlier note).</note><quote rend="begin"/><hi rend="blue">Vol II p. 134   L. 255 to S.T.C.</hi></l>
+                  <l n="01">     <note>Lucas, E. V., ed. <title>Letters of Charles Lamb</title>(see earlier note).</note><hi rend="blue">Vol II p. 134   L. 255 to S.T.C.</hi></l>
                   <l n="02"><hi rend="blue">let the hungry soul rejoice: there is corn</hi></l>
                   <l n="03"><hi rend="blue">in Egypt. . . . . methinks it makes</hi></l>
                   <l n="04"><hi rend="blue">for the benefit of sound literature, that</hi></l>
@@ -4006,12 +4009,12 @@
                   <l n="17"><hi rend="blue">Jeremiah or Ezekiel . . . remembered</hi></l>
                   <l n="18"><hi rend="blue">something of a book, with odd reading</hi></l>
                   <l n="19"><hi rend="blue">in it, that used to lie in the green</hi></l>
-                  <l n="20"><hi rend="blue">closet in her aunt Judith's bedchamber</hi></l>
+                  <l n="20"><hi rend="blue">closet in her aunt Judith's bedchamber<quote corresp="0205_verso_l13_quote"/></hi></l>
                   <l n="21"></l>
                   <l n="22"><hi rend="blue"><bibl corresp="0208_recto_l22_bibl"/>NY Times Ap 26  1936</hi></l>
                   <l n="23"><hi rend="blue">The Pursuit of Music (Sir) Walford Davies</hi></l>
                   <l n="24"><hi rend="blue">Thomas Nelson &amp; Sons NY 2.50     ...</hi></l>
-                  <l n="25"><hi rend="blue">Rev'd by R. Aldrich<bibl corresp="#0208_recto_l22_bibl"/><note>Aldrich, Richard. "About Music and Music Only." Rev. of <title>The Pursuit of Music</title>by Sir Walford Davies. <title>New York Times</title>(26 April 1936): BR16.</note><quote rend="begin"/>the "beauty heard<quote rend="end"/></hi></l>
+                  <l n="25"><hi rend="blue">Rev'd by R. Aldrich<bibl corresp="#0208_recto_l22_bibl"/><note>Aldrich, Richard. "About Music and Music Only." Rev. of <title>The Pursuit of Music</title>by Sir Walford Davies. <title>New York Times</title>(26 April 1936): BR16.</note><quote corresp="0208_recto_l25_quote"/>the "beauty heard</hi></l>
                </lg>
             </div>
          </div>
@@ -4021,7 +4024,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0209-verso.jpg"
                   n="0209-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Aldrich, Richard. "About Music and Music Only" (see earlier note).</note><quote rend="begin"/> &amp; 'beauty seen" in essence the same</hi></l>
+                  <l n="01"><hi rend="blue"><note>Aldrich, Richard. "About Music and Music Only" (see earlier note).</note> &amp; 'beauty seen" in essence the same</hi></l>
                   <l n="02"><hi rend="blue">"it is xtraord. difficult to persuade one's</hi></l>
                   <l n="03"><hi rend="blue">ears to hear sounds one is not</hi></l>
                   <l n="04"><hi rend="blue">predispoed to hear."</hi></l>
@@ -4045,7 +4048,7 @@
                   <l n="22"><hi rend="blue">. . . Like Carmen,  he might say</hi></l>
                   <l n="23"><hi rend="blue">he is singing for himself, and</hi></l>
                   <l n="24"><hi rend="blue">thinking&#8212;"and it is not forbidden</hi></l>
-                  <l n="25"><hi rend="blue">to think!"<quote rend="end"/></hi></l>
+                  <l n="25"><hi rend="blue">to think!"</hi></l>
                </lg>
             </div>
          </div>
@@ -4055,20 +4058,20 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0209-recto.jpg"
                   n="0209-recto"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Aldrich, Richard. "About Music and Music Only" (see earlier note).</note><quote rend="begin"/>It is a surprising book with a strong</hi></l>
+                  <l n="01"><hi rend="blue"><note>Aldrich, Richard. "About Music and Music Only" (see earlier note).</note>It is a surprising book with a strong</hi></l>
                   <l n="02"><hi rend="blue">current of fascination; and in the</hi></l>
-                  <l n="03"><hi rend="blue">path it travels there are a few companions.<quote rend="end"/></hi></l>
+                  <l n="03"><hi rend="blue">path it travels there are a few companions.<quote corresp="#0208_recto_l25_quote"/></hi></l>
                   <l n="04"></l>
                   <l n="05"><hi rend="blue"><bibl corresp="0209_recto_l05_bibl"/>Ill London News  Nov. 9 1935</hi></l>
                   <l n="06"><hi rend="blue">p. 768  The Coral-Girt Isles of Bermuda<bibl corresp="#0209_recto_l05_bibl"/><note>"The Coral-Girt Isles of Bermuda." <title>Illustrated London News</title>(9 November 1935): 768.</note></hi></l>
-                  <l n="07"><hi rend="blue"><quote rend="begin"/>on Bermuda's picturesque roads; where</hi></l>
+                  <l n="07"><hi rend="blue"><quote corresp="0209_recto_l07_quote"/>on Bermuda's picturesque roads; where</hi></l>
                   <l n="08"><hi rend="blue">Leafy Trees meet overhead and the noise</hi></l>
-                  <l n="09"><hi rend="blue">of heavy traffic is unknown.<quote rend="end"/><note>MM quotes this phrase in "Walking-Sticks and Paperweights and Watermarks." In her "Notes," she misidentifies the source as "Travel page. <title>New York Sun</title>."</note></hi></l>
+                  <l n="09"><hi rend="blue">of heavy traffic is unknown.<quote corresp="#0209_recto_l07_quote"/><note>MM quotes this phrase in "Walking-Sticks and Paperweights and Watermarks." In her "Notes," she misidentifies the source as "Travel page. <title>New York Sun</title>."</note></hi></l>
                   <l n="10"><hi rend="blue">   Photo. by Walter Rutherford, Bermuda</hi></l>
                   <l n="11"></l>
                   <l n="12"><hi rend="blue">p. 820   <bibl corresp="0209_recto_l12_bibl"/>The World of Science  P W Pycraft  F25<bibl corresp="#0209_recto_l12_bibl"/><note>Pycraft, W.P. "The World of Science." <title>Illustrated London News</title>(9 November 1935): 820.</note></hi></l>
                   <l n="13"><hi rend="blue">  . . .</hi></l>
-                  <l n="14"><hi rend="blue"><quote rend="begin"/>By way of contrast let me next take the</hi></l>
+                  <l n="14"><hi rend="blue"><quote corresp="0209_recto_l14_quote"/>By way of contrast let me next take the</hi></l>
                   <l n="15"><hi rend="blue">jreboas.  These are rodents progressing</hi></l>
                   <l n="16"><hi rend="blue"> like the kangaroos, by leaping as <unclear>witness</unclear></hi></l>
                   <l n="17"><hi rend="blue">the great size of the hind-limbs.  These</hi></l>
@@ -4080,7 +4083,7 @@
                   <l n="23"><hi rend="blue">as in the birds, &amp; from like causes.</hi></l>
                   <l n="24"><hi rend="blue">But hte fore foot of the jerboa,</hi></l>
                   <l n="25"><hi rend="blue">unlike that of the k. has almost</hi></l>
-                  <l n="26"><hi rend="blue">ceased to be a support to the body<quote rend="end"/><note>These notes reflect MM's ongoing interest in the jerboa; her poem "The Jerboa" was published in 1932.</note></hi></l>
+                  <l n="26"><hi rend="blue">ceased to be a support to the body<note>These notes reflect MM's ongoing interest in the jerboa; her poem "The Jerboa" was published in 1932.</note></hi></l>
                </lg>
             </div>
          </div>
@@ -4090,9 +4093,9 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0210-verso.jpg"
                   n="0210-verso"/>
                <lg>
-                  <l n="01"><hi rend="blue"><note>Pycraft, W. P. "The World of Science" (see earlier note).</note><quote rend="begin"/>hence has become so reduced as to</hi></l>
+                  <l n="01"><hi rend="blue"><note>Pycraft, W. P. "The World of Science" (see earlier note).</note>hence has become so reduced as to</hi></l>
                   <l n="02"><hi rend="blue">make it necessary to hunt for it under</hi></l>
-                  <l n="03"><hi rend="blue">the fur.<quote rend="end"/></hi></l>
+                  <l n="03"><hi rend="blue">the fur.<quote corresp="#0209_recto_l14_quote"/></hi></l>
                   <l n="04"><hi rend="blue">      S/S  “Normandie”</hi></l>
                   <l n="05"><hi rend="blue"><foreign xml:lang="fr">Passager ne figurant pas</foreign></hi></l>
                   <l n="06"><hi rend="blue"><foreign xml:lang="fr">sur les listes du bord.</foreign><note>Passenger not appearing on the on-board list.</note></hi></l>
@@ -4109,9 +4112,9 @@
                   <l n="17"><hi rend="blue">   <bibl corresp="0210_verso_l17_bibl"/>A Book of Verses for Children</hi></l>
                   <l n="18"><hi rend="blue">      Compiled by E V. Lucas</hi></l>
                   <l n="19"><hi rend="blue">Henry Holt &amp; Co<bibl corresp="#0210_verso_l17_bibl"/><note>Lucas, E.V. <title>A Book of Verses for Children</title>. Henry Holt &amp; Co., 1909.</note></hi></l>
-                  <l n="20"><hi rend="blue"><quote rend="begin"/>Oxfordshire Children's May Song</hi></l>
+                  <l n="20"><hi rend="blue"><quote corresp="0210_verso_l20_quote"/>Oxfordshire Children's May Song</hi></l>
                   <l n="21"><hi rend="blue">1 . . . .</hi></l>
-                  <l n="22"><hi rend="blue">2 . . . .<quote rend="end"/></hi></l>
+                  <l n="22"><hi rend="blue">2 . . . .</hi></l>
                </lg>
             </div>
          </div>
@@ -4121,7 +4124,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0210-recto.jpg"
                   n="0210-recto"/>
                <lg>
-                  <l n="01"><note>Lucas, E. V. <title>A Book of Verses for Children</title>(see earlier note).</note><quote rend="begin"/><hi rend="blue">3</hi></l>
+                  <l n="01"><note>Lucas, E. V. <title>A Book of Verses for Children</title>(see earlier note).</note><hi rend="blue">3</hi></l>
                   <l n="02" rend="verse"><hi rend="blue">Spring is coming, spring is coming</hi></l>
                   <l n="03" rend="verse"><hi rend="blue">            all around is fair;           </hi><hi rend="pencil">all around</hi></l>
                   <l n="04" rend="verse"><hi rend="blue">Shimmer &amp; quiver on the river,</hi></l>
@@ -4147,7 +4150,7 @@
                   <l n="24" rend="verse"><hi rend="blue">            Lets loose</hi></l>
                   <l n="25" rend="verse"><hi rend="blue">Her tongue, to tell what danger's neare.</hi></l>
                   <l n="26" rend="verse"><hi rend="blue">            A lamb</hi></l>
-                  <l n="27" rend="verse"><hi rend="blue">I keep (tame) with my morsells fed,</hi><quote rend="end"/></l>
+                  <l n="27" rend="verse"><hi rend="blue">I keep (tame) with my morsells fed,</hi></l>
                </lg>
             </div>
          </div>
@@ -4157,7 +4160,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0211-verso.jpg"
                   n="0211-verso"/>
                <lg>
-                  <l n="01" rend="verse"><hi rend="blue"><note>Lucas, E.V. <title>A Book of Verses for Children</title>(see earlier note).</note><quote rend="begin"/>whose dam</hi></l>
+                  <l n="01" rend="verse"><hi rend="blue"><note>Lucas, E.V. <title>A Book of Verses for Children</title>(see earlier note).</note>whose dam</hi></l>
                   <l n="02" rend="verse"><hi rend="blue">An Orphan left him (lately dead).</hi></l>
                   <l n="03" rend="verse"><hi rend="blue">              A Cat</hi></l>
                   <l n="04" rend="verse"><hi rend="blue">I keep, that plays about my House,</hi></l>
@@ -4170,11 +4173,11 @@
                   <l n="11" rend="verse"><hi rend="blue">                Which are</hi></l>
                   <l n="12" rend="verse"><hi rend="blue">But toyes to give my heart some ease;</hi></l>
                   <l n="13" rend="verse"><hi rend="blue">                 Where care</hi></l>
-                  <l n="14" rend="verse"><hi rend="blue">None is, slight things do lightly please.</hi></l>
+                  <l n="14" rend="verse"><hi rend="blue">None is, slight things do lightly please.<quote corresp="#0210_verso_l20_quote"/></hi></l>
                   <l n="15"></l>
                   <l n="16"><hi rend="blue"><bibl corresp="0211_verso_l16_bibl"/>Puppies Their Choice Care &amp; Training</hi></l>
                   <l n="17"><hi rend="blue">Edward C Ash.  Macm.  1.50<bibl corresp="#0211_verso_l16_bibl"/><note>Ash, Edward Cecil. <title>Puppies; Their Choice, Care and Training</title>. Macmillan, 1934.</note></hi></l>
-                  <l n="18"><hi rend="blue">97.   <quote rend="begin"/>The Bedlington Terrier&#8212;a relation</hi></l>
+                  <l n="18"><hi rend="blue">97.   <quote corresp="0211_verso_l18_quote"/>The Bedlington Terrier&#8212;a relation</hi></l>
                   <l n="19"><hi rend="blue">of the Dandie Dinmount . . . once it</hi></l>
                   <l n="20"><hi rend="blue">is in the hands of a Bedlington</hi></l>
                   <l n="21"><hi rend="blue">breeder of experience who knows</hi></l>
@@ -4182,7 +4185,7 @@
                   <l n="23"><hi rend="blue">the most astonishing queer &amp;</hi></l>
                   <l n="24"><hi rend="blue">attractive-looking specimen it</hi></l>
                   <l n="25"><hi rend="blue">is possible to imagine&#8212;</hi></l>
-                  <l n="26"><hi rend="blue">   . . . need trimming every month<quote rend="end"/></hi></l>
+                  <l n="26"><hi rend="blue">   . . . need trimming every month</hi></l>
                </lg>
             </div>
          </div>
@@ -4194,7 +4197,7 @@
                <desc>On lines 25 and 26 MM underscores the names of horses in pencil, not ink.</desc>
                <!-- Nick: should we mark this in text somehow? CM! -->
                <lg>
-                  <l n="01"><hi rend="blue"><note>Ash, Edward Cecil. <title>Puppies; Their Choice, Care and Training</title>(see earlier note).</note><quote rend="begin"/>w razor or scissors.          Blue,</hi></l>
+                  <l n="01"><hi rend="blue"><note>Ash, Edward Cecil. <title>Puppies; Their Choice, Care and Training</title>(see earlier note).</note>w razor or scissors.          Blue,</hi></l>
                   <l n="02"><hi rend="blue">blue.&amp;.tan ,   liver &amp; sandy.</hi></l>
                   <l n="03"><hi rend="blue">102-3              The Poodle.   The puppies are</hi></l>
                   <l n="04"><hi rend="blue">born various shades . . .  It is very</hi></l>
@@ -4220,7 +4223,7 @@
                   <l n="24"><hi rend="blue">the centre of the head to the tail</hi></l>
                   <l n="25"><hi rend="blue">cf.   <hi rend="underline">Buckskins</hi>  horse &amp;</hi></l>
                   <l n="26"><hi rend="blue"><hi rend="underline">Palomina</hi>tan w cream tail</hi></l>
-                  <l n="27"><hi rend="blue">&amp; mane<quote rend="end"/></hi></l>
+                  <l n="27"><hi rend="blue">&amp; mane<quote corresp="#0211_verso_l18_quote"/></hi></l>
                </lg>
             </div>
          </div>
@@ -5566,7 +5569,7 @@
                   <l n="15">it, that a series of illustrative</l>
                   <l n="16">paintings by you," etc</l>
                   <l n="17">19  A Man from Hymettus</l>
-                  <l n="18">Mr. Frederic Leighton:<note target="leighton"><!-- I have reversed the order of Leighton's name to match the glossary entry style (Last, First). EF! -->Leighton, Frederic [1830-1896]. English painter and sculptor.</note>"think</l>
+                  <l n="18">Mr. Frederic Leighton:<note target="leighton">Leighton, Frederic [1830-1896]. English painter and sculptor.</note>"think</l>
                   <l n="19">for one moment my dear</l>
                   <l n="20">Mr Rosetti, that I am insensible</l>
                   <l n="21">to the charm of a life recluded</l>
