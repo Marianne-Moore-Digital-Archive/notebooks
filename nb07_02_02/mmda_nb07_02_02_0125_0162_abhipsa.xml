@@ -25,7 +25,7 @@
                   n="0125-verso"/>
                <desc> </desc>
                <lg>
-                  <l n="01"><note>Fanny Burney and Her Friends (see earlier note).</note><quote rend="begin"/> persuade her.  But perhaps you</l> <!--check where [qu] ends-->
+                  <l n="01"><note>Fanny Burney and Her Friends (see earlier note).</note><quote corresp="0125_verso_l01_quote"/> persuade her.  But perhaps you</l> <!--check where [qu] ends-->
                   <l n="02">have begun something? May we ask?</l>
                   <l n="03">Will you answer a question candidly?</l>
                   <l n="04">F.B. I don’t know, but as candidly</l>
@@ -44,7 +44,7 @@
                   <l n="17">Sir J: Anything in the dialogue</l>
                   <l n="18">way, I think, she must succeed</l>
                   <l n="19">in; and I am sure inventions will</l>
-                  <l n="20">not be wanting<quote rend="end"/></l> 
+                  <l n="20">not be wanting<quote corresp="#0125_verso_l20_quote"/></l> 
                   <l n="21"> </l>
                   <l n="22"><bibl corresp="0125_verso_l22_bibl"/>Under the Maples</l>
                   <l n="23">       John Burroughs </l>
@@ -619,8 +619,8 @@
                               <l n="24">shield of Fust &amp; Schoeffer—two<bibl rend="end"/></l>
                            </lg>
                         </div>
-                        <div type="image" xml:id="nb07_02_02_0135 _text">
-                           <div type="page" n="v.0135" xml:id="nb07_02_02_0135 _verso_text">
+                        <div type="image" xml:id="nb07_02_02_0135_text">
+                           <div type="page" n="v.0135" xml:id="nb07_02_02_0135_verso_text">
                               <pb
                                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0135-verso.jpg"
                                  n="0135-verso"/>
