@@ -334,7 +334,7 @@
                   <l n="21">comprise a large proportion of</l>
                   <l n="22">the standard and most esteemed</l>
                   <l n="23">work in Eng Lit—COMPRE</l>
-                  <l n="24">HENDING MORE THAN TWO<quote corresp="#0130_verso_l24_quote"/></l>
+                  <l n="24">HENDING MORE THAN TWO<quote corresp="#0130_verso_l24_quoteB"/></l>
                </lg>
             </div>              
                <div type="page" n="r.0130" xml:id="nb07_02_02_0130_recto_text">
@@ -360,7 +360,7 @@
                      <l n="16">as local agent, applications</l>
                      <l n="17">w remittance should be addressed</l>
                      <l n="18">direct to the Publishers, which</l>
-                     <l n="19">[19]will meet w prompt attention.<quote corresp="#0130_recto_l19_quote"/></l>
+                     <l n="19">will meet w prompt attention.<quote corresp="#0130_recto_l19_quote"/></l>
                      <l n="20"> </l>
                      <l n="21">     Library of General Memorial</l>
                      <l n="22">Hospital    106th St &amp; 8th Ave</l>
@@ -385,8 +385,8 @@
                         <l n="05">       New York</l>
                         <l n="06"><hi rend="pencil">--</hi></l>
                         <l n="07">Santayana. F Fletcher</l>
-                        <l n="08"><quote rend="begin"/>I don’t like voluptuous</l>
-                        <l n="09">rationalism<quote rend="end"/></l>
+                        <l n="08"><quote rend="begin"/><quote corresp="0131_verso_l08_quoteA"/>I don’t like voluptuous</l>
+                        <l n="09">rationalism<quote corresp="#0131_verso_l09_quoteA"/></l>
                         <l n="10">    ___________</l>
                         <l n="11">               Daumier</l>
                         <l n="12"><foreign xml:lang="fr">La patience est la vertu des ânes</foreign><note>According to the Metropolitan Museum of Art in New York, this proverb and cartoon was published in Le charivari in July, 1840.</note></l>
@@ -401,7 +401,7 @@
                         <l n="21">    No 530 Broadway</l>
                         <l n="22">             1862<bibl corresp="#0131_verso_l22_bibl"/></l>
                         <l n="23">                                                             <add>177</add></l>
-                        <l n="24"><quote rend="begin"/>Not Here .  p. 80    <foreign xml:lang="la">Sursum Corda</foreign><quote rend="end"/></l>
+                        <l n="24"><quote corresp="0131_verso_l24_quoteB"/>Not Here .  p. 80    <foreign xml:lang="la">Sursum Corda</foreign><quote corresp="#0131_verso_l24_quoteB"/></l>
                      </lg>
                   </div>                           
                      <div type="page" n="r.0131" xml:id="nb07_02_02_0131_recto_text">
@@ -409,7 +409,7 @@
                            facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0131-recto.jpg"
                            n="0131-recto"/>
                         <lg>
-                           <l n="01"><note>Bonar, Horatius.  Hymns of Faith &amp; Hope (see earlier note).</note><quote rend="begin"/>[g=v]Redeem the Time</l>
+                           <l n="01"><note>Bonar, Horatius.  Hymns of Faith &amp; Hope (see earlier note).</note><quote corresp="0131_recto_l01_quote"/>[g=v]Redeem the Time</l>
                            <l n="02"> </l>
                            <l n="03">[g=v]Death worketh </l>
                            <l n="04">      Let me work too;       Repeat </l>
@@ -430,7 +430,7 @@
                            <l n="19">Busy etc.[/g]</l>
                            <l n="20"> </l>
                            <l n="21">110 Life &amp; I</l>
-                           <l n="22">3rd  stanza   ones[/g]<quote rend="end"/></l>
+                           <l n="22">3rd  stanza   ones[/g]<quote corresp="#0131_recto_l22_quote"/></l>
                         </lg>
                      </div>                
                      <div type="image" xml:id="nb07_02_02_0132_text">
@@ -439,8 +439,8 @@
                               facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0132-verso.jpg"
                               n="0132-verso"/>
                            <lg>
-                              <l n="01"><note>Bonar, Horatius.  Hymns of Faith &amp; Hope (see earlier note).</note><quote rend="begin"/>[g=v]              Life &amp; I</l>
-                              <l n="02">                3[add]rd[/add] st.</l>
+                              <l n="01"><note>Bonar, Horatius.  Hymns of Faith &amp; Hope (see earlier note).</note><quote corresp="0132_verso_l01_quote"/>[g=v]              Life &amp; I</l>
+                              <l n="02">                3<add>rd</add> st.</l>
                               <l n="03">Life is the mountain lake.</l>
                               <l n="04">   And I a drifting cloud,</l>
                               <l n="05">Or a cloud’s broken shadow on the</l>
@@ -461,7 +461,7 @@
                               <l n="20">        Remember me!</l>
                               <l n="21">Sad sins are mine,</l>
                               <l n="22">        Oh pardon me!</l>
-                              <l n="23">               Repeat above[/g]<quote rend="end"/></l>
+                              <l n="23">               Repeat above[/g]<quote corresp="#0132_verso_l23_quote"/></l>
                            </lg>
                         </div>               
                            <div type="page" n="r.0132" xml:id="nb07_02_02_0132_recto_text">
@@ -469,7 +469,7 @@
                                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0132-recto.jpg"
                                  n="0132-recto"/>
                               <lg>
-                                 <l n="01" rend="verse"><note>Bonar, Horatius.  Hymns of Faith &amp; Hope (see earlier note).</note><quote rend="begin"/>Goodness is thine,</l>
+                                 <l n="01" rend="verse"><note>Bonar, Horatius.  Hymns of Faith &amp; Hope (see earlier note).</note><quote corresp="0132_recto_l01_quote"/>Goodness is thine,</l>
                                  <l n="02" rend="verse">      Lord pity me!</l>
                                  <l n="03" rend="verse">Evil is mine.</l>
                                  <l n="04" rend="verse">      Forsake not me!</l>
@@ -490,7 +490,7 @@
                                  <l n="19">Lowe founder of the Faculty who</l>
                                  <l n="20">was buried in the high church yard &amp;</l>
                                  <l n="21">whose monument now much decayed</l>
-                                 <l n="22">bears the following inscription<quote rend="end"/></l>
+                                 <l n="22">bears the following inscription<quote corresp="#0132_recto_l22_quote"/></l>
                               </lg>
                            </div>
                            </div>               
@@ -501,7 +501,7 @@
                                     facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0133-verso.jpg"
                                     n="0133-verso"/>
                                  <lg>
-                                    <l n="01"><note>Bonar, Horatius.  Hymns of Faith &amp; Hope (see earlier note).</note><quote rend="begin"/>Stay Passenger and view this Stone</l>
+                                    <l n="01"><note>Bonar, Horatius.  Hymns of Faith &amp; Hope (see earlier note).</note><quote corresp="0133_verso_l01_quote"/>Stay Passenger and view this Stone</l>
                                     <l n="02">For under it lies such a one—</l>
                                     <l n="03">who cured, many while he lived</l>
                                     <l n="04">So gracious He Noe Man Grieved.</l>
@@ -516,7 +516,7 @@
                                     <l n="13">And to the Grave Deshend I must</l>
                                     <l n="14">O Painted Piece of Living Clay</l>
                                     <l n="15">Man Be Not Proud of Thy Short</l>
-                                    <l n="16">                                         Day.<quote rend="end"/></l>
+                                    <l n="16">                                         Day.<quote corresp="#0133_verso_l16_quote"/></l>
                                     <l n="17"><bibl corresp="0133_verso_l17_bibl"/>Sunday Review of the</l>
                                     <l n="18">Brooklyn Daily Eagle Mar <add>18</add> <del>1934</del></l>
                                     <l n="19">1934.</l>
@@ -532,19 +532,19 @@
                                     <lg>
                                        <l n="01"><note>Wright, Richardson. “First Balcony” (see earlier note).</note><bibl corresp="0133_recto_l01_biblA"/>Richardson Wright: The End</l>
                                        <l n="02"> of quilts.<bibl corresp="#0133_recto_l01_biblA"/></l>
-                                       <l n="03"> <quote rend="begin"/>It was once customary in Spain</l>
+                                       <l n="03"> <quote corresp="0133_recto_l03_quoteA"/>It was once customary in Spain</l>
                                        <l n="04">for fine ladies to send their</l>
                                        <l n="05"> wedding dresses to <del>convents</del></l>
                                        <l n="06">convents, where the nuns</l>
-                                       <l n="07"> used the silk for making vestments.<quote rend="end"/></l>
+                                       <l n="07"> used the silk for making vestments.<quote corresp="#0133_recto_l07_quoteA"/></l>
                                        <l n="08"> </l>
                                        <l n="09"><bibl corresp="0133_recto_l09_biblB"/>H. James. (p. 25 of my notes)</l>
                                        <l n="10"> fr Notes of a Son &amp; Brother (?)<bibl corresp="#0133_recto_l10_biblB"/><note>James, Henry. Notes of a Son and Brother. New York: Macmillan, 1914.</note></l>
                                        <l n="11"> </l>
-                                       <l n="12"><quote rend="begin"/>(his father) a chartered rebel</l>
+                                       <l n="12"><quote corresp="0133_recto_l12_quoteB"/>(his father) a chartered rebel</l>
                                        <l n="13">against cold reserves—the sense</l>
                                        <l n="14">of communicable pleasure in his</l>
-                                       <l n="15"> breast was positively explosive.<quote rend="end"/></l>
+                                       <l n="15"> breast was positively explosive.<quote corresp="#0133_recto_l15_quoteB"/></l>
                                        <l n="16"> </l>
                                        <l n="17">     <bibl corresp="0133_recto_l01_biblC"/>Mergenthaler Linotype  Co</l> 
                                        <!--the previous bibl tag does not have a close tag!--> 
@@ -552,8 +552,8 @@
                                        <l n="19">Portfolio quoting <bibl corresp="0133_recto_l19_biblD"/>Printer’s Marks</l>
                                        <l n="20">W. Roberts<bibl corresp="0133_recto_l19_biblD"/><note>Roberts, William. Printers’ Marks: A Chapter in the History of Typography. London: George Bell &amp; Sons, 1893.</note>  p. 91    <del>by W Roberts</del> </l>
                                        <l n="21"></l>
-                                       <l n="22">    <quote rend="begin"/>Thomas Creede 1588-1618 </l>
-                                       <l n="23">Whose shop was at the sign of the<quote rend="end"/></l>
+                                       <l n="22">    <quote corresp="0133_recto_l22_quoteC"/>Thomas Creede 1588-1618 </l>
+                                       <l n="23">Whose shop was at the sign of the<quote corresp="#0133_recto_l23_quoteC"/></l>
                                     </lg>
                                  </div>                                             
                               <div type="image" xml:id="nb07_02_02_0134_text">
