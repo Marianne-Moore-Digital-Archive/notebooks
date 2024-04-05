@@ -59,13 +59,13 @@
                   n="0125-recto"/>
                <desc> </desc>
                <lg>
-                  <l n="01"><note>Burroughs, John. Under the Maples (see earlier note).</note><quote rend="begin"/>3 the spider weaves a net out of </l>
+                  <l n="01"><note>Burroughs, John. Under the Maples (see earlier note).</note><quote corresp="0125_recto_l01_quote"/>3 the spider weaves a net out of </l>
                   <l n="02">her own vitals with which to capture</l>
                   <l n="03">her prey, but the net is not a part</l>
                   <l n="04">of herself as the leaf is a part of the</l>
                   <l n="05">tree.    The spider repairs her</l>
                   <l n="06">damaged net, but the tree never</l>
-                  <l n="07">repairs its leaves.<quote rend="end"/></l>
+                  <l n="07">repairs its leaves.<quote corresp="#0125_recto_l07_quote"/></l>
                   <l n="08"></l>
                   <l n="09"><bibl corresp="0125_recto_l09_biblA"/>Animals I Have Known</l>
                   <l n="10">                    By </l>
@@ -93,7 +93,7 @@
                      n="0126-verso"/>
                   <desc> </desc>
                   <lg>
-                     <l n="01"><note>Beavan, Arthur Henry. Animals I Have Known (see earlier note).</note><quote rend="begin"/>whither poor pussy was conveyed</l>
+                     <l n="01"><note>Beavan, Arthur Henry. Animals I Have Known (see earlier note).</note><quote corresp="0126_verso_l01_quote"/>whither poor pussy was conveyed</l>
                      <l n="02">by train. <add>After A few</add> days the cat</l>
                      <l n="03">[03]was missing fr her new quarters,</l>
                      <l n="04">&amp; later on in the week was found</l>
@@ -113,7 +113,7 @@
                      <l n="18">hatched chickens, carefully</l>
                      <l n="19">protecting them from injury. Another</l>
                      <l n="20">acted as foster-mother to ten</l>
-                     <l n="21">ducklings . . . .<quote rend="end"/></l>
+                     <l n="21">ducklings . . . .<quote corresp="#0126_verso_l21_quote"/></l>
                      <l n="22"> </l>
                      <l n="23"><bibl rend="begin"/><bibl corresp="0126_verso_l23_bibl"/>Sea-Shore Life</l>
                      <l n="24">The Invertebrates of the NY<bibl corresp="#0126_verso_l23_bibl"/><note>Mayer, Alfred Goldborough. Sea-Shore Life: The Invertebrates of the New York Coast and the Adjacent Coast Region. New York: New York Zoological Society, 1905. Alfred Goldborough Mayer [1868-1922] was an American marine biologist and zoologist and popular science writer.</note></l>
@@ -175,12 +175,12 @@
                                  n="0128-verso"/>
                               <desc> </desc>
                               <lg>
-                                 <l n="01"><note>Howe, Percival Presland.  J. M. Synge (see earlier note).</note><quote rend="begin"/>Note: This is not a biographical</l>
+                                 <l n="01"><note>Howe, Percival Presland.  J. M. Synge (see earlier note).</note><quote corresp="0128_verso_l01_quoteA"/>Note: This is not a biographical</l>
                                  <l n="02">study of JM. Synge. Lies</l>
                                  <l n="03"> &amp;lives will be written of him.</l>
                                  <l n="04">Enid Mr. Masfield who</l>
                                  <l n="05">was Synge’s friend; it is my</l>
-                                 <l n="06">w<add>i</add>sh not to add to either.<quote rend="end"/></l>
+                                 <l n="06">w<add>i</add>sh not to add to either.<quote corresp="#0128_verso_l06_quoteA"/></l>
                                  <l n="07">        <bibl corresp="0128_verso_l07_bibl"/>Silas Marner</l>
                                  <l n="08">              The weaver of Raveloe</l>
                                  <l n="09"> By the author of</l>
@@ -193,11 +193,11 @@
                                  <l n="16">                  1861<bibl corresp="#0128_verso_l16_bibl"/><note>  Ad. for de Tocqueville’s The Old Regime.George Eliot. Silas Marner. New York: Harper &amp;Brothers, 1861.</note></l>
                                  <l n="17"> </l>
                                  <l n="18"> 3rd page from end.</l>
-                                 <l n="19"><quote rend="begin"/>Harper &amp; Brothers will send the </l>
+                                 <l n="19"><quote corresp="0128_verso_l19_quoteB"/>Harper &amp; Brothers will send the </l>
                                  <l n="20">following work by mail postage</l>
                                  <l n="21">paid (for any distance in the United</l>
                                  <l n="22">States under 3000 miles), on receipt</l>
-                                 <l n="23">of the money.”<quote rend="end"/></l>
+                                 <l n="23">of the money.”<quote corresp="#0128_verso_l23_quoteB"/></l>
                               </lg>
                           </div>  
                              <div type="page" n="r.0128" xml:id="nb07_02_02_0128_recto_text">
@@ -206,7 +206,7 @@
                                     n="0128-recto"/>
                                  <desc> </desc>
                                  <lg>
-                                    <l n="01">         <note>Ad. de Tocqueville’s The Old Regime (see earlier note).</note><quote rend="begin"/>The Old Regime</l>
+                                    <l n="01">         <note>Ad. de Tocqueville’s The Old Regime (see earlier note).</note><quote corresp="0128_recto_l28_quote"/>The Old Regime</l>
                                     <l n="02">                             and</l>
                                     <l n="03">         The Revolution</l>
                                     <l n="04">                                By</l>
@@ -231,7 +231,7 @@
                                     <l n="23">fr [!shorthand!]the records of the old intendants’</l>
                                     <l n="24">offices &amp; the Council of State. Of</l>
                                     <l n="25">the labor devoted to the task an</l>
-                                    <l n="26">idea may be formed fr the author’s<quote rend="end"/></l>
+                                    <l n="26">idea may be formed fr the author’s<quote corresp="#0128_recto_l26_quote"/></l>
                                  </lg>
                               </div> 
                         </div>
