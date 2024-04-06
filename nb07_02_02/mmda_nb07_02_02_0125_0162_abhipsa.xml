@@ -668,11 +668,11 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0136-recto.jpg"
                         n="0136-recto"/>
                      <lg>
-                        <l n="01"><note>Roberts, William. Printers’ Marks (see earlier note).</note><quote rend="begin"/>practical design.<quote rend="end"/>              May<add>28</add>34</l>
+                        <l n="01"><note>Roberts, William. Printers’ Marks (see earlier note).</note><quote corresp="0136_recto_l01_quoteA"/>practical design.<quote corresp="#0136_recto_l01_quoteA"/>              May<add>28</add>34</l>
                         <l n="02"> _______________________________</l>
                         <l n="03"><bibl rend="begin"/><hi rend="underline">Vol 1</hi>7 Encycl. Britannia<bibl rend="end"/><note>MM often took notes from the Encyclopedia Brittanica. Here she quotes from the entry for “Peach.”</note></l>
                         <l n="04">Peach.<note>MM takes notes toward “Nine Nectarines and Other Porcelain.”. In her own notes to the poem, MM cites Alphonse de Candolle’s Origin of Cultivated Plants.</note></l>
-                        <l n="05"><quote corresp="0136_recto_l05_quote"/>de Candolle<note>Candolle, Alphonse Pyramus de [1806-1893]. French-Swiss botanist. Introduced innovations in phytogeography, dealing with the geographic distribution of plants, and promoted standardizing nomenclatural practices in botany.</note>, from  philological &amp; other</l>
+                        <l n="05"><quote corresp="0136_recto_l05_quoteB"/>de Candolle<note>Candolle, Alphonse Pyramus de [1806-1893]. French-Swiss botanist. Introduced innovations in phytogeography, dealing with the geographic distribution of plants, and promoted standardizing nomenclatural practices in botany.</note>, from  philological &amp; other</l>
                         <l n="06">considerations, considers the peach to</l>
                         <l n="07"> be of Chinese origin,    though it is</l>
                         <l n="08">not found wild there.</l>
@@ -689,7 +689,7 @@
                         <l n="19">1   the peach may be said to be a</l>
                         <l n="20">     medium-sized tree; w</l>
                         <l n="21">lancolate shoots, &amp; w the</l>
-                        <l n="22">flowers arranged, singly, or in<quote corresp="#0136_recto_l22_quote"/></l>
+                        <l n="22">flowers arranged, singly, or in<quote corresp="#0136_recto_l22_quoteB"/></l>
                         <desc>MM draws circles around the numbers 3, 2, and 1, on lines 12, 17, and 19. </desc>
                      </lg>
                   </div>
@@ -700,7 +700,7 @@
                            n="0137-verso"/>
                         <desc> </desc>
                         <lg>
-                           <l n="01"><note>MM often took notes from the Encyclopedia Brittanica; lines 1-3 she takes notes toward “Nine Nectarines and Other Porcelain” from the “Peach” entry; she then takes notes from the “Peacham” entry.</note><quote rend="begin"/>groups of 2 or more, at intervals</l>
+                           <l n="01"><note>MM often took notes from the Encyclopedia Brittanica; lines 1-3 she takes notes toward “Nine Nectarines and Other Porcelain” from the “Peach” entry; she then takes notes from the “Peacham” entry.</note><quote corresp="0137_verso_l01_quote"/><!--this quote tag does not have a close tag!--> groups of 2 or more, at intervals</l>
                            <l n="02"> along the shoots of the previous</l>
                            <l n="03">year’s growth.</l>
                            <l n="04">Henry Peacham<note>Peacham, Henry [1578-c. 1644]. English poet and writer, known primarily for his publication of Compleat Gentleman. London: E. Tyler for Richard Thrale, 1661. MM mentions three other books by Peacham on this page and quoted The Compleat Gentleman in a Dial editorial (1928).</note>-<add>Encycl. Brit.</add>c.1576-c1643</l>
@@ -730,7 +730,7 @@
                               facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0137-recto.jpg"
                               n="0137-recto"/>
                            <lg>
-                              <l n="01"><note>MM takes notes from the Encyclopedia Brittanica on “Peacham” and then on “Nectarine,” perhaps taking notes toward “Nine Nectarines and Other Porcelain.”</note><quote rend="begin"/> The Worth of a Peny 1641<note>Peacham, Henry. The Worth of a Peny. London: R. Hearne, 1641. See previous page for more on Peacham’s other books mentioned here.</note></l>
+                              <l n="01"><note>MM takes notes from the Encyclopedia Brittanica on “Peacham” and then on “Nectarine,” perhaps taking notes toward “Nine Nectarines and Other Porcelain.”</note><quote corresp="0137_recto_l01_quote"/> The Worth of a Peny 1641<note>Peacham, Henry. The Worth of a Peny. London: R. Hearne, 1641. See previous page for more on Peacham’s other books mentioned here.</note></l>
                               <l n="02">       Harleian MS 6855 is a</l>
                               <l n="03">trans of James Is Basilicon</l>
                               <l n="04">doron into Latin verse,</l>
@@ -753,7 +753,7 @@
                               <l n="21"> . . . .</l>
                               <l n="22">The nectarine wh has been known</l>
                               <l n="23">for 2000 years, is the classical</l>
-                              <l n="24">example of bud and seed variation<quote rend="end"/></l>
+                              <l n="24">example of bud and seed variation<quote corresp="0137_recto_l24_quote"/></l>
                            </lg>
                         </div>
                         <div type="image" xml:id="nb07_02_02_0138_text">
@@ -818,7 +818,7 @@
                                     <l n="22">pairs alternating at right angles.</l>
                                     <l n="23">. . . .</l>
                                     <l n="24"> 4th case. . . the increase in length</l>
-                                    <l n="25">of individual leaf-stalks.<quote corresp="0138_recto_l25_quote"/></l>
+                                    <l n="25">of individual leaf-stalks.<quote corresp="#0138_recto_l25_quote"/></l>
                                  </lg>
                               </div>
                               
@@ -851,7 +851,7 @@
                                        <l n="20">gaps are left near the stem.</l>
                                        <l n="21">. . . Smaller, green leaves are</l>
                                        <l n="22">not inserted in these gaps—</l>
-                                       <l n="23">which serve as protective leaves<quote corresp="0139_verso_l23_quote"/></l>
+                                       <l n="23">which serve as protective leaves<quote corresp="#0139_verso_l23_quote"/></l>
                                     </lg>
                                  </div>
                                     <div type="page" n="r.0139" xml:id="nb07_02_02_0139_recto_text">
@@ -907,7 +907,7 @@
                                              <l n="19"></l>
                                              <l n="20">421 poisons.</l>
                                              <l n="21">Gentians . . .  are never disturbed</l>
-                                             <l n="22">by stags, roes, chamois,<quote corresp="0140_verso_l22_quote"/></l>
+                                             <l n="22">by stags, roes, chamois,<quote corresp="#0140_verso_l22_quote"/></l>
                                              <desc>On lines 2 through12, MM draws a nightshade branch with buds and symmetrical leaves in a diagonal slanting downward from left to right, so that the tip of the branch with its reaching bud points toward the right margin.</desc>
                                           </lg>
                                        </div>
@@ -949,7 +949,7 @@
                                                    facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0141-verso.jpg"
                                                    n="0141-verso"/>
                                                 <lg>
-                                                   <l n="01"><note>Candolle, Alphonse de. Origin of Cultivated Plants (see earlier note).</note><quote rend="begin"/>has transcribed a part of his</l>
+                                                   <l n="01"><note>Candolle, Alphonse de. Origin of Cultivated Plants (see earlier note).</note><quote corresp="0141_verso_l01_quote"/>has transcribed a part of his</l>
                                                    <l n="02">article. . . . The Chinese believe<note>MM may take notes toward “Nine Nectarines and Other Porcelain.”</note></l>
                                                    <l n="03">the oval peaches, wh. are very red</l>
                                                    <l n="04">on one side, to be a symbol of a long</l>
@@ -971,16 +971,15 @@
                                                    <l n="20"> . . . 223  the Japanese give</l>
                                                    <l n="21">the Chinese name <hi rend="underline">Tao</hi> to</l>
                                                    <l n="22">the peach.</l>
-                                                   <l n="23">224  Early travellers . . . .<quote rend="end"/></l>
+                                                   <l n="23">224  Early travellers . . . .<quote corresp="#0141_verso_l23_quote"/></l>
                                                 </lg>
                                              </div>
-                                             <div type="image" xml:id="nb07_02_02_0141_text">
                                                 <div type="page" n="r.0141" xml:id="nb07_02_02_0141_recto_text">
                                                    <pb
                                                       facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0141-recto.jpg"
                                                       n="0141-recto"/>
                                                    <lg>
-                                                      <l n="01"><note>Candolle, Alphonse de. Origin of Cultivated Plants (see earlier note).</note><quote rend="begin"/>C. Koch is the only modern<note>MM may take notes toward “Nine Nectarines and Other Porcelain.”</note></l>
+                                                      <l n="01"><note>Candolle, Alphonse de. Origin of Cultivated Plants (see earlier note).</note><quote corresp="0141_recto_l01_quote"/>C. Koch is the only modern<note>MM may take notes toward “Nine Nectarines and Other Porcelain.”</note></l>
                                                       <l n="02"> botanist who said he found the peach</l>
                                                       <l n="03"> tree in abundance in the Caucasian</l>
                                                       <l n="04">provinces.  Ledebour, however,</l>
@@ -1001,7 +1000,7 @@
                                                       <l n="19">    <add> . . . </add>Dr Bretschneider who</l>
                                                       <l n="20">at Pekin has access to all</l>
                                                       <l n="21">the resources of Chinese</l>
-                                                      <l n="22">literature, merely says, after<quote rend="end"/></l>
+                                                      <l n="22">literature, merely says, after<quote corresp="#0141_recto_l22_quote"/></l>
                                                    </lg>
                                                 </div>
                                                 <div type="image" xml:id="nb07_02_02_0142_text">
@@ -1010,39 +1009,38 @@
                                                          facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0142-verso.jpg"
                                                          n="0142-verso"/>
                                                       <lg>
-                                                         <l n="01"><note>Candolle, Alphonse de. Origin of Cultivated Plants (see earlier note).</note><quote rend="begin"/>reading the above passage<note>MM may take notes toward “Nine Nectarines and Other Porcelain.”</note></l>
+                                                         <l n="01"><note>Candolle, Alphonse de. Origin of Cultivated Plants (see earlier note).</note><quote corresp="0142_verso_l01_quoteA"/>reading the above passage<note>MM may take notes toward “Nine Nectarines and Other Porcelain.”</note></l>
                                                          <l n="02">“Tao is the peach tree. Dr</l>
                                                          <l n="03">Condolle thinks that China is</l>
                                                          <l n="04">the native country of the peach.</l>
                                                          <l n="05"> He may be right.”</l>
                                                          <l n="06"> </l>
                                                          <l n="07">219   Japanese floras make</l>
-                                                         <l n="08">no mention of the almond.<quote rend="end"/></l>
+                                                         <l n="08">no mention of the almond.<quote corresp="#0142_verso_l08_quoteA"/></l>
                                                          <l n="09"> </l>
                                                          <l n="10"><bibl rend="begin"/>N.Y. Times  May 30 1934<bibl rend="end"/></l>
                                                          <l n="11"> Israel</l>
                                                          <l n="12">Mrs. Putnam  225 Fulton St.</l>
-                                                         <l n="13"><quote rend="begin"/>Magistrate Malbin.  An antique</l>
+                                                         <l n="13"><quote corresp="0142_verso_l13_quoteB"/>Magistrate Malbin.  An antique</l>
                                                          <l n="14"> is a piece of period furniture</l>
                                                          <l n="15">handed down for a number of years</l>
                                                          <l n="16">on wh a commercial value is set</l>
                                                          <l n="17">&amp; which is much sought after by the</l>
-                                                         <l n="18">discriminating—<quote rend="end"/></l>
+                                                         <l n="18">discriminating—<quote corresp="#0142_verso_l18_quoteB"/></l>
                                                          <l n="19"><bibl rend="begin"/>NY Sun . 23 June ‘34</l>
                                                          <l n="20">Bagpipes fr. Spain<bibl rend="end"/><note>“Bagpipes from Spain.” New York Sun (23 June 1934).</note></l>
-                                                         <l n="21"><quote rend="begin"/>with 4 pairs of historic</l>
+                                                         <l n="21"><quote corresp="0142_verso_l21_quoteC"/>with 4 pairs of historic</l>
                                                          <l n="22">instruments.—two gaitas, two</l>
                                                          <l n="23">tambourines, two shepherd’s drums,</l>
-                                                         <l n="24">and two <del>shill</del>shell, the<quote rend="end"/></l>
+                                                         <l n="24">and two <del>shill</del>shell, the<quote corresp="#0142_verso_l24_quoteC"/></l>
                                                       </lg>
                                                    </div>
-                                                   <div type="image" xml:id="nb07_02_02_0142_text">
                                                       <div type="page" n="r.0142" xml:id="nb07_02_02_0142_recto_text">
                                                          <pb
                                                             facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0142-recto.jpg"
                                                             n="0142-recto"/>                                          
                                                          <lg>
-                                                            <l n="01"><note>“Bagpipes from Spain” (see earlier note).</note><quote rend="begin"/>Spanish govt. will be heard 3</l>
+                                                            <l n="01"><note>“Bagpipes from Spain” (see earlier note).</note><quote corresp="0142_recto_l01_quoteA"/>Spanish govt. will be heard 3</l>
                                                             <l n="02">times weekly over WEAF &amp; WJZ</l>
                                                             <l n="03">fr. the World’s Fair in Chicago</l>
                                                             <l n="04">      Gaitas are really Spanish</l>
@@ -1054,17 +1052,17 @@
                                                             <l n="10"> pairs of instruments are played</l>
                                                             <l n="11">only to give the pitch and set the</l>
                                                             <l n="12"> tempo. They are silenced as soon</l>
-                                                            <l n="13"> as the singing starts.<quote rend="end"/></l>
+                                                            <l n="13"> as the singing starts.<quote corresp="#0142_recto_l13_quoteA"/></l>
                                                             <l n="14">                               May?  1934</l>
                                                             <l n="15">Karl Freund—on radio   The whale</l>
                                                             <l n="16">in art.<note>Karl Freund, “The Whale in Art,” WEAF WJZ radio broadcast (Thursday, May 31, 1934). Karl Freund [1890-1969] was a German cinematographer and film director best known for Metropolis (1927), Dracula (1931), and I Love Lucy (1951-1957).</note></l>
-                                                            <l n="17"><quote rend="begin"/>Alex. the great provided his ship w</l>
+                                                            <l n="17"><quote corresp="0142_recto_l17_quoteB"/>Alex. the great provided his ship w</l>
                                                             <l n="18">huge bells fore &amp; aft or with an</l>
                                                             <l n="19">orchestra of wind  instruments to</l>
                                                             <l n="20">cow the huge beasts.</l>
                                                             <l n="21">attendant of Oceanos</l>
                                                             <l n="22">Aristophanes called it the [Pond?]</l>
-                                                            <l n="23">                                            Wide<quote rend="end"/></l>
+                                                            <l n="23">                                            Wide<quote corresp="#0142_recto_l23_quoteB"/></l>
                                                          </lg>
                                                       </div>
                                                       <div type="image" xml:id="nb07_02_02_0143_text">
