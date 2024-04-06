@@ -562,7 +562,7 @@
                                        facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0134-verso.jpg"
                                        n="0134-verso"/>
                                     <lg>
-                                       <l n="01"><note>Roberts, William. Printers’ Marks (see earlier note).</note><bibl rend="begin"/>Catherine Wheel near the Old Swan</l>
+                                       <l n="01"><note>Roberts, William. Printers’ Marks (see earlier note).</note><bibl corresp="0134_verso_l01_bibl"/>Catherine Wheel near the Old Swan</l>
                                        <l n="02">in Thames Street, was one of the prolific</l>
                                        <l n="03">printers of the period, &amp; his most common</l>
                                        <l n="04">mark is  a personification of Truth</l>
@@ -585,7 +585,7 @@
                                        <l n="21">portable form.</l>
                                        <l n="22">. . . . Paulus Manutius died in</l>
                                        <l n="23">Apr 1574 . . Aldus the younger</l>
-                                       <l n="24">1574-1598 the son of Paulus<bibl rend="end"/></l>
+                                       <l n="24">1574-1598 the son of Paulus<bibl corresp="#0134_verso_l24_bibl"/></l>
                                     </lg>
                                  </div>                              
                         <div type="page" n="r.0134" xml:id="nb07_02_02_0134_recto_text">
@@ -593,7 +593,7 @@
                               facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0134-recto.jpg"
                               n="0134-recto"/>
                            <lg>
-                              <l n="01"><note>Roberts, William. Printers’ Marks (see earlier note).</note><bibl rend="begin"/>&amp; the last representative of the</l>
+                              <l n="01"><note>Roberts, William. Printers’ Marks (see earlier note).</note><bibl corresp="0134_recto_l01_bibl"/>&amp; the last representative of the</l>
                               <l n="02"> house, also used the ‘anchor;’ “Aldus, the</l>
                               <l n="03">Younger,” was a precocious scholar; of</l>
                               <l n="04">the pedant type . . . . the famous</l>
@@ -616,7 +616,7 @@
                               <l n="21">on his<hi rend="underline">name</hi>.</l>
                               <l n="22">        Fust &amp; Schoeffer</l>
                               <l n="23">The first printer’s mark, the coupled</l>
-                              <l n="24">shield of Fust &amp; Schoeffer—two<bibl rend="end"/></l>
+                              <l n="24">shield of Fust &amp; Schoeffer—two<bibl corresp="#0134_recto_l24_bibl"/></l>
                            </lg>
                         </div>
                         <div type="image" xml:id="nb07_02_02_0135_text">
@@ -625,7 +625,7 @@
                                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0135-verso.jpg"
                                  n="0135-verso"/>
                               <lg>
-                                 <l n="01"><note>Roberts, William. Printers’ Marks (see earlier note).</note><bibl rend="begin"/>printers’ rules in saltaire on</l>
+                                 <l n="01"><note>Roberts, William. Printers’ Marks (see earlier note).</note><bibl corresp="0135_verso_l01_bibl"/>printers’ rules in saltaire on</l>
                                  <l n="02">two shields, hanging fr. a stump</l>
                                  <l n="03">the two rules on the right shield</l>
                                  <l n="04">forming an angle of 45°: the</l>
@@ -647,7 +647,7 @@
                                  <l n="20">was an artist.</l>
                                  <l n="21">   . . . a good design page . . . ..Why</l>
                                  <l n="22">is it so superlatively pleasant to</l>
-                                 <l n="23">their eyes?  Good design is always<bibl rend="end"/></l>
+                                 <l n="23">their eyes?  Good design is always<bibl corresp="#0135_verso_l23_bibl"/></l>
                               </lg>
                            </div>                        
                   <div type="page" n="r.0135" xml:id="nb07_02_02_0135_recto_text">
@@ -670,7 +670,7 @@
                      <lg>
                         <l n="01"><note>Roberts, William. Printers’ Marks (see earlier note).</note><quote corresp="0136_recto_l01_quoteA"/>practical design.<quote corresp="#0136_recto_l01_quoteA"/>              May<add>28</add>34</l>
                         <l n="02"> _______________________________</l>
-                        <l n="03"><bibl rend="begin"/><hi rend="underline">Vol 1</hi>7 Encycl. Britannia<bibl rend="end"/><note>MM often took notes from the Encyclopedia Brittanica. Here she quotes from the entry for “Peach.”</note></l>
+                        <l n="03"><bibl corresp="0136_recto_l03_bibl"/><hi rend="underline">Vol 1</hi>7 Encycl. Britannia<bibl corresp="#0136_recto_l03_bibl"/><note>MM often took notes from the Encyclopedia Brittanica. Here she quotes from the entry for “Peach.”</note></l>
                         <l n="04">Peach.<note>MM takes notes toward “Nine Nectarines and Other Porcelain.”. In her own notes to the poem, MM cites Alphonse de Candolle’s Origin of Cultivated Plants.</note></l>
                         <l n="05"><quote corresp="0136_recto_l05_quoteB"/>de Candolle<note>Candolle, Alphonse Pyramus de [1806-1893]. French-Swiss botanist. Introduced innovations in phytogeography, dealing with the geographic distribution of plants, and promoted standardizing nomenclatural practices in botany.</note>, from  philological &amp; other</l>
                         <l n="06">considerations, considers the peach to</l>
@@ -762,7 +762,7 @@
                                  facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0138-verso.jpg"
                                  n="0138-recto"/>
                               <lg>
-                                 <l n="01"><bibl rend="begin"/>Anton Kerner von Marilaun </l>
+                                 <l n="01"><bibl corresp="0138_verso_l01_bibl"/>Anton Kerner von Marilaun </l>
                                  <l n="02">Prof. B<add>otany</add> Univ of Vienna. </l>
                                  <l n="03">translated by F W Oliver</l>
                                  <l n="04">Prof. of Botany Univ. Coll. London</l>
@@ -771,7 +771,7 @@
                                  <l n="07"> The Natural Hist. of Plants</l>
                                  <l n="08">their forms, growth, reproduction</l>
                                  <l n="09"> &amp; distribution</l>
-                                 <l n="10">    from the German of<bibl rend="end"/><note>Marilaun, Anton Kerner von. The Natural History of Plants. Trans. F.W. Oliver. Half-Volume II. New York: Henry Holt, 1895. Anton Kerner von Marilaun [1831-1898], also known as Anton Joseph Kerner, was an Austrian botanist.</note></l>
+                                 <l n="10">    from the German of<bibl corresp="#0138_verso_l10_bibl"/><note>Marilaun, Anton Kerner von. The Natural History of Plants. Trans. F.W. Oliver. Half-Volume II. New York: Henry Holt, 1895. Anton Kerner von Marilaun [1831-1898], also known as Anton Joseph Kerner, was an Austrian botanist.</note></l>
                                  <l n="11"> </l>
                                  <l n="12"><quote corresp="0138_verso_l12_quote"/>p. 413 Relation bet.  position</l>
                                  <l n="13">   &amp; form of green leaves.</l>
