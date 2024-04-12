@@ -5343,7 +5343,7 @@
                <lg>
                   <l n="01"><bibl corresp="0229_recto_l01_bibl"/>I Follow the Road</l>
                   <l n="02">Anne Byrd Payson<note target="payson">Payson, Anne Byrd. Musician and adult convert from Judaism to Christianity. <!-- This is all I could find; maybe not accurate? CM. I couldn't find a DOB or any further info. CN --></note> (Abingdon 1933)<bibl corresp="#0229_recto_l01_bibl"/><note>Payson, Anne Byrd. <title>I Follow the Road: A Modern Woman's Search for God</title>. New York: Abingdon, 1933.</note></l>
-                  <l n="03">102 . <quote rend="begin"/>Tears for my own tragedies had been</l>
+                  <l n="03">102 . <quote corresp="0229_recto_l03_quote"/>Tears for my own tragedies had been</l>
                   <l n="04">washed from my eyes with those I had since,</l>
                   <l n="05">shed in joy, &amp; something that made me</l>
                   <l n="06">think of what Bach expected in heaven</l>
@@ -5357,15 +5357,15 @@
                   <l n="14">built as Christian efforts &amp; reminders</l>
                   <l n="15">&amp; that most of thier thought was</l>
                   <l n="16">governed &amp; bounded by Christ whether</l>
-                  <l n="17">they knew it or not.<quote rend="end"/></l>
+                  <l n="17">they knew it or not.<quote corresp="#0229_recto_l03_quote"/></l>
                   <l n="18"></l>
                   <l n="19">gayety every love</l>
                   <l n="20"><bibl corresp="0229_recto_l20_bibl"/>Stanley E Jones<note target="jones">Jones, Eli Stanley [1884-1973]. American Methodist missionary to India, where he gave lectures on interfaith dialogue and supported Indian self-determination; became freinds of Ghandi and the Nehru family. <title>Christ of the Indian Road</title>sold more than one million copies. He wrote an introduction to the 1933 edition of Payson's <title>I Follow the Road</title>.</note>: The Christ of the</l>
                   <l n="21">Indian Road.<bibl corresp="#0229_recto_l20_bibl"/><note>Jones, Stanley E. <title>Christ of the Indian Road</title>. New York: Abingdon Press, 1925.</note></l>
                   <l n="22">         --------------------</l>
-                  <l n="23"><quote rend="begin"/>Be courteous, be obliging, but don't give</l>
+                  <l n="23"><quote corresp="0229_recto_l23_quote"/>Be courteous, be obliging, but don't give</l>
                   <l n="24">yourself over to be melted down for the</l>
-                  <l n="25">tallow trade.<quote rend="end"/><note>MM quotes Eliot (see next note).</note><bibl corresp="0229_recto_l25_bibl"/>G. Eliot   Daniel Deronda</l>
+                  <l n="25">tallow trade.<quote corresp="#0229_recto_l23_quote"/><note>MM quotes Eliot (see next note).</note><bibl corresp="0229_recto_l25_bibl"/>G. Eliot   Daniel Deronda</l>
                   <l n="26">Sawyer Free Library  Library Notes. Gloucester<bibl corresp="#0229_recto_l25_bibl"/><note>Eliot, George. <title>Daniel Deronda</title>. Edinburgh and London: William Blackwood and Sons, 1876.</note></l>
                </lg>
             </div>
@@ -5384,7 +5384,7 @@
                   <l n="06"><hi rend="pencil">Library.</hi><note>Wroth, Lawrence C. <title>The Way of a Ship: An Essay on the Literature of Navigation Science</title>. Portland, ME: Southworth-Anthoenson Press, 1937.</note></l>
                   <l n="07"><bibl corresp="0230_verso_l07_bibl"/>Dean Luther A Weigle of Yale</l>
                   <l n="08">Divinity School at Hanover N.H.</l>
-                  <l n="09">June 19, 1938.<bibl corresp="#0230_verso_l07_bibl"/><note>"Spirit of Faith Urged by Weigle." <title>New York Times</title>(20 June 1938): 9.</note> <quote rend="begin"/>There is a</l>
+                  <l n="09">June 19, 1938.<bibl corresp="#0230_verso_l07_bibl"/><note>"Spirit of Faith Urged by Weigle." <title>New York Times</title>(20 June 1938): 9.</note> <quote corresp="0230_verso_l09_quote"/>There is a</l>
                   <l n="10">common notion that fiath is the</l>
                   <l n="11">antithesis of knowl, or that a</l>
                   <l n="12"> clear line can be drawn bet.</l>
@@ -5398,7 +5398,7 @@
                   <l n="20">know. &amp; it directs &amp; applies</l>
                   <l n="21">knowl. to the accomplishment</l>
                   <l n="22">of high purpose.</l>
-                  <l n="23">                              (NY Times)<quote rend="end"/></l>
+                  <l n="23">                              (NY Times)<quote corresp="#0230_verso_l09_quote"/></l>
                </lg>
             </div>
          </div>
@@ -5410,7 +5410,7 @@
                <lg>
                   <l n="01"><bibl corresp="0230_recto_l01_bibl"/>Rule of the Road   Anne Byrd Payson</l>
                   <l n="02">Abingdon Press 1937<bibl corresp="#0230_recto_l01_bibl"/><note>Payson, Anne Byrd. <title>Rule of the Road</title>New York: Abingdon, 1937.</note></l>
-                  <l n="03"><quote rend="begin"/>p. 92 It may be that certainty is too</l>
+                  <l n="03"><quote corresp="0230_recto_l03_quote"/>p. 92 It may be that certainty is too</l>
                   <l n="04">static for human development &amp; that</l>
                   <l n="05">minds devel. best in  uncertainty,</l>
                   <l n="06">that trying to find truth is better than</l>
@@ -5423,15 +5423,15 @@
                   <l n="13">contain the universality of Christ</l>
                   <l n="14"> . . but what life is healthy or effective</l>
                   <l n="15">unless somwhere in it, his activation</l>
-                  <l n="16">playts its part?<quote rend="end"/></l>
+                  <l n="16">playts its part?<quote corresp="#0230_recto_l03_quote"/></l>
                   <l n="17"></l>
                   <l n="18"><bibl corresp="0230_recto_l18_bibl"/>Can Prayer be Answered?</l>
                   <l n="19">  Mary Austin   Farrar &amp; Rinehart</l>
                   <l n="20">$1    1934<bibl corresp="#0230_recto_l18_bibl"/><note>Austin, Mary. <title>Can Prayer Be Answered?</title>New York: Farrar, 1934.</note><!-- When MM notes a price like this she is usually quoting from a review rather than the original text, but I haven't been able to confirm this hunch. CN ! --></l>
-                  <l n="21">p. 40    <quote rend="end"/>The indispensable item to the</l>
+                  <l n="21">p. 40    <quote corresp="0230_recto_l21_quote"/>The indispensable item to the</l>
                   <l n="22">successful working out of group</l>
                   <l n="23">prayer is to believe that there is a mind</l>
-                  <l n="24">working within the<quote rend="end"/></l>
+                  <l n="24">working within the</l>
                </lg>
             </div>
          </div>
@@ -5442,15 +5442,15 @@
                   n="0231-verso"/>
                <desc>In left margin spanning lines 19-23 MM inscribes a large opening bracket, and numbers these lines with the numeral "2." For lines 25-27, MM draws a similar opening bracket in the left margin, numbered with a "1."</desc>
                <lg>
-                  <l n="01"><note>Austin, Mary. <title>Can a Prayer Be Answered?</title>(see earlier note).</note><quote rend="begin"/>constitution of the Universe</l>
+                  <l n="01"><note>Austin, Mary. <title>Can a Prayer Be Answered?</title>(see earlier note).</note>constitution of the Universe</l>
                   <l n="02">so essentially like Mind that</l>
                   <l n="03">works individually in man that</l>
-                  <l n="04">the two can meet &amp; coőperate.<quote rend="end"/></l>
+                  <l n="04">the two can meet &amp; coőperate.<quote corresp="#0230_recto_l21_quote"/></l>
                   <l n="05"></l>
                   <l n="06">   <bibl corresp="0231_verso_l06_bibl"/>The Land Mark  Aug 1938</l>
                   <l n="07">John Bunyan The 250th Anniversary</l>
                   <l n="08">By T. B Fowler<bibl corresp="#0231_verso_l06_bibl"/><note>Fowler, T.B. "John Bunyan: The 250th Anniversary." <title>The Land Mark</title>(August 1938).</note></l>
-                  <l n="09" rend="verse"><quote rend="begin"/>I did not think</l>
+                  <l n="09" rend="verse"><quote corresp="0231_verso_l09_quote"/>I did not think</l>
                   <l n="10" rend="verse">To show to all the world my pen and ink</l>
                   <l n="11" rend="verse">Nor died I undertake</l>
                   <l n="12" rend="verse"> Thereby to please my neighbor; no, not I,</l>
@@ -5468,11 +5468,12 @@
                   <l n="24"></l>
                   <l n="25">1 by its author that it was actually written</l>
                   <l n="26">   without thought even of a possible reader</l>
-                  <l n="27">   He says.<quote rend="end"/></l>
+                  <l n="27">   He says.<quote corresp="#0231_verso_l09_quote"/></l>
                </lg>
                <lg>
                   <lg type="vertical">
-                     <l n="v28"><quote rend="begin"/>We have the assertion<quote rend="end"/></l>
+                     <!-- Is this the right way to encode a quote in a vertical line? EF! -->
+                     <l n="v28"><quote corresp="#0231_verso_l09_quote"/>We have the assertion<quote corresp="#0231_verso_l09_quote"/></l>
                   </lg>
                </lg>
             </div>
@@ -5483,17 +5484,17 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0231-recto.jpg"
                   n="0231-recto"/>
                <lg>
-                  <l n="01">     <quote rend="begin"/>Education is the sum total</l>
+                  <l n="01">     <quote corresp="0231_recto_l01_quote"/>Education is the sum total</l>
                   <l n="02">of all those influences and agencies</l>
                   <l n="03">by which we understand, assimilate</l>
-                  <l n="04">and improve our inheritance.<quote rend="end"/></l>
+                  <l n="04">and improve our inheritance.<quote corresp="#0231_recto_l01_quote"/></l>
                   <l n="05">                            Leslie Pinckney Hill<note target="hill">Hill, Leslie Pinckney [1880-1960]. American educator, poet, dramatist, and community leader. Son of a former slave, he received both a BA and MA from Harvard then taught at the Tuskegee Institute, among other institutions, and became head of the Institute for Colored Youth in Chenyey, PA.<!-- I can't find the source but this is definitely Hill. I also tried to find this source no avail. CN! --></note></l>
                   <l n="06"></l>
                   <l n="07"><bibl corresp="0231_recto_l07_bibl"/>Varied Birds of Sunnyfields</l>
                   <l n="08">Clarence L Sibley&#8212;</l>
                   <l n="09">J I  Lawrence NY Sun 20 Aug.</l>
                   <l n="10">                                           1938<bibl corresp="#0231_recto_l07_bibl"/><note>Sibley, Clarence L. "Varied Birds of Sunnyfields." <title>New York Sun</title>(20 August 1938).</note></l>
-                  <l n="11"><quote rend="begin"/>. . . Cranes, we know now, must</l>
+                  <l n="11"><quote corresp="0231_recto_l11_quote"/>. . . Cranes, we know now, must</l>
                   <l n="12">have nothing less than a ten-acre</l>
                   <l n="13"> meadow, and in two such</l>
                   <l n="14">meadows, shaded &amp; watered, are</l>
@@ -5507,7 +5508,7 @@
                   <l n="22">a grace that seems vaguely like</l>
                   <l n="23">that of the elephant which</l>
                   <l n="24">Hindu artists &amp; philosophers</l>
-                  <l n="25">declare to be the poetry of motion<quote rend="end"/></l>
+                  <l n="25">declare to be the poetry of motion<quote corresp="#0231_recto_l11_quote"/></l>
                </lg>
             </div>
          </div>
@@ -5520,7 +5521,7 @@
                <lg>
                   <l n="01"><bibl corresp="0232_verso_l01_bibl"/>Rosetti &amp; His Circle Max Beerbohm<note target="beerbohm">Beerbohm, Sir Henry Maximilian ("Max") [1872-1956]. English essayist, caricaturist, and theater critic.</note></l>
                   <l n="02">Wm Heineman   1922<bibl corresp="#0232_verso_l01_bibl"/><note>Beerbohm, Max. <title>Rossetti and His Circle</title>. London: William Heinemann, 1922.</note></l>
-                  <l n="03"><quote rend="begin"/>12  D G R. What <hi rend="underline">is</hi>the use,</l>
+                  <l n="03"><quote corresp="0232_verso_l03_quote"/>12  D G R. What <hi rend="underline">is</hi>the use,</l>
                   <l n="04">Christina, of having a heart like</l>
                   <l n="05">a singing bird &amp; a water-shoot</l>
                   <l n="06">&amp; all the rest of it, if you insist</l>
@@ -5542,7 +5543,7 @@
                   <l n="22">by a certain deficiency in&#8212;well,</l>
                   <l n="23">in warmth, in colour, in rich</l>
                   <l n="24">charm.   I have told him this</l>
-                  <l n="25">deficiency (I do not regard it<quote rend="end"/></l>
+                  <l n="25">deficiency (I do not regard it</l>
                </lg>
             </div>
          </div>
@@ -5552,7 +5553,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0232-recto.jpg"
                   n="0232-recto"/>
                <lg>
-                  <l n="01"><note>Beerbohm, Max. <title>Rossetti and His Circle</title>(see earlier note).</note><quote rend="begin"/>as a defect) might be</l>
+                  <l n="01"><note>Beerbohm, Max. <title>Rossetti and His Circle</title>(see earlier note).</note>as a defect) might be</l>
                   <l n="02"> possibly remedied by <hi rend="underline">you</hi>.  Mr Mill</l>
                   <l n="03"> has in teh press at this moment</l>
                   <l n="04"> a new work, entitled  'The</l>
@@ -5584,9 +5585,9 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0233-verso.jpg"
                   n="0233-verso"/>
                <lg>
-                  <l n="01"><note>Beerbohm, Max. <title>Rosetti and His Circle</title>(see earlier note).</note><quote rend="begin"/>market-place.  Ah no!<quote rend="end"/></l>
+                  <l n="01"><note>Beerbohm, Max. <title>Rosetti and His Circle</title>(see earlier note).</note>market-place.  Ah no!<quote corresp="#0232_verso_l03_quote"/></l>
                   <l n="02"><bibl corresp="0233_verso_l02_bibl"/>Times.  Sept. 18, 1938<bibl corresp="#0233_verso_l02_bibl"/><note>Churchill, Douglas W. "Upton Sinclair, 60, Looks Back on His Crusades." <title>New York Times</title>(18 September 1938): 127+.</note></l>
-                  <l n="03"><quote rend="begin"/>Upton Sinclair:  He surveys his life</l>
+                  <l n="03"><quote corresp="0233_verso_l03_quote"/>Upton Sinclair:  He surveys his life</l>
                   <l n="04">and would  have it no other way</l>
                   <l n="05">were he starting again. He sums</l>
                   <l n="06">it up thus: "A man who is</l>
@@ -5604,7 +5605,7 @@
                   <l n="18">to determine what your cause</l>
                   <l n="19">will be.  I believe that I have</l>
                   <l n="20">the right idea, &amp; I'll die</l>
-                  <l n="21">holding onto that belief.<quote rend="end"/></l>
+                  <l n="21">holding onto that belief.<quote corresp="#0233_verso_l03_quote"/></l>
                </lg>
             </div>
          </div>
@@ -5617,7 +5618,7 @@
                   <l n="01">    <bibl corresp="0233_recto_l01_bibl"/>NY Times about <del>Sept.</del> 21 1938</l>
                   <l n="02">                               <hi rend="pencil">Oct.</hi></l>
                   <l n="03">Great individualists:<bibl corresp="#0233_recto_l01_bibl"/><note>"Great Individualists." <title>New York Times</title>(22 October 1938): 16.</note></l>
-                  <l n="04"><quote rend="begin"/>It may not be an accident that</l>
+                  <l n="04"><quote corresp="0233_recto_l04_quote"/>It may not be an accident that</l>
                   <l n="05">the two Broadway plays which</l>
                   <l n="06">have met this season w the highest</l>
                   <l n="07">praise are Hamlet &amp; Abe Lincoln</l>
@@ -5642,7 +5643,7 @@
                   <l n="26">are repelled by the fanatics who</l>
                   <l n="27">dominate nations, &amp; by the half-</l>
                   <l n="28">bovine, half tigerish qualities</l>
-                  <l n="29">they bring out in their<quote rend="end"/></l>
+                  <l n="29">they bring out in their</l>
                </lg>
             </div>
          </div>
@@ -5652,7 +5653,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0234-verso.jpg"
                   n="0234-verso"/>
                <lg>
-                  <l n="01"><note>"Great Individualists" (see earlier note).</note><quote rend="begin"/>followers.  Either H or L</l>
+                  <l n="01"><note>"Great Individualists" (see earlier note).</note>followers.  Either H or L</l>
                   <l n="02">would have suffered less</l>
                   <l n="03">internal tortue if he had been</l>
                   <l n="04">sure of what was truth; sure</l>
@@ -5668,7 +5669,7 @@
                   <l n="14">it such is to libel it.  . . . we</l>
                   <l n="15">of the dem. nations take the</l>
                   <l n="16">risks, suffer the pains, for the</l>
-                  <l n="17">sake of the growth made possible.<quote rend="end"/></l>
+                  <l n="17">sake of the growth made possible.<quote corresp="#0233_recto_l04_quote"/></l>
                   <l n="18"></l>
                   <l n="19"><bibl corresp="0234_verso_l19_bibl"/>NYT. BK review    Oct 23   1938</l>
                   <l n="20"></l>
@@ -5707,7 +5708,7 @@
                   n="0235-recto"/>
                <desc>In the left margin of lines 1-2, MM's mathematical &lt; sign joins the two lines; on line 5 MM bisects her two parallel horizontal lines with two diagonals in the middle; in the left margin, spanning lines 8-19, MM draws an upward-pointing arrow. On each notebook line, MM marks the shaft of the arrow with a dot, so that the shaft looks jointed.</desc>
                <lg>
-                  <l n="01"><note>Duffus, R.L. "Lincoln Steffens as He Revealed Himself in His Letters" (see earlier note).</note><quote rend="begin"/> . . . each was aware of shadings, each</l>
+                  <l n="01"><note>Duffus, R.L. "Lincoln Steffens as He Revealed Himself in His Letters" (see earlier note).</note><quote corresp="0235_recto_l01_quote"/> . . . each was aware of shadings, each</l>
                   <l n="02">realized the difficulty of arriving in</l>
                   <l n="03">action, at an absolute right</l>
                   <l n="04">against an absolute wrong.</l>
@@ -5718,7 +5719,7 @@
                   <l n="09"> Deep down I am sorry for the</l>
                   <l n="10"> war-mad on both sides.  They are truly</l>
                   <l n="11">  sick.   . . . .   Only the good can</l>
-                  <l n="12"> do wrong.<quote rend="end"/></l>
+                  <l n="12"> do wrong.<quote corresp="#0235_recto_l01_quote"/></l>
                   <l n="13">             <bibl corresp="0235_recto_l13_bibl"/>The Ringing World</l>
                   <l n="14">   No  1, 324  Vol XXXI   Fri, Aug 7<hi rend="superscript">th</hi></l>
                   <l n="15">                        1936       Price  3 d.<bibl corresp="#0235_recto_l13_bibl"/><note>"For Beginners: Raising and Falling in Peal." <title>The Ringing World</title>(7 August 1936): 513.</note></l>
@@ -5735,7 +5736,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0236-verso.jpg"
                   n="0236-verso"/>
                <lg>
-                  <l n="01"><note>"For Beginners: Raising and Falling in Peal" (see earlier note).</note><quote rend="begin"/>p. 513  For Beginners</l>
+                  <l n="01"><note>"For Beginners: Raising and Falling in Peal" (see earlier note).</note><quote corresp="0236_verso_l01_quote"/>p. 513  For Beginners</l>
                   <l n="02">Raising and Falling in Peal</l>
                   <l n="03">The secret of lowering bells</l>
                   <l n="04">accurately in peal is keeping control</l>
@@ -5758,7 +5759,7 @@
                   <l n="21">In the old days <del>th</del> a rise was</l>
                   <l n="22">not considered perfect unless</l>
                   <l n="23">all the bells spoke at the</l>
-                  <l n="24">second stroke.  One seldom<quote rend="end"/></l>
+                  <l n="24">second stroke.  One seldom</l>
                </lg>
             </div>
          </div>
@@ -5768,7 +5769,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0028-recto.jpg"
                   n="0236-recto"/>
                <lg>
-                  <l n="01"><note>"For Beginners: Raising and Falling in Peal" (see earlier note).</note><quote rend="begin"/>hears that now.  The treble &amp;</l>
+                  <l n="01"><note>"For Beginners: Raising and Falling in Peal" (see earlier note).</note>hears that now.  The treble &amp;</l>
                   <l n="02">then the other bells are serving so as</l>
                   <l n="03">to strike at a short interval after</l>
                   <l n="04">each other, the heavier bells</l>
@@ -5791,7 +5792,7 @@
                   <l n="21">attention to his work.</l>
                   <l n="22"></l>
                   <l n="23">. . .  Raising &amp; falling in peal</l>
-                  <l n="24">takes very little if any longer<quote rend="end"/></l>
+                  <l n="24">takes very little if any longer</l>
                </lg>
             </div>
          </div>
@@ -5801,18 +5802,18 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0237-verso.jpg"
                   n="0237-verso"/>
                <lg>
-                  <l n="01"><note>"For Beginners: Raising and Falling in Peal" (see earlier note).</note><quote rend="begin"/>than pulling the bells up or</l>
+                  <l n="01"><note>"For Beginners: Raising and Falling in Peal" (see earlier note).</note>than pulling the bells up or</l>
                   <l n="02">letting them down singly, while</l>
-                  <l n="03">the effect is infinitely better.<quote rend="end"/></l>
+                  <l n="03">the effect is infinitely better.<quote corresp="#0236_verso_l01_quote"/></l>
                   <l n="04"></l>
                   <l n="05"><bibl corresp="0237_verso_l05_bibl"/>Front Core.  Gillett &amp; Johnston</l>
                   <l n="06">                             Ltd</l>
                   <l n="07">                          Croyden<bibl corresp="#0237_verso_l05_bibl"/><note>Ad. for Gillett and Johnston (a bell manufacturer). <title>The Ringing World</title>(7 August 1936): 509 (the front cover of the issue).</note></l>
-                  <l n="08"><quote rend="begin"/>Founders of the heavest bells</l>
-                  <l n="09">cast in England.<quote rend="end"/></l>
+                  <l n="08"><quote corresp="0237_verso_l08_quote"/>Founders of the heavest bells</l>
+                  <l n="09">cast in England.<quote corresp="#0237_verso_l08_quote"/></l>
                   <l n="10">    -----</l>
                   <l n="11">p. 516  <bibl corresp="0237_verso_l11_bibl"/>Mears &amp; Stainbank,<bibl corresp="#0237_verso_l11_bibl"/><note>Ad. for Mears and Stainbank (a bell manufacturer). <title>The Ringing World</title>(7 August 1936): 516.</note></l>
-                  <l n="12">      <quote rend="begin"/>Bellfounders, Bellhangers</l>
+                  <l n="12">      <quote corresp="0237_verso_l12_quote"/>Bellfounders, Bellhangers</l>
                   <l n="13">32  &amp; 34, Whitechapel Road</l>
                   <l n="14">                  London, E1</l>
                   <l n="15">Foundry  Est   AD. 1570 (12<hi rend="superscript">th</hi></l>
@@ -5820,13 +5821,13 @@
                   <l n="17"></l>
                   <l n="18">Sherbourne Abbey Recast &amp; Tenor</l>
                   <l n="19"></l>
-                  <l n="20">46  cwt    0 gr.    5lb<quote rend="end"/></l>
+                  <l n="20">46  cwt    0 gr.    5lb<quote corresp="#0237_verso_l12_quote"/></l>
                   <l n="21">                 -------------</l>
                   <l n="22">                          ?             Leland Wang<note target="wang">Wang, Leland, originally Want Zai [1898-1975]. Chinese evangelist and founder of the Chinese Foreign Missionary Union, after leaving his Navy career as a gunboat officer in 1921.</note></l>
                   <l n="23"> <bibl corresp="0237_verso_l23_bibl"/>N.Y. Times  Dec. 1938</l>
                   <l n="24"> speaker at the Gospel Tabernacle<bibl corresp="#0237_verso_l23_bibl"/><note>"Chinese Evangelist Is Speaker." <title>New York Times</title>(19 December 1938): 20.</note></l>
                   <l n="25">8<hi rend="superscript">th</hi> Ave bet 43 &amp; 44<hi rend="superscript">th</hi> St</l>
-                  <l n="26"><quote rend="begin"/>Seven words, he said, summed<quote rend="end"/></l>
+                  <l n="26"><quote corresp="0237_verso_l26_quote"/>Seven words, he said, summed</l>
                </lg>
             </div>
          </div>
@@ -5836,17 +5837,17 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0237-recto.jpg"
                   n="0237-recto"/>
                <lg>
-                  <l n="01"><note>"Chinese Evangalist Is Speaker" (see earlier note).</note><quote rend="begin"/>up the story of how 3 tribes combined</l>
+                  <l n="01"><note>"Chinese Evangelist Is Speaker" (see earlier note).</note>up the story of how 3 tribes combined</l>
                   <l n="02">forces in battle against Jehosha-</l>
                   <l n="03">phat.   They are</l>
                   <l n="04">peril, prayer, promise, praise,</l>
                   <l n="05">punishment, possession and</l>
-                  <l n="06">     peace.<quote rend="end"/></l>
+                  <l n="06">     peace.<quote corresp="#0237_verso_l26_quote"/></l>
                   <l n="07">                       Dec 1938</l>
                   <!--I have replaced the curly braces with square brackets to match the image description for line 8. EF!-->
                   <l n="08">Alyse Gregory<note target="gregory">Gregory, Alyse [1882-1967]. American novelist and essayist, managing editor of <title>The Dial</title>, and friend of MM's. MM reviewed her novel <title>Hester Craddock</title>for the <title>New York Herald Tribune</title>(8 November 1931:21) and refers to Gregory's "delicately lethal honesty" in her "Retrospect" on <title>The Dial</title>(<title>Life and Letters To-Day</title>[December 1940]: 175-183).</note>[Through <unclear>Lancet Windrows</unclear>]</l>
                   <l n="09">   <bibl corresp="0237_recto_l09_bibl"/>Wheels on Gravel (Lane)<bibl corresp="#0237_recto_l09_bibl"/><note>Gregory, Alyse. <title>Wheels on Gravel</title>. London: John Lane The Bodley Head, 1938.</note></l>
-                  <l n="10"><quote rend="begin"/>It was Bacon who said</l>
+                  <l n="10"><quote corresp="0237_recto_l10_quote"/>It was Bacon who said</l>
                   <l n="11">the first minister of state</l>
                   <l n="12"> has no more business in</l>
                   <l n="13">public than the wise man</l>
@@ -5856,11 +5857,11 @@
                   <l n="17">of W's mannerisms, the very</l>
                   <l n="18">inflection of his voice&#8212;If you shut</l>
                   <l n="19">your eyes you wld think W was</l>
-                  <l n="20">there.<quote rend="end"/></l>
+                  <l n="20">there.<quote corresp="#0237_recto_l10_quote"/></l>
                   <l n="21"></l>
                   <l n="22"><bibl corresp="0237_recto_l22_bibl"/>The Summing Up.   S. Maugham<note target="maugham">Maugham, William Somerset [1874-1965]. Popular English novelist, playwright, and short story writer. MM quotes him twice in "Fame Can Be Modest," <title>Brooklyn Daily Eagle</title>(18 April 1937): 15C.</note></l>
                   <l n="23">Doubleday Doran 1938<bibl corresp="#0237_recto_l22_bibl"/><note>Maugham, W. Somerset. <title>The Summing Up</title>. Garden City: Doubleday, Doran, &amp; Co., 1938.</note>   p. 29</l>
-                  <l n="24"><quote rend="begin"/>I began with the impossible aim of<quote rend="end"/></l>
+                  <l n="24"><quote corresp="0237_recto_l24_quote"/>I began with the impossible aim of</l>
                </lg>
             </div>
          </div>
@@ -5870,7 +5871,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0238-verso.jpg"
                   n="0238-verso"/>
                <lg>
-                  <l n="01"><note>Maugham, W. Somerset. <title>The Summing Up</title>(see earlier note).</note><quote rend="begin"/>using no  adjectives at all . . . .</l>
+                  <l n="01"><note>Maugham, W. Somerset. <title>The Summing Up</title>(see earlier note).</note>using no  adjectives at all . . . .</l>
                   <l n="02">as I saw it in my mind's eye my book</l>
                   <l n="03">wld. have the appearance of an</l>
                   <l n="04">immensely long telegram.</l>
@@ -5885,16 +5886,16 @@
                   <l n="13">that rapture was worthless unless</l>
                   <l n="14">it strengthened <add>the</add> character and rendered</l>
                   <l n="15">man more capable of right action.</l>
-                  <l n="16">  The value of it lay in works.<quote rend="end"/></l>
+                  <l n="16">  The value of it lay in works.<quote corresp="#0237_recto_l24_quote"/></l>
                   <l n="17"></l>
                   <l n="18"><bibl corresp="0238_verso_l18_bibl"/>Spectator Nov 10   1939</l>
                   <l n="19">People &amp; Things  Harold Nicholson<bibl corresp="#0238_verso_l18_bibl"/><note>Nicholson, Harold. "People and Things." <title>The Spectator</title>(10 November 1939).</note></l>
                   <l n="20"></l>
-                  <l n="21"><quote rend="begin"/>The virility of the French will always</l>
+                  <l n="21"><quote corresp="0238_verso_l21_quote"/>The virility of the French will always</l>
                   <l n="22">remain a mystery to me&#8212; . . . so</l>
                   <l n="23">disciplined as soldiers &amp; so</l>
                   <l n="24">subversive as civilians. . . .</l>
-                  <l n="25">A French friend has given me<quote rend="end"/></l>
+                  <l n="25">A French friend has given me</l>
                </lg>
             </div>
          </div>
@@ -5905,30 +5906,30 @@
                   n="0238-recto"/>
                <desc>At the end of line 22 MM draws a rising arrow in the right margin of the page from the word "drop" up to a more clearly inscribed version of that word on the end of line 18.</desc>
                <lg>
-                  <l n="01"><note>Nicholson, Harold. "People and Things" (see earlier note).</note><quote rend="begin"/>a further explanation. "We French</l>
+                  <l n="01"><note>Nicholson, Harold. "People and Things" (see earlier note).</note>a further explanation. "We French</l>
                   <l n="02">are always the same&#8212;we are</l>
                   <l n="03">anti-militarist by    nature</l>
                   <l n="04">but we are also warriors." ...</l>
-                  <l n="05">A true &amp; noble boast.<quote rend="end"/></l>
+                  <l n="05">A true &amp; noble boast.<quote corresp="#0238_verso_l21_quote"/></l>
                   <l n="06">         -------------</l>
                   <l n="07"><bibl corresp="0238_recto_l07_bibl"/>Fiction    Graham Greene  J. Masefield</l>
                   <l n="08">Live &amp; Kicking Ned   &amp; G B Priestley</l>
-                  <l n="09">Let the People Sing.<bibl corresp="#0238_recto_l07_bibl"/><note>Greene, Graham. "Fiction." <title>The Spectator</title> (10 November 1939): 336.</note>    <quote rend="begin"/>a trusty</l>
+                  <l n="09">Let the People Sing.<bibl corresp="#0238_recto_l07_bibl"/><note>Greene, Graham. "Fiction." <title>The Spectator</title> (10 November 1939): 336.</note>    <quote corresp="0238_recto_l09_quote"/>a trusty</l>
                   <l n="10">tradesman has delivered the</l>
                   <l n="11">good again to his own customers</l>
                   <l n="12">. . Masefield.   The idea of life</l>
                   <l n="13">as it ought to be is never far</l>
-                  <l n="14">from my work of literature<quote rend="end"/></l>
+                  <l n="14">from my work of literature<quote corresp="#0238_recto_l09_quote"/></l>
                   <l n="15"> </l>
                   <l n="16"><bibl corresp="0238_recto_l16_bibl"/>The Ship of Death &amp; Other Poems</l>
                   <l n="17">D H Lawrence.<note target="lawrence">Lawrence, David Herbert [1885-1930]. English novelist, short story writer, and poet. MM published Lawrence's poems in <title>The Dial</title>.</note>  Martin Secker<bibl corresp="#0238_recto_l16_bibl"/><note>Lawrence, D.H. <title>The Ship of Death and Other Poems</title>. London: Faber and Faber, 1941.</note></l>
                   <l n="18">                                                      drop</l>
-                  <l n="19">55 <quote rend="begin"/>Terra Incognita</l>
+                  <l n="19">55 <quote corresp="0238_recto_l19_quote"/>Terra Incognita</l>
                   <l n="20" rend="verse">... we can but touch, &amp;   wonder &amp; make <add>our effort</add></l>
                   <l n="21" rend="verse">and dangle in a last fastidious fine delight</l>
                   <l n="22" rend="verse">as the fuchsia does, dangling her reckless drop</l>
                   <l n="23" rend="verse">of purple after so much putting forth</l>
-                  <l n="24" rend="verse">and slow mounting  marvel of a little tree<quote rend="end"/></l>
+                  <l n="24" rend="verse">and slow mounting  marvel of a little tree</l>
                </lg>
             </div>
          </div>
@@ -5938,10 +5939,10 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0239-verso.jpg"
                   n="0239-verso"/>
                <lg>
-                  <l n="01"><note>Lawrence, D. H. <title>The Ship of Death and Other Poems</title>(see earlier note).</note><quote rend="begin"/>48   We die Together</l>
-                  <l n="02">All selected from Last Poems<quote rend="end"/></l>
+                  <l n="01"><note>Lawrence, D. H. <title>The Ship of Death and Other Poems</title>(see earlier note).</note>48   We die Together</l>
+                  <l n="02">All selected from Last Poems<quote corresp="#0238_recto_l19_quote"/></l>
                   <l n="03">                <bibl corresp="0239_verso_l03_bibl"/>June? July?  1940</l>
-                  <l n="04">J.B. Conant   Atlantic Monthly<bibl corresp="#0239_verso_l03_bibl"/><note>Conant, James Bryant. "Education for a Classless Society." <title>Atlantic Monthly</title>(May 1940): 593-602.</note><quote rend="begin"/>Lincoln</l>
+                  <l n="04">J.B. Conant   Atlantic Monthly<bibl corresp="#0239_verso_l03_bibl"/><note>Conant, James Bryant. "Education for a Classless Society." <title>Atlantic Monthly</title>(May 1940): 593-602.</note><quote corresp="0239_verso_l04_quote"/>Lincoln</l>
                   <l n="05">in his first message to Congress</l>
                   <l n="06">declared that the leading object of</l>
                   <l n="07">the govt  for whose existence we</l>
@@ -5951,12 +5952,12 @@
                   <l n="11">paths  of laudable pursuit for all,</l>
                   <l n="12"> to afford all an unfettered start</l>
                   <l n="13">&amp;  a fair <hi rend="underline">chance in the race of</hi></l>
-                  <l n="14">life.<quote rend="end"/>                        <bibl corresp="0239_verso_l14_bibl"/>1938</l>
+                  <l n="14">life.<quote corresp="#0239_verso_l04_quote"/>                        <bibl corresp="0239_verso_l14_bibl"/>1938</l>
                   <l n="15">Cecil Beaton's New York   Lippincott<bibl corresp="#0239_verso_l14_bibl"/><note>Beaton, Cecil. <title>Cecil Beaton's New York</title>.Philadelphia: J.B. Lippincott Co, 1938.</note></l>
-                  <l n="16"><quote rend="begin"/>In  few places can one absorb</l>
+                  <l n="16"><quote corresp="0239_verso_l16_quote"/>In  few places can one absorb</l>
                   <l n="17">natural history without tears</l>
                   <l n="18">N. York's Nat. Hist.  mus.</l>
-                  <l n="19">is probably the finest in the world<quote rend="end"/></l>
+                  <l n="19">is probably the finest in the world<quote corresp="#0239_verso_l16_quote"/></l>
                   <l n="20"> </l>
                   <l n="21"><bibl corresp="0239_verso_l21_bibl"/>NY Times  Mag Section Oct 6   '40</l>
                   <l n="22">Machiavelli not so Machiavellian</l>
@@ -5970,17 +5971,17 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0239-recto.jpg"
                   n="0239-recto"/>
                <lg>
-                  <l n="01">of article.  <note>Nevins, Allan. "Machiavelli&#8212;Not so Machiavellian" (see earlier note).</note><quote rend="begin"/>It may be mainly an act</l>
+                  <l n="01">of article.  <note>Nevins, Allan. "Machiavelli&#8212;Not so Machiavellian" (see earlier note).</note><quote corresp="0239_recto_l01_quote"/>It may be mainly an act</l>
                   <l n="02">of faith to assert that the state</l>
                   <l n="03">         should be moral,</l>
                   <l n="04">&amp; that morality in the long run pays.</l>
                   <l n="05">But there is some history already</l>
                   <l n="06">to sustain that view&#8212;and most</l>
                   <l n="07">democrats have faith   that there</l>
-                  <l n="08">will soon be more.<quote rend="end"/></l>
+                  <l n="08">will soon be more.<quote corresp="#0239_recto_l01_quote"/></l>
                   <l n="09">   <bibl corresp="0239_recto_l09_bibl"/>Bishop Stires   Jan 15  1941</l>
                   <l n="10">N Y Times. (retiring)<bibl corresp="#0239_recto_l09_bibl"/><note>"Stires To Retire at 75 Next Year." <title>New York Times</title>(15 January 1941): 14.</note></l>
-                  <l n="11">   <quote rend="begin"/>It was no time <add>^for me</add>to call attention</l>
+                  <l n="11">   <quote corresp="0239_recto_l11_quote"/>It was no time <add>^for me</add>to call attention</l>
                   <l n="12"> to myself&#8212;or leave the post to</l>
                   <l n="13">which you called me. Therefore that</l>
                   <l n="14">paragraph was omitted.</l>
@@ -5991,7 +5992,7 @@
                   <l n="19">bring within our vision the beginning,</l>
                   <l n="20">if not the completion, of a</l>
                   <l n="21">victory for human freedom and</l>
-                  <l n="22">a  just peace for the world.<quote rend="end"/></l>
+                  <l n="22">a  just peace for the world.<quote corresp="#0239_recto_l11_quote"/></l>
                   <l n="23"> </l>
                   <l n="24"> <bibl corresp="0239_recto_l24_bibl"/><hi rend="pencil">Thomas Moffat: Silkwormes</hi></l>
                   <l n="25"><hi rend="pencil">&amp; their Flies  Su Times Jan 12 '41</hi><bibl corresp="#0239_recto_l24_bibl"/><note>Moffat, Thomas. <title>The Silkwormes and Their Flies: lively described in verse</title>(1599), a long poem mentioned in Edward Larocque's "New Editions, Fine &amp; Otherwise," <title>New York Times</title>(12 January 1941): BR21.</note></l>
@@ -6007,7 +6008,7 @@
                   <l n="01"><bibl corresp="0240_verso_l01_bibl"/>Joseph R Sizou  Collegiate Reformed</l>
                   <l n="02">                                         Church</l>
                   <l n="03">  NY Times Sept 22       1940<bibl corresp="#0240_verso_l01_bibl"/></l>
-                  <l n="04">       <quote rend="begin"/><add>(prone)</add></l>
+                  <l n="04">       <quote corresp="0240_verso_l04_quote"/><add>(prone)</add></l>
                   <l n="05"> We are apt to measure the worth of</l>
                   <l n="06">culture by the degree in which it takes</l>
                   <l n="07">hardness out of life.  In proportion</l>
@@ -6025,7 +6026,7 @@
                   <l n="19">generation has fallen in love</l>
                   <l n="20">with  iniquity but that  we</l>
                   <l n="21">won't pay the price for standards</l>
-                  <l n="22">of integrity.<quote rend="end"/></l>
+                  <l n="22">of integrity.<quote corresp="#0240_verso_l04_quote"/></l>
                   <l n="23"> </l>
                   <l n="24" rend="conversation">Mole<note>Nickname for MWM, MM's mother.</note>: Culture ought to be mental</l>
                </lg>
@@ -6042,11 +6043,11 @@
                   <l n="03"><bibl corresp="0240_recto_l03_bibl"/>Sept. 18   1941  NY Times</l>
                   <l n="04">adv. by Doubleday, Doran</l>
                   <l n="05">W Somerset Maugham<bibl corresp="#0240_recto_l03_bibl"/><note>Ad. for W. Somerset Maugham's <title>Strictly Personal. New York Times</title>(18 September 1941): 23.</note></l>
-                  <l n="06"><quote rend="begin"/>If a nation values anything more</l>
+                  <l n="06"><quote corresp="0240_recto_l06_quote"/>If a nation values anything more</l>
                   <l n="07">than freedom, it will lose its freedom;</l>
                   <l n="08">and the irony of it is that if it is</l>
                   <l n="09">comfort or money that it values more,</l>
-                  <l n="10">it will lose that too.              $2.50<quote rend="end"/></l>
+                  <l n="10">it will lose that too.              $2.50<quote corresp="#0240_recto_l06_quote"/></l>
                   <l n="11"> </l>
                   <l n="12"><bibl corresp="0240_recto_l12_bibl"/>Defoe:  The Shortest way with</l>
                   <l n="13">Dissenters&#8212;<add>The Works of</add> Daniel Defoe   volXI</l>
@@ -6055,11 +6056,11 @@
                   <l n="16">The turly Honorable  Colonel Jacque</l>
                   <l n="17">Intro by Grt  Maynadier Howard</l>
                   <l n="18">  MCMV<bibl corresp="#0240_recto_l12_bibl"/><note>Defoe, Daniel. <title>The Works of Daniel Defoe</title>. New York: Jenson Society, 1905.</note>  The Cock             <hi rend="pencil">&amp; the horses</hi></l>
-                  <l n="19">281   <quote rend="begin"/>There being no rocks or other</l>
+                  <l n="19">281   <quote corresp="0240_recto_l19_quote"/>There being no rocks or other</l>
                   <l n="20">conveniences, it seems he was forced</l>
                   <l n="21">to roost on the ground</l>
                   <l n="22">Pray,  gentlefolks,  let us stand still,</l>
-                  <l n="23">   for fear we should <del>tread</del><quote rend="end"/></l>
+                  <l n="23">   for fear we should <del>tread</del></l>
                </lg>
             </div>
          </div>
@@ -6069,14 +6070,14 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0241-verso.jpg"
                   n="0241-verso"/>
                <lg>
-                  <l n="01"><note><title>The Works of Daniel Defoe</title>(see earlier note).</note><quote rend="begin"/>tread upon one another.</l>
+                  <l n="01"><note><title>The Works of Daniel Defoe</title>(see earlier note).</note>tread upon one another.</l>
                   <l n="02">... There are some people <add>....</add>who</l>
                   <l n="03">now they are unperched,</l>
-                  <l n="04">begin to prech up peace.<quote rend="end"/></l>
+                  <l n="04">begin to prech up peace.<quote corresp="#0240_recto_l19_quote"/></l>
                   <l n="05">Apr 25 '42</l>
                   <l n="06"><bibl corresp="0241_verso_l06_bibl"/>David Worcester: The Art of Satire</l>
                   <l n="07">    PREFACE     Harvard U. Press<bibl corresp="#0241_verso_l06_bibl"/><note>Worcester, David. <title>The Art of Satire</title>. Cambridge: Harvard University Press, 1940</note></l>
-                  <l n="08"><quote rend="begin"/>Last &amp; greatest, my obligation to Professor</l>
+                  <l n="08"><quote corresp="0241_verso_l08_quote"/>Last &amp; greatest, my obligation to Professor</l>
                   <l n="09">Hyder Edward Rollins for</l>
                   <l n="10">unremitting counsel &amp; encouragement</l>
                   <l n="11">is such as to deserve Rabelais's</l>
@@ -6096,7 +6097,7 @@
                   <l n="25">123 Irony, the ally of Tragedy</l>
                   <l n="26">   A Greek artist scrupulously refrained</l>
                   <l n="27">from admitting any trace of his</l>
-                  <l n="28">own personality to his work.<quote rend="end"/></l>
+                  <l n="28">own personality to his work.</l>
                </lg>
             </div>
          </div>
@@ -6106,7 +6107,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0241-recto.jpg"
                   n="0241-recto"/>
                <lg>
-                  <l n="01"><note>Worcester, David. <title>The Art of Satire</title>(see earlier note).</note><quote rend="begin"/>....</l>
+                  <l n="01"><note>Worcester, David. <title>The Art of Satire</title>(see earlier note).</note>....</l>
                   <l n="02">Schlegel classes    Shakespeare</l>
                   <l n="03">as a "natural" or objective poet</l>
                   <l n="04">together w. Homer &amp; Moliere &amp; Goethe</l>
@@ -6131,7 +6132,7 @@
                   <l n="23">examples collected by Prof. Robinson</l>
                   <l n="24">is Rosalynd's exclamation in</l>
                   <l n="25">As You Like It.</l>
-                  <l n="26">I was never so berhymed since<quote rend="end"/></l>
+                  <l n="26">I was never so berhymed since</l>
                </lg>
             </div>
          </div>
@@ -6142,18 +6143,18 @@
                   n="0242-verso"/>
                <desc>Spanning lines 24 to 28, in the right margin, MM draws a vertical line.</desc>
                <lg>
-                  <l n="01"><note>Worcester, David. <title>The Art of Satire</title>(see earlier note).</note><quote rend="begin"/>Pythagoras' time, that I was an Irish</l>
+                  <l n="01"><note>Worcester, David. <title>The Art of Satire</title>(see earlier note).</note>Pythagoras' time, that I was an Irish</l>
                   <l n="02">rat, which I can hardly remember.</l>
                   <l n="03">    Early Arabic literature less</l>
                   <l n="04">archaic than Irish, contains the same</l>
-                  <l n="05">mixture of incantation &amp; literary satire, ... <quote rend="end"/></l>
+                  <l n="05">mixture of incantation &amp; literary satire, ... <quote corresp="#0241_verso_l08_quote"/></l>
                   <l n="06"> </l>
                   <l n="07"><bibl corresp="0242_verso_l07_bibl"/>Some Observations on Eighteenth c</l>
                   <l n="08">Poetry by David Nichol Smith</l>
                   <l n="09">Merton Professor of English Lit in the U of</l>
                   <l n="10">Oxford.      Ox. U. Press.    1937<bibl corresp="#0242_verso_l07_bibl"/><note>Smith, David Nichol. <title>Some Observations on Eighteenth-Century Poetry</title>. Oxford: Oxford University Press, 1937.</note></l>
                   <l n="11">                   ________</l>
-                  <l n="12">        <quote rend="begin"/>The Heroic Couplet Johnson  p. 37</l>
+                  <l n="12">        <quote corresp="0242_verso_l12_quote"/>The Heroic Couplet Johnson  p. 37</l>
                   <!--I have replaced the curly braces with square brackets to match the image description for line 13. EF! -->
                   <l n="13">             [Vanity of Human Wishes]</l>
                   <l n="14"> Pope had chosen Horace, &amp; Johnson</l>
@@ -6172,7 +6173,7 @@
                   <l n="25">p. 13  Pope.  Be clever if you like</l>
                   <l n="26">but beware of trying to be cleverer</l>
                   <l n="27">than you are, for that is the sure</l>
-                  <l n="28"> way to be dull. Do not use too many<quote rend="end"/></l>
+                  <l n="28"> way to be dull. Do not use too many</l>
                </lg>
             </div>
          </div>
@@ -6182,7 +6183,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0242-recto.jpg"
                   n="0242-recto"/>
                <lg>
-                  <l n="01"><note>Smith, David Nichol. <title>Some Observations on Eighteenth-Century Poetry</title>(see earlier note).</note><quote rend="begin"/>words.<quote rend="end"/></l>
+                  <l n="01"><note>Smith, David Nichol. <title>Some Observations on Eighteenth-Century Poetry</title>(see earlier note).</note>words.<quote corresp="#0242_verso_l12_quote"/></l>
                   <l n="02">The Alexander Lectures at Oxford</l>
                   <l n="03"> </l>
                   <l n="04"><bibl corresp="0242_recto_l04_bibl"/>"Cain's Jaw Bone that Did the <del>f</del>First</l>
@@ -6193,7 +6194,7 @@
                   <l n="09"><hi rend="pencil">      ch 3-3576</hi></l>
                   <l n="10"><hi rend="black">Publd by the College Art Assoc of Amer.<bibl corresp="#0242_recto_l04_bibl"/><note>Schapiro, Meyer. Cain's Jaw-Bone that Did the First Murder." <title>Art Bulletin</title>, vol. 24, no. 3 (September 1942): 205-212.</note></hi></l>
                   <l n="11"> </l>
-                  <l n="12">240: <quote rend="begin"/>In the oldest Anglo-Saxon reference</l>
+                  <l n="12">240: <quote corresp="0242_recto_l12_quote"/>In the oldest Anglo-Saxon reference</l>
                   <l n="13">to Cain's use of the jaw-bone, the</l>
                   <l n="14">Anglo-Saxon prose<hi rend="underline">Solomon &amp; Saturn</hi></l>
                   <l n="15">it is called<hi rend="underline">cin bán</hi>. Now Cain</l>
@@ -6208,7 +6209,7 @@
                   <l n="24">212. Hamlet hears the grave-digger</l>
                   <l n="25">sing   "  " the jaw belongs to man</l>
                   <l n="26">&amp; ass; it is an instrument of both</l>
-                  <l n="27">murder &amp; speech, of the animal<quote rend="end"/></l>
+                  <l n="27">murder &amp; speech, of the animal</l>
                </lg>
             </div>
          </div>
@@ -6218,7 +6219,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0243-verso.jpg"
                   n="0243-verso"/>
                <lg>
-                  <l n="01"><note>Schapiro, Meyer. "Cain's Jaw-Bone that Did the First Murder" (see earlier note).</note><quote rend="begin"/>and the rational, the alternative</l>
+                  <l n="01"><note>Schapiro, Meyer. "Cain's Jaw-Bone that Did the First Murder" (see earlier note).</note>and the rational, the alternative</l>
                   <l n="02">that obsesses Hamlet himself</l>
                   <l n="03">   who must kill his own</l>
                   <l n="04">kin. But the skull which he</l>
@@ -6237,12 +6238,12 @@
                   <l n="17">as a descendant of Cain.</l>
                   <l n="18">... in English, in older Xtan &amp;</l>
                   <l n="19">Jewish tradition, Cain is the</l>
-                  <l n="20">son of hte devil. <quote rend="end"/></l>
+                  <l n="20">son of the devil. <quote corresp="#0242_recto_l12_quote"/></l>
                   <l n="21"><bibl corresp="0243_verso_l21_bibl"/>CARTOON   Times   2 May 1943</l>
                   <l n="22">  George Whiteland   London Daily Herald</l>
                   <l n="23"> </l>
-                  <l n="24">Hitler changes the tune.<bibl corresp="#0243_verso_l21_bibl"/><note>"Hitler Changes the Tune." <title>New York Times</title>(2 May 1943): E4.</note><quote rend="begin"/>Now</l>
-                  <l n="25">that you have mastered the<quote rend="end"/></l>
+                  <l n="24">Hitler changes the tune.<bibl corresp="#0243_verso_l21_bibl"/><note>"Hitler Changes the Tune." <title>New York Times</title>(2 May 1943): E4.</note><quote corresp="0243_verso_l24_quote"/>Now</l>
+                  <l n="25">that you have mastered the</l>
                </lg>
             </div>
          </div>
@@ -6272,8 +6273,8 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0244-recto.jpg"
                   n="0244-recto"/>
                <lg>
-                  <l n="01"><note>"Hitler Changes the Tune" (see earlier note).</note><quote rend="begin"/>goose-step we will proceed to the</l>
-                  <l n="02">swan song.<quote rend="end"/></l>
+                  <l n="01"><note>"Hitler Changes the Tune" (see earlier note).</note>goose-step we will proceed to the</l>
+                  <l n="02">swan song.<quote corresp="#0243_verso_l24_quote"/></l>
                   <l n="03">  _____________</l>
                   <l n="04">   May 17 1943</l>
                   <l n="05"><bibl corresp="0244_recto_l05_bibl"/>He Loved to Build with Words.</l>
@@ -6281,15 +6282,15 @@
                   <l n="07"> speeches, essays, letters etc intro.</l>
                   <l n="08">&amp; commentary by Max Lerner</l>
                   <l n="09">Little, Brown &amp; Co. $4<hi rend="superscript">00</hi><bibl corresp="#0244_recto_l05_bibl"/><note>Hamilton, Walt. "He Loved to Build with Words." Rev. of <title>The Mind &amp; Faith of Justice Holmes</title>. New York Times (16 May 1943): BR5.</note></l>
-                  <l n="10"><quote rend="begin"/>... as Holmes said of the theatre</l>
+                  <l n="10"><quote corresp="0244_recto_l10_quote"/>... as Holmes said of the theatre</l>
                   <l n="11">"to many people the superfluous</l>
-                  <l n="12">is the necessary <del>,</del>"....<quote rend="end"/></l>
+                  <l n="12">is the necessary <del>,</del>"....<quote corresp="0244_recto_l10_quote"/></l>
                   <l n="13"><bibl corresp="0244_recto_l13_bibl"/>A Short Life of Kierkegaard</l>
                   <!-- Should title read Stranger or Strange? JW! --><l n="14">F. Walter Lowrie. Princeton U Press<bibl corresp="#0244_recto_l13_bibl"/><note>Holmes, John Haynes. "Stranger Thinker's Story." Rev. of Lowrie, F. Walter. <title>A Short Life of Kierkegaard. New York Herald Tribune</title>(16 May 1943): G20.</note></l>
-                  <l n="15"><quote rend="begin"/>275. In one place he refers to</l>
+                  <l n="15"><quote corresp="0244_recto_l15_quote"/>275. In one place he refers to</l>
                   <!--I have replaced the curly braces with square brackets to match the image description for line 16. EF! -->
                   <l n="16">his work [Lowries] as a scholium</l>
-                  <l n="17">{explanatory note Webster's Dic.}<quote rend="end"/></l>
+                  <l n="17">{explanatory note Webster's Dic.}<quote corresp="#0244_recto_l15_quote"/></l>
                   <l n="18">Herald Trib. 16 May, 1943</l>
                   <l n="19"> </l>
                   <l n="20"><hi rend="blue"><bibl corresp="0244_recto_l20_bibl"/>NY Times 10 Oct '43   Amer. Polit. Parties</hi></l>
@@ -6305,7 +6306,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0245-verso.jpg"
                   n="0245-verso"/>
                <lg>
-                  <l n="01"><note>Bridenbaugh, Carl. "History of Vote-Getting in America" (see earlier note).</note><quote rend="begin"/><hi rend="blue">The Great American Political Chieftains</hi></l>
+                  <l n="01"><note>Bridenbaugh, Carl. "History of Vote-Getting in America" (see earlier note).</note><quote corresp="0245_verso_l01_quote"/><hi rend="blue">The Great American Political Chieftains</hi></l>
                   <l n="02"><hi rend="blue">have contrived the realization that politics</hi></l>
                   <l n="03"><hi rend="blue">functions quid pro quo&#8212;   w the</hi></l>
                   <l n="04"><hi rend="blue">abil. to become perfect interpreters</hi></l>
@@ -6313,23 +6314,23 @@
                   <l n="06"><hi rend="blue"> the French Revolution, hearing a</hi></l>
                   <l n="07"><hi rend="blue">tumult outside, exclaimed "There</hi></l>
                   <l n="08"><hi rend="blue">goes the mob. I am their leader</hi></l>
-                  <l n="09"><hi rend="blue">&amp; must follow."</hi><quote rend="end"/></l>
+                  <l n="09"><hi rend="blue">&amp; must follow."</hi><quote corresp="#0245_verso_l01_quote"/></l>
                   <l n="10">          same Times</l>
                   <l n="11"><bibl corresp="0245_verso_l11_bibl"/>growth of American thought By Merle Curti</l>
                   <l n="12"> Harper. Rev. by Julian Boyd.<bibl corresp="#0245_verso_l11_bibl"/><note>Boyd, Julia P. "Our Cultural Pattern." Rev of <title>The Growth of American Thought</title>by Merle Curti.<title>New York Times</title>(10 October 1943): BR5.</note></l>
-                  <l n="13"><quote rend="begin"/>In 1769 a Harvard disputation</l>
+                  <l n="13"><quote corresp="0245_verso_l13_quote"/>In 1769 a Harvard disputation</l>
                   <l n="14">decided in the affirmative the question</l>
                   <l n="15">whether reptiles in Amer originated</l>
                   <l n="16">w those preserved by Noah. In the</l>
                   <l n="17">30th an elder statesman denied</l>
                   <l n="18">before the whole nation that man was a</l>
-                  <l n="19">mammal.<quote rend="end"/></l>
+                  <l n="19">mammal.<quote corresp="#0245_verso_l13_quote"/></l>
                   <l n="20">                                                   <bibl corresp="0245_verso_l20_bibl"/>ed. page.</l>
                   <l n="21">NY Times  Apr. 18    1935<bibl corresp="#0245_verso_l20_bibl"/><note>"The Poet Whewell."<title>New York Times</title>(19 April 1935): 20.</note></l>
-                  <l n="22"><quote rend="begin"/>Whewells'  Elementary Treatise on Mechanics</l>
-                  <l n="23">In teh chapter on The Equilibrium   1819</l>
+                  <l n="22"><quote corresp="0245_verso_l22_quote"/>Whewells'  Elementary Treatise on Mechanics</l>
+                  <l n="23">In the chapter on The Equilibrium   1819</l>
                   <l n="24">of Forces on a Point occurs the</l>
-                  <l n="25">unexpected poem in the garb of prose: <quote rend="end"/></l>
+                  <l n="25">unexpected poem in the garb of prose: </l>
                </lg>
             </div>
          </div>
@@ -6339,7 +6340,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0245-recto.jpg"
                   n="0245-recto"/>
                <lg>
-                  <l n="01" rend="verse"><note>"The Poet Whewell" (see earlier page).</note><quote rend="begin"/>Hence no force however great can</l>
+                  <l n="01" rend="verse"><note>"The Poet Whewell" (see earlier page).</note>Hence no force however great can</l>
                   <l n="02" rend="verse">stretch a cord however fine</l>
                   <l n="03" rend="verse"/>
                   <l n="04" rend="verse">into a horizontal line</l>
@@ -6355,7 +6356,7 @@
                   <l n="14">   1794-1866&#8212;Prof. Minerology Whewell</l>
                   <l n="15"><del>at U. of Cambridge</del>&amp;<del>Casuitical</del>Casuistical</l>
                   <l n="16">Divinity at the U. of Cambridge, best</l>
-                  <l n="17">known by his history of inductive sciences<quote rend="end"/></l>
+                  <l n="17">known by his history of inductive sciences<quote corresp="#0245_verso_l22_quote"/></l>
                </lg>
             </div>
          </div>
@@ -6406,7 +6407,7 @@
                   n="0248-verso"/>
                <desc>span lines 23-19, left margin</desc>
                <lg>
-                  <l n="01"><hi rend="pencil"><quote rend="begin"/>Watkins, JR</hi></l>
+                  <l n="01"><hi rend="pencil"><quote corresp="0248_verso_l01_quote"/>Watkins, JR</hi></l>
                   <l n="02"><hi rend="pencil">                 Camphor</hi></l>
                   <l n="03"><hi rend="pencil">Compound Cream of</hi></l>
                   <l n="04"><hi rend="pencil">The JR. Watkin's Co</hi></l>
@@ -6424,7 +6425,7 @@
                   <l n="16"><hi rend="pencil">              8, 23, 32 Frank Nay</hi></l>
                   <l n="17"><hi rend="pencil">     324 Alden St near 6<hi rend="superscript">th</hi> St</hi></l>
                   <l n="18"><hi rend="pencil">             Portland, Ore.</hi></l>
-                  <l n="19"><hi rend="pencil">     apply constantly<quote rend="end"/></hi></l>
+                  <l n="19"><hi rend="pencil">     apply constantly<quote corresp="#0248_verso_l01_quote"/></hi></l>
                   <l n="20"><hi rend="pencil"/>   _____________________</l>
                   <l n="21"><hi rend="pencil">Dale Carnegie Public</hi></l>
                   <l n="22"><hi rend="pencil">           Speaking and</hi></l>
@@ -6459,7 +6460,7 @@
                   facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_02_0249-recto.jpg"
                   n="0249-recto"/>
                <lg>
-                  <l n="01"><hi rend="pencil"><quote rend="begin">Bruce Humphries</quote></hi></l>
+                  <l n="01"><hi rend="pencil"><quote corresp="0249_recto_l01_quote"/>Bruce Humphries<quote corresp="#0249_recto_l01_quote"/></hi></l>
                   <l n="02"><hi rend="pencil"><hi rend="underline">470 Stuart St.</hi></hi><note>A fragmentary scrap found in the pages of this notebook.</note></l>
                </lg>
             </div>
