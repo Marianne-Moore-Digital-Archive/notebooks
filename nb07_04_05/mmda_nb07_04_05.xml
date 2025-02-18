@@ -1,13 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
-<?xml-model href="tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="tei_mmda.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
--->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="tei_mmda.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Notebook 07.04.05 EDITS</title>
+                <title>Notebook 07.04.05</title>
                 <author>Marianne Moore</author>
                 <editor>
                     <persName>Elizabeth Gregory</persName><note>Notebook Editor, November 5, 2015 - April 25, 2021</note>
@@ -681,7 +676,7 @@
                     <l n="07" rend="verse">                <hi rend="red">not</hi></l>
                     <l n="08" rend="verse"> <hi rend="red">It is <del>not</del> personal or  general</hi></l>
                     <l n="09" rend="verse">       <hi rend="red">It   the ball it is the way the ball</hi></l>
-                    <l n="10">    <hi rend="red">_______________________________</hi></l>
+                    <l n="10" rend="verse">    _______________________________</l>
                     <l n="11" rend="verse">         <hi rend="red">behaves <del>and</del> for the individual</hi></l>
                     <l n="12" rend="verse">        you might say— a</l>
                     <l n="13" rend="verse">          <hi rend="red">a—diamond—   miracle</hi></l>
@@ -724,8 +719,8 @@
                 </lg>
                 <lg>
                     <l n="01">          <hi rend="red">a parody of course</hi><note>MM drafts toward "Baseball and Writing."</note></l>
-                    <l n="02">                      <hi rend="red">?  at source</hi></l>
-                    <l n="03">           <hi rend="red">but a eulog<del>log</del>ergy </hi> <del>perforce</del></l>
+                    <l n="02">                           ?  at source</l>
+                    <l n="03">           <hi rend="red">but a eulog<del>log</del></hi>erg<hi rend="red">y   <del>perforce</del></hi></l>
                     <l n="04">                  excitement</l>
                     <l n="05">  		                    	     <hi rend="red">the source</hi></l>
                     <l n="06"> Title: <hi rend="underline">Writing &amp; Baseball</hi>      <hi rend="pencil">that circumstances</hi></l>
@@ -764,7 +759,9 @@
                     letters to clarify with red pen; line
                     35, MM circles "of me".</desc>
                 <lg type="vertical">
-                    <l n="v01"><!-- spans page on left margin, in 5 rows of script --> Clenching a tough hard tight fist  puma-pawed mitt—protected / [In <del>flowery</del> parlance "bust it in there"] at plate  Howard /	<hi rend="red">They get enjoyment / from / it</hi></l>
+                    <l n="v01"><!-- spans page on left margin -->Clenching a tough hard tight fist  puma-pawed mitt—protected</l>
+                    <l n="v02"><!-- spans page on left margin -->[In <del>flowery</del> parlance "bust it in there"] at plate  Howard</l>
+                    <l n="v03"><!-- spans page on left margin -->	<hi rend="red">They get enjoyment / from / it</hi></l>
                 </lg>
                 <lg>
                     <l n="01" rend="verse">         An adastrium of runs<note>MM drafts toward "Baseball and Writing."</note>                                                    <hi rend="blue">17</hi></l>
@@ -4093,7 +4090,10 @@
                     "disorganized" in line 06; she circles
                     "not" in pencil, line 14.</desc>
                 <lg type="vertical">
-                    <l n="v01"><!-- span lines 33-01, left margin, in four rows of script --><hi rend="blue">past text past substance / What makes substance worth while </hi> <hi rend="pencil">Reprint as a service convenience to one's self or others / and in what light a service </hi>/<hi rend="blue">I remember? why not as a revenge as a <del>spur</del>spur <del>or performe</del>mem<gap extent="3" resp="eg"/>.</hi></l>
+                    <l n="v01"><!-- left margin --><hi rend="blue">past text past substance</hi></l>
+                    <l n="v02"><!-- left margin --><hi rend="blue">What makes substance worth while</hi> <hi rend="pencil">Reprint as a service convenience to one's self or others</hi></l>
+                    <l n="v03"><!-- left margin -->                               <hi rend="pencil">and in what light a service </hi></l>
+                    <l n="v04"><!-- left margin --><hi rend="blue">I remember? why not as a revenge as a <del>spur</del> spur <del>or performe</del>  mem<gap extent="3" resp="eg"/>.</hi></l>
                 </lg>
                 <lg>
                     <l n="01"> 					                          <hi rend="pencil">diagrammed but explained</hi></l>
@@ -4192,7 +4192,9 @@
             <div type="image" xml:id="nb07_04_05_0128_text">
                 <pb facs="nb07_04_05_0128_verso.jpg"/>
                 <lg type="vertical">
-                    <l n="v01"><!-- Left margin, span 27-01, in three rows of script -->Born in Danbury. Father a bandmaster / in Grant's army. Grant to A Lincoln - Enjoy the music? I can't tell / I know 2 tunes, one is Yankee D. &amp; the other isn't. Which one did the band play?<note>Charles Ives's father conducted the Civil War band on that occasion.</note></l>
+                    <l n="v01"><!-- Left margin -->Born in Danbury. Father a bandmaster</l>
+                    <l n="v02"><!-- Left margin -->in Grant's army. Grant to A Lincoln - Enjoy the music? I can't tell </l>
+                    <l n="v03"><!-- Left margin -->I know 2 tunes, one is Yankee D. &amp; the other isn't. Which one did the band play?<note>Charles Ives's father conducted the Civil War band on that occasion.</note></l>
                 </lg>
                 <lg>
                     <l n="01"> <seg type="genre-read-begin"/> <bibl type="begin"/>NY Times   Aug. 19 1960   Class for Politicians<bibl type="end"/><note>Benjamin, Philip. "TV-Manship Lesson for Politicians: How to Project Sincerity Imagewise." <title>New York Times</title>  (August 19, 1960): 25.</note></l>
@@ -4241,10 +4243,10 @@
                     <l n="02">  Cover<note>Van Houten, Norbert [dates unknown], designed the cover of the Rome Olympics issue of<title>Newsweek</title>. MM cites the description of his work in the masthead.</note>   Norbert van Houten has painted the</l>
                     <l n="03">    5 interlocking r<del>ings</del>   Olympic rings against</l>
                     <l n="04">    the Italian flag &amp; symbolic discus thrower</l>
-                    <l n="05">  p. 9  "A Well-Informed Public Is America's</l>
+                    <l n="05"> p. 9  "A Well-Informed Public Is America's</l>
                     <l n="06">   Greatest Security"<note>                            <title>Newsweek</title>  motto.</note>   Cf NY Times. "All</l>
                     <l n="07">    the news that's fit to print."<note><title>New York Times</title>  motto.</note></l>
-                    <l n="08">  37    The Travellers Ins Companies</l>
+                    <l n="08"> 37    The Travellers Ins Companies</l>
                     <l n="09">   One man, one plan, one monthly check to pay—</l>
                     <l n="10">   that's the modern Travelers way!"</l>
                     <l n="11">   Shelter for yr whole way of life" <hi rend="blue">(</hi>giant</l>
@@ -4254,7 +4256,7 @@
                     <l n="15">  Swiss National Tourist Office (photographs)</l>
                     <l n="16">  Northern Pacific Railway   Route of the Vista Dome</l>
                     <l n="17">   North Coast Limited</l>
-                    <l n="18"> __________________________________________</l>
+                    <l n="18">   _________________________________________</l>
                     <l n="19">   Santa Fe  For shipping logs or hogs or catalogs</l>
                     <l n="20">  <bibl type="begin"/>Newsweek    The better way is Santa Fe</l>
                     <l n="21">   Aug 22<bibl type="end"/><note>MM cites ads for Santa Fe Railway, First National City Bank, and Bankers Trust Company (p. 44, 58, 1) and sketches logo for Santa Fe RR.</note></l>
@@ -4262,8 +4264,8 @@
                     <l n="23">       view of island fr a plane  Are you overlooking</l>
                     <l n="24">      opportunities in greater NY?</l>
                     <l n="25">  22 Banker's Trust  no pun—more sincere</l>
-                    <l n="26">	Today's most perplexing pension problem   To invest</l>
-                    <l n="27">  today's benefits to compensate for changes in <del>tomorrow's</del>                        <seg type="genre-read-end"/></l>
+                    <l n="26">  Today's most perplexing pension problem   To invest</l>
+                    <l n="27">  today's benefits to compensate for changes in <del>tomorrow's</del><seg type="genre-read-end"/></l>
                 </lg>
                 <lg type="vertical">
                     <l n="v01"><!-- Span lines 27-12, right margin -->                                 in purchasing power &amp; living standards</l>
