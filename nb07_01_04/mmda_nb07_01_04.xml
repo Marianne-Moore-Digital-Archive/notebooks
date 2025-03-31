@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="tei_mmda.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<!--<?xml-model href="tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei_mmda.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Notebook 07.01.04</title>
-            <title type="rosenbach">Notebook VII.01.04</title>
+            <title type="rosenbach">Notebook
+               VII.01.04</title>
             <author>Marianne Moore</author>
             <respStmt>
                <persName>Cristanne Miller</persName>
@@ -24,7 +27,8 @@
             </respStmt>
             <respStmt>
                <persName>Abhipsa Charkraborty</persName>
-               <resp>Assistant Technical Project Manager</resp>
+               <resp>Assistant Technical Project
+                  Manager</resp>
             </respStmt>
             <respStmt>
                <persName>Girija Polamreddy</persName>
@@ -40,22 +44,35 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <p>Digital Edition Published: October 3, 2022</p>
-            <p>For research purposes only. Do not republish or distribute images or transcriptions
-               from this edition without the permission of the Literary Estate of Marianne Moore.
-               All rights reserved by the Literary Estate of Marianne Moore. Please contact the MMDA
-               Director to inquire about the permissions required for specific materials on the
-               site, or for information about how to contact the Moore Estate.</p>
+            <p>Digital Edition Published: October 3,
+               2022</p>
+            <p>For research purposes only. Do not republish
+               or distribute images or transcriptions from
+               this edition without the permission of the
+               Literary Estate of Marianne Moore. All rights
+               reserved by the Literary Estate of Marianne
+               Moore. Please contact the MMDA Director to
+               inquire about the permissions required for
+               specific materials on the site, or for
+               information about how to contact the Moore
+               Estate.</p>
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <note>This notebook has no extant cover or binding but consists of loose pages. The
-                  dates run from approximately 1934 to 1940. The genre is poetry throughout, with
-                  the exception of several pages (image number 23/PW32-image number 25/PW34) of
-                  transcription from a source text on Captain John Smith. Several pages have a
-                  vertical line drawn straight down through all writing on the page, or varieties of
-                  straight or slanted lines, perhaps to indicate that Moore has gone back through
-                  this material. The notebook is written predominantly in pencil. </note>
+               <note>This notebook has no extant cover or
+                  binding but consists of loose pages. The
+                  dates run from approximately 1934 to 1940.
+                  The genre is poetry throughout, with the
+                  exception of several pages (image number
+                  23/PW32-image number 25/PW34) of
+                  transcription from a source text on
+                  Captain John Smith. Several pages have a
+                  vertical line drawn straight down through
+                  all writing on the page, or varieties of
+                  straight or slanted lines, perhaps to
+                  indicate that Moore has gone back through
+                  this material. The notebook is written
+                  predominantly in pencil. </note>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -997,8 +1014,8 @@
                   <l n="17"/>
                   <l n="18">   In a short time I received a letter<quote type="end"/></l>
                </lg>
-            </div>
-         <!-- NW: vertical line v01 should be rezoned to include the entire line (we merge multiple lines on vertical "lines" using slash marks, the text zone should the include the 
+            </div>         
+<!-- NW: vertical line v01 should be rezoned to include the entire line (we merge multiple lines on vertical "lines" using slash marks, the text zone should the include the 
                 whole passage as indicated in the l@n=v01 element -->
          <div type="image" xml:id="nb07_01_04_0043_text">
             <pb facs="nb07_01_04_0043_recto.jpg"/>
@@ -1017,8 +1034,7 @@
                   <l n="08">  try out With New york Gints nex season.</l>
                   <l n="09">   all roun atelletic and Price Fiter and Hav</l>
                   <l n="10">   fite in ringe and defete Som<del>e</del> best none</l>
-                  <l n="11">   Puglists in New eng.   Sen   transfortason</l>didst
-                  
+                  <l n="11">   Puglists in New eng.   Sen   transfortason</l><!-- there was an orphaned word "didst" encoded here outside of this line, but I couldn't find it on the page, needs to be rechecked, NW 3-31-2025 -->                  
                   <l n="12">   and wil com imediately</l>
                   <l n="13">                    yors    "dead rabbit" w clippers</l>
                   <l n="14">        His hair had been cut</l>
