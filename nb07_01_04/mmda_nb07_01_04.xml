@@ -107,10 +107,10 @@
                   <l n="01">                  Marianne Moore</l>
                   <l n="02">                  14 St. Luke's Place.</l>
                   <l n="03">                  N.Y.C.</l>
-                  <l n="04">                          Book III</l>
+                  <l n="04">                          <bibl corresp="nb07_01_04_0003_l04_bibl"/>Book III</l>
                   <l n="05"><hi rend="pencil">The Law of the Sea</hi></l>
-                  <l n="06"><hi rend="pencil">  George Canfield</hi><bibl/></l>
-                  <l n="07"><hi rend="pencil">Appleton   1921</hi><note>Canfield, George, George W. Dalzell, and Jasper Yeates Brinton. The Law of the Sea: A Manual of the Principles of Admiralty Law For Students, Mariners and Ship Operators. NY and London: D. Appleton &amp; Company, 1921.</note></l>
+                  <l n="06"><hi rend="pencil">  George Canfield</hi></l>
+                  <l n="07"><hi rend="pencil">Appleton   1921</hi><bibl corresp="#nb07_01_04_0003_l04_bibl"/><note>Canfield, George, George W. Dalzell, and Jasper Yeates Brinton. The Law of the Sea: A Manual of the Principles of Admiralty Law For Students, Mariners and Ship Operators. NY and London: D. Appleton &amp; Company, 1921.</note></l>
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0004_text">
@@ -125,7 +125,7 @@
                   <l n="01">                                                                Jan.</l>
                   <l n="02">W L George<note target="georgeLionel">George, Lionel Walter [1882-1926]. British author known for his popular fiction and writings on feminism. Author of The Intelligence of Woman (1916).</note><bibl>    Art of Courtship.  Harper's 1923</bibl><note>George, Lionel Walter. "The Art of Courtship." <hi rend="italic">Harper's Bazar</hi> (January 1923): 212-218.</note></l>
                   <l n="03">            (Generalizations on courtship)</l>
-                  <l n="04"> <quote type="begin"/>They do not apply to super emotional people,</l>
+                  <l n="04"> <quote corresp="nb07_01_04_0005_l04_quote"/>They do not apply to super emotional people,</l>
                   <l n="05">to artists, . . or to the unduly intellectual</l>
                   <l n="06"> Such monsters must look after themselves</l>
                   <l n="07"> in the lists of love. . . . Success today</l>
@@ -152,7 +152,7 @@
                   <l n="28"> of the voice, an eloquence of the glance</l>
                   <l n="29"> a dramatic mixture of audacity and</l>
                   <l n="30"> confusion. It had best be let –</l>
-                  <l n="31"> alone.<quote type="end"/></l>
+                  <l n="31"> alone.<quote corresp="#nb07_01_04_0005_l04_quote"/></l>
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0006_text">
@@ -228,9 +228,9 @@
          <div type="image" xml:id="nb07_01_04_0009_text">
             <pb facs="nb07_01_04_0009_recto.jpg"/>
                <lg>
-                  <l n="01"> <quote type="begin"/>grows dangerously enchanting–a hasty adieu–<quote type="end"/><note>Tappé, Herman Patrick. "The Encroaching Gulf Stream" (see earlier note).</note></l>
+                  <l n="01"> <quote corresp="nb07_01_04_0009_l01_quote"/>grows dangerously enchanting–a hasty adieu–<quote corresp="#nb07_01_04_0009_l01_quote"/><note>Tappé, Herman Patrick. "The Encroaching Gulf Stream" (see earlier note).</note></l>
                   <l n="02">                                                                                        3</l>
-                  <l n="03"> <hi rend="pencil">Punch  Dec 13<bibl rend="end source"/>   <quote type="begin"/>Aunt  Did  I  hear you greet yr friend</hi></l>
+                  <l n="03"> <hi rend="pencil"><bibl corresp="nb07_01_04_0009_l03_bibl"/>Punch  Dec 13<bibl corresp="#nb07_01_04_0009_l03_bibl"/>   <quote type="begin"/>Aunt  Did  I  hear you greet yr friend</hi></l>
                   <l n="04">    <hi rend="pencil">w H<del>e</del>ullo old Rip? I don't think its very nice.</hi></l>
                   <l n="05">    <hi rend="pencil">Niece  No no not rip–rep–S<del>a</del>uch a mouthful to say</hi></l>
                   <l n="06"> <hi rend="pencil">reptile every time</hi><quote type="end"/></l>
