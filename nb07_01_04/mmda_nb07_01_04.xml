@@ -181,7 +181,7 @@
          <div type="image" xml:id="nb07_01_04_0007_text">
             <pb facs="nb07_01_04_0007_recto.jpg"/>
                <lg>
-                  <l n="01"> <note>"The Art of Courtship" (see earlier note).</note><quote type="begin"/>to get more into one's life, but they seldom allow one to get</l>
+                  <l n="01"> <note>"The Art of Courtship" (see earlier note).</note><quote corresp="nb07_01_04_0007_l01_quote"/>to get more into one's life, but they seldom allow one to get</l>
                   <l n="02"> as much out. If he varies his suggestions he ceases to be                      2</l>
                   <l n="03"> Dick who-takes-me to the theater . . . . . There is, it is true, an advanced</l>
                   <l n="04"> course for lovers, where habits are intentionally formed, so that</l>
@@ -198,7 +198,7 @@
                   <l n="15"> the 2<hi rend="superscript">nd</hi> being very English. They shd be varied. The</l>
                   <l n="16"> 2<hi rend="superscript">nd</hi> &amp; English suggestion is: don't overdo it. Gifts are</l>
                   <l n="17"> made rare mainly by their rarity. Confidences are</l>
-                  <l n="18"> essential but they shld be calculated. The lover <del>shld</del><quote type="end"/></l>
+                  <l n="18"> essential but they shld be calculated. The lover <del>shld</del><quote corresp="#nb07_01_04_0007_l01_quote"/></l>
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0008_text">
@@ -214,8 +214,8 @@
                   <l n="08">(All his</l>
                   <l n="09">    observations are in accordance w <hi rend="shorthand_the">the</hi> laws of psychology but he</l>
                   <l n="10">    rottenizes it all.)<quote type="end"/></l>
-                  <l n="11">        <bibl type="begin"/>Harper's. Bazar    Jan 1923            Tappé<note target="tappe">Tappé, Herman Patrick [1876-1954]. American clothes designer, social advisor, and interior decorator.</note></l>
-                  <l n="12">    The Encroaching gulf Stream.<bibl type="end"/><note>Tappé, Herman Patrick. "The Encroaching Gulf Stream." <hi rend="underline">Harper's Bazaar</hi> (January 1923).</note></l>
+                  <l n="11">        <bibl corresp="nb07_01_04_0008_l11_bibl"/>Harper's. Bazar    Jan 1923            Tappé<note target="tappe">Tappé, Herman Patrick [1876-1954]. American clothes designer, social advisor, and interior decorator.</note></l>
+                  <l n="12">    The Encroaching gulf Stream.<bibl corresp="#nb07_01_04_0008_l11_bibl"/><note>Tappé, Herman Patrick. "The Encroaching Gulf Stream." <hi rend="underline">Harper's Bazaar</hi> (January 1923).</note></l>
                   <l n="13">      <quote type="begin"/>. . . But the stream itself, as it draws nearer,</l>
                   <l n="14">    may we not discover exotic flotsam surprising</l>
                   <l n="15">    jetsam? A bathing suit of silver for example, fr <hi rend="shorthand_the">the</hi></l>
