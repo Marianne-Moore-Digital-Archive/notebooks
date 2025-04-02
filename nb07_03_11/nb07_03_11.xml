@@ -1,24 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<!-- Needs new decalarations for our updated schema files -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Notebook 07.03.11 (Draft
-               Conversion)</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Publication Information</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Information about the source</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text xml:id="nb07_03_11.xml" rend="read">
+<?xml-model href="tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="tei_mmda.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Notebook 07.03.11 (Draft Conversion)</title>
+                <author>Marianne Moore</author>
+                <editor>
+                    <persName>Cristanne Miller</persName><note>Notebook Editor</note>
+                    </editor>
+                <editor>
+                    <persName>Nikolaus Wasmoen,</persName>
+                    <note>Digital Editor</note>
+                </editor>
+                <respStmt>
+                    <persName>Edward J. Sobczak,</persName>
+                    <resp>Web Administrator</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Marianne Moore Digital Archive
+                    (moorearchive.org)</publisher>
+                <date>[2022]</date>
+                <availability>
+                    <licence>[License info]</licence>
+                </availability>
+                <idno>07.03.11</idno>
+                <date>19XX – 19XX</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository> Marianne Moore
+                            Collection, Rosenbach Museum and
+                            Library, Philadelphia, PA
+                            (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
+                        <idno>VII.03.11</idno>
+                    </msIdentifier>
+                    <p>TBD</p>
+                    <!-- Editorial Note: 
+                        For ease of proofing, I mark passages written vertically or in clusters independent of regular 
+                        horizontal lineation in green, or if additional colors are needed to distinguish, blue, red or 
+                        yellow. MM’s use of ditto marks will be replicated as "—that is, by a single set of quotation 
+                        marks.
+                    -->
+                    <p>TBD</p>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <!-- ModNets RDF 
+            
+            <encodingDesc>
+            <classDecl>
+                <taxonomy source="https://arc-staging.dh.tamu.edu/index.php/Submitting_RDF">
+                    <category source="collex" xml:id="discipline">
+                        <catDesc>Literature</catDesc>
+                        <catDesc>Manuscript Studies</catDesc>
+                    </category>
+                    <category source="collex" xml:id="genre">
+                        <catDesc>Advertisement</catDesc>
+                        <catDesc>Criticism</catDesc>
+                        <catDesc>Ephemera</catDesc>
+                        <catDesc>Poetry</catDesc>
+                        <catDesc>Religion</catDesc>
+                        <catDesc>Review</catDesc>
+                        <catDesc>Speech</catDesc>
+                        <catDesc>Visual Art</catDesc>
+                    </category>
+                    <category source="collex" xml:id="thumbnail">
+                        <catDesc>[thumbnail image URL for notebook/object]</catDesc>
+                    </category>
+                    <category source="collex" xml:id="text">
+                        <catDesc>[plain text URL]</catDesc>
+                    </category>
+                    <category source="dc" xml:id="date">
+                        <catDesc>1930-43</catDesc>
+                    </category>
+                    <category source="dcterms" xml:id="hasPart">
+                        <catDesc>[notebook page RDF objects]</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc> -->
+    </teiHeader>
+   <text xml:space="preserve" xml:id="nb07_03_11.xml" rend="read">
       <body>
          <div type="image" xml:id="nb07_03_11_0001_text">
             <pb facs="nb07_03_11_0001_recto.jpg"/>
@@ -151,7 +214,7 @@
                <l n="07">un-wisdom, frivolities,</l>
                <l n="08">selfishness, lack of realness</l>
                <l n="09">misconceived incentive,</l>
-               <l n="10">and goal;&#8212; each part of</l>
+               <l n="10">and goal;— each part of</l>
                <l n="11">those<note>Written as "their" then written over to make "those."</note> experiences appearing</l>
                <l n="12">rational at the time.<hi xml:id="nb07_03_11_0014_recto_text_line_12_color_01"/><seg xml:id="nb07_03_11_0014_recto_text_line_12_genre_01"/></l>
                <!-- <span type="hi" rend="pencil" from="#nb07_03_11_0014_recto_text_line_01_color_01" to="#nb07_03_11_0014_recto_text_line_12_color_01"/> -->
@@ -186,7 +249,7 @@
                <l n="05">or loose money. <seg xml:id="nb07_03_11_0015_verso_text_line_05_genre_01"/></l>
                <!-- <span type="genre" rend="conv" from="#nb07_03_11_0015_verso_text_line_01_genre_01" to="#nb07_03_11_0015_verso_text_line_05_genre_01"/> -->
                <l n="06"/>
-               <l n="07"><seg rend="read" cert="unknown" resp="cristannemiller" xml:id="nb07_03_11_0015_verso_text_line_07_genre_01"/>Nov. 11,  1931   Water &#8212;<note>MM appears to write a dot above a dash, which may indicate she meant to write the word "in" here, as "in" appears in another incomplete form on this page in line 15.</note> (lines</l>
+               <l n="07"><seg rend="read" cert="unknown" resp="cristannemiller" xml:id="nb07_03_11_0015_verso_text_line_07_genre_01"/>Nov. 11,  1931   Water —<note>MM appears to write a dot above a dash, which may indicate she meant to write the word "in" here, as "in" appears in another incomplete form on this page in line 15.</note> (lines</l>
                <l n="08">appearing) Continuous parallel</l>
                <l n="09">      <add>positions</add></l>
                <l n="10">lines of light   effaced at certain</l>
@@ -240,7 +303,7 @@
                <!-- <span type="genre" rend="prose" from="#nb07_03_11_0015_recto_text_line_01_genre_01" to="#nb07_03_11_0015_recto_text_line_17_genre_01"/> -->
                <l n="18"/>
                <l n="19"> <seg rend="read" xml:id="nb07_03_11_0015_recto_text_line_19_genre_01"/><bibl xml:id="nb07_03_11_0015_recto_text_line_19_source_01"/>Dec  16  1931</l>
-               <l n="20">      <add>on C. Chaplin Close up</add><note> <title>Close-Up</title> [1927-1933]. An influential literary magazine devoted to film, published by the Pool Group between 1927 and 1933. The first issue of <title>Close-Up</title> described itself on the front cover as an "international magazine devoted to film art." Kenneth Macpherson was editor-in-chief, with Bryher as assistant editor, and Hilda Doolittle (&quot;H.D.&quot;) making regular contributions.</note> <add>Dec 1931</add><note>Kenneth MacPherson [K.M.] review of C. A. Lejeune, <title>Cinema: A Review of Thirty Years' Achievement</title> (London: Alexander Maclehose, 1931). In <title>Close-Up</title> 8.1 (December 1931): 333-336. MM quotes from page 335.</note></l>
+               <l n="20">      <add>on C. Chaplin Close up</add><note> <title>Close-Up</title> [1927-1933]. An influential literary magazine devoted to film, published by the Pool Group between 1927 and 1933. The first issue of <title>Close-Up</title> described itself on the front cover as an "international magazine devoted to film art." Kenneth Macpherson was editor-in-chief, with Bryher as assistant editor, and Hilda Doolittle ("H.D.") making regular contributions.</note> <add>Dec 1931</add><note>Kenneth MacPherson [K.M.] review of C. A. Lejeune, <title>Cinema: A Review of Thirty Years' Achievement</title> (London: Alexander Maclehose, 1931). In <title>Close-Up</title> 8.1 (December 1931): 333-336. MM quotes from page 335.</note></l>
                <l n="21">K. Macpherson<bibl xml:id="nb07_03_11_0015_recto_text_line_21_source_01"/>—<quote xml:id="nb07_03_11_0015_recto_text_line_21_quote_01"/>lachrymose</l>
                <!-- <span type="source" from="#nb07_03_11_0015_recto_text_line_19_source_01" to="#nb07_03_11_0015_recto_text_line_21_source_01"/> -->
                <l n="22">hysterical drivel that has tried to</l>
@@ -282,7 +345,7 @@
                <l n="09"> use by the species, accept other material for their cases,</l>
                <l n="10"> <del>sea-urchin spines</del>, pine needles—or even</l>
                <l n="11"> leaves—<del>and</del><hi rend="blue"> but</hi> some are unenterprising</l>
-               <l n="12"> &amp; bear the deprivation&#8212;do nothing about</l>
+               <l n="12"> &amp; bear the deprivation—do nothing about</l>
                <l n="13"> it.  <add><hi rend="pencil">We look on and admire unless the person</hi></add></l>
                <l n="14">   <add>If one reads</add> <add>  <hi rend="pencil"> marries a moron or a caliban</hi> </add></l>
                <l n="15"> <del>In  reading</del> a book fr which another</l>
@@ -316,7 +379,7 @@
                <l n="04">same thing, fondness for flowers, loyalty to one’s</l>
                <l n="05">college, reading, self sacrifice—Compare</l>
                <l n="06">May,<note> Moore, May. Contance’s older sister.</note> <add>Constance,<note> Moore, Constance Eustis.</note> </add> Cousin Mary S.,<note> Shoemaker, Mary.</note> the Beaver,<note> Norcross, Mary ("Beaver"). A friend and confidante of MM. Also, MM’s mother’s lover from 1900-1911.</note> Allison,<note> Unidentified "Allison."</note></l>
-               <l n="07">Mr Heindel.<note>Heindel, Clifford. Married to Mary Watson Craig, MM’s maternal second cousin. </note> Audubon&#8212;<note>Audubon, John James. Audubon was a naturalist and artist MM admired; her "The Frigate Pelican" works from his rendering of this bird and his scientific notes on it.</note> <add>Monroe</add>.<note>Wheeler, Monroe.</note> All seem to like</l>
+               <l n="07">Mr Heindel.<note>Heindel, Clifford. Married to Mary Watson Craig, MM’s maternal second cousin. </note> Audubon—<note>Audubon, John James. Audubon was a naturalist and artist MM admired; her "The Frigate Pelican" works from his rendering of this bird and his scientific notes on it.</note> <add>Monroe</add>.<note>Wheeler, Monroe.</note> All seem to like</l>
                <l n="08">the Atlantic Monthly, travel, to be interested</l>
                <l n="09">in the eclipse, to have civic  responsibilities<seg xml:id="nb07_03_11_0016_recto_text_line_09_genre_01"/></l>
                <!-- <span type="genre" rend="prose" from="#nb07_03_11_0016_recto_text_line_01_genre_01" to="#nb07_03_11_0016_recto_text_line_09_genre_01"/> -->
@@ -374,8 +437,8 @@
                <l n="05"> flip flop then hurried away</l>
                <l n="06"> with little steps &amp; <del>and with</del> the</l>
                <l n="07"> <add>innocent</add></l>
-               <l n="08"> sober dutifulness of an elephant&#8212;;</l>
-               <l n="09"> tail, limber,&#8212;knocking against</l>
+               <l n="08"> sober dutifulness of an elephant—;</l>
+               <l n="09"> tail, limber,—knocking against</l>
                <l n="10"> its  heels.    <add xml:id="nb07_03_11_0017_verso_text_line_10_add_01"/>it came out inoffensively</l>
                <l n="11">       almost  wearily—<add xml:id="nb07_03_11_0017_verso_text_line_11_add_01"/></l>
                <!-- <span type="add" from="#nb07_03_11_0017_verso_text_line_10_add_01" to="#nb07_03_11_0017_verso_text_line_11_add_01"/> -->
@@ -494,7 +557,7 @@
             <lg>
                <l n="01"> <seg rend="conv" xml:id="nb07_03_11_0018_recto_text_line_01_genre_01"/>counteract the leaden xpression</l>
                <l n="02">that was with it &amp; he added—with</l>
-               <l n="03">real kindness—or perhaps I should say&#8212;</l>
+               <l n="03">real kindness—or perhaps I should say—</l>
                <l n="04">when you see her. <seg xml:id="nb07_03_11_0018_recto_text_line_04_genre_01"/></l>
                <!-- <span type="genre" rend="conv" from="#nb07_03_11_0018_recto_text_line_01_genre_01" to="#nb07_03_11_0018_recto_text_line_04_genre_01"/> -->
                <!-- <spanGrp>
@@ -527,8 +590,8 @@
                <l n="24"> asked to speak as guest of honor</l>
                <l n="25"> before the Musicians' Company in</l>
                <l n="26"> London &amp; opened his address</l>
-               <l n="27"> by referring shyly to &quot;the miserable</l>
-               <l n="28"> compositions I have tried to write&quot;<quote xml:id="nb07_03_11_0018_recto_text_line_28_quote_01"/><seg xml:id="nb07_03_11_0018_recto_text_line_28_genre_01"/></l>
+               <l n="27"> by referring shyly to "the miserable</l>
+               <l n="28"> compositions I have tried to write"<quote xml:id="nb07_03_11_0018_recto_text_line_28_quote_01"/><seg xml:id="nb07_03_11_0018_recto_text_line_28_genre_01"/></l>
                <!-- <span type="quote" from="#nb07_03_11_0018_recto_text_line_18_quote_01" to="nb07_03_11_0018_recto_text_line_28_quote_01"/> -->
                <!-- <span type="genre" rend="read" from="#nb07_03_11_0018_recto_text_line_17_genre_01" to="#nb07_03_11_0018_recto_text_line_28_genre_01"/> -->
             </lg>
@@ -802,7 +865,7 @@
                <l n="04"> 14 of them — and 3 <del>have</del> are</l>
                <l n="05"> disqualified by starting <del>be</del> ahead</l>
                <l n="06"> of time, but they don’t know it yet.</l>
-               <l n="07"> &#8212;&#8212;&#8212;&#8212;&#8212;<hi rend="gray">Graham McNamee<note> McNamee, Graham [1888-1942]. A pioneering radio broadcaster, bringing sports broadcasting to a high level of enthusiasm in the 1920s, but also covering major public and political events.</note></hi><seg xml:id="nb07_03_11_0022_verso_text_line_07_genre_01"/> <seg rend="conv" xml:id="nb07_03_11_0022_verso_text_line_07_genre_02"/>1932</l>
+               <l n="07"> —————<hi rend="gray">Graham McNamee<note> McNamee, Graham [1888-1942]. A pioneering radio broadcaster, bringing sports broadcasting to a high level of enthusiasm in the 1920s, but also covering major public and political events.</note></hi><seg xml:id="nb07_03_11_0022_verso_text_line_07_genre_01"/> <seg rend="conv" xml:id="nb07_03_11_0022_verso_text_line_07_genre_02"/>1932</l>
                <!-- <span type="genre" rend="conv" from="#nb07_03_11_0022_verso_text_line_01_genre_01" to="#nb07_03_11_0022_verso_text_line_07_genre_01"/> -->
                <l n="08"> Firemen Save my Child—Dec 10</l>
                <l n="09"> Baseball scenes supervised by</l>
@@ -828,7 +891,7 @@
                <l n="29">   <add>behind him,</add></l>
                <l n="30"> toward the men on bases <del>before</del></l>
                <l n="31">      <add>w a burning ball to the catcher</add></l>
-               <l n="32">   <del>discharging the ball&#8212;   <unclear resp="cristannemiller">stalls</unclear></del></l>
+               <l n="32">   <del>discharging the ball—   <unclear resp="cristannemiller">stalls</unclear></del></l>
                <l n="33"> alternating w. feints <del>with genuine</del></l>
                <l n="34"> <del>ball  service pitchings</del> &amp; occasionally</l>
                <!-- <span type="genre" rend="conv" from="#nb07_03_11_0022_verso_text_line_07_genre_02" to="#nb07_03_11_0022_verso_text_line_34_genre_01"/> -->
@@ -1066,7 +1129,7 @@
                <l n="22">head. <del>Call it</del> the soft part of</l>
                <l n="23">the nose.<seg xml:id="nb07_03_11_0024_recto_text_line_23_genre_01"/></l>
                <!-- <span type="genre" rend="conv" from="#nb07_03_11_0024_recto_text_line_05_genre_01" to="#nb07_03_11_0024_recto_text_line_23_genre_01"/> -->
-               <l n="24"> &#8212;&#8212;&#8211;  <seg rend="conv" xml:id="nb07_03_11_0024_recto_text_line_24_genre_01"/><add>They  say</add></l>
+               <l n="24"> ——–  <seg rend="conv" xml:id="nb07_03_11_0024_recto_text_line_24_genre_01"/><add>They  say</add></l>
                <l n="25"> Mr Jordan.<note>Mr. Jordan. The superintendent of MM’s home at 14 St. Lukes Place.</note>  You should not scatter your</l>
                <l n="26">         <add>on account of the souls</add></l>
                <l n="27">stick as you walk ^ &amp; you must keep to</l>
@@ -1130,7 +1193,7 @@
                <l n="30"> incline the edge forward</l>
                <l n="31">a <hi rend="pencil">(</hi>hair’s breadth. <hi rend="pencil">)</hi>  <add><hi rend="pencil"> trifle</hi></add><note>MM writes in pencil on the right side of the page the phrase "then a little more—just a hair’s breadth trifle"</note><seg xml:id="nb07_03_11_0025_verso_text_line_31_genre_01"/></l>
                <!-- <span type="genre" rend="conv" from="#nb07_03_11_0025_verso_text_line_26_genre_01" to="#nb07_03_11_0025_verso_text_line_31_genre_01"/> -->
-               <l n="32">&#8212;&#8212;<seg rend="conv" xml:id="nb07_03_11_0025_verso_text_line_32_genre_01"/>So out of everything &amp; its little</l>
+               <l n="32">——<seg rend="conv" xml:id="nb07_03_11_0025_verso_text_line_32_genre_01"/>So out of everything &amp; its little</l>
                <l n="33"> depredations are so innocent. <seg xml:id="nb07_03_11_0025_verso_text_line_33_genre_01"/></l>
                <!-- <span type="genre" rend="conv" from="#nb07_03_11_0025_verso_text_line_32_genre_01" to="#nb07_03_11_0025_verso_text_line_33_genre_01"/> -->
             </lg>
@@ -1146,7 +1209,7 @@
                <l n="03">is nothing cld do me harm—in any way.</l>
                <l n="04">   <del>hurt me in any way</del></l>
                <l n="05">   <add>injure</add></l>
-               <l n="06"> You see&#8212;well- I had never been in</l>
+               <l n="06"> You see—well- I had never been in</l>
                <l n="07"> love and everything that I did</l>
                <l n="08"> was a puzzle to me. I seem to have made</l>
                <l n="09"> a business of not paying attention to anything</l>
@@ -1256,7 +1319,7 @@
                <l n="08">by hostility—<del>If you  threw</del></l>
                <l n="09">who wouldn't be discouraged if</l>
                <l n="10"><del>you threw</del> an ocean of water was</l>
-               <l n="11">thrown on them. <add><hi rend="pencil">There has never been any theory in life that I   wished&#8212;for myself&#8212;as much as this.</hi></add><seg xml:id="nb07_03_11_0026_recto_text_line_11_genre_01"/><!-- [desc]addition begins on the line and then slants into the right margin, in several short lines[/desc] --></l>
+               <l n="11">thrown on them. <add><hi rend="pencil">There has never been any theory in life that I   wished—for myself—as much as this.</hi></add><seg xml:id="nb07_03_11_0026_recto_text_line_11_genre_01"/><!-- [desc]addition begins on the line and then slants into the right margin, in several short lines[/desc] --></l>
                <!-- <span type="genre" rend="conv" from="#nb07_03_11_0026_recto_text_line_07_genre_01" to="#nb07_03_11_0026_recto_text_line_11_genre_01"/> -->
                <l n="12"><seg rend="conv" xml:id="nb07_03_11_0026_recto_text_line_12_genre_01"/> Taking his hand slowly &amp; looking at it as if it</l>
                <l n="13">      <add>little</add></l>
@@ -1363,7 +1426,7 @@
                <!-- <span type="genre" rend="conv" from="#nb07_03_11_0027_recto_text_line_06_genre_01" to="#nb07_03_11_0027_recto_text_line_17_genre_01"/> -->
                <l n="18"> <seg rend="conv" xml:id="nb07_03_11_0027_recto_text_line_18_genre_01"/>           <add>  <hi rend="pencil">VOLTAIR</hi> </add></l>
                <l n="19">Its rising to the occasion—</l>
-               <l n="20">&#8212;&#8212;          <add>not just that__</add></l>
+               <l n="20">——          <add>not just that__</add></l>
                <l n="21"> One wants  <del>not just</del> to <gap extent="1"/><unclear resp="cristannemiller">e</unclear><gap extent="1"/><unclear resp="cristannemiller">t</unclear> but to be</l>
                <l n="22">able to           rest people.</l>
                <l n="23">There is no one who has ever lived, including Christ,</l>
@@ -1640,7 +1703,7 @@
                <l n="09"><seg rend="conv" xml:id="nb07_03_11_0031_recto_text_line_09_genre_01"/> Alfred. blinking with a kind of exasperating</l>
                <l n="10">sentence, "have <hi rend="underline">you</hi> never met Stevens!"<note> Alfred Kreymborg and Scofield Thayer came by MM’s apartment to take her to a party to meet Wallace Stevens in 1921; she did not attend the party because she was ill.</note><seg xml:id="nb07_03_11_0031_recto_text_line_10_genre_01"/></l>
                <!-- <span type="genre" rend="conv" from="#nb07_03_11_0031_recto_text_line_09_genre_01" to="#nb07_03_11_0031_recto_text_line_10_genre_01"/> -->
-               <l n="11">&#8212;&#8212;&#8212;&#8212; <hi xml:id="nb07_03_11_0031_recto_text_line_11_color_01"/><hi rend="pencil">Bear</hi></l>
+               <l n="11">———— <hi xml:id="nb07_03_11_0031_recto_text_line_11_color_01"/><hi rend="pencil">Bear</hi></l>
                <!-- <span type="hi" rend="blue" from="#nb07_03_11_0031_recto_text_line_01_color_01" to="#nb07_03_11_0031_recto_text_line_11_color_01"/> -->
                <!-- <spanGrp>
                         <span type="hi" rend="blue"
@@ -1655,7 +1718,7 @@
                <l n="14">            <add>  <hi rend="pencil">entirely</hi> </add></l>
                <l n="15"> &amp; death seem conditions apart from <add><hi rend="pencil">it</hi></add></l>
                <l n="16"> <del>its  operation</del>—like dryness</l>
-               <l n="17"> or mist. <hi xml:id="nb07_03_11_0031_recto_text_line_17_color_01"/><hi rend="pencil">&#8212;&#8212; L O V E</hi><seg xml:id="nb07_03_11_0031_recto_text_line_17_genre_01"/></l>
+               <l n="17"> or mist. <hi xml:id="nb07_03_11_0031_recto_text_line_17_color_01"/><hi rend="pencil">—— L O V E</hi><seg xml:id="nb07_03_11_0031_recto_text_line_17_genre_01"/></l>
                <!-- <span type="hi" rend="blue" from="#nb07_03_11_0031_recto_text_line_12_color_01" to="#nb07_03_11_0031_recto_text_line_17_color_01"/> -->
                <!-- <span type="genre" rend="conv" from="#nb07_03_11_0031_recto_text_line_12_genre_01" to="#nb07_03_11_0031_recto_text_line_17_genre_01"/> -->
                <l n="18"><hi rend="blue" xml:id="nb07_03_11_0031_recto_text_line_18_color_01"/><seg rend="prose" xml:id="nb07_03_11_0031_recto_text_line_18_genre_01"/>   Sept. 27 1936</l>
@@ -1832,7 +1895,7 @@
                <l n="01"><hi rend="pencil" xml:id="nb07_03_11_0035_recto_text_line_01_color_01"/>The Book will stay Open at Any</l>
                <l n="02">           Page</l>
                <l n="03">   Story college life</l>
-               <l n="04"> Compartments &#8212;<note>See the verso of page 16 where MM writes "Title: Compartments".</note></l>
+               <l n="04"> Compartments —<note>See the verso of page 16 where MM writes "Title: Compartments".</note></l>
                <l n="05"/>
                <l n="06"> Camilla Piper heroine<hi rend="pencil" xml:id="nb07_03_11_0035_recto_text_line_06_color_01"/></l>
                <!-- <span type="hi" rend="pencil" from="#nb07_03_11_0035_recto_text_line_01_color_01" to="#nb07_03_11_0035_recto_text_line_06_color_01"/> -->
@@ -1841,7 +1904,7 @@
          <div type="image" xml:id="nb07_03_11_0036_text">
             <pb facs="nb07_03_11_0036_verso.jpg"/>
             <lg>
-               <l n="01">   <hi rend="blue" xml:id="nb07_03_11_0036_verso_text_line_01_color_01"/>Chapter headings&#8212;</l>
+               <l n="01">   <hi rend="blue" xml:id="nb07_03_11_0036_verso_text_line_01_color_01"/>Chapter headings—</l>
                <l n="02">The quiet of the written page</l>
                <l n="03"/>
                <l n="04">Few balances no debts<hi rend="blue" xml:id="nb07_03_11_0036_verso_text_line_04_color_01"/></l>
@@ -1886,7 +1949,7 @@
                <l n="07">  Printing Vest Pocket Manual]<note>These lines appear in "Walking-Sticks and Paperweights and Watermarks" (first published November 1936): "’Stones grow,’ / then stop, and so / do gardens. ‘Plants grow and live; men / grow and live and think.’" (Qtd. from <title>A-Quiver with Significance: 1932-1936</title>). These lines revise the Swedish naturalist Carolus Linnaeus’s claim that "Stones grow, vegetables grow and live, animals grow, live and feel"—although the final word is sometimes translated as "think" (<title>Philosophia Botanica</title>, 1751).</note> <hi xml:id="nb07_03_11_0036_recto_text_line_07_color_01"/></l>
                <!-- <span type="hi" rend="blue" from="#nb07_03_11_0036_recto_text_line_05_color_01" to="#nb07_03_11_0036_recto_text_line_07_color_01"/> -->
                <l n="08"> <hi rend="blue">Sir Thopas Impiety</hi><note>One of <title>The Canterbury Tales</title> by Geoffrey Chaucer (1343-1400), published 1837; the tale is a parody of romances.</note> <hi rend="pencil">&amp; unpermissible delusions</hi></l>
-               <l n="09">     <hi rend="pencil">of grandeur &#8212;</hi></l>
+               <l n="09">     <hi rend="pencil">of grandeur —</hi></l>
                <l n="10"> Imperialists H. &amp; H.<note>Perhaps <title>Hound and Horn</title>, a periodical in which MM published. Its logo is an English horn with H &amp; H inscribed within it.</note> on English <unclear resp="cristannemiller">trip</unclear></l>
                <l n="11">     at Home</l>
                <l n="12"> My Actions are Open<hi xml:id="nb07_03_11_0036_recto_text_line_12_color_01"/></l>
@@ -1917,9 +1980,9 @@
             <lg>
                <l n="01">   "I saw an angel // standing in the sun"</l>
                <l n="02">          (Bird) (Revelation)<note>Revelation 19:17. </note></l>
-               <l n="03">  Poems&#8212;<note>The titles and topics on this page refer to poems that MM either published between 1932 and 1936 or considered writing about. These include "Old Tiger," "Camellia Sabina," "Half-Deity," "The Pangolin," "The Buffalo."</note></l>
-               <l n="04">&#8212; Camellia Sabina &amp; the Bordeaux Plum</l>
-               <l n="05">&#8212; The Zebu</l>
+               <l n="03">  Poems—<note>The titles and topics on this page refer to poems that MM either published between 1932 and 1936 or considered writing about. These include "Old Tiger," "Camellia Sabina," "Half-Deity," "The Pangolin," "The Buffalo."</note></l>
+               <l n="04">— Camellia Sabina &amp; the Bordeaux Plum</l>
+               <l n="05">— The Zebu</l>
                <l n="06"> The Maharajaha’s barge</l>
                <l n="07"> The Treefrog</l>
                <l n="08"> The Hummingbird (or Hummingbirds)</l>
@@ -1928,27 +1991,27 @@
                <l n="11">  capable man with leisure</l>
                <l n="12">     <add>A</add></l>
                <l n="13"> <del>The</del>  Patriot</l>
-               <l n="14"> Corsica&#8212;bees, oranges, cuttlefish, briar roots</l>
+               <l n="14"> Corsica—bees, oranges, cuttlefish, briar roots</l>
                <l n="15"> Spider—scorpion, spider-crab (tarantulas)</l>
-               <l n="16"> Cocoanut&#8212;Crab</l>
+               <l n="16"> Cocoanut—Crab</l>
                <l n="17"> Mullets— sandstars  Fishmonger</l>
                <l n="18"> Santiago—in Lima &amp; Colca Valley on a</l>
                <l n="19">            <add>  <hi rend="pencil">pale</hi> </add></l>
                <l n="20"> rearing white horse w <del>lavender</del> glass eyes &amp; pin</l>
                <l n="21">  dot pupil—silver standard of "tin"pans"</l>
                <l n="22">  goldfoil trees etc.</l>
-               <l n="23">&#8212; The Tiger Swallow-Tail-Tiger Salamander,</l>
+               <l n="23">— The Tiger Swallow-Tail-Tiger Salamander,</l>
                <l n="24">       <add>of course</add></l>
                <l n="25"> Tiger horse.<note>In a letter to her brother JWM, 11 December 1932, MM wrote that "it came to me after my journey to the Museum that I should write something on the tiger swallow-tail, the tiger-salamander, and the tiger horse. In <title>The Pangolin and Other Verse</title>, she includes "Half-Deity," about the "best tiger-butterfly / of South America," which "like a horse" "paw[s]" the palm on which it alights. "Old Tiger," published only in <title>Profile: An Anthology Collected in MCMXXXI</title>, ed. Ezra Pound (Milan: John Scheiwiller, 1932), describes the tiger as having a "lizardlike expression."</note>  Papilio <unclear resp="cristannemiller">Filiselaus</unclear><note>In North America, tiger swallowtail butterflies are of the Papilio rutulus or Papilio glaucus species; the tiger salamander has the scientific name Ambystoma tigrinum.</note></l>
                <l n="26"> Star  tortoise     <add>something else</add></l>
-               <l n="27"> &#8212; I am an OX  or is this another thing that I</l>
-               <l n="28">    don’t know about&#8212; in the Malay</l>
-               <l n="29">    peninsula&#8212; &amp; <del>you are a clear</del></l>
+               <l n="27"> — I am an OX  or is this another thing that I</l>
+               <l n="28">    don’t know about— in the Malay</l>
+               <l n="29">    peninsula— &amp; <del>you are a clear</del></l>
                <l n="30">      <del>head stronger than I am, comparatively</del></l>
                <l n="31">   <hi rend="pencil">(Pangolin</hi>   <add>cf visual geography.</add></l>
                <l n="32"> Fearful—yet to be feared<note>The phrase "Fearful—yet to be feared" appears in "The Pangolin" (first published 1936).</note></l>
                <l n="33"> The Australian opossum &amp; the pangolin</l>
-               <l n="34"> &#8212;&#8212; And weather   <del>that</del> useless envelope of <unclear resp="cristannemiller">thot</unclear></l>
+               <l n="34"> —— And weather   <del>that</del> useless envelope of <unclear resp="cristannemiller">thot</unclear></l>
             </lg>
             <pb facs="nb07_03_11_0037_recto.jpg"/>
             <lg>
@@ -1986,7 +2049,7 @@
                <l n="30">    <hi rend="pencil">Birdhouse</hi>      <add>  <hi rend="pencil">"thistle")</hi> </add><note> May refer to a poem attributed to Sir Philip Sidney beginning "It is a humor that doth tickle / And like Thistle downe doth prickle." A "thistle of Palestine" is mentioned in "For February 14th," first published in the <title>New York Herald Tribune</title> (13 February 1959): 1.</note></l>
                <l n="31"/>
                <l n="32"><hi rend="blue" xml:id="nb07_03_11_0037_recto_text_line_32_color_01"/>I may change to a buffalo, not bison w spear headed</l>
-               <l n="33"> tail&#8212; but the water buffalo&#8212;<hi rend="blue" xml:id="nb07_03_11_0037_recto_text_line_33_color_01"/></l>
+               <l n="33"> tail— but the water buffalo—<hi rend="blue" xml:id="nb07_03_11_0037_recto_text_line_33_color_01"/></l>
                <!-- <span type="hi" rend="blue" from="#nb07_03_11_0037_recto_text_line_32_color_01" to="#nb07_03_11_0037_recto_text_line_33_color_01"/> -->
                <l n="34"> <hi rend="pencil" xml:id="nb07_03_11_0037_recto_text_line_34_color_01"/>The Ostrich—the epiornis etc</l>
                <l n="35">        opinicus<note>The opinicus is an imaginary creature used in heraldy, often grouped with the griffin. It has the body and legs of a lion, the head, neck, and wings of an eagle, and the short tail of a camel or bear.</note> provable crocodile</l>
@@ -2013,7 +2076,7 @@
                <l n="08"> <del>Novelists</del> have a way of insisting</l>
                <l n="09"> that what they have written is</l>
                <l n="10"> not to be attributed to them personally</l>
-               <l n="11"> I would say just the opposite&#8212;that</l>
+               <l n="11"> I would say just the opposite—that</l>
                <l n="12">             <add>is</add></l>
                <l n="13"> everything written here <del>has</del> in some</l>
                <l n="14"> way  <del>been connected</del> w myself—</l>
