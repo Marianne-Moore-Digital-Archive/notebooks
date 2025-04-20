@@ -2,10 +2,11 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Notebook 07.04.04</title>
+                <title>Notebook 07.04.04 (Draft Conversion)</title>
                 <author>Marianne Moore</author>
                 <editor>
-                    <persName>Heather Cass White</persName><note>Notebook Editor</note>
+                    <persName>Heather Cass White</persName>
+                    <note>Notebook Editor</note>
                     </editor>
                 <respStmt>
                     <persName>Cristanne Miller,</persName>
@@ -145,7 +146,7 @@
             </classDecl>
         </encodingDesc> -->
     </teiHeader>       
-    <text xml:space="preserve" xml:id="nb07_04_04.xml" rend="read">
+    <text>
         <body>
             <div type="image" xml:id="nb07_04_04_0001_text">
                 <pb facs="nb07_04_04_0001_recto.jpg"/>
@@ -409,7 +410,7 @@
                     <l n="28">  I <del>wish not</del> to be disturbed<!--[/draft]--></l>
                     </lg>
                 <lg type="vertical">
-                    <l n="29" rendition="vertical" rend="verse"><!--[Ver 29][desc]span lines 25-14[/desc]-->The to Adam one institution—</l>
+                    <l n="29" rendition="sideways" rend="verse"><!--[Ver 29][desc]span lines 25-14[/desc]-->The to Adam one institution—</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0009_text">
@@ -475,7 +476,9 @@
             <div type="image" xml:id="nb07_04_04_0011_text">
                 <pb facs="nb07_04_04_0011_recto.jpg"/>
                   <lg>
-                    <l n="01"><note>MM drafts toward “Marriage”; some phrases in her reading notes and drafting appear in the published poem. Mention of tropis, lizards, and Bluebeard point toward “People’s Surroundings” (first published The Dial 72 [1922]).</note>  <seg rend="read" xml:id="nb07_04_04_0011_recto_text_line_01_genre_01"/><quote xml:id="nb07_04_04_0011_recto_text_line_01_quote_01"/>multiple consciousness. <bibl>Sci Amer Jan 1922</bibl><note>Gradenwitz, Alfred. “Doing Two Things at Once: Multiple Consciousness, or Reflex Action of Unaccustomed Range?” Scientific American 128.1 (January 1923), p. 17.</note></l>
+                    <l n="01"><note>MM drafts toward “Marriage”; some phrases in her reading notes and drafting appear in the published poem. Mention of tropis, lizards, and Bluebeard point toward “People’s Surroundings” (first published The Dial 72 [1922]).</note>  <seg rend="read" xml:id="nb07_04_04_0011_recto_text_line_01_genre_01"/>
+                        <quote xml:id="nb07_04_04_0011_recto_text_line_01_quote_01"/>multiple consciousness. <bibl>Sci Amer Jan 1922</bibl>
+                        <note>Gradenwitz, Alfred. “Doing Two Things at Once: Multiple Consciousness, or Reflex Action of Unaccustomed Range?” Scientific American 128.1 (January 1923), p. 17.</note></l>
                     <l n="02">  or reflex action of unaccustomed range</l>
                     <l n="03"> She will write simultaneously in 3 languages Eng Ger &amp; French</l>
                     <l n="04">    writing</l>
@@ -487,7 +490,8 @@
                     <l n="10">  words w her left &amp; 2nd 4th, 6th w her</l>
                     <l n="11">  right hand. While generally writing</l>
                     <l n="12">  outward she is able as well to write inward</l>
-                    <l n="13">  w both hands<quote xml:id="nb07_04_04_0011_recto_text_line_13_quote_01"/><seg rend="read" xml:id="nb07_04_04_0011_recto_text_line_13_genre_01"/></l>
+                    <l n="13">  w both hands<quote xml:id="nb07_04_04_0011_recto_text_line_13_quote_01"/>
+                        <seg rend="read" xml:id="nb07_04_04_0011_recto_text_line_13_genre_01"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0011_recto_text_line_01_quote_01" to="#nb07_04_04_0011_recto_text_line_13_quote_01"/>-->
                     <!--<span type="genre" rend="read" from="#nb07_04_04_0011_recto_text_line_01_genre_01" to="#nb07_04_04_0011_recto_text_line_13_genre_01"/>-->
                     <l n="14">   <!--[draft="Marriage"]-->Giotto is not forgotten—</l>
@@ -568,7 +572,9 @@
                     <l n="19">      a bear doth</l>
                     <l n="20">  causing her husband to sigh<!--[/draft]--></l>
                     <l n="21">__________________________</l>
-                    <l n="22">   <note>Givler, Robert Chenault. Author of Psychology: The Science of Human Behavior (1922): “These are the animals which preeminently exhibit fear and an irrepressible desire to flee from danger” (136).</note><seg rend="read" xml:id="nb07_04_04_0013_recto_text_line_22_genre_01"/><bibl>Givler</bibl> 135 <quote xml:id="nb07_04_04_0013_recto_text_line_22_quote_01"/>Emotion is the most elaborate form</l>
+                    <l n="22">   <note>Givler, Robert Chenault. Author of Psychology: The Science of Human Behavior (1922): “These are the animals which preeminently exhibit fear and an irrepressible desire to flee from danger” (136).</note>
+                        <seg rend="read" xml:id="nb07_04_04_0013_recto_text_line_22_genre_01"/>
+                        <bibl>Givler</bibl> 135 <quote xml:id="nb07_04_04_0013_recto_text_line_22_quote_01"/>Emotion is the most elaborate form</l>
                     <l n="23">   of activity of wh the kinetic system is</l>
                     <l n="24">  capable</l>
                     <l n="25">_______</l>
@@ -578,7 +584,9 @@
                     <l n="29">                preemntly</l>
                     <l n="30"> &amp; man— . . . . these are the animals which</l>
                     <l n="31">  exhibit fear &amp; an irr desire to</l>
-                    <l n="32">  flee fr danger<quote xml:id="nb07_04_04_0013_recto_text_line_32_quote_01"/><seg rend="read" xml:id="nb07_04_04_0013_recto_text_line_32_genre_01"/><note>MM returns to this topic in “The Pangolin,” first published in The Pangolin and Other Verse (London: The Brendin Publishing Co., 1936).</note></l>
+                    <l n="32">  flee fr danger<quote xml:id="nb07_04_04_0013_recto_text_line_32_quote_01"/>
+                        <seg rend="read" xml:id="nb07_04_04_0013_recto_text_line_32_genre_01"/>
+                        <note>MM returns to this topic in “The Pangolin,” first published in The Pangolin and Other Verse (London: The Brendin Publishing Co., 1936).</note></l>
                     <!--<span type="quote" from="#nb07_04_04_0013_recto_text_line_22_quote_01" to="#nb07_04_04_0013_recto_text_line_32_quote_01"/>-->
                     <!--<span type="genre" rend="read" from="#nb07_04_04_0013_recto_text_line_22_genre_01" to="#nb07_04_04_0013_recto_text_line_32_genre_01"/>-->
                 </lg>
@@ -586,7 +594,9 @@
             <div type="image" xml:id="nb07_04_04_0014_text">
                 <pb facs="nb07_04_04_0014_verso.jpg"/>
                   <lg>
-                    <l n="01">   <note>Givler, Robert Chenault. Psychology (see earlier note).</note><seg rend="read" xml:id="nb07_04_04_0014_verso_text_line_01_genre_01"/><quote xml:id="nb07_04_04_0014_verso_text_line_01_quote_01"/> 136  the theory is sound that they (the emotin) all originate</l>
+                    <l n="01">   <note>Givler, Robert Chenault. Psychology (see earlier note).</note>
+                        <seg rend="read" xml:id="nb07_04_04_0014_verso_text_line_01_genre_01"/>
+                        <quote xml:id="nb07_04_04_0014_verso_text_line_01_quote_01"/> 136  the theory is sound that they (the emotin) all originate</l>
                     <l n="02">  in an instinctive tend. to mobilize all the</l>
                     <l n="03">  available forces of the body for some</l>
                     <l n="04">  Self preservative action</l>
@@ -597,7 +607,8 @@
                     <l n="09">  150 w the sentiments we touch <del>bedrock</del></l>
                     <l n="10">  the dominant motives in individuals as in history</l>
                     <l n="11">  148 Hate involves more visceral turmoil</l>
-                    <l n="12">   than does any other single emotion<quote xml:id="nb07_04_04_0014_verso_text_line_12_quote_01"/><seg rend="read" xml:id="nb07_04_04_0014_verso_text_line_12_genre_01"/></l>
+                    <l n="12">   than does any other single emotion<quote xml:id="nb07_04_04_0014_verso_text_line_12_quote_01"/>
+                        <seg rend="read" xml:id="nb07_04_04_0014_verso_text_line_12_genre_01"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0014_verso_text_line_01_quote_01" to="#nb07_04_04_0014_verso_text_line_12_quote_01"/>-->
                     <!--<span type="genre" rend="read" from="#nb07_04_04_0014_verso_text_line_01_genre_01" to="#nb07_04_04_0014_verso_text_line_12_genre_01"/>-->
                     <l n="13">_______________________________</l>
@@ -802,8 +813,8 @@
                     <l n="33">  to Pan that one says I have read you over all</l>
                     </lg>
                 <lg type="vertical">
-                    <l n="34" rendition="vertical"><!-- span lines 30-26, left margin -->  Conversation</l>
-                    <l n="35" rendition="vertical"><!-- span lines 30-26, left margin, in two rows of print -->It is <del>not to Cupid but to nor to</del> Pan</l>
+                    <l n="34" rendition="sideways"><!-- span lines 30-26, left margin -->  Conversation</l>
+                    <l n="35" rendition="sideway"><!-- span lines 30-26, left margin, in two rows of print -->It is <del>not to Cupid but to nor to</del> Pan</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0020_text">
@@ -1310,7 +1321,9 @@
                     <l n="05"> which must heal all the ^ differences in the world</l>
                     <l n="06"> if ever God have so much mercy for us</l>
                     <l n="07">   he is the fruit has made him<!--[/draft="An Ocotpus"]--><!--[/draft="Marriage"]--></l>
-                    <l n="08">  <note>Baxter, Richard. The Saints’ Everlasting Rest. [first pub. 1650] Philadelphia: Lippincott, 1909.</note><seg rend="read" xml:id="nb07_04_04_0034_verso_text_line_08_genre_01"/><quote xml:id="nb07_04_04_0034_verso_text_line_08_quote_01"/>443 <del>they are</del> gracious &amp; sinful—kind &amp; loving</l>
+                    <l n="08">  <note>Baxter, Richard. The Saints’ Everlasting Rest. [first pub. 1650] Philadelphia: Lippincott, 1909.</note>
+                        <seg rend="read" xml:id="nb07_04_04_0034_verso_text_line_08_genre_01"/>
+                        <quote xml:id="nb07_04_04_0034_verso_text_line_08_quote_01"/>443 <del>they are</del> gracious &amp; sinful—kind &amp; loving</l>
                     <l n="09">  peevish &amp; froward <del>&amp; soon displea</del>sed</l>
                     <l n="10">        <del>without</del> and</l>
                     <l n="11">   <del>he is</del> humble <del>but alas</del>, <del>withal</del> how proud—</l>
@@ -1332,7 +1345,8 @@
                     <l n="27">  51<note>MM may write 57, not 51, but she quotes from page 51 in her edition of The Saints’ Everlasting Rest.</note> infinite love a mystery to finite capacity</l>
                     <l n="28">    even the love as well as the lover</l>
                     <l n="29">  47 <del>wh is both work &amp; wages</del></l>
-                    <l n="30">  a near close <del>between the un</del>derstand<quote xml:id="nb07_04_04_0034_verso_text_line_30_quote_01"/><seg rend="read" xml:id="nb07_04_04_0034_verso_text_line_30_genre_01"/></l>
+                    <l n="30">  a near close <del>between the un</del>derstand<quote xml:id="nb07_04_04_0034_verso_text_line_30_quote_01"/>
+                        <seg rend="read" xml:id="nb07_04_04_0034_verso_text_line_30_genre_01"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0034_verso_text_line_08_quote_01" to="#nb07_04_04_0034_verso_text_line_30_quote_01"/>-->
                     <!--<span type="genre" rend="read" from="#nb07_04_04_0034_verso_text_line_08_genre_01" to="#nb07_04_04_0034_verso_text_line_30_genre_01"/>-->
                 </lg>
@@ -1340,7 +1354,9 @@
             <div type="image" xml:id="nb07_04_04_0035_text">
                 <pb facs="nb07_04_04_0035_recto.jpg"/>
                   <lg>
-                    <l n="01">   <note>Baxter, Richard. The Saints’ Everlasting Rest (see earlier note).</note><seg rend="read" xml:id="nb07_04_04_0035_recto_text_line_01_genre_01"/><quote xml:id="nb07_04_04_0035_recto_text_line_01_quote_01"/>as may produce a proper union or identity g &amp; truth</l>
+                    <l n="01">   <note>Baxter, Richard. The Saints’ Everlasting Rest (see earlier note).</note>
+                        <seg rend="read" xml:id="nb07_04_04_0035_recto_text_line_01_genre_01"/>
+                        <quote xml:id="nb07_04_04_0035_recto_text_line_01_quote_01"/>as may produce a proper union or identity g &amp; truth</l>
                     <l n="02">  41 <del>a</del> cold touch or disdainful embrace it is no such</l>
                     <l n="03">  of earthy heterogeneals</l>
                     <l n="04"> the true studious contemplative man knows this to be true</l>
@@ -1367,7 +1383,8 @@
                     <l n="25"> 30 when all is well within, then all is well</l>
                     <l n="26">                indeed</l>
                     <l n="27"> 27 discovery instead of possession</l>
-                    <l n="28">  26 here therefore they shd lay out their utmost care &amp; industry<quote xml:id="nb07_04_04_0035_recto_text_line_28_quote_01"/><seg rend="read" xml:id="nb07_04_04_0035_recto_text_line_28_genre_01"/></l>
+                    <l n="28">  26 here therefore they shd lay out their utmost care &amp; industry<quote xml:id="nb07_04_04_0035_recto_text_line_28_quote_01"/>
+                        <seg rend="read" xml:id="nb07_04_04_0035_recto_text_line_28_genre_01"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0035_recto_text_line_01_quote_01" to="#nb07_04_04_0035_recto_text_line_28_quote_01"/>-->
                     <!--<span type="genre" from="#nb07_04_04_0035_recto_text_line_01_genre_01" to="#nb07_04_04_0035_recto_text_line_28_genre_01"/>-->
                 </lg>
@@ -1375,7 +1392,9 @@
             <div type="image" xml:id="nb07_04_04_0036_text">
                 <pb facs="nb07_04_04_0036_verso.jpg"/>
                   <lg>
-                    <l n="01">  <note>Baxter, Richard. The Saints’ Everlasting Rest (see earlier note).</note><seg rend="read" xml:id="nb07_04_04_0036_verso_text_line_01_genre_01"/><quote xml:id="nb07_04_04_0036_verso_text_line_01_quote_01"/>24 nor must we dare to think of patching</l>
+                    <l n="01">  <note>Baxter, Richard. The Saints’ Everlasting Rest (see earlier note).</note>
+                        <seg rend="read" xml:id="nb07_04_04_0036_verso_text_line_01_genre_01"/>
+                        <quote xml:id="nb07_04_04_0036_verso_text_line_01_quote_01"/>24 nor must we dare to think of patching</l>
                     <l n="02">  up a legal righteousness</l>
                     <l n="03">   ?</l>
                     <l n="04"> 20 before rest motion</l>
@@ -1408,7 +1427,9 @@
                     <l n="31">  death to blow dust out of my eyes</l>
                     </lg>
                 <lg type="vertical">
-                    <l n="32" rendition="vertical"><quote xml:id="nb07_04_04_0036_verso_text_line_32_quote_01"/><quote xml:id="nb07_04_04_0036_verso_text_line_32_genre_01"/><!--[desc]span lines 18-12, left margin[/desc]-->they discuss it</l>
+                    <l n="32" rendition="vertical">
+                        <quote xml:id="nb07_04_04_0036_verso_text_line_32_quote_01"/>
+                        <quote xml:id="nb07_04_04_0036_verso_text_line_32_genre_01"/><!--[desc]span lines 18-12, left margin[/desc]-->they discuss it</l>
                     <!--<span type="quote" from="#nb07_04_04_0036_verso_text_line_01_quote_01" to="#nb07_04_04_0036_verso_text_line_32_quote_01"/>-->
                     <!--<span type="genre" rend="read" from="#nb07_04_04_0036_verso_text_line_01_quote_01" to="#nb07_04_04_0036_verso_text_line_32_quote_01"/>-->
                 </lg>
@@ -1416,7 +1437,9 @@
             <div type="image" xml:id="nb07_04_04_0037_text">
                 <pb facs="nb07_04_04_0037_recto.jpg"/>
                   <lg>
-                    <l n="01">   <note>Baxter, Richard. The Saints’ Everlasting Rest (see earlier note).</note><seg rend="read" xml:id="nb07_04_04_0037_recto_text_line_01_genre_01"/><quote xml:id="nb07_04_04_0037_recto_text_line_01_quote_01"/>16 the principle damning sin--</l>
+                    <l n="01">   <note>Baxter, Richard. The Saints’ Everlasting Rest (see earlier note).</note>
+                        <seg rend="read" xml:id="nb07_04_04_0037_recto_text_line_01_genre_01"/>
+                        <quote xml:id="nb07_04_04_0037_recto_text_line_01_quote_01"/>16 the principle damning sin--</l>
                     <l n="02"> to a just happiness is arrogance</l>
                     <l n="03"/>
                     <l n="04">  a person in motion seeking rest</l>
@@ -1442,7 +1465,8 @@
                     <l n="24"> A 1. as a poor man will not believe</l>
                     <l n="25">   that any man has such a sum <del>&amp; 50 guineas</del></l>
                     <l n="26">               1000</l>
-                    <l n="27">              as ^ <del>100</del> pounds <quote xml:id="nb07_04_04_0037_recto_text_line_27_quote_01"/><seg rend="read" xml:id="nb07_04_04_0037_recto_text_line_27_genre_01"/></l>
+                    <l n="27">              as ^ <del>100</del> pounds <quote xml:id="nb07_04_04_0037_recto_text_line_27_quote_01"/>
+                        <seg rend="read" xml:id="nb07_04_04_0037_recto_text_line_27_genre_01"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0037_recto_text_line_01_quote_01" to="#nb07_04_04_0037_recto_text_line_27_quote_01"/>-->
                     <!--<span type="genre" rend="read" from="#nb07_04_04_0037_recto_text_line_01_genre_01" to="#nb07_04_04_0037_recto_text_line_27_genre_01"/>-->
                     <l n="28">   <!--[draft="Marriage"]--> friends will scarcely      now</l>
@@ -1477,7 +1501,7 @@
                     <l n="21">  imperfect degrees wh we have here in<quote xml:id="nb07_04_04_0038_verso_text_line_21_quote_01"/><quote xml:id="nb07_04_04_0038_verso_text_line_21_genre_01"/></l>
                     </lg>
                 <lg type="vertical">
-                    <l n="22" rendition="vertical">of mans happiness is his only upon c.</l>
+                    <l n="22" rendition="sideways">of mans happiness is his only upon c.</l>
                     <!--<span type="quote" from="#nb07_04_04_0038_verso_text_line_01_quote_01" to="#nb07_04_04_0038_verso_text_line_21_quote_01"/>-->
                     <!--<span type="genre" rend="read" from="#nb07_04_04_0038_verso_text_line_01_genre_01" to="#nb07_04_04_0038_verso_text_line_21_genre_01"/>-->
                 </lg>
@@ -1502,7 +1526,8 @@
                     <l n="15">  <del>which</del> motive in all actions—</l>
                     <l n="16"> a frightening disinterestedness</l>
                     <l n="17">  wh the world hates <!--[draft="Marriage"]--></l>
-                    <l n="18">  <note>Baxter, Richard. The Saints’ Everlasting Rest (see earlier note).</note> <seg rend="read" xml:id="nb07_04_04_0039_verso_text_line_18_genre_01"/><quote xml:id="nb07_04_04_0039_verso_text_line_18_quote_01"/>10</l>
+                    <l n="18">  <note>Baxter, Richard. The Saints’ Everlasting Rest (see earlier note).</note> <seg rend="read" xml:id="nb07_04_04_0039_verso_text_line_18_genre_01"/>
+                        <quote xml:id="nb07_04_04_0039_verso_text_line_18_quote_01"/>10</l>
                     <!--<span type="quote" from="#nb07_04_04_0039_verso_text_line_01_quote_01" to="#nb07_04_04_0039_verso_text_line_18_quote_01"/>-->
                     <!--<span type="genre" rend="read" from="#nb07_04_04_0039_verso_text_line_01_genre_01" to="#nb07_04_04_0039_verso_text_line_18_genre_01"/>-->
                     <l n="19"> it is mercenary to expect happiness as</l>
@@ -1514,13 +1539,15 @@
                     <l n="25">   live withou</l>
                     </lg>
                 <lg type="vertical">
-                    <l n="26" rendition="vertical"><!--[desc]span lines 22-01, left margin[/desc]-->96 &amp; those coffins wh have gone this way more observantly then we tell us that</l>
+                    <l n="26" rendition="sideways"><!--[desc]span lines 22-01, left margin[/desc]-->96 &amp; those coffins wh have gone this way more observantly then we tell us that</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0040_text">
                 <pb facs="nb07_04_04_0040_verso.jpg"/>
                   <lg>
-                    <l n="01">  <note>Richard Baxter’s The Saints’ Everlasting Rest, see earlier note.</note><seg rend="read" xml:id="nb07_04_04_0001_verso_text_line_01_genre_01"/><quote xml:id="nb07_04_04_0001_verso_text_line_01_quote_01"/>99 do you think <hi rend="underline">in good sadness</hi> you are wiser</l>
+                    <l n="01">  <note>Richard Baxter’s The Saints’ Everlasting Rest, see earlier note.</note>
+                        <seg rend="read" xml:id="nb07_04_04_0001_verso_text_line_01_genre_01"/>
+                        <quote xml:id="nb07_04_04_0001_verso_text_line_01_quote_01"/>99 do you think <hi rend="underline">in good sadness</hi> you are wiser</l>
                     <l n="02">    than the patriarchs, Job Adam—</l>
                     <l n="03">  Jacob <del>King</del><del>Paul</del> Solomon—who wound wool gladly</l>
                     <l n="04">  thus did Hercules,</l>
@@ -1548,7 +1575,8 @@
                     <l n="26">  104</l>
                     <l n="27">  <del>w</del> hearts of stone &amp; rock &amp; sottish unkindness</l>
                     <l n="28">  then wh the straightened fire, shut up in the</l>
-                    <l n="29">   <del>heart</del>, <del>strives to</del> is breaking at quick intervals<quote xml:id="nb07_04_04_0001_verso_text_line_29_quote_01"/><seg rend="read" xml:id="nb07_04_04_0001_verso_text_line_29_genre_01"/></l>
+                    <l n="29">   <del>heart</del>, <del>strives to</del> is breaking at quick intervals<quote xml:id="nb07_04_04_0001_verso_text_line_29_quote_01"/>
+                        <seg rend="read" xml:id="nb07_04_04_0001_verso_text_line_29_genre_01"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0001_verso_text_line_01_quote_01" to="#nb07_04_04_0001_verso_text_line_29_quote_01"/>-->
                     <!--<span type="genre" rend="read" from="#nb07_04_04_0001_verso_text_line_01_genre_01" to="#nb07_04_04_0001_verso_text_line_29_genre_01"/>-->
                 </lg>
@@ -1589,7 +1617,10 @@
                     <l n="31">  contained in the massy gold &amp; jewels of that crown</l>
                     </lg>
                 <lg type="vertical">
-                    <l n="32" rendition="vertical"><!--[desc]span lines 25-02, left margin, three rows of print, marked with several parallel lines at lines 25[/desc]-->Exper<del>iences solemn joy in seeing that he has become an idol</del> / See sel<del>dom &amp; cold up &amp; down</del> / it is worth <del>the slight affront to privacy</del><note>Part of these cancelled vertical lines appear in “Marriage.”</note><quote xml:id="nb07_04_04_0041_recto_text_line_32_quote_01"/><seg rend="read" xml:id="nb07_04_04_0041_recto_text_line_32_genre_01"/></l>
+                    <l n="32" rendition="sideways"><!--[desc]span lines 25-02, left margin, three rows of print, marked with several parallel lines at lines 25[/desc]-->Exper<del>iences solemn joy in seeing that he has become an idol</del> / See sel<del>dom &amp; cold up &amp; down</del> / it is worth <del>the slight affront to privacy</del>
+                        <note>Part of these cancelled vertical lines appear in “Marriage.”</note>
+                        <quote xml:id="nb07_04_04_0041_recto_text_line_32_quote_01"/>
+                        <seg rend="read" xml:id="nb07_04_04_0041_recto_text_line_32_genre_01"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0041_recto_text_line_01_quote_01" to="#nb07_04_04_0041_recto_text_line_32_quote_01"/>-->
                     <!--<span type="genre" rend="read" from="#nb07_04_04_0041_recto_text_line_01_genre_01" to="#nb07_04_04_0041_recto_text_line_32_genre_01"/>-->
                 </lg>
@@ -1597,7 +1628,9 @@
             <div type="image" xml:id="nb07_04_04_0042_text">
                 <pb facs="nb07_04_04_0042_verso.jpg"/>
                   <lg>
-                    <l n="01">  <note>Baxter, Richard. The Saints’ Everlasting Rest (see earlier note). The phrase “the Greeks liked smoothness” appears in “An Octopus.”</note><seg rend="read" xml:id="nb07_04_04_0042_verso_text_line_01_genre_01"/><quote xml:id="nb07_04_04_0042_verso_text_line_01_quote_01"/>116  as all lines may be drawn fr a centre &amp;</l>
+                    <l n="01">  <note>Baxter, Richard. The Saints’ Everlasting Rest (see earlier note). The phrase “the Greeks liked smoothness” appears in “An Octopus.”</note>
+                        <seg rend="read" xml:id="nb07_04_04_0042_verso_text_line_01_genre_01"/>
+                        <quote xml:id="nb07_04_04_0042_verso_text_line_01_quote_01"/>116  as all lines may be drawn fr a centre &amp;</l>
                     <l n="02"> pinwheel not from each other, yet their connextion</l>
                     <l n="03">  makes them more comely than they cld be</l>
                     <l n="04">  even  1         alone</l>
@@ -1626,7 +1659,8 @@
                     <l n="27">  a pearl on lepers hands</l>
                     <l n="28">since some of them are <del>the Greeks</del></l>
                     <l n="29"> 130 weary of a hard heart, some of a proud</l>
-                    <l n="30">  1 some of a passionate &amp; some, of all<quote xml:id="nb07_04_04_0042_verso_text_line_30_quote_01"/><seg rend="read" xml:id="nb07_04_04_0042_verso_text_line_30_genre_01"/></l>
+                    <l n="30">  1 some of a passionate &amp; some, of all<quote xml:id="nb07_04_04_0042_verso_text_line_30_quote_01"/>
+                        <seg rend="read" xml:id="nb07_04_04_0042_verso_text_line_30_genre_01"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0042_verso_text_line_01_quote_01" to="#nb07_04_04_0042_verso_text_line_30_quote_01"/>-->
                     <!--<span type="genre" rend="read" from="#nb07_04_04_0042_verso_text_line_30_genre_01" to="#nb07_04_04_0042_verso_text_line_30_genre_01"/>-->
                 </lg>
@@ -1634,7 +1668,9 @@
             <div type="image" xml:id="nb07_04_04_0043_text">
                 <pb facs="nb07_04_04_0043_recto.jpg"/>
                   <lg>
-                    <l n="01">    <note>Baxter, Richard, The Saints’ Everlasting Rest (see earlier note). The phrase “like happy souls in Hell” appears in “An Octopus” and the phrase “with ways out but no way in” appears in “Marriage.”</note><seg rend="read" xml:id="nb07_04_04_0043_recto_text_line_01_genre_01"/><quote xml:id="nb07_04_04_0043_recto_text_line_01_quote_01"/>these &amp; much more</l>
+                    <l n="01">    <note>Baxter, Richard, The Saints’ Everlasting Rest (see earlier note). The phrase “like happy souls in Hell” appears in “An Octopus” and the phrase “with ways out but no way in” appears in “Marriage.”</note>
+                        <seg rend="read" xml:id="nb07_04_04_0043_recto_text_line_01_genre_01"/>
+                        <quote xml:id="nb07_04_04_0043_recto_text_line_01_quote_01"/>these &amp; much more</l>
                     <l n="02">           ________ fixed</l>
                     <l n="03"> 135 <del>the principle of presentation is so deep in nature</del></l>
                     <l n="04">  I <del>never know whose</del> their understanding <del>is not</del> crazed</l>
@@ -1663,7 +1699,8 @@
                     <l n="27">         <hi rend="underline">eternity</hi></l>
                     <l n="28">  a <hi rend="underline">strange phrase</hi>—the value of this</l>
                     <l n="29">  1 infinite cypher wh tho it stand for</l>
-                    <l n="30">  nothing in the vulgar account yet doth contain<quote xml:id="nb07_04_04_0043_recto_text_line_30_quote_01"/><seg rend="read" xml:id="nb07_04_04_0043_recto_text_line_30_genre_01"/></l>
+                    <l n="30">  nothing in the vulgar account yet doth contain<quote xml:id="nb07_04_04_0043_recto_text_line_30_quote_01"/>
+                        <seg rend="read" xml:id="nb07_04_04_0043_recto_text_line_30_genre_01"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0043_recto_text_line_01_quote_01" to="#nb07_04_04_0043_recto_text_line_30_quote_01"/>-->
                     <!--<span type="genre" rend="read" from="#nb07_04_04_0043_recto_text_line_01_genre_01" to="#nb07_04_04_0043_recto_text_line_30_genre_01"/>-->
                 </lg>
@@ -1671,7 +1708,9 @@
             <div type="image" xml:id="nb07_04_04_0044_text">
                 <pb facs="nb07_04_04_0044_verso.jpg"/>
                   <lg>
-                    <l n="01">   <note>Baxter, Richard, The Saints’ Everlasting Rest (see earlier note). Some language appears in “Marriage.”</note><seg rend="read" xml:id="nb07_04_04_0044_verso_text_line_01_genre_01"/><quote xml:id="nb07_04_04_0044_verso_text_line_01_quote_01"/>423 as the scholar shut shuts the doors</l>
+                    <l n="01">   <note>Baxter, Richard, The Saints’ Everlasting Rest (see earlier note). Some language appears in “Marriage.”</note>
+                        <seg rend="read" xml:id="nb07_04_04_0044_verso_text_line_01_genre_01"/>
+                        <quote xml:id="nb07_04_04_0044_verso_text_line_01_quote_01"/>423 as the scholar shut shuts the doors</l>
                     <l n="02">    <del>upon <unclear resp="hcw">me</unclear></del> &amp; as in the lap of eternity</l>
                     <l n="03">   says immured among his book</l>
                     <l n="04">  among those divine souls  I pity the</l>
@@ -1699,7 +1738,8 @@
                     <l n="26"> Yes they have won a place apart in the</l>
                     <l n="27">    art of the world</l>
                     <l n="28">   &amp; tie affections of those who are</l>
-                    <l n="29">  familiar with them.<quote xml:id="nb07_04_04_0044_verso_text_line_29_quote_01"/><seg rend="read" xml:id="nb07_04_04_0044_verso_text_line_29_genre_01"/></l>
+                    <l n="29">  familiar with them.<quote xml:id="nb07_04_04_0044_verso_text_line_29_quote_01"/>
+                        <seg rend="read" xml:id="nb07_04_04_0044_verso_text_line_29_genre_01"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0044_verso_text_line_01_quote_01" to="#nb07_04_04_0044_verso_text_line_29_quote_01"/>-->
                     <!--<span type="genre" rend="read" from="#nb07_04_04_0044_verso_text_line_01_genre_01" to="#nb07_04_04_0044_verso_text_line_29_genre_01"/>-->
                 </lg>
@@ -1707,7 +1747,8 @@
             <div type="image" xml:id="nb07_04_04_0045_text">
                 <pb facs="nb07_04_04_0045_recto.jpg"/>
                   <lg>
-                    <l n="01">   <note>On paper stubs, see Introduction.</note> <!--[draft="Marriage"]-->If there is <del>misunderstanding somewhere</del><note>MM drafts toward “Marriage.”</note></l>
+                    <l n="01">   <note>On paper stubs, see Introduction.</note> <!--[draft="Marriage"]-->If there is <del>misunderstanding somewhere</del>
+                        <note>MM drafts toward “Marriage.”</note></l>
                     <l n="02">  <del>for for</del> it is not here in   in  summing</l>
                     <l n="03"> if accidental statesmanship has <unclear resp="hcw">married</unclear> the</l>
                     <l n="04">  which   matter of <gap extent="3" resp="hcw"/> Daniel Webster<!--[/draft]--></l>
@@ -1753,9 +1794,12 @@
                     <l n="11"> a <del>well organized hell</del></l>
                     <l n="12">  It has remarked: "an odd kind of joy which leaves</l>
                     <l n="13">           one <del>them</del> in fears &amp; uncertaint<!--[/draft]--></l>
-                    <l n="14">  <note>Baxter, Richard, The Saints’ Everlasting Rest.</note><seg rend="read" xml:id="nb07_04_04_0049_recto_text_line_14_genre_01"/><quote xml:id="nb07_04_04_0049_recto_text_line_14_quote_01"/>345-256</l>
+                    <l n="14">  <note>Baxter, Richard, The Saints’ Everlasting Rest.</note>
+                        <seg rend="read" xml:id="nb07_04_04_0049_recto_text_line_14_genre_01"/>
+                        <quote xml:id="nb07_04_04_0049_recto_text_line_14_quote_01"/>345-256</l>
                     <l n="15"> an odd kind of joy which leaves them</l>
-                    <l n="16">   in fears &amp; amazement because of its uncertainty<quote xml:id="nb07_04_04_0049_recto_text_line_16_quote_01"/><seg rend="read" xml:id="nb07_04_04_0049_recto_text_line_16_genre_01"/></l>
+                    <l n="16">   in fears &amp; amazement because of its uncertainty<quote xml:id="nb07_04_04_0049_recto_text_line_16_quote_01"/>
+                        <seg rend="read" xml:id="nb07_04_04_0049_recto_text_line_16_genre_01"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0049_recto_text_line_14_quote_01" to="#nb07_04_04_0049_recto_text_line_16_quote_01"/>-->
                     <!--<span type="genre" rend="read" from="#nb07_04_04_0049_recto_text_line_14_genre_01" to="#nb07_04_04_0049_recto_text_line_16_genre_01"/>-->
                     <l n="17"/>
@@ -1765,7 +1809,9 @@
                     <l n="21">  And so   that</l>
                     <l n="22">     <del>&amp;</del> so against well organized hell of insecurity</l>
                     <l n="23">  And    ivory white oyster white without much stirring up etc<!--[/draft]--></l>
-                    <l n="24"> <seg rend="read" xml:id="nb07_04_04_0024_recto_text_line_24_genre_01"/><quote xml:id="nb07_04_04_0024_recto_text_line_24_quote_01"/>88 So one adds this brief position:<seg rend="read" xml:id="nb07_04_04_0024_recto_text_line_24_genre_02"/><quote xml:id="nb07_04_04_0024_recto_text_line_24_quote_02"/></l>
+                    <l n="24"> <seg rend="read" xml:id="nb07_04_04_0024_recto_text_line_24_genre_01"/>
+                        <quote xml:id="nb07_04_04_0024_recto_text_line_24_quote_01"/>88 So one adds this brief position:<seg rend="read" xml:id="nb07_04_04_0024_recto_text_line_24_genre_02"/>
+                        <quote xml:id="nb07_04_04_0024_recto_text_line_24_quote_02"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0024_recto_text_line_24_quote_01" to="#nb07_04_04_0024_recto_text_line_24_quote_02"/>-->
                     <!--<span type="genre" rend="read" from="#nb07_04_04_0024_recto_text_line_24_genre_01" to="#nb07_04_04_0024_recto_text_line_24_genre_02"/>-->
                     <l n="25">  <!--[draft="Marriage"]--> we occidentals are so unemotional</l>
@@ -1813,7 +1859,7 @@
                     <l n="24"/>
                     <l n="25">  exacting public</l>
                     </lg>
-                <lg type="vertical">
+                <lg type="sideways">
                     <l n="26">club</l>
                 </lg>
             </div>
@@ -1853,8 +1899,10 @@
                     <l n="31">  <del>one is</del> fortunate in having friends</l>
                     <l n="32">  w<del>ho</del> while children yet, in years, are not inane<!--[/draft]--></l>
                     </lg>
-                <lg type="vertical">
-                    <l n="33">So careful not to purchase happiness at the expense of freedom <del><gap extent="4" resp="cm"/></del> insisting w the knowledge of experience that the gentle</l>
+                <lg type="sideways">
+                    <l n="33">So careful not to purchase happiness at the expense of freedom <del>
+                            <gap extent="4" resp="cm"/>
+                        </del> insisting w the knowledge of experience that the gentle</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0052_text">
@@ -1867,13 +1915,16 @@
                     <l n="05"> Even w the earmarks of emotion</l>
                     <l n="06">  we occidentals are so unemotional</l>
                     <l n="07">  objecting that<!--[/draft]--></l>
-                    <l n="08">  <note>Baxter, Richard, The Saints’ Everlasting Rest (see earlier note).</note><seg rend="read" xml:id="nb07_04_04_0052_verso_text_line_08_genre_01"/><quote xml:id="nb07_04_04_0052_verso_text_line_08_quote_01"/>393 without much stirring up the heart</l>
+                    <l n="08">  <note>Baxter, Richard, The Saints’ Everlasting Rest (see earlier note).</note>
+                        <seg rend="read" xml:id="nb07_04_04_0052_verso_text_line_08_genre_01"/>
+                        <quote xml:id="nb07_04_04_0052_verso_text_line_08_quote_01"/>393 without much stirring up the heart</l>
                     <l n="09">           will stand still</l>
                     <l n="10">  &amp; perhaps the best hearts have much</l>
                     <l n="11">           of this temper</l>
                     <l n="12">           what is mere discovery</l>
                     <l n="13">  one must trade off the pleasure of</l>
-                    <l n="14">            for the burden of possessing<quote xml:id="nb07_04_04_0052_verso_text_line_14_quote_01"/><seg rend="read" xml:id="nb07_04_04_0052_verso_text_line_14_genre_01"/></l>
+                    <l n="14">            for the burden of possessing<quote xml:id="nb07_04_04_0052_verso_text_line_14_quote_01"/>
+                        <seg rend="read" xml:id="nb07_04_04_0052_verso_text_line_14_genre_01"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0052_verso_text_line_08_quote_01" to="#nb07_04_04_0052_verso_text_line_14_quote_01"/>-->
                     <!--<span type="genre" rend="read" from="#nb07_04_04_0052_verso_text_line_08_genre_01" to="#nb07_04_04_0052_verso_text_line_14_genre_01"/>-->
                     <l n="15">  <!--[draft="Marriage"]--> an odd joy this wh leaves one in</l>
@@ -1973,7 +2024,8 @@
             <div type="image" xml:id="nb07_04_04_0058_text">
                 <pb facs="nb07_04_04_0058_verso.jpg"/> 
                   <lg>
-                    <l n="01">[No handwriting on this page]</l></lg>
+                    <l n="01">[No handwriting on this page]</l>
+                </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0059_text">
                 <pb facs="nb07_04_04_0059_recto.jpg"/>
@@ -1985,7 +2037,8 @@
             <div type="image" xml:id="nb07_04_04_0060_text">
                 <pb facs="nb07_04_04_0060_verso.jpg"/> 
                   <lg>
-                    <l n="01">[No handwriting on this page]</l></lg>
+                    <l n="01">[No handwriting on this page]</l>
+                </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0061_text">
                 <pb facs="nb07_04_04_0061_recto.jpg"/>
@@ -2106,7 +2159,8 @@
                     <l n="19">  says to his face</l>
                     <l n="20">  we occidentals are so unemotional <del>clad</del></l>
                     <l n="21">          hermits inhabiting</l>
-                    <l n="22"><del>in</del> tobacco-<del>colored</del> crepe de chine</l>
+                    <l n="22">
+                        <del>in</del> tobacco-<del>colored</del> crepe de chine</l>
                     <l n="23"> in which what monarch wld not blush</l>
                     <l n="24"> to find the wizard in the hermit</l>
                     <l n="25"/>
@@ -2140,12 +2194,15 @@
                         <l n="16">    <!--[draft="An Octopus"]--> <hi rend="underline">An Octopus</hi> crossstitch</l>
                         <l n="17">  of     ice  a snow crystal of <del>needlepoint</del></l>
                         <l n="18">    of the trees</l>
-                        <l n="19"> pines     in    <note>Wilcox, W.     D. The Rockies of Canada. New York: G. P. Putnams Son's,     1909.</note><seg rend="read" xml:id="nb07_04_04_0066_verso_text_line_19_genre_01"/><quote xml:id="nb07_04_04_0066_verso_text_line_19_quote_01"/> 226 enchanted peak flowers</l>
+                        <l n="19"> pines     in    <note>Wilcox, W.     D. The Rockies of Canada. New York: G. P. Putnams Son's,     1909.</note>
+                        <seg rend="read" xml:id="nb07_04_04_0066_verso_text_line_19_genre_01"/>
+                        <quote xml:id="nb07_04_04_0066_verso_text_line_19_quote_01"/> 226 enchanted peak flowers</l>
                         <l n="20">  roots like writing serpents</l>
                         <l n="21">  roar of ice</l>
                         <l n="22">  topaz tourmaline crystal robus egg blue water</l>
                         <l n="23">  valleys deep &amp; narrow</l>
-                        <l n="24">  quartz ledges encrusting valleys deep &amp; narrow<quote xml:id="nb07_04_04_0066_verso_text_line_24_quote_01"/><seg rend="read" xml:id="nb07_04_04_0066_verso_text_line_24_genre_01"/><!--[/draft="An Octopus"]--></l>
+                        <l n="24">  quartz ledges encrusting valleys deep &amp; narrow<quote xml:id="nb07_04_04_0066_verso_text_line_24_quote_01"/>
+                        <seg rend="read" xml:id="nb07_04_04_0066_verso_text_line_24_genre_01"/><!--[/draft="An Octopus"]--></l>
                         <!--<span type="quote" from="#nb07_04_04_0066_verso_text_line_19_quote_01" to="#nb07_04_04_0066_verso_text_line_24_quote_01"/>-->
                         <!--<span type="genre" rend="read" from="#nb07_04_04_0066_verso_text_line_19_genre_01" to="#nb07_04_04_0066_verso_text_line_24_genre_01"/>-->
                 </lg>
@@ -2153,7 +2210,9 @@
             <div type="image" xml:id="nb07_04_04_0067_text">
                 <pb facs="nb07_04_04_0067_recto.jpg"/>
                   <lg>
-                    <l n="01">   <note>MM drafts toward “An Octopus,” blending note-taking with drafting. Some phrases appear in the published poem.</note><seg rend="read" xml:id="nb07_04_04_0067_recto_text_line_01_genre_01"/><quote xml:id="nb07_04_04_0067_recto_text_line_01_quote_01"/>Lake Agnes goats looking glasses</l>
+                    <l n="01">   <note>MM drafts toward “An Octopus,” blending note-taking with drafting. Some phrases appear in the published poem.</note>
+                        <seg rend="read" xml:id="nb07_04_04_0067_recto_text_line_01_genre_01"/>
+                        <quote xml:id="nb07_04_04_0067_recto_text_line_01_quote_01"/>Lake Agnes goats looking glasses</l>
                     <l n="02">  shaped like the left human foot</l>
                     <l n="03">  brilliant ice fields  the goats true looking glass</l>
                     <l n="04"> between the shadowy cliffs the liquid ice black &amp; white goats'</l>
@@ -2172,7 +2231,8 @@
                     <l n="17">  trees, merging in irregular patches, to</l>
                     <l n="18"> the deep bluish green of the middle lake</l>
                     <l n="19"> breezes make ripples cease only to breathe</l>
-                    <l n="20"> upon another place like gasps of a storm<quote xml:id="nb07_04_04_0067_recto_text_line_20_quote_01"/><seg rend="read" xml:id="nb07_04_04_0067_recto_text_line_20_genre_01"/></l>
+                    <l n="20"> upon another place like gasps of a storm<quote xml:id="nb07_04_04_0067_recto_text_line_20_quote_01"/>
+                        <seg rend="read" xml:id="nb07_04_04_0067_recto_text_line_20_genre_01"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0067_recto_text_line_01_quote_01" to="#nb07_04_04_0067_recto_text_line_20_quote_01"/>-->
                     <!--<span type="genre" from="#nb07_04_04_0067_recto_text_line_01_genre_01" to="#nb07_04_04_0067_recto_text_line_20_genre_01"/>-->
                     <l n="21">     <!--[draft="An Octopus"]--> the goats looking glass</l>
@@ -2195,7 +2255,7 @@
                     <l n="38">    <del>clouds</del> of powdered ice, like a waterfall</l>
                     <l n="39"> <del> <gap extent="2" resp="hcw"/> </del>           <del>plunging down</del> <quote xml:id="nb07_04_04_0067_recto_text_line_39_quote_01"/> <seg rend="read" xml:id="nb07_04_04_0067_recto_text_line_39_genre_01"/></l>
                     </lg>
-                <lg type="vertical">
+                <lg type="sideways">
                     <l n="40">No greek dissatisfied w marble &amp; the gentian &amp; the olive <unclear resp="hcw">tinted</unclear> plain</l>
                     <l n="41">the age comes back to</l>
                     <!--<span type="quote" from="#nb07_04_04_0067_recto_text_line_36_quote_01" to="#nb07_04_04_0067_recto_text_line_39_quote_01"/>-->
@@ -2205,7 +2265,9 @@
             <div type="image" xml:id="nb07_04_04_0068_text">
                 <pb facs="nb07_04_04_0068_verso.jpg"/>
                   <lg>
-                    <l n="01">  <note>Wilcox, W. D. The Rockies of Canada (see earlier note).</note><seg rend="read" xml:id="nb07_04_04_0068_verso_text_line_01_genre_01"/><quote xml:id="nb07_04_04_0068_verso_text_line_01_quote_01"/>28    the</l>
+                    <l n="01">  <note>Wilcox, W. D. The Rockies of Canada (see earlier note).</note>
+                        <seg rend="read" xml:id="nb07_04_04_0068_verso_text_line_01_genre_01"/>
+                        <quote xml:id="nb07_04_04_0068_verso_text_line_01_quote_01"/>28    the</l>
                     <l n="02">w colors on of <del>sea</del> sea    <hi rend="black">draughts</hi></l>
                     <l n="03"> delicate shades—faint rainbow hues</l>
                     <l n="04">      trans</l>
@@ -2238,8 +2300,9 @@
                     <l n="31"> 50 a committee of one to gather the hats &amp; the</l>
                     <l n="32">   ice hacks &amp; personal <del>property</del> objects</l>
                     </lg>
-                <lg type="vertical">
-                    <l n="33" rendition="vertical"><!--[desc]left margin, span lines 31-10[/desc]-->in spite of my earnest resolve to keep a straight course<quote xml:id="nb07_04_04_0068_verso_text_line_33_quote_01"/><seg rend="read" xml:id="nb07_04_04_0068_verso_text_line_33_genre_01"/></l>
+                <lg type="sideways">
+                    <l n="33" rendition="vertical"><!--[desc]left margin, span lines 31-10[/desc]-->in spite of my earnest resolve to keep a straight course<quote xml:id="nb07_04_04_0068_verso_text_line_33_quote_01"/>
+                        <seg rend="read" xml:id="nb07_04_04_0068_verso_text_line_33_genre_01"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0068_verso_text_line_01_quote_01" to="#nb07_04_04_0068_verso_text_line_33_quote_01"/>-->
                     <!--<span type="quote" from="#nb07_04_04_0068_verso_text_line_01_genre_01" to="#nb07_04_04_0068_verso_text_line_33_genre_01"/>-->
                 </lg>
@@ -2247,7 +2310,9 @@
             <div type="image" xml:id="nb07_04_04_0069_text">
                 <pb facs="nb07_04_04_0069_recto.jpg"/>
                   <lg>
-                    <l n="01">   <note>Wilcox, W. D. The Rockies of Canada (see earlier note). Some phrases appear in “An Octobpus,” especially as first published.</note><seg rend="read" xml:id="nb07_04_04_0069_recto_text_line_01_genre_01"/><quote xml:id="nb07_04_04_0069_recto_text_line_01_quote_01"/>comes staring at us as we passed along.</l>
+                    <l n="01">   <note>Wilcox, W. D. The Rockies of Canada (see earlier note). Some phrases appear in “An Octobpus,” especially as first published.</note>
+                        <seg rend="read" xml:id="nb07_04_04_0069_recto_text_line_01_genre_01"/>
+                        <quote xml:id="nb07_04_04_0069_recto_text_line_01_quote_01"/>comes staring at us as we passed along.</l>
                     <l n="02"> 52 usual obstacles of fallen timber</l>
                     <l n="03"> full of   deterrent</l>
                     <l n="04">  Indian sarcasm</l>
@@ -2279,7 +2344,8 @@
                     <l n="30">    <del>like the three brothe beautiful youths</del></l>
                     <l n="31">   one w brown hair one w yellow one black</l>
                     <l n="32"> 92 carbonate of iron made a brilliant</l>
-                    <l n="33">   surface of sparkling crystals<quote xml:id="nb07_04_04_0069_recto_text_line_33_quote_01"/><seg rend="read" xml:id="nb07_04_04_0069_recto_text_line_33_genre_01"/></l>
+                    <l n="33">   surface of sparkling crystals<quote xml:id="nb07_04_04_0069_recto_text_line_33_quote_01"/>
+                        <seg rend="read" xml:id="nb07_04_04_0069_recto_text_line_33_genre_01"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0069_recto_text_line_01_quote_01" to="#nb07_04_04_0069_recto_text_line_33_quote_01"/>-->
                     <!--<span type="genre" rend="read" from="#nb07_04_04_0069_recto_text_line_01_genre_01" to="#nb07_04_04_0069_recto_text_line_33_genre_01"/>-->
                 </lg>
@@ -2287,7 +2353,9 @@
             <div type="image" xml:id="nb07_04_04_0070_text">
                 <pb facs="nb07_04_04_0070_verso.jpg"/>
                   <lg>
-                    <l n="01">   <note>Wilcox, W. D. The Rockies of Canada (see earlier note). Some phrases appear in “An Octopus.”</note><seg rend="read" xml:id="nb07_04_04_0070_verso_text_line_01_genre_01"/><quote xml:id="nb07_04_04_0070_verso_text_line_01_quote_01"/> ice hacks  no Greek wld have it as a gift</l>
+                    <l n="01">   <note>Wilcox, W. D. The Rockies of Canada (see earlier note). Some phrases appear in “An Octopus.”</note>
+                        <seg rend="read" xml:id="nb07_04_04_0070_verso_text_line_01_genre_01"/>
+                        <quote xml:id="nb07_04_04_0070_verso_text_line_01_quote_01"/> ice hacks  no Greek wld have it as a gift</l>
                     <l n="02">93 raisins &amp; hard tack vs a vertical</l>
                     <l n="03">  wall of rock 500 feet high</l>
                     <l n="04"> 95 a garden of bluebells &amp; asters</l>
@@ -2308,7 +2376,9 @@
                     <l n="19">          the place usually</l>
                     <l n="20"> 116 the <del>business</del> men of Banff who take</l>
                     <l n="21">  about 365 holidays every year</l>
-                    <l n="22">    bank  <del>in</del><quote xml:id="nb07_04_04_0070_verso_text_line_22_quote_01"/><seg rend="read" xml:id="nb07_04_04_0070_verso_text_line_22_genre_01"/></l>
+                    <l n="22">    bank  <del>in</del>
+                        <quote xml:id="nb07_04_04_0070_verso_text_line_22_quote_01"/>
+                        <seg rend="read" xml:id="nb07_04_04_0070_verso_text_line_22_genre_01"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0070_verso_text_line_01_quote_01" to="#nb07_04_04_0070_verso_text_line_22_quote_01"/>-->
                     <!--<span type="genre" rend="read" from="#nb07_04_04_0070_verso_text_line_01_genre_01" to="#nb07_04_04_0070_verso_text_line_22_genre_01"/>-->
                 </lg>
@@ -2316,7 +2386,9 @@
             <div type="image" xml:id="nb07_04_04_0071_text">
                 <pb facs="nb07_04_04_0071_recto.jpg"/>
                   <lg>
-                    <l n="01">   <note>Wilcox, W. D. The Rockies of Canada (see earlier note).</note><seg rend="read" xml:id="nb07_04_04_0071_recto_text_line_01_genre_01"/><quote xml:id="nb07_04_04_0071_recto_text_line_01_quote_01"/>the Greeks liked smoothness</l>
+                    <l n="01">   <note>Wilcox, W. D. The Rockies of Canada (see earlier note).</note>
+                        <seg rend="read" xml:id="nb07_04_04_0071_recto_text_line_01_genre_01"/>
+                        <quote xml:id="nb07_04_04_0071_recto_text_line_01_quote_01"/>the Greeks liked smoothness</l>
                     <l n="02"> 117 a geographical blank</l>
                     <l n="03"> 119 2 prs of trousers one over the other the</l>
                     <l n="04">  outer one older—deteriorating in relays</l>
@@ -2346,7 +2418,8 @@
                     <l n="28"> 165 glacial waters sweeping fr one side to the other of</l>
                     <l n="29">bisecting</l>
                     <l n="30">  Small crystal water       the valley</l>
-                    <l n="31">  a<quote xml:id="nb07_04_04_0071_recto_text_line_31_quote_01"/><seg rend="read" xml:id="nb07_04_04_0071_recto_text_line_31_genre_01"/></l>
+                    <l n="31">  a<quote xml:id="nb07_04_04_0071_recto_text_line_31_quote_01"/>
+                        <seg rend="read" xml:id="nb07_04_04_0071_recto_text_line_31_genre_01"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0071_recto_text_line_01_quote_01" to="#nb07_04_04_0071_recto_text_line_31_quote_01"/>-->
                     <!--<span type="genre" rend="read" from="#nb07_04_04_0071_recto_text_line_01_genre_01" to="#nb07_04_04_0071_recto_text_line_31_genre_01"/>-->
                 </lg>
@@ -2383,7 +2456,8 @@
                     <l n="27">  then falls <del>100</del> more or 100</l>
                     <l n="28"> 228 climb chop &amp; ford</l>
                     <l n="29">  229 spring fragrance &amp; the winter colors</l>
-                    <l n="30">  231 a single ridge of green on impassible rock<quote xml:id="nb07_04_04_0072_verso_text_line_30_quote_01"/><seg rend="read" xml:id="nb07_04_04_0072_verso_text_line_30_genre_01"/></l>
+                    <l n="30">  231 a single ridge of green on impassible rock<quote xml:id="nb07_04_04_0072_verso_text_line_30_quote_01"/>
+                        <seg rend="read" xml:id="nb07_04_04_0072_verso_text_line_30_genre_01"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0072_verso_text_line_01_quote_01" to="#nb07_04_04_0072_verso_text_line_30_quote_01"/>-->
                     <!--<span type="genre" rend="read" from="#nb07_04_04_0072_verso_text_line_01_genre_01" to="#nb07_04_04_0072_verso_text_line_30_genre_01"/>-->
                 </lg>
@@ -2391,7 +2465,9 @@
             <div type="image" xml:id="nb07_04_04_0073_text">
                 <pb facs="nb07_04_04_0073_recto.jpg"/>
                   <lg>
-                    <l n="01" rend="read">   <note>Wilcox, W. D. The Rockies of Canada (see earlier note). MM drafts toward “An Octopus” toward the bottom of the page.</note><seg rend="read"/><quote xml:id="nb07_04_04_0073_recto_text_line_01_quote_01"/>Slides. (the wan green (sky) the <del>gorgeous</del></l>
+                    <l n="01" rend="read">   <note>Wilcox, W. D. The Rockies of Canada (see earlier note). MM drafts toward “An Octopus” toward the bottom of the page.</note>
+                        <seg rend="read"/>
+                        <quote xml:id="nb07_04_04_0073_recto_text_line_01_quote_01"/>Slides. (the wan green (sky) the <del>gorgeous</del></l>
                     <l n="02" rend="read">           air  giant</l>
                     <l n="03" rend="read"> 236 blue &amp; grey limestone     cuttlefish</l>
                     <l n="04" rend="read"> 237 porcupine infested places   octapus<note>According to Patricia C. Willis, MM misspells “octopus” even on the typed manuscript she sent to the Dial (personal correspondence, 26 February 2017).</note></l>
@@ -2411,7 +2487,8 @@
                     <l n="18" rend="read">     <del>its white shadow (floating there</del> <quote xml:id="nb07_04_04_0073_recto_text_line_18_quote_01"/> <note>MM could be drawing a line across the page rather than deliberately cancelling these words.</note></l>
                     <!--<span type="quote" from="#nb07_04_04_0073_recto_text_line_01_quote_01" to="#nb07_04_04_0073_recto_text_line_18_quote_01"/>-->
                     <l n="19" rend="read"> Guy DuBois<note>du Bois, Guy Pène (1884-1958). A New York painter, critic, and educator, who was known for his stylized, satirical painting and his dry wit.</note>— <quote xml:id="nb07_04_04_0073_recto_text_line_19_quote_01"/>a collection without restrictions is</l>
-                    <l n="20" rend="read"> Studio a collection without flavor<quote xml:id="nb07_04_04_0073_recto_text_line_20_quote_01"/><seg rend="read"/></l>
+                    <l n="20" rend="read"> Studio a collection without flavor<quote xml:id="nb07_04_04_0073_recto_text_line_20_quote_01"/>
+                        <seg rend="read"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0073_recto_text_line_19_quote_01" to="#nb07_04_04_0073_recto_text_line_20_quote_01"/>-->
                     <l n="21" rend="verse"> July <!-- [draft="An Octopus"]--> Let it float   trees disappear</l>
                     <l n="22" rend="verse"> _____________________________________</l>
@@ -2604,7 +2681,8 @@
             <div type="image" xml:id="nb07_04_04_0079_text">
                 <pb facs="nb07_04_04_0079_recto.jpg"/>
                   <lg>
-                    <l n="01" rend="verse">  <!-- [draft="An Octopus"]--><del>both</del> wise &amp; something of a villain<note>MM drafts toward “An Octopus”; some phrases appear in the published poem.</note></l>
+                    <l n="01" rend="verse">  <!-- [draft="An Octopus"]-->
+                        <del>both</del> wise &amp; something of a villain<note>MM drafts toward “An Octopus”; some phrases appear in the published poem.</note></l>
                     <l n="02" rend="verse">      <del>the thrust</del> the thrust the bird which</l>
                     <l n="03" rend="verse">  unlike those birds which like the inward spirit</l>
                     <l n="04" rend="verse">  of the forest, never shows</l>
@@ -2708,7 +2786,9 @@
                     </lg>
                 <lg type="vertical">
                     <l n="31" rend="verse">Calypso, the goats flower.</l>
-                    <l n="32" rend="verse"><!--[desc]right margin, lines 02-25 in three rows of script [/desc]-->was / an embroider * enammeled <hi rend="underline">an</hi><hi rend="underline strikethrough"> embroider</hi> as a marble classic Greek / a <del>marble</del></l>
+                </lg>
+                <lg type="sideways">
+                    <l n="32" rend="verse"><!--[desc]right margin, lines 02-25 in three rows of script [/desc]-->was / an embroider * enammeled <hi rend="underline">an</hi> <hi rend="underline strikethrough"> embroider</hi> as a marble classic Greek / a <del>marble</del></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0082_text">
@@ -2773,19 +2853,24 @@
                     <l n="20" rend="verse">  a curtain of powdered ice</l>
                     <l n="21" rend="verse"> loosed like a waterfall.<!--[/draft]--></l>
                     <l n="22" rend="verse"> <bibl><hi rend="underline">Johnson </hi><note>Johnson,     Clifton (1865-1940). American author, illustrator, and self-styled     folklorist.</note></bibl> __________________________</l>
-                    <l n="23" rend="read">  <note>Johnson, Clifton. What to See in America. New York: Macmillan, 1919. <!-- https://archive.org/details/whattoseeinameri00john --></note><seg rend="read"/><quote xml:id="nb07_04_04_0083_recto_text_line_23_quote_01"/>dumps of gold &amp; silver ore</l>
+                    <l n="23" rend="read">  <note>Johnson, Clifton. What to See in America. New York: Macmillan, 1919. <!-- https://archive.org/details/whattoseeinameri00john --></note>
+                        <seg rend="read"/>
+                        <quote xml:id="nb07_04_04_0083_recto_text_line_23_quote_01"/>dumps of gold &amp; silver ore</l>
                     <l n="24" rend="read"> 410 the same species of trees which lower down are tall</l>
                     <l n="25" rend="read"> &amp; straight are here dwarfed &amp; twisted. These</l>
                     <l n="26" rend="read"> stunted trees grow very slowly—<del>about a</del></l>
                     <l n="27" rend="read"> the average trunk increases in diameter</l>
-                    <l n="28" rend="read">  about an inch in a century, yet some<quote xml:id="nb07_04_04_0083_recto_text_line_28_quote_01"/><seg rend="read"/></l>
+                    <l n="28" rend="read">  about an inch in a century, yet some<quote xml:id="nb07_04_04_0083_recto_text_line_28_quote_01"/>
+                        <seg rend="read"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0083_recto_text_line_23_quote_01" to="#nb07_04_04_0083_recto_text_line_28_quote_01"/>-->
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0084_text">
                 <pb facs="nb07_04_04_0084_verso.jpg"/>
                   <lg>
-                    <l n="01" rend="read">   <note>Johnson, Clifton. What to See in America (see earlier note).</note><seg rend="read"/><quote xml:id="nb07_04_04_0084_verso_text_line_01_quote_01"/>of the trees have trunks as much as 3 ft in</l>
+                    <l n="01" rend="read">   <note>Johnson, Clifton. What to See in America (see earlier note).</note>
+                        <seg rend="read"/>
+                        <quote xml:id="nb07_04_04_0084_verso_text_line_01_quote_01"/>of the trees have trunks as much as 3 ft in</l>
                     <l n="02" rend="read">  diameter. The cold is excessive &amp; the (strong)</l>
                     <l n="03" rend="read"> winter winds tearing the snow flakes into minute</l>
                     <l n="04" rend="read"> ice cryslats, hurling them like a sandblast</l>
@@ -2816,14 +2901,16 @@
                     <l n="29" rend="read">  The Blue Forest</l>
                     <l n="30" rend="read"> 446 tumbled together as if whole quarries</l>
                     <l n="31" rend="read">  of marble &amp; onyx had been dynamited</l>
-                    <l n="32" rend="read"> 514 palace of the bears pendent with w<quote xml:id="nb07_04_04_0084_verso_text_line_32_quote_01"/><seg rend="read"/></l>
+                    <l n="32" rend="read"> 514 palace of the bears pendent with w<quote xml:id="nb07_04_04_0084_verso_text_line_32_quote_01"/>
+                        <seg rend="read"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0084_verso_text_line_01_quote_01" to="#nb07_04_04_0084_verso_text_line_32_quote_01"/>-->
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0085_text">
                 <pb facs="nb07_04_04_0085_recto.jpg"/>
                   <lg>
-                    <l n="01" rend="read">   <note>Johnson, Clifton.     <title>What to See in America</title> (see earlier note).</note><seg rend="read"/><quote xml:id="nb07_04_04_0085_recto_text_line_01_quote_01"/> calcium gems, pillared in alabaster &amp;<note>It is unclear whether MM has accidentally crossed her “ll”s in “pillared” or intends to cancel the phrase “pillared in,” which is in Johnson page 514. Several words at the top of this page are ambiguously cancelled.</note></l>
+                    <l n="01" rend="read">   <note>Johnson, Clifton.     <title>What to See in America</title> (see earlier note).</note><seg rend="read"/>
+                        <quote xml:id="nb07_04_04_0085_recto_text_line_01_quote_01"/> calcium gems, pillared in alabaster &amp;<note>It is unclear whether MM has accidentally crossed her “ll”s in “pillared” or intends to cancel the phrase “pillared in,” which is in Johnson page 514. Several words at the top of this page are ambiguously cancelled.</note></l>
                     <l n="02" rend="read">  tapestried <del>in</del>and crystal.</l>
                     <l n="03" rend="read"> 517 Cr<del>ater lake the color in</del> <hi rend="underline">indigo blue</hi> <del>except</del></l>
                     <l n="04" rend="read">  <del>along the borders</del>—<hi rend="underline">so transparent</hi> <del>is the</del></l>
@@ -2862,7 +2949,9 @@
             <div type="image" xml:id="nb07_04_04_0086_text">
                 <pb facs="nb07_04_04_0086_verso.jpg"/>
                   <lg>
-                    <l n="01" rend="read">  <note>Johnson, Clifton. What to See in America (see earlier note).</note><seg rend="read"/><quote xml:id="nb07_04_04_0086_verso_text_line_01_quote_01"/> 540 roaring falls &amp; loud cascades</l>
+                    <l n="01" rend="read">  <note>Johnson, Clifton. What to See in America (see earlier note).</note>
+                        <seg rend="read"/>
+                        <quote xml:id="nb07_04_04_0086_verso_text_line_01_quote_01"/> 540 roaring falls &amp; loud cascades</l>
                     <l n="02" rend="read"> the brooks crowded w trout  <del>&amp; many</del></l>
                     <l n="03" rend="read">              scores of</l>
                     <l n="04" rend="read">  elk bear deer wolf lynx ott<del>er &amp;</del> beavers</l>
@@ -2871,7 +2960,8 @@
                     <l n="07" rend="read"> 540 riffles &amp; "white water" meadows in their dome</l>
                     <l n="08" rend="read"> 541 American Pacific Whaling Co tows in whales</l>
                     <l n="09" rend="read">  humpbacks, finbacks, sulphur bottoms,</l>
-                    <l n="10" rend="read"> &amp; sperms—<quote xml:id="nb07_04_04_0086_verso_text_line_10_quote_01"/><seg rend="read"/></l>
+                    <l n="10" rend="read"> &amp; sperms—<quote xml:id="nb07_04_04_0086_verso_text_line_10_quote_01"/>
+                        <seg rend="read"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0086_verso_text_line_01_quote_01" to="#nb07_04_04_0086_verso_text_line_01_quote_10"/>-->
                     <l n="11" rend="verse"> ______________________________________________</l>
                     <l n="12" rend="verse"> <!-- [draft="An Octopus"]-->perched like the eagle with tigers in its eyes &amp; feet<note>MM drafts toward “An Octopus” from beneath the first horizontal line to the bottom of the page.</note></l>
@@ -2933,7 +3023,9 @@
                     <l n="26" rend="verse"> must needs itself be best  one hears the stream of it</l>
                     <l n="27" rend="verse">            still falling the good water</l>
                     <l n="28" rend="verse">             dropping 300 feet<!--[/draft]--></l>
-                    <l n="29" rend="read">  <note>Here and below, MM quotes from Rules and Regulations, Mount Rainier National Park. Washington DC: United States Government Printing Office, 1922. MM takes notes and drafts in the margins of her copy of this booklet, which can be accessed on the "Moore's Sources" page under "Criticism and Commentary" within "Education and Scholarship."</note><seg rend="read"/><quote xml:id="nb07_04_04_0087_recto_text_line_29_quote_01"/>12 what to wear what to take with you</l>
+                    <l n="29" rend="read">  <note>Here and below, MM quotes from Rules and Regulations, Mount Rainier National Park. Washington DC: United States Government Printing Office, 1922. MM takes notes and drafts in the margins of her copy of this booklet, which can be accessed on the "Moore's Sources" page under "Criticism and Commentary" within "Education and Scholarship."</note>
+                        <seg rend="read"/>
+                        <quote xml:id="nb07_04_04_0087_recto_text_line_29_quote_01"/>12 what to wear what to take with you</l>
                     <l n="30" rend="read"> It is hard to be a servant when you are</l>
                     <l n="31" rend="read">    trying to be many masters</l>
                     <l n="32" rend="read">what look like harmless</l>
@@ -2942,14 +3034,17 @@
                     <l n="35" rend="read"> treacherous lava &amp; pumice</l>
                     <l n="36" rend="read">  hoarse rustle</l>
                     <l n="37" rend="read"> splash of water<del>falls</del> is <del>faintly</del> heard</l>
-                    <l n="38" rend="read"> 15 lakes emerald &amp; turquoise<quote xml:id="nb07_04_04_0087_recto_text_line_38_quote_01"/><seg rend="read"/></l>
+                    <l n="38" rend="read"> 15 lakes emerald &amp; turquoise<quote xml:id="nb07_04_04_0087_recto_text_line_38_quote_01"/>
+                        <seg rend="read"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0087_recto_text_line_29_note_01" to="#nb07_04_04_0087_recto_text_line_38_note_01"/>-->
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0088_text">
                 <pb facs="nb07_04_04_0088_verso.jpg"/>
                   <lg>
-                    <l n="01" rend="read"><note>MM takes notes and drafts toward “An Octopus.”</note>  <note>Rules and Regulations, Mount Rainier National Park (see earlier note).</note><seg rend="read"/><quote xml:id="nb07_04_04_0088_verso_text_line_01_quote_01"/>11 doubling back &amp; forth upon itself</l>
+                    <l n="01" rend="read"><note>MM takes notes and drafts toward “An Octopus.”</note>  <note>Rules and Regulations, Mount Rainier National Park (see earlier note).</note>
+                        <seg rend="read"/>
+                        <quote xml:id="nb07_04_04_0088_verso_text_line_01_quote_01"/>11 doubling back &amp; forth upon itself</l>
                     <l n="02" rend="read">  the road winds thru the canyon like the groove</l>
                     <l n="03" rend="read"> Ponies  around a snail shell, up to its very lip</l>
                     <l n="04" rend="read">  clinging closely to the road they did not make that takes them</l>
@@ -2977,7 +3072,8 @@
                     <l n="26" rend="read"> animals in this municipality</l>
                     <l n="27" rend="read">  name &amp; address of someone to notify in case of</l>
                     <l n="28" rend="read">  20 ser<del>ious accident</del> destruction an</l>
-                    <l n="29" rend="read">  seedlings &amp; monsters 1600 years old<quote xml:id="nb07_04_04_0088_verso_text_line_29_quote_01"/><seg rend="read"/></l>
+                    <l n="29" rend="read">  seedlings &amp; monsters 1600 years old<quote xml:id="nb07_04_04_0088_verso_text_line_29_quote_01"/>
+                        <seg rend="read"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0088_verso_text_line_01_quote_01" to="#nb07_04_04_0088_verso_text_line_29_quote_01"/>-->
                 </lg>
             </div>
@@ -3200,7 +3296,7 @@
                     <l n="32" rend="verse">         lost its wild quality</l>
                     <l n="33" rend="verse">                "</l>
                     </lg>
-                <lg type="vertical">
+                <lg type="sideways">
                     <l n="34" rend="verse"><!--[desc] left margin from lines 26-06, in two rows of script[\desc]-->One <del>never</del> cannot then be <del>un</del>grateful to them, when they <del>finally</del> / go away   have gon</l>
                 </lg>
             </div>
@@ -3301,7 +3397,7 @@
                     <l n="29" rend="verse">       my house yr inn</l>
                     <l n="30" rend="verse">  Inns are not residences—</l>
                     </lg>
-                <lg type="vertical">
+                <lg type="sideways">
                     <l n="31" rend="verse"> <!--[desc: span lines 27-18, left margin]--> <del>as a self evident</del> <!--[/draft]--></l>
                     <l n="32" rend="verse"><!--[desc: span lines 16-01, left margin, in two rows of script] -->announc<del>ed</del> without expecting opposition or attack / as <del>not</del> unexposed to <del>surprise</del></l>
                 </lg>
@@ -3412,7 +3508,9 @@
                 <pb facs="nb07_04_04_0101_recto.jpg"/>
                   <lg>
                     <l n="01" rend="verse">   <!-- [draft="Sea Unicorns and Land Unicorns"]-->&amp; fearless of   which<note>MM drafts and takes notes toward “Sea Unicorns and Land Unicorns.”</note></l>
-                    <l n="02" rend="read">   <note>Wilson, Violet A. Queen Elizabeth's Maids of Honour and Laides of the Privy Chamber. London: John Lane, 1922.</note><seg rend="read"/><quote xml:id="nb07_04_04_0101_recto_text_line_02_quote_01"/>157 the sea serpent—<del>this</del> snake</l>
+                    <l n="02" rend="read">   <note>Wilson, Violet A. Queen Elizabeth's Maids of Honour and Laides of the Privy Chamber. London: John Lane, 1922.</note>
+                        <seg rend="read"/>
+                        <quote xml:id="nb07_04_04_0101_recto_text_line_02_quote_01"/>157 the sea serpent—<del>this</del> snake</l>
                     <l n="03" rend="read">       disquiets shippers</l>
                     <l n="04" rend="read"> 153 a sea unicorn's horn as a</l>
                     <l n="05" rend="read">    preventative of poison</l>
@@ -3423,7 +3521,8 @@
                     <l n="10" rend="read">  so that where "the one is the other cannot</l>
                     <l n="11" rend="read"> be missing</l>
                     <l n="12" rend="read">  Not always could unicorns "be</l>
-                    <l n="13" rend="read">         betray'd w trees.<quote xml:id="nb07_04_04_0101_recto_text_line_13_quote_01"/><seg rend="read"/></l>
+                    <l n="13" rend="read">         betray'd w trees.<quote xml:id="nb07_04_04_0101_recto_text_line_13_quote_01"/>
+                        <seg rend="read"/></l>
                     <!--<span type="quote" from="nb07_04_04_0101_recto_text_line_02_quote_01" to="nb07_04_04_0101_recto_text_line_13_quote_01"/>-->
                     <l n="14" rend="verse">     Julius Caesar II 1.</l>
                     <l n="15" rend="verse">  Queen Eliz &amp; Spenser, &amp; Frobisher &amp;</l>
@@ -3437,14 +3536,15 @@
                     <l n="23" rend="verse">   as tall &amp; slender as the crest</l>
                     <l n="24" rend="verse">   the antlet of the one beamed beast</l>
                     </lg>
-                <lg type="vertical">
+                <lg type="sideways">
                     <l n="25" rend="verse">Virgin mary blue<!--[/draft]--></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0102_text">
                 <pb facs="nb07_04_04_0102_verso.jpg"/>
                   <lg>
-                    <l n="01" rend="read">   <!-- [draft="Sea Unicorns and Land Unicorns"]--> <seg rend="read"/><quote xml:id="nb07_04_04_0102_verso_text_line_01_quote_01"/>a match for<note>MM drafts and takes notes toward “Sea Unicorns and Land Unicorns.”</note></l>
+                    <l n="01" rend="read">   <!-- [draft="Sea Unicorns and Land Unicorns"]--> <seg rend="read"/>
+                        <quote xml:id="nb07_04_04_0102_verso_text_line_01_quote_01"/>a match for<note>MM drafts and takes notes toward “Sea Unicorns and Land Unicorns.”</note></l>
                     <l n="02" rend="read">  that kind of wandering medusas head</l>
                     <l n="03" rend="read">  the cockatrice to strike it dead<!--[/draft]--></l>
                     <l n="04" rend="read">  <bibl>Bulfinch</bibl><note>Bulfinch, Thomas (1796-1867). An American Latinist and banker.</note> 389</l>
@@ -3471,14 +3571,17 @@
                     <l n="24" rend="read">  4 dogs Peace mercy justice Truth</l>
                     <l n="25" rend="read"/>
                     <l n="26" rend="read">  dipping his horn in the spring to make it safe</l>
-                    <l n="27" rend="read">  for the animals to drink<quote xml:id="nb07_04_04_0102_verso_text_line_27_quote_01"/><seg rend="read"/></l>
+                    <l n="27" rend="read">  for the animals to drink<quote xml:id="nb07_04_04_0102_verso_text_line_27_quote_01"/>
+                        <seg rend="read"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0102_verso_text_line_15_quote_01" to="#nb07_04_04_0102_verso_text_line_27_quote_01"/>-->
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0103_text">
                 <pb facs="nb07_04_04_0103_recto.jpg"/>
                   <lg>
-                    <l n="01" rend="read">  <note>Ackerman. Phyllis. “The Hunt of the Unicorn” (see earlier note).</note><seg rend="read"/><quote xml:id="nb07_04_04_0103_recto_text_line_01_quote_01"/>lion, strength of X<note>MM takes notes and drafts toward “Sea Unicorns and Land Unicorns.</note></l>
+                    <l n="01" rend="read">  <note>Ackerman. Phyllis. “The Hunt of the Unicorn” (see earlier note).</note>
+                        <seg rend="read"/>
+                        <quote xml:id="nb07_04_04_0103_recto_text_line_01_quote_01"/>lion, strength of X<note>MM takes notes and drafts toward “Sea Unicorns and Land Unicorns.</note></l>
                     <l n="02" rend="read"> the <unclear resp="hcw">bear</unclear> mongrel the Devil</l>
                     <l n="03" rend="read"> the lady tells her rosary as the body</l>
                     <l n="04" rend="read"> approaches  hounds' heads like lilies</l>
@@ -3530,14 +3633,17 @@
                     <l n="19" rend="read">  <del>mighty</del> monoceroses <del>of</del> with unmeasured</l>
                     <l n="20" rend="read">              tayles</l>
                     <l n="21" rend="read">   cheyned to trees</l>
-                    <l n="22" rend="read"> Not always cld unicorns be<quote xml:id="nb07_04_04_0104_verso_text_line_22_quote_01"/><seg rend="read"/></l>
+                    <l n="22" rend="read"> Not always cld unicorns be<quote xml:id="nb07_04_04_0104_verso_text_line_22_quote_01"/>
+                        <seg rend="read"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0104_verso_text_line_01_quote_01" to="#nb07_04_04_0104_verso_text_line_22_quote_01"/>-->
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0105_text">
                 <pb facs="nb07_04_04_0105_recto.jpg"/>
                   <lg>
-                    <l n="01" rend="read">  <note>Wilson, Violet A. Queen Elizabeth's Maids of Honour (see earlier note).</note><seg rend="read"/><quote xml:id="nb07_04_04_0105_recto_text_line_01_quote_01"/> betray'd w trees. —jewellers trying to get</l>
+                    <l n="01" rend="read">  <note>Wilson, Violet A. Queen Elizabeth's Maids of Honour (see earlier note).</note>
+                        <seg rend="read"/>
+                        <quote xml:id="nb07_04_04_0105_recto_text_line_01_quote_01"/> betray'd w trees. —jewellers trying to get</l>
                     <l n="02" rend="read"> the precious horn have been killed</l>
                     <l n="03" rend="read"> by the the unicorn—</l>
                     <l n="04" rend="read">            (mendoza)<note>Mendoza, Pedro ode (1487-1537). Spanish conquistador and explorer, primarily of South America.</note></l>
@@ -3564,14 +3670,17 @@
                     <l n="24" rend="read">  fire proof salamander's skin</l>
                     <l n="25" rend="read">      Herodotus, phoenix</l>
                     <l n="26" rend="read">  388 I have not see it myself</l>
-                    <l n="27" rend="read">  except in a picture<quote xml:id="nb07_04_04_0105_recto_text_line_27_quote_01"/><seg rend="read"/></l>
+                    <l n="27" rend="read">  except in a picture<quote xml:id="nb07_04_04_0105_recto_text_line_27_quote_01"/>
+                        <seg rend="read"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0105_recto_text_line_10_quote_01" to="#nb07_04_04_0105_recto_text_line_27_quote_01"/>-->
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0106_text">
                 <pb facs="nb07_04_04_0106_verso.jpg"/>
                   <lg>
-                    <l n="01" rend="read">  <note>Bulfinch, Thomas. The Golden Age of Myth and Legend (see earlier note).</note><seg rend="read"/><quote xml:id="nb07_04_04_0106_verso_text_line_01_quote_01"/>389 cockatrice—kind of wandering medusas head</l>
+                    <l n="01" rend="read">  <note>Bulfinch, Thomas. The Golden Age of Myth and Legend (see earlier note).</note>
+                        <seg rend="read"/>
+                        <quote xml:id="nb07_04_04_0106_verso_text_line_01_quote_01"/>389 cockatrice—kind of wandering medusas head</l>
                     <l n="02" rend="read">           aside fr those</l>
                     <l n="03" rend="read"> specimens of which <del>I have not seen except</del></l>
                     <l n="04" rend="read">   in a picture I have not seen except</l>
@@ -3592,7 +3701,8 @@
                     <l n="18" rend="read">       not "cheyned" to trees</l>
                     <l n="19" rend="read">        "in a small paddock"</l>
                     <l n="20" rend="read"> &amp; Sundry letters</l>
-                    <l n="21" rend="read">  but I could not read them<quote xml:id="nb07_04_04_0106_verso_text_line_21_quote_01"/><seg rend="read"/></l>
+                    <l n="21" rend="read">  but I could not read them<quote xml:id="nb07_04_04_0106_verso_text_line_21_quote_01"/>
+                        <seg rend="read"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0106_verso_text_line_07_quote_01" to="#nb07_04_04_0106_verso_text_line_21_quote_01"/>-->
                     <l n="22" rend="verse"/>
                     <l n="23" rend="read">    <hi rend="black"> my fast mountain cats</hi></l>
@@ -3629,11 +3739,11 @@
                     <l n="26" rend="verse">  this <del>small horned</del> viper on a banner</l>
                     <l n="27" rend="verse">   of blue &amp; yellow silk</l>
                     <l n="28" rend="verse"/>
-                    <l n="29" rend="read">   <note>Cotton, Charles. “An Epitaph on M.H.,” as indicated in her “Notes” on “Sea Unicorns and Land Unicorns.”</note> <seg rend="read"/><quote xml:id="nb07_04_04_0107_recto_text_line_29_quote_01"/>as soft and snowy as that down</l>
+                    <l n="29" rend="read">   <note>Cotton, Charles. “An Epitaph on M.H.,” as indicated in her “Notes” on “Sea Unicorns and Land Unicorns.”</note> <seg rend="read"/> <quote xml:id="nb07_04_04_0107_recto_text_line_29_quote_01"/>as soft and snowy as that down</l>
                     <l n="30" rend="read">   adorns the blowballs frizzled crown—<quote xml:id="nb07_04_04_0107_recto_text_line_30_quote_01"/><seg rend="read"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0107_recto_text_line_29_quote_01" to="#nb07_04_04_0107_recto_text_line_30_quote_01"/>-->
                     </lg>
-                <lg type="vertical">
+                <lg type="sideways">
                     <l n="31" rend="read"><!--[desc]left margin, lines 29-19, in 8 rows of script[/desc] -->the raving / <del>a decent</del> madman / of good taste / <del>It is the</del> / that eats when it is in the mood / as much as any more than some / it is the choicest &amp; / the worst</l>
                     <l n="32" rend="read"><!--[desc]right margin, lines 27-21. In 2 rows of script[/desc] -->the silver cushioned / chair</l>
                 </lg>
@@ -3663,7 +3773,10 @@
                     <l n="20" rend="verse">   exotic specimen of beast</l>
                     <l n="21" rend="verse"> this <del>beast</del> that seemeth idle to the</l>
                     <l n="22" rend="verse">          new</l>
-                    <l n="23" rend="read">  <note>MM quotes from Thomas Traherne’s poem “Silence.” Poetical Works of Thomas Traherne. Edited by Bertram Dobell. London: Published by the Editor, 1906.</note><seg rend="read"/><quote xml:id="nb07_04_04_0108_verso_text_line_23_quote_01"/>of others <del>m</del>May the greatest business do<quote xml:id="nb07_04_04_0108_verso_text_line_23_quote_02"/><seg rend="read"/></l>
+                    <l n="23" rend="read">  <note>MM quotes from Thomas Traherne’s poem “Silence.” Poetical Works of Thomas Traherne. Edited by Bertram Dobell. London: Published by the Editor, 1906.</note>
+                        <seg rend="read"/>
+                        <quote xml:id="nb07_04_04_0108_verso_text_line_23_quote_01"/>of others <del>m</del>May the greatest business do<quote xml:id="nb07_04_04_0108_verso_text_line_23_quote_02"/>
+                        <seg rend="read"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0108_verso_text_line_23_quote_01" to="#nb07_04_04_0108_verso_text_line_23_quote_02"/>-->
                 </lg>
             </div>
@@ -3679,14 +3792,17 @@
                     <l n="07" rend="verse"> collecting &amp; church going—</l>
                     <l n="08" rend="verse"> _________________________________________</l>
                     <l n="09" rend="verse">  the yucca</l>
-                    <l n="10" rend="read">  <note>Symonds, J.A. Studies of the Greek Poets. Vol. II. New York: Harper, 1880.</note><seg rend="read"/><quote xml:id="nb07_04_04_0109_recto_text_line_10_quote_01"/>spiky leaves &amp; polished garlands of the <del>vines</del></l>
+                    <l n="10" rend="read">  <note>Symonds, J.A. Studies of the Greek Poets. Vol. II. New York: Harper, 1880.</note>
+                        <seg rend="read"/>
+                        <quote xml:id="nb07_04_04_0109_recto_text_line_10_quote_01"/>spiky leaves &amp; polished garlands of the <del>vines</del></l>
                     <l n="11" rend="read">                bay</l>
                     <l n="12" rend="read">  shafts of bay</l>
                     <l n="13" rend="read">133  myrtle rods &amp; shafts of bay</l>
                     <l n="14" rend="read">  +     &amp; polished spikes, of <unclear resp="hcw">yew</unclear></l>
                     <l n="15" rend="read"> 132 the blue <del>of the</del> water paled by <del>the</del> foam</l>
                     <l n="16" rend="read">   &amp; there the color of the peacocks neck</l>
-                    <l n="17" rend="read"> Seagulls in its body—by their tails<quote xml:id="nb07_04_04_0109_recto_text_line_17_quote_01"/><seg rend="read"/></l>
+                    <l n="17" rend="read"> Seagulls in its body—by their tails<quote xml:id="nb07_04_04_0109_recto_text_line_17_quote_01"/>
+                        <seg rend="read"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0109_recto_text_line_10_quote_01" to="#nb07_04_04_0109_recto_text_line_17_quote_01"/>-->
                     <l n="18" rend="verse"> ____________________________________________</l>
                     <l n="19" rend="verse"> <!-- [draft="The Plumet Basilisk," first published Active Anthology 1933]-->The <del>Local</del> Native basilisk<note>For the rest of the page, MM drafts toward “The Plumet Basilisk,” first published in Active Anthology, 1933.</note></l>
@@ -3836,7 +3952,7 @@
                     <l n="33" rend="verse">  To the elephant hairs &amp; dragon whiskers</l>
                     <l n="34" rend="verse">          of experience</l>
                     </lg>
-                <lg type="vertical">
+                <lg type="sideways">
                     <l n="35" rend="verse"> <bibl>N. Y Sun or Times</bibl> <note>Unknown what information MM takes from the source referred to here.</note></l>
                 </lg>
             </div>
@@ -3952,7 +4068,7 @@
                     <l n="36" rend="verse">  Engouement</l>
                     <l n="37" rend="verse"> that is what weve got—  Prose <hi rend="underline">Education</hi><!-- [draft="The Student"]--><!--[/draft="The Steeple-Jack"]--></l>
                     </lg>
-                <lg type="vertical">
+                <lg type="sideways">
                     <l n="38" rend="verse"><!--[desc] lines 13-01, left margin, in three rows of script[/desc]-->water front view paled by foam— / &amp; further off, the color of the peacocks / neck</l>
                     <l n="39" rend="verse"><!--[desc] lines 34-25, left margin, in four rows[/desc]-->we study some say / partly to be able to help / <del>those who</del> the perplexed / who are in difficulties</l>
                 </lg>
@@ -3985,7 +4101,7 @@
                     <l n="23" rend="verse">  not fearing, the adders</l>
                     <l n="24" rend="verse">   snake's  the swiftness of the nether side</l>
                     <l n="25" rend="verse">           glide</l>
-                    <l n="26" rend="verse"> &amp; Mr Joyce's first poems <del><gap extent="2" resp="hcw"/></del> carved fr the air</l>
+                    <l n="26" rend="verse"> &amp; Mr Joyce's first poems <del> <gap extent="2" resp="hcw"/></del> carved fr the air</l>
                     <l n="27" rend="verse">    and <del>the yet better</del> tinged w the colors</l>
                     <l n="28" rend="verse">   of the air  the      thinly</l>
                     <l n="29" rend="verse">  <del>the unmoving tail</del> like the shed snak skins <del>fair</del> irredescen<del>ce</del>t</l>
@@ -4059,7 +4175,9 @@
                     <l n="42" rend="verse">                       more?<!--[/draft]--></l>
                     </lg>
                 <lg type="vertical">
-                    <l n="43" rend="read"> <seg rend="read"/><quote xml:id="nb07_04_04_0118_verso_text_line_43_quote_01"/><!-- [desc]lines 38-01 in four rows of script[/desc]-->the <hi rend="underline">C</hi>ley Marshes, Aldersfen, the <hi rend="underline">S</hi>tarch grass marsh have been acquired by Norfolk / Naturalists’ Trusts<note>The Norfolk Naturalists Trust (now known as the Norfolk Wildlife Trust) was initiated in 1926 and included 435 acres of marsh at Cley, the Alderfen fen, and the Starch grass marsh.</note> / before the money for the purchase was in sight / thinks in time &amp; lets the prisoner go<quote xml:id="nb07_04_04_0118_verso_text_line_43_quote_02"/><seg rend="read"/></l>
+                    <l n="43" rend="read"> <seg rend="read"/>
+                        <quote xml:id="nb07_04_04_0118_verso_text_line_43_quote_01"/><!-- [desc]lines 38-01 in four rows of script[/desc]-->the <hi rend="underline">C</hi>ley Marshes, Aldersfen, the <hi rend="underline">S</hi>tarch grass marsh have been acquired by Norfolk / Naturalists’ Trusts<note>The Norfolk Naturalists Trust (now known as the Norfolk Wildlife Trust) was initiated in 1926 and included 435 acres of marsh at Cley, the Alderfen fen, and the Starch grass marsh.</note> / before the money for the purchase was in sight / thinks in time &amp; lets the prisoner go<quote xml:id="nb07_04_04_0118_verso_text_line_43_quote_02"/>
+                        <seg rend="read"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0118_verso_text_line_43_quote_01" to="#nb07_04_04_0118_verso_text_line_43_quote_02"/>-->
                 </lg>
             </div>
@@ -4103,7 +4221,7 @@
                     <l n="35" rend="verse">  Adam &amp; Eve's <unclear resp="hcw">aperns</unclear> the first things are</l>
                     <l n="36" rend="verse">   not always the best<!--[/draft="The Student"]--></l>
                     </lg>
-                <lg type="vertical">
+                <lg type="sideways">
                     <l n="37" rend="verse"> cf    Books   the hopeful cripple</l>
                     <l n="38" rend="verse"> <hi rend="underline">lst editions</hi></l>
                 </lg>
@@ -4111,8 +4229,9 @@
             <div type="image" xml:id="nb07_04_04_0120_text">
                 <pb facs="nb07_04_04_0120_verso.jpg"/>
                   <lg>
-                    <l n="01" rend="verse"><note>MM draws a parenthesis at the left margin of lines 11-15 and 18-19. She circles “bout” and “out” in lines 10 and 11, perhaps as rhyme words, and “swinging” in line 16. She partially cancels lines 39-44 in a wavy line, and draws a half-circle around the first word of the left-hand margin.</note>  <!-- [draft="The Student"]-->Childe only the<note>MM drafts toward “The Student,” including several phrases used in the published poem, and then at “Hero” toward “The Hero,” including some phrases that appear in “The Steeple-Jack.”</note></l>
-                    <l n="02" rend="verse">   <del><gap extent="1" resp="hcw"/></del> most noble Student Title: Going to School</l>
+                    <l n="01" rend="verse">
+                        <note>MM draws a parenthesis at the left margin of lines 11-15 and 18-19. She circles “bout” and “out” in lines 10 and 11, perhaps as rhyme words, and “swinging” in line 16. She partially cancels lines 39-44 in a wavy line, and draws a half-circle around the first word of the left-hand margin.</note>  <!-- [draft="The Student"]-->Childe only the<note>MM drafts toward “The Student,” including several phrases used in the published poem, and then at “Hero” toward “The Hero,” including some phrases that appear in “The Steeple-Jack.”</note></l>
+                    <l n="02" rend="verse">   <del> <gap extent="1" resp="hcw"/></del> most noble Student Title: Going to School</l>
                     <l n="03" rend="verse">  both child &amp; knight infant valets <del>bachelor</del>s damoysels</l>
                     <l n="04" rend="verse">  Schooling is education &amp; child dam'sels</l>
                     <l n="05" rend="verse">                &amp; bacheliers</l>
@@ -4162,8 +4281,10 @@
                     <l n="48" rend="verse">  senators noone The Hero A definition</l>
                     <l n="49" rend="verse">   can shout<!-- [draft="The Hero"]--></l>
                     </lg>
-                <lg type="vertical">
+                <lg type="sideways">
                     <l n="50" rend="verse"><!--[desc]lines 42-06, left margin[/desc]-->Clearly schooling education has some connection with sobriety.</l>
+                </lg>
+                <lg type="vertical">
                     <l n="51" rend="verse"><!--[desc] continuation of line 30, along right margin and then in 6 additional rows vertically at foot of the sheet [/desc][from line 30: “it is not the”]-->red white &amp; blue one tires of but / the onyx &amp; the / silver / &amp; the peculiar / tall <unclear resp="cm">small</unclear> / this giraffe / Characters</l>
                 </lg>
             </div>
@@ -4256,7 +4377,7 @@
                     <l n="38" rend="verse">  negligent of power compassional</l>
                     <l n="39" rend="verse">       mysterious smile of the Buddha<!--[/draft]--></l>
                     </lg>
-                <lg type="vertical">
+                <lg type="sideways">
                     <l n="40" rend="verse"><!--[desc]span lines 14-10, left margin[/desc]-->Hermetic</l>
                 </lg>
             </div>
@@ -4301,7 +4422,7 @@
                     <l n="36" rend="verse">  fish smooth green, to black</l>
                     <l n="37" rend="verse">     silver<!--[/draft="The Steeple-Jack"]--></l>
                     </lg>
-                <lg type="vertical">
+                <lg type="sideways">
                     <l n="38" rend="verse"><!--[desc] lines 34-31, left margin[/desc]-->looks the</l>
                 </lg>
             </div>
@@ -4432,7 +4553,7 @@
                     <l n="52" rend="verse"> the smile that steals over the face sumptuary laws</l>
                     <l n="53" rend="verse"> unconsciously<!--[/draft]--></l>
                     </lg>
-                <lg type="vertical">
+                <lg type="sideways">
                     <l n="54" rend="verse"><!--[desc]lines 50-47 in two rows of print, left margin [/desc]-->juice / fr gum</l>
                     <l n="55" rend="verse"><!--[desc]lines 48-12, in part in three rows of print, left margin[/desc]-->the frankincense tree a twig of camellia tree / we dont wish to be he / who has nothing but plenty</l>
                 </lg>
@@ -4544,13 +4665,15 @@
                     <l n="22" rend="verse">                    – not roughly jolly</l>
                     <l n="23" rend="verse">  feeding away from what is roughly jolly</l>
                     <l n="24" rend="verse">  feeding</l>
-                    <l n="25" rend="read">  <note>Nelson, W. Edward. “Kangaroo Rats” (400-401) in “Smaller Mammals of North America.” National Geographic Magazine 33.5 (May 1918): 371-493.</note><seg rend="read"/><bibl>Ngm. 401</bibl><quote xml:id="nb07_04_04_0129_recto_text_line_25_quote_01"/> a little trail often leads away through</l>
+                    <l n="25" rend="read">  <note>Nelson, W. Edward. “Kangaroo Rats” (400-401) in “Smaller Mammals of North America.” National Geographic Magazine 33.5 (May 1918): 371-493.</note>
+                        <seg rend="read"/><bibl>Ngm. 401</bibl><quote xml:id="nb07_04_04_0129_recto_text_line_25_quote_01"/> a little trail often leads away through</l>
                     <l n="26" rend="read">  the soft earth—</l>
                     <l n="27" rend="read">  Well-worn trails 3 or 4 inches broad lead away fr</l>
                     <l n="28" rend="read">  the entrance, some to other mounds showing</l>
                     <l n="29" rend="read">  neighborly intercourse</l>
                     <l n="30" rend="read"> roomy rest chambers &amp; store-rooms for food.</l>
-                    <l n="31" rend="read">  they do not go abroad in cold or stormy weather<quote xml:id="nb07_04_04_0129_recto_text_line_31_quote_01"/><seg rend="read"/></l>
+                    <l n="31" rend="read">  they do not go abroad in cold or stormy weather<quote xml:id="nb07_04_04_0129_recto_text_line_31_quote_01"/>
+                        <seg rend="read"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0129_recto_text_line_25_quote_01" to="#nb07_04_04_0129_recto_text_line_31_quote_01"/>-->
                     <l n="32" rend="verse">           leaping by links of 2 lengths</l>
                     <l n="33" rend="verse">  the moonlight garden  advancing</l>
@@ -4591,14 +4714,17 @@
                     <l n="26" rend="read">            <del>k</del>flick the door shut</l>
                     <l n="27" rend="read">_________</l>
                     <l n="28" rend="read">  when I made any sudden movement wld leap <del>like</del></l>
-                    <l n="29" rend="read">  in every direction like grasshoppers.<quote xml:id="nb07_04_04_0130_verso_text_line_29_quote_01"/><seg rend="read"/></l>
+                    <l n="29" rend="read">  in every direction like grasshoppers.<quote xml:id="nb07_04_04_0130_verso_text_line_29_quote_01"/>
+                        <seg rend="read"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0130_verso_text_line_06_quote_01" to="#nb07_04_04_0130_verso_text_line_29_quote_01"/>-->
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0131_text">
                 <pb facs="nb07_04_04_0131_recto.jpg"/>
                   <lg>
-                    <l n="01" rend="read">  <note>Nelson, W. Edward. “Kangaroo Rats.” See earlier note.</note><seg rend="read"/><quote xml:id="nb07_04_04_0131_recto_text_line_01_quote_01"/>397 wld leap forward now sidewise, now straight up a foot</l>
+                    <l n="01" rend="read">  <note>Nelson, W. Edward. “Kangaroo Rats.” See earlier note.</note>
+                        <seg rend="read"/>
+                        <quote xml:id="nb07_04_04_0131_recto_text_line_01_quote_01"/>397 wld leap forward now sidewise, now straight up a foot</l>
                     <l n="02" rend="read"> or more in the air, w almost equal celerity; &amp; the direction</l>
                     <l n="03" rend="read"> of their movements when attacked was often unexpected,</l>
                     <l n="04" rend="read">  the</l>
@@ -4606,7 +4732,8 @@
                     <l n="06" rend="read">  the result of a series of little jumps—</l>
                     <l n="07" rend="read"> 397 their tiny front feet like little closed hands</l>
                     <l n="08" rend="read">  against their breasts.</l>
-                    <l n="09" rend="read">  trip after trip w pouchloads of food<quote xml:id="nb07_04_04_0131_recto_text_line_09_quote_01"/><seg rend="read"/></l>
+                    <l n="09" rend="read">  trip after trip w pouchloads of food<quote xml:id="nb07_04_04_0131_recto_text_line_09_quote_01"/>
+                        <seg rend="read"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0131_recto_text_line_01_quote_01" to="#nb07_04_04_0131_recto_text_line_09_quote_01"/>-->
                     <l n="10" rend="verse"/>
                     <l n="11" rend="verse"> <!-- [draft="The Jerboa"]-->The gleaner (Mr. Ditmars Squirrel)<note>MM drafts toward “The Jerboa”; some phrases appear in published poem. In her Note to the poem, MM writes “There are little rats called jerboas which run on long hind-legs as thin as a match. The forelimbs are mere tiny hands.’ Dr. R. L. Ditmars, Strange Animals I Have Known (New York: Harcourt, Brace, 1931), p. 274.”</note><note>Ditmar, Raymond Lee (1876-1942). An American naturalist and author who founded the New York Zoological Society, which was responsible for constructing the Bronx Zoo. He was also a pioneering natural historical filmmaker. In the cited book, Ditmar does not mention a gleaner squirrel.</note></l>
@@ -4621,9 +4748,12 @@
                     <l n="20" rend="verse">  buffy or yellowish brown w white underparts</l>
                     <l n="21" rend="verse">  &amp; blacktipped tail, a wee plume</l>
                     <l n="22" rend="verse">            spume</l>
-                    <l n="23" rend="read">   <note>MM paraphrases from the entry for “Gerbil” in Britannica: A Dictionary of Arts, Sciences, Literature, and General Information Vols. 11-12. Encyclopedia Britannica Co. (1950): p 767.</note><seg rend="read"/><quote xml:id="nb07_04_04_0131_recto_text_line_23_quote_01"/>gerbil  small, elegant large-eyed, jumping mice</l>
+                    <l n="23" rend="read">   <note>MM paraphrases from the entry for “Gerbil” in Britannica: A Dictionary of Arts, Sciences, Literature, and General Information Vols. 11-12. Encyclopedia Britannica Co. (1950): p 767.</note>
+                        <seg rend="read"/>
+                        <quote xml:id="nb07_04_04_0131_recto_text_line_23_quote_01"/>gerbil  small, elegant large-eyed, jumping mice</l>
                     <l n="24" rend="read">          white fronted</l>
-                    <l n="25" rend="read"> rodents  differ fr jerboas in having 5 hind toes<quote xml:id="nb07_04_04_0131_recto_text_line_25_quote_01"/><seg rend="read"/></l>
+                    <l n="25" rend="read"> rodents  differ fr jerboas in having 5 hind toes<quote xml:id="nb07_04_04_0131_recto_text_line_25_quote_01"/>
+                        <seg rend="read"/></l>
                     <!--<span type="quote" from="#nb07_04_04_0131_recto_text_line_23_quote_01" to="#nb07_04_04_0131_recto_text_line_25_quote_01"/>-->
                     <l n="26" rend="verse"/>
                     <l n="27" rend="verse">          beautiful</l>
@@ -4736,7 +4866,7 @@
                     <l n="46" rend="verse">  This land is not Peru falling fr a tree upon the water under glass</l>
                     <l n="47" rend="verse">   The king is     <del>l<gap extent="5" resp="hcw"/>s that</del>a little green one</l>
                     </lg>
-                <lg type="vertical">
+                <lg type="sideways">
                     <l n="48" rend="verse"><!--[desc]lines 12-5, left margin, in 2 rows of script[/desc]-->w magic green fire / falling on the water</l>
                     <l n="49" rend="verse"><!--[desc] lines 48-27, left margin, in 2 rows of script[/desc]-->with 3 part-plume along his back / 3 plumed crest along his back</l>
                 </lg>
@@ -4916,7 +5046,7 @@
                     <l n="40" rend="verse"> with <del>a way of singing in his going, singing</del></l>
                     <l n="41" rend="verse"> primrose w dark above the leg under the wing</l>
                     </lg>
-                <lg type="vertical">
+                <lg type="sideways">
                     <l n="42" rend="verse"><!--[desc]along left margin, one vertical line across the entire page, and three following rows of script between lines 41 and 25. All but a few words are cancelled with broad wavy lines[/desc]-->contemplative only like the <del>superstitious sailor w a butterfly tattood on the shoulder</del> different one / a snake, a dirk through the arm, / on the instep a pig tattoo as a charm / against drowning</l>
                 </lg>
             </div>
@@ -5022,11 +5152,12 @@
                     <l n="45" rend="verse">butterfly w tortoise yellow flecks on the dark wings</l>
                     <l n="46" rend="verse">          human</l>
                     <l n="47" rend="verse">  <unclear resp="hcw">myristien fragons</unclear>, in <del>lizard</del> slang, the untried.</l>
-                    <l n="48" rend="verse">  the telltale ch<gap extent="3" resp="hcw"/> of <gap extent="2" resp="hcw"/>ctr<gap extent="1" resp="hcw"/> for invisibility. Art is very<note>The phrase in the right margin continues from the last line: “Art is very exact—&amp; certain critics have nothing to do w art.”</note></l>
-                    </lg>
-                <lg type="vertical">
+                    <l n="48" rend="verse">  the telltale ch<gap extent="3" resp="hcw"/> of <gap extent="2" resp="hcw"/>ctr<gap extent="1" resp="hcw"/> for invisibility. Art is very<note>The phrase in the right margin continues from the last line: “Art is very exact—&amp; certain critics have nothing to do w art.”</note></l></lg>
+                <lg type="sideways">
                     <l n="49" rend="verse"><!--[desc]left margin, lines 43-15[/desc]-->as <unclear>it</unclear> falls down the air as the green lizard lights on on the water</l>
                     <l n="50" rend="verse"><!--[desc]left margin, lines 09-06[/desc]-->subtlety</l>
+                </lg>
+                <lg type="vertical">
                     <l n="51" rend="verse"><!--[desc] right margin, lines 35-31, in two rows of script, the second intersecting VER52 [/desc]-->mere carelessness / has nothing to do w it</l>
                     <l n="52" rend="verse"><!--[desc]right margin, lines 45-12[/desc]-->exact—&amp; certain critics have nothing to do w art.</l>
                 </lg>
@@ -5142,7 +5273,7 @@
                     <l n="26">   <hi rend="underline">caterpillar</hi> which bees are trying to drag out of the hive</l>
                     <l n="27"> white lighthouse w amber shades around the lens</l>
                     <l n="28">          swordfish</l>
-                    <l n="29">  beside a sketch of <del><unclear resp="hcw">marlin of</unclear></del> blue water shading into</l>
+                    <l n="29">  beside a sketch of <del> <unclear resp="hcw">marlin of</unclear></del> blue water shading into</l>
                     <l n="30">          greenish foam color<seg rend="prose"/></l>
                     <l n="31">   <!-- [draft="Marriage"]-->silver charm Adam when he was alone</l>
                     <l n="32">  surrounded by the</l>
@@ -5268,7 +5399,7 @@
                     <l n="21" rend="verse"> where the <del>more beautiful</del> it is it is more the mind of Pharoah</l>
                     <l n="22" rend="verse"> <gap extent="4" resp="hcw"/> let it  wilder          strange one <gap extent="3" resp="hcw"/></l>
                     </lg>
-                <lg type="vertical">
+                <lg type="sideways">
                     <l n="23" rend="verse"> <!--[desc] left margin, lines 20-16[/desc]--> <unclear>Pharaoh</unclear></l>
                 </lg>
             </div>
@@ -5300,7 +5431,8 @@
             <div type="image" xml:id="nb07_04_04_0150_text">
                 <pb facs="nb07_04_04_0150_verso.jpg"/>
                   <lg>
-                    <l n="01" rend="verse"><del><gap extent="6" resp="hcw"/></del>, m</l>
+                    <l n="01" rend="verse">
+                        <del><gap extent="6" resp="hcw"/></del>, m</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0151_text">
