@@ -215,7 +215,7 @@
                <l n="09">misconceived incentive,</l>
                <l n="10">and goal;— each part of</l>
                <l n="11">those<note>Written as "their" then written over to make "those."</note> experiences appearing</l>
-               <l n="12" rend="pencil" rend="conv">rational at the time.</l>
+               <l n="12" rend="pencil; conv">rational at the time.</l>
                <l n="13"/>
                <l n="14" rend="read"><bibl corresp="nb07_03_11_0014_recto_l14_bibl"/>Spectator</l>
                <l n="15" rend="read">Types of Holiness review by Evelyn Underhill</l>
@@ -234,7 +234,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_03_11_0015_text">
-            <pb facs="nb07_03_11_0015_verso.jpg"/></lg>
+            <pb facs="nb07_03_11_0015_verso.jpg"/>
             <lg type="sideways">
                <l n="v31"> <!-- span  03-06 along left margin --> <hi rend="pencil">Happiness</hi></l>
             </lg>
@@ -341,42 +341,42 @@
                <l n="28" rend="conv"> Consciousness of defect seems to exonerate</l>
                <l n="29" rend="conv"> it—as regret for being old or lame or</l>
                <l n="30" rend="conv"> deaf.</l>
-               <l n="31" rend="prose" rend="blue">    September 1932</l>
-               <l n="32" rend="prose" rend="blue">  Title: Compartments.—One person consists</l>
-               <l n="33" rend="prose" rend="blue"> of countless angles as the crystal is the character</l>
+               <l n="31" rend="blue; prose">    September 1932</l>
+               <l n="32" rend="blue; prose">  Title: Compartments.—One person consists</l>
+               <l n="33" rend="blue; prose"> of countless angles as the crystal is the character</l>
             </lg>
             <pb facs="nb07_03_11_0016_recto.jpg"/>
             <lg>
-               <l n="01" rend="prose" rend="blue">istic form of most kinds of matter. each angle</l>
-               <l n="02" rend="prose" rend="blue">     being unaware of the   others</l>
-               <l n="03" rend="prose" rend="blue">Each may represent a special phase of the</l>
-               <l n="04" rend="prose" rend="blue">same thing, fondness for flowers, loyalty to one’s</l>
-               <l n="05" rend="prose" rend="blue">college, reading, self sacrifice—Compare</l>
-               <l n="06" rend="prose" rend="blue">May,<note> Moore, May. Contance’s older sister.</note> <add>Constance,<note> Moore, Constance Eustis.</note> </add> Cousin Mary S.,<note> Shoemaker, Mary.</note> the Beaver,<note> Norcross, Mary ("Beaver"). A friend and confidante of MM. Also, MM’s mother’s lover from 1900-1911.</note> Allison,<note> Unidentified "Allison."</note></l>
-               <l n="07" rend="prose" rend="blue">Mr Heindel.<note>Heindel, Clifford. Married to Mary Watson Craig, MM’s maternal second cousin. </note> Audubon—<note>Audubon, John James. Audubon was a naturalist and artist MM admired; her "The Frigate Pelican" works from his rendering of this bird and his scientific notes on it.</note> <add>Monroe</add>.<note>Wheeler, Monroe.</note> All seem to like</l>
-               <l n="08" rend="prose" rend="blue">the Atlantic Monthly, travel, to be interested</l>
-               <l n="09" rend="prose" rend="blue">in the eclipse, to have civic  responsibilities</l>
-               <l n="10" rend="prose" rend="blue">Mr. H. He came in about half past</l>
-               <l n="11" rend="prose" rend="blue">6 while we were at supper, stood a moment,</l>
-               <l n="12" rend="prose" rend="blue">with an enquiring look into the dining-room</l>
-               <l n="13" rend="prose" rend="blue">where we were eating, &amp; after being</l>
-               <l n="14" rend="prose" rend="blue">introduced, went up to his room.  </l>
-               <l n="15" rend="conv" rend="blue">Do you play       tennis? Some.</l>
-               <l n="16" rend="conv" rend="blue">won’t you show us the painting? It’s not a</l>
-               <l n="17" rend="conv" rend="blue">very potent bribe, but if we had anything</l>
-               <l n="18" rend="conv" rend="blue">of ours here we’d show it to <hi rend="underline">you</hi>.</l>
-               <l n="19" rend="conv" rend="blue"> I’m ashamed  to.</l>
+               <l n="01" rend="blue; prose">istic form of most kinds of matter. each angle</l>
+               <l n="02" rend="blue; prose">     being unaware of the   others</l>
+               <l n="03" rend="blue; prose">Each may represent a special phase of the</l>
+               <l n="04" rend="blue; prose">same thing, fondness for flowers, loyalty to one’s</l>
+               <l n="05" rend="blue; prose">college, reading, self sacrifice—Compare</l>
+               <l n="06" rend="blue; prose">May,<note> Moore, May. Contance’s older sister.</note> <add>Constance,<note> Moore, Constance Eustis.</note> </add> Cousin Mary S.,<note> Shoemaker, Mary.</note> the Beaver,<note> Norcross, Mary ("Beaver"). A friend and confidante of MM. Also, MM’s mother’s lover from 1900-1911.</note> Allison,<note> Unidentified "Allison."</note></l>
+               <l n="07" rend="blue; prose">Mr Heindel.<note>Heindel, Clifford. Married to Mary Watson Craig, MM’s maternal second cousin. </note> Audubon—<note>Audubon, John James. Audubon was a naturalist and artist MM admired; her "The Frigate Pelican" works from his rendering of this bird and his scientific notes on it.</note> <add>Monroe</add>.<note>Wheeler, Monroe.</note> All seem to like</l>
+               <l n="08" rend="blue; prose">the Atlantic Monthly, travel, to be interested</l>
+               <l n="09" rend="blue; prose">in the eclipse, to have civic  responsibilities</l>
+               <l n="10" rend="blue; prose">Mr. H. He came in about half past</l>
+               <l n="11" rend="blue; prose">6 while we were at supper, stood a moment,</l>
+               <l n="12" rend="blue; prose">with an enquiring look into the dining-room</l>
+               <l n="13" rend="blue; prose">where we were eating, &amp; after being</l>
+               <l n="14" rend="blue; prose">introduced, went up to his room.  </l>
+               <l n="15" rend="blue; conv">Do you play       tennis? Some.</l>
+               <l n="16" rend="blue; conv">won’t you show us the painting? It’s not a</l>
+               <l n="17" rend="blue; conv">very potent bribe, but if we had anything</l>
+               <l n="18" rend="blue; conv">of ours here we’d show it to <hi rend="underline">you</hi>.</l>
+               <l n="19" rend="blue; conv"> I’m ashamed  to.</l>
                <l n="20"/>
-               <l n="21" rend="conv" rend="blue">Badger<note>Moore, John Warner ("Badger"). MM’s brother.</note> – Monterey to Samoa.: Johnnie<note>Badger: MM refers to her brother John Warner Moore; Johnnie is his son. Beginning in 1932, Warner served for almost three years as the chaplain of the U.S. naval base in Samoa.</note></l>
-               <l n="22" rend="conv" rend="blue">&amp; I saw a gull  <add>flying</add> so close to us we could</l>
-               <l n="23" rend="conv" rend="blue">see it lift its web &amp; scratch its ear</l>
+               <l n="21" rend="blue; conv">Badger<note>Moore, John Warner ("Badger"). MM’s brother.</note> – Monterey to Samoa.: Johnnie<note>Badger: MM refers to her brother John Warner Moore; Johnnie is his son. Beginning in 1932, Warner served for almost three years as the chaplain of the U.S. naval base in Samoa.</note></l>
+               <l n="22" rend="blue; conv">&amp; I saw a gull  <add>flying</add> so close to us we could</l>
+               <l n="23" rend="blue; conv">see it lift its web &amp; scratch its ear</l>
                <l n="24"/>
-               <l n="25" rend="prose" rend="blue"> In the autumn: the leaves blowing</l>
-               <l n="26" rend="prose" rend="blue"> toward one across the pavement</l>
-               <l n="27" rend="prose" rend="blue"> with a clatter <hi rend="pencil">scratching sound</hi></l>
+               <l n="25" rend="blue; prose"> In the autumn: the leaves blowing</l>
+               <l n="26" rend="blue; prose"> toward one across the pavement</l>
+               <l n="27" rend="blue; prose"> with a clatter <hi rend="pencil">scratching sound</hi></l>
                <l n="28" rend="prose">        <add>ing</add> </l>
-               <l n="29" rend="conv" rend="blue">Oct 3/32 K. Boyle<note> Boyle, Kay [1902-1992]. A novelist, poet, and political activist, who met MM around 1922 when both lived in the Village. In 1958, Boyle refers in a letter to "my adored Marianne Moore." See: <title>Kay Boyle: A Twentieth-Century Life in Letters</title> (University of Illinois, 2015): xxxii. </note> lacks that healthy directive</l>
-               <l n="30" rend="conv" rend="blue">force of which we are in need just now</l>
+               <l n="29" rend="blue; conv">Oct 3/32 K. Boyle<note> Boyle, Kay [1902-1992]. A novelist, poet, and political activist, who met MM around 1922 when both lived in the Village. In 1958, Boyle refers in a letter to "my adored Marianne Moore." See: <title>Kay Boyle: A Twentieth-Century Life in Letters</title> (University of Illinois, 2015): xxxii. </note> lacks that healthy directive</l>
+               <l n="30" rend="blue; conv">force of which we are in need just now</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_03_11_0017_text">
@@ -855,7 +855,7 @@
                <l n="02" rend="read">These tables are the result of very</l>
                <l n="03" rend="read">considerable xperience</l>
                <l n="04" rend="read">             <add>glue</add></l>
-               <l n="05" rend="read">a to clean Brass—to strengthen  <quote corresp="#nb07_03_11_0023_recto_l01_quote"/>
+               <l n="05" rend="read">a to clean Brass—to strengthen  <quote corresp="#nb07_03_11_0023_recto_l01_quote"/></l>
                <l n="06" rend="read"><quote corresp="nb07_03_11_0023_recto_l06_quote"/>powdered chalk added to common glue</l>
                <l n="07" rend="read">strengthens it. A glue wh will resist</l>
                <l n="08" rend="read">the action of water is made by boiling</l>
@@ -866,7 +866,7 @@
                <l n="13" rend="read"><quote corresp="nb07_03_11_0023_recto_l13_quote"/>One of Europe’s foremost novelists dip his</l>
                <l n="14" rend="read"/>
                <l n="15" rend="read">    pen in the whirlpool of life today</l>
-               <l n="16" rend="read">&amp; writes.)<quote corresp="#nb07_03_11_0023_recto_l13_quote"/><note>MM copies from an ad for Leonhard Frank’s novel, <title>The Singers</title>, printed in the <title>New York Herald Tribune</title> on 26 February 1933: H13. The ad begins: "One of Europe’s foremost novelists dips his pen in the whirlpool of life today—and writes <title>THE SINGERS</title> by Leonhard Frank (Author of <title>‘Carl’ and ‘Anna’</title>)." </note>
+               <l n="16" rend="read">&amp; writes.)<quote corresp="#nb07_03_11_0023_recto_l13_quote"/><note>MM copies from an ad for Leonhard Frank’s novel, <title>The Singers</title>, printed in the <title>New York Herald Tribune</title> on 26 February 1933: H13. The ad begins: "One of Europe’s foremost novelists dips his pen in the whirlpool of life today—and writes <title>THE SINGERS</title> by Leonhard Frank (Author of <title>‘Carl’ and ‘Anna’</title>)." </note></l>
                <l n="17" rend="read"/>
                <l n="18" rend="read"><bibl corresp="nb07_03_11_0023_recto_l18_source"/>Swamp-root almanac</l>
                <l n="19" rend="read">Dr Kilmer &amp; Co., Binghamton  N.Y<bibl corresp="#nb07_03_11_0023_recto_l18_source"/></l>
@@ -879,7 +879,7 @@
                <l n="26" rend="read">   Help in case of accidents</l>
                <l n="27" rend="read">Drowning; 1 Loosen clothing, if any.</l>
                <l n="28" rend="read"> Lay body on its stomach, lifting it by the</l>
-               <l n="29" rend="read"> middle—alternately raising &amp; lowering arms<note> <title>Swamp-Root Almanac</title> Binghamton, NY: Dr. Kilmer &amp; Co., 1906, and printed continuously through 1940, including in German, Swedish, and Spanish.</note><quote corresp="#nb07_03_11_0023_recto_l20_quote"/>
+               <l n="29" rend="read"> middle—alternately raising &amp; lowering arms<note> <title>Swamp-Root Almanac</title> Binghamton, NY: Dr. Kilmer &amp; Co., 1906, and printed continuously through 1940, including in German, Swedish, and Spanish.</note><quote corresp="#nb07_03_11_0023_recto_l20_quote"/></l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_03_11_0024_text">
@@ -974,7 +974,7 @@
                <l n="01" rend="conv">            <add>g?</add></l>
                <l n="02" rend="conv">Beethoven’s 7th Symp. A major</l>
                <l n="03" rend="conv">my what lordly xcitement</l>
-               <l n="04 rend="conv"">    Oct 17, 1933 &amp; previous</l>
+               <l n="04" rend="conv">    Oct 17, 1933 &amp; previous</l>
                <l n="05" rend="conv">          <hi rend="pencil">or rare</hi>     <add><unclear resp="cristannemiller">a</unclear>n impatient</add></l>
                <l n="06" rend="conv">nothing more affecting than a suppressed</l>
                <l n="07" rend="conv">             <add>an involuntary partial</add></l>
@@ -1185,7 +1185,7 @@
                <l n="15" rend="conv">    <add>not</add></l>
                <l n="16" rend="conv"><del>from</del> realizing the same thing myself.</l>
                <l n="17" rend="conv">    <add>experiencing</add> </l>
-               <l n="18" rend="conv"> <           <add>  <hi rend="pencil">VOLTAIR</hi> </add></l>
+               <l n="18" rend="conv">            <add>  <hi rend="pencil">VOLTAIR</hi> </add></l>
                <l n="19" rend="conv">Its rising to the occasion—</l>
                <l n="20" rend="conv">——          <add>not just that__</add></l>
                <l n="21" rend="conv"> One wants  <del>not just</del> to <gap extent="1"/><unclear resp="cristannemiller">e</unclear><gap extent="1"/><unclear resp="cristannemiller">t</unclear> but to be</l>
@@ -1366,81 +1366,81 @@
             <pb facs="nb07_03_11_0030_verso.jpg"/>
             <lg>
                <l n="01" rend="blue">              <add> somewhat</add></l>
-               <l n="02" rend="blue" rend="prose">Left arm—fore arm xtended transversely</l>
-               <l n="03" rend="blue" rend="prose">to the body &amp; right arm crossing over</l>
-               <l n="04" rend="blue" rend="prose">   <add>&amp; resting on it while</add></l>
-               <l n="05" rend="blue" rend="prose">it drawing lightly—with a pencil</l>
-               <l n="06" rend="blue" rend="prose">held toward the upper part of the pencil</l>
-               <l n="07" rend="blue" rend="prose">feather strokes upright &amp;  slanting</l>
-               <l n="08" rend="blue" rend="conv">       One: well my pals have</l>
-               <l n="09" rend="blue" rend="conv" rend="prose">      deserted  me. 3 come in</l>
-               <l n="10" rend="blue" rend="prose">Encore café—    looking like uncaught</l>
-               <l n="11" rend="blue" rend="prose">criminals that never will be caught,</l>
-               <l n="12" rend="blue" rend="prose">   <add>looking as if he was saying</add></l>
-               <l n="13" rend="blue" rend="prose">One: "an egg yesterday &amp; a feather-</l>
-               <l n="14" rend="blue" rend="prose">duster tomorrow but give me a cocktail</l>
-               <l n="15" rend="blue" rend="prose">anyhow. No, whiskey straight."</l>
-               <l n="16" rend="blue" rend="prose">One leaves the stool &amp; begins to</l>
-               <l n="17" rend="blue" rend="prose">shoot marbles in a little gambling</l>
-               <l n="18" rend="blue" rend="prose">machine— one in a dark blue</l>
-               <l n="19" rend="blue" rend="prose">raincoat—Tom Collins .25</l>
-               <l n="20" rend="blue" rend="prose">   whiskey straight .25</l>
-               <l n="21" rend="blue" rend="prose">      bonded whiskey--35</l>
-               <l n="22" rend="blue" rend="prose">     <add>one in a </add>    <add>two-sweater</add></l>
-               <l n="23" rend="blue" rend="prose">Two girls—pink angora suits &amp; yellow</l>
-               <l n="24" rend="blue" rend="prose">leghorn hats. "Pardon me? folding</l>
-               <l n="25" rend="blue" rend="prose">her hat brim down over her eyes in a <!-- [desc]line connects "in a" with "Pardon me?[/desc]--></l>
-               <l n="26" rend="blue" rend="prose"> tone of severely polite enquiry, after</l>
-               <l n="27" rend="blue" rend="prose"> encouraging the enquiry.</l>
-               <l n="28" rend="blue" rend="conv">Dean of Durham. (Cyril Alington)<note> Alington, Cyril [1872-1955]. An English scholar and author who served as chaplain to King George V from 1921 to 1933 and as Dean of Durham, from 1933 to 1951.</note></l>
-               <l n="29" rend="blue" rend="conv">Chairman enumerated painstakingly</l>
-               <l n="30" rend="blue" rend="conv">the honors &amp; attainments of Dr. A.</l>
-               <l n="31" rend="blue" rend="conv">w <del>an</del> occasional referrings to a</l>
-               <l n="32" rend="blue" rend="conv">memorandum. <del>Dr A</del></l>
-               <l n="33" rend="blue" rend="conv">naming lastly the books of which</l>
-               <l n="34" rend="blue" rend="conv">he is the author—the tempo becoming</l>
-               <l n="35" rend="blue" rend="conv"> slower &amp; slower toward the end.</l>
+               <l n="02" rend="blue; prose">Left arm—fore arm xtended transversely</l>
+               <l n="03" rend="blue; prose">to the body &amp; right arm crossing over</l>
+               <l n="04" rend="blue; prose">   <add>&amp; resting on it while</add></l>
+               <l n="05" rend="blue; prose">it drawing lightly—with a pencil</l>
+               <l n="06" rend="blue; prose">held toward the upper part of the pencil</l>
+               <l n="07" rend="blue; prose">feather strokes upright &amp;  slanting</l>
+               <l n="08" rend="blue; conv">       One: well my pals have</l>
+               <l n="09" rend="blue; conv">      deserted  me. 3 come in</l>
+               <l n="10" rend="blue; prose">Encore café—    looking like uncaught</l>
+               <l n="11" rend="blue; prose">criminals that never will be caught,</l>
+               <l n="12" rend="blue; prose">   <add>looking as if he was saying</add></l>
+               <l n="13" rend="blue; prose">One: "an egg yesterday &amp; a feather-</l>
+               <l n="14" rend="blue; prose">duster tomorrow but give me a cocktail</l>
+               <l n="15" rend="blue; prose">anyhow. No, whiskey straight."</l>
+               <l n="16" rend="blue; prose">One leaves the stool &amp; begins to</l>
+               <l n="17" rend="blue; prose">shoot marbles in a little gambling</l>
+               <l n="18" rend="blue; prose">machine— one in a dark blue</l>
+               <l n="19" rend="blue; prose">raincoat—Tom Collins .25</l>
+               <l n="20" rend="blue; prose">   whiskey straight .25</l>
+               <l n="21" rend="blue; prose">      bonded whiskey--35</l>
+               <l n="22" rend="blue; prose">     <add>one in a </add>    <add>two-sweater</add></l>
+               <l n="23" rend="blue; prose">Two girls—pink angora suits &amp; yellow</l>
+               <l n="24" rend="blue; prose">leghorn hats. "Pardon me? folding</l>
+               <l n="25" rend="blue; prose">her hat brim down over her eyes in a <!-- [desc]line connects "in a" with "Pardon me?[/desc]--></l>
+               <l n="26" rend="blue; prose"> tone of severely polite enquiry, after</l>
+               <l n="27" rend="blue; prose"> encouraging the enquiry.</l>
+               <l n="28" rend="blue; conv">Dean of Durham. (Cyril Alington)<note> Alington, Cyril [1872-1955]. An English scholar and author who served as chaplain to King George V from 1921 to 1933 and as Dean of Durham, from 1933 to 1951.</note></l>
+               <l n="29" rend="blue; conv">Chairman enumerated painstakingly</l>
+               <l n="30" rend="blue; conv">the honors &amp; attainments of Dr. A.</l>
+               <l n="31" rend="blue; conv">w <del>an</del> occasional referrings to a</l>
+               <l n="32" rend="blue; conv">memorandum. <del>Dr A</del></l>
+               <l n="33" rend="blue; conv">naming lastly the books of which</l>
+               <l n="34" rend="blue; conv">he is the author—the tempo becoming</l>
+               <l n="35" rend="blue; conv"> slower &amp; slower toward the end.</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_03_11_0031_text">
             <pb facs="nb07_03_11_0031_recto.jpg"/>
             <lg>
-               <l n="01" rend="blue" rend="conv">Dr. A. passed his hand over his</l>
-               <l n="02" rend="blue" rend="conv"> face &amp; began to smile downward then</l>
-               <l n="03" rend="blue" rend="conv"> looked up at the ceiling w a serious</l>
-               <l n="04" rend="blue" rend="conv"> expression. Bowing to the chairman</l>
-               <l n="05" rend="blue" rend="conv"> he begins tersely and cordially <del><unclear resp="cristannemiller">embarking</unclear></del></l>
-               <l n="06" rend="blue" rend="conv">        <add>then</add></l>
-               <l n="07" rend="blue" rend="conv"> "Gentlemen," with <hi rend="underline">Ladies</hi> and gentlemen</l>
-               <l n="08" rend="blue" rend="conv"> ____emending gentlemen </l>
-               <l n="09" rend="blue" rend="conv"> Alfred. blinking with a kind of exasperating</l>
-               <l n="10" rend="blue" rend="conv">sentence, "have <hi rend="underline">you</hi> never met Stevens!"<note> Alfred Kreymborg and Scofield Thayer came by MM’s apartment to take her to a party to meet Wallace Stevens in 1921; she did not attend the party because she was ill.</note></l>
+               <l n="01" rend="blue; conv">Dr. A. passed his hand over his</l>
+               <l n="02" rend="blue; conv"> face &amp; began to smile downward then</l>
+               <l n="03" rend="blue; conv"> looked up at the ceiling w a serious</l>
+               <l n="04" rend="blue; conv"> expression. Bowing to the chairman</l>
+               <l n="05" rend="blue; conv"> he begins tersely and cordially <del><unclear resp="cristannemiller">embarking</unclear></del></l>
+               <l n="06" rend="blue; conv">        <add>then</add></l>
+               <l n="07" rend="blue; conv"> "Gentlemen," with <hi rend="underline">Ladies</hi> and gentlemen</l>
+               <l n="08" rend="blue; conv"> ____emending gentlemen </l>
+               <l n="09" rend="blue; conv"> Alfred. blinking with a kind of exasperating</l>
+               <l n="10" rend="blue; conv">sentence, "have <hi rend="underline">you</hi> never met Stevens!"<note> Alfred Kreymborg and Scofield Thayer came by MM’s apartment to take her to a party to meet Wallace Stevens in 1921; she did not attend the party because she was ill.</note></l>
                <l n="11">———— <hi rend="pencil">Bear</hi></l>
-               <l n="12" rend="blue" rend="conv"> Dec Jan 1835-36 Love is so much a thing not</l>
-               <l n="13" rend="blue" rend="conv"> of this world that illness &amp; absence</l>
-               <l n="14" rend="blue" rend="conv">            <add>  <hi rend="pencil">entirely</hi> </add></l>
-               <l n="15" rend="blue" rend="conv"> &amp; death seem conditions apart from <add><hi rend="pencil">it</hi></add></l>
-               <l n="16" rend="blue" rend="conv"> <del>its  operation</del>—like dryness</l>
-               <l n="17" rend="blue" rend="conv"> or mist. <hi rend="pencil">—— L O V E</hi></l>
-               <l n="18" rend="blue" rend="prose">  Sept. 27 1936</l>
-               <l n="19" rend="blue" rend="prose"> I dreamt I was at college &amp; was</l>
-               <l n="20" rend="blue" rend="prose">       <add>some</add></l>
-               <l n="21" rend="blue" rend="prose"> homesick &amp; <del>a set of</del> pictures</l>
-               <l n="22" rend="blue" rend="prose"> had been sent me to cheer me</l>
-               <l n="23" rend="blue" rend="prose"> up—a set entitled Persons to</l>
-               <l n="24" rend="blue" rend="prose"> Whom I am related: <del>M</del> Aunt</l>
-               <l n="25" rend="blue" rend="prose"> Tobia Croak cloak a very</l>
-               <l n="26" rend="blue" rend="prose"> pretty frog in a circular cape</l>
-               <l n="27" rend="blue" rend="prose"> and white edged black bonnet,</l>
-               <l n="28" rend="blue" rend="prose"> A Collector: a squirrel with a</l>
-               <l n="29" rend="blue" rend="prose"> nut in its paws, and "Some Geese"</l>
-               <l n="30" rend="blue" rend="prose"> a line of ducks such as you see </l>
+               <l n="12" rend="blue; conv"> Dec Jan 1835-36 Love is so much a thing not</l>
+               <l n="13" rend="blue; conv"> of this world that illness &amp; absence</l>
+               <l n="14" rend="blue; conv">            <add>  <hi rend="pencil">entirely</hi> </add></l>
+               <l n="15" rend="blue; conv"> &amp; death seem conditions apart from <add><hi rend="pencil">it</hi></add></l>
+               <l n="16" rend="blue; conv"> <del>its  operation</del>—like dryness</l>
+               <l n="17" rend="blue; conv"> or mist. <hi rend="pencil">—— L O V E</hi></l>
+               <l n="18" rend="blue; prose">  Sept. 27 1936</l>
+               <l n="19" rend="blue; prose"> I dreamt I was at college &amp; was</l>
+               <l n="20" rend="blue; prose">       <add>some</add></l>
+               <l n="21" rend="blue; prose"> homesick &amp; <del>a set of</del> pictures</l>
+               <l n="22" rend="blue; prose"> had been sent me to cheer me</l>
+               <l n="23" rend="blue; prose"> up—a set entitled Persons to</l>
+               <l n="24" rend="blue; prose"> Whom I am related: <del>M</del> Aunt</l>
+               <l n="25" rend="blue; prose"> Tobia Croak cloak a very</l>
+               <l n="26" rend="blue; prose"> pretty frog in a circular cape</l>
+               <l n="27" rend="blue; prose"> and white edged black bonnet,</l>
+               <l n="28" rend="blue; prose"> A Collector: a squirrel with a</l>
+               <l n="29" rend="blue; prose"> nut in its paws, and "Some Geese"</l>
+               <l n="30" rend="blue; prose"> a line of ducks such as you see </l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_03_11_0032_text">
             <pb facs="nb07_03_11_0032_verso.jpg"/>
             <lg>
-               <l n="01" rend="blue" rend="prose">in a shooting gallery. </l>
+               <l n="01" rend="blue; prose">in a shooting gallery. </l>
                <l n="02" rend="prose">   <seg rend="prose" cert="unknown" resp="cristannemiller" xml:id="nb07_03_11_0032_verso_text_line_02_genre_01"/><hi rend="blue">great</hi>     Feb. 30 1937</l>
                <l n="03" rend="prose">              <del>flying drifting</del></l>
                <l n="04" rend="prose">  <del>t</del><add>h</add>uge flakes <del>of snow kept passing</del></l>
@@ -1462,25 +1462,25 @@
                             from="#nb07_03_11_0032_verso_text_line_01_color_01"
                             to="#nb07_03_11_0032_verso_text_line_13_color_01"/>
                     </spanGrp> -->
-               <l n="14" rend="blue" rend="prose">  snow cross in a great X</l>
-               <l n="15" rend="blue" rend="prose">  like the air twists in the stem of a</l>
+               <l n="14" rend="blue; prose">  snow cross in a great X</l>
+               <l n="15" rend="blue; prose">  like the air twists in the stem of a</l>
                <l n="16">       <add>  <hi rend="pencil">engine turned spiral</hi> </add></l>
-               <l n="17" rend="blue" rend="prose">  glass, or the <del>strands of glass</del> in</l>
-               <l n="18" rend="blue" rend="prose">  a millefiore paper weight<note>Millefiori glass typically refers to Venetian glassware from the island of Murano, using mosaic beads to represent one thousand ("mille") flowers. MM may be thinking toward her composition of "Walking-Sticks and Paperweights and Watermarks" (f irst pub. November 1936).</note></l>
+               <l n="17" rend="blue; prose">  glass, or the <del>strands of glass</del> in</l>
+               <l n="18" rend="blue; prose">  a millefiore paper weight<note>Millefiori glass typically refers to Venetian glassware from the island of Murano, using mosaic beads to represent one thousand ("mille") flowers. MM may be thinking toward her composition of "Walking-Sticks and Paperweights and Watermarks" (f irst pub. November 1936).</note></l>
                <l n="19" rend="prose">  NY radiating from a central point</l>
-               <l n="20" rend="blue" rend="prose">Sun Jan 30 1937 intertwisted</l>
+               <l n="20" rend="blue; prose">Sun Jan 30 1937 intertwisted</l>
                <l n="21" rend="prose">        <hi rend="pencil">as PB says</hi></l>
                <l n="22" rend="prose">  <hi rend="blue"> <del>and</del> mixed <del>in a spiral form</del> </hi></l>
                <l n="23" rend="prose">      <add>  <hi rend="pencil">strands in</hi> </add></l>
-               <l n="24" rend="blue" rend="prose"> like the <del>threads of</del> a spider’s web</l>
-               <l n="25" rend="blue" rend="prose"><del>or</del> rising like a harp string tightened</l>
-               <l n="26" rend="blue" rend="prose"> by the rays of the sun, seeming</l>
-               <l n="27" rend="blue" rend="prose"> to get  <del>larger and larger</del></l>
-               <l n="28" rend="blue" rend="prose"> more &amp; more numerous as</l>
+               <l n="24" rend="blue; prose"> like the <del>threads of</del> a spider’s web</l>
+               <l n="25" rend="blue; prose"><del>or</del> rising like a harp string tightened</l>
+               <l n="26" rend="blue; prose"> by the rays of the sun, seeming</l>
+               <l n="27" rend="blue; prose"> to get  <del>larger and larger</del></l>
+               <l n="28" rend="blue; prose"> more &amp; more numerous as</l>
                <l n="29" rend="prose">      <hi rend="pencil">ed one <del>another</del></hi></l>
-               <l n="30" rend="blue" rend="prose"> they cross <del>upon themselves</del></l>
-               <l n="31" rend="blue" rend="prose">     one another’s path—</l>
-               <l n="32" rend="blue" rend="prose"> Philippe Burty 1869<<note>Philippe Burty, <title>Chefs-d’oeuvre of the Industrial Arts. Porcelain, Pottery, Glass, Enamel, etc.</title> London: Chapman &amp; Hall &amp; NY Appleton &amp; Co., 1869. The language in MM’s notebook borrows an occasional phrase from Burty’s passage on "mille fiore paper weights" but she does not seem to be quoting from his text, or quotes from memory. It is unclear whether this is a reading note or a note recording conversation.</note></l>
+               <l n="30" rend="blue; prose"> they cross <del>upon themselves</del></l>
+               <l n="31" rend="blue; prose">     one another’s path—</l>
+               <l n="32" rend="blue; prose"> Philippe Burty 1869<note>Philippe Burty, <title>Chefs-d’oeuvre of the Industrial Arts. Porcelain, Pottery, Glass, Enamel, etc.</title> London: Chapman &amp; Hall &amp; NY Appleton &amp; Co., 1869. The language in MM’s notebook borrows an occasional phrase from Burty’s passage on "mille fiore paper weights" but she does not seem to be quoting from his text, or quotes from memory. It is unclear whether this is a reading note or a note recording conversation.</note></l>
                <l n="33"/>
                <l n="34"> Hosea: the King of Samaria</l>
                <l n="35"> shall be cut off as foam on</l>
@@ -1580,9 +1580,9 @@
                <l n="08">Job’s Protestations of Integrity. Edinburgh</l>
                <l n="09">Permanent Salutation</l>
                <l n="10">Beware of Pickpockets (circus</l>
-               <l n="11" hi rend="pencil">A Pretty Name</l>
-               <l n="12" hi rend="pencil">Bravo, Bravado</l>
-               <l n="13" hi rend="pencil">A good Eye</l>
+               <l n="11" rend="pencil">A Pretty Name</l>
+               <l n="12" rend="pencil">Bravo, Bravado</l>
+               <l n="13" rend="pencil">A good Eye</l>
                <l n="14">Pleasure is less than Happiness <!-- [desc]written first in pencil then retraced in ink[/desc]--></l>
                <l n="15" rend="verse">It was the month of April, the Bumpkins</l>
                <l n="16" rend="verse">           call it  May (Cowper)<note>See William Cowper’s poem, "A Fable" : 'Twas April, as the bumpkins say, / The legislature call'd it May."</note></l>
@@ -1608,11 +1608,11 @@
                <l n="05" rend="blue"> <hi rend="blue" xml:id="nb07_03_11_0036_recto_text_line_05_color_01"/><hi rend="underline">Stones Grow</hi> Vegetables grow &amp; live; men</l>
                <l n="06" rend="blue">  grow and live and think. [see Ireland</l>
                <l n="07" rend="blue">  Printing Vest Pocket Manual]<note>These lines appear in "Walking-Sticks and Paperweights and Watermarks" (first published November 1936): "’Stones grow,’ / then stop, and so / do gardens. ‘Plants grow and live; men / grow and live and think.’" (Qtd. from <title>A-Quiver with Significance: 1932-1936</title>). These lines revise the Swedish naturalist Carolus Linnaeus’s claim that "Stones grow, vegetables grow and live, animals grow, live and feel"—although the final word is sometimes translated as "think" (<title>Philosophia Botanica</title>, 1751).</note></l>
-               <l n="08" hi rend="pencil"> <hi rend="blue">Sir Thopas Impiety</hi><note>One of <title>The Canterbury Tales</title> by Geoffrey Chaucer (1343-1400), published 1837; the tale is a parody of romances.</note> <hi rend="pencil">&amp; unpermissible delusions</hi></l>
-               <l n="09" hi rend="pencil">     <hi rend="pencil">of grandeur —</hi></l>
-               <l n="10" hi rend="pencil"> Imperialists H. &amp; H.<note>Perhaps <title>Hound and Horn</title>, a periodical in which MM published. Its logo is an English horn with H &amp; H inscribed within it.</note> on English <unclear resp="cristannemiller">trip</unclear></l>
-               <l n="11" hi rend="pencil">     at Home</l>
-               <l n="12" hi rend="pencil"> My Actions are Open</l>
+               <l n="08" rend="pencil"> <hi rend="blue">Sir Thopas Impiety</hi><note>One of <title>The Canterbury Tales</title> by Geoffrey Chaucer (1343-1400), published 1837; the tale is a parody of romances.</note> <hi rend="pencil">&amp; unpermissible delusions</hi></l>
+               <l n="09" rend="pencil">     <hi rend="pencil">of grandeur —</hi></l>
+               <l n="10" rend="pencil"> Imperialists H. &amp; H.<note>Perhaps <title>Hound and Horn</title>, a periodical in which MM published. Its logo is an English horn with H &amp; H inscribed within it.</note> on English <unclear resp="cristannemiller">trip</unclear></l>
+               <l n="11" rend="pencil">     at Home</l>
+               <l n="12" rend="pencil"> My Actions are Open</l>
                <l n="13" rend="blue"> Never Complain, Never Explain</l>
                <l n="14" rend="blue">      Disraeli<note>Of attacks in Parliament, Benjamin Disraeli said "Never complain and never explain." Quoted in <title>John Morley, Life of William Ewart Gladstone</title> (1903).</note></l>
                <l n="15" rend="blue">Emotion like Murder—(dreading and</l>
@@ -1766,22 +1766,22 @@
          <div type="image" xml:id="nb07_03_11_0039_text">
             <pb facs="nb07_03_11_0039_verso.jpg"/>
             <lg>
-               <l n="01" rend="pencil" rend="read"> A Treasury of English Prose L P Smith<note><title>A Treasury of English Prose</title>, ed. Logan Pearsall Smith (London: Constable and Company Limited, 1919).</note></l>
-               <l n="02" rend="pencil" rend="read">Houghton Mifflin –p. 133 <bibl corresp="nb07_03_11_0039_verso_l02_source"/>Wm Wordsworth 1770-1850</l>
-               <l n="03" rend="pencil" rend="read">Preface to 2d ed. Lyrical  Ballads<bibl corresp="#nb07_03_11_0039_verso_l02_source"/></l>
-               <l n="04" rend="pencil" rend="read"><quote corresp="nb07_03_11_0039_verso_l04_quote"/>The Poet is chiefly distinguished from</l>
-               <l n="05" rend="pencil" rend="read">other men by a greater promptness</l>
-               <l n="06" rend="pencil" rend="read">to think and feel without immediate</l>
-               <l n="07" rend="pencil" rend="read">external excitement, and a great</l>
-               <l n="08" rend="pencil" rend="read">power in expressing such thoughts</l>
-               <l n="09" rend="pencil" rend="read">and feelings as are produced in</l>
-               <l n="10" rend="pencil" rend="read">him in that manner<quote corresp="#nb07_03_11_0039_verso_l04_quote"/></l>
+               <l n="01" rend="pencil; read"> A Treasury of English Prose L P Smith<note><title>A Treasury of English Prose</title>, ed. Logan Pearsall Smith (London: Constable and Company Limited, 1919).</note></l>
+               <l n="02" rend="pencil; read">Houghton Mifflin –p. 133 <bibl corresp="nb07_03_11_0039_verso_l02_source"/>Wm Wordsworth 1770-1850</l>
+               <l n="03" rend="pencil; read">Preface to 2d ed. Lyrical  Ballads<bibl corresp="#nb07_03_11_0039_verso_l02_source"/></l>
+               <l n="04" rend="pencil; read"><quote corresp="nb07_03_11_0039_verso_l04_quote"/>The Poet is chiefly distinguished from</l>
+               <l n="05" rend="pencil; read">other men by a greater promptness</l>
+               <l n="06" rend="pencil; read">to think and feel without immediate</l>
+               <l n="07" rend="pencil; read">external excitement, and a great</l>
+               <l n="08" rend="pencil; read">power in expressing such thoughts</l>
+               <l n="09" rend="pencil; read">and feelings as are produced in</l>
+               <l n="10" rend="pencil; read">him in that manner<quote corresp="#nb07_03_11_0039_verso_l04_quote"/></l>
                <l n="11" rend="pencil"/>
                <l n="12" rend="pencil"/>
                <l n="13" rend="pencil">    July 28</l>
-               <l n="14" rend="pencil" rend="conv"> Beaver<note>Beaver is the nickname for Mary Norcross, Mary Warner Moore’s lover during the early years of the twentieth century and mentor and close friend to Marianne. </note> May the mountain be a</l>
-               <l n="15" rend="pencil" rend="conv"> rock of defense to her   never</l>
-               <l n="16" rend="pencil" rend="conv"> something to fall on her </l>
+               <l n="14" rend="pencil; conv"> Beaver<note>Beaver is the nickname for Mary Norcross, Mary Warner Moore’s lover during the early years of the twentieth century and mentor and close friend to Marianne. </note> May the mountain be a</l>
+               <l n="15" rend="pencil; conv"> rock of defense to her   never</l>
+               <l n="16" rend="pencil; conv"> something to fall on her </l>
                <l n="17" rend="pencil"> ____________________</l>
                <l n="18" rend="pencil"> umbel of a flower<note>An "umbel" is a cluster of flowers on a single stem that consists of a number of short stalks spreading from a common point, somewhat like umbrella ribs </note></l>
             </lg>
