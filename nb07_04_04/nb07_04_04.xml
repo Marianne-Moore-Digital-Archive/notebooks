@@ -1268,7 +1268,7 @@
                   <lg>
                     <l n="01">         <!--[draft="Marriage"]-->substances<note>MM drafts toward “Marriage,” including several phrases used in the poem. She also drafts toward “An Octopus.”</note></l>
                     <l n="02">  He is amiss and I worse than don't like him</l>
-                    <l n="03">  <!--[draft="An Octopus"]--> If there is a paradise upon earth it is this, <del>?</del></l>
+                    <l n="03">  <!--[draft="An Octopus"]-->If there is a paradise upon earth it is this, <del>?</del></l>
                     <l n="04">       it is this, it is this?</l>
                     <l n="05">   ___________________________</l>
                     <l n="06">    a</l>
@@ -1317,15 +1317,15 @@
                     <l n="16" rend="read">   88 one adds this brief position</l>
                     <l n="17" rend="read">   74 a dead body &amp; a grave is not now so</l>
                     <l n="18" rend="read">                   horrid a spectacle</l>
-                    <l n="19" rend="read">  74 greatest dejection in s<gap extent="1" resp="hcw"/>ot is not to be</l>
-                    <l n="20" rend="read">  70 is it not a 100 yrs compared w the unhappiness of this</l>
+                    <l n="19" rend="read">   74 greatest dejection in s<gap extent="1" resp="hcw"/>ot is not to be</l>
+                    <l n="20" rend="read">   70 is it not a 100 yrs compared w the unhappiness of this</l>
                     <l n="21" rend="read">                       since this body was either</l>
-                    <l n="22" rend="read">  50      nothing or an invisible something</l>
+                    <l n="22" rend="read">   50      nothing or an invisible something</l>
                     <l n="23" rend="read">                       37 the dark mistaking principls of</l>
-                    <l n="24" rend="read">  his love to thee as thine to his— seldom &amp; cold,</l>
-                    <l n="25" rend="read">                 &amp; malarial</l>
-                    <l n="26" rend="read">  up &amp; down mixed— w a good day &amp; a bad</l>
-                    <l n="27" rend="read">  51<note>MM may write 57, not 51, but she quotes from page 51 in her edition of <hi rend="italics">The Saints’ Everlasting Rest.</hi></note> infinite love a mystery to finite capacity</l>
+                    <l n="24" rend="read">   his love to thee as thine to his— seldom &amp; cold,</l>
+                    <l n="25" rend="read">                  &amp; malarial</l>
+                    <l n="26" rend="read">   up &amp; down mixed— w a good day &amp; a bad</l>
+                    <l n="27" rend="read">   51<note>MM may write 57, not 51, but she quotes from page 51 in her edition of <hi rend="italics">The Saints’ Everlasting Rest.</hi></note> infinite love a mystery to finite capacity</l>
                     <l n="28" rend="read">         even the love as well as the lover</l>
                     <l n="29" rend="read">    47 <del>wh is both work &amp; wages</del></l>
                     <l n="30" rend="read">    a near close <del>between the un</del>derstand<quote corresp="#nb07_04_04_0034_verso_l08_quote"/></l>
@@ -1442,7 +1442,7 @@
             <div type="image" xml:id="nb07_04_04_0038_text">
                 <pb facs="nb07_04_04_0038_verso.jpg"/>
                 <lg type="sideways">
-                    <l n="v01">            of mans happiness is his only upon c.</l>
+                    <l n="v01">of mans happiness is his only upon c.</l>
                 </lg>
                   <lg>
                     <l n="01" rend="read">  <note>Baxter, Richard. <hi rend="italics">The Saints’ Everlasting Rest</hi> (see earlier note). Some language appears in “Marriage.”</note><quote corresp="nb07_04_04_0038_verso_l01_quote"/>it &amp; secure it for them</l>
@@ -1538,8 +1538,9 @@
             <div type="image" xml:id="nb07_04_04_0041_text">
                 <pb facs="nb07_04_04_0041_recto.jpg"/>
                 <lg type="sideways">
-                    <l n="v01" rend="read"><!--[desc]span lines 25-02, left margin, three rows of print, marked with several parallel lines at lines 25[/desc]-->Exper<del>iences solemn joy in seeing that he has become an idol</del> / See sel<del>dom &amp; cold up &amp; down</del> / it is worth <del>the slight affront to privacy</del>
-                        <note>Part of these cancelled vertical lines appear in “Marriage.”</note><quote corresp="#nb07_04_04_0041_recto_l01_quote"/></l>
+                    <l n="v01" rend="read"><!--[desc]span lines 25-02, left margin, three rows of print, marked with several parallel lines at lines 25[/desc]-->Exper<del>iences solemn joy in seeing that he has become an idol</del> </l>
+                    <l n="v02" rend="read">See sel<del>dom &amp; cold up &amp; down</del></l>
+                    <l n="v03" rend="read">it is worth <del>the slight affront to privacy</del><note>Part of these cancelled vertical lines appear in “Marriage.”</note><quote corresp="#nb07_04_04_0041_recto_l01_quote"/></l>
                 </lg>
                   <lg>
                     <l n="01" rend="read"> <note>Baxter, Richard. <hi rend="italics">The Saints’ Everlasting Rest</hi> (see earlier note).</note><quote corresp="nb07_04_04_0041_recto_l01_quote"/>103</l>
@@ -1617,14 +1618,14 @@
                     <l n="02" rend="read">                            ________ fixed</l>
                     <l n="03" rend="read">  135 <del>the principle of presentation is so deep in nature</del></l>
                     <l n="04" rend="read">     I <del>never know whose</del> their understanding <del>is not</del> crazed</l>
-                    <l n="05" rend="read">  1                           in <del><unclear resp="hcw">stin</unclear></del> mere</l>
+                    <l n="05" rend="read">  |                           in <del><unclear resp="hcw">stin</unclear></del> mere</l>
                     <l n="06" rend="read">    or lost or subj to confusion in <del>their</del> self defense</l>
                     <l n="07" rend="read"> 138 we say that we have in our element   Friends say</l>
                     <l n="08" rend="read">    we live now as the fish</l>
                     <l n="09" rend="read">    in some small vessel of water that hath only so</l>
                     <l n="10" rend="read">    much as will keep him alive—</l>
                     <l n="11" rend="read">    to have a table not the food is to be</l>
-                    <l n="12" rend="read">  1  richly famished  like happy souls in Hell</l>
+                    <l n="12" rend="read">  |  richly famished  like happy souls in Hell</l>
                     <l n="13" rend="read"> we have now a</l>
                     <l n="14" rend="read"> <del>our</del>  nature figuratively called desire</l>
                     <l n="15" rend="read">       in which arises much <del>mu</del> emotion—</l>
@@ -1632,7 +1633,7 @@
                     <l n="17" rend="read"> 145 one must see w others'<del>mens'</del> eyes the wt &amp; weakness</l>
                     <l n="18" rend="read">                        of the argument,</l>
                     <l n="19" rend="read">    not in one's own</l>
-                    <l n="20" rend="read" > 153-4 of shallow heads &amp; slender parts</l>
+                    <l n="20" rend="read"> 153-4 of shallow heads &amp; slender parts</l>
                     <l n="21" rend="read">       customary, &amp; notional</l>
                     <l n="22" rend="read">                                a</l>
                     <l n="23" rend="read"> 178  <del>our lst Paradise in Eden</del> had <del><gap extent="1" resp="hcw"/></del> way<del>s</del> out but no ways</l>
@@ -1641,7 +1642,7 @@
                     <l n="26" rend="read">                     with <del>a</del> ways in but no ways out—</l>
                     <l n="27" rend="read">                 <hi rend="underline">eternity</hi></l>
                     <l n="28" rend="read">  a <hi rend="underline">strange phrase</hi>—the value of this</l>
-                    <l n="29" rend="read">  1  infinite cypher wh tho it stand for</l>
+                    <l n="29" rend="read">  |  infinite cypher wh tho it stand for</l>
                     <l n="30" rend="read">  nothing in the vulgar account yet doth contain<quote corresp="#nb07_04_04_0043_recto_l01_quote"/></l>
                 </lg>
             </div>
@@ -1731,7 +1732,7 @@
                     <l n="11"> a <del>well organized hell</del></l>
                     <l n="12">    It has remarked: "an odd kind of joy which leaves</l>
                     <l n="13">                       one <del>them</del> in fears &amp; uncertainty<!--[/draft]--></l>
-                    <l n="14" rend="read"> <note>Baxter, Richard, <hi rend="italics">The Saints’ Everlasting Rest.</hi></note>quote corresp="nb07_04_04_0049_recto_l14_quote"/>345-256</l>
+                    <l n="14" rend="read"> <note>Baxter, Richard, <hi rend="italics">The Saints’ Everlasting Rest.</hi></note>quote corresp="nb07_04_04_0049_recto_l14_quote"/&gt;345-256</l>
                     <l n="15" rend="read"> an odd kind of joy which leaves them</l>
                     <l n="16" rend="read">      in fears &amp; amazement because of its uncertainty<quote corresp="#nb07_04_04_0049_recto_l14_quote"/></l>
                     <l n="18">    <!--[draft="Marriage"]-->With simplicity &amp; not w irony—</l>
@@ -1798,7 +1799,7 @@
                     <l n="02"/>
                     <l n="03">  a good day &amp; a bad</l>
                     <l n="04">  this is a <del>not</del> a sporting comment</l>
-                    <l n="05">    __1_____________________________________</l>
+                    <l n="05">    __|_____________________________________</l>
                     <l n="06">   that impatience wh is not a mark</l>
                     <l n="07">            of independence but of bondage</l>
                     <l n="08">one must not call him ruffian</l>
@@ -1852,7 +1853,7 @@
                     <l n="19">  one resents this faded offering of</l>
                     <l n="20">               ottoman experience</l>
                     <l n="21">            the piquant challenge</l>
-                    <l n="22"> 1 that the gentle will understand</l>
+                    <l n="22"> | that the gentle will understand</l>
                     <l n="23">     the savage may be disregarded</l>
                     <l n="24"> <del>alas</del> Behold the desperate continuance of woman</l>
                     <l n="25">   woman—I <del>am such a cow</del></l>
@@ -2030,10 +2031,10 @@
                     <l n="14">    <hi rend="black"> marriage an enterprise for visionaries</hi> happiness</l>
                     <l n="15">   <hi rend="black"> who</hi> have <hi rend="black">set themselves the silly task</hi></l>
                     <l n="16">           <hi rend="black">undertake the</hi></l>
-                    <l n="17">      1                <hi rend="black">of making people noble</hi></l>
+                    <l n="17">      |                <hi rend="black">of making people noble</hi></l>
                     <l n="18">earning the asterisk of commendation</l>
                     <l n="19">   the purpose that controls my conduct</l>
-                    <l n="20"/>        ---------------------------------------    
+                    <l n="20">---------------------------------------</l>
                     <l n="21">    art is here mixed w ethics</l>
                     <l n="22">                  hindered</l>
                     <l n="23">                  hampered</l>
@@ -2187,21 +2188,21 @@
                     <l n="15" rend="read">       don't</l>
                     <l n="16" rend="read">  filter but do not interrupt the</l>
                     <l n="17" rend="read">   <del>streaming</del> sunlight.</l>
-                    <l n="18" rend="read">  39 Lefroy<note>Mount Lefroy, in western Canada.</note> a precipitous island in a sea of ice</l>
+                    <l n="18" rend="read"> 39 Lefroy<note>Mount Lefroy, in western Canada.</note> a precipitous island in a sea of ice</l>
                     <l n="19" rend="read"> 41 ready to fall at a feathers touch</l>
-                    <l n="20" rend="read"> 43         you to come in</l>
+                    <l n="20" rend="read">43         you to come in</l>
                     <l n="21" rend="read"> a penetrating draught wh tell 49</l>
                     <l n="22" rend="read">       alive w pen drafts</l>
                     <l n="23" rend="read">  from the    wh make you valley seemed to bid us</l>
                     <l n="24" rend="read"> 46 blue grottos hung w ice<del>cles</del> ice caves     enter</l>
                     <l n="25" rend="read">    a penetrating draught</l>
-                    <l n="26" rend="read"> 46 At such <hi rend="underline">times you wonder why you came</hi></l>
-                    <l n="27" rend="read">Siren wh makes you wonder why you came</l>
-                    <l n="28" rend="read" >  226 wh makes one walk for one hour in a circle</l>
+                    <l n="26" rend="read">46 At such <hi rend="underline">times you wonder why you came</hi></l>
+                    <l n="27" rend="read"> Siren wh makes you wonder why you came</l>
+                    <l n="28" rend="read">  226 wh makes one walk for one hour in a circle</l>
                     <l n="29" rend="read">    enchanted by a delusion that one keeps a st course</l>
                     <l n="30" rend="read">   encourage      your</l>
                     <l n="31" rend="read"> 50 a committee of one to gather the hats &amp; the</l>
-                    <l n="32" rend="read">   ice hacks &amp; personal <del>property</del> objects</l>
+                    <l n="32" rend="read">     ice hacks &amp; personal <del>property</del> objects</l>
                     </lg>
                 <lg type="sideways">
                     <l n="33" rend="read"><!--[desc]left margin, span lines 31-10[/desc]-->in spite of my earnest resolve to keep a straight course<quote corresp="#nb07_04_04_0068_verso_l01_quote"/></l>
@@ -2251,7 +2252,7 @@
                     <l n="01" rend="read">     <note>Wilcox, W. D. <hi rend="italics">The Rockies of Canada</hi> (see earlier note). Some phrases appear in “An Octopus.”</note><quote corresp="nb07_04_04_0070_verso_l01_quote"/>ice hacks   no Greek wld have it as a gift</l>
                     <l n="02" rend="read">93 raisins &amp; hard tack vs a vertical</l>
                     <l n="03" rend="read">   wall of rock 500 feet high</l>
-                    <l n="04" rend="read"> 95 a garden of bluebells &amp; asters</l>
+                    <l n="04" rend="read">95  a garden of bluebells &amp; asters</l>
                     <l n="05" rend="read">       &amp; wild strawberries</l>
                     <l n="06" rend="read"> 106 valley of the gnomes</l>
                     <l n="07" rend="read">106  beds of black gravel &amp; lavender foam</l>
@@ -2265,7 +2266,7 @@
                     <l n="15" rend="read">110 a difficult prize for the climber</l>
                     <l n="16" rend="read">    battle with the octopus</l>
                     <l n="17" rend="read">   the mariner w a week to spare</l>
-                    <l n="18" rend="read">  116  ponies tied to trees, bucking &amp; kicking</l>
+                    <l n="18" rend="read"> 116  ponies tied to trees, bucking &amp; kicking</l>
                     <l n="19" rend="read">                        the place usually</l>
                     <l n="20" rend="read"> 116  the <del>business</del> men of Banff who take</l>
                     <l n="21" rend="read">    about 365 holidays every year</l>
@@ -2311,7 +2312,7 @@
             <div type="image" xml:id="nb07_04_04_0072_text">
                 <pb facs="nb07_04_04_0072_verso.jpg"/>
                   <lg>
-                    <l n="01" rend="read">             <note>Wilcox, W. D. <hi rend="italics">The Rockies of Canada</hi> (see earlier note).</note> <quote corresp="nb07_04_04_0072_verso_l01_quote"/><del>hot</del></l>
+                    <l n="01" rend="read">             <note>Wilcox, W. D. <hi rend="italics">The Rockies of Canada</hi> (see earlier note).</note><quote corresp="nb07_04_04_0072_verso_l01_quote"/><del>hot</del></l>
                     <l n="02" rend="read"> 185  <hi rend="underline">the sun</hi><del>light brilliant</del> on the snow</l>
                     <l n="03" rend="read">                  <hi rend="underline">full</hi>     <del>the sun</del> dyeing the</l>
                     <l n="04" rend="read">        see <hi rend="underline">toy</hi>  rainbow    white creature like a</l>
@@ -2328,7 +2329,7 @@
                     <l n="15" rend="read">               globules      the rhodedendron—</l>
                     <l n="16" rend="read"> 205  frightened squeak of the <unclear resp="hcw">picas</unclear>     advanced</l>
                     <l n="17" rend="read">         the one resting his nerves while others advance</l>
-                    <l n="18" rend="read">   207 <del>while one rested his nerves the</del> other  advanced</l>
+                    <l n="18" rend="read">  207 <del>while one rested his nerves the</del> other  advanced</l>
                     <l n="19" rend="read">           trousers</l>
                     <l n="20" rend="read"> 214 larches bent w snow a chilly picture</l>
                     <l n="21" rend="read">224 clear blue water flows swiftly over its</l>
@@ -2464,7 +2465,7 @@
                     <l n="09">  he <hi rend="underline">is unseasoned but one</hi> <note>This line might be meant to cancel rather than underline text.</note> does not say so</l>
                     <l n="10">    since you <del>get enjoyment from</del> it—</l>
                     <l n="11">    <del>they say were seen somewhere,</del></l>
-                    <l n="12">   what damns James with the public is</l>
+                    <l n="12">   What damns James with the public is</l>
                     <l n="13">         is not "decorum"   but restraint</l>
                     <l n="14">         w not</l>
                     <l n="15">    <del>it isn't his decorum its</del> restraint</l>
@@ -2541,7 +2542,7 @@
                     <l n="14">  Comes in and comes out, hobnailed fr the</l>
                     <l n="15">  arms of a great cuttlefish</l>
                     <l n="16"> 21                it's the crown</l>
-                    <l n="17">   clipped by the wind a flattened mat of branches</l>
+                    <l n="17">  | clipped by the wind a flattened mat of branches</l>
                     <l n="18"/>
                     <l n="19">   burnt by lightning<del>h</del></l>
                     <l n="20"/>
@@ -2806,7 +2807,7 @@
                     <l n="26" rend="read"> 538  among the snowpeaks</l>
                     <l n="27" rend="read">   not such another furrow on the</l>
                     <l n="28" rend="read">   face of the western hem—</l>
-                    <l n="29" rend="read">   for immensity &amp; chaotic</l>
+                    <l n="29" rend="read">    for immensity &amp; chaotic</l>
                     <l n="30" rend="read">               sublimity</l>
                     <l n="31" rend="read"> <del>534 28</del>                    </l>
                     <l n="32" rend="read"> 539 where sometimes a living tree <del>is</del> stands<del>ing</del>                    </l>
@@ -2923,7 +2924,7 @@
                     <l n="20" rend="read">    the <del>vast mountain</del> seeming to rise from the sea,</l>
                     <l n="21" rend="read">     so tiny appear the 6000 foot peaks</l>
                     <l n="22" rend="read">             which surround it.</l>
-                    <l n="23" rend="read">   <note>A thick vertical line is drawn across the left margin of this and the following lines.</note>noisy cascades rising smoothly on stones</l>
+                    <l n="23" rend="read">    noisy cascades rising smoothly on stones</l>
                     <l n="24" rend="read">      to <del>break</del> over the edges—</l>
                     <l n="25" rend="read">         rush</l>
                     <l n="26" rend="read">  animals in this municipality</l>
@@ -3081,7 +3082,7 @@
                     <l n="28">          <!-- [draft="Silence"]--><!-- first published The Dial 77 (October 1924)] -->the cat</l>
                     <l n="29">   the only domestic an that has not lost its</l>
                     <l n="30">     <del>My father used to say</del>          wild quality</l>
-                    <l n="31">     The innocuous descended of distinguished <del> <unclear resp="hcw">people</unclear></del></l>
+                    <l n="31">     The innocuous descended of distinguished <del><unclear resp="hcw">people</unclear></del></l>
                     <l n="32">         my f used to say Instd people <del>parent</del></l>
                     <l n="33">    Superior people never make long visits <!-- [draft="An Octopus"]--></l>
                 </lg>
@@ -3532,8 +3533,8 @@
                     <l n="15" rend="read">  <del>were</del> so tame that I have played w them</l>
                     <l n="16" rend="read">    as one would play with young Lambes</l>
                     <l n="17" rend="read"/>
-                    <l n="18" rend="read">       not "cheyned" to trees</l>
-                    <l n="19" rend="read">        "in a small paddock"</l>
+                    <l n="18" rend="read">                not "cheyned" to trees</l>
+                    <l n="19" rend="read">                    "in a small paddock"</l>
                     <l n="20" rend="read"> &amp; Sundry letters</l>
                     <l n="21" rend="read">  but I could not read them<quote corresp="#nb07_04_04_0106_verso_l07_quote"/></l>
                     <l n="22"/>
@@ -3603,9 +3604,8 @@
                     <l n="19">  will derive agreeable terror</l>
                     <l n="20">         exotic specimen of beast</l>
                     <l n="21">   this <del>beast</del> that seemeth idle to the</l>
-                    <l n="22">          new</l>
-                    <l n="23" rend="read">   <note>MM quotes from Thomas Traherne’s poem “Silence.” <hi rend="italics">Poetical Works of Thomas Traherne</hi>. Edited by Bertram Dobell. London: Published by the Editor, 1906.</note>
-                        <quote corresp="nb07_04_04_0108_verso_l23_quote"/>of others <del>m</del>May the greatest business do<quote corresp="#nb07_04_04_0108_verso_l23_quote"/></l>
+                    <l n="22">                          new</l>
+                    <l n="23" rend="read">   <note>MM quotes from Thomas Traherne’s poem “Silence.” <hi rend="italics">Poetical Works of Thomas Traherne</hi>. Edited by Bertram Dobell. London: Published by the Editor, 1906.</note><quote corresp="nb07_04_04_0108_verso_l23_quote"/>of others <del>m</del>May the greatest business do<quote corresp="#nb07_04_04_0108_verso_l23_quote"/></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0109_text">
@@ -3900,6 +3900,9 @@
             </div>
             <div type="image" xml:id="nb07_04_04_0117_text">
                 <pb facs="nb07_04_04_0117_recto.jpg"/>
+                <lg type="sideways">
+                    <l n="47"><!--[desc]lines 21-06, left margin, in three rows[/desc]-->                                                       Daniel in the lions den / was probably no fable / nor is this</l>
+                </lg>
                   <lg>
                     <l n="01">                 <!-- [draft="The Hero," first published Poetry 1932]-->voracious           go<note>On this page MM uses language that suggests drafting toward, first, “The Hero,” then “The Steeple-Jack” and, with the phrase “cf Basilisk,” also toward “The Plumet Basilisk.”</note></l>
                     <l n="02">    where the <del><unclear resp="hcw">stupendous</unclear></del> ones hungry <del>snarl</del></l>
@@ -3948,14 +3951,13 @@
                     <l n="45">     makes one dangerous &amp; look dangerous like</l>
                     <l n="46">  the cobra extending cobra ribs—<!-- [draft="The Plumet Basilisk"]--><!-- [draft="The Steeple-Jack"]--></l>
                     </lg>
-                <lg type="vertical">
-                    <l n="47"><!--[desc]lines 21-06, left margin, in three rows[/desc]-->Daniel in the lions den / was probably no fable / nor is this</l>
-                </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0118_text">
                 <pb facs="nb07_04_04_0118_verso.jpg"/>
-                <lg type="vertical">
-                    <l n="43" rend="read"><quote corresp="#nb07_04_04_0118_verso_l43_quote"/><!-- [desc]lines 38-01 in four rows of script[/desc]-->the <hi rend="underline">C</hi>ley Marshes, Aldersfen, the <hi rend="underline">S</hi>tarch grass marsh / have been acquired by Norfolk / Naturalists’ Trusts<note>The Norfolk Naturalists Trust (now known as the Norfolk Wildlife Trust) was initiated in 1926 and included 435 acres of marsh at Cley, the Alderfen fen, and the Starch grass marsh.</note> / before the money for the purchase was in sight / thinks in time &amp; lets the prisoner go<quote corresp="#nb07_04_04_0118_verso_l43_quote"/></l>
+                <lg type="sideways">
+                    <l n="v01" rend="read"><quote corresp="#nb07_04_04_0118_verso_l43_quote"/><!-- [desc]lines 38-01 in four rows of script[/desc]-->the <hi rend="underline">C</hi>ley Marshes, Aldersfen, the <hi rend="underline">S</hi>tarch grass marsh </l>
+                    <l n="v02" rend="read">have been acquired by Norfolk / Naturalists’ Trusts<note>The Norfolk Naturalists Trust (now known as the Norfolk Wildlife Trust) was initiated in 1926 and included 435 acres of marsh at Cley, the Alderfen fen, and the Starch grass marsh.</note> </l>
+                    <l n="v03" rend="read">before the money for the purchase was in sight / thinks in time &amp; lets the prisoner go<quote corresp="#nb07_04_04_0118_verso_l43_quote"/></l>
                 </lg>
                   <lg>
                     <l n="01">                   1008</l>
@@ -4295,17 +4297,17 @@
                     <l n="09">  Diogenes<note>Diogenes (412 or 404 – 323 BCE). A Greek philosopher, was one of the founders of the Cynic philosophy, which advocated living a simple life free of possessions and desire for wealth, power, or fame.</note> <del>nor</del> Regulus. <del>It</del> is the docile</l>
                     <l n="10">  Citizen <del>that</del> takes the 5:15</l>
                     <l n="11">         who</l>
-                    <l n="12"> w sharklike</l>
+                    <l n="12">w sharklike</l>
                     <l n="13">          Disappointment &amp; Triumph</l>
-                    <l n="14"> turns— voracious           sharks fearful grace</l>
-                    <l n="15">    anger &amp; jealousy—resourcefulness &amp;  &amp; energy</l>
+                    <l n="14">turns— voracious             sharks fearful grace</l>
+                    <l n="15">    anger &amp; jealousy—resourcefulness &amp;   &amp; energy</l>
                     <l n="16">    intimations of w sharklike gracefulness</l>
                     <l n="17">                      energy</l>
                     <l n="18">  <del>what is it</del>                  tremor</l>
                     <l n="19">  How express it— the volcanic <del>shiver</del>                    </l>
                     <l n="20">  the locomotive gaining <del>way</del> speed</l>
                     <l n="21">  the coral <del>coloured</del> tissue <del>of the</del>                    </l>
-                    <l n="22">              old fashioned</l>
+                    <l n="22">                 old fashioned</l>
                     <l n="23">  inset of <del>the 1830</del> valentine</l>
                     <l n="24">  the vitreous hemispheres celestial &amp; terrestial</l>
                     <l n="25"> engraved on quartz, &amp; mounted on white brass</l>
@@ -4321,7 +4323,7 @@
                   <lg>
                     <l n="01">    pierced</l>
                     <l n="02">             <hi rend="underline">The Signer of the Valentine</hi>                    </l>
-                    <l n="03">   perforated     thing   oval                        t ground</l>
+                    <l n="03">    perforated     thing    oval                        t ground</l>
                     <l n="04"> a  a paper <del>lace affair</del> with conch pink tissue paper insert <del>at the back</del></l>
                     <l n="05">                    <del>over</del>                    </l>
                     <l n="06">  <del>beneath a below underneath</del> a glazed bouquet,</l>
@@ -4337,7 +4339,7 @@
                     <l n="16">   <del>and</del> the hair <del>directed</del> neatly back <del>w plain edge</del> to the ear—</l>
                     <l n="17">              ted <del>brushed</del>  Hard <del>without</del> affectation—</l>
                     <l n="18">   not the upholstered coiffure of a vulgar fool.</l>
-                    <l n="19">   <del>This</del>     intent like              why</l>
+                    <l n="19">   <del>This</del>     intent like                why</l>
                     <l n="20">    A Newton with his compasses. <del>I wld</del> not name a lesser man—</l>
                     <l n="21">   To keep the valentine, not him, was an effective blunder.</l>
                     <l n="22">   Scepticism is rude</l>
@@ -4350,10 +4352,10 @@
                     <l n="29">        <!-- [draft="The Jerboa," first published Hound &amp; Horn 1932]-->In Subtlety <del>&amp;</del><note>MM drafts toward “The Jerboa,” first published <hi rend="italics">Hound &amp; Horn</hi> 1932.</note> starvation  Plenty &amp; poverty. The triumphant of</l>
                     <l n="30"> Sacred    fuzzy like     <del>unbent</del>                starvling</l>
                     <l n="31"> starvation The white heliotrope <del>that wav</del>ers    the voracious starling</l>
-                    <l n="32">                  thickset—</l>
+                    <l n="32">                    thickset—</l>
                     <l n="33">   The white petunia trembling at the edge         starvling</l>
-                    <l n="34">                with naturally</l>
-                    <l n="35">   the parchment calla,  unenamelled face, sleek foot</l>
+                    <l n="34">                   with naturally</l>
+                    <l n="35">   the parchment calla,  unenamelled face,      sleek foot</l>
                     <l n="36"> white satin shirt &amp; underskirt <del>&amp;</del> the head solemn masque</l>
                     <l n="37">   gauze ivory <del>pleats</del> from neck ^ of orris &amp; not musk</l>
                     <l n="38">     thin      gauze     gauze       artifice but neither is it</l>
@@ -4366,8 +4368,8 @@
                     <l n="45">     or drop of water       <del>showers or flowers</del> or 8 cornered</l>
                     <l n="46">                         or sumptuous 8 <del>Cleopatra</del> tent</l>
                     <l n="47" xml:id="nb07_04_04_0126_verso_text_line_210">                                    cornered <del>Nero</del>                    </l>
-                    <l n="48">  True subtlety is the Unseen exotic Roman <del>silk</del>                    </l>
-                    <l n="49"> the smile that steals over the face    sumptuary laws</l>
+                    <l n="48">  True subtlety is the Unseen   exotic      Roman <del>silk</del>                    </l>
+                    <l n="49"> the smile that steals over the face  sumptuary laws</l>
                     <l n="50"> unconsciously<!--[/draft]--></l>
                     </lg>
                 <lg type="sideways">
@@ -4416,117 +4418,116 @@
             <div type="image" xml:id="nb07_04_04_0128_text">
                 <pb facs="nb07_04_04_0128_verso.jpg"/>
                   <lg>
-                    <l n="01">  <!-- [draft="The Jerboa"]-->The Pine cone of the Pompeys—now the<note>MM drafts toward “The Jerboa”; a few phrases appear in published poem.</note></l>
-                    <l n="02"> fr the prison of St angelo—now the</l>
-                    <l n="03">  pine cone of the popes—w unsuitable peacocks</l>
+                    <l n="01">  <!-- [draft="The Jerboa"]-->The Pine cone of the Pompeys— now the<note>MM drafts toward “The Jerboa”; a few phrases appear in published poem.</note></l>
+                    <l n="02"> fr the prison of St angelo — now the</l>
+                    <l n="03">  pine cone of the popes— w unsuitable peacocks</l>
                     <l n="04">  around it</l>
-                    <l n="05">_______________</l>
-                    <l n="06">  this way &amp; that in wavy lines</l>
-                    <l n="07">   bounding away</l>
+                    <l n="05">  _______________</l>
+                    <l n="06">    this way &amp; that in wavy lines</l>
+                    <l n="07">       bounding away</l>
                     <l n="08">  the best way of</l>
                     <l n="09">  outrunning <del>one's</del> misery</l>
                     <l n="10">  no pine nuts nor Christmas tree</l>
                     <l n="11">  thinking of Thackeray—</l>
-                    <l n="12">                fig or date sycamore</l>
+                    <l n="12">                             fig or date sycamore</l>
                     <l n="13">   <del>the hid pleasantness of the pine or shade</del> tree</l>
-                    <l n="14">        buffy brown</l>
+                    <l n="14">                     buffy brown</l>
                     <l n="15">  too sandlike to see</l>
-                    <l n="16">   bronze fir</l>
+                    <l n="16">     bronze fir</l>
                     <l n="17">  the brassy cone—the symbol, the effigy</l>
-                    <l n="18">  of the hid pleasantness of the pine.</l>
-                    <l n="19">    not in Rome</l>
-                    <l n="20">   but at home in the dust</l>
-                    <l n="21">    yet <del>in</del>a company</l>
-                    <l n="22">   pale         in fine</l>
+                    <l n="18">    of the hid pleasantness of the pine.</l>
+                    <l n="19">           not in Rome</l>
+                    <l n="20">      but at home in the dust</l>
+                    <l n="21">           yet <del>in</del>a company</l>
+                    <l n="22">         pale         in fine</l>
                     <l n="24"> in such <del>clear</del> colors <del>as are</del> worn <del>when</del> weather's</l>
-                    <l n="25">      fine</l>
-                    <l n="26"> the giraffe w round <del>glass</del> The moon at its full fine</l>
-                    <l n="27">      glass eyes  in the clear desert air</l>
-                    <l n="28">  its shadow its angel— Jacobs' dream</l>
-                    <l n="29">          too mighty a theme</l>
-                    <l n="30">  Nero's 8-cornered tent &amp; Hadrians Tomb</l>
-                    <l n="31"> purple &amp; white and silent   to glean</l>
-                    <l n="32">        leaping slant  to the ladder lean</l>
-                    <l n="33">  Title  <hi rend="underline">Reluctant</hi>   The Jerboa</l>
-                    <l n="34">        one?</l>
+                    <l n="25">                fine</l>
+                    <l n="26">  the giraffe w round <del>glass</del>   The moon at its full fine</l>
+                    <l n="27">              glass eyes    in the clear desert air</l>
+                    <l n="28">  its shadow its angel—     Jacobs' dream</l>
+                    <l n="29">                         too mighty a theme</l>
+                    <l n="30">  Nero's 8-cornered tent &amp;   Hadrians Tomb</l>
+                    <l n="31"> purple &amp; white and silent          to glean</l>
+                    <l n="32">                   leaping slant   to the ladder lean</l>
+                    <l n="33">  Title     <hi rend="underline">Reluctant</hi>           The Jerboa</l>
+                    <l n="34">                    one?</l>
                     <l n="35">   <del>reluctant</del> to leave me?</l>
-                    <l n="36">  Nothing like that—&amp; speedy when freed</l>
+                    <l n="36">     Nothing like that—&amp; speedy when freed</l>
                     <l n="37">  Cf Cinnius<note>Publius Cincius Salvius cast the colossal bronze pine cone and left his name on the base: “P. Cincius P.I. Salvius fecit”—as MM quotes in her notes to the poem. It was originally part of a Roman fountain called the Fontana della Pigna (fountain of the pine cone).</note> the freedman who made the</l>
-                    <l n="38">    Pinecone of the Pompeys now etc<!--[/draft]--></l>
+                    <l n="38">       Pinecone of the Pompeys now etc<!--[/draft]--></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0129_text">
                 <pb facs="nb07_04_04_0129_recto.jpg"/>
                   <lg>
                     <l n="01"> <!-- [draft="The Jerboa"]-->whose <del>its</del> life should<note>MM drafts toward “The Jerboa”; several phrases appear in published poem.</note></l>
-                    <l n="02">   <del>that should</del> be set</l>
+                    <l n="02">      <del>that should</del> be set</l>
                     <l n="03">  <del><gap extent="1" resp="hcw"/></del> is set to the flageolet burrow</l>
-                    <l n="04">   no</l>
-                    <l n="05">   <del>like</del> the magic <hi rend="underline">willow</hi> on the grave of the</l>
+                    <l n="04">         no</l>
+                    <l n="05">     <del>like</del> the magic <hi rend="underline">willow</hi> on the grave of the</l>
                     <l n="06"> stepdaughters true mother—   Jacob's dream</l>
-                    <l n="07">     its  brother &amp; brother</l>
-                    <l n="08">  the dust <del>his</del> <hi rend="underline">pillow</hi>— water spraying from</l>
-                    <l n="09"> the petals of the cone  had no water ever</l>
-                    <l n="10">  my but this country does need rain converting</l>
-                    <l n="11">                seeds &amp; grain</l>
-                    <l n="12">  leaping in waves like a chain</l>
-                    <l n="13">   with tho  &amp; while neighborly</l>
-                    <l n="14">          buffy brown   it is too sandlike to see-   feed on speed</l>
-                    <l n="15">                 &amp; is not roughty jolly   speeds</l>
-                    <l n="16">                     &amp; the inconsequent weed</l>
-                    <l n="17">                         desert</l>
-                    <l n="18">   it doesn't             freedman  to see</l>
-                    <l n="19">   <del>we don't</del> wish to be he <del>wh</del>       tho too sandlike  and while tho</l>
-                    <l n="20">                  neighborly—  <del>although</del> neighborly</l>
-                    <l n="21">     who has nothing but plenty.    <del>&amp; resigned to me</del></l>
-                    <l n="22">                    – not roughly jolly</l>
-                    <l n="23">  feeding away from what is roughly jolly</l>
-                    <l n="24">  feeding</l>
-                    <l n="25" rend="read">  <note>Nelson, W. Edward. “Kangaroo Rats” (400-401) in “Smaller Mammals of North America.” <hi rend="italics">National Geographic Magazine</hi> 33.5 (May 1918): 371-493.</note><bibl>Ngm. 401</bibl><quote corresp="nb07_04_04_0129_recto_l25_quote"/> a little trail often leads away through</l>
+                    <l n="07">          its     brother &amp; brother</l>
+                    <l n="08">  the dust <del>his</del> <hi rend="underline">pillow</hi>—    water spraying from</l>
+                    <l n="09"> the petals of the cone     had no water ever</l>
+                    <l n="10"> my but this country does need rain converting</l>
+                    <l n="11">                            seeds &amp; grain</l>
+                    <l n="12">  leaping in waves   like a chain</l>
+                    <l n="13">     with     tho &amp; while neighborly</l>
+                    <l n="14">            buffy brown  it is too sandlike to see- feed on speed</l>
+                    <l n="15">                   &amp; is not roughty jolly       speeds</l>
+                    <l n="16">                               &amp; the inconsequent weed</l>
+                    <l n="17">                                           desert</l>
+                    <l n="18">  it doesn't                   freedman  to see</l>
+                    <l n="19"> <del>we don't</del> wish to be he <del>wh</del> tho too sandlike  and while tho</l>
+                    <l n="20">                         neighborly—   <del>although</del> neighborly</l>
+                    <l n="21">   who has nothing but plenty.           <del>&amp; resigned to me</del></l>
+                    <l n="22">                                   – not roughly jolly</l>
+                    <l n="23"> feeding away from what is roughly jolly</l>
+                    <l n="24">    fleeing</l>
+                    <l n="25" rend="read"><note>Nelson, W. Edward. “Kangaroo Rats” (400-401) in “Smaller Mammals of North America.” <hi rend="italics">National Geographic Magazine</hi> 33.5 (May 1918): 371-493.</note><bibl>Ngm. 401</bibl><quote corresp="nb07_04_04_0129_recto_l25_quote"/> a little trail often leads away through</l>
                     <l n="26" rend="read">  the soft earth—</l>
-                    <l n="27" rend="read">  Well-worn trails 3 or 4 inches broad lead away fr</l>
+                    <l n="27" rend="read">    Well-worn trails 3 or 4 inches broad lead away fr</l>
                     <l n="28" rend="read">  the entrance, some to other mounds showing</l>
                     <l n="29" rend="read">  neighborly intercourse</l>
-                    <l n="30" rend="read"> roomy rest chambers &amp; store-rooms for food.</l>
+                    <l n="30" rend="read">  roomy rest chambers &amp; store-rooms for food.</l>
                     <l n="31" rend="read">  they do not go abroad in cold or stormy weather<quote corresp="#nb07_04_04_0129_recto_l25_quote"/></l>
-                    <l n="32">           leaping by links of 2 lengths</l>
-                    <l n="33">  the moonlight garden  advancing</l>
-                    <l n="34">  by <del>hops</del> leaps   in <del>by</del> leaps of different lengths</l>
-                    <l n="35">   different</l>
-                    <l n="36">  of varying lengths—</l>
-                    <l n="37">   by fifths &amp; sevenths —by 5ths &amp; 7ths<!--[/draft]--></l>
+                    <l n="32">                         leaping by links of 2 lengths</l>
+                    <l n="33">  the moonlight garden    advancing</l>
+                    <l n="34">     by <del>hops</del> leaps   in <del>by</del> leaps of different lengths</l>
+                    <l n="35">           different</l>
+                    <l n="36">       of varying lengths—</l>
+                    <l n="37">         by fifths &amp; sevenths —by 5ths &amp; 7ths<!--[/draft]--></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0130_text">
                 <pb facs="nb07_04_04_0130_verso.jpg"/>
                   <lg>
-                    <l n="01">     <!-- [draft="The Jerboa"]-->oh rest and    5<note>MM drafts toward “The Jerboa” on the first few lines and then takes notes toward the poem; the first two lines appear in published poem.</note></l>
-                    <l n="02">   joy—the boundless sand!</l>
+                    <l n="01">             <!-- [draft="The Jerboa"]-->oh rest and           5<note>MM drafts toward “The Jerboa” on the first few lines and then takes notes toward the poem; the first two lines appear in published poem.</note></l>
+                    <l n="02">     joy—the boundless sand!</l>
                     <l n="03"/>
                     <l n="04">  paired tracks<!--[/draft]--></l>
-                    <l n="05" rend="read">          <note>Nelson, W. Edward. “Kangaroo Rats” (see earlier note).</note>
-                        <seg rend="read"/>395</l>
+                    <l n="05" rend="read">               <note>Nelson, W. Edward. “Kangaroo Rats” (see earlier note).</note><seg rend="read"/>395</l>
                     <l n="06" rend="read"> 395 <quote corresp="nb07_04_04_0130_verso_l06_quote"/>During hibernation they are coild up in little furry</l>
                     <l n="07" rend="read">  balls the nose resting on the abdomen, the hind feet</l>
                     <l n="08" rend="read"> on each side of the head, &amp; the tail wound round the body.</l>
-                    <l n="09" rend="read">     silky pocket mic</l>
+                    <l n="09" rend="read">              silky pocket mic</l>
                     <l n="10" rend="read"> limited to the more arid parts of N. A.</l>
-                    <l n="11" rend="read">  396  –</l>
-                    <l n="12" rend="read">  multitude of little tracks in the dust a<del>s</del>t sunrise each</l>
-                    <l n="13" rend="read"> morning— presence indicated by many little conical</l>
-                    <l n="14" rend="read"> pits half an inch or an inch deep where they have located</l>
-                    <l n="15" rend="read"> small seeds &amp; dug them up.</l>
-                    <l n="16" rend="read"> 396 Spiny pocket m— hairs lengthened along the</l>
+                    <l n="11" rend="read"> 396  –</l>
+                    <l n="12" rend="read"> multitude of little tracks in the dust a<del>s</del>t sunrise each</l>
+                    <l n="13" rend="read">morning— presence indicated by many little conical</l>
+                    <l n="14" rend="read">pits half an inch or an inch deep where they have located</l>
+                    <l n="15" rend="read">small seeds &amp; dug them up.</l>
+                    <l n="16" rend="read">396 Spiny pocket m— hairs lengthened along the</l>
                     <l n="17" rend="read"> terminal half, thus giving a slightly brushy or tufted</l>
-                    <l n="18" rend="read"> appearance— long scattered guardhairs which</l>
-                    <l n="19" rend="read"> conspicuously overlie the fur on the hinder parts of the body</l>
+                    <l n="18" rend="read">appearance— long scattered guardhairs which</l>
+                    <l n="19" rend="read">conspicuously overlie the fur on the hinder parts of the body</l>
                     <l n="20" rend="read"> small seeds, the wild morninglory—, wild sunflowers,</l>
                     <l n="21" rend="read"> wild parsnips,</l>
-                    <l n="22" rend="read"> strictly</l>
+                    <l n="22" rend="read">strictly</l>
                     <l n="23" rend="read"> nocturnal or crepuscular in habits. If a plugged</l>
                     <l n="24" rend="read"> entrance to a burrow is found, it will be quickly</l>
                     <l n="25" rend="read"> stopped up fr within by the annoyed householder &amp;</l>
-                    <l n="26" rend="read">            <del>k</del>flick the door shut</l>
+                    <l n="26" rend="read">                      <del>k</del>flick the door shut</l>
                     <l n="27" rend="read">_________</l>
                     <l n="28" rend="read">  when I made any sudden movement wld leap <del>like</del></l>
                     <l n="29" rend="read">  in every direction like grasshoppers.<quote corresp="#nb07_04_04_0130_verso_l06_quote"/></l>
@@ -4535,322 +4536,321 @@
             <div type="image" xml:id="nb07_04_04_0131_text">
                 <pb facs="nb07_04_04_0131_recto.jpg"/>
                   <lg>
-                    <l n="01" rend="read">  <note>Nelson, W. Edward. “Kangaroo Rats.” See earlier note.</note><quote corresp="nb07_04_04_0131_recto_l01_quote"/>397 wld leap forward now sidewise, now straight up a foot</l>
-                    <l n="02" rend="read"> or more in the air, w almost equal celerity; &amp; the direction</l>
-                    <l n="03" rend="read"> of their movements when attacked was often unexpected,</l>
-                    <l n="04" rend="read">  the</l>
+                    <l n="01" rend="read"> <note>Nelson, W. Edward. “Kangaroo Rats.” See earlier note.</note><quote corresp="nb07_04_04_0131_recto_l01_quote"/>397 wld leap forward now sidewise, now straight up a foot</l>
+                    <l n="02" rend="read">  or more in the air, w almost equal celerity; &amp; the direction</l>
+                    <l n="03" rend="read">  of their movements when attacked was often unexpected,</l>
+                    <l n="04" rend="read">    the</l>
                     <l n="05" rend="read">  on level sand, a steady, swiftly gliding motion,</l>
-                    <l n="06" rend="read">  the result of a series of little jumps—</l>
+                    <l n="06" rend="read">     the result of a series of little jumps—</l>
                     <l n="07" rend="read"> 397 their tiny front feet like little closed hands</l>
-                    <l n="08" rend="read">  against their breasts.</l>
-                    <l n="09" rend="read">  trip after trip w pouchloads of food<quote corresp="#nb07_04_04_0131_recto_l01_quote"/></l>
+                    <l n="08" rend="read">    against their breasts.</l>
+                    <l n="09" rend="read">   trip after trip w pouchloads of food<quote corresp="#nb07_04_04_0131_recto_l01_quote"/></l>
                     <l n="10"/>
-                    <l n="11"> <!-- [draft="The Jerboa"]-->The gleaner (Mr. Ditmars Squirrel)<note>MM drafts toward “The Jerboa”; some phrases appear in published poem. In her Note to the poem, MM writes “There are little rats called jerboas which run on long hind-legs as thin as a match. The forelimbs are mere tiny hands.’ Dr. R. L. Ditmars, <hi rend="italics">Strange Animals I Have Known</hi> (New York: Harcourt, Brace, 1931), p. 274.”</note>
-                        <note>Ditmar, Raymond Lee (1876-1942). An American naturalist and author who founded the New York Zoological Society, which was responsible for constructing the Bronx Zoo. He was also a pioneering natural historical filmmaker. In the cited book, Ditmar does not mention a gleaner squirrel.</note></l>
+                    <l n="11"> <!-- [draft="The Jerboa"]--><note>MM drafts toward “The Jerboa”; some phrases appear in published poem. In her Note to the poem, MM writes “There are little rats called jerboas which run on long hind-legs as thin as a match. The forelimbs are mere tiny hands.’ Dr. R. L. Ditmars, <hi rend="italics">Strange Animals I Have Known</hi> (New York: Harcourt, Brace, 1931), p. 274.”</note>The gleaner (Mr. Ditmars Squirrel)<note>Ditmar, Raymond Lee (1876-1942). An American naturalist and author who founded the New York Zoological Society, which was responsible for constructing the Bronx Zoo. He was also a pioneering natural historical filmmaker. In the cited book, Ditmar does not mention a gleaner squirrel.</note></l>
                     <l n="12"> wasting this <del>good</del> great space for pictures</l>
                     <l n="13">   sandspout  pale colors</l>
-                    <l n="14">           above</l>
-                    <l n="15">  Jacob's ladder propped ^ against a cloud</l>
-                    <l n="16">     sandspout in air</l>
-                    <l n="17">         &amp; nothing there to hold it</l>
-                    <l n="18">  old-world mouse  Sahara field mouse</l>
-                    <l n="19">                front</l>
+                    <l n="14">                    above</l>
+                    <l n="15"> Jacob's ladder propped ^ against a cloud</l>
+                    <l n="16">             sandspout in air</l>
+                    <l n="17">                    &amp; nothing there to hold it</l>
+                    <l n="18">   old-world mouse  Sahara field mouse</l>
+                    <l n="19">                                front</l>
                     <l n="20">  buffy or yellowish brown w white underparts</l>
                     <l n="21">  &amp; blacktipped tail, a wee plume</l>
-                    <l n="22">            spume</l>
-                    <l n="23" rend="read">   <note>MM paraphrases from the entry for “Gerbil” in <hi rend="italics">Britannica: A Dictionary of Arts, Sciences, Literature, and General Information</hi> Vols. 11-12. Encyclopedia Britannica Co. (1950): p 767.</note><quote corresp="nb07_04_04_0131_recto_l23_quote"/>gerbil  small, elegant large-eyed, jumping mice</l>
-                    <l n="24" rend="read">          white fronted</l>
-                    <l n="25" rend="read"> rodents  differ fr jerboas in having 5 hind toes<quote corresp="#nb07_04_04_0131_recto_l23_quote"/></l>
+                    <l n="22">                          spume</l>
+                    <l n="23" rend="read">  <note>MM paraphrases from the entry for “Gerbil” in <hi rend="italics">Britannica: A Dictionary of Arts, Sciences, Literature, and General Information</hi> Vols. 11-12. Encyclopedia Britannica Co. (1950): p 767.</note><quote corresp="nb07_04_04_0131_recto_l23_quote"/>gerbil  small, elegant large-eyed, jumping mice</l>
+                    <l n="24" rend="read">                   white fronted</l>
+                    <l n="25" rend="read">  rodents   differ fr jerboas in having 5 hind toes<quote corresp="#nb07_04_04_0131_recto_l23_quote"/></l>
                     <l n="26"/>
-                    <l n="27">          beautiful</l>
-                    <l n="28"> A Cartaginian   elegant white fronted onyx eyed mouse</l>
-                    <l n="29">         top of</l>
-                    <l n="30"> a freedman and an for the ^ prison of St angelo.</l>
+                    <l n="27">                          beautiful</l>
+                    <l n="28">A Cartaginian              elegant white fronted onyx eyed mouse</l>
+                    <l n="29">                      top of</l>
+                    <l n="30">a freedman and an  for the ^ prison of St angelo.</l>
                     <l n="31">artist made ^ the pine cone of the Pompeys</l>
                     <l n="32"> now the pine cone of the Popes</l>
-                    <l n="33"> perforated w holes for use as a fountain<!--[/draft]--></l>
+                    <l n="33">  perforated w holes for use as a fountain<!--[/draft]--></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0132_text">
                 <pb facs="nb07_04_04_0132_verso.jpg"/>
                   <lg>
-                    <l n="01">  <!-- [draft="The Jerboa"]-->and the ostrich herd<note>MM drafts toward “The Jerboa” on the first half of the page and toward “The Plumet Basilisk,” starting with “the undethroned / Prince of lizards” (right side of page). Some phrases appear in each poem.</note></l>
-                    <l n="02">  with hard feet &amp; bird</l>
-                    <l n="03">      ed          proudly</l>
-                    <l n="04">  necks rearing back serpent fashion   angrily back</l>
-                    <l n="05">      reared back at an angle, <del>snake</del></l>
-                    <l n="06">  all as one <del>striking</del> snake attacking</l>
-                    <l n="07">         serpent        angels</l>
-                    <l n="08">    reined back as they run <del>significant</del> Skin of</l>
-                    <l n="09">                    <del>modest</del> brown</l>
-                    <l n="10">  as the one snake attacking   <del>nothing</del></l>
-                    <l n="11">          cloud  this is the <del>modest</del>   not Botticellis</l>
-                    <l n="12">                     significant of</l>
-                    <l n="13">                    heaven not</l>
-                    <l n="14"> The Egyptians could   as in Babylon  i<gap extent="2" resp="cm"/>y blue or reflecting</l>
-                    <l n="15">build, &amp; understood   minor tasks were done   w rosy fruit</l>
-                    <l n="16">  making colossi; <del>and they</del> and   by trained baboons</l>
+                    <l n="01">     <!-- [draft="The Jerboa"]-->and the ostrich herd<note>MM drafts toward “The Jerboa” on the first half of the page and toward “The Plumet Basilisk,” starting with “the undethroned / Prince of lizards” (right side of page). Some phrases appear in each poem.</note></l>
+                    <l n="02">     with hard feet &amp; bird</l>
+                    <l n="03">              ed                    proudly</l>
+                    <l n="04">     necks rearing back serpent fashion   angrily back</l>
+                    <l n="05">           reared back at an angle, <del>snake</del></l>
+                    <l n="06">    all as one <del>striking</del> snake attacking</l>
+                    <l n="07">                     serpent                     angels</l>
+                    <l n="08">          reined back as they run <del>significant</del> Skin of</l>
+                    <l n="09">                                          <del>modest</del> brown</l>
+                    <l n="10">     as the one snake attacking       <del>nothing</del></l>
+                    <l n="11">                   cloud  this is the <del>modest</del>  not Botticellis</l>
+                    <l n="12">                                          significant of</l>
+                    <l n="13">                                           heaven not</l>
+                    <l n="14">    The Egyptians could       as in Babylon  i<gap extent="2" resp="cm"/>y blue or reflecting</l>
+                    <l n="15">    build, &amp; understood        minor tasks were done  w rosy fruit</l>
+                    <l n="16">   making colossi; <del>and they</del> and   by trained baboons</l>
                     <l n="17">  <hi rend="underline">small things. They kept</hi> crocodiles &amp; giraffes the <del>s</del>lightwork was done</l>
-                    <l n="18">     tanks for crocodiles, for</l>
-                    <l n="19">    <del>also had slaves</del></l>
+                    <l n="18">             tanks for crocodiles, for</l>
+                    <l n="19">  <del>also had slaves</del></l>
                     <l n="20">  how to use slaves         <!--[/draft="The Jerboa"]--><!-- [draft="The Plumet Basilisk"]-->The undethroned</l>
-                    <l n="21">      The green fire opal of Mexico  Prince of lizards</l>
-                    <l n="22">    The Plumet Basilisk Mexico    little king &amp;</l>
-                    <l n="23">    —&amp; blue black opal of     not so little</l>
+                    <l n="21">           The green fire opal of Mexico  Prince of lizards</l>
+                    <l n="22">        The Plumet Basilisk   Mexico       little king &amp;</l>
+                    <l n="23">        —&amp; blue black opal of             not so little</l>
                     <l n="24">  the emerald ^ feather basilisks that travelers talk</l>
-                    <l n="25">the green-fire feather          about</l>
+                    <l n="25">the green-fire  feather                      about</l>
                     <l n="26">  walk <del>as one d</del> on the water as one does on akimbo— w 3 plumes</l>
-                    <l n="27">  &amp; dive as none does       legs   w scattered toes</l>
-                    <l n="28">      no newt    paddle-tail dragging</l>
+                    <l n="27">   &amp; dive as none does       legs   w scattered toes</l>
+                    <l n="28">           no newt               paddle-tail dragging</l>
                     <l n="29">  This is ours— the wealthy land has this</l>
-                    <l n="30">     old world  Costa Rica</l>
-                    <l n="31">  and the flying dragon, &amp; that is theirs</l>
-                    <l n="32">                spiny</l>
-                    <l n="33">  the <del>little</del> sombre butterfly    w <del>tiny</del> tail</l>
-                    <l n="34">     tiny turtle-tail   &amp; tiny</l>
-                    <l n="35">  that tapers to a ^ pin-point body like a gondola</l>
-                    <l n="36"> flecked w <del>spots</del> lemon white or yellow fish skin</l>
-                    <l n="37">            tiny  orchids</l>
-                    <l n="38">  spots like tortoishell <del>to</del> light on spotted leaves</l>
-                    <l n="39">                the mauve <unclear resp="hcw">stamen</unclear></l>
-                    <l n="40">  sailing <del>a</del> prettily downward —trailing bull frog like</l>
+                    <l n="30">           old world     Costa Rica</l>
+                    <l n="31">   and the flying dragon, &amp; that is theirs</l>
+                    <l n="32">                              spiny</l>
+                    <l n="33">   the <del>little</del> sombre butterfly    w <del>tiny</del> tail</l>
+                    <l n="34">             tiny turtle-tail     &amp; tiny</l>
+                    <l n="35">   that tapers to a ^ pin-point body like a gondola</l>
+                    <l n="36">  flecked w <del>spots</del> lemon white or yellow fish skin</l>
+                    <l n="37">                      tiny         orchids</l>
+                    <l n="38">   spots like tortoishell <del>to</del> light on spotted leaves</l>
+                    <l n="39">                               the mauve <unclear resp="hcw">stamen</unclear></l>
+                    <l n="40">    sailing <del>a</del> prettily downward —trailing bull frog like</l>
                     <l n="41">browns the tail tapered to a thin point—dragging</l>
-                    <l n="42"> wings spread, &amp; legs akimbo</l>
-                    <l n="43">              little</l>
+                    <l n="42">  wings spread, &amp; legs akimbo</l>
+                    <l n="43">                               little</l>
                     <l n="44">  the landing place the <del>flo</del> <hi rend="underline">branch of orchids</hi></l>
-                    <l n="45">            the inside of a<!--[/draft="The Plumet Basilisk"]--></l>
+                    <l n="45">                                     the inside of a<!--[/draft="The Plumet Basilisk"]--></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0133_text">
                 <pb facs="nb07_04_04_0133_recto.jpg"/>
                   <lg>
-                    <l n="01">      <!-- [draft="The Plumet Basilisk"]-->flowers like<note>The word “like” is written on the seam between pages; “clam shell” continues the phrase from the previous page: “the inside of a / clam shell.”</note>  clam shell<note>MM drafts toward “The Plumet Basilisk”; a few phrases appear in the published poem.</note></l>
-                    <l n="02">       ______________________________</l>
-                    <l n="03"> w wings rising from its neck? its chest</l>
-                    <l n="04">     wings out</l>
-                    <l n="05"> Supporting wing-fans from its waist— modest quiver</l>
-                    <l n="06">  adhesive toes  quivering fall       flying to</l>
-                    <l n="07">         upon that water springing  falling on the River</l>
-                    <l n="08"> iguanoid angel skin      Lizards that live in the water</l>
-                    <l n="09">   ametystine the true      ocelots  are newts?</l>
-                    <l n="10">  amethyst brown angelskin &amp; gold &amp; silver <hi rend="underline">jaguars</hi> the best of <del>the</del></l>
-                    <l n="11">  emeralds black opals topazes &amp; pearls Chin<del>ese</del>a's</l>
-                    <l n="12">     can train a little    <note>The diagonally written phrases in several rows of script appear to build incomplete phrases: “the small but wealthy country fears live emeralds upon it some ladies chain the king a little green one And on water existing chameleons to walk to ornament the neck to walk around the neck.” To simplify reading, some of the diagonally written words are combined on a single row of transcription.</note> unknown dragons</l>
-                    <l n="13"> the small but wealthy country  upon it    the living emerald—rare than</l>
-                    <l n="14">  fears live emeralds  some ladies chain</l>
-                    <l n="15"> wealthy country live emeralds some ladies chain</l>
-                    <l n="16">   Mexico's the gilded diving king of Mexico  fashion # but modest</l>
-                    <l n="17">   <del>or</del>on water existing chameleons to walk to ornament the neck golden "fish<del>y</del>"</l>
-                    <l n="18">     to walk around the neck of</l>
-                    <l n="19"> This the wealthy land has living emeralds those</l>
-                    <l n="20"> the magic willow on the grave of the stepdaughters true mother—these words are</l>
-                    <l n="21"> the trees have dragons on them encrusted undethroned  toads</l>
-                    <l n="22">  The un<del>deth</del>roned emerald <del>dressed</del> king     &amp; these</l>
-                    <l n="23"> shakes down                 are pearls</l>
-                    <l n="24"> green fire on the living emeralds living on them clad with</l>
-                    <l n="25">  glass water         <del>his</del> no human body</l>
-                    <l n="26">  5 fringy adhesive toes,   painted gilded <del>&amp; </del>for leaping</l>
-                    <l n="27">         winged      off araft</l>
-                    <l n="28">   the dainty fan <del>skinned</del> flying lizard</l>
-                    <l n="29">  the dragon flying flower flecked flyer gorgeously</l>
-                    <l n="30">  wealth  small     from a square human</l>
+                    <l n="01">                  <!-- [draft="The Plumet Basilisk"]-->flowers like<note>The word “like” is written on the seam between pages; “clam shell” continues the phrase from the previous page: “the inside of a / clam shell.”</note>     clam shell<note>MM drafts toward “The Plumet Basilisk”; a few phrases appear in the published poem.</note></l>
+                    <l n="02">                  ______________________________</l>
+                    <l n="03">   w wings rising from its neck?  its chest</l>
+                    <l n="04">             wings out</l>
+                    <l n="05">   Supporting wing-fans from its waist—     modest quiver</l>
+                    <l n="06">   adhesive toes      quivering fall         flying to</l>
+                    <l n="07">                  upon that water springing falling on the River</l>
+                    <l n="08">   iguanoid  angel skin     Lizards that live in the water</l>
+                    <l n="09">       ametystine   the true           ocelots are newts?</l>
+                    <l n="10">    amethyst brown angelskin &amp; gold &amp; silver <hi rend="underline">jaguars</hi>  the best of <del>the</del></l>
+                    <l n="11">     emeralds black opals topazes &amp; pearls         Chin<del>ese</del>a's</l>
+                    <l n="12">             can train a little<note>The diagonally written phrases in several rows of script appear to build incomplete phrases: “the small but wealthy country fears live emeralds upon it some ladies chain the king a little green one And on water existing chameleons to walk to ornament the neck to walk around the neck.” To simplify reading, some of the diagonally written words are combined on a single row of transcription.</note>           unknown dragons</l>
+                    <l n="13">   the lizard prince       the living emerald— rarer than          </l>
+                    <l n="14">the small but wealthy country fears live emeralds upon it        </l>
+                    <l n="15">          some ladies chain the king a little green one And </l>
+                    <l n="16">                    Mexico's the gilded diving king of Mexico   fashion # </l>
+                    <l n="17">           <del>or</del>on water existing chameleons to walk to ornament the neck   golden "fish<del>y</del>"</l>
+                    <l n="18">                                      to walk around the neck of</l>
+                    <l n="19">  This wealthy land has living emeralds those                    but modest</l>
+                    <l n="20"> the magic willow on the grave of the stepdaughters true mother— these words are</l>
+                    <l n="21"> the trees have dragons on them encrusted undethroned                toads</l>
+                    <l n="22">      The un<del>deth</del>roned emerald <del>dressed</del> king                     &amp; these</l>
+                    <l n="23"> shakes down                                               are pearls</l>
+                    <l n="24">  green fire on the living emeralds living on them clad with</l>
+                    <l n="25">    glass water         <del>his</del>                    no human body</l>
+                    <l n="26">  5  fringy adhesive toes,      painted gilded <del>&amp; </del>for leaping</l>
+                    <l n="27">                      winged               off araft</l>
+                    <l n="28">        the dainty fan <del>skinned</del> flying lizard</l>
+                    <l n="29">    the dragon flying flower flecked flyer   gorgeously</l>
+                    <l n="30">     wealth      small     from a square human</l>
                     <l n="31"> The <del>strength</del> of this wealthy place is this small raft</l>
-                    <l n="32">       <del>person in</del>       prince</l>
+                    <l n="32">                <del>person in</del>                prince</l>
                     <l n="33"> the wealthi<del>est citizen</del> of this wealthy place is</l>
-                    <l n="34">  this little king adhering to the king of jaguars monkeys in the emerald</l>
-                    <l n="35">          <del> <unclear resp="hcw">monkey</unclear> jaguars</del>,</l>
+                    <l n="34">    this little king adhering to the king of jaguars monkeys in the emerald</l>
+                    <l n="35">                   <del><unclear resp="hcw">monkey</unclear> jaguars</del>,</l>
                     <l n="36">  <del>Among the</del> tapirs, <del>ocelots &amp; bats &amp;</del> pumas <del>monkeys</del></l>
-                    <l n="37">    of ocelots &amp; bats, it is the king, tree frogs</l>
-                    <l n="38">  in all his       little  turquoise</l>
-                    <l n="39">  has its emeralds &amp; <del>topazes</del> amethysts &amp; <del>topazes</del> &amp;</l>
+                    <l n="37">         of ocelots &amp; bats, it is the king, tree frogs</l>
+                    <l n="38">    in all his                    little           turquoise</l>
+                    <l n="39">       has its emeralds &amp; <del>topazes</del> amethysts &amp; <del>topazes</del> &amp;</l>
                     <l n="40">Unlike Peru<del>s</del> ^ dead king under glass</l>
-                    <l n="41">  the wealth of this wealthy place is in</l>
-                    <l n="42">  but this is something living, the king of water</l>
-                    <l n="43">   <del>different</del>      king of a <del>m</del>narrow neck</l>
-                    <l n="44">      Unlike  with a <del>smallness</del> king of land</l>
-                    <l n="45">       <del>In</del> Peru  <del>they have</del> Pizzaro its tapirs it</l>
-                    <l n="46">  This land is not Peru falling fr a tree upon the water under glass</l>
-                    <l n="47">   The king is     <del>l<gap extent="5" resp="hcw"/>s that</del>a little green one</l>
+                    <l n="41">       the wealth of this wealthy place is in</l>
+                    <l n="42">   but this is something living, the king of water</l>
+                    <l n="43">   <del>different</del>             king of a <del>m</del>narrow neck</l>
+                    <l n="44">              Unlike    with a <del>smallness</del> king of land</l>
+                    <l n="45">            <del>In</del> Peru  <del>they have</del> Pizzaro its tapirs it</l>
+                    <l n="46">     This land is not Peru  falling fr a tree upon the water under glass</l>
+                    <l n="47">       The king is     <del>l<gap extent="5" resp="hcw"/>s that</del>a little green one</l>
                     </lg>
                 <lg type="sideways">
                     <l n="48"><!--[desc]lines 12-5, left margin, in 2 rows of script[/desc]-->w magic green fire / falling on the water</l>
-                    <l n="49"><!--[desc] lines 48-27, left margin, in 2 rows of script[/desc]-->with 3 part-plume along his back / 3 plumed crest along his back</l>
+                    <l n="49"><!--[desc] lines 48-27, left margin, in 2 rows of script[/desc]-->with 3 part plume along his back / 3 plumed crest along his back</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0134_text">
                 <pb facs="nb07_04_04_0134_verso.jpg"/>
                   <lg>
-                    <l n="01"> <!-- [draft="The Plumet Basilisk"]--> unfeigned prince &amp; dragon dropping<note>MM drafts toward “The Plumet Basilisk”; some phrases appear in published poem.</note></l>
-                    <l n="02">the little green one falling fr a tree upon the water</l>
-                    <l n="03">fabulous childish  in all his jewels</l>
-                    <l n="04"> w a modest quiver w spreading toes</l>
-                    <l n="05">rarity—   fright  in jewels</l>
+                    <l n="01"> <!-- [draft="The Plumet Basilisk"]-->the unfeigned prince &amp; dragon dropping<note>MM drafts toward “The Plumet Basilisk”; some phrases appear in published poem.</note></l>
+                    <l n="02">    little green one falling fr a tree upon the water</l>
+                    <l n="03"> fabulous childish     in all his jewels</l>
+                    <l n="04">     w a modest quiver    w spreading toes</l>
+                    <l n="05"> rarity—        fright       in jewels</l>
                     <!-- Line missing here "running" CN -->
-                    <l n="06"> &amp; running on the water w toes spread</l>
-                    <l n="07">like green fire <del>across</del> water tail dragging</l>
-                    <l n="08">     along   8 or 9 green bands</l>
-                    <l n="09">      king of &amp; fire green bands</l>
-                    <l n="10">  &amp; diving to the riverbed   hands</l>
-                    <l n="11">  fr his <del>throne</del> tree position overhead driftwood</l>
-                    <l n="12">    feather          blaze</l>
-                    <l n="13">3 plumed fin along the back   the fire</l>
-                    <l n="14"> Chinese  well-known lizard   work</l>
-                    <l n="15">   w the <del>hereditary</del> grace  track</l>
+                    <l n="06">     &amp; running on the water w toes spread</l>
+                    <l n="07"> running like green fire <del>across</del> water tail dragging</l>
+                    <l n="08">                    along      8 or 9 green bands</l>
+                    <l n="09">               king of         &amp; fire green bands</l>
+                    <l n="10">       &amp; diving to the riverbed   hands</l>
+                    <l n="11">       fr his <del>throne</del> tree position overhead driftwood</l>
+                    <l n="12">          feather                  blaze</l>
+                    <l n="13">  3 plumed fin along the back      the fire</l>
+                    <l n="14">    Chinese  well-known lizard       work</l>
+                    <l n="15">          w the <del>hereditary</del> grace  track</l>
                     <l n="16">the <del>royal</del> lizard face</l>
-                    <l n="17">regal</l>
-                    <l n="18">you work hard, your grace—   black</l>
-                    <l n="19"> You say you do &amp; like  emerald &amp; black</l>
-                    <l n="20">  know fr the papers that you do</l>
-                    <l n="21">In addressing a duke <del>we</del>I say your grace</l>
-                    <l n="22">to a duke &amp; prince should <del>one</del> I say</l>
-                    <l n="23">   something more special    without</l>
-                    <l n="24">the plumed <del>king</del> potential small king—<del>who can</del></l>
-                    <l n="25">        on the  bullfrog</l>
-                    <l n="26">walking on the land or water— star turtle &amp; the alligator</l>
-                    <l n="27"> sea on  yellow spotted glass skin of</l>
-                    <l n="28">the green brass <del>&amp; the blue glass</del></l>
-                    <l n="29">           the dragon</l>
-                    <l n="30">much in little— oh colleges are always talking</l>
-                    <l n="31">about light. Here it is—</l>
-                    <l n="32">        <del>as they turn</del></l>
-                    <l n="33">The palm trees <del>blurred</del> at the edge in the <del>light</del></l>
-                    <l n="34">      blurring   seabreeze</l>
-                    <l n="35">He grew this way—He's not improved his worth</l>
-                    <l n="36">the          w housepaint</l>
-                    <l n="37">moat—the river—to jump into</l>
-                    <l n="38">emerald w powder blue— skip 2 pages</l>
-                    <l n="39"> iguanoid plants the fire green lizard knows not to</l>
-                    <l n="40">          improve the its mouth &amp; other skin w house</l>
-                    <l n="41">               paint<!--[/draft]--></l>
+                    <l n="17">   regal</l>
+                    <l n="18">   you work hard, your grace—   black</l>
+                    <l n="19">    You say you do &amp; like  emerald &amp; black</l>
+                    <l n="20">           know fr the papers that you do</l>
+                    <l n="21">  In addressing a duke <del>we</del>I say your grace</l>
+                    <l n="22">  to a duke &amp; prince should <del>one</del> I say</l>
+                    <l n="23">        something more special      without</l>
+                    <l n="24"> the plumed <del>king</del> potential small king— <del>who can</del></l>
+                    <l n="25">                  on the           bullfrog</l>
+                    <l n="26">  walking on the land or water    star turtle &amp; the alligator</l>
+                    <l n="27">     sea   on       yellow spotted glass skin of</l>
+                    <l n="28">  the green brass <del>&amp; the blue glass</del></l>
+                    <l n="29">                                 the dragon</l>
+                    <l n="30"> much in little— The colleges are always talking</l>
+                    <l n="31">  about light. Here it is—</l>
+                    <l n="32">                    <del>as they turn</del></l>
+                    <l n="33">  The palm trees <del>blurred</del> at the edge in the <del>light</del></l>
+                    <l n="34">                 blurring             seabreeze</l>
+                    <l n="35">  He grew this way—  He's not improved his worth</l>
+                    <l n="36"> the                        w housepaint</l>
+                    <l n="37">  moat— the river— to jump into</l>
+                    <l n="38">  emerald w powder blue—    Skip 2 pages</l>
+                    <l n="39">     iguanoid plants the fire green lizard knows not to</l>
+                    <l n="40">                       improve the its mouth &amp; other skin w house</l>
+                    <l n="41">                                                     paint<!--[/draft]--></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0135_text">
                 <pb facs="nb07_04_04_0135_recto.jpg"/>
                   <lg>
-                    <l n="01" rend="conv"> <seg rend="conv"/> <hi rend="black">Badger</hi> <note>Badger is a nickname for John Warner Moore. Further</note> <hi rend="black">: my birthday is on the 18th</hi></l>
-                    <l n="02" rend="conv">     <hi rend="black">alright</hi></l>
-                    <l n="03" rend="conv">  <del> <hi rend="black">come on</hi></del> big boy. Im fraid I'll have</l>
-                    <l n="04" rend="conv">    <hi rend="black">to disappoint you—</hi></l>
-                    <l n="05" rend="conv">   <hi rend="black">ah! Still with you</hi></l>
-                    <l n="06" rend="conv"> <hi rend="black">Mexican jumping bean</hi>   kindly</l>
-                    <l n="07" rend="conv">  2 doubles in succession—oh <del>no very</del></l>
-                    <l n="08" rend="conv"><hi rend="black">Mr. Granat: Now Firpo—</hi>   impartial</l>
-                    <l n="09" rend="conv">    <hi rend="black">Pampas—I'll try that on them</hi></l>
-                    <l n="10" rend="conv">  <hi rend="black">Dr. B. looks like an apple that's been run over</hi></l>
-                    <l n="11" rend="conv">           <hi rend="black">by an auto</hi></l>
-                    <l n="12" rend="conv">    <hi rend="black">Franz Hals and some other sneeze</hi></l>
-                    <l n="13" rend="conv">   just <del>brought</del> over from Europe</l>
-                    <l n="14" rend="conv">         <hi rend="black">something for</hi></l>
-                    <l n="15" rend="conv">    <hi rend="black">they give you ^ your money</hi> <del>'s</del> <hi rend="black"> but</hi></l>
-                    <l n="16" rend="conv">    <hi rend="black">they relieve you of a good deal of money</hi></l>
-                    <l n="17" rend="conv"> <hi rend="black">Casey said Do you fix tires? man said yes.</hi></l>
-                    <l n="18" rend="conv">  <hi rend="black">Casey put a wrench on the wheel but didn't</hi></l>
-                    <l n="19" rend="conv">  <hi rend="black">do anything more. He said, if he</hi></l>
-                    <l n="20" rend="conv"> <hi rend="black">doesnt come and get this, we'll just get right</hi></l>
-                    <l n="21" rend="conv">  <hi rend="black">in the car and go somewhere else—these</hi></l>
-                    <l n="22" rend="conv"> <hi rend="black">fellows are getting too independent.</hi></l>
-                    <l n="23" rend="conv"> <hi rend="black">Man came out presently &amp; got the tire.</hi></l>
-                    <l n="24" rend="conv"> <hi rend="black">He said the idea—of his hesitating—</hi></l>
-                    <l n="25" rend="conv"> <hi rend="underline">I hate that.</hi> <!-- line not displaying in black --></l>
-                    <l n="26" rend="conv">    <hi rend="black">like one of these people in a </hi> <unclear resp="cm">so dys</unclear> <hi rend="black">bycicle race</hi></l>
-                    <l n="27" rend="conv"><hi rend="black">I called Mrs Reinecke, Miss Guylor. .</hi></l>
-                    <l n="28" rend="conv">    <hi rend="black">I'd never seen her except w a hat on pulled down</hi></l>
-                    <l n="29" rend="conv"> <del>Capt. J. She ought to</del> Miss G. has just <!-- line not displaying in black--></l>
-                    <l n="30" rend="conv"><hi rend="black">been in France in a convent or some such</hi></l>
-                    <l n="31" rend="conv"><hi rend="black">hostlery.</hi></l>
-                    <l n="32" rend="conv"> <hi rend="black">Capt. Jackson. She ought to be very grateful</hi></l>
-                    <l n="33" rend="conv">               <hi rend="black">to you.</hi> <!-- line not displaying --></l>
-                    <l n="34" rend="conv"><hi rend="black">Miss Guylors a very nice girl—but</hi></l>
-                    <l n="35" rend="conv"> <hi rend="black">she's fresh as you make them. She said</hi></l>
-                    <l n="36" rend="conv"><hi rend="black">I dance very well for a Lt. Commander.</hi></l>
-                    <l n="37" rend="conv"><hi rend="black">Then he asked the Capt if he intended to go to the dance</hi></l>
-                    <l n="38" rend="conv"> <hi rend="black">at the Club. He said, no I'm afraid someone might<seg rend="conv"/></hi></l>
+                    <l n="01" rend="conv"> <seg rend="conv"/> <hi rend="black">Badger:</hi><note>Badger is a nickname for John Warner Moore.</note><hi rend="black"> my birthday is on the 18th</hi></l>
+                    <l n="02" rend="conv">             <hi rend="black">alright</hi></l>
+                    <l n="03" rend="conv">         <del><hi rend="black">come on</hi></del> big boy. Im fraid I'll have</l>
+                    <l n="04" rend="conv">            <hi rend="black">to disappoint you—</hi></l>
+                    <l n="05" rend="conv">            <hi rend="black">ah! Still with you</hi></l>
+                    <l n="06" rend="conv">             <hi rend="black">Mexican jumping bean</hi>        kindly</l>
+                    <l n="07" rend="conv">               2 doubles in succession—  ah <del>no very</del></l>
+                    <l n="08" rend="conv">  <hi rend="black">Mr. Granat:  Now Firpo—</hi>               impartial</l>
+                    <l n="09" rend="conv">              <hi rend="black">Pampas— I'll try that on them</hi></l>
+                    <l n="10" rend="conv">      <hi rend="black">Dr. B. looks like an apple that's been run over</hi></l>
+                    <l n="11" rend="conv">                           <hi rend="black">by an auto</hi></l>
+                    <l n="12" rend="conv">              <hi rend="black">Franz Hals and some other sneeze</hi></l>
+                    <l n="13" rend="conv">              just <del>brought</del> over from Europe</l>
+                    <l n="14" rend="conv">                        <hi rend="black">something for</hi></l>
+                    <l n="15" rend="conv">              <hi rend="black">they give you ^ your money</hi><del>'s</del> <hi rend="black"> but</hi></l>
+                    <l n="16" rend="conv">              <hi rend="black">they relieve you of a good deal of money</hi></l>
+                    <l n="17" rend="conv">  <hi rend="black">Casey said Do you fix tires? man said yes.</hi></l>
+                    <l n="18" rend="conv">     <hi rend="black">Casey put a wrench on the wheel but didn't</hi></l>
+                    <l n="19" rend="conv">       <hi rend="black">do anything more. He said, if he</hi></l>
+                    <l n="20" rend="conv">   <hi rend="black">doesnt come and get this, we'll just get right</hi></l>
+                    <l n="21" rend="conv">   <hi rend="black">in the car and go somewhere else—these</hi></l>
+                    <l n="22" rend="conv">  <hi rend="black">fellows are getting too independent.</hi></l>
+                    <l n="23" rend="conv">  <hi rend="black">Man came out presently &amp; got the tire.</hi></l>
+                    <l n="24" rend="conv">  <hi rend="black">He said the idea— of his hesitating—</hi></l>
+                    <l n="25" rend="conv">  <hi rend="underline">I hate that.</hi> <!-- line not displaying in black --></l>
+                    <l n="26" rend="conv">               <hi rend="black">like one of these people in a </hi><unclear resp="cm">so dys</unclear> <hi rend="black">bycicle race</hi></l>
+                    <l n="27" rend="conv"> <hi rend="black">I called Mrs Reinecke, Miss Guylor. .</hi></l>
+                    <l n="28" rend="conv">             <hi rend="black">I'd never seen her except w a hat on pulled down</hi></l>
+                    <l n="29" rend="conv">   <del>Capt. J. She ought to</del> Miss G. has just <!-- line not displaying in black--></l>
+                    <l n="30" rend="conv">   <hi rend="black">been in France in a convent or some such</hi></l>
+                    <l n="31" rend="conv">   <hi rend="black">hostlery.</hi></l>
+                    <l n="32" rend="conv">  <hi rend="black">Capt. Jackson. She ought to be very grateful</hi></l>
+                    <l n="33" rend="conv">                                      <hi rend="black">to you.</hi> <!-- line not displaying --></l>
+                    <l n="34" rend="conv">  <hi rend="black">Miss Guylors a very nice girl— but</hi></l>
+                    <l n="35" rend="conv">  <hi rend="black">she's fresh as you make them. She said</hi></l>
+                    <l n="36" rend="conv">  <hi rend="black">I dance very well for a Lt. Commander.</hi></l>
+                    <l n="37" rend="conv"> <hi rend="black">Then he asked the Capt if he intended to go to the dance</hi></l>
+                    <l n="38" rend="conv">   <hi rend="black">at the Club. He said, no I'm afraid someone might<seg rend="conv"/></hi></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0136_text">
                 <pb facs="nb07_04_04_0136_verso.jpg"/>
                   <lg>
-                    <l n="01" rend="conv">   <seg rend="conv"/> <hi rend="black">say I dance very well for a Captain.</hi></l>
-                    <l n="02" rend="conv">         <hi rend="black">Casey</hi></l>
-                    <l n="03" rend="conv"> He <del>took his big body off</del> trotted off <del>like a little</del></l>
+                    <l n="01" rend="conv">    <seg rend="conv"/> <hi rend="black">say I dance very well for a Captain.</hi></l>
+                    <l n="02" rend="conv">                         <hi rend="black">Casey</hi></l>
+                    <l n="03" rend="conv">    He <del>took his big body off</del> trotted off <del>like a little</del></l>
                     <!-- line not displaying in Black -->
-                    <l n="04" rend="conv"> <del>pig</del>, willfully through the bushes like a little on his <!-- line not displaying in black --></l>
-                    <l n="05" rend="conv">  <hi rend="black">way—ears wagging up and down—w self centred</hi></l>
-                    <l n="06" rend="conv">  <hi rend="black">equipoise</hi></l>
-                    <l n="07" rend="conv"> anti corrosive toad gray</l>
-                    <l n="08" rend="conv"> anti fouling red</l>
-                    <l n="09" rend="conv"> and another coat</l>
-                    <l n="10" rend="conv"> O.D. will</l>
-                    <l n="11" rend="conv"> send them back to get their hair cut</l>
-                    <l n="12" rend="conv"> It's the  of all sailors to have long hair</l>
-                    <l n="13" rend="conv"> <del>Their one</del> ambition <del>is to let their hair grow long</del> so</l>
-                    <l n="14" rend="conv"> when</l>
-                    <l n="15" rend="conv"> <del>if</del> they bend down they can throw it back</l>
-                    <l n="16" rend="conv"> <del>and</del> so it looks like porcupine quills at rest</l>
-                    <l n="17" rend="conv"> and if their hair is curly they try to make it <del>stand</del></l>
+                    <l n="04" rend="conv">   <del>pig</del>, willfully through the bushes like a little on his <!-- line not displaying in black --></l>
+                    <l n="05" rend="conv">    <hi rend="black">way— ears wagging up and down— w self centred</hi></l>
+                    <l n="06" rend="conv">    <hi rend="black">equipoise</hi></l>
+                    <l n="07" rend="conv">     anti corrosive toad gray</l>
+                    <l n="08" rend="conv">     anti fouling red</l>
+                    <l n="09" rend="conv">     and another coat</l>
+                    <l n="10" rend="conv">  O.D. will</l>
+                    <l n="11" rend="conv">  send them back to get their hair cut</l>
+                    <l n="12" rend="conv">     It's the     of all sailors to have long hair</l>
+                    <l n="13" rend="conv">  <del>Their one</del> ambition <del>is to let their hair grow long</del> so</l>
+                    <l n="14" rend="conv">    when</l>
+                    <l n="15" rend="conv">  <del>if</del> they bend down they can throw it back</l>
+                    <l n="16" rend="conv">  <del>and</del> so it looks like porcupine quills at rest</l>
+                    <l n="17" rend="conv">    and if their hair is curly they try to make it <del>stand</del></l>
                     <l n="18" rend="conv">bushy so that it stands out</l>
-                    <l n="19" rend="conv"> <del>out</del> like a furze bush—You can see the tendency in</l>
-                    <l n="20" rend="conv">some of them that are working on tugs along the</l>
-                    <l n="21" rend="conv">waterfront—<seg rend="conv"/></l>
-                    <l n="22"><!-- [draft="The Jerboa"]-->The hidden pleasantness of the pine—<note>MM concludes quoting conversations and begins drafting toward “The Jerboa” here.</note></l>
-                    <l n="23">is not hid here—Pine cone of the</l>
-                    <l n="24">Pompeys—now the pine cone of the Popes</l>
-                    <l n="25">    first here, now there</l>
-                    <l n="26">  and</l>
-                    <l n="27">  <del>and some</del> faint upon the air</l>
-                    <l n="28">  w joy and <del>the</del> some, wear <del>away</del></l>
-                    <l n="29">  the</l>
-                    <l n="30">away. \\ <del>their</del> strength wears out w suffering</l>
-                    <l n="31">&amp; terror kill<del>s</del>ing s inch by inch</l>
-                    <l n="32">     tail</l>
-                    <l n="33"> like the ||piano of <del>bro</del>both black &amp; white</l>
-                    <l n="34">          7<!--[/draft]--></l>
+                    <l n="19" rend="conv">  <del>out</del> like a furze bush— You can see the tendency in</l>
+                    <l n="20" rend="conv">  some of them that are working on tugs along the</l>
+                    <l n="21" rend="conv">  waterfront—<seg rend="conv"/></l>
+                    <l n="22"><!-- [draft="The Jerboa"]--> The hidden pleasantness of the pine—<note>MM concludes quoting conversations and begins drafting toward “The Jerboa” here.</note></l>
+                    <l n="23"> is not hid here— Pine cone of the</l>
+                    <l n="24">  Pompeys— now the pine cone of the Popes</l>
+                    <l n="25">              first here, now there</l>
+                    <l n="26">           and</l>
+                    <l n="27">     <del>and some</del> faint upon the air</l>
+                    <l n="28">         w joy and <del>the</del> some, wear <del>away</del></l>
+                    <l n="29">         the</l>
+                    <l n="30">  away.\\<del>their</del> strength wears out w suffering</l>
+                    <l n="31">     &amp; terror kill<del>s</del>ing s inch by inch</l>
+                    <l n="32">             tail</l>
+                    <l n="33">  like the || piano of <del>bro</del>both black &amp; white</l>
+                    <l n="34">                             7<!--[/draft]--></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0137_text">
                 <pb facs="nb07_04_04_0137_verso.jpg"/>
                   <lg>
-                    <l n="01">And I here say aloud</l>
-                    <l n="02">It is <del>not love, it is love's shroud</del></l>
+                    <l n="01"> And I here say aloud</l>
+                    <l n="02"> It is <del>not love, it is love's shroud</del></l>
                     <l n="03"/>
                     <l n="04"> we <del>are like Adam, for a time, allowed by God to</del> call the</l>
-                    <l n="05">     <hi rend="red">Save</hi>            roll</l>
-                    <l n="06">the snail with horns     iguanas,</l>
-                    <l n="07">the snakes <del>the toad the tortoise iguanas</del> alligators</l>
-                    <l n="08">the toad, the tortoise, &amp; the porcupines</l>
-                    <l n="09">the unicorn<del>'</del>s</l>
-                    <l n="10">one unicorn, enough,</l>
-                    <l n="11">giraffes and <del>harmless ant</del> elks &amp; buffalo &amp; elephants</l>
-                    <l n="12">   antelopes      Title:</l>
-                    <l n="13">the rats the mice, the cats, the pards <hi rend="underline">accursed Africa</hi></l>
-                    <l n="14">               to bring th<del>eir</del>is monkey</l>
-                    <l n="15"> the birds, on high      here to die</l>
-                    <l n="16">ostriches cranes &amp; little ones &amp; by the baby with</l>
-                    <l n="17">              the falling glance &amp;</l>
-                    <l n="18">themselves, the insects  &amp; old man's eyes</l>
-                    <l n="19">         the gorilla, bandy legged, with ogre eyes</l>
+                    <l n="05">             <hi rend="red">Save</hi>                            roll</l>
+                    <l n="06"> the snail with horns            iguanas,</l>
+                    <l n="07"> the snakes <del>the toad the tortoise iguanas</del> alligators</l>
+                    <l n="08"> the toad, the tortoise, &amp; the porcupines</l>
+                    <l n="09"> the unicorn<del>'</del>s</l>
+                    <l n="10"> one unicorn, enough,</l>
+                    <l n="11"> giraffes and <del>harmless ant</del> elks &amp; buffalo &amp; elephants</l>
+                    <l n="12">             antelopes                Title:</l>
+                    <l n="13"> the rats the mice, the cats, the pards <hi rend="underline">accursed Africa</hi></l>
+                    <l n="14">                                 to bring th<del>eir</del>is monkey</l>
+                    <l n="15"> the birds, on high                 here to die</l>
+                    <l n="16"> ostriches cranes &amp; little ones &amp; by the baby with</l>
+                    <l n="17">                                 the falling glance &amp;</l>
+                    <l n="18"> themselves, the insects       &amp; old man's eyes</l>
+                    <l n="19">                    the gorilla, bandy legged, with ogre eyes</l>
                     <l n="20">camel sparrow— I Africa, India, Burneo Malay, &amp; so on</l>
-                    <l n="21"> the sour faced leopard.</l>
-                    <l n="22">        and we go on like this <del>his</del> his</l>
-                    <l n="23">      the drunkard cursing <del>the</del> self made obstacles</l>
-                    <l n="24">         uttering vengeances upon the self-made</l>
-                    <l n="25">      the leopard's <del>pu<gap extent="1" resp="hcw"/>fe</del>hard-thin     of stumbling</l>
-                    <l n="26">       fox glove</l>
-                    <l n="27">  A Strange one spotted skin</l>
-                    <l n="28"> a bird from <del>from</del> Africa         obstacle</l>
-                    <l n="29"> primrose, w dark  no doubt     he's stumbling on</l>
-                    <l n="30">       <del>kind of</del></l>
-                    <l n="31"> above the leg, a lark we think</l>
-                    <l n="32">  w power to s<hi rend="underline">ing</hi> when fly<hi rend="underline">ing</hi> singing</l>
-                    <l n="33">  that liked        when flying</l>
-                    <l n="34">    loved</l>
+                    <l n="21">     the sour faced leopard.</l>
+                    <l n="22">                   and we go on like this <del>his</del> his</l>
+                    <l n="23">                      the drunkard cursing <del>the</del> self made obstacles</l>
+                    <l n="24">                        uttering vengeances upon the self-made obstacle</l>
+                    <l n="25">                    the leopard's <del>pu<gap extent="1" resp="hcw"/>fe</del>hard-thin     of stumbling</l>
+                    <l n="26">                             fox glove</l>
+                    <l n="27">     A Strange one                    spotted skin</l>
+                    <l n="28">   a bird from <del>from</del> Africa                          he's stumbling on        </l>
+                    <l n="29">   primrose, w dark  no doubt     </l>
+                    <l n="30">               <del>kind of</del></l>
+                    <l n="31">  above the leg, a lark we think</l>
+                    <l n="32">   w power to s<hi rend="underline">ing</hi> when fly<hi rend="underline">ing</hi>     singing</l>
+                    <l n="33">   that liked                      when flying</l>
+                    <l n="34">        loved</l>
                     <l n="35"/>
-                    <l n="36"> a strange one</l>
-                    <l n="37">  of in Africa       perhaps a kind of</l>
-                    <l n="38"> as little as a wren, <del>perh it may have been a</del> lark</l>
-                    <l n="39">   the power so often</l>
-                    <l n="40"> with <del>a way of singing in his going, singing</del></l>
-                    <l n="41"> primrose w dark above the leg under the wing</l>
+                    <l n="36">   a strange one</l>
+                    <l n="37">    of in Africa            perhaps a kind of</l>
+                    <l n="38">  as little as a wren, <del>perh it may have been a</del> lark</l>
+                    <l n="39">        the power so often</l>
+                    <l n="40">  with <del>a way of singing in his going, singing</del></l>
+                    <l n="41">   primrose w dark above the leg under the wing</l>
                     </lg>
                 <lg type="sideways">
                     <l n="42"><!--[desc]along left margin, one vertical line across the entire page, and three following rows of script between lines 41 and 25. All but a few words are cancelled with broad wavy lines[/desc]-->contemplative only like the <del>superstitious sailor w a butterfly tattood on the shoulder</del> different one / a snake, a dirk through the arm, / on the instep a pig tattoo as a charm / against drowning</l>
@@ -4859,106 +4859,106 @@
             <div type="image" xml:id="nb07_04_04_0138_text">
                 <pb facs="nb07_04_04_0138_recto.jpg"/>
                   <lg>
-                    <l n="01">   <!-- [draft="The Plumet Basilisk"]-->cost     nor strange in knowing famine<note>MM may draft toward both the unpublished poem “accursed Africa” begun on previous page and “The Plumet Basilisk.”</note></l>
-                    <l n="02">not lost, but justified  to what kindles the fire of life</l>
-                    <l n="03">                 the fire of love</l>
-                    <l n="04">    well</l>
-                    <l n="05"> I think <del>better</del> of the hand</l>
-                    <l n="06"> on which this flaming minister could stand</l>
-                    <l n="07"> kindled with fire of life       listening w</l>
-                    <l n="08">  <del>en</del>kindl<del>ing</del>ed the fire of love      eyes aside to</l>
-                    <l n="09">      with           the slow foot &amp; long</l>
-                    <l n="10">   <del>timid</del>    now          or the end and</l>
-                    <l n="11">  startled,   more confident it sings  Cr<del>urtai</del> Mercy</l>
-                    <l n="12">           in dear grace notes &amp; now singing</l>
-                    <l n="13"> Doubtful at first, then trustful, now he sings  <del>the</del> shrine <del>of</del></l>
-                    <l n="14">   ing</l>
-                    <l n="15">  10 clear far off grace notes  of a slow growing trill</l>
-                    <l n="16">  the slow<del>ly</del> growing trill   of subdued romance until</l>
+                    <l n="01">       <!-- [draft="The Plumet Basilisk"]-->cost         nor strange in knowing famine<note>MM may draft toward both the unpublished poem “accursed Africa” begun on previous page and “The Plumet Basilisk.”</note></l>
+                    <l n="02">   not lost, but justified  to what kindles the fire of life</l>
+                    <l n="03">                                    the fire of love</l>
+                    <l n="04">            well</l>
+                    <l n="05">     I think <del>better</del> of the hand</l>
+                    <l n="06">     on which this flaming minister could stand</l>
+                    <l n="07">     kindled with fire of life                listening w</l>
+                    <l n="08">      <del>en</del>kindl<del>ing</del>ed the fire of love           eyes aside to</l>
+                    <l n="09">              with                        the slow foot &amp; long</l>
+                    <l n="10">     <del>timid</del>    now                        or the end and</l>
+                    <l n="11">     startled,    more confident it sings        Cr<del>urtai</del> Mercy</l>
+                    <l n="12">                   in dear grace notes &amp; now singing</l>
+                    <l n="13">     Doubtful at first, then trustful, now he sings  <del>the</del>  shrine <del>of</del></l>
+                    <l n="14">          ing</l>
+                    <l n="15">     10 clear far off grace notes  of a slow growing trill</l>
+                    <l n="16">     the slow<del>ly</del> growing trill       of subdued romance until</l>
                     <l n="17">exalting never fearing</l>
-                    <l n="18"> unfearful <del>that</del> lest the song       for the song</l>
-                    <l n="19"> <del>seem to</del> excuse the wrong that bound his wings  cf Egyptian w</l>
-                    <l n="20"> the muffled,              long looking eye</l>
-                    <l n="21">  <del>10</del> clear far off grace notes</l>
-                    <l n="22"> slow growing trill (till)        revelatory of the</l>
-                    <l n="23">     the subdued resonance until</l>
-                    <l n="24">elsewhere the  shattering crescendo     kingdom &amp;</l>
-                    <l n="25">quivering <del>&amp; brave &amp; clear that makes us pant,</del> oppressed the power</l>
-                    <l n="26"> pausing downward <hi rend="underline">till</hi>             <del>&amp; glory</del></l>
-                    <l n="27">         is</l>
-                    <l n="28"> shadowed in resonance—and <hi rend="underline">still</hi>.</l>
-                    <l n="29"> the princeling palaceless   printed on the mind in transfiguration</l>
+                    <l n="18">    unfearful <del>that</del> lest the song             for the song</l>
+                    <l n="19"><del>seem to</del> excuse the wrong that bound his wings  cf Egyptian w</l>
+                    <l n="20">     the muffled,                           long looking eye</l>
+                    <l n="21">    <del>10</del> clear far off grace notes</l>
+                    <l n="22">    slow growing trill (till)                   revelatory of the</l>
+                    <l n="23">               the subdued resonance until</l>
+                    <l n="24">elsewhere the  shattering crescendo                 kingdom &amp;</l>
+                    <l n="25">quivering <del>&amp; brave &amp; clear that makes us pant,</del> oppressed  the power</l>
+                    <l n="26">    pausing downward <hi rend="underline">till</hi>                          <del>&amp; glory</del></l>
+                    <l n="27">                     (is)</l>
+                    <l n="28">    shadowed in resonance—and <hi rend="underline">still</hi>.</l>
+                    <l n="29"> the princeling palaceless   printed on the mind   in transfiguration</l>
                     <l n="30"> <hi rend="underline">the feathered ear</hi>    silky ears</l>
-                    <l n="31">  golden glancing</l>
+                    <l n="31">    golden glancing</l>
                     <l n="32"> the small, small crest</l>
-                    <l n="33">   gleaning       more up, till palace-less</l>
+                    <l n="33">       gleaning          more up, till palace-less</l>
                     <l n="34"> the held note<del>s</del> ringing clear;</l>
-                    <l n="35">  <del>the yellow dressed</del> &amp; golden dressed   content that</l>
+                    <l n="35"> <del>the yellow dressed</del> &amp; golden dressed    content that</l>
                     <l n="36"> the princeling, palace-less, not knowing it, <del>agreed that</del></l>
-                    <l n="37">  such  is</l>
-                    <l n="38">  the anomaly <del>be</del> best</l>
-                    <l n="39"> this crown <del>of</del> his wings &amp; lyre—the little king in</l>
-                    <l n="40">  the little thing within       action &amp; attire</l>
-                    <l n="41"> no ring of basilisks, <del>no</del>&amp; fire</l>
+                    <l n="37">    such         is</l>
+                    <l n="38">     the anomaly <del>be</del> best</l>
+                    <l n="39"> this crown <del>of</del> his wings &amp; lyre— the little king in</l>
+                    <l n="40">   the little thing within          action &amp; attire</l>
+                    <l n="41">   no ring of basilisks, <del>no</del>&amp; fire</l>
                     <l n="42"> revelatory // wrapped in power &amp; glory, <del>no</del> flown away</l>
-                    <l n="43">  first here, now there, unproud, &amp; unreproach<del>ing</del>ful</l>
+                    <l n="43">    first here, now there, unproud, &amp; unreproach<del>ing</del>ful</l>
                     <l n="44"> in transfiguration swiftly silent, there is glory <del><gap extent="4" resp="hcw"/></del></l>
-                    <l n="45">        quickly   <del>they</del> learn to</l>
-                    <l n="46">            <del>and</del> so I mourn</l>
-                    <l n="47">           and so is glory worn</l>
+                    <l n="45">                    quickly         <del>they</del> learn to</l>
+                    <l n="46">                               <del>and</del> so I mourn</l>
+                    <l n="47">                               and so is glory worn</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0139_text">
                 <pb facs="nb07_04_04_0139_verso.jpg"/>
                   <lg>
-                    <l n="01">   De mocking-bird de lawyer De alligator,<note>William Cullen Bryant quotes this song heard at a corn shucking in his “A Tour in the Old South,” <hi rend="italics">New York Evening Post</hi> (1843): “De cooter is de boatman. / John John Crow. / De red-bird de soger. / John John Crow. / De mocking-bird de lawyer / John John Crow. / De alligator sawyer. / John John Crow.” The song was popular; for example, <hi rend="italics">Griswold’s Sixth School Reader</hi> quotes it as “Corn-Shucking in South Carolina” (ed. Noble Butler, Kentucky: Morton &amp; Griswold, 1857: 413). It appears in several of Bryant’s books and collections.</note> night</l>
-                    <l n="02"> De cooter is the boatman—John John Crow   sawyer</l>
-                    <l n="03">De red bird is the so<gap extent="1" resp="hcw"/>e soger           John John Crow</l>
-                    <l n="04">  Swans in collars &amp; the odor of may</l>
-                    <l n="05"> without thee stench of perfume</l>
-                    <l n="06">  slack-slung &amp; loping baboon</l>
-                    <l n="07"> not slack<del>ly</del> slung like the ape</l>
-                    <l n="08"> <!-- [draft="The Plumet Basilisk"]--> ______________________feather that can<note>MM drafts toward “The Plumet Basilisk”; a few lines appear in published poem.</note><!-- whole line not displaying btw lies 8 and 9 --></l>
-                    <l n="09">  Plumet Basilisk       w frill lie down or</l>
-                    <l n="10">                   stands <del>up</del> as stiffly</l>
-                    <l n="11">   <del>a pile of</del>                as a saw tooth crown</l>
-                    <l n="12">  <del>as i</del> In ^ blazing driftwood the green keeps showing <del>like</del></l>
-                    <l n="13">   showing at the same place   &amp; goes l<gap extent="3" resp="hcw"/>nding noting</l>
-                    <l n="14"> the fire-green plumet (lizardling) King of lizards</l>
-                    <l n="15"> on the old tree</l>
-                    <l n="16">    broad</l>
-                    <l n="17"> w toes made ^ for holding to the bark, lets (himself) go  3</l>
-                    <l n="18"> and smites the water, and runs a little way on his hind legs</l>
-                    <l n="19">  made          tail drgging</l>
-                    <l n="20"> before diving to the streambed          2</l>
-                    <l n="21">                the Costa Rican—</l>
-                    <l n="22">  <del>d</del>Dedications are rubbish. This is for the king duke prince I guess it</l>
-                    <l n="23">   one knows what <del>is meant for him</del> his &amp; what is ^ not;</l>
+                    <l n="01">       De mocking-bird de lawyer De alligator,<note>William Cullen Bryant quotes this song heard at a corn shucking in his “A Tour in the Old South,” <hi rend="italics">New York Evening Post</hi> (1843): “De cooter is de boatman. / John John Crow. / De red-bird de soger. / John John Crow. / De mocking-bird de lawyer / John John Crow. / De alligator sawyer. / John John Crow.” The song was popular; for example, <hi rend="italics">Griswold’s Sixth School Reader</hi> quotes it as “Corn-Shucking in South Carolina” (ed. Noble Butler, Kentucky: Morton &amp; Griswold, 1857: 413). It appears in several of Bryant’s books and collections.</note>    night</l>
+                    <l n="02">De cooter is the boatman—John John Crow      sawyer</l>
+                    <l n="03">De red bird is the so<gap extent="1" resp="hcw"/>e soger              John John Crow</l>
+                    <l n="04">    Swans in collars &amp; the odor of may</l>
+                    <l n="05">   without the stench of perfume</l>
+                    <l n="06">     slack-slung &amp; loping baboon</l>
+                    <l n="07">   not slack<del>ly</del> slung like the ape</l>
+                    <l n="08">    <!-- [draft="The Plumet Basilisk"]--> ______________________________ feather that can<note>MM drafts toward “The Plumet Basilisk”; a few lines appear in published poem.</note><!-- whole line not displaying btw lies 8 and 9 --></l>
+                    <l n="09">       Plumet Basilisk         w frill lie down or</l>
+                    <l n="10">                              stands <del>up</del> as stiffly</l>
+                    <l n="11">     <del>a pile of</del>                as a saw tooth crown</l>
+                    <l n="12">  <del>as i</del>In ^ blazing driftwood the green keeps showing <del>like</del></l>
+                    <l n="13">           showing at the same place   &amp; goes l<gap extent="3" resp="hcw"/>nding noting</l>
+                    <l n="14">  the fire-green plumet (lizardling) King of lizards</l>
+                    <l n="15">   on the old tree</l>
+                    <l n="16">            broad</l>
+                    <l n="17">  w toes made ^ for holding to the bark, lets (himself) go  3</l>
+                    <l n="18">   and smites the water, and runs a little way on his hind legs</l>
+                    <l n="19">       made                        tail drgging</l>
+                    <l n="20">  before diving to the streambed                           ?</l>
+                    <l n="21">                                          the Costa Rican—</l>
+                    <l n="22"> <del>d</del>Dedications are rubbish. This is for the king duke prince I guess it</l>
+                    <l n="23">        one knows what <del>is meant for him</del> his &amp; what is ^ not;</l>
                     <l n="24">  th<del>e</del>is rich coast is <del>his the</del> for him.</l>
-                    <l n="25">      his; he's <del>wealthy</del> active, and</l>
+                    <l n="25">                    his; he's <del>wealthy</del> active, and</l>
                     <l n="26">  <del>This is ours This one is ours</del>— eager <del>&amp; full of energy but</del></l>
-                    <l n="27">   a           the</l>
-                    <l n="28">  with face to face timidity—<del>observe his</del> dewlap tremble</l>
+                    <l n="27">       a                          the</l>
+                    <l n="28">   with face to face timidity— <del>observe his</del> dewlap tremble</l>
                     <l n="29"> He is  &amp; <del>bright subversive</del> <unclear resp="hcw">sinister</unclear> eye—</l>
-                    <l n="30">      &amp; dark round bird eye</l>
-                    <l n="31">  Not one of these ferocious <unclear resp="hcw">Kivu</unclear> lizards, pushing</l>
-                    <l n="32"> &amp; twisting &amp; sliding awry &amp; retreating &amp; bent</l>
-                    <l n="33">  upon meeting, hoping to gain a <del>th</del>strangle hold or</l>
-                    <l n="34"> that some dart will find the marrow—</l>
-                    <l n="35">          is</l>
-                    <l n="36"> This one is ours &amp; that <del>one</del> theirs—<del>our</del> the dragon flying</l>
-                    <l n="37">        w very small clear brown skin umbrellas <del>folding</del></l>
+                    <l n="30">               &amp; dark round bird eye</l>
+                    <l n="31">   Not one of these ferocious <unclear resp="hcw">Kivu</unclear> lizards, pushing</l>
+                    <l n="32">   &amp; twisting &amp; sliding awry &amp; retreating &amp; bent</l>
+                    <l n="33">    upon meeting, hoping to gain a <del>th</del>strangle hold or</l>
+                    <l n="34">  that some dart will find the marrow—</l>
+                    <l n="35">                       is</l>
+                    <l n="36">  This one is ours &amp; that <del>one</del> theirs—<del>our</del> the dragon flying</l>
+                    <l n="37">                   w very small clear brown skin umbrellas <del>folding</del></l>
                     <l n="38"> — <del>poor little thing the tobacco brown fan wing folding</del></l>
-                    <l n="39">  <del>toward in</del>to closing toward the waist. x Ribs fr</l>
-                    <l n="40">  its  but  its <del>their</del> ribs against its no  xtending</l>
-                    <l n="41">  <del>the</del>its neck? <del>Ribs</del> from the chest. Its not a snake</l>
+                    <l n="39"> <del>toward in</del>to closing toward the waist.  x       Ribs fr</l>
+                    <l n="40">    its       but  its <del>their</del> ribs against its no  xtending</l>
+                    <l n="41"> <del>the</del>its neck? <del>Ribs</del> from the chest. Its not a snake</l>
                     <l n="42"> its not a snake down &amp; faints</l>
                     <l n="43"> as it falls lightly upon the orchid—more like a medium sized</l>
-                    <l n="44">      white or</l>
-                    <l n="45">butterfly w tortoise yellow flecks on the dark wings</l>
-                    <l n="46">          human</l>
-                    <l n="47">  <unclear resp="hcw">myristien fragons</unclear>, in <del>lizard</del> slang, the untried.</l>
-                    <l n="48">  the telltale ch<gap extent="3" resp="hcw"/> of <gap extent="2" resp="hcw"/>ctr<gap extent="1" resp="hcw"/> for invisibility. Art is very<note>The phrase in the right margin continues from the last line: “Art is very exact—&amp; certain critics have nothing to do w art.”</note></l>
+                    <l n="44">          white or</l>
+                    <l n="45">   butterfly w tortoise yellow flecks on the dark wings</l>
+                    <l n="46">                        human</l>
+                    <l n="47">     <unclear resp="hcw">myristien fragons</unclear>, in <del>lizard</del> slang, the untried.</l>
+                    <l n="48">    the telltale ch<gap extent="3" resp="hcw"/> of <gap extent="2" resp="hcw"/>ctr<gap extent="1" resp="hcw"/> for invisibility. Art is very<note>The phrase in the right margin continues from the last line: “Art is very exact—&amp; certain critics have nothing to do w art.”</note></l>
                 </lg>
                 <lg type="sideways">
                     <l n="49"><!--[desc]left margin, lines 43-15[/desc]-->as <unclear>it</unclear> falls down the air as the green lizard lights on on the water</l>
@@ -4966,83 +4966,83 @@
                 </lg>
                 <lg type="vertical">
                     <l n="51"><!--[desc] right margin, lines 35-31, in two rows of script, the second intersecting VER52 [/desc]-->mere carelessness / has nothing to do w it</l>
-                    <l n="52"><!--[desc]right margin, lines 45-12[/desc]-->exact—&amp; certain critics have nothing to do w art.</l>
+                    <l n="52"><!--[desc]right margin, lines 45-12[/desc]-->exact— &amp; certain critics have nothing to do w art.</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0140_text">
                 <pb facs="nb07_04_04_0140_recto.jpg"/>
                   <lg>
-                    <l n="01"><!-- [draft="The Plumet Basilisk"]-->poor joys &amp; poor distresses // <unclear resp="hcw">Rich </unclear><!--[/draft]--></l>
-                    <l n="02">___________________________________________________</l>
-                    <l n="03"> about 5 minutes time to let in</l>
-                    <l n="04">___________________________________________________</l>
-                    <l n="05" rend="prose"> <seg rend="prose"/>W Stevens—a pride in unserviceableness</l>
-                    <l n="06" rend="prose">  that is not synon with the beauty of</l>
-                    <l n="07" rend="prose">          ness</l>
-                    <l n="08" rend="prose">        aloof<del>ness</del> self<del>sufficiency</del></l>
-                    <l n="09" rend="prose"> the <del>fury &amp; the brute</del></l>
-                    <l n="10" rend="prose">  a big ogre stalking toward one w a knobbed</l>
-                    <l n="11" rend="prose">               club</l>
-                      <l n="12" rend="prose">well moused, lion<note>A phrase from Shakespeare’s <hi rend="italics">A Midsummer Night’s Dream</hi> that MM adopted as the title for her review of Wallace Stevens’ <hi rend="italics">Harmonium</hi>: “Well Moused, Lion,” <hi rend="italics">The Dial</hi> January 1924 (84-91). Here for several lines, MM drafts a review of Stevens’ <hi rend="italics">Owl’s Clover</hi>, “Conjuries that Endure,” <hi rend="italics">Poetry</hi> February 1937 (268-72).</note></l>
-                    <l n="13" rend="prose"> Leigh Hunt<note>Hunt, James Henry Leigh (1784-1859). An English critic, essayist and poet, best known as “Leigh Hunt.”</note>—rhyme</l>
-                    <l n="14" rend="prose"> Java peackocks argus pheasants toucan</l>
-                    <l n="15" rend="prose">        floes</l>
-                    <l n="16" rend="prose"> arora borealis, ice <del>palaces</del> &amp; hair seal needlework</l>
-                    <l n="17" rend="prose"> Rousseaus<note>Rousseau, Henri (1844-1910). A French post-impressionist painter in the Naïve or Primitive style.</note>  paintings      <hi rend="black">the</hi></l>
-                    <l n="18" rend="prose">   <hi rend="black">Stevens recoils from admitting the force of basic emotions</hi></l>
-                    <l n="19" rend="prose">   obliquely treats of it thru <del>the</del> interacting vi<del>brations</del></l>
-                    <l n="20" rend="prose">   <del>of</del> allusive imagery</l>
-                    <l n="21" rend="prose">   cf Sidney.<note>Sidney, Philip (1554-1586). An English poet, courtier, scholar, and soldier. </note> the Greeks &amp;  Joyce, Eliot <!-- omitted notes to Stevens, Joyce, &amp; Eliot because they seemed too obvious; we should list in the glossary that they are mentioned on this page, but I don't think we need to say "Modernist poet/novelist" etc. Also note on V. Woolf image 0141?--> <!-- line not displaing correctly --></l>
-                    <l n="22" rend="prose">             James Campbell.<note>Possibly: Campbell, James Edwin (1867-1896). An African-American poet, editor, short story writer and educator.</note> <seg rend="prose"/></l>
+                    <l n="01">  <!-- [draft="The Plumet Basilisk"]-->poor joys &amp; poor distresses // <unclear resp="hcw">Rich </unclear><!--[/draft]--></l>
+                    <l n="02"> ___________________________________________________</l>
+                    <l n="03">   about 5 minutes time to let in</l>
+                    <l n="04">  ___________________________________________________</l>
+                    <l n="05" rend="prose">  <seg rend="prose"/>W Stevens —  a pride in unserviceableness</l>
+                    <l n="06" rend="prose">     that is not synon with the beauty of</l>
+                    <l n="07" rend="prose">                      ness</l>
+                    <l n="08" rend="prose">                 aloof<del>ness</del> self<del>sufficiency</del></l>
+                    <l n="09" rend="prose">    the <del>fury &amp; the brute</del></l>
+                    <l n="10" rend="prose">     a big ogre stalking toward one w a knobbed</l>
+                    <l n="11" rend="prose">                                   club</l>
+                      <l n="12" rend="prose"> well moused, lion<note>A phrase from Shakespeare’s <hi rend="italics">A Midsummer Night’s Dream</hi> that MM adopted as the title for her review of Wallace Stevens’ <hi rend="italics">Harmonium</hi>: “Well Moused, Lion,” <hi rend="italics">The Dial</hi> January 1924 (84-91). Here for several lines, MM drafts a review of Stevens’ <hi rend="italics">Owl’s Clover</hi>, “Conjuries that Endure,” <hi rend="italics">Poetry</hi> February 1937 (268-72).</note></l>
+                    <l n="13" rend="prose">  Leigh Hunt<note>Hunt, James Henry Leigh (1784-1859). An English critic, essayist and poet, best known as “Leigh Hunt.”</note>— rhyme</l>
+                    <l n="14" rend="prose">  Java peackocks argus pheasants toucan</l>
+                    <l n="15" rend="prose">                  floes</l>
+                    <l n="16" rend="prose">  arora borealis, ice <del>palaces</del> &amp; hair seal needlework</l>
+                    <l n="17" rend="prose">  Rousseaus<note>Rousseau, Henri (1844-1910). A French post-impressionist painter in the Naïve or Primitive style.</note>  paintings                <hi rend="black">the</hi></l>
+                    <l n="18" rend="prose"> <hi rend="black">Stevens recoils from admitting the force of basic emotions</hi></l>
+                    <l n="19" rend="prose">    obliquely treats of it thru <del>the</del> interacting vi<del>brations</del></l>
+                    <l n="20" rend="prose">    <del>of</del> allusive imagery</l>
+                    <l n="21" rend="prose">    cf Sidney.<note>Sidney, Philip (1554-1586). An English poet, courtier, scholar, and soldier. </note> the Greeks &amp;     Joyce, Eliot <!-- omitted notes to Stevens, Joyce, &amp; Eliot because they seemed too obvious; we should list in the glossary that they are mentioned on this page, but I don't think we need to say "Modernist poet/novelist" etc. Also note on V. Woolf image 0141?--> <!-- line not displaing correctly --></l>
+                    <l n="22" rend="prose">                             James Campbell.<note>Possibly: Campbell, James Edwin (1867-1896). An African-American poet, editor, short story writer and educator.</note> <seg rend="prose"/></l>
                     <l n="23"><!-- [draft="The Plumet Basilisk"]--> Basilisk  Basil, the Harmless<note>MM drafts toward the “Plumet Basilisk” in the first line and from the word “Basilisk” for the rest of the page.</note></l>
-                    <l n="24"> the dragon flying—</l>
-                    <l n="25">      as</l>
-                    <l n="26"> diving not <del>like</del> a kite that dives &amp;</l>
-                    <l n="27">jerks &amp;       in the tree</l>
-                    <l n="28"> breaks itself to pieces on the ground</l>
-                    <l n="29">unequally long hair—five fingers of its lizard hand</l>
-                    <l n="30">  the thick starpointed alligator foot</l>
-                    <l n="31">     —short star cornered<!--[/draft]--></l>
+                    <l n="24">    the dragon flying—</l>
+                    <l n="25">               as</l>
+                    <l n="26">    diving not <del>like</del> a kite that dives &amp;</l>
+                    <l n="27">jerks &amp;                 in the tree</l>
+                    <l n="28">   breaks itself to pieces on the ground</l>
+                    <l n="29">unequally long hair— five fingers of its lizard hand</l>
+                    <l n="30">     the thick starpointed alligator foot</l>
+                    <l n="31">           —short star cornered<!--[/draft]--></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0141_text">
                 <pb facs="nb07_04_04_0141_recto.jpg"/>
                   <lg>
-                    <l n="01" rend="prose">           <seg rend="prose"/> Aug 16   1923</l>
-                    <l n="02" rend="prose">   Dear Mr. Burke, <note>Burke, Kenneth (1897-1993). An American literary theorist who also published poems, essays, and novels. He served as editor of <hi rend="italics">The Dial</hi> in 1923.</note></l>
-                    <l n="03" rend="prose">         Should you decide to use</l>
+                    <l n="01" rend="prose">                          <seg rend="prose"/> Aug 16   1923</l>
+                    <l n="02" rend="prose">   Dear Mr. Burke,<note>Burke, Kenneth (1897-1993). An American literary theorist who also published poems, essays, and novels. He served as editor of <hi rend="italics">The Dial</hi> in 1923.</note></l>
+                    <l n="03" rend="prose">                  Should you decide to use</l>
                     <l n="04" rend="prose">   the review of Vachel Lindsay's poems<note>MM’s review of Lindsay’s <hi rend="italics">Collected Poems</hi>, “An Eagle in the Ring,” was published in <hi rend="italics">The Dial</hi> (November 1923): 498-505. See <hi rend="italics">Collected Prose</hi> 84-91.</note> which</l>
                     <l n="05" rend="prose">   I submitted to you as I was leaving</l>
                     <l n="06" rend="prose">   town, one or 2 corrections ought to be</l>
                     <l n="07" rend="prose">   made, I think. "In the really exalted</l>
                     <l n="08" rend="prose">   poem, 'I heard Emanuel Singing,' Mr. Lindsay</l>
                     <l n="09" rend="prose">   says:</l>
-                    <l n="10" rend="prose">     'Apollo of the silver lyre</l>
-                    <l n="11" rend="prose">          flowing</l>
-                    <l n="12" rend="prose">      had not such <del>golden</del> hair'"</l>
+                    <l n="10" rend="prose">         'Apollo of the silver lyre</l>
+                    <l n="11" rend="prose">                        flowing</l>
+                    <l n="12" rend="prose">          had not such <del>golden</del> hair'"</l>
                     <l n="13" rend="prose">   ought to be omitted; also "why Cornelian?"</l>
                     <l n="14" rend="prose">   Mr. Lindsay's spelling of the word may be</l>
-                    <l n="15" rend="prose">   justified as it is used. I find that E. V. Lucas <note>Lucas, E. V. (1868-1938). An English humorist and author of poems, plays, essays, stories, and novels.</note></l>
+                    <l n="15" rend="prose">   justified as it is used. I find that E. V. Lucas<note>Lucas, E. V. (1868-1938). An English humorist and author of poems, plays, essays, stories, and novels.</note></l>
                     <l n="16" rend="prose">   also uses it. If the baseball metaphor</l>
-                    <l n="17" rend="prose">  seems unexpected, <del>it could I should be</del> <!-- not displaying --></l>
-                    <l n="18" rend="prose">               could be added</l>
+                    <l n="17" rend="prose">   seems unexpected, <del>it could I should be</del> <!-- not displaying --></l>
+                    <l n="18" rend="prose">                                could be added</l>
                     <l n="19" rend="prose">   <del>willing to add</del> an identifying word ^ such as</l>
-                    <l n="20" rend="prose">  batter, and any other changes or omissions</l>
+                    <l n="20" rend="prose">   batter, and any other changes or omissions</l>
                     <l n="21" rend="prose">   that you cared to make, I should accede to.</l>
                     <l n="22" rend="prose">  I am sorry not to be able to give the page</l>
-                    <l n="23" rend="prose">        <del>lines referred to</del> <!-- line not displaying --></l>
+                    <l n="23" rend="prose">                <del>lines referred to</del> <!-- line not displaying --></l>
                     <l n="24" rend="prose">  numbers of the <del>phrases in question; I have</del></l>
-                    <l n="25" rend="prose">phrases in question. " " "</l>
-                    <l n="26" rend="prose">  I have not no duplicate of the ms with me.) I</l>
-                    <l n="27" rend="prose">     as a title, provisionally of course in case you use the review—</l>
+                    <l n="25" rend="prose">phrases in question.   "    "    "</l>
+                    <l n="26" rend="prose">I have not  no duplicate of the ms with me.) I</l>
+                    <l n="27" rend="prose">        as a title, provisionally of course in case you use the review—</l>
                     <l n="28" rend="prose">  <del>might suggest as a title for the review</del>, <!-- line not displaying --></l>
-                    <l n="29" rend="prose">   <del>An Eagle in the Ring</del>. I might suggest as a <!-- line not displaying --></l>
+                    <l n="29" rend="prose">  <del>An Eagle in the Ring</del>. I might suggest as a <!-- line not displaying --></l>
                     <l n="30" rend="prose">  title for the review—provisionally of course in case you use it--</l>
                     <l n="31" rend="prose">An Eagle in the Ring.</l>
-                    <l n="32" rend="prose">    I hope Geography and Plays<note>Gertrude Stein published <hi rend="italics">Geography and Plays</hi> in 1922. MM may have written a “Briefer Mention” for the Dial of both this volume and one of the many books De Gourmont published in the early 1920s, submitting them to Burke. Perhaps neither was published.</note> and the</l>
+                    <l n="32" rend="prose">      I hope Geography and Plays<note>Gertrude Stein published <hi rend="italics">Geography and Plays</hi> in 1922. MM may have written a “Briefer Mention” for the Dial of both this volume and one of the many books De Gourmont published in the early 1920s, submitting them to Burke. Perhaps neither was published.</note> and the</l>
                     <l n="33" rend="prose">   De Gourmont<note>De Gourmont, Remy (1858-1915). A French Symbolist poet, novelist, and influential critic. He was widely read in his era, and an important influence on Blaise Cendrars and Georges Bataille.</note> reached you safely.</l>
-                    <l n="34" rend="prose">   Virginia Wolfe's story in the April Criterion <note>Virginia Woolf’s “In the Orchard” was first published in <hi rend="italics">The Criterion </hi>(April 1923).</note></l>
-                    <l n="35" rend="prose">  of which you told me, is surely very expert</l>
+                    <l n="34" rend="prose">   Virginia Wolfe's story in the April Criterion<note>Virginia Woolf’s “In the Orchard” was first published in <hi rend="italics">The Criterion </hi>(April 1923).</note></l>
+                    <l n="35" rend="prose">  of which you told me, is surely very xpert</l>
                     <l n="36" rend="prose">  and I enjoyed it; the turn at the end <seg rend="prose"/></l>
                     <!-- Entire page missing black text color -->
                 </lg>
@@ -5050,79 +5050,79 @@
             <div type="image" xml:id="nb07_04_04_0142_text">
                 <pb facs="nb07_04_04_0142_verso.jpg"/>
                   <lg>
-                    <l n="01" rend="prose"> <seg rend="prose"/> is extremely dexterous; that <del>a certain</del></l>
-                    <l n="02" rend="prose"> here as in V. Wolfe's other work, a certain</l>
-                    <l n="03" rend="prose"> thinness below the surface disaffects</l>
+                    <l n="01" rend="prose">  <seg rend="prose"/>is extremely dexterous; that <del>a certain</del></l>
+                    <l n="02" rend="prose">  here as in V. Wolfe's other work, a certain</l>
+                    <l n="03" rend="prose">  thinness below the surface disaffects</l>
                     <l n="04" rend="prose"> a kind of intellectual debutante's</l>
                     <l n="05" rend="prose"> assured avoidance of tough unmanageable</l>
-                    <l n="06" rend="prose">   problems. This <del>rather</del> false equipoise <!-- line not displaying --></l>
-                    <l n="07" rend="prose">      <del>to</del> to me, <!-- line not displaying --></l>
-                    <l n="08" rend="prose">    discounts the <del>m</del>beauty of the modernisms</l>
-                    <l n="09" rend="prose">   and the enthralling detail.</l>
-                    <l n="10" rend="prose">      Sincerely Yours,</l>
+                    <l n="06" rend="prose"> problems. This <del>rather</del> false equipoise <!-- line not displaying --></l>
+                    <l n="07" rend="prose">        <del>to</del> to me, <!-- line not displaying --></l>
+                    <l n="08" rend="prose"> discounts the <del>m</del>beauty of the modernisms</l>
+                    <l n="09" rend="prose"> and the enthralling detail.</l>
+                    <l n="10" rend="prose">         Sincerely Yours,</l>
                     <l n="11" rend="prose">  Byron Harmon<note>Harmon, Byron (1876-1942). A pioneering photographer of the Rocky Mountains of Canada.</note> 43 mt goat<seg rend="prose"/></l>
                     <!-- one line is displaying across two lines -->
                     <l n="12" rend="prose"/>
                     <l n="13" rend="prose">     <seg rend="conv"/> Her father's an insurance man in Superior—</l>
-                    <l n="14" rend="prose">     well Ill have to get acquainted</l>
-                    <l n="15" rend="prose">    get re-acquainted with her</l>
-                    <l n="16" rend="prose">_____________________________</l>
-                    <l n="17" rend="read">   <note>These lines are from the chorus of a popular song, typically titled “The Prairie Flower”: “I’m a little prairie flower, / I grow wilder every hour. / Nobody cares to cultivate me, / I’m as wild as I can be.” The song was recorded in 1937 with claims that it was composed in that year, but it appeared in several popular sources, in various forms, beginning in 1918 and through the 1920s. The first line in MM’s version is not part of the standard text.</note><quote corresp="nb07_04_04_0142_verso_l17_quote"/>I'm not a hot house flower as you can see</l>
-                    <l n="18" rend="read">   I'm as wild as I can be</l>
-                    <l n="19" rend="read">   Nobody cares to cultivate me;</l>
-                    <l n="20" rend="read">    I'm wild<quote corresp="#nb07_04_04_0142_verso_l17_quote"/></l>
-                    <l n="21"> July<note>For the rest of this page, MM may combine recorded conversation, prose reflections, and drafts toward verse.</note></l>
-                    <l n="22">  A<gap extent="1" resp="hcw"/>yuba named for one of David's wives</l>
-                    <l n="23">  you've had everything except a drink of water</l>
-                    <l n="24">         and a bone<seg rend="conv"/></l>
-                    <l n="25">  <seg rend="prose"/>music</l>
-                    <l n="26">   <hi rend="underline">caterpillar</hi> which bees are trying to drag out of the hive</l>
+                    <l n="14" rend="prose">      well Ill have to get acquainted</l>
+                    <l n="15" rend="prose">      get re-acquainted with her</l>
+                    <l n="16" rend="prose">     _____________________________</l>
+                    <l n="17" rend="read">     <note>These lines are from the chorus of a popular song, typically titled “The Prairie Flower”: “I’m a little prairie flower, / I grow wilder every hour. / Nobody cares to cultivate me, / I’m as wild as I can be.” The song was recorded in 1937 with claims that it was composed in that year, but it appeared in several popular sources, in various forms, beginning in 1918 and through the 1920s. The first line in MM’s version is not part of the standard text.</note><quote corresp="nb07_04_04_0142_verso_l17_quote"/>I'm not a hot house flower as you can see</l>
+                    <l n="18" rend="read">         I'm as wild as I can be</l>
+                    <l n="19" rend="read">         Nobody cares to cultivate me;</l>
+                    <l n="20" rend="read">         I'm wild<quote corresp="#nb07_04_04_0142_verso_l17_quote"/></l>
+                    <l n="21">July<note>For the rest of this page, MM may combine recorded conversation, prose reflections, and drafts toward verse.</note></l>
+                    <l n="22">   A<gap extent="1" resp="hcw"/>yuba named for one of David's wives</l>
+                    <l n="23">   you've had everything except a drink of water</l>
+                    <l n="24">                       and a bone<seg rend="conv"/></l>
+                    <l n="25">   <seg rend="prose"/>music</l>
+                    <l n="26">    <hi rend="underline">caterpillar</hi> which bees are trying to drag out of the hive</l>
                     <l n="27"> white lighthouse w amber shades around the lens</l>
-                    <l n="28">          swordfish</l>
-                    <l n="29">  beside a sketch of <del> <unclear resp="hcw">marlin of</unclear></del> blue water shading into</l>
-                    <l n="30">          greenish foam color<seg rend="prose"/></l>
-                    <l n="31">   <!-- [draft="Marriage"]-->silver charm Adam when he was alone</l>
-                    <l n="32">  surrounded by the</l>
+                    <l n="28">                   swordfish</l>
+                    <l n="29">   beside a sketch of <del><unclear resp="hcw">marlin of</unclear></del> blue water shading into</l>
+                    <l n="30">                      greenish foam color<seg rend="prose"/></l>
+                    <l n="31">  <!-- [draft="Marriage"]-->silver charm Adam when he was alone</l>
+                    <l n="32">   surrounded by the</l>
                     <l n="33">   <del>w all these</del> possibilities of domestic usefulness<!--[/draft]--></l>
-                    <l n="34">  <seg rend="prose"/>most people don't know the difference between the active</l>
-                    <l n="35">          voice &amp; the passive<seg rend="prose"/></l>
+                    <l n="34">   <seg rend="prose"/>most people don't know the difference between the active</l>
+                    <l n="35">                     voice &amp; the passive<seg rend="prose"/></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0143_text">
                 <pb facs="nb07_04_04_0143_recto.jpg"/>
                   <lg>
-                    <l n="01">  when they say the cat scratched them</l>
-                    <l n="02">  a they mean they were scratched<note>The first two lines are written on the tape binding the front cover of the notebook to the back.</note></l>
+                    <l n="01">    when they say the cat scratched them</l>
+                    <l n="02">   a they mean they were scratched<note>The first two lines are written on the tape binding the front cover of the notebook to the back.</note></l>
                     <l n="03">in a burglar's flurry to get to retirement</l>
-                    <l n="04">  one cannot be</l>
+                    <l n="04">     one cannot be</l>
                     <l n="05">  it is hard to be <del>a<gap extent="2" resp="hcw"/></del> servant when one is</l>
-                    <l n="06">      trying to be many masters</l>
-                    <l n="07">     his  that</l>
-                    <l n="08">  Casey <del>w that</del> eye ^ of reserved judgment—as if</l>
-                    <l n="09">  waiting to <del>accept</del> make up his mind whether</l>
-                    <l n="10">  or not the ex<gap extent="1" resp="hcw"/>cum<gap extent="1" resp="hcw"/>l<gap extent="3" resp="hcw"/>e could be <del>of</del> to</l>
+                    <l n="06">               trying to be many masters</l>
+                    <l n="07">             his  that</l>
+                    <l n="08">  Casey <del>w that</del> eye ^ of reserved judgment__as if</l>
+                    <l n="09">     waiting to <del>accept</del> make up his mind whether</l>
+                    <l n="10">  or not the circumstance could be <del>of</del> to</l>
                     <l n="11">  his personal advantage</l>
-                    <l n="12"> <!-- [draft="The Plumet Basilisk"]--> <hi rend="underline">Basilisk</hi>   w the dragon face<note>In the center of the page, MM drafts toward “The Plumet Basilisk.” She appears to use the inside of the back cover as a catch-all page for reading and drafting notes. On the last few lines, MM uses phrases repeated in drafting “Sea Unicorns and Land Unicorns” and phrases used in drafting either or both “Marriage” and “An Octopus.”</note></l>
-                    <l n="13">      but not the leather lace of the big</l>
-                    <l n="14">         but lacy toes    iguanoids</l>
-                    <l n="15">            fish</l>
-                    <l n="16"> instead of flying down <del><gap extent="3" resp="hcw"/> Its</del>on skin wings</l>
-                    <l n="17">         beyond on</l>
+                    <l n="12"><!-- [draft="The Plumet Basilisk"]--> <hi rend="underline">Basilisk</hi>      w the dragon face<note>In the center of the page, MM drafts toward “The Plumet Basilisk.” She appears to use the inside of the back cover as a catch-all page for reading and drafting notes. On the last few lines, MM uses phrases repeated in drafting “Sea Unicorns and Land Unicorns” and phrases used in drafting either or both “Marriage” and “An Octopus.”</note></l>
+                    <l n="13">              but not the leather lace of the big</l>
+                    <l n="14">                   but lacy toes       iguanoids</l>
+                    <l n="15">                           fish</l>
+                    <l n="16"> instead of flying down <del>ski its</del>on skin wings</l>
+                    <l n="17">                  beyond on</l>
                     <l n="18"> diving to the bottom of the pond like</l>
-                    <l n="19">           <del>like a</del> fish<!-- [draft="The Plumet Basilisk"]-->]</l>
-                    <l n="20">            <del>robson glacier</del></l>
+                    <l n="19">                  <del>like a</del> fish<!-- [draft="The Plumet Basilisk"]-->]</l>
+                    <l n="20">                  <del>Robson glacier</del></l>
                     <l n="21">  295 His shoes were made of butterfly wings</l>
                     <l n="22">    His coat was made of chicken skin</l>
-                    <l n="23"> 507 Indian chief</l>
+                    <l n="23">  507 Indian chief</l>
                     <l n="24"> ___________________________________</l>
                     <l n="25"> <!-- [draft="Sea Unicorns and Land Unicorns"]-->See Unicorn</l>
-                    <l n="26"> Herodotus said of</l>
-                    <l n="27"> phoenix I have not</l>
-                    <l n="28">seen it myself except in a picture  <hi rend="underline">Godwin trivial</hi><!--[/draft="Sea Unicorns and Land Unicorns"]--></l>
-                    <l n="29">               <!-- [draft="Marriage"]-->simultaneously in</l>
-                    <l n="30">                 3 langs</l>
-                    <l n="31">               cool in this age of</l>
-                    <l n="32">                  violence<!--[/draft="Marriage"]--></l>
+                    <l n="26">  Herodotus said of</l>
+                    <l n="27">  phoenix I have not</l>
+                    <l n="28"> seen it myself except in a picture  <hi rend="underline">Godwin trivial</hi><!--[/draft="Sea Unicorns and Land Unicorns"]--></l>
+                    <l n="29">                                <!-- [draft="Marriage"]-->simultaneously in</l>
+                    <l n="30">                                     3 langs</l>
+                    <l n="31">                                cool in this age of</l>
+                    <l n="32">                                  violence<!--[/draft="Marriage"]--></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0144_text">
@@ -5136,74 +5136,74 @@
                   <lg>
                     <l n="01"> <!-- [draft="What are Years?," first published Kenyon Review 1940]--> Let imagination not harden<!--[/draft="What are Years?]--><note>On the first and last lines of this page, MM drafts toward “What are Years?”, first published <hi rend="italics">Kenyon Review</hi> 1940. In the middle of the page, she may draft toward “The Jerboa.”</note></l>
                     <l n="02"/>
-                    <l n="03">        <!-- [draft="The Jerboa"]--> (ear)</l>
-                    <l n="04">       here</l>
-                    <l n="05">   &amp; now to stand</l>
-                    <l n="06">       on</l>
+                    <l n="03">                 <!-- [draft="The Jerboa"]-->(ear)</l>
+                    <l n="04">               here</l>
+                    <l n="05">    &amp; now to stand</l>
+                    <l n="06">               on</l>
                     <l n="07">  on the finger (of) the hand</l>
-                    <l n="08">  <del>truly</del> it is the nature of the west to go into the grave</l>
-                    <l n="10">     &amp; <del>be buried</del> with the dead</l>
+                    <l n="08"> <del>truly</del> it is the nature of the west to go into the grave</l>
+                    <l n="10">        &amp; <del>be buried</del> with the dead</l>
                     <l n="11"> not as with the Egyptian to bring into the</l>
-                    <l n="12">   grave the loved that live</l>
-                    <l n="13">      riven</l>
+                    <l n="12">      grave the loved that live</l>
+                    <l n="13">               riven</l>
                     <l n="14"> the feathers of given</l>
                     <l n="15"> the fairy <hi rend="underline">silk around the </hi> thighs</l>
-                    <l n="16">    <del>around the</del> <hi rend="underline">eyes like </hi> <hi rend="underline strikethrough">sil</hi> <hi rend="underline"> little hairs</hi> <!--[/draft="The Jerboa"]--></l>
+                    <l n="16">  <del>around the</del> <hi rend="underline">eyes like </hi> <hi rend="underline strikethrough">sil</hi> <hi rend="underline"> little hairs</hi> <!--[/draft="The Jerboa"]--></l>
                     <l n="17"/>
-                    <l n="18"><!-- [draft="What are Years?"]--> Death: of that gladdening you cannot make a woeful thing</l>
-                    <l n="19">       in my heart the</l>
+                    <l n="18"><!-- [draft="What are Years?"]-->Death: of that gladdening you cannot make a woeful thing</l>
+                    <l n="19">              in my heart the</l>
                     <l n="20">  or ever bid that ^ bird not sing, that sang so sweet<!--[/draft="What are Years?"]--></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0146_text">
                 <pb facs="nb07_04_04_0146_verso.jpg"/>
                   <lg>
-                    <l n="01"> <note>This is the top, recto, of the previous verso page.</note>the woolly sunflowers</l>
-                    <l n="02">the everlastings <del>of the snow peaks</del> the more maybe where it</l>
-                    <l n="03">no livingness</l>
+                    <l n="01">   <note>This is the top, recto, of the previous verso page.</note>the woolly sunflowers</l>
+                    <l n="02">   the everlastings <del>of the snow peaks</del> the more maybe where it</l>
+                    <l n="03">   no livingness</l>
                     <l n="04">here<del>are not</del> like th<del>is</del>e flower that speaks <del>where it</del> no</l>
-                    <l n="05">        with</l>
-                    <l n="06">    no longer <del>draws</del> its ordinary breath</l>
+                    <l n="05">                  with</l>
+                    <l n="06">        no longer <del>draws</del> its ordinary breath</l>
                     <l n="07"/>
-                    <l n="08"><!-- [draft="What are Years?"]--> Solemnity &amp; majesty &amp; mystery in the <note>Beginning in this line, MM may draft toward “What Are Years?”</note></l>
-                    <l n="09">fragile energy of that everlasting song</l>
+                    <l n="08"><!-- [draft="What are Years?"]--> Solemnity &amp; majesty &amp; mystery in the<note>Beginning in this line, MM may draft toward “What Are Years?”</note></l>
+                    <l n="09"> fragile energy of that everlasting song</l>
                     <l n="10"/>
-                    <l n="11">we have known glory</l>
-                    <l n="12">&amp; known agony</l>
-                    <l n="13">&amp; it is like the sea</l>
-                    <l n="14">threatening death &amp; carrying life wherever it goes</l>
-                    <l n="15">            <del>like</del></l>
-                    <l n="16">his breast with the bloom <del>of angel skin</del></l>
-                    <l n="17"> <del>like the naps of the</del> silver fibred coat—</l>
-                    <l n="18">like the nap on a neverbefore used chamois sk</l>
-                    <l n="19">the velvet vest<!--[/draft]--></l>
+                    <l n="11"> we have known glory</l>
+                    <l n="12">  &amp; known agony</l>
+                    <l n="13"> &amp; it is like the sea</l>
+                    <l n="14"> threatening death &amp; carrying life wherever it goes</l>
+                    <l n="15">                         <del>like</del></l>
+                    <l n="16">  his breast with the bloom <del>of angel skin</del></l>
+                    <l n="17"><del>like the naps of the</del> silver fibred coat—</l>
+                    <l n="18">  like the nap on a neverbefore used chamois sk</l>
+                    <l n="19">  the velvet vest<!--[/draft]--></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0147_text">
                 <pb facs="nb07_04_04_0147_recto.jpg"/>
                   <lg>
                     <l n="01"> <!-- [draft="The Jerboa"]-->accurséd Sumatrans<note>MM drafts toward towards “The Jerboa.”</note></l>
-                    <l n="02">  capturing gibbons      clear <unclear resp="hcw">pendent</unclear> longish stones</l>
-                    <l n="03"> sumatran gibbon     <del>ape</del> monkey</l>
-                    <l n="04">to capture this gibbon       <del>long &amp;</del> clear, <del>gray,</del> pendant stones</l>
-                    <l n="05">     <del>monkey clear</del> with earring eyes, lugubrious</l>
-                    <l n="06">  if I were there where         &amp; bright</l>
+                    <l n="02">    capturing gibbons              clear pendant longish stones</l>
+                    <l n="03">   sumatran gibbon            <del>ape</del> monkey</l>
+                    <l n="04">to capture this gibbon                    <del>long &amp;</del> clear, <del>gray,</del> pendant stones</l>
+                    <l n="05">            <del>monkey clear</del>   with earring eyes, lugubrious</l>
+                    <l n="06">      if I were there where                     &amp; bright</l>
                     <l n="07">you are &amp; <del>if</del> you were I <del>here</del></l>
-                    <l n="08">         you</l>
-                    <l n="09">   <del>I wonder if</del> you would be guilty of the enormity</l>
-                    <l n="10">    as we stand here hand &amp; hand</l>
-                    <l n="11">    <del>of which we are guilty of—</del></l>
-                    <l n="12">            <del>as we stand</del></l>
-                    <l n="13">  of putting me there <del>hand in hand</del>       silk</l>
-                    <l n="14">  &amp; your hand upon my hand—black as asphalt soft as <del>night</del></l>
-                    <l n="15">  I wonder when people will stop capturing little   <del>sounds</del></l>
-                    <l n="16">       ^wilder  wild things</l>
-                    <l n="17"> because they are little</l>
-                    <l n="18"> and the biggest wild things because they are big</l>
+                    <l n="08">                    you</l>
+                    <l n="09">   <del>I wonder if</del>         you would be guilty of the enormity</l>
+                    <l n="10">          as we stand here hand &amp; hand</l>
+                    <l n="11">   <del>of which we are guilty of—</del></l>
+                    <l n="12">                   <del>as we stand</del></l>
+                    <l n="13">   of putting me there <del>hand in hand</del>              silk</l>
+                    <l n="14">   &amp; your hand upon my hand—black as asphalt soft as <del>night</del></l>
+                    <l n="15">   I wonder when people will stop capturing little     <del>sounds</del></l>
+                    <l n="16">                    ^wilder  wild things</l>
+                    <l n="17">  because they are little</l>
+                    <l n="18">  and the biggest wild things because they are big</l>
                     <l n="19"> _______________________________________________________</l>
                     <l n="20"> a strange offering in the temple of man's self love   a bird</l>
-                    <l n="21"> where the <del>more beautiful</del> it is it is more the mind of Pharoah</l>
-                    <l n="22"> <gap extent="4" resp="hcw"/> let it  wilder          strange one <gap extent="3" resp="hcw"/></l>
+                    <l n="21">  where the <del>more beautiful</del> it is it is more the mind of Pharoah</l>
+                    <l n="22">  <gap extent="4" resp="hcw"/> let it  wilder          strange one <gap extent="3" resp="hcw"/></l>
                     </lg>
                 <lg type="sideways">
                     <l n="23" rendition="sideways"> <!--[desc] left margin, lines 20-16[/desc]--> <unclear>Pharaoh</unclear></l>
@@ -5212,18 +5212,18 @@
             <div type="image" xml:id="nb07_04_04_0148_text">
                 <pb facs="nb07_04_04_0148_verso.jpg"/>
                   <lg>
-                    <l n="01">      <!-- [draft="The Jerboa"]-->The Pine Cone of the Pompeys<note>MM drafts toward “The Jerboa.”</note></l>
-                    <l n="02">   <del>and after</del> all fr the prison of St Angelo</l>
+                    <l n="01">              <!-- [draft="The Jerboa"]-->The Pine Cone of the Pompeys<note>MM drafts toward “The Jerboa.”</note></l>
+                    <l n="02">    <del>and after</del> all fr the prison of St Angelo</l>
                     <l n="03">  And Now the</l>
-                    <l n="04">   <del>the brass</del> pine cone of the popes</l>
-                    <l n="05">  private to the popes       St Angelo</l>
+                    <l n="04">  <del>the brass</del> pine cone of the popes</l>
+                    <l n="05">   private to the popes                    St Angelo</l>
                     <l n="06"> ta<del>ke from the</del> one planted on the Prison of</l>
-                    <l n="07">    but         <del><gap extent="3" resp="hcw"/></del></l>
+                    <l n="07">          but         <del><gap extent="3" resp="hcw"/></del></l>
                     <l n="08"> is <del>after all</del> a small thing to the Saxon angles</l>
                     <l n="09">  <del>thing</del> and terrestrial</l>
-                    <l n="10">   wherever it is</l>
+                    <l n="10">          wherever it is</l>
                     <l n="11">_____________________</l>
-                    <l n="12">         a smaller</l>
+                    <l n="12">                 a smaller</l>
                     <l n="13">  a brother &amp; sister, another brother</l>
                     <l n="14"> and no mother<!--[/draft]--></l>
                 </lg>
