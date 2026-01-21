@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="tei_mmda.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -83,7 +84,7 @@
             <pb facs="nb07_04_07_0001_recto.jpg"/>
             <div type="page" n="r.0001" xml:id="nb07_04_07_0001_recto_text">
             <lg>
-               <l n="01" rend="pencil"> <!-- IMAGE DECRIPTION:MM cancels lines 1-5 with wavy lines and cancels lines 1-31 with vertical lines. Shedraws an arrow from line 01 to 03, ending at the word "remote," anddraws a loose circle around lines 7-11. --><note>In lines 01-31, MM drafts material toward the poem first published as "Camellia Sabina," <title>Active Anthology</title> (1933).</note><lang xml:lang="fr">l'histoire de la vigne et du vin</lang></l>
+               <l n="01" rend="pencil"> <note>In lines 01-31, MM drafts material toward the poem first published as "Camellia Sabina," <title>Active Anthology</title> (1933).</note><lang xml:lang="fr">l'histoire de la vigne et du vin</lang></l>
                <l n="02" rend="pencil"><lang xml:lang="fr"> en Aquitaine</lang><note>Malvezin, Frantz.<title>Bordeaux: Histoire de la Vigne et du Vin en Aquitaine</title>. Imprimerie Gabriel Delmas, 1919.</note>–  is not known to his</l>
                <l n="03" rend="pencil"> remote from        <unclear resp="hcw">many</unclear>    grace</l>
                <l n="04" rend="pencil">   bottles corks, <del>&amp; barrels</del> &amp; casks</l>
@@ -120,7 +121,7 @@
             <pb facs="nb07_04_07_0002_verso.jpg"/>
             <div type="page" n="v.0002" xml:id="nb07_04_07_0002_verso_text">
             <lg>
-               <l n="01" rend="pencil"><!-- IMAGE DECRIPTION: MM draws wavy lines on the left margin of lines 17-18, to link "or an excited" with "mother mouse . . ."; the passage beginning with "like" in line 25 and ending at the end of line 26 is cancelled with wavy scribbles.MM brackets lines 27-30 on the left margin; she circles "9 nectarines" In line 31. S--><hi rend="pencil" xml:id="nb07_04_07_0002_verso_text_line_01_color_01"/>   <note>In lines 01-26, MM drafts material toward the poem first published as "Camellia Sabina," <title>Active Anthology</title> (1933).</note>But evasiveness No</l>
+               <l n="01" rend="pencil"><hi rend="pencil" xml:id="nb07_04_07_0002_verso_text_line_01_color_01"/>   <note>In lines 01-26, MM drafts material toward the poem first published as "Camellia Sabina," <title>Active Anthology</title> (1933).</note>But evasiveness No</l>
                <l n="02" rend="pencil">     O generous Balzano</l>
                <l n="03" rend="pencil"/>
                <l n="04" rend="pencil">   makes the soul heavy</l>
@@ -158,7 +159,7 @@
       <pb facs="nb07_04_07_0003_recto.jpg"/>
       <div type="page" n="r.0003" xml:id="nb07_04_07_0003_recto_text">
       <lg>
-         <l n="01" rend="pencil"><!-- IMAGE DECRIPTION: MM cancels lines 23-31 with 2 slanted lines--> <note>In lines 01-21, MM drafts material toward the poem first published as "Camellia Sabina," <title>Active Anthology</title> (1933); in lines 30-31, she drafts toward the poem "The Frigate Pelican," <title>The Criterion</title> (July 1935).</note>untidy ostentatious semi-gentleman.</l>
+         <l n="01" rend="pencil"> <note>In lines 01-21, MM drafts material toward the poem first published as "Camellia Sabina," <title>Active Anthology</title> (1933); in lines 30-31, she drafts toward the poem "The Frigate Pelican," <title>The Criterion</title> (July 1935).</note>untidy ostentatious semi-gentleman.</l>
          <l n="02" rend="pencil"/>
          <l n="03" rend="pencil">   untidy ostentatious semi-gentleman</l>
          <l n="04" rend="pencil"/>
@@ -198,8 +199,11 @@
    <div type="image" xml:id="nb07_04_07_0004_text">
       <pb facs="nb07_04_07_0004_verso.jpg"/>
       <div type="page" n="v.0004" xml:id="nb07_04_07_0004_verso_text">
+         <lg type="sideways">
+            <l n="36" rendition="vertical" rend="pencil"><!-- span lines 30-16, along left margin-->Satisfaction is lowly. How pure a thing is joy–<note>The phrases "satisfaction is a lowly thing, how pure a thing is joy" appear in MM's unpublished novel, "The Way We Live Now"; they later appear in "What Are Years?" MM may also draft towards "What are years?" on other parts of this page.</note></l>
+         </lg>
       <lg>
-         <l n="01" rend="pencil"><!-- IMAGE DECRIPTION: MM cancels lines 01-06 with slanted lines, then marks sections with a horizontal line (or underlines) following 06 and 09. She circles the phrases "and bring destruction," "let it die" and "let it fly" in lines 20, 21 and 22, drawing a horizontal line between 25 and 26, and also circles both phrases in line 27. She cancels lines 32-35 with a wavy scribble. A slanted line apparently connects "this was a quiet prince" with "The beautiful stranger," lines 21 and 33.--><hi rend="pencil" xml:id="nb07_04_07_0004_verso_text_line_01_color_01"/>      <note>In lines 01-07, MM drafts toward "The Frigate Pelican," <title>The Criterion</title> (July 1935).</note>Handel</l>
+         <l n="01" rend="pencil"><hi rend="pencil" xml:id="nb07_04_07_0004_verso_text_line_01_color_01"/>      <note>In lines 01-07, MM drafts toward "The Frigate Pelican," <title>The Criterion</title> (July 1935).</note>Handel</l>
          <l n="02" rend="pencil">  intended for a lawyer, he</l>
          <l n="03" rend="pencil">   secretly <del>he</del> taught himself <del>to play</del></l>
          <l n="04" rend="pencil">  the harpsichord, &amp;<del>he never</del> remained<unclear resp="hcw">ing</unclear></l>
@@ -235,16 +239,13 @@
          <l n="34" rend="blue">      Keep the shop Benj. Franklin</l>
          <l n="35" rend="pencil">    I have one sheep<note>Franklin, Benjamin. <title>Poor Richard's Almanac</title>. "Keep the shop" and "I have one sheep" are from <title>Poor Richard's Almanac</title>. It is unclear which of the many editions or serializations MM uses. The first epigram, "make hay," does not appear in Franklin's text. All three epigrams appear in "The Frigate Pelican."</note><note type="glossary">Franklin, Benjamin [1705-1790]. A founding father of the United States and a major figure in the American Enlightenment primarily as an author, politician, civic activist, and inventor.</note>They say <del>that if you</del></l>
          </lg>
-         <lg type="vertical">
-            <l n="36" rendition="vertical" rend="pencil"><!-- span lines 30-16, along left margin-->Satisfaction is lowly. How pure a thing is joy–<note>The phrases "satisfaction is a lowly thing, how pure a thing is joy" appear in MM's unpublished novel, "The Way We Live Now"; they later appear in "What Are Years?" MM may also draft towards "What are years?" on other parts of this page.</note></l>
-         </lg>
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0005_text">
       <pb facs="nb07_04_07_0005_recto.jpg"/>
       <div type="page" n="r.0005" xml:id="nb07_04_07_0005_recto_text">
       <lg>
-         <l n="01" rend="pencil"><!-- IMAGE DECRIPTION: MM cancels lines 13-31 with wavy scribbles. A curving line marks off line 33 (omitting the clustered phrase on the right margin) from the rest of the page, and then MM cancels this material with slanted and straight parallel lines--> <note> In lines 06-11, MM drafts material toward the poem first published as "Nine Nectarines and Other Porcelain," <title>Poetry</title> (November 1934); in lines 13-37, she drafts material toward the poem "The Buffalo," <title>Poetry</title> (November 1934).</note>            are those things if they were</l>
+         <l n="01" rend="pencil"> <note> In lines 06-11, MM drafts material toward the poem first published as "Nine Nectarines and Other Porcelain," <title>Poetry</title> (November 1934); in lines 13-37, she drafts material toward the poem "The Buffalo," <title>Poetry</title> (November 1934).</note>            are those things if they were</l>
          <l n="02" rend="blue">  June 3 1933 NY Sun–  Spode by Millicent</l>
          <l n="03" rend="blue">  D. Stow<note>Stow, Millicent D. "Spode." <title>New York Sun</title> (3 June 1933).</note><note type="glossary">Stow, Millicent D. [?-?]. An expert on china and silver.</note>      born in May– self named</l>
          <l n="04" rend="blue">   In time the work of this man will</l>
@@ -289,7 +290,7 @@
       <pb facs="nb07_04_07_0006_verso.jpg"/>
       <div type="page" n="v.0006" xml:id="nb07_04_07_0006_verso_text">
       <lg>
-         <l n="01" rend="pencil"><!-- IMAGE DECRIPTION: MM cancels almost all text In lines 12-28 with a series of wavy scribbles.--><note>In line 15, MM drafts material toward the poem first published as "What Are Years?," <title>Kenyon Review</title> (Summer 1940).</note> at end) Sir, you're clever; tell me this </l>
+         <l n="01" rend="pencil"><note>In line 15, MM drafts material toward the poem first published as "What Are Years?," <title>Kenyon Review</title> (Summer 1940).</note> at end) Sir, you're clever; tell me this </l>
          <l n="02">         Judicious Young Genius</l>
          <l n="03">   selecting out for me a short stemmed rose</l>
          <l n="04"><del>It wld not do for you</del>                     or two</l>
@@ -327,51 +328,49 @@
    <div type="image" xml:id="nb07_04_07_0007_text">
       <pb facs="nb07_04_07_0007_recto.jpg"/>
       <div type="page" n="r.0007" xml:id="nb07_04_07_0007_recto_text">
-         <lg type="vertical">                                                        <l n="42" rendition="vertical"><!-- span left margin, lines 28-23 --><hi rend="pencil">Buffalo</hi></l>
+         <lg type="sideways">                                                        <l n="42" rendition="vertical"><!-- span left margin, lines 28-23 --><hi rend="pencil">Buffalo</hi></l>
          </lg>
          <lg>
-         <l n="01"><!-- IMAGE DECRIPTION: Several words on the page are circled in lines 25 ("with," "2" and "stubs"), 29 ("blush" and "brush" and 31 ("about"). There are two ovals filled with pencil strokes, one in the top left hand corner of the page, and the other in the left margin at line 29.--><note>In lines 01-42, MM drafts material toward the poem first published as "Nine Nectarines and Other Porcelain," <title>Poetry</title> (November 1934).</note><hi rend="pencil" xml:id="nb07_04_07_0007_recto_text_line_01_color_01"/>    9 Nectarines– the nectarine tree <del>w</del>&amp; a <del>young</del></l>
-         <l n="02">     fruit bat in the air   working</l>
-         <l n="03">  like ox heart plums they go in heart shaped halves</l>
-         <l n="04"> w <del>a</del> pale seam marking the 2 sides toward  the point </l>
-         <l n="05">  What I have done            cf Monkey      <del>tip</del></l>
-         <l n="06">  or have not done, in their opinion</l>
-         <l n="07">  _____________________________</l>
-         <l n="08">  Bouvardia.  The smell of those</l>
-         <l n="09">                            <hi rend="blue">small tube</hi></l>
-         <l n="10">            things w <del>a</del> tiny long <hi rend="blue">^</hi><del>tube</del> rose</l>
-         <l n="11"><hi rend="blue">long small white tubes</hi> l<hi rend="blue">e</hi>ading to the bud–</l>
-         <l n="12">           was astonishingly heavenly</l>
-         <l n="13">   angled </l>
-         <l n="14"> The^ buds of the bouvardia</l>
-         <l n="15">  that spatter fr the bush</l>
-         <l n="16">         ones </l>
-         <l n="17"> &amp; wilting <del>buds</del> w mouth<del>s</del> half open like</l>
-         <l n="18">                             a frog's</l>
-         <l n="19">  a <del>net is a nice thing</del></l>
-         <l n="20">              if you're <del>are</del> an artist,</l>
-         <l n="21">   nothing is nicer than a net, to draw,</l>
-         <l n="22">as Harunobu<note type="glossary" xml:id="nb07_04_07_0007_recto_text_line_22_note_01">Harunobu, Suzuki [1724-1770]. An eighteenth-century Japanese designer of woodblock prints.</note> &amp; Picasso<note type="glossary">Picasso, Pablo Ruiz [1881-1973]. A Spanish-born, highly influential modernist painter who spent most of his life in France.</note> &amp; <del>the</del> raw</l>
-         <l n="23">  one is a child that writes his name Boutet de Monvel<note type="glossary" xml:id="nb07_04_07_0007_recto_text_line_23_note_01">de Monvel, Bernard Boutet [1881-1949]. A French-born illustrator and painter.</note> saw</l>
-         <l n="24">  child writing names    &amp; the raw</l>
-         <l n="25">         <del>with 2 stubs</del> of charcoal in its <del>fist</del></l>
-         <l n="26">          –with 2 <del>sticks</del></l>
-         <l n="27">     bat shut                      <del>paw</del></l>
-         <l n="28">  that make two marks at once</l>
-         <l n="29">  fruit- w claws &amp; open eyes  Stumps blush</l>
-         <l n="30">  <hi rend="blue">nine nectarines</hi></l>
-         <l n="31">specle-spattered by the book binders' brush</l>
-         <l n="32">              about which</l>
-         <l n="33">   <hi rend="blue">2 on one twig; &amp; two;</hi>                  that    out</l>
-         <l n="34">sprinkled unsparingly by the book binders brush flutters ^ a small</l>
-         <l n="35">  <hi rend="blue">3 single ones and two</hi>               fruit bat</l>
-         <l n="36">which are discs a goose egg green</l>
-         <l n="37">             on the ripe nectarine     shut &amp; open eyes</l>
-         <l n="38">                            its <del><unclear resp="hcw">2</unclear></del>   set</l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0007_recto_text_line_01_color_01" to="#nb07_04_07_0007_recto_text_line_38_color_01"/>-->
-         <l n="39">             <hi rend="blue" xml:id="nb07_04_07_0007_recto_text_line_39_color_01"/>            bat <del>w</del>^ eyes out</l>
-<!--         <span type="hi" rend="blue" from="#nb07_04_07_0007_recto_text_line_39_color_01" to="#nb07_04_07_0007_recto_text_line_40_color_01"/-->
-         <l n="40">  <del>the buds of the bouvardia</del> from itself, in space<hi rend="blue" xml:id="nb07_04_07_0007_recto_text_line_40_color_01"/><!-- line not displaying correctly --></l>
+         <l n="01" rend="pencil"><note>In lines 01-42, MM drafts material toward the poem first published as "Nine Nectarines and Other Porcelain," <title>Poetry</title> (November 1934).</note>    9 Nectarines– the nectarine tree <del>w</del>&amp; a <del>young</del></l>
+         <l n="02" rend="pencil">     fruit bat in the air   working</l>
+         <l n="03" rend="pencil">  like ox heart plums they go in heart shaped halves</l>
+         <l n="04" rend="pencil"> w <del>a</del> pale seam marking the 2 sides toward  the point </l>
+         <l n="05" rend="pencil">  What I have done            cf Monkey      <del>tip</del></l>
+         <l n="06" rend="pencil">  or have not done, in their opinion</l>
+         <l n="07" rend="pencil">  _____________________________</l>
+         <l n="08" rend="pencil">  Bouvardia.  The smell of those</l>
+         <l n="09" rend="pencil">                            <hi rend="blue">small tube</hi></l>
+         <l n="10" rend="pencil">            things w <del>a</del> tiny long <hi rend="blue">^</hi><del>tube</del> rose</l>
+         <l n="11" rend="pencil"><hi rend="blue">long small white tubes</hi> l<hi rend="blue">e</hi>ading to the bud–</l>
+         <l n="12" rend="pencil">           was astonishingly heavenly</l>
+         <l n="13" rend="pencil">   angled </l>
+         <l n="14" rend="pencil"> The^ buds of the bouvardia</l>
+         <l n="15" rend="pencil">  that spatter fr the bush</l>
+         <l n="16" rend="pencil">         ones </l>
+         <l n="17" rend="pencil"> &amp; wilting <del>buds</del> w mouth<del>s</del> half open like</l>
+         <l n="18" rend="pencil">                             a frog's</l>
+         <l n="19" rend="pencil">  a <del>net is a nice thing</del></l>
+         <l n="20" rend="pencil">              if you're <del>are</del> an artist,</l>
+         <l n="21" rend="pencil">   nothing is nicer than a net, to draw,</l>
+         <l n="22" rend="pencil">as Harunobu<note type="glossary" xml:id="nb07_04_07_0007_recto_text_line_22_note_01">Harunobu, Suzuki [1724-1770]. An eighteenth-century Japanese designer of woodblock prints.</note> &amp; Picasso<note type="glossary">Picasso, Pablo Ruiz [1881-1973]. A Spanish-born, highly influential modernist painter who spent most of his life in France.</note> &amp; <del>the</del> raw</l>
+         <l n="23" rend="pencil">  one is a child that writes his name Boutet de Monvel<note type="glossary" xml:id="nb07_04_07_0007_recto_text_line_23_note_01">de Monvel, Bernard Boutet [1881-1949]. A French-born illustrator and painter.</note> saw</l>
+         <l n="24" rend="pencil">  child writing names    &amp; the raw</l>
+         <l n="25" rend="pencil">         <del>with 2 stubs</del> of charcoal in its <del>fist</del></l>
+         <l n="26" rend="pencil">          –with 2 <del>sticks</del></l>
+         <l n="27" rend="pencil">     bat shut                      <del>paw</del></l>
+         <l n="28" rend="pencil">  that make two marks at once</l>
+         <l n="29" rend="pencil">  fruit- w claws &amp; open eyes  Stumps blush</l>
+         <l n="30" rend="pencil">  <hi rend="blue">nine nectarines</hi></l>
+         <l n="31" rend="pencil">specle-spattered by the book binders' brush</l>
+         <l n="32" rend="pencil">              about which</l>
+         <l n="33" rend="pencil">   <hi rend="blue">2 on one twig; &amp; two;</hi>                  that    out</l>
+         <l n="34" rend="pencil">sprinkled unsparingly by the book binders brush flutters ^ a small</l>
+         <l n="35" rend="pencil">  <hi rend="blue">3 single ones and two</hi>               fruit bat</l>
+         <l n="36" rend="pencil">which are discs a goose egg green</l>
+         <l n="37" rend="pencil">             on the ripe nectarine     shut &amp; open eyes</l>
+         <l n="38" rend="pencil">                            its <del><unclear resp="hcw">2</unclear></del>   set</l>
+         <l n="39" rend="blue">                         bat <del>w</del>^ eyes out</l>
+         <l n="40" rend="blue">  <del>the buds of the bouvardia</del> from itself, in space<!-- line not displaying correctly --></l>
          <l n="41"><hi rend="pencil">as 2 discs unconnected with the beast–  out</hi></l>
          </lg>
          </div>
@@ -380,42 +379,35 @@
       <pb facs="nb07_04_07_0008_verso.jpg"/>
       <div type="page" n="v.0008" xml:id="nb07_04_07_0008_verso_text">
       <lg>
-         <l n="01"><!-- IMAGE DECRIPTION: MM cancels nearly all text with wavy or straight lines. --><note>In lines 06-09, MM drafts material toward the poem "The Buffalo," <title>Poetry</title> (November 1934); in lines 14-29, MM drafts materials toward the unpublished poem "To Peace."</note> <hi rend="blue" xml:id="nb07_04_07_0008_verso_text_line_01_color_01"/>the gentle tones of the piano &amp; the</l>
-         <l n="02">  squeak of a violin–</l>
-         <l n="03">   he comes half running, with xcitement</l>
-         <l n="04">                       to begin</l>
-         <l n="05"> ________</l>
-         <l n="06">I am a</l>
-         <l n="07">  Buffalo <del>with</del></l>
-         <l n="08">                shiny </l>
-         <l n="09">  with gray, black, ^ polished <del>incurved</del> horns</l>
-         <l n="10"/>
-         <l n="11"><space extent="2=10"/>Tobia sent letters to put me in fear<hi rend="blue" xml:id="nb07_04_07_0008_verso_text_line_11_color_01"/></l>
-<!--         <span type="hi" rend="blue" from="#nb07_04_07_0008_verso_text_line_01_color_01" to="#nb07_04_07_0008_verso_text_line_11_color_01"/-->
-         <l n="12"><hi rend="pencil" xml:id="nb07_04_07_0008_verso_text_line_12_color_01"/>                        dominion</l>
-         <l n="13">                   have done or have not<hi rend="pencil" xml:id="nb07_04_07_0008_verso_text_line_13_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0008_verso_text_line_12_color_01" to="#nb07_04_07_0008_verso_text_line_13_color_01"/>-->
-         <l n="14">  <hi rend="pencil" xml:id="nb07_04_07_0008_verso_text_line_14_color_01"/>What is ∨<del>my</del> <hi rend="red">mine in my opinion</hi>     done<hi rend="pencil" xml:id="nb07_04_07_0008_verso_text_line_14_color_02"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0008_verso_text_line_14_color_01" to="#nb07_04_07_0008_verso_text_line_14_color_02"/>-->
-         <l n="15">   <hi rend="red" xml:id="nb07_04_07_0008_verso_text_line_15_color_01"/><del>is first yours, &amp; wars shall cease</del><hi rend="red" xml:id="nb07_04_07_0008_verso_text_line_15_color_02"/></l>
-<!--         <span type="hi" rend="red" from="#nb07_04_07_0008_verso_text_line_15_color_01" to="#nb07_04_07_0008_verso_text_line_15_color_02"/>-->
-         <l n="16">   <hi rend="pencil" xml:id="nb07_04_07_0008_verso_text_line_16_color_01"/><del>shall be yours &amp; wars shall cease</del><hi rend="pencil" xml:id="nb07_04_07_0008_verso_text_line_16_color_02"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0008_verso_text_line_16_color_01" to="#nb07_04_07_0008_verso_text_line_16_color_02"/>-->
-         <l n="17">             <hi rend="red" xml:id="nb07_04_07_0008_verso_text_line_17_color_01"/><del>there shall be</del> peace </l>
-         <l n="18">  <del>what is theirs is their opinion</del></l>
-         <l n="19">   can be ours &amp; ours is theirs<hi rend="red" xml:id="nb07_04_07_0008_verso_text_line_19_color_01"/></l>
-<!--         <span type="hi" rend="red" from="#nb07_04_07_0008_verso_text_line_17_color_01" to="#nb07_04_07_0008_verso_text_line_19_color_01"/>-->
-         <l n="20"> <hi rend="pencil" xml:id="nb07_04_07_0008_verso_text_line_20_color_01"/>which cuts us off</l>
-         <l n="21">    from </l>
-         <l n="22"> <del>the</del> aspirations heights &amp; glory</l>
-         <l n="23"/>
-         <l n="24">   in these brief matters</l>
-         <l n="25">                scatters</l>
-         <l n="26">                        &amp; forgotten these of hell</l>
-         <l n="27">      remembering heaven &amp; forgot of hell</l>
-         <l n="28">            <del>then</del> all is well</l>
-         <l n="29">    –˘–˘<hi rend="pencil" xml:id="nb07_04_07_0008_verso_text_line_29_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0008_verso_text_line_20_color_01" to="#nb07_04_07_0008_verso_text_line_29_color_01"/>-->
+         <l n="01" rend="blue"><note>In lines 06-09, MM drafts material toward the poem "The Buffalo," <title>Poetry</title> (November 1934); in lines 14-29, MM drafts materials toward the unpublished poem "To Peace."</note> the gentle tones of the piano &amp; the</l>
+         <l n="02" rend="blue">  squeak of a violin–</l>
+         <l n="03" rend="blue">   he comes half running, with xcitement</l>
+         <l n="04" rend="blue">                       to begin</l>
+         <l n="05" rend="blue"> ________</l>
+         <l n="06" rend="blue">I am a</l>
+         <l n="07" rend="blue">  Buffalo <del>with</del></l>
+         <l n="08" rend="blue">                shiny </l>
+         <l n="09" rend="blue">  with gray, black, ^ polished <del>incurved</del> horns</l>
+         <l n="10" rend="blue"/>
+         <l n="11" rend="blue"> Tobia sent letters to put me in fear</l>
+         <l n="12" rend="pencil">                        dominion</l>
+         <l n="13" rend="pencil">                   have done or have not</l>
+         <l n="14" rend="pencil">  What is ∨<del>my</del> <hi rend="red">mine in my opinion</hi>     done</l>
+         <l n="15" rend="red">   <del>is first yours, &amp; wars shall cease</del></l>
+         <l n="16" rend="pencil">   <del>shall be yours &amp; wars shall cease</del></l>
+         <l n="17" rend="red">             <del>there shall be</del> peace </l>
+         <l n="18" rend="red">  <del>what is theirs is their opinion</del></l>
+         <l n="19" rend="red">   can be ours &amp; ours is theirs</l>
+         <l n="20" rend="pencil"> which cuts us off</l>
+         <l n="21" rend="pencil">    from </l>
+         <l n="22" rend="pencil"> <del>the</del> aspirations heights &amp; glory</l>
+         <l n="23" rend="pencil"/>
+         <l n="24" rend="pencil">   in these brief matters</l>
+         <l n="25" rend="pencil">                scatters</l>
+         <l n="26" rend="pencil">                        &amp; forgotten these of hell</l>
+         <l n="27" rend="pencil">      remembering heaven &amp; forgot of hell</l>
+         <l n="28" rend="pencil">            <del>then</del> all is well</l>
+         <l n="29" rend="pencil">    –˘–˘</l>
 </lg>
       </div>
    </div>
@@ -423,12 +415,11 @@
       <pb facs="nb07_04_07_0009_recto.jpg"/>
       <div type="page" n="r.0009" xml:id="nb07_04_07_0009_recto_text">
       <lg>
-         <l n="01"><!-- IMAGE DECRIPTION: MM cancels lines 1-5 with a wavy line. --><note>In lines 01-07, MM drafts  materials toward the unpublished poem "To Peace."</note> <hi rend="blue">terrible majesty</hi></l>
+         <l n="01"><note>In lines 01-07, MM drafts  materials toward the unpublished poem "To Peace."</note> <hi rend="blue">terrible majesty</hi></l>
          <l n="02"/>
-         <l n="03">      <hi rend="pencil">(&amp; giving be our goal</hi>        <hi rend="blue" xml:id="nb07_04_07_0009_recto_text_line_03_color_01"/>Peace</l>
-         <l n="04">             scroll <space extent=" 40"/>   //  unroll   poem</l>
-         <l n="05">  and craving make us whole<hi rend="blue" xml:id="nb07_04_07_0009_recto_text_line_05_color_01"/></l>
-<!--         <span type="hi" rend="blue" from="#nb07_04_07_0009_recto_text_line_03_color_01" to="#nb07_04_07_0009_recto_text_line_05_color_01"/-->
+         <l n="03">      <hi rend="pencil">(&amp; giving be our goal</hi>        <hi rend="blue">Peace</hi></l>
+         <l n="04" rend="blue">             scroll      //  unroll   poem</l>
+         <l n="05" rend="blue">  and craving make us whole</l>
          <l n="06">  _____________</l>
          <l n="07">  <hi rend="pencil">permanent strange term Permanent Salutation</hi></l>
          <l n="08">        <hi rend="pencil">where one looks at the past yet here's</hi></l>
@@ -446,20 +437,19 @@
          <l n="20">                   (master's) </l>
          <l n="21">  and please to use another street</l>
          <l n="22">  we <unclear resp="hcw"><del>???</del></unclear> cant have <del>ratt</del> noise fr carts &amp; horsefeet</l>
-         <l n="23"><hi rend="pencil" xml:id="nb07_04_07_0009_recto_text_line_23_color_01"/>   &amp; for the little ape</l>
-         <l n="24">  crossing the rainy street, lay down yr</l>
-         <l n="25">                                 cape</l>
-         <l n="26">  and for my little ape</l>
-         <l n="27">  crossing the rainsoaked street</l>
-         <l n="28">  the cape, the Spanish cape</l>
-         <l n="29">                 <del>of</del>fr <del>the</del></l>
-         <l n="30">      <del>quavers</del> <unclear resp="hcw">phps</unclear> the flutes</l>
-         <l n="31">          made <del>from</del> of <del>an</del>a skin</l>
-         <l n="32">          bone<del>s</del> or nothing</l>
-         <l n="33">      _______________________</l>
-         <l n="34">      and this poor repetitious race</l>
-         <l n="35">  will chase . . .     ______<hi rend="pencil" xml:id="nb07_04_07_0009_recto_text_line_35_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0009_recto_text_line_23_color_01" to="#nb07_04_07_0009_recto_text_line_35_color_01"/>-->
+         <l n="23" rend="pencil">   &amp; for the little ape</l>
+         <l n="24" rend="pencil">  crossing the rainy street, lay down yr</l>
+         <l n="25" rend="pencil">                                 cape</l>
+         <l n="26" rend="pencil">  and for my little ape</l>
+         <l n="27" rend="pencil">  crossing the rainsoaked street</l>
+         <l n="28" rend="pencil">  the cape, the Spanish cape</l>
+         <l n="29" rend="pencil">                 <del>of</del>fr <del>the</del></l>
+         <l n="30" rend="pencil">      <del>quavers</del> <unclear resp="hcw">phps</unclear> the flutes</l>
+         <l n="31" rend="pencil">          made <del>from</del> of <del>an</del>a skin</l>
+         <l n="32" rend="pencil">          bone<del>s</del> or nothing</l>
+         <l n="33" rend="pencil">      _______________________</l>
+         <l n="34" rend="pencil">      and this poor repetitious race</l>
+         <l n="35" rend="pencil">  will chase . . .     ______</l>
 </lg>
       </div>
    </div>
@@ -467,39 +457,38 @@
       <pb facs="nb07_04_07_0010_verso.jpg"/>
       <div type="page" n="v.0010" xml:id="nb07_04_07_0010_verso_text">
       <lg>
-         <l n="01"><!-- IMAGE DECRIPTION: MM cancels nearly all text with wavy or straight lines.--><note>In lines 01-09, MM drafts toward the unpublished poem "To Peace"; in lines 13-37, MM drafts toward the poem "The Buffalo," <title>Poetry</title> (November 1934).</note>  <hi rend="pencil" xml:id="nb07_04_07_0010_verso_text_line_01_color_01"/>resist as a x wld resist</l>
-         <l n="02">    <del>and</del> unself-love as pacifist</l>
-         <l n="03">    w</l>
+         <l n="01" rend="pencil"><note>In lines 01-09, MM drafts toward the unpublished poem "To Peace"; in lines 13-37, MM drafts toward the poem "The Buffalo," <title>Poetry</title> (November 1934).</note>  resist as a x wld resist</l>
+         <l n="02" rend="pencil">    <del>and</del> unself-love as pacifist</l>
+         <l n="03" rend="pencil">    w</l>
          <l n="04"/>
-         <l n="05">  Joy of heaven power &amp; glory</l>
-         <l n="06">   Kingdoms one thru unselflove</l>
+         <l n="05" rend="pencil">  Joy of heaven power &amp; glory</l>
+         <l n="06" rend="pencil">   Kingdoms one thru unselflove</l>
          <l n="07"/>
-         <l n="08">  Permanent! Strange term when</l>
-         <l n="09">   one looks at the past</l>
+         <l n="08" rend="pencil">  Permanent! Strange term when</l>
+         <l n="09" rend="pencil">   one looks at the past</l>
          <l n="10"/>
-         <l n="11">  upon</l>
-         <l n="12">   Sir. you're clever       against</l>
-         <l n="13">  coarse black guard hairs flatt<del>ened</del> to <del>on</del></l>
-         <l n="14">   the skin &amp; abut no minuter hairs</l>
-         <l n="15">            more ordinary</l>
-         <l n="16">  not like the<del>jewe</del> elephant</l>
+         <l n="11" rend="pencil">  upon</l>
+         <l n="12" rend="pencil">   Sir. you're clever       against</l>
+         <l n="13" rend="pencil">  coarse black guard hairs flatt<del>ened</del> to <del>on</del></l>
+         <l n="14" rend="pencil">   the skin &amp; abut no minuter hairs</l>
+         <l n="15" rend="pencil">            more ordinary</l>
+         <l n="16" rend="pencil">  not like the<del>jewe</del> elephant</l>
          <l n="17"/>
-         <l n="18">   the jewel the jeweler, of the hairs</l>
-         <l n="19">    that he wears  <del>by</del> on the strength</l>
-         <l n="20">  India    Africa</l>
-         <l n="21">  Indo China, ^ &amp; Malay</l>
-         <l n="22">  Yes, I am far away</l>
+         <l n="18" rend="pencil">   the jewel the jeweler, of the hairs</l>
+         <l n="19" rend="pencil">    that he wears  <del>by</del> on the strength</l>
+         <l n="20" rend="pencil">  India    Africa</l>
+         <l n="21" rend="pencil">  Indo China, ^ &amp; Malay</l>
+         <l n="22" rend="pencil">  Yes, I am far away</l>
          <l n="23"/>
-         <l n="24">  Bison–Bison Americanus</l>
-         <l n="25">              where </l>
-         <l n="26">  of N. America <del>in which country</del> it</l>
-         <l n="27">  is called the buffalo</l>
+         <l n="24" rend="pencil">  Bison–Bison Americanus</l>
+         <l n="25" rend="pencil">              where </l>
+         <l n="26" rend="pencil">  of N. America <del>in which country</del> it</l>
+         <l n="27" rend="pencil">  is called the buffalo</l>
          <l n="28"/>
-         <l n="29">  forehead neck &amp; shoulders covered</l>
-         <l n="30">   <del>but shoulders</del> w long shaggy, dark brown hair</l>
-         <l n="31">  Convex forehead &amp; long legs</l>
-         <l n="32">   &amp; 14 instead of 13 ribs<hi rend="pencil" xml:id="nb07_04_07_0010_verso_text_line_32_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0010_verso_text_line_01_color_01" to="#nb07_04_07_0010_verso_text_line_32_color_01"/>-->
+         <l n="29" rend="pencil">  forehead neck &amp; shoulders covered</l>
+         <l n="30" rend="pencil">   <del>but shoulders</del> w long shaggy, dark brown hair</l>
+         <l n="31" rend="pencil">  Convex forehead &amp; long legs</l>
+         <l n="32" rend="pencil">   &amp; 14 instead of 13 ribs</l>
 </lg>
       </div>
    </div>
@@ -507,7 +496,7 @@
       <pb facs="nb07_04_07_0011_recto.jpg"/>
       <div type="page" n="r.0011" xml:id="nb07_04_07_0011_recto_text">
       <lg>
-         <l n="01"><!-- IMAGE DECRIPTION: MM cancels "prairie" with a straight vertical line.-->  <hi rend="pencil"> 2 races the prairie &amp; the smaller</hi></l>
+         <l n="01">  <hi rend="pencil"> 2 races the prairie &amp; the smaller</hi></l>
          </lg>
       </div>
    </div>
@@ -515,9 +504,8 @@
       <pb facs="nb07_04_07_0012_verso.jpg"/>
       <div type="page" n="v.0012" xml:id="nb07_04_07_0012_verso_text">
       <lg>
-         <l n="01">  <hi rend="pencil" xml:id="nb07_04_07_0012_verso_text_line_01_color_01"/>the male buffalo  is quite <gap extent="5"/><unclear resp="cristannemiller">ch</unclear> </l>
-         <l n="02">   for a tiger<hi rend="pencil" xml:id="nb07_04_07_0012_verso_text_line_02_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0012_verso_text_line_01_color_01" to="#nb07_04_07_0012_verso_text_line_02_color_01"/>-->
+         <l n="01" rend="pencil">  the male buffalo  is quite  <unclear resp="cristannemiller">ch</unclear> </l>
+         <l n="02" rend="pencil">   for a tiger</l>
 </lg>
       </div>
    </div>
@@ -525,39 +513,38 @@
       <pb facs="nb07_04_07_0013_recto.jpg"/>
       <div type="page" n="r.0013" xml:id="nb07_04_07_0013_recto_text">
       <lg>
-         <l n="01"><!-- IMAGE DECRIPTION: Line 8, "the diving mouse," is circled. MM cancels lines 12-16 with a wavy line, and lines 24-29 with diagonal lines. with wavy or straight lines.-->   <hi rend="pencil" xml:id="nb07_04_07_0013_recto_text_line_01_color_01"/>buff. used for making jerkins</l>
-         <l n="02">  or buffcoats fr skin of the buffalo</l>
+         <l n="01" rend="pencil">   buff. used for making jerkins</l>
+         <l n="02" rend="pencil">  or buffcoats fr skin of the buffalo</l>
          <l n="03"/>
-         <l n="04">  First steamboat on the  Great</l>
-         <l n="05">   Lakes. Walk-in-the water</l>
-         <l n="06">  1818 in honor of that Indian Chief</l>
+         <l n="04" rend="pencil">  First steamboat on the  Great</l>
+         <l n="05" rend="pencil">   Lakes. Walk-in-the water</l>
+         <l n="06" rend="pencil">  1818 in honor of that Indian Chief</l>
          <l n="07"/>
-         <l n="08">  the diving mouse</l>
+         <l n="08" rend="pencil">  the diving mouse</l>
          <l n="09"/>
-         <l n="10">  The skin is called buff</l>
+         <l n="10" rend="pencil">  The skin is called buff</l>
          <l n="11"/>
-         <l n="12"><note>In lines 12-30, MM drafts materials toward the poem "The Buffalo," <title>Poetry</title> (November 1934).</note>  Black in blazonry means prudence</l>
-         <l n="13">   but in the orient, low birth</l>
-         <l n="14">  &amp; niger, unpropitious</l>
-         <l n="15">  Black artists,  wizards</l>
-         <l n="16">   _________________</l>
-         <l n="17">    the Conqueror died they dared not body? <note>Wilson, P. W. Review of William the Conqueror by Lucie Delarue-Mardus. <title>New York Times Book Review</title> (16 October 1932): 21.</note></l>
-         <l n="18">  When Wm died they dared not touch the</l>
-         <l n="19">"&gt;but at last took heart  corpse</l>
-         <l n="20">        form   &amp; sewed the</l>
-         <l n="21">       man in skins   him</l>
-         <l n="22">   Conqueror in a shroud of skins </l>
+         <l n="12" rend="pencil"><note>In lines 12-30, MM drafts materials toward the poem "The Buffalo," <title>Poetry</title> (November 1934).</note>  Black in blazonry means prudence</l>
+         <l n="13" rend="pencil">   but in the orient, low birth</l>
+         <l n="14" rend="pencil">  &amp; niger, unpropitious</l>
+         <l n="15" rend="pencil">  Black artists,  wizards</l>
+         <l n="16" rend="pencil">   _________________</l>
+         <l n="17" rend="pencil">    the Conqueror died they dared not body? <note>Wilson, P. W. Review of William the Conqueror by Lucie Delarue-Mardus. <title>New York Times Book Review</title> (16 October 1932): 21.</note></l>
+         <l n="18" rend="pencil">  When Wm died they dared not touch the</l>
+         <l n="19" rend="pencil">"&gt;but at last took heart  corpse</l>
+         <l n="20" rend="pencil">        form   &amp; sewed the</l>
+         <l n="21" rend="pencil">       man in skins   him</l>
+         <l n="22" rend="pencil">   Conqueror in a shroud of skins </l>
          <l n="23"/>
-         <l n="24">              draw </l>
-         <l n="25">  a pair of plodding oxen &amp; a</l>
-         <l n="26">    cart w 5 foot wheels</l>
-         <l n="27">        white nosed </l>
-         <l n="28">  or yoke of ^ oxen harvesting the syrup</l>
-         <l n="29">  crop–up to their knees in snow</l>
+         <l n="24" rend="pencil">              draw </l>
+         <l n="25" rend="pencil">  a pair of plodding oxen &amp; a</l>
+         <l n="26" rend="pencil">    cart w 5 foot wheels</l>
+         <l n="27" rend="pencil">        white nosed </l>
+         <l n="28" rend="pencil">  or yoke of ^ oxen harvesting the syrup</l>
+         <l n="29" rend="pencil">  crop–up to their knees in snow</l>
          </lg>
          <lg type="vertical">
-            <l n="30" rendition="vertical"><!-- span lines 27-15 right margin -->1000 gallons of raw spring sap<hi rend="pencil" xml:id="nb07_04_07_0013_recto_text_line_30_color_01"/></l>
-<!--            <span type="hi" rend="pencil" from="#nb07_04_07_0013_recto_text_line_01_color_01" to="#nb07_04_07_0013_recto_text_line_30_color_01"/>-->
+            <l n="30" rend="pencil"><!-- span lines 27-15 right margin -->1000 gallons of raw spring sap</l>
          </lg>
       </div>
    </div>
@@ -565,33 +552,32 @@
       <pb facs="nb07_04_07_0014_verso.jpg"/>
       <div type="page" n="v.0014" xml:id="nb07_04_07_0014_verso_text">
       <lg>
-         <l n="01">   <hi rend="pencil" xml:id="nb07_04_07_0014_verso_text_line_01_color_01"/>Black dresses w white wraps</l>
+         <l n="01" rend="pencil">   <hi rend="pencil" xml:id="nb07_04_07_0014_verso_text_line_01_color_01"/>Black dresses w white wraps</l>
          <l n="02"/>
-         <l n="03">  The 6 certainties   the <del>places</del> where</l>
-         <l n="04">           you will find</l>
-         <l n="05">   the clearest jade fr Yar kand</l>
-         <l n="06">   prettiest flowers fr Szechuen</l>
-         <l n="07">       thinnest</l>
-         <l n="08">  the most fragile porcelain fr Kingtehchen</l>
-         <l n="09">  finest tea fr Fukien</l>
-         <l n="10">   sheerest silks fr Hangchow</l>
-         <l n="11">  most beautiful women fr Soochow</l>
-         <l n="12"> the handsomest young girls</l>
-         <l n="13">    the infinite fields of mulberry <note>Edgar Snow, “The New World Today” (<title>New York Sun</title> [2 July 1932]).</note></l>
-         <l n="14"> /&gt;guarded fr </l>
-         <l n="15">  bad winds–    a peasants' whit</l>
-         <l n="16">       hut, or long low building where</l>
-         <l n="17">  the a silkworms are hatched</l>
-         <l n="18">           <del>hat</del>ched hatched</l>
-         <l n="19">  handloomed silk gauges better than</l>
-         <l n="20">   those <del>boldly</del> made by a machine</l>
+         <l n="03" rend="pencil">  The 6 certainties   the <del>places</del> where</l>
+         <l n="04" rend="pencil">           you will find</l>
+         <l n="05" rend="pencil">   the clearest jade fr Yar kand</l>
+         <l n="06" rend="pencil">   prettiest flowers fr Szechuen</l>
+         <l n="07" rend="pencil">       thinnest</l>
+         <l n="08" rend="pencil">  the most fragile porcelain fr Kingtehchen</l>
+         <l n="09" rend="pencil">  finest tea fr Fukien</l>
+         <l n="10" rend="pencil">   sheerest silks fr Hangchow</l>
+         <l n="11" rend="pencil">  most beautiful women fr Soochow</l>
+         <l n="12" rend="pencil"> the handsomest young girls</l>
+         <l n="13" rend="pencil">    the infinite fields of mulberry <note>Edgar Snow, “The New World Today” (<title>New York Sun</title> [2 July 1932]).</note></l>
+         <l n="14" rend="pencil"> /&gt;guarded fr </l>
+         <l n="15" rend="pencil">  bad winds–    a peasants' whit</l>
+         <l n="16" rend="pencil">       hut, or long low building where</l>
+         <l n="17" rend="pencil">  the a silkworms are hatched</l>
+         <l n="18" rend="pencil">           <del>hat</del>ched hatched</l>
+         <l n="19" rend="pencil">  handloomed silk gauges better than</l>
+         <l n="20" rend="pencil">   those <del>boldly</del> made by a machine</l>
          <l n="21"/>
-         <l n="22">   if the men of this city had but the</l>
-         <l n="23">    spirit of soldiers they would conquer</l>
-         <l n="24">   the world . . philosphers leeches,</l>
-         <l n="25">   &amp; students of nature &amp; herd boys</l>
-         <l n="26">   returning home–  &amp; 6000 bridges<hi rend="pencil" xml:id="nb07_04_07_0014_verso_text_line_26_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0014_verso_text_line_01_color_01" to="#nb07_04_07_0014_verso_text_line_26_color_01"/>-->
+         <l n="22" rend="pencil">   if the men of this city had but the</l>
+         <l n="23" rend="pencil">    spirit of soldiers they would conquer</l>
+         <l n="24" rend="pencil">   the world . . philosphers leeches,</l>
+         <l n="25" rend="pencil">   &amp; students of nature &amp; herd boys</l>
+         <l n="26" rend="pencil">   returning home–  &amp; 6000 bridges</l>
 </lg>
       </div>
    </div>
@@ -599,40 +585,39 @@
       <pb facs="nb07_04_07_0015_recto.jpg"/>
       <div type="page" n="r.0015" xml:id="nb07_04_07_0015_recto_text">
       <lg>
-         <l n="01"><!-- IMAGE DECRIPTION: Lines 12 and 13 are circled with a half-ellipse. MM cancels lines 26-33 with wavy and straight lines. She circles "a fat" in line 29.-->  <hi rend="pencil" xml:id="nb07_04_07_0015_recto_text_line_01_color_01"/>so lofty 2 galleons abreast can</l>
-         <l n="02">   <del>sail home</del> pass together under one</l>
+         <l n="01" rend="pencil">  so lofty 2 galleons abreast can</l>
+         <l n="02" rend="pencil">   <del>sail home</del> pass together under one</l>
          <l n="03"/>
-         <l n="04">  Tiger Hill kill</l>
+         <l n="04" rend="pencil">  Tiger Hill kill</l>
          <l n="05"/>
-         <l n="06">  w rockeries</l>
+         <l n="06" rend="pencil">  w rockeries</l>
          <l n="07"/>
-         <l n="08">  There are turtles in the lake preserved</l>
+         <l n="08" rend="pencil">  There are turtles in the lake preserved</l>
          <l n="09"/>
-         <l n="10">  on purpose</l>
+         <l n="10" rend="pencil">  on purpose</l>
          <l n="11"/>
-         <l n="12">        elephants</l>
-         <l n="13">  I say yes to anything tomorrow</l>
+         <l n="12" rend="pencil">        elephants</l>
+         <l n="13" rend="pencil">  I say yes to anything tomorrow</l>
          <l n="14"/>
-         <l n="15">      Round Island</l>
-         <l n="16">  Colubra Snake . . red white &amp; black</l>
+         <l n="15" rend="pencil">      Round Island</l>
+         <l n="16" rend="pencil">  Colubra Snake . . red white &amp; black</l>
          <l n="17"/>
-         <l n="18">  I never tired of eating turtle</l>
-         <l n="19">   a man who fished among</l>
-         <l n="20"> these Islands said–</l>
+         <l n="18" rend="pencil">  I never tired of eating turtle</l>
+         <l n="19" rend="pencil">   a man who fished among</l>
+         <l n="20" rend="pencil"> these Islands said–</l>
          <l n="21"/>
-         <l n="22">  Reunion Island blue eyes w blackfaces</l>
-         <l n="23">  Chinese eyes &amp; cheeks bones under</l>
-         <l n="24">        bright red<del>flaming</del> red hair</l>
+         <l n="22" rend="pencil">  Reunion Island blue eyes w blackfaces</l>
+         <l n="23" rend="pencil">  Chinese eyes &amp; cheeks bones under</l>
+         <l n="24" rend="pencil">        bright red<del>flaming</del> red hair</l>
          <l n="25"/>
-         <l n="26"><note>In lines 26-33, MM drafts materials toward the poem "The Buffalo," <title>Poetry</title> (November 1934).</note>    coarse black guard hairs</l>
-         <l n="27">      on the prudent skin</l>
-         <l n="28">   __________________________</l>
-         <l n="29">  working heathen–    a fat</l>
-         <l n="30">  in the mud or journeying, <del>w a sage</del></l>
-         <l n="31"> /&gt;w a sage seated on the back</l>
-         <l n="32">  no Christian heathen a synonym of selfsufficiency</l>
-         <l n="33">             corrected<hi rend="pencil" xml:id="nb07_04_07_0015_recto_text_line_33_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0015_recto_text_line_01_color_01" to="#nb07_04_07_0015_recto_text_line_33_color_01"/>-->
+         <l n="26" rend="pencil"><note>In lines 26-33, MM drafts materials toward the poem "The Buffalo," <title>Poetry</title> (November 1934).</note>    coarse black guard hairs</l>
+         <l n="27" rend="pencil">      on the prudent skin</l>
+         <l n="28" rend="pencil">   __________________________</l>
+         <l n="29" rend="pencil">  working heathen–    a fat</l>
+         <l n="30" rend="pencil">  in the mud or journeying, <del>w a sage</del></l>
+         <l n="31" rend="pencil"> /&gt;w a sage seated on the back</l>
+         <l n="32" rend="pencil">  no Christian heathen a synonym of selfsufficiency</l>
+         <l n="33" rend="pencil">             corrected</l>
 </lg>
       </div>
    </div>
@@ -640,35 +625,34 @@
       <pb facs="nb07_04_07_0016_verso.jpg"/>
       <div type="page" n="v.0016" xml:id="nb07_04_07_0016_verso_text">
       <lg>
-         <l n="01"> <!-- IMAGE DECRIPTION: MM cancels all text except the first two lines with wavy or straight lines.--><hi rend="pencil" xml:id="nb07_04_07_0016_verso_text_line_01_color_01"/>    catfish mouth so wide it is danger</l>
-         <l n="02">  of turning inside out</l>
+         <l n="01" rend="pencil">     catfish mouth so wide it is danger</l>
+         <l n="02" rend="pencil">  of turning inside out</l>
          <l n="03"/>
-         <l n="04"><note>In lines 04-09, MM drafts materials toward the poem "The Buffalo," <title>Poetry</title> (November 1934).</note>   Despite all earmarks of emotion</l>
-         <l n="05">  he humbles the tiger until he–</l>
+         <l n="04" rend="pencil"><note>In lines 04-09, MM drafts materials toward the poem "The Buffalo," <title>Poetry</title> (November 1934).</note>   Despite all earmarks of emotion</l>
+         <l n="05" rend="pencil">  he humbles the tiger until he–</l>
          <l n="06"/>
-         <l n="07">    commands</l>
-         <l n="08">  com wh the gentle understands; the</l>
-         <l n="09">   savage disregards</l>
+         <l n="07" rend="pencil">    commands</l>
+         <l n="08" rend="pencil">  com wh the gentle understands; the</l>
+         <l n="09" rend="pencil">   savage disregards</l>
          <l n="10"/>
-         <l n="11"><note>In lines 11-22, MM drafts materials toward the poem "The Plumet Basilisk," <title>Active Anthology</title> (1933).</note>  fiercely the ox combatting violently</l>
-         <l n="12">   &amp; w certainty &amp; beneath its canopy</l>
-         <l n="13">          stubbornly</l>
-         <l n="14">  <del>of parrot green</del><del>fierely</del>  fierily</l>
-         <l n="15">    its enemy   fire proof salamander skin</l>
+         <l n="11" rend="pencil"><note>In lines 11-22, MM drafts materials toward the poem "The Plumet Basilisk," <title>Active Anthology</title> (1933).</note>  fiercely the ox combatting violently</l>
+         <l n="12" rend="pencil">   &amp; w certainty &amp; beneath its canopy</l>
+         <l n="13" rend="pencil">          stubbornly</l>
+         <l n="14" rend="pencil">  <del>of parrot green</del><del>fierely</del>  fierily</l>
+         <l n="15" rend="pencil">    its enemy   fire proof salamander skin</l>
          <l n="16"/>
-         <l n="17">  no falconing party, no supernatural</l>
-         <l n="18">   cockatrice or<del>basilisk</del></l>
-         <l n="19">             serpent w</l>
-         <l n="20">  his skin the color of the shower</l>
-         <l n="21">  <del>These are not</del> far from swans w collars &amp; the odor of May</l>
-         <l n="22">          Impervious to fire<!-- Draft ends here?? CM  --></l>
+         <l n="17" rend="pencil">  no falconing party, no supernatural</l>
+         <l n="18" rend="pencil">   cockatrice or<del>basilisk</del></l>
+         <l n="19" rend="pencil">             serpent w</l>
+         <l n="20" rend="pencil">  his skin the color of the shower</l>
+         <l n="21" rend="pencil">  <del>These are not</del> far from swans w collars &amp; the odor of May</l>
+         <l n="22" rend="pencil">          Impervious to fire<!-- Draft ends here?? CM  --></l>
          <l n="23"/>
-         <l n="24">  There is nothing one cld be</l>
-         <l n="25">  better dressed in than the</l>
-         <l n="26">   skin of the giraffe</l>
+         <l n="24" rend="pencil">  There is nothing one cld be</l>
+         <l n="25" rend="pencil">  better dressed in than the</l>
+         <l n="26" rend="pencil">   skin of the giraffe</l>
          <l n="27"/>
-         <l n="28">   This is how the mind works<hi rend="pencil" xml:id="nb07_04_07_0016_verso_text_line_28_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0016_verso_text_line_01_color_01" to="#nb07_04_07_0016_verso_text_line_28_color_01"/>-->
+         <l n="28" rend="pencil">   This is how the mind works</l>
 </lg>
       </div>
    </div>
@@ -676,37 +660,36 @@
       <pb facs="nb07_04_07_0017_recto.jpg"/>
       <div type="page" n="r.0017" xml:id="nb07_04_07_0017_recto_text">
       <lg>
-         <l n="01">  <!-- IMAGE DECRIPTION: MM cancels all text with wavy lines.--><hi rend="pencil" xml:id="nb07_04_07_0017_recto_text_line_01_color_01"/>   and Harry<note type="glossary">King Henry VIII [1491-1547]. King of England from 1509 to 1547. He separated the Church of England from Papal authority in 1533.</note> our king has gone hunting</l>
+         <l n="01" rend="pencil">     and Harry<note type="glossary">King Henry VIII [1491-1547]. King of England from 1509 to 1547. He separated the Church of England from Papal authority in 1533.</note> our king has gone hunting</l>
          <l n="02"/>
-         <l n="03">  It is made to swell yr body out–</l>
-         <l n="04">   so that the others must fall back</l>
+         <l n="03" rend="pencil">  It is made to swell yr body out–</l>
+         <l n="04" rend="pencil">   so that the others must fall back</l>
          <l n="05"/>
-         <l n="06"><note>In line 06, MM drafts materials toward the poem "The Frigate Pelican," <title>The Criterion</title> (July 1935).</note>  pride in unserviceableness</l>
-         <l n="07">  is not synonymous w the beauty of</l>
-         <l n="08">             aloofness</l>
-         <l n="09">   shoes not made of chicken skins</l>
+         <l n="06" rend="pencil"><note>In line 06, MM drafts materials toward the poem "The Frigate Pelican," <title>The Criterion</title> (July 1935).</note>  pride in unserviceableness</l>
+         <l n="07" rend="pencil">  is not synonymous w the beauty of</l>
+         <l n="08" rend="pencil">             aloofness</l>
+         <l n="09" rend="pencil">   shoes not made of chicken skins</l>
          <l n="10"/>
-         <l n="11">  the envelopes are valuable</l>
-         <l n="12"><note>In lines 12-30, MM drafts materials toward the poem "The Buffalo," <title>Poetry</title> (November 1934).</note>  I am <del>have</del> far from swans w collars &amp; the order of the May</l>
-         <l n="13">   I am no falconing party</l>
-         <l n="14">  I am a buffalo</l>
-         <l n="15">  <del>or is that something one can't know</del></l>
-         <l n="16">  in the ooze of the low</l>
-         <l n="17">   land ^ or is that something one can't know</l>
+         <l n="11" rend="pencil">  the envelopes are valuable</l>
+         <l n="12" rend="pencil"><note>In lines 12-30, MM drafts materials toward the poem "The Buffalo," <title>Poetry</title> (November 1934).</note>  I am <del>have</del> far from swans w collars &amp; the order of the May</l>
+         <l n="13" rend="pencil">   I am no falconing party</l>
+         <l n="14" rend="pencil">  I am a buffalo</l>
+         <l n="15" rend="pencil">  <del>or is that something one can't know</del></l>
+         <l n="16" rend="pencil">  in the ooze of the low</l>
+         <l n="17" rend="pencil">   land ^ or is that something one can't know</l>
          <l n="18"/>
-         <l n="19">  the zebra w sufficiently soft whitish</l>
-         <l n="20">              plush–</l>
-         <l n="21">        prepared</l>
-         <l n="22">  w horns <del>strong enough</del> to kill a tiger</l>
-         <l n="23">       &amp; to toss the skin away</l>
-         <l n="24">    blowing </l>
-         <l n="25">  <del>shuffling in</del> the dust with the–of the</l>
-         <l n="26">              elephant</l>
-         <l n="27">  w horns that don't fall off fr lack of use</l>
-         <l n="28">      have not disappeared from</l>
-         <l n="29">    a book not kept for  its</l>
-         <l n="30">           cover<hi rend="pencil" xml:id="nb07_04_07_0017_recto_text_line_30_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0017_recto_text_line_01_color_01" to="#nb07_04_07_0017_recto_text_line_30_color_01"/>-->
+         <l n="19" rend="pencil">  the zebra w sufficiently soft whitish</l>
+         <l n="20" rend="pencil">              plush–</l>
+         <l n="21" rend="pencil">        prepared</l>
+         <l n="22" rend="pencil">  w horns <del>strong enough</del> to kill a tiger</l>
+         <l n="23" rend="pencil">       &amp; to toss the skin away</l>
+         <l n="24" rend="pencil">    blowing </l>
+         <l n="25" rend="pencil">  <del>shuffling in</del> the dust with the–of the</l>
+         <l n="26" rend="pencil">              elephant</l>
+         <l n="27" rend="pencil">  w horns that don't fall off fr lack of use</l>
+         <l n="28" rend="pencil">      have not disappeared from</l>
+         <l n="29" rend="pencil">    a book not kept for  its</l>
+         <l n="30" rend="pencil">           cover</l>
 </lg>
       </div>
    </div>
@@ -714,40 +697,38 @@
       <pb facs="nb07_04_07_0018_verso.jpg"/>
       <div type="page" n="v.0018" xml:id="nb07_04_07_0018_verso_text">
       <lg>
-         <l n="01">  <!-- IMAGE DECRIPTION: MM cancels some text with straight lines.--><hi rend="pencil" xml:id="nb07_04_07_0018_verso_text_line_01_color_01"/>near the ground</l>
-         <l n="02">  &amp; know<del>s</del>  the feeding hand</l>
-         <l n="03"> ______________________________________</l>
-         <l n="04">   <del>when I feel this</del></l>
-         <l n="05">  <del>I.</del></l>
-         <l n="06">        <del>Did</del>I grow less</l>
-         <l n="07">        When I think of this</l>
-         <l n="08">        like <del>melting</del> snow on a mild day</l>
-         <l n="09">         ˘–˘</l>
-         <l n="10">        and know no yes</l>
+         <l n="01" rend="pencil">  near the ground</l>
+         <l n="02" rend="pencil">  &amp; know<del>s</del>  the feeding hand</l>
+         <l n="03" rend="pencil"> ______________________________________</l>
+         <l n="04" rend="pencil">   <del>when I feel this</del></l>
+         <l n="05" rend="pencil">  <del>I.</del></l>
+         <l n="06" rend="pencil">        <del>Did</del>I grow less</l>
+         <l n="07" rend="pencil">        When I think of this</l>
+         <l n="08" rend="pencil">        like <del>melting</del> snow on a mild day</l>
+         <l n="09" rend="pencil">         ˘–˘</l>
+         <l n="10" rend="pencil">        and know no yes</l>
          <l n="11"/>
-         <l n="12">  a time comes when<del>the enemy mu</del></l>
-         <l n="13">  one must face the enemy–<hi rend="pencil" xml:id="nb07_04_07_0018_verso_text_line_13_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0018_verso_text_line_01_color_01" to="#nb07_04_07_0018_verso_text_line_13_color_01"/>-->
+         <l n="12" rend="pencil">  a time comes when<del>the enemy mu</del></l>
+         <l n="13" rend="pencil">  one must face the enemy–</l>
+
          <l n="14">    _____________________</l>
          <l n="15">  There must<del>should</del> be something in th<hi rend="pencil">is</hi></l>
          <l n="16">                world</l>
          <l n="17">  with which <del>one could</del><hi rend="pencil">to</hi> match the soul</l>
          <l n="18">    <hi rend="pencil">upcurling in a fern</hi></l>
-         <l n="19">       my little valentine <hi rend="pencil" xml:id="nb07_04_07_0018_verso_text_line_19_color_01"/>the <del>fine curling</del><hi rend="pencil" xml:id="nb07_04_07_0018_verso_text_line_19_color_02"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0018_verso_text_line_19_color_01" to="#nb07_04_07_0018_verso_text_line_19_color_02"/>-->
+         <l n="19" rend="pencil">       my little valentine &gt;the <del>fine curling</del></l>
          <l n="20"><hi rend="pencil">  the fernlike fineness of the monkeys tail that</hi></l>
          <l n="21">  <hi rend="pencil">stands up waving like a–or straightens</hi></l>
          <l n="22">   A monkey by name.</l>
-         <l n="23">  <hi rend="pencil" xml:id="nb07_04_07_0018_verso_text_line_23_color_01"/>out as from the hawsehole of a ship</l>
-         <l n="24">  strengthening as a cable to the hawsehole of a ship</l>
-         <l n="25">  The Lotus Look at it fall open</l>
-         <l n="26">    <del>Claw</del> that was closed as shut as the beak of</l>
-         <l n="27">       shut         a</l>
-         <l n="28"><note>In lines 28-31, MM drafts materials toward the poem first published as "Smooth Gnarled Crepe Myrtle," <title>New English Weekly</title> (17 October 1935).</note>    His pair of hol<del>d</del>e   -probosc- duck</l>
-         <l n="29">              like holes</l>
-         <l n="30">   elephant <del>with</del> columbine-<del>nosed nostils</del></l>
-         <l n="31">   <del>nostrils holes</del> held waveringly out<hi rend="pencil" xml:id="nb07_04_07_0018_verso_text_line_31_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0018_verso_text_line_23_color_01" to="#nb07_04_07_0018_verso_text_line_31_color_01"/>-->
+         <l n="23" rend="pencil">  out as from the hawsehole of a ship</l>
+         <l n="24" rend="pencil">  strengthening as a cable to the hawsehole of a ship</l>
+         <l n="25" rend="pencil">  The Lotus Look at it fall open</l>
+         <l n="26" rend="pencil">    <del>Claw</del> that was closed as shut as the beak of</l>
+         <l n="27" rend="pencil">       shut         a</l>
+         <l n="28" rend="pencil"><note>In lines 28-31, MM drafts materials toward the poem first published as "Smooth Gnarled Crepe Myrtle," <title>New English Weekly</title> (17 October 1935).</note>    His pair of hol<del>d</del>e   -probosc- duck</l>
+         <l n="29" rend="pencil">              like holes</l>
+         <l n="30" rend="pencil">   elephant <del>with</del> columbine-<del>nosed nostils</del></l>
+         <l n="31" rend="pencil">   <del>nostrils holes</del> held waveringly out</l>
 </lg>
       </div>
    </div>
@@ -755,7 +736,7 @@
       <pb facs="nb07_04_07_0019_recto.jpg"/>
       <div type="page" n="r.0019" xml:id="nb07_04_07_0019_recto_text">
       <lg>
-         <l n="01"> <!-- IMAGE DECRIPTION: MM cancels lines 7-15 and 21-24 with wavy lines.-->a brother a sister another brother</l>
+         <l n="01"> a brother a sister another brother</l>
          <l n="02">   and no mother</l>
          <l n="03"/>
          <l n="04">  the orange tree with grafts</l>
@@ -787,39 +768,38 @@
       <pb facs="nb07_04_07_0020_verso.jpg"/>
       <div type="page" n="v.0020" xml:id="nb07_04_07_0020_verso_text">
       <lg>
-         <l n="01"> <!-- IMAGE DECRIPTION: MM cancels nearly all text with wavy lines.--><note>In lines 01-32, MM drafts materials toward the poem "The Frigate Pelican," <title>The Criterion</title> (July 1935).</note>      <hi rend="pencil" xml:id="nb07_04_07_0020_verso_text_line_01_color_01"/><hi rend="underline">The Frigate Pelican</hi></l>
+         <l n="01" rend="pencil"> <note>In lines 01-32, MM drafts materials toward the poem "The Frigate Pelican," <title>The Criterion</title> (July 1935).</note>      <hi rend="underline">The Frigate Pelican</hi></l>
          <l n="02"/>
-         <l n="03">    You see it<del>gliding</del> as a blackish thing</l>
-         <l n="04">    Up <del/> near the milky way</l>
-         <l n="05">   on limber wing, but in the day</l>
-         <l n="06">          variable</l>
-         <l n="07">   time–on the uneven air–</l>
-         <l n="08">  <del>but</del>            paths</l>
-         <l n="09"> /&gt;<del>but with no</del> on un-</l>
-         <l n="10">    <del>not</del> flapping</l>
+         <l n="03" rend="pencil">    You see it<del>gliding</del> as a blackish thing</l>
+         <l n="04" rend="pencil">    Up <del/> near the milky way</l>
+         <l n="05" rend="pencil">   on limber wing, but in the day</l>
+         <l n="06" rend="pencil">          variable</l>
+         <l n="07" rend="pencil">   time–on the uneven air–</l>
+         <l n="08" rend="pencil">  <del>but</del>            paths</l>
+         <l n="09" rend="pencil"> /&gt;<del>but with no</del> on un-</l>
+         <l n="10" rend="pencil">    <del>not</del> flapping</l>
          <l n="11"/>
-         <l n="12">    the sombre</l>
-         <l n="13">   frigate pelican</l>
-         <l n="14">    of the Caribbean</l>
+         <l n="12" rend="pencil">    the sombre</l>
+         <l n="13" rend="pencil">   frigate pelican</l>
+         <l n="14" rend="pencil">    of the Caribbean</l>
          <l n="15"/>
-         <l n="16">         the flyingmachinist</l>
-         <l n="17">  w Rasselas waving his wings <del>a moment</del></l>
-         <l n="18">   descending or ascending to gather</l>
-         <l n="19">  non-flapping flight    air</l>
-         <l n="20">   when the wind is too even</l>
-         <l n="21">    they stay in their trees</l>
-         <l n="22">        betokening<del>spelling the</del> sober delight</l>
-         <l n="23">  Audubon</l>
+         <l n="16" rend="pencil">         the flyingmachinist</l>
+         <l n="17" rend="pencil">  w Rasselas waving his wings <del>a moment</del></l>
+         <l n="18" rend="pencil">   descending or ascending to gather</l>
+         <l n="19" rend="pencil">  non-flapping flight    air</l>
+         <l n="20" rend="pencil">   when the wind is too even</l>
+         <l n="21" rend="pencil">    they stay in their trees</l>
+         <l n="22" rend="pencil">        betokening<del>spelling the</del> sober delight</l>
+         <l n="23" rend="pencil">  Audubon</l>
          <l n="24"/>
-         <l n="25">   the mangrove swamp–</l>
+         <l n="25" rend="pencil">   the mangrove swamp–</l>
          <l n="26"/>
-         <l n="27">  flickering but</l>
-         <l n="28">   &amp; the humble habitat</l>
-         <l n="29">             by the </l>
-         <l n="30">  of the armadillo jogging ^ with the inoffensive</l>
-         <l n="31"> jogging gait<del>like</del> of the true knight</l>
-         <l n="32">      armor of a dog true knight<hi rend="pencil" xml:id="nb07_04_07_0020_verso_text_line_32_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0020_verso_text_line_01_color_01" to="#nb07_04_07_0020_verso_text_line_32_color_01"/>-->
+         <l n="27" rend="pencil">  flickering but</l>
+         <l n="28" rend="pencil">   &amp; the humble habitat</l>
+         <l n="29" rend="pencil">             by the </l>
+         <l n="30" rend="pencil">  of the armadillo jogging ^ with the inoffensive</l>
+         <l n="31" rend="pencil"> jogging gait<del>like</del> of the true knight</l>
+         <l n="32" rend="pencil">      armor of a dog true knight</l>
 </lg>
       </div>
    </div>
@@ -827,41 +807,39 @@
       <pb facs="nb07_04_07_0021_recto.jpg"/>
       <div type="page" n="r.0021" xml:id="nb07_04_07_0021_recto_text">
       <lg>
-         <l n="01"><!-- IMAGE DECRIPTION: MM cancels lines 1-7, 16-17, and 26 with wavy lines.--><hi rend="pencil" xml:id="nb07_04_07_0021_recto_text_line_01_color_01"/><note>In lines 01-32, MM drafts materials toward the poem "The Frigate Pelican," <title>The Criterion</title> (July 1935).</note>   Festina Lente <note> A Latin proverb attributed to the Roman emperor Augustus. It was first recorded in its English version "Make Haste Slowly" in Benjamin Franklin's <title>Poor Richard's Almanack</title> (1744).</note></l>
+         <l n="01" rend="pencil"><note>In lines 01-32, MM drafts materials toward the poem "The Frigate Pelican," <title>The Criterion</title> (July 1935).</note>   Festina Lente <note> A Latin proverb attributed to the Roman emperor Augustus. It was first recorded in its English version "Make Haste Slowly" in Benjamin Franklin's <title>Poor Richard's Almanack</title> (1744).</note></l>
          <l n="02"/>
-         <l n="03">  dastardly reflexes making me do</l>
-         <l n="04">  <del>making me do</del> what I don't want to do</l>
+         <l n="03" rend="pencil">  dastardly reflexes making me do</l>
+         <l n="04" rend="pencil">  <del>making me do</del> what I don't want to do</l>
          <l n="05"/>
-         <l n="06">          the</l>
-         <l n="07"> /&gt;and an arcangel of<del>a</del> comrade to</l>
-         <l n="08">  boobies–the thief between 2 black–˘</l>
+         <l n="06" rend="pencil">          the</l>
+         <l n="07" rend="pencil"> /&gt;and an arcangel of<del>a</del> comrade to</l>
+         <l n="08" rend="pencil">  boobies–the thief between 2 black–˘</l>
          <l n="09"/>
-         <l n="10">  and the comrade of boobies, to</l>
-         <l n="11">  <del>be an or</del> seem an arcangel</l>
-         <l n="12">  __________</l>
-         <l n="13">  one with more wondrful</l>
-         <l n="14">         spectacular</l>
-         <l n="15">  the opinicus, cocatrice, basilisk and</l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0021_recto_text_line_01_color_01" to="#nb07_04_07_0021_recto_text_line_32_color_01"/>-->
-         <l n="16">          the <hi rend="black">prova</hi>ble crocodile</l>
-         <l n="17">as tho</l>
-         <l n="18">  <del>above</del> immune to pursuit &amp; to</l>
-         <l n="19"> /&gt;the tired moment, the moment of danger</l>
-         <l n="20">  ______________</l>
-         <l n="21"><hi rend="black" xml:id="nb07_04_07_0021_recto_text_line_22_color_01"/>The mansard bird-houses are missing from </l>
-         <l n="22">            the</l>
-         <l n="23">the promenade across <del>these wide</del> miles &amp; </l>
-         <l n="24">          miles of sky<hi rend="black" xml:id="nb07_04_07_0021_recto_text_line_24_color_01"/></l>
-<!--         <span type="hi" rend="black" from="#nb07_04_07_0021_recto_text_line_24_color_01" to="#nb07_04_07_0021_recto_text_line_24_color_01"/>-->
+         <l n="10" rend="pencil">  and the comrade of boobies, to</l>
+         <l n="11" rend="pencil">  <del>be an or</del> seem an arcangel</l>
+         <l n="12" rend="pencil">  __________</l>
+         <l n="13" rend="pencil">  one with more wondrful</l>
+         <l n="14" rend="pencil">         spectacular</l>
+         <l n="15" rend="pencil">  the opinicus, cocatrice, basilisk and</l>
+         <l n="16" rend="pencil">          the <hi rend="black">prova</hi>ble crocodile</l>
+         <l n="17" rend="pencil">as tho</l>
+         <l n="18" rend="pencil">  <del>above</del> immune to pursuit &amp; to</l>
+         <l n="19" rend="pencil"> /&gt;the tired moment, the moment of danger</l>
+         <l n="20" rend="pencil">  ______________</l>
+         <l n="21" rend="black">The mansard bird-houses are missing from </l>
+         <l n="22" rend="black">            the</l>
+         <l n="23" rend="black">the promenade across <del>these wide</del> miles &amp; </l>
+         <l n="24" rend="black">          miles of sky</l>
          <l n="25"/>
-         <l n="26">  w iguanas–perhaps</l>
-         <l n="27">    boas in the thatch</l>
-         <l n="28">  _________________</l>
-         <l n="29">  <del>make hay, keep the shop, I have</del></l>
-         <l n="30">            <del>one sheep</del><note>Franklin, Benjamin. <title>Poor Richard's Almanac</title>. Two of these three epigrams, "keep the shop" and "I have one sheep," are from Franklin's <title>Poor Richard's Almanac</title>. There are many editions and serializations of Franklin's Almanac and it is unclear which of them MM uses. The first listed epigram, "make hay," does not appear in Franklin's text. All three epigrams are reproduced by MM in "The Frigate Pelican" [first pub. July 1935, <title>The Criterion</title>].</note></l>
-         <l n="31">  <unclear resp="hcw"><del>in</del> are</unclear> all this wide</l>
-         <l n="32">       circumference</l>
-         <l n="33">   of weath</l>
+         <l n="26" rend="pencil">  w iguanas–perhaps</l>
+         <l n="27" rend="pencil">    boas in the thatch</l>
+         <l n="28" rend="pencil">  _________________</l>
+         <l n="29" rend="pencil">  <del>make hay, keep the shop, I have</del></l>
+         <l n="30" rend="pencil">            <del>one sheep</del><note>Franklin, Benjamin. <title>Poor Richard's Almanac</title>. Two of these three epigrams, "keep the shop" and "I have one sheep," are from Franklin's <title>Poor Richard's Almanac</title>. There are many editions and serializations of Franklin's Almanac and it is unclear which of them MM uses. The first listed epigram, "make hay," does not appear in Franklin's text. All three epigrams are reproduced by MM in "The Frigate Pelican" [first pub. July 1935, <title>The Criterion</title>].</note></l>
+         <l n="31" rend="pencil">  <unclear resp="hcw"><del>in</del> are</unclear> all this wide</l>
+         <l n="32" rend="pencil">       circumference</l>
+         <l n="33" rend="pencil">   of weath</l>
          </lg>
       </div>
    </div>
@@ -869,41 +847,40 @@
       <pb facs="nb07_04_07_0022_verso.jpg"/>
       <div type="page" n="v.0022" xml:id="nb07_04_07_0022_verso_text">
       <lg>
-         <l n="01"><!-- IMAGE DECRIPTION:  MM cancels nearly all text with wavy or straight lines.-->    <hi rend="pencil" xml:id="nb07_04_07_0022_verso_text_line_01_color_01"/>ceiba</l>
-         <l n="02">   cotton silk tree</l>
-         <l n="03">  _______________</l>
-         <l n="04"> /&gt;uninterfered with by tearing emotion</l>
-         <l n="05"> without the sensation of being disgraced</l>
-         <l n="06">  in the secretly thrilling</l>
-         <l n="07">by <del>the</del> indeniable shadows of something grotesque</l>
-         <l n="08">   ______</l>
-         <l n="09">  o heavy sigh</l>
-         <l n="10">  ____________  /&gt;the hesitant</l>
-         <l n="11">       makes <del>the palpable</del> sky</l>
-         <l n="12">          <del>hesitat</del> palpitate  /&gt;the</l>
-         <l n="13">  the  /&gt;the fatuously keensighted for ^ things</l>
-         <l n="14">   that come first</l>
-         <l n="15"> not–––––wthe non-flapping flight of the</l>
-         <l n="16"> /&gt;looking not seeing  <unclear resp="hcw">airman</unclear></l>
+         <l n="01" rend="pencil">    ceiba</l>
+         <l n="02" rend="pencil">   cotton silk tree</l>
+         <l n="03" rend="pencil">  _______________</l>
+         <l n="04" rend="pencil"> /&gt;uninterfered with by tearing emotion</l>
+         <l n="05" rend="pencil"> without the sensation of being disgraced</l>
+         <l n="06" rend="pencil">  in the secretly thrilling</l>
+         <l n="07" rend="pencil">by <del>the</del> indeniable shadows of something grotesque</l>
+         <l n="08" rend="pencil">   ______</l>
+         <l n="09" rend="pencil">  o heavy sigh</l>
+         <l n="10" rend="pencil">  ____________  /&gt;the hesitant</l>
+         <l n="11" rend="pencil">       makes <del>the palpable</del> sky</l>
+         <l n="12" rend="pencil">          <del>hesitat</del> palpitate  /&gt;the</l>
+         <l n="13" rend="pencil">  the  /&gt;the fatuously keensighted for ^ things</l>
+         <l n="14" rend="pencil">   that come first</l>
+         <l n="15" rend="pencil"> not–––––wthe non-flapping flight of the</l>
+         <l n="16" rend="pencil"> /&gt;looking not seeing  <unclear resp="hcw">airman</unclear></l>
          <l n="17">             &amp; its seeing</l>
-         <l n="18"> /&gt;below in the (blur) bush   not looking</l>
-         <l n="19">            excused from</l>
-         <l n="20">the <del>fear</del> Rousseau<note type="glossary">Rousseau, Jean-Jacques [1712-1778]. Writer, philosopher, and composer from the city-state Geneva (Switz). He was a major influence on the political philosophy of the Enlightenment and the French Revolution.</note> <del>encounter of canary</del></l>
-         <l n="21">             the secretly</l>
-         <l n="22">&amp; <del>tigre</del> jaguar    caiman   thrilling</l>
-         <l n="23">  or scuffle of peccaries in their own dust</l>
-         <l n="24">  ______</l>
-         <l n="25"> /&gt;(yucca plants for brides tame)</l>
-         <l n="26">the fig         unleashed by the</l>
-         <l n="27"><note>In lines 27-30, MM drafts materials toward the poem "The Frigate Pelican," <title>The Criterion</title> (July 1935).</note>  <del>nor</del> tame armadillo <del>unleashed &amp;</del> tamed</l>
-         <l n="28">       master  /&gt;now trotting behind him as</l>
-         <l n="29">  <del><unclear resp="hcw">loose</unclear>, with no leash on, and pleased</del></l>
-         <l n="30">  as a dog</l>
-         <l n="31">  _______________</l>
-         <l n="32">the mother</l>
-         <l n="33">  iguana with its nest in the roof</l>
-         <l n="34">  uninterfered with by panting motion<hi rend="pencil" xml:id="nb07_04_07_0022_verso_text_line_34_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0022_verso_text_line_01_color_01" to="#nb07_04_07_0022_verso_text_line_34_color_01"/>-->
+         <l n="18" rend="pencil"> /&gt;below in the (blur) bush   not looking</l>
+         <l n="19" rend="pencil">            excused from</l>
+         <l n="20" rend="pencil">the <del>fear</del> Rousseau<note type="glossary">Rousseau, Jean-Jacques [1712-1778]. Writer, philosopher, and composer from the city-state Geneva (Switz). He was a major influence on the political philosophy of the Enlightenment and the French Revolution.</note> <del>encounter of canary</del></l>
+         <l n="21" rend="pencil">             the secretly</l>
+         <l n="22" rend="pencil">&amp; <del>tigre</del> jaguar    caiman   thrilling</l>
+         <l n="23" rend="pencil">  or scuffle of peccaries in their own dust</l>
+         <l n="24" rend="pencil">  ______</l>
+         <l n="25" rend="pencil"> /&gt;(yucca plants for brides tame)</l>
+         <l n="26" rend="pencil">the fig         unleashed by the</l>
+         <l n="27" rend="pencil"><note>In lines 27-30, MM drafts materials toward the poem "The Frigate Pelican," <title>The Criterion</title> (July 1935).</note>  <del>nor</del> tame armadillo <del>unleashed &amp;</del> tamed</l>
+         <l n="28" rend="pencil">       master  /&gt;now trotting behind him as</l>
+         <l n="29" rend="pencil">  <del><unclear resp="hcw">loose</unclear>, with no leash on, and pleased</del></l>
+         <l n="30" rend="pencil">  as a dog</l>
+         <l n="31" rend="pencil">  _______________</l>
+         <l n="32" rend="pencil">the mother</l>
+         <l n="33" rend="pencil">  iguana with its nest in the roof</l>
+         <l n="34" rend="pencil">  uninterfered with by panting motion</l>
 </lg>
       </div>
    </div>
@@ -911,39 +888,36 @@
       <pb facs="nb07_04_07_0023_recto.jpg"/>
       <div type="page" n="r.0023" xml:id="nb07_04_07_0023_recto_text">
       <lg>
-         <l n="01"><!-- IMAGE DECRIPTION: MM cancels lines 21-31 with wavy or straight lines.-->  <hi rend="pencil" xml:id="nb07_04_07_0023_recto_text_line_01_color_01"/><quote xml:id="nb07_04_07_0023_recto_text_line_01_quote_01"/>a greater increase of wind or <note>In lines 01-17, MM quotes from the "Flight (natural)" entry of the <title>Encyclopaedia Britannica</title>. It is unclear which edition MM uses.</note></l>
-         <l n="02"> grter efficiency   of design wld enlarge</l>
-         <l n="03"> his powers, but a moderate rate</l>
-         <l n="04"> wld give an albatross the ability to</l>
-         <l n="05"> roam apparently at will</l>
+         <l n="01" rend="pencil">  <quote corresp="nb07_04_07_0023_recto_l01_quote"/>a greater increase of wind or <note>In lines 01-17, MM quotes from the "Flight (natural)" entry of the <title>Encyclopaedia Britannica</title>. It is unclear which edition MM uses.</note></l>
+         <l n="02" rend="pencil"> grter efficiency   of design wld enlarge</l>
+         <l n="03" rend="pencil"> his powers, but a moderate rate</l>
+         <l n="04" rend="pencil"> wld give an albatross the ability to</l>
+         <l n="05" rend="pencil"> roam apparently at will</l>
          <l n="06"/>
-         <l n="07">  deliberate beat of a heron the</l>
-         <l n="08">  smooth silent flight of an owl</l>
+         <l n="07" rend="pencil">  deliberate beat of a heron the</l>
+         <l n="08" rend="pencil">  smooth silent flight of an owl</l>
          <l n="09"/>
-         <l n="10"> time of a down beat is half as</l>
-         <l n="11"> long as that of an up beat;</l>
+         <l n="10" rend="pencil"> time of a down beat is half as</l>
+         <l n="11" rend="pencil"> long as that of an up beat;</l>
          <l n="12"/>
-         <l n="13"> when a bird has to xtert all his</l>
-         <l n="14"> force   wild swans flapping hard</l>
-         <l n="15"> to get into the air.</l>
-         <l n="16">  They have not yet acquired</l>
-         <l n="17">  much pace–<quote xml:id="nb07_04_07_0023_recto_text_line_17_quote_01"/></l>
-<!--         <span type="quote" from="#nb07_04_07_0023_recto_text_line_01_quote_01" to="#nb07_04_07_0023_recto_text_line_17_quote_01"/>-->
-         <l n="18">           wings like midnight</l>
-         <l n="19">           <del>&amp;</del></l>
-         <l n="20">  appeared so black<del>but</del> so slight</l>
-         <l n="21">  in the hesitant atmosphere</l>
+         <l n="13" rend="pencil"> when a bird has to xtert all his</l>
+         <l n="14" rend="pencil"> force   wild swans flapping hard</l>
+         <l n="15" rend="pencil"> to get into the air.</l>
+         <l n="16" rend="pencil">  They have not yet acquired</l>
+         <l n="17" rend="pencil">  much pace–<quote corresp="#nb07_04_07_0023_recto_l01_quote"/></l>
+         <l n="18" rend="pencil">           wings like midnight</l>
+         <l n="19" rend="pencil">           <del>&amp;</del></l>
+         <l n="20" rend="pencil">  appeared so black<del>but</del> so slight</l>
+         <l n="21" rend="pencil">  in the hesitant atmosphere</l>
          <l n="22"/>
-         <l n="23">  the nimbly   leisurely aeronaut</l>
-         <l n="24">  <note>In lines 24-30, MM drafts materials toward the poem "The Frigate Pelican," <title>The Criterion</title> (July 1935).</note><quote xml:id="nb07_04_07_0023_recto_text_line_25_quote_01"/>the artists wings of no use in the air sustained</l>
-         <l n="25">    him in the water</l>
-         <l n="26">  <bibl>Rasselas 13</bibl>   uniting levity with <note>Johnson, Samuel. "Chapter VI: A Dissertation on the Art of Flying." <title>Rasselas</title>. Philadelphia: Willis P. Hazard, 1856.</note><note type="glossary">Johnson, Samuel [1709-1784]. An important eighteenth-century English writer: a poet, a lexicographer, a translator, a journalist and essayist, a travel writer, a biographer, an editor, and a critic.</note></l>
-         <l n="27">             pinions </l>
-         <l n="28">  strength, he waved his wings</l>
-         <l n="29">  as help to gather air, then leaped out</l>
-         <l n="30">  <del>from his stand,</del> &amp; <del>in an instant</del> drifted<quote xml:id="nb07_04_07_0023_recto_text_line_31_quote_01"/><hi rend="pencil" xml:id="nb07_04_07_0023_recto_text_line_30_color_01"/></l>
-<!--         <span type="quote" from="#nb07_04_07_0023_recto_text_line_24_quote_01" to="#nb07_04_07_0023_recto_text_line_30_quote_01"/>-->
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0023_recto_text_line_01_color_01" to="#nb07_04_07_0023_recto_text_line_30_color_01"/>-->
+         <l n="23" rend="pencil">  the nimbly   leisurely aeronaut</l>
+         <l n="24" rend="pencil">  <note>In lines 24-30, MM drafts materials toward the poem "The Frigate Pelican," <title>The Criterion</title> (July 1935).</note><quote corresp="nb07_04_07_0023_recto_text_l25_quote"/>the artists wings of no use in the air sustained</l>
+         <l n="25" rend="pencil">    him in the water</l>
+         <l n="26" rend="pencil">  <bibl>Rasselas 13</bibl>   uniting levity with <note>Johnson, Samuel. "Chapter VI: A Dissertation on the Art of Flying." <title>Rasselas</title>. Philadelphia: Willis P. Hazard, 1856.</note><note type="glossary">Johnson, Samuel [1709-1784]. An important eighteenth-century English writer: a poet, a lexicographer, a translator, a journalist and essayist, a travel writer, a biographer, an editor, and a critic.</note></l>
+         <l n="27" rend="pencil">             pinions </l>
+         <l n="28" rend="pencil">  strength, he waved his wings</l>
+         <l n="29" rend="pencil">  as help to gather air, then leaped out</l>
+         <l n="30" rend="pencil">  <del>from his stand,</del> &amp; <del>in an instant</del> drifted<quote corresp="#nb07_04_07_0023_recto_text_l25_quote"/></l>
 </lg>
       </div>
    </div>
@@ -951,39 +925,37 @@
       <pb facs="nb07_04_07_0024_verso.jpg"/>
       <div type="page" n="v.0024" xml:id="nb07_04_07_0024_verso_text">
       <lg>
-         <l n="01"><!-- IMAGE DECRIPTION: MM cancels nearly all text with wavy or straight lines. The right side of lines 06-11 are circled by a left bracket.--> /&gt;<hi rend="pencil" xml:id="nb07_04_07_0024_verso_text_line_01_color_01"/><note>In lines 01-31, MM drafts materials toward the poem "The Frigate Pelican," <title>The Criterion</title> (July 1935).</note><quote xml:id="nb07_04_07_0024_verso_text_line_01_quote_01"/>engines of use &amp; of recreation</l>
-         <l n="02">    uniting levity w strength<quote xml:id="nb07_04_07_0024_verso_text_line_02_quote_01"/><note> Johnson, Samuel. "Chapter VI: A Dissertation on the Art of Flying." <title>Rasselas</title>. Philadelphia: Willis P. Hazard, 1856.</note> </l>
-<!--         <span type="quote" from="#nb07_04_07_0024_verso_text_line_01_quote_01" to="#nb07_04_07_0024_verso_text_line_02_quote_01"/>-->
-         <l n="03">||</l>
-         <l n="04"> /&gt;unsluggish animal</l>
-         <l n="05">        the bird</l>
-         <l n="06"> /&gt;<del>a bird of prey</del> of persecuting</l>
-         <l n="07">  pleasure       persistent bird</l>
-         <l n="08">of <del>prowess</del>, not of prey–tho not a bird</l>
-         <l n="09">             of prey–</l>
-         <l n="10">  <del>his</del> slanting black</l>
-         <l n="11">         wide as a bow string</l>
-         <l n="12"><del>nor are</del> </l>
-         <l n="13">  Theirs, <del>are not</del> wasted hours–a</l>
-         <l n="14">        cheerfully thought</l>
-         <l n="15">   merry-go-round</l>
-         <l n="16">    down shaking the ground</l>
-         <l n="17">   <del>Creeping</del> revolving on the ground</l>
-         <l n="18">   with <del>calliope</del> a <del>steam-engine like</del></l>
-         <l n="19">  a calliope like</l>
-         <l n="20">    to the unfluctuating steam pianos sound</l>
-         <l n="21">      soprano bellowing of the automatic</l>
-         <l n="22">      rusty</l>
-         <l n="23">   brownish black glossed w green</l>
-         <l n="24">    floating from the marine</l>
+         <l n="01" rend="pencil"> /&gt;<note>In lines 01-31, MM drafts materials toward the poem "The Frigate Pelican," <title>The Criterion</title> (July 1935).</note><quote corresp="nb07_04_07_0024_verso_text_l01_quote"/>engines of use &amp; of recreation</l>
+         <l n="02" rend="pencil">    uniting levity w strength<quote corresp="#nb07_04_07_0024_verso_text_l01_quote"/><note> Johnson, Samuel. "Chapter VI: A Dissertation on the Art of Flying." <title>Rasselas</title>. Philadelphia: Willis P. Hazard, 1856.</note> </l>
+         <l n="03" rend="pencil">||</l>
+         <l n="04" rend="pencil"> /&gt;unsluggish animal</l>
+         <l n="05" rend="pencil">        the bird</l>
+         <l n="06" rend="pencil"> /&gt;<del>a bird of prey</del> of persecuting</l>
+         <l n="07" rend="pencil">  pleasure       persistent bird</l>
+         <l n="08" rend="pencil">of <del>prowess</del>, not of prey–tho not a bird</l>
+         <l n="09" rend="pencil">             of prey–</l>
+         <l n="10" rend="pencil">  <del>his</del> slanting black</l>
+         <l n="11" rend="pencil">         wide as a bow string</l>
+         <l n="12" rend="pencil"><del>nor are</del> </l>
+         <l n="13" rend="pencil">  Theirs, <del>are not</del> wasted hours–a</l>
+         <l n="14" rend="pencil">        cheerfully thought</l>
+         <l n="15" rend="pencil">   merry-go-round</l>
+         <l n="16" rend="pencil">    down shaking the ground</l>
+         <l n="17" rend="pencil">   <del>Creeping</del> revolving on the ground</l>
+         <l n="18" rend="pencil">   with <del>calliope</del> a <del>steam-engine like</del></l>
+         <l n="19" rend="pencil">  a calliope like</l>
+         <l n="20" rend="pencil">    to the unfluctuating steam pianos sound</l>
+         <l n="21" rend="pencil">      soprano bellowing of the automatic</l>
+         <l n="22" rend="pencil">      rusty</l>
+         <l n="23" rend="pencil">   brownish black glossed w green</l>
+         <l n="24" rend="pencil">    floating from the marine</l>
          <l n="25"/>
-         <l n="26">  laboratory and to<del>wards</del> it again</l>
+         <l n="26" rend="pencil">  laboratory and to<del>wards</del> it again</l>
          <l n="27"/>
-         <l n="28">          There</l>
-         <l n="29">         everywhere</l>
-         <l n="30">     a marvel of speed &amp; of grace on</l>
-         <l n="31">    the wing<hi rend="pencil" xml:id="nb07_04_07_0024_verso_text_line_31_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0024_verso_text_line_01_color_01" to="#nb07_04_07_0024_verso_text_line_31_color_01"/>-->
+         <l n="28" rend="pencil">          There</l>
+         <l n="29" rend="pencil">         everywhere</l>
+         <l n="30" rend="pencil">     a marvel of speed &amp; of grace on</l>
+         <l n="31" rend="pencil">    the wing</l>
 </lg>
       </div>
    </div>
@@ -991,11 +963,10 @@
       <pb facs="nb07_04_07_0025_recto.jpg"/>
       <div type="page" n="r.0025" xml:id="nb07_04_07_0025_recto_text">
       <lg>
-         <l n="01"><hi rend="pencil" xml:id="nb07_04_07_0025_recto_text_line_01_color_01"/>    break</l>
-         <l n="02">   ____________       off</l>
-         <l n="03">2 concrete toads</l>
-         <l n="04"> master &amp;  pleased as a dog<hi rend="pencil" xml:id="nb07_04_07_0025_recto_text_line_04_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0025_recto_text_line_01_color_01" to="#nb07_04_07_0025_recto_text_line_04_color_01"/>-->
+         <l n="01" rend="pencil">    break</l>
+         <l n="02" rend="pencil">   ____________       off</l>
+         <l n="03" rend="pencil">2 concrete toads</l>
+         <l n="04" rend="pencil"> master &amp;  pleased as a dog</l>
 </lg>
       </div>
    </div>
@@ -1015,8 +986,7 @@
       <div type="page" n="r.0027" xml:id="nb07_04_07_0027_recto_text">
       <lg>
          <l n="01">  <del>like <gap extent="2"/> with</del> Shakespeares   <unclear resp="nikolauswasmoen">vance</unclear></l>
-         <l n="02"><hi rend="pencil" xml:id="nb07_04_07_0027_recto_text_line_02_color_01"/>the <del>oldfashioned</del> shrubtree with its<hi rend="pencil" xml:id="nb07_04_07_0027_recto_text_line_02_color_02"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0027_recto_text_line_02_color_01" to="#nb07_04_07_0027_recto_text_line_02_color_02"/>-->
+         <l n="02" rend="pencil">the <del>oldfashioned</del> shrubtree with its</l>
 </lg>
       </div>
    </div>
@@ -1024,10 +994,10 @@
       <pb facs="nb07_04_07_0028_verso.jpg"/>
       <div type="page" n="v.0028" xml:id="nb07_04_07_0028_verso_text">
       <lg>
-         <l n="01"><hi rend="pencil" xml:id="nb07_04_07_0028_verso_text_line_01_color_01"/><note>In line 01, MM drafts materialtoward the poem first published as "Nine Nectarines and Other Porcelain," <title>Poetry</title> (November 1934).</note>all peaches on a nectarine   ––</l>
+         <l n="01" rend="pencil"><note>In line 01, MM drafts materialtoward the poem first published as "Nine Nectarines and Other Porcelain," <title>Poetry</title> (November 1934).</note>all peaches on a nectarine   ––</l>
          <l n="02"/>
-         <l n="03">   <hi rend="pencil" xml:id="nb07_04_07_0028_verso_text_line_03_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0028_verso_text_line_01_color_01" to="#nb07_04_07_0028_verso_text_line_03_color_01"/>-->
+         <l n="03" rend="pencil">   </l>
+
 </lg>
       </div>
    </div>
@@ -1035,13 +1005,11 @@
       <pb facs="nb07_04_07_0029_verso.jpg"/>
       <div type="page" n="v.0029" xml:id="nb07_04_07_0029_verso_text">
       <lg>
-         <l n="01">           <hi rend="pencil" xml:id="nb07_04_07_0029_verso_text_line_01_color_01"/><del>
-               <gap extent="4"/>
-            </del> </l>
-         <l n="02">apricots, salmon &amp; golden</l>
-         <l n="03">       yellow</l>
-         <l n="02">  <unclear resp="nikolauswasmoen">with streaks of blush</unclear><hi rend="pencil" xml:id="nb07_04_07_0029_verso_text_line_04_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0029_verso_text_line_01_color_01" to="#nb07_04_07_0029_verso_text_line_04_color_01"/>-->
+         <l n="01" rend="pencil">           <del><gap extent="4"/></del> </l>
+         <l n="02" rend="pencil">apricots, salmon &amp; golden</l>
+         <l n="03" rend="pencil">       yellow</l>
+         <l n="04" rend="pencil">  <unclear resp="nikolauswasmoen">with streaks of blush</unclear></l>
+
 </lg>
       </div>
    </div>
@@ -1049,10 +1017,9 @@
       <pb facs="nb07_04_07_0030_recto.jpg"/>
       <div type="page" n="r.0030" xml:id="nb07_04_07_0030_recto_text">
       <lg>
-         <l n="01"><note>In an earlier photocopy of this fragment made by Patricia Willis an additional line of text in pencil was visible. This line, no longer present in the digital facsimile image of this page, read "not knowing how to go."</note><hi rend="pencil" xml:id="nb07_04_07_0030_recto_text_line_01_color_02"/> <unclear resp="cristannemiller">amon</unclear>g <del/> <unclear resp="nikolauswasmoen">doe<del>s not you</del></unclear></l>
-         <l n="02"> <!-- IMAGE DESCRIPTION: In the fragment photocopied by Pat Willis but not digitally scanned a second line in pencil appears: "not knowing how to go."  Is this below a page break, or would there be some reason it wasn't scanned? CM --><del>and thanks the man</del></l>
-         <l n="03">        _______ <hi rend="pencil" xml:id="nb07_04_07_0030_recto_text_line_03_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0030_recto_text_line_01_color_01" to="#nb07_04_07_0030_recto_text_line_02_color_01"/>-->
+         <l n="01" rend="pencil"><note>In an earlier photocopy of this fragment made by Patricia Willis an additional line of text in pencil was visible. This line, no longer present in the digital facsimile image of this page, read "not knowing how to go."</note> <unclear resp="cristannemiller">amon</unclear>g <del/> <unclear resp="nikolauswasmoen">doe<del>s not you</del></unclear></l>
+         <l n="02" rend="pencil"> <del>and thanks the man</del></l>
+         <l n="03" rend="pencil">        _______ </l>
 </lg>
       </div>
    </div>
@@ -1060,8 +1027,7 @@
       <pb facs="nb07_04_07_0031_recto.jpg"/>
       <div type="page" n="r.0031" xml:id="nb07_04_07_0031_recto_text">
       <lg>
-         <l n="01"><!-- IMAGE DECRIPTION: MM cancels nearly all text with wavy or straight lines.-->____       <hi rend="pencil" xml:id="nb07_04_07_0031_recto_text_line_01_color_01"/><del>but</del><hi rend="pencil" xml:id="nb07_04_07_0031_recto_text_line_01_color_02"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0031_recto_text_line_01_color_01" to="#nb07_04_07_0031_recto_text_line_01_color_02"/>-->
+         <l n="01">____       <hi rend="pencil"><del>but</del></hi></l>
          <l n="02">I am not "quiet." I am morose–</l>
          <l n="03">a violent leopard with a pain in <del>a part</del></l>
          <l n="04">        <hi rend="pencil">thrown</hi></l>
@@ -1072,21 +1038,20 @@
          <l n="09"> for looking very nice–</l>
          <l n="10"/>
          <l n="11">I am not prepared for modern romance</l>
-         <l n="12">       <hi rend="pencil" xml:id="nb07_04_07_0031_recto_text_line_12_color_01"/>who has</l>
-         <l n="13">      <del>of that has</del>  can </l>
-         <l n="14">a man  <del>with</del> power <del>should</del> be <del>more</del></l>
-         <l n="15">       as</l>
-         <l n="16">humble <del>than</del> a man who has</l>
-         <l n="17">none &amp; is crazed with the thought</l>
-         <l n="18">of it can't.</l>
-         <l n="19">          Should have<del>a</del> humility</l>
-         <l n="20">      one </l>
-         <l n="21">That <del>a man</del> who is crazed with thought</l>
-         <l n="22">of acquiring such power could not</l>
-         <l n="23">       not</l>
-         <l n="24">Ezra he has trained that younger fellow</l>
-         <l n="25">  ____________________________ well<hi rend="pencil" xml:id="nb07_04_07_0031_recto_text_line_25_color_01"/><note>MM’s inserted “not” indicates that she thinks Pound “has [not] trained that younger fellow” well. In the early to mid-1930s Ezra Pound repeatedly wrote MM urging her to meet Louis Zukofsky and read his work. In a letter of 18 January 1933 she says to Pound, “Louis Zukofsky does not write very well in prose and his verse is fluttered; but he has a heart for the thing and in a measure profits by the experience of others” (<title>Selected Letters</title> 290).</note><note type="glossary">Zukofsky, Louis [1904-1978]. An American poet notable for being one of the founders of the Objectivist group of poets. He was a prot<hi rend="accent aigu">e</hi>g<hi rend="accent aigu">e</hi> of Ezra Pound.</note></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0031_recto_text_line_12_color_01" to="#nb07_04_07_0031_recto_text_line_25_color_01"/>-->
+         <l n="12" rend="pencil">       who has</l>
+         <l n="13" rend="pencil">      <del>of that has</del>  can </l>
+         <l n="14" rend="pencil">a man  <del>with</del> power <del>should</del> be <del>more</del></l>
+         <l n="15" rend="pencil">       as</l>
+         <l n="16" rend="pencil">humble <del>than</del> a man who has</l>
+         <l n="17" rend="pencil">none &amp; is crazed with the thought</l>
+         <l n="18" rend="pencil">of it can't.</l>
+         <l n="19" rend="pencil">          Should have<del>a</del> humility</l>
+         <l n="20" rend="pencil">      one </l>
+         <l n="21" rend="pencil">That <del>a man</del> who is crazed with thought</l>
+         <l n="22" rend="pencil">of acquiring such power could not</l>
+         <l n="23" rend="pencil">       not</l>
+         <l n="24" rend="pencil">Ezra he has trained that younger fellow</l>
+         <l n="25" rend="pencil">  ____________________________ well<note>MM’s inserted “not” indicates that she thinks Pound “has [not] trained that younger fellow” well. In the early to mid-1930s Ezra Pound repeatedly wrote MM urging her to meet Louis Zukofsky and read his work. In a letter of 18 January 1933 she says to Pound, “Louis Zukofsky does not write very well in prose and his verse is fluttered; but he has a heart for the thing and in a measure profits by the experience of others” (<title>Selected Letters</title> 290).</note><note type="glossary">Zukofsky, Louis [1904-1978]. An American poet notable for being one of the founders of the Objectivist group of poets. He was a prot<hi rend="accent aigu">e</hi>g<hi rend="accent aigu">e</hi> of Ezra Pound.</note></l>
          <l n="26">In false attitudes of joy.</l>
          <l n="27">  __________</l>
          <l n="28"> on a mouse gray day–</l>
@@ -1105,9 +1070,8 @@
       <pb facs="nb07_04_07_0032_verso.jpg"/>
       <div type="page" n="v.0032" xml:id="nb07_04_07_0032_verso_text">
       <lg>
-         <l n="01"> <!-- IMAGE DECRIPTION: MM cancels nearly all text on this page with wavy or straight lines. The syllable "lay" in "delay" is circled.--><note>In lines 34-36, MM drafts toward the poem "Half Deity," <title>Direction</title> (January-March 1935).</note>  and fleetingly achieve a style.</l>
-         <l n="02"><hi rend="pencil" xml:id="nb07_04_07_0032_verso_text_line_02_color_01"/>founded <del>confused by</del> happy feelings when alone<hi rend="pencil" xml:id="nb07_04_07_0032_verso_text_line_02_color_02"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0032_verso_text_line_02_color_01" to="#nb07_04_07_0032_verso_text_line_02_color_02"/>-->
+         <l n="01"> <note>In lines 34-36, MM drafts toward the poem "Half Deity," <title>Direction</title> (January-March 1935).</note>  and fleetingly achieve a style.</l>
+         <l n="02" rend="pencil">founded <del>confused by</del> happy feelings when alone</l>
          <l n="03">  a bee working too late, had to spend</l>
          <l n="04">  the night in a flower–<hi rend="pencil">the fruit of–</hi></l>
          <l n="05">            on the next flower </l>
@@ -1122,30 +1086,26 @@
          <l n="14">             that he must    out</l>
          <l n="15"> till its so dark,       overnight</l>
          <l n="16"/>
-         <l n="17">  <hi rend="pencil" xml:id="nb07_04_07_0032_verso_text_line_17_color_01"/>How can one do the decent thing</l>
-         <l n="18">  and yet not be too pleasing</l>
-         <l n="19">false </l>
-         <l n="20"> comforting hallucination</l>
-         <l n="21">            Sane</l>
-         <l n="22"> <del>unsqueamish</del>,  meddlesome Aristophane<hi rend="pencil" xml:id="nb07_04_07_0032_verso_text_line_22_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0032_verso_text_line_17_color_01" to="#nb07_04_07_0032_verso_text_line_22_color_01"/>-->
+         <l n="17" rend="pencil">  <hi rend="pencil" xml:id="nb07_04_07_0032_verso_text_line_17_color_01"/>How can one do the decent thing</l>
+         <l n="18" rend="pencil">  and yet not be too pleasing</l>
+         <l n="19" rend="pencil">false </l>
+         <l n="20" rend="pencil"> comforting hallucination</l>
+         <l n="21" rend="pencil">            Sane</l>
+         <l n="22" rend="pencil"> <del>unsqueamish</del>,  meddlesome Aristophane</l>
          <l n="23">   disrespectful </l>
          <l n="24"> <hi rend="pencil">Its not just spots–</hi></l>
          <l n="25"> The mailed catfish <del>with dark blue</del></l>
          <l n="26">    <hi rend="pencil">fr the amazon</hi><space extent=" 40"/>   <del>mottles</del></l>
-         <l n="27"><hi rend="pencil" xml:id="nb07_04_07_0032_verso_text_line_27_color_01"/>heavily mottled with blue(ish) spots</l>
-         <l n="28">     <bibl xml:id="nb07_04_07_0032_verso_text_line_28_source_01"/>NY Sun   Nov 3 1934   CW Coates</l>
-         <l n="29">         Tropical Fish &amp; Home Aquarium<bibl xml:id="nb07_04_07_0032_verso_text_line_29_source_01"/><hi rend="pencil" xml:id="nb07_04_07_0032_verso_text_line_29_color_01"/><note>Coates, C.W. "Tropical Fish and Home Aquarium." <title>New York Sun</title> (3 January 1934).</note></l>
-<!--         <span type="source" from="#nb07_04_07_0032_verso_text_line_28_source_01" to="#nb07_04_07_0032_verso_text_line_29_source_01"/>-->
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0032_verso_text_line_27_color_01" to="#nb07_04_07_0032_verso_text_line_29_color_01"/>-->
+         <l n="27" rend="pencil">heavily mottled with blue(ish) spots</l>
+         <l n="28" rend="pencil">     <bibl corresp="nb07_04_07_0032_verso_text_l28_source"/>NY Sun   Nov 3 1934   CW Coates</l>
+         <l n="29" rend="pencil">         Tropical Fish &amp; Home Aquarium<bibl corresp="#nb07_04_07_0032_verso_text_l28_source"/><note>Coates, C.W. "Tropical Fish and Home Aquarium." <title>New York Sun</title> (3 January 1934).</note></l>
          <l n="30"/>
          <l n="31"> Strength perhaps is best defined</l>
          <l n="32">  by strangers    not <del>by</del> a friend<del>s</del></l>
          <l n="33">     by, shall one say, the wind.</l>
          <l n="34">  <del>Oh</del> O <del>giraffe-legged</del> undisciplined <hi rend="pencil">stilt legged</hi></l>
          <l n="35"><unclear resp="hcw"><del>brought erist </del></unclear> ecru-legged scallop-veined–</l>
-         <l n="36">  <hi rend="pencil" xml:id="nb07_04_07_0032_verso_text_line_36_color_01"/><unclear resp="hcw"> stuffed</unclear>Lemons<hi rend="pencil" xml:id="nb07_04_07_0032_verso_text_line_36_color_02"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0032_verso_text_line_36_color_01" to="#nb07_04_07_0032_verso_text_line_36_color_02"/>-->
+         <l n="36" rend="pencil">  <unclear resp="hcw"> stuffed</unclear>Lemons</l>
 </lg>
       </div>
    </div>
@@ -1153,9 +1113,8 @@
       <pb facs="nb07_04_07_0033_recto.jpg"/>
       <div type="page" n="r.0033" xml:id="nb07_04_07_0033_recto_text">
       <lg>
-         <l n="01"><note>In lines 01-03, MM drafts toward the poem "Half Deity," <title>Direction</title> (January-March 1935).</note>    <hi rend="pencil" xml:id="nb07_04_07_0033_recto_text_line_01_color_01"/><del>ante</del> feelers with periods at the end, </l>
-         <l n="02">                            big<hi rend="pencil" xml:id="nb07_04_07_0033_recto_text_line_02_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0033_recto_text_line_01_color_01" to="#nb07_04_07_0033_recto_text_line_02_color_01"/>-->
+         <l n="01" rend="pencil"><note>In lines 01-03, MM drafts toward the poem "Half Deity," <title>Direction</title> (January-March 1935).</note>    <del>ante</del> feelers with periods at the end, </l>
+         <l n="02" rend="pencil">                            big</l>
          <l n="03">Zebra, with bent feelers porcupined</l>
          </lg>
       </div>
@@ -1164,10 +1123,9 @@
       <pb facs="nb07_04_07_0034_verso.jpg"/>
       <div type="page" n="v.0034" xml:id="nb07_04_07_0034_verso_text">
       <lg>
-         <l n="01">  <hi rend="pencil" xml:id="nb07_04_07_0034_verso_text_line_01_color_01"/>it turns its eye   <unclear resp="hcw">envie bewitchening</unclear></l>
-         <l n="02">  <del>but</del> does not feel the requisite </l>
-         <l n="03"> ______<hi rend="pencil" xml:id="nb07_04_07_0034_verso_text_line_03_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0034_verso_text_line_01_color_01" to="#nb07_04_07_0034_verso_text_line_03_color_01"/>-->
+         <l n="01" rend="pencil">  it turns its eye   <unclear resp="hcw">envie bewitchening</unclear></l>
+         <l n="02" rend="pencil">  <del>but</del> does not feel the requisite </l>
+         <l n="03" rend="pencil"> ______</l>
 </lg>
       </div>
    </div>
@@ -1175,43 +1133,41 @@
       <pb facs="nb07_04_07_0035_recto.jpg"/>
       <div type="page" n="r.0035" xml:id="nb07_04_07_0035_recto_text">
       <lg>
-         <l n="01"><!-- IMAGE DECRIPTION: MM cancels lines 1-8 with a wavy line.--><note>In lines 01-08, MM drafts toward the poem first published as "Pigeons," <title>Poetry</title> (November 1935); in lines 17-35, MM drafts toward the poem "Walking-sticks and Paperweights and Watermarks," <title>Poetry</title> (November 1936).</note> <hi rend="pencil" xml:id="nb07_04_07_0035_recto_text_line_01_color_01"/><del>before Solomon</del>  older than Solomon</l>
-         <l n="02">   than the ancient greeks the pigeon</l>
-         <l n="03">  family old &amp; honorable</l>
-         <l n="04">           proud     famous</l>
-         <l n="05"> <del>of race</del> older than the greeks, than Solomon,</l>
-         <l n="06"> <del>the homing</del> the pigeon– <del>modest bird</del> one</l>
-         <l n="07">                   family– <del>modest one</del></l>
-         <l n="08">                    w/ a pale seam of <unclear resp="hcw">ending</unclear> the 2 halves<hi rend="pencil" xml:id="nb07_04_07_0035_recto_text_line_08_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0035_recto_text_line_01_color_01" to="#nb07_04_07_0035_recto_text_line_08_color_01"/>-->
+         <l n="01" rend="pencil"><note>In lines 01-08, MM drafts toward the poem first published as "Pigeons," <title>Poetry</title> (November 1935); in lines 17-35, MM drafts toward the poem "Walking-sticks and Paperweights and Watermarks," <title>Poetry</title> (November 1936).</note> <del>before Solomon</del>  older than Solomon</l>
+         <l n="02" rend="pencil">   than the ancient greeks the pigeon</l>
+         <l n="03" rend="pencil">  family old &amp; honorable</l>
+         <l n="04" rend="pencil">           proud     famous</l>
+         <l n="05" rend="pencil"> <del>of race</del> older than the greeks, than Solomon,</l>
+         <l n="06" rend="pencil"> <del>the homing</del> the pigeon– <del>modest bird</del> one</l>
+         <l n="07" rend="pencil">                   family– <del>modest one</del></l>
+         <l n="08" rend="pencil">                    w/ a pale seam of <unclear resp="hcw">ending</unclear> the 2 halves</l>
          <l n="09">     <hi rend="blue">together with</hi> <hi rend="pencil">that terrible state of the soul &amp;</hi></l>
-         <l n="10">     <hi rend="blue">together with</hi> <hi rend="pencil" xml:id="nb07_04_07_0035_recto_text_line_10_color_01"/>terrorful that is not characterized</l>
-         <l n="11">         ___________________          thus.</l>
-         <l n="12">          unusual wedding gifts — w songs</l>
-         <l n="13">  a series of           <del>&amp;</del> burnished</l>
-         <l n="14"> <del>a</del> rock crystal penguin's with divided</l>
-         <l n="15"> toes_crow's feet, alas.             gifts</l>
+         <l n="10" rend="pencil">     <hi rend="blue">together with</hi> terrorful that is not characterized</l>
+         <l n="11" rend="pencil">         ___________________          thus.</l>
+         <l n="12" rend="pencil">          unusual wedding gifts — w songs</l>
+         <l n="13" rend="pencil">  a series of           <del>&amp;</del> burnished</l>
+         <l n="14" rend="pencil"> <del>a</del> rock crystal penguin's with divided</l>
+         <l n="15" rend="pencil"> toes_crow's feet, alas.             gifts</l>
          <l n="16"/>
-         <l n="17"> walking sticks &amp; paperweights and</l>
-         <l n="18"> watermarks</l>
-         <l n="19"> <del>and a</del> one of the rarest of miniatures</l>
-         <l n="20">of a man wider above, cheek to cheek than up above</l>
-         <l n="21">   Henry <del>the</del> VIII in its original Ivory Box</l>
-         <l n="22"> carved w the Tudor Rose–to Anne</l>
-         <l n="23"> of Cleves in 1539</l>
-         <l n="24">  ____________</l>
-         <l n="25">      the self itself the most unusual of all</l>
-         <l n="26">  ____________________________</l>
-         <l n="27">It is hard to be pitiable through the illusory</l>
-         <l n="28"> sense of being superior</l>
-         <l n="29">    _____________</l>
-         <l n="30"> Mr Miss &amp; <hi rend="underline">Mrs.</hi></l>
-         <l n="31">  <hi rend="underline">This is</hi> affectation</l>
-         <l n="32"> Judicious young genius</l>
-         <l n="33"> Selecting out for me a short stemmed rose</l>
-         <l n="34">              or two to give</l>
-         <l n="35">with sawtooth edges on the leaf<hi rend="pencil" xml:id="nb07_04_07_0035_recto_text_line_35_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0035_recto_text_line_10_color_01" to="#nb07_04_07_0035_recto_text_line_35_color_01"/>-->
+         <l n="17" rend="pencil"> walking sticks &amp; paperweights and</l>
+         <l n="18" rend="pencil"> watermarks</l>
+         <l n="19" rend="pencil"> <del>and a</del> one of the rarest of miniatures</l>
+         <l n="20" rend="pencil">of a man wider above, cheek to cheek than up above</l>
+         <l n="21" rend="pencil">   Henry <del>the</del> VIII in its original Ivory Box</l>
+         <l n="22" rend="pencil"> carved w the Tudor Rose–to Anne</l>
+         <l n="23" rend="pencil"> of Cleves in 1539</l>
+         <l n="24" rend="pencil">  ____________</l>
+         <l n="25" rend="pencil">      the self itself the most unusual of all</l>
+         <l n="26" rend="pencil">  ____________________________</l>
+         <l n="27" rend="pencil">It is hard to be pitiable through the illusory</l>
+         <l n="28" rend="pencil"> sense of being superior</l>
+         <l n="29" rend="pencil">    _____________</l>
+         <l n="30" rend="pencil"> Mr Miss &amp; <hi rend="underline">Mrs.</hi></l>
+         <l n="31" rend="pencil">  <hi rend="underline">This is</hi> affectation</l>
+         <l n="32" rend="pencil"> Judicious young genius</l>
+         <l n="33" rend="pencil"> Selecting out for me a short stemmed rose</l>
+         <l n="34" rend="pencil">              or two to give</l>
+         <l n="35" rend="pencil">with sawtooth edges on the leaf</l>
 </lg>
       </div>
    </div>
@@ -1219,37 +1175,35 @@
       <pb facs="nb07_04_07_0036_verso.jpg"/>
       <div type="page" n="v.0036" xml:id="nb07_04_07_0036_verso_text">
       <lg>
-         <l n="01"><!-- IMAGE DECRIPTION: MM cancels lines 1-6 and 19-25 with wavy lines. The word "one" in line 26 is circled.--><note>In lines 01-29, MM drafts toward the poem first published as "Smooth Gnarled Crepe Myrtle," <title>New English Weekly</title> (17 October 1935).</note><hi rend="pencil" xml:id="nb07_04_07_0036_verso_text_line_01_color_01"/>a blue Battersea <del>boxes</del> box thimble size</l>
-         <l n="02"> entitled <del>formed</del> (joined in friendship</l>
-         <l n="03">  crowned by love) 2 (on a pale blue) etc</l>
-         <l n="04">  in fine writing as if scratched by a birds claw</l>
-         <l n="05"> the wrist clamped in my hand</l>
-         <l n="06"> eyes reverie-ful   clasped by a hand</l>
-         <l n="07">(remote impersonal) like a recumbent</l>
-         <l n="08"> (crossed wrists)     effigy</l>
-         <l n="09">  <del>imposs</del> w high inability not to love that</l>
-         <l n="10"><del>that which</del></l>
-         <l n="11">     which it is <del>not</del> a strain to be worthy of</l>
-         <l n="12"><del>those whose which</del></l>
-         <l n="13">  _________________________</l>
-         <l n="14"> the shattered javelin of the nature</l>
-         <l n="15">            thwarted</l>
-         <l n="16">        ___________</l>
-         <l n="17">         advancing     <del>heavy</del></l>
-         <l n="18">the giraffe <del>treading</del>, to slow <del>chords</del></l>
-         <l n="19">     __________________  drumbeats</l>
-         <l n="20"> the legendary white eared nightingale</l>
-         <l n="21"> garbed in black velvet trimmed</l>
-         <l n="22">                white &amp; &amp;</l>
-         <l n="23"> <del>w from</del> w saffron <del>tones</del> &amp; brown</l>
-         <l n="24">       rose-yellow <del>tones</del><hi rend="pencil" xml:id="nb07_04_07_0036_verso_text_line_24_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0036_verso_text_line_01_color_01" to="#nb07_04_07_0036_verso_text_line_24_color_01"/>-->
-         <l n="25">            <hi rend="blue">s</hi></l>
-         <l n="26"><hi rend="blue">That only </hi><hi rend="pencil" xml:id="nb07_04_07_0036_verso_text_line_26_color_01"/>singing in Sanskrit</l>
-         <l n="27">   <del>the</del> &amp; most melodious? Not he</l>
+         <l n="01" rend="pencil"><note>In lines 01-29, MM drafts toward the poem first published as "Smooth Gnarled Crepe Myrtle," <title>New English Weekly</title> (17 October 1935).</note>a blue Battersea <del>boxes</del> box thimble size</l>
+         <l n="02" rend="pencil"> entitled <del>formed</del> (joined in friendship</l>
+         <l n="03" rend="pencil">  crowned by love) 2 (on a pale blue) etc</l>
+         <l n="04" rend="pencil">  in fine writing as if scratched by a birds claw</l>
+         <l n="05" rend="pencil"> the wrist clamped in my hand</l>
+         <l n="06" rend="pencil"> eyes reverie-ful   clasped by a hand</l>
+         <l n="07" rend="pencil">(remote impersonal) like a recumbent</l>
+         <l n="08" rend="pencil"> (crossed wrists)     effigy</l>
+         <l n="09" rend="pencil">  <del>imposs</del> w high inability not to love that</l>
+         <l n="10" rend="pencil"><del>that which</del></l>
+         <l n="11" rend="pencil">     which it is <del>not</del> a strain to be worthy of</l>
+         <l n="12" rend="pencil"><del>those whose which</del></l>
+         <l n="13" rend="pencil">  _________________________</l>
+         <l n="14" rend="pencil"> the shattered javelin of the nature</l>
+         <l n="15" rend="pencil">            thwarted</l>
+         <l n="16" rend="pencil">        ___________</l>
+         <l n="17" rend="pencil">         advancing     <del>heavy</del></l>
+         <l n="18" rend="pencil">the giraffe <del>treading</del>, to slow <del>chords</del></l>
+         <l n="19" rend="pencil">     __________________  drumbeats</l>
+         <l n="20" rend="pencil"> the legendary white eared nightingale</l>
+         <l n="21" rend="pencil"> garbed in black velvet trimmed</l>
+         <l n="22" rend="pencil">                white &amp; &amp;</l>
+         <l n="23" rend="pencil"> <del>w from</del> w saffron <del>tones</del> &amp; brown</l>
+         <l n="24" rend="pencil">       rose-yellow <del>tones</del></l>
+         <l n="25" rend="pencil">            <hi rend="blue">s</hi></l>
+         <l n="26" rend="pencil"><hi rend="blue">That only </hi>singing in Sanskrit</l>
+         <l n="27" rend="pencil">   <del>the</del> &amp; most melodious? Not he</l>
          <l n="28"/>
-         <l n="29">  the Indian one w underparts of crimson<hi rend="pencil" xml:id="nb07_04_07_0036_verso_text_line_29_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0036_verso_text_line_24_color_01" to="#nb07_04_07_0036_verso_text_line_29_color_01"/>-->
+         <l n="29" rend="pencil">  the Indian one w underparts of crimson</l>
 </lg>
       </div>
    </div>
@@ -1257,80 +1211,73 @@
       <pb facs="nb07_04_07_0037_recto.jpg"/>
       <div type="page" n="r.0037" xml:id="nb07_04_07_0037_recto_text">
       <lg>
-         <l n="01"><!-- IMAGE DECRIPTION: MM cancels lines 1-11 with wavy lines. The syllables "Mun" and "un" are circled in lines 5 and 7 respectively.--><note>In lines 01-32, MM drafts toward the poem "Virginia Britannia," <title>Life and Letters Today</title> (December 1935).</note> <hi rend="pencil" xml:id="nb07_04_07_0037_recto_text_line_01_color_01"/>the piece of verse–</l>
-         <l n="02"> the clanging clock</l>
-         <l n="03">    ____________</l>
-         <l n="04">             straw </l>
-         <l n="05"> the mundane wire</l>
-         <l n="06">   the patch of sun</l>
-         <l n="07"> <space extent=" 15"/>the <del>bush</del> under the bush</l>
-         <l n="08">     <space extent=" 40"/><hi rend="underline">nest</hi></l>
-         <l n="09">  _____________________</l>
-         <l n="10">   air            Werewocomoco</l>
-         <l n="11">  sweet down there</l>
+         <l n="01" rend="pencil"><note>In lines 01-32, MM drafts toward the poem "Virginia Britannia," <title>Life and Letters Today</title> (December 1935).</note> <hi rend="pencil" xml:id="nb07_04_07_0037_recto_text_line_01_color_01"/>the piece of verse–</l>
+         <l n="02" rend="pencil"> the clanging clock</l>
+         <l n="03" rend="pencil">    ____________</l>
+         <l n="04" rend="pencil">             straw </l>
+         <l n="05" rend="pencil"> the mundane wire</l>
+         <l n="06" rend="pencil">   the patch of sun</l>
+         <l n="07" rend="pencil">  the <del>bush</del> under the bush</l>
+         <l n="08" rend="pencil">       <hi rend="underline">nest</hi></l>
+         <l n="09" rend="pencil">  _____________________</l>
+         <l n="10" rend="pencil">   air            Werewocomoco</l>
+         <l n="11" rend="pencil">  sweet down there</l>
          <l n="12"/>
-         <l n="13"><quote xml:id="nb07_04_07_0037_recto_text_line_13_quote_01"/> <note>MM quotes from Edward Arber, editor, <title>The Works of Captain John Smith</title> (Birmingham, 1884).</note><note type="glossary">Arber, Edward [1836-1912]. An English academic, writer, and editor.</note>John Smith, 1579-1631  born of ex</l>
-         </lg>         </div>
-         <div type="page" n="r.0037" xml:id="nb07_04_07_0037_recto_text">         <lg>
-         <l n="14"> parentage at Wiloughby, in Linconshire, Eng</l>
-         <l n="15">unwilling scholar, the call of the sea making</l>
-         <l n="16"> itself heard in his consciousness</l>
-         <l n="17">unusual exs &amp; hair breadth escapes.<quote xml:id="nb07_04_07_0037_recto_text_line_17_quote_01"/></l>
-<!--         <span type="quote" from="#nb07_04_07_0037_recto_text_line_13_quote_01" to="#nb07_04_07_0037_recto_text_line_17_quote_01"/>-->
-         <l n="18"><bibl xml:id="nb07_04_07_0037_recto_text_line_18_source_01"/> Ed. Arber 1884.    Eng Scholars Lib.</l>
-         <l n="19"> Professor Arber.<bibl xml:id="nb07_04_07_0037_recto_text_line_19_source_01"/></l>
-<!--         <span type="source" from="#nb07_04_07_0037_recto_text_line_18_source_01" to="#nb07_04_07_0037_recto_text_line_19_source_01"/>-->
-         <l n="20"> <bibl> Mr Alexander Brown the 1<hi rend="superscript">st</hi> Republic in A</bibl><note>Brown, Alexander. <title>The First Republic in America</title> (Boston and New York, 1898).</note><note type="glossary">Brown, Alexander [1843-1906]. Author of several history books, including <title>The First Republic in America</title> (1898).</note></l>
-         <l n="21"><quote xml:id="nb07_04_07_0037_recto_text_line_21_quote_01"/> (&amp;) the Genesis of the U.S.</l>
-         <l n="22">when he returned to Eng</l>
-         <l n="23">  26 in 1605</l>
-         <l n="24">he had graduated fr the ranks of</l>
-         <l n="25"> the mere fighter &amp; entered those</l>
-         <l n="26">of the pioneer &amp; colonizer.</l>
-         <l n="27">London Co enterprise</l>
-         <l n="28"> Set out Dec 19 1606 reach V Ap 26 1609</l>
-         <l n="29"> J. Is a peninsula w a narrow neck</l>
-         <l n="30"> Chickahominy</l>
-         <l n="31"> stung </l>
-         <l n="32">hurt by a stingray at Stingray Point<quote xml:id="nb07_04_07_0037_recto_text_line_32_quote_01"/><hi rend="pencil" xml:id="nb07_04_07_0037_recto_text_line_32_color_01"/></l></lg>
-<!--         <span type="quote" from="#nb07_04_07_0037_recto_text_line_21_quote_01" to="#nb07_04_07_0037_recto_text_line_32_quote_01"/>-->
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0037_recto_text_line_01_color_01" to="#nb07_04_07_0037_recto_text_line_32_color_01"/>-->
+         <l n="13" rend="pencil"><quote corresp="nb07_04_07_0037_recto_text_l13_quote"/> <note>MM quotes from Edward Arber, editor, <title>The Works of Captain John Smith</title> (Birmingham, 1884).</note><note type="glossary">Arber, Edward [1836-1912]. An English academic, writer, and editor.</note>John Smith, 1579-1631  born of ex</l>
+         <l n="14" rend="pencil"> parentage at Wiloughby, in Linconshire, Eng</l>
+         <l n="15" rend="pencil">unwilling scholar, the call of the sea making</l>
+         <l n="16" rend="pencil"> itself heard in his consciousness</l>
+         <l n="17" rend="pencil">unusual exs &amp; hair breadth escapes.<quote corresp="#nb07_04_07_0037_recto_text_l13_quote"/></l>
+         <l n="18" rend="pencil"><bibl corresp="nb07_04_07_0037_recto_text_118_quote"/> Ed. Arber 1884.    Eng Scholars Lib.</l>
+         <l n="19" rend="pencil"> Professor Arber.<bibl corresp="#nb07_04_07_0037_recto_text_118_quote"/></l>
+         <l n="20" rend="pencil"> <bibl> Mr Alexander Brown the 1<hi rend="superscript">st</hi> Republic in A</bibl><note>Brown, Alexander. <title>The First Republic in America</title> (Boston and New York, 1898).</note><note type="glossary">Brown, Alexander [1843-1906]. Author of several history books, including <title>The First Republic in America</title> (1898).</note></l>
+         <l n="21" rend="pencil"><quote corresp="nb07_04_07_0037_recto_text_l21_quote"/> (&amp;) the Genesis of the U.S.</l>
+         <l n="22" rend="pencil">when he returned to Eng</l>
+         <l n="23" rend="pencil">  26 in 1605</l>
+         <l n="24" rend="pencil">he had graduated fr the ranks of</l>
+         <l n="25" rend="pencil"> the mere fighter &amp; entered those</l>
+         <l n="26" rend="pencil">of the pioneer &amp; colonizer.</l>
+         <l n="27" rend="pencil">London Co enterprise</l>
+         <l n="28" rend="pencil"> Set out Dec 19 1606 reach V Ap 26 1609</l>
+         <l n="29" rend="pencil"> J. Is a peninsula w a narrow neck</l>
+         <l n="30" rend="pencil"> Chickahominy</l>
+         <l n="31" rend="pencil"> stung </l>
+         <l n="32" rend="pencil">hurt by a stingray at Stingray Point<quote corresp="#nb07_04_07_0037_recto_text_l21_quote"/></l>
+      </lg>
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0038_text">
       <pb facs="nb07_04_07_0038_verso.jpg"/>
       <div type="page" n="v.0038" xml:id="nb07_04_07_0038_verso_text">
       <lg>
-         <l n="01"><hi rend="pencil" xml:id="nb07_04_07_0038_verso_text_line_01_color_01"/><quote xml:id="nb07_04_07_0038_verso_text_line_01_quote_01"/><note>Brown, Alexander. <title>The First Republic in America</title> (Boston and New York, 1898).</note>His activities were incessant.</l>
-         <l n="02">The London Company</l>
-         <l n="03">to find gold, discover the passage</l>
-         <l n="04">to the S Sea, search for Raleighs</l>
-         <l n="05">missing colonists, crown Powhatan</l>
-         <l n="06">(in order to gain his favour) [tho</l>
-         <l n="07">some say to thank him] &amp; to employ</l>
-         <l n="08">certain Poles &amp; Dutchmen in making</l>
-         <l n="09">pitch, tar, glass, &amp; soap-ashes.</l>
-         <l n="10">Smith was opposed to these objects,</l>
-         <l n="11">w a varying degrees of intensity, as</l>
-         <l n="12">diverting energy wh should be</l>
-         <l n="13">expended in making the colony self-</l>
-         <l n="14">supporting, 1<hi rend="superscript">st</hi> &amp; foremost in this</l>
-         <l n="15">matter of the food supply.   As for Powhatan</l>
-         <l n="16">he knew that his favour &amp; support were</l>
-         <l n="17">important, but he was opposed to the</l>
-         <l n="18">use of any great amt of flattery,</l>
-         <l n="19">bent his energies toward carrying out</l>
-         <l n="20">instructions. But (w Newport) sent, w</l>
-         <l n="21">his celebrated map . . . . a letter</l>
-         <l n="22">stressing the necessity of sending</l>
-         <l n="23">over competent toilers.</l>
+         <l n="01" rend="pencil"><quote corresp="nb07_04_07_0038_verso_text_l01_quote"/><note>Brown, Alexander. <title>The First Republic in America</title> (Boston and New York, 1898).</note>His activities were incessant.</l>
+         <l n="02" rend="pencil">The London Company</l>
+         <l n="03" rend="pencil">to find gold, discover the passage</l>
+         <l n="04" rend="pencil">to the S Sea, search for Raleighs</l>
+         <l n="05" rend="pencil">missing colonists, crown Powhatan</l>
+         <l n="06" rend="pencil">(in order to gain his favour) [tho</l>
+         <l n="07" rend="pencil">some say to thank him] &amp; to employ</l>
+         <l n="08" rend="pencil">certain Poles &amp; Dutchmen in making</l>
+         <l n="09" rend="pencil">pitch, tar, glass, &amp; soap-ashes.</l>
+         <l n="10" rend="pencil">Smith was opposed to these objects,</l>
+         <l n="11" rend="pencil">w a varying degrees of intensity, as</l>
+         <l n="12" rend="pencil">diverting energy wh should be</l>
+         <l n="13" rend="pencil">expended in making the colony self-</l>
+         <l n="14" rend="pencil">supporting, 1<hi rend="superscript">st</hi> &amp; foremost in this</l>
+         <l n="15" rend="pencil">matter of the food supply.   As for Powhatan</l>
+         <l n="16" rend="pencil">he knew that his favour &amp; support were</l>
+         <l n="17" rend="pencil">important, but he was opposed to the</l>
+         <l n="18" rend="pencil">use of any great amt of flattery,</l>
+         <l n="19" rend="pencil">bent his energies toward carrying out</l>
+         <l n="20" rend="pencil">instructions. But (w Newport) sent, w</l>
+         <l n="21" rend="pencil">his celebrated map . . . . a letter</l>
+         <l n="22" rend="pencil">stressing the necessity of sending</l>
+         <l n="23" rend="pencil">over competent toilers.</l>
          <l n="24"/>
-         <l n="25">. . . he compelled the lazy to do their share</l>
-         <l n="26">of the work</l>
-         <l n="27">    the rats at Jamestown "ate up large</l>
-         <l n="28">quantities of the precious corn." . . . . he experimented<quote xml:id="nb07_04_07_0038_verso_text_line_28_quote_01"/><hi rend="pencil" xml:id="nb07_04_07_0038_verso_text_line_28_color_01"/></l>
-<!--         <span type="quote" from="#nb07_04_07_0038_verso_text_line_01_quote_01" to="#nb07_04_07_0038_verso_text_line_28_quote_01"/>-->
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0038_verso_text_line_01_color_01" to="#nb07_04_07_0038_verso_text_line_28_color_01"/>-->
+         <l n="25" rend="pencil">. . . he compelled the lazy to do their share</l>
+         <l n="26" rend="pencil">of the work</l>
+         <l n="27" rend="pencil">    the rats at Jamestown "ate up large</l>
+         <l n="28" rend="pencil">quantities of the precious corn." . . . . he experimented<quote corresp="#nb07_04_07_0038_verso_text_l01_quote"/></l>
 </lg>
       </div>
    </div>
@@ -1338,39 +1285,37 @@
       <pb facs="nb07_04_07_0039_recto.jpg"/>
       <div type="page" n="r.0039" xml:id="nb07_04_07_0039_recto_text">
       <lg>
-         <l n="01"><!-- IMAGE DECRIPTION: "Lord de La Warr" in line 20 is circled.--><hi rend="pencil" xml:id="nb07_04_07_0039_recto_text_line_01_color_01"/><quote xml:id="nb07_04_07_0039_recto_text_line_01_quote_01"/><note>Brown, Alexander. <title>The First Republic in America</title> (Boston and New York, 1898).</note> by sending parties off to live on oysters</l>
-         <l n="02">  &amp; fish &amp; even billeted some among</l>
-         <l n="03"> the friendly Indians . . . this authority</l>
-         <l n="04"> was more supreme bec. all the other</l>
-         <l n="05"> members of the <hi rend="underline">C</hi>ouncil had died or <!--  MIGHT the double underline instead be quotation marks, that follow Eng. on the next line [06]: Eng." ? CM  --></l>
-         <l n="06"> returned to Eng.</l>
-         <l n="07"> __________</l>
-         <l n="08">   <del>There was</del> a reorganization of the flow of</l>
-         <l n="09"> govt.. There was to be a gov. general</l>
-         <l n="10"> Lord De la Warr was to be this governor.</l>
-         <l n="11">             pugnacious to<del>ward</del> equals</l>
-         <l n="12"> Smith by his overbearing &amp; impatient</l>
-         <l n="13"> manner w his equals– tho not</l>
-         <l n="14">w his inferiors– w station made</l>
-         <l n="15">so many enemies among members</l>
-         <l n="16"> of the company &amp; colony, the time</l>
-         <l n="17"> had come for a new man to be put in</l>
-         <l n="18"> control.</l>
-         <l n="19">    Lord De La Warr to be represented</l>
-         <l n="20"> in V by Sir Thomas Gates; lieut. gov.</l>
-         <l n="21"> Sir G Somers, Admiral, Sir Thomas Dale</l>
-         <l n="22"> high marshal, &amp; Capt Christopher</l>
-         <l n="23"> Newport, vice-admiral. The Sea</l>
-         <l n="24"> Venture was wrecked on one</l>
-         <l n="25">of the Bermuda Islands, &amp; the</l>
-         <l n="26"> arrival of these high officials</l>
-         <l n="27"> was much delayed.</l>
-         <l n="28"><del>9 ships</del> 9 supply ships</l>
-         <l n="29">   Nansemond Indians</l>
-         <l n="30"> North Virginia, that is, N. England–</l>
-         <l n="31">               <del>or</del><quote xml:id="nb07_04_07_0039_recto_text_line_31_quote_01"/><hi rend="pencil" xml:id="nb07_04_07_0039_recto_text_line_31_color_01"/></l>
-<!--         <span type="quote" from="#nb07_04_07_0039_recto_text_line_01_quote_01" to="#nb07_04_07_0039_recto_text_line_31_quote_01"/>-->
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0039_recto_text_line_01_color_01" to="#nb07_04_07_0039_recto_text_line_31_color_01"/>-->
+         <l n="01" rend="pencil"><quote corresp="nb07_04_07_0039_recto_text_l01_quote"/><note>Brown, Alexander. <title>The First Republic in America</title> (Boston and New York, 1898).</note> by sending parties off to live on oysters</l>
+         <l n="02" rend="pencil">  &amp; fish &amp; even billeted some among</l>
+         <l n="03" rend="pencil"> the friendly Indians . . . this authority</l>
+         <l n="04" rend="pencil"> was more supreme bec. all the other</l>
+         <l n="05" rend="pencil"> members of the <hi rend="underline">C</hi>ouncil had died or <!--  MIGHT the double underline instead be quotation marks, that follow Eng. on the next line [06]: Eng." ? CM  --></l>
+         <l n="06" rend="pencil"> returned to Eng.</l>
+         <l n="07" rend="pencil"> __________</l>
+         <l n="08" rend="pencil">   <del>There was</del> a reorganization of the flow of</l>
+         <l n="09" rend="pencil"> govt.. There was to be a gov. general</l>
+         <l n="10" rend="pencil"> Lord De la Warr was to be this governor.</l>
+         <l n="11" rend="pencil">             pugnacious to<del>ward</del> equals</l>
+         <l n="12" rend="pencil"> Smith by his overbearing &amp; impatient</l>
+         <l n="13" rend="pencil"> manner w his equals– tho not</l>
+         <l n="14" rend="pencil">w his inferiors– w station made</l>
+         <l n="15" rend="pencil">so many enemies among members</l>
+         <l n="16" rend="pencil"> of the company &amp; colony, the time</l>
+         <l n="17" rend="pencil"> had come for a new man to be put in</l>
+         <l n="18" rend="pencil"> control.</l>
+         <l n="19" rend="pencil">    Lord De La Warr to be represented</l>
+         <l n="20" rend="pencil"> in V by Sir Thomas Gates; lieut. gov.</l>
+         <l n="21" rend="pencil"> Sir G Somers, Admiral, Sir Thomas Dale</l>
+         <l n="22" rend="pencil"> high marshal, &amp; Capt Christopher</l>
+         <l n="23" rend="pencil"> Newport, vice-admiral. The Sea</l>
+         <l n="24" rend="pencil"> Venture was wrecked on one</l>
+         <l n="25" rend="pencil">of the Bermuda Islands, &amp; the</l>
+         <l n="26" rend="pencil"> arrival of these high officials</l>
+         <l n="27" rend="pencil"> was much delayed.</l>
+         <l n="28" rend="pencil"><del>9 ships</del> 9 supply ships</l>
+         <l n="29" rend="pencil">   Nansemond Indians</l>
+         <l n="30" rend="pencil"> North Virginia, that is, N. England–</l>
+         <l n="31" rend="pencil">               <del>or</del><quote corresp="#nb07_04_07_0039_recto_text_l01_quote"/></l>
 </lg>
       </div>
    </div>
@@ -1378,50 +1323,46 @@
       <pb facs="nb07_04_07_0040_verso.jpg"/>
       <div type="page" n="v.0040" xml:id="nb07_04_07_0040_verso_text">
       <lg>
-         <l n="01"><!-- IMAGE DECRIPTION:MM cancels lines 13-38 with a wavy line. "Toad," "stand," and "ad" (in "road") are circled in lines 24, 25, and 26 respectively.--><note>In lines 14-39, MM drafts toward the poem "Virginia Britannia," <title>Life and Letters Today</title> (December 1935).</note>   <hi rend="pencil" xml:id="nb07_04_07_0040_verso_text_line_01_color_01"/><bibl xml:id="nb07_04_07_0040_verso_text_line_01_source_01"/>An Accidence for All Young Seamen.</l>
-         <l n="02"> 1626.<bibl xml:id="nb07_04_07_0040_verso_text_line_02_source_01"/><note>Smith, John (Captain John Smith). <title>Accidence, or the Path-way to Experience, necessary for all young Sea-men, or those that are desirous to go to Sea</title>. London: Printed for Jonas Man and Benjamin Fisher, 1926. </note>     <bibl>A Sea Grammar. 1627</bibl><note>Smith, John (Captain John Smith). <title>A Sea Grammar, with the plaine Exposition of Smiths Accidence for young Sea-men, enlarged</title>. London: John Haviland, 1627. </note><note type="glossary">Smith, John [1580-1631]. English explorer, Admiral of New England, and author, who played an important role in the founding of the Jamestown colony, the first permanent English settlement in North America. MM includes him in her poem "Virginnia Britanni."</note></l>
-<!--         <span type="source" from="#nb07_04_07_0040_verso_text_line_01_source_01" to="#nb07_04_07_0040_verso_text_line_02_source_01"/>-->
-         <l n="03"><bibl xml:id="nb07_04_07_0040_verso_text_line_03_source_01"/> Advertisements  for the Unexperienced</l>
-         <l n="04"> Planters 1631   Ed Arber, Birmingham,</l>
-         <l n="05"> Eng,  in 1884.<bibl xml:id="nb07_04_07_0040_verso_text_line_05_source_01"/><note>Smith, John (Captain John Smith). <title>Advertisements for the unexperienced planters of New-England, or any where, or, the Pathway to erect a plantation</title>. London: John Haviland, 1931. Reprinted in John Smith. <title>Words, 1608-1631</title>. Edited by Edward Arber. Birmingham, England: English Scholar's Library, 1884.</note></l>
-<!--         <span type="source" from="#nb07_04_07_0040_verso_text_line_03_source_01" to="#nb07_04_07_0040_verso_text_line_05_source_01"/>-->
-         <l n="06"> See <bibl xml:id="nb07_04_07_0040_verso_text_line_06_source_01"/> E K. Chatterton &amp; biog 1927</l>
-         <l n="07">  Golden Hind Series.<bibl xml:id="nb07_04_07_0040_verso_text_line_07_source_01"/><note>Chatterton, E.Keble. <title>Captain John Smith</title>. New York and London: Harper and Brothers ("The Golden Hind Series"), 1927.</note><note type="glossary">Chatterton, E. Keble [1878-1944]. Prolific writer of over a hundred books, pamphlets, and magazines on maritime and naval themes.</note> full of the</l>
-<!--         <span type="source" from="#nb07_04_07_0040_verso_text_line_06_source_01" to="#nb07_04_07_0040_verso_text_line_07_source_01"/>-->
-         <l n="08">                       pine &amp; the</l>
-         <l n="09">                         <unclear resp="hcw">pefume</unclear>-scented air</l>
-         <l n="10">  Portrait fr life by Simon van der Pass<note type="glossary" xml:id="nb07_04_07_0040_verso_text_line_10_note_01">van der Passe, Simon [1595-6 1647]. A Dutch engraver.</note></l>
+         <l n="01" rend="pencil"><note>In lines 14-39, MM drafts toward the poem "Virginia Britannia," <title>Life and Letters Today</title> (December 1935).</note>   <bibl corresp="nb07_04_07_0040_verso_text_l01_source"/>An Accidence for All Young Seamen.</l>
+         <l n="02" rend="pencil"> 1626.<bibl corresp="#nb07_04_07_0040_verso_text_l01_source"/><note>Smith, John (Captain John Smith). <title>Accidence, or the Path-way to Experience, necessary for all young Sea-men, or those that are desirous to go to Sea</title>. London: Printed for Jonas Man and Benjamin Fisher, 1926. </note>     <bibl>A Sea Grammar. 1627</bibl><note>Smith, John (Captain John Smith). <title>A Sea Grammar, with the plaine Exposition of Smiths Accidence for young Sea-men, enlarged</title>. London: John Haviland, 1627. </note><note type="glossary">Smith, John [1580-1631]. English explorer, Admiral of New England, and author, who played an important role in the founding of the Jamestown colony, the first permanent English settlement in North America. MM includes him in her poem "Virginnia Britanni."</note></l>
+         <l n="03" rend="pencil"><bibl corresp="nb07_04_07_0040_verso_text_l03_source"/> Advertisements  for the Unexperienced</l>
+         <l n="04" rend="pencil"> Planters 1631   Ed Arber, Birmingham,</l>
+         <l n="05" rend="pencil"> Eng,  in 1884.<bibl corres="nb07_04_07_0040_verso_text_l03_source"/><note>Smith, John (Captain John Smith). <title>Advertisements for the unexperienced planters of New-England, or any where, or, the Pathway to erect a plantation</title>. London: John Haviland, 1931. Reprinted in John Smith. <title>Words, 1608-1631</title>. Edited by Edward Arber. Birmingham, England: English Scholar's Library, 1884.</note></l>
+         <l n="06" rend="pencil"> See <bibl corresp="nb07_04_07_0040_verso_text_l06_source"/> E K. Chatterton &amp; biog 1927</l>
+         <l n="07" rend="pencil">  Golden Hind Series.<bibl corresp="#nb07_04_07_0040_verso_text_l06_source"/><note>Chatterton, E.Keble. <title>Captain John Smith</title>. New York and London: Harper and Brothers ("The Golden Hind Series"), 1927.</note><note type="glossary">Chatterton, E. Keble [1878-1944]. Prolific writer of over a hundred books, pamphlets, and magazines on maritime and naval themes.</note> full of the</l>
+         <l n="08" rend="pencil">                       pine &amp; the</l>
+         <l n="09" rend="pencil">                         <unclear resp="hcw">pefume</unclear>-scented air</l>
+         <l n="10" rend="pencil">  Portrait fr life by Simon van der Pass<note type="glossary" xml:id="nb07_04_07_0040_verso_text_line_10_note_01">van der Passe, Simon [1595-6 1647]. A Dutch engraver.</note></l>
          <l n="11"/>
-         <l n="12">  Henry Read Mr Thwaive,  Lib</l>
-         <l n="13"> Vir State Library.           the  sweet</l>
-         <l n="14">    <del> Titlle Curious flowerbed</del>  pine scented</l>
-         <l n="15">                               air</l>
-         <l n="16">   The Old Dominion    enough to hatch the alligator</l>
-         <l n="17">      curious   this    sweet,              egg</l>
-         <l n="18"> <del>in this</del> flowerbed <del>the</del> air <del>is</del> soft– Ivory bed</l>
-         <l n="19"> full of unEnglish insect sounds–</l>
-         <l n="20">on           <del>sand strand</del>     the air is</l>
-         <l n="21"> the emerald shore <del>w dotted line</del>   sweet– the</l>
-         <l n="22">                                    pines</l>
-         <l n="23"> the best Virginia Cedars that they ever <del>saw</del> seen</l>
-         <l n="24">                         the cedars cover</l>
-         <l n="25">   <del>toad</del>          the toad   evergreen</l>
-         <l n="26">frog troutfish, brush broom           stand</l>
-         <l n="27">     highway road     the</l>
-         <l n="28"><del>the</del> emerald sided frogs all seated</l>
-         <l n="29">                    there  unrestful interim</l>
-         <l n="30">                                tidal crabs</l>
-         <l n="31">  <del>the hound pack</del> the <del>limber waving limber</del>– an army</l>
-         <l n="32">toppling        like                      crossing too</l>
-         <l n="33">  meadow grass entangled tails            toppling</l>
-         <l n="34">  of the hound pack      limber-topped</l>
-         <l n="35">the artificial artlessness  entangling tail</l>
+         <l n="12" rend="pencil">  Henry Read Mr Thwaive,  Lib</l>
+         <l n="13" rend="pencil"> Vir State Library.           the  sweet</l>
+         <l n="14" rend="pencil">    <del> Titlle Curious flowerbed</del>  pine scented</l>
+         <l n="15" rend="pencil">                               air</l>
+         <l n="16" rend="pencil">   The Old Dominion    enough to hatch the alligator</l>
+         <l n="17" rend="pencil">      curious   this    sweet,              egg</l>
+         <l n="18" rend="pencil"> <del>in this</del> flowerbed <del>the</del> air <del>is</del> soft– Ivory bed</l>
+         <l n="19" rend="pencil"> full of unEnglish insect sounds–</l>
+         <l n="20" rend="pencil">on           <del>sand strand</del>     the air is</l>
+         <l n="21" rend="pencil"> the emerald shore <del>w dotted line</del>   sweet– the</l>
+         <l n="22" rend="pencil">                                    pines</l>
+         <l n="23" rend="pencil"> the best Virginia Cedars that they ever <del>saw</del> seen</l>
+         <l n="24" rend="pencil">                         the cedars cover</l>
+         <l n="25" rend="pencil">   <del>toad</del>          the toad   evergreen</l>
+         <l n="26" rend="pencil">frog troutfish, brush broom           stand</l>
+         <l n="27" rend="pencil">     highway road     the</l>
+         <l n="28" rend="pencil"><del>the</del> emerald sided frogs all seated</l>
+         <l n="29" rend="pencil">                    there  unrestful interim</l>
+         <l n="30" rend="pencil">                                tidal crabs</l>
+         <l n="31" rend="pencil">  <del>the hound pack</del> the <del>limber waving limber</del>– an army</l>
+         <l n="32" rend="pencil">toppling        like                      crossing too</l>
+         <l n="33" rend="pencil">  meadow grass entangled tails            toppling</l>
+         <l n="34" rend="pencil">  of the hound pack      limber-topped</l>
+         <l n="35" rend="pencil">the artificial artlessness  entangling tail</l>
          <l n="36"/>
-         <l n="37"> hibiscus and the <del>hackberry</del>       tall</l>
-         <l n="38"> the great old old English <del>the</del> ivied tree Hackberry</l>
-         <l n="39">       handsomest</l>
-         <l n="40">   the noblest Colonist of all the old<hi rend="pencil" xml:id="nb07_04_07_0040_verso_text_line_40_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0040_verso_text_line_01_color_01" to="#nb07_04_07_0040_verso_text_line_40_color_01"/>-->
+         <l n="37" rend="pencil"> hibiscus and the <del>hackberry</del>       tall</l>
+         <l n="38" rend="pencil"> the great old old English <del>the</del> ivied tree Hackberry</l>
+         <l n="39" rend="pencil">       handsomest</l>
+         <l n="40" rend="pencil">   the noblest Colonist of all the old</l>
 </lg>
       </div>
    </div>
@@ -1429,8 +1370,7 @@
       <pb facs="nb07_04_07_0041_recto.jpg"/>
       <div type="page" n="r.0041" xml:id="nb07_04_07_0041_recto_text">
       <lg>
-         <l n="01"><hi rend="pencil" xml:id="nb07_04_07_0041_recto_text_line_01_color_01"/><note>In line 01, MM drafts toward the poem "Virginia Britannia," <title>Life and Letters Today</title> (December 1935).</note>never-<unclear resp="hcw">burnished</unclear> Black<hi rend="pencil" xml:id="nb07_04_07_0041_recto_text_line_01_color_02"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0041_recto_text_line_01_color_01" to="#nb07_04_07_0041_recto_text_line_01_color_02"/>-->
+         <l n="01" rend="pencil"><note>In line 01, MM drafts toward the poem "Virginia Britannia," <title>Life and Letters Today</title> (December 1935).</note>never-<unclear resp="hcw">burnished</unclear> Black</l>
 </lg>
       </div>
    </div>
@@ -1448,17 +1388,17 @@
       <pb facs="nb07_04_07_0043_verso.jpg"/>
       <div type="page" n="v.0043" xml:id="nb07_04_07_0043_verso_text">
       <lg>
-         <l n="01"> <hi rend="pencil" xml:id="nb07_04_07_0043_verso_text_line_01_color_01"/>the Chinese insectary</l>
-         <l n="02"> I am a body &amp; I have a soul?</l>
-         <l n="03"> I am a soul that has a body–</l>
-         <l n="04">                          Enjoying the</l>
-         <l n="05">                          breeze in a</l>
-         <l n="06">                           Fishing </l>
-         <l n="07">                             boat</l>
-         <l n="08">Sometimes <del>much</del></l>
-         <l n="09">    <del>That</del> is given <del>which</del> is not secured</l>
-         <l n="10">                might<hi rend="pencil" xml:id="nb07_04_07_0043_verso_text_line_10_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0043_verso_text_line_01_color_01" to="#nb07_04_07_0043_verso_text_line_10_color_01"/>-->
+         <l n="01" rend="pencil"> the Chinese insectary</l>
+         <l n="02" rend="pencil"> I am a body &amp; I have a soul?</l>
+         <l n="03" rend="pencil"> I am a soul that has a body–</l>
+         <l n="04" rend="pencil">                          Enjoying the</l>
+         <l n="05" rend="pencil">                          breeze in a</l>
+         <l n="06" rend="pencil">                           Fishing </l>
+         <l n="07" rend="pencil">                             boat</l>
+         <l n="08" rend="pencil">Sometimes <del>much</del></l>
+         <l n="09" rend="pencil">    <del>That</del> is given <del>which</del> is not secured</l>
+         <l n="10" rend="pencil">                might</l>
+
 </lg>
       </div>
    </div>
@@ -1466,13 +1406,12 @@
       <pb facs="nb07_04_07_0044_recto.jpg"/>
       <div type="page" n="r.0044" xml:id="nb07_04_07_0044_recto_text">
       <lg>
-         <l n="01">               <hi rend="pencil" xml:id="nb07_04_07_0044_recto_text_line_01_color_01"/><gap extent="3"/>thing</l>
-         <l n="02">of a   quick mind</l>
+         <l n="01" rend="pencil">               <gap extent="3"/>thing</l>
+         <l n="02" rend="pencil">of a   quick mind</l>
          <l n="03"/>
-         <l n="04">  to spy the insect w its watchful eye</l>
-         <l n="05">  but not the fire fly   or speckled</l>
-         <l n="06">                         worm<hi rend="pencil" xml:id="nb07_04_07_0044_recto_text_line_05_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0044_recto_text_line_01_color_01" to="#nb07_04_07_0044_recto_text_line_06_color_01"/>-->
+         <l n="04" rend="pencil">  to spy the insect w its watchful eye</l>
+         <l n="05" rend="pencil">  but not the fire fly   or speckled</l>
+         <l n="06" rend="pencil">                         worm</l>
 </lg>
       </div>
    </div>
@@ -1480,50 +1419,43 @@
       <pb facs="nb07_04_07_0045_recto.jpg"/>
       <div type="page" n="r.0045" xml:id="nb07_04_07_0045_recto_text">
       <lg>
-         <l n="01"><!-- IMAGE DECRIPTION: MM cancels lines 17-21 with a wavy line. She draws a straight vertical line through lines 09-36. Lines 32-36 are set off by encasing double lines.--><hi rend="pencil" xml:id="nb07_04_07_0045_recto_text_line_01_color_01"/><note>In lines 3-16, MM drafts toward the poem "Walking-sticks and Paperweights and Watermarks," <title>Poetry</title> (November 1936); in lines 10-22 and lines 25-36, MM drafts toward the poem first published as "Smooth Gnarled Crepe Myrtle," <title>New English Weekly</title> (17 October 1935).</note>a melancholy here for the rest of</l>
-         <l n="02"> her life</l>
-         <l n="03"> walkingsticks &amp; paperweights &amp; <!--  WHERE WOULD draft toward this poem END?? CM ; I put it at line 16, since that's where the next thing seems to start NW --></l>
-         <l n="04">  <del>water ma</del> but water marks<hi rend="pencil" xml:id="nb07_04_07_0045_recto_text_line_04_color_01"/><hi rend="blue">water marks</hi></l>
-         <l n="05"> <del>the</del>   are ones<hi rend="pencil" xml:id="nb07_04_07_0045_recto_text_line_05_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0045_recto_text_line_01_color_01" to="#nb07_04_07_0045_recto_text_line_05_color_01"/>-->
-         <l n="06">   <hi rend="blue" xml:id="nb07_04_07_0045_recto_text_line_06_color_01"/>the straw hut</l>
-         <l n="07">  an       or a <hi rend="blue" xml:id="nb07_04_07_0045_recto_text_line_07_color_01"/></l>
-<!--         <span type="hi" rend="blue" from="#nb07_04_07_0045_recto_text_line_06_color_01" to="#nb07_04_07_0045_recto_text_line_07_color_01"/>-->
-         <l n="08"> <hi rend="pencil" xml:id="nb07_04_07_0045_recto_text_line_08_color_01"/>w iguanas– perhaps boas– in the</l>
-         <l n="09"> thatch<hi rend="pencil" xml:id="nb07_04_07_0045_recto_text_line_09_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0045_recto_text_line_08_color_01" to="#nb07_04_07_0045_recto_text_line_09_color_01"/>-->
-         <l n="10"><hi rend="blue" xml:id="nb07_04_07_0045_recto_text_line_10_color_01"/>   Is it possible that Pairs <del>appear to</del> may be dowdy</l>
-         <l n="11"> redbirds are usually seen in pairs–</l>
-         <l n="12">    <del>are pairs dowdy</del></l>
-         <l n="13">but this one seems to be alone &amp; talks a</l>
-         <l n="14">                    hope to</l>
-         <l n="15"> kind of Japanese        Alas– without</l>
-         <l n="16"> loneliness, I should be more lonely so I keep it.</l>
-         <l n="17">                                   <unclear resp="hcw">do"ng g</unclear></l>
-         <l n="18"> The ambassadorial Inverness is favor</l>
-         <l n="19">w those who sleep in N.Y but dream of London</l>
-         <l n="20">         of Wm the Conqueror</l>
-         <l n="21">Some say that for an artist nothing is nicer</l>
-         <l n="22"> than a net to draw<hi rend="blue" xml:id="nb07_04_07_0045_recto_text_line_22_color_01"/></l>
-<!--         <span type="hi" rend="blue" from="#nb07_04_07_0045_recto_text_line_10_color_01" to="#nb07_04_07_0045_recto_text_line_22_color_01"/>-->
-         <l n="23">                 <hi rend="pencil" xml:id="nb07_04_07_0045_recto_text_line_23_color_01"/>dreading</l>
-         <l n="24">                   to touch him</l>
-         <l n="25">                      they at last</l>
-         <l n="26">                      sewed the<hi rend="pencil" xml:id="nb07_04_07_0045_recto_text_line_26_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0045_recto_text_line_23_color_01" to="#nb07_04_07_0045_recto_text_line_26_color_01"/>-->
-         <l n="27"><hi rend="blue" xml:id="nb07_04_07_0045_recto_text_line_27_color_01"/> The First Steamboat on the Great</l>
-         <l n="28"> Lakes walk-in-the water in honor</l>
-         <l n="29"> of an Indian chief.</l>
-         <l n="30"> the diving mouse–<hi rend="blue" xml:id="nb07_04_07_0045_recto_text_line_30_color_01"/>        <hi rend="pencil">Conqueror's</hi></l>
-<!--         <span type="hi" rend="blue" from="#nb07_04_07_0045_recto_text_line_27_color_01" to="#nb07_04_07_0045_recto_text_line_30_color_01"/>-->
-         <l n="31">    <hi rend="blue" xml:id="nb07_04_07_0045_recto_text_line_31_color_01"/><del>nosed</del> opening-tipped   <hi rend="pencil">Corpse in skins</hi><note>Wilson, P. W. Review of <title>William the Conqueror</title> by Lucie Delarue-Mardus. <title>New York Times Book Review</title> (16 October 1932): 21. MM quotes from Wilson's review here and again later in the notebook. </note></l>
-         <l n="32"> <hi rend="blue" xml:id="nb07_04_07_0045_recto_text_line_32_color_01"/>columbine proboscis of the elephant</l>
-         <l n="33"> The deliberate beat of the heron</l>
-         <l n="34"> the smooth silent flight of the owl</l>
-         <l n="35"> a violent leopard</l>
-         <l n="36"> flung into a net from the top of</l>
-         <l n="37"> a tree–<hi rend="blue" xml:id="nb07_04_07_0045_recto_text_line_37_color_01"/></l>
-<!--         <span type="hi" rend="blue" from="#nb07_04_07_0045_recto_text_line_31_color_01" to="#nb07_04_07_0045_recto_text_line_37_color_01"/>-->
+         <l n="01" rend="pencil"><note>In lines 3-16, MM drafts toward the poem "Walking-sticks and Paperweights and Watermarks," <title>Poetry</title> (November 1936); in lines 10-22 and lines 25-36, MM drafts toward the poem first published as "Smooth Gnarled Crepe Myrtle," <title>New English Weekly</title> (17 October 1935).</note>a melancholy here for the rest of</l>
+         <l n="02" rend="pencil"> her life</l>
+         <l n="03" rend="pencil"> walkingsticks &amp; paperweights &amp; <!--  WHERE WOULD draft toward this poem END?? CM ; I put it at line 16, since that's where the next thing seems to start NW --></l>
+         <l n="04" rend="pencil">  <del>water ma</del> but water marks<hi rend="blue">water marks</hi></l>
+         <l n="05" rend="pencil"> <del>the</del>   are ones</l>
+         <l n="06" rend="blue">   the straw hut</l>
+         <l n="07" rend="blue">  an       or a </l>
+         <l n="08" rend="pencil"> w iguanas– perhaps boas– in the</l>
+         <l n="09" rend="pencil"> thatch</l>
+         <l n="10" rend="blue">   Is it possible that Pairs <del>appear to</del> may be dowdy</l>
+         <l n="11" rend="blue"> redbirds are usually seen in pairs–</l>
+         <l n="12" rend="blue">    <del>are pairs dowdy</del></l>
+         <l n="13" rend="blue">but this one seems to be alone &amp; talks a</l>
+         <l n="14" rend="blue">                    hope to</l>
+         <l n="15" rend="blue"> kind of Japanese        Alas– without</l>
+         <l n="16" rend="blue"> loneliness, I should be more lonely so I keep it.</l>
+         <l n="17" rend="blue">                                   <unclear resp="hcw">do"ng g</unclear></l>
+         <l n="18" rend="blue"> The ambassadorial Inverness is favor</l>
+         <l n="19" rend="blue">w those who sleep in N.Y but dream of London</l>
+         <l n="20" rend="blue">         of Wm the Conqueror</l>
+         <l n="21" rend="blue">Some say that for an artist nothing is nicer</l>
+         <l n="22" rend="blue"> than a net to draw</l>
+         <l n="23" rend="pencil">                 dreading</l>
+         <l n="24" rend="pencil">                   to touch him</l>
+         <l n="25" rend="pencil">                      they at last</l>
+         <l n="26" rend="pencil">                      sewed the</l>
+         <l n="27" rend="blue"> The First Steamboat on the Great</l>
+         <l n="28" rend="blue"> Lakes walk-in-the water in honor</l>
+         <l n="29" rend="blue"> of an Indian chief.</l>
+         <l n="30" rend="blue"> the diving mouse–        <hi rend="pencil">Conqueror's</hi></l>
+         <l n="31" rend="blue">    <del>nosed</del> opening-tipped   <hi rend="pencil">Corpse in skins</hi><note>Wilson, P. W. Review of <title>William the Conqueror</title> by Lucie Delarue-Mardus. <title>New York Times Book Review</title> (16 October 1932): 21. MM quotes from Wilson's review here and again later in the notebook. </note></l>
+         <l n="32" rend="blue"> columbine proboscis of the elephant</l>
+         <l n="33" rend="blue"> The deliberate beat of the heron</l>
+         <l n="34" rend="blue"> the smooth silent flight of the owl</l>
+         <l n="35" rend="blue"> a violent leopard</l>
+         <l n="36" rend="blue"> flung into a net from the top of</l>
+         <l n="37" rend="blue"> a tree–</l>
 </lg>
       </div>
    </div>
@@ -1531,43 +1463,40 @@
       <pb facs="nb07_04_07_0046_verso.jpg"/>
       <div type="page" n="v.0046" xml:id="nb07_04_07_0046_verso_text">
       <lg>
-         <l n="01"><!-- IMAGE DECRIPTION: MM cancels lines 1-18 and 20-23 with wavy lines.--><hi rend="pencil" xml:id="nb07_04_07_0046_verso_text_line_01_color_01"/><note>In lines 01-18, MM drafts toward the poem first published as "Smooth Gnarled Crepe Myrtle," <title>New English Weekly</title> (17 October 1935); in lines 19-32, MM drafts materials toward the poem "Walking-sticks and Paperweights and Watermarks," <title>Poetry</title> (November 1936).</note>   By peace Plenty <hi rend="superscript">and</hi> By wisdom Peace</l>
-         <l n="02">               formed </l>
-         <l n="03">  the columbine perforated upturned</l>
-         <l n="04">                         <del>ended</del></l>
-         <l n="05">  elephant proboscis       – <del>terminated</del></l>
-         <l n="06">                    trumpet <del>opening</del></l>
-         <l n="07">               elephants columbine–</l>
-         <l n="08">          <del>s<gap extent="2"/>inted</del>– trunk</l>
-         <l n="09">  elephants columbine <del>trumpet like</del></l>
-         <l n="10">                 perforated</l>
-         <l n="11">  trumpet-terminated trunk</l>
-         <l n="12">             <del>chambered</del></l>
-         <l n="13">  elephants columbine <del>chambered</del> trumpet terminated trunk</l>
-         <l n="14">             tubed, </l>
-         <l n="15">   held waveringly out</l>
-         <l n="16">sometimes is </l>
-         <l n="17"><del>may be a terrific thing</del>          a </l>
-         <l n="18">  dangerous looking thing, and <del>yet</del> very delicate<hi rend="pencil" xml:id="nb07_04_07_0046_verso_text_line_18_color_01"/></l>
+         <l n="01" rend="pencil"><hi rend="pencil" xml:id="nb07_04_07_0046_verso_text_line_01_color_01"/><note>In lines 01-18, MM drafts toward the poem first published as "Smooth Gnarled Crepe Myrtle," <title>New English Weekly</title> (17 October 1935); in lines 19-32, MM drafts materials toward the poem "Walking-sticks and Paperweights and Watermarks," <title>Poetry</title> (November 1936).</note>   By peace Plenty <hi rend="superscript">and</hi> By wisdom Peace</l>
+         <l n="02" rend="pencil">               formed </l>
+         <l n="03" rend="pencil">  the columbine perforated upturned</l>
+         <l n="04" rend="pencil">                         <del>ended</del></l>
+         <l n="05" rend="pencil">  elephant proboscis       – <del>terminated</del></l>
+         <l n="06" rend="pencil">                    trumpet <del>opening</del></l>
+         <l n="07" rend="pencil">               elephants columbine–</l>
+         <l n="08" rend="pencil">          <del>s<gap extent="2"/>inted</del>– trunk</l>
+         <l n="09" rend="pencil">  elephants columbine <del>trumpet like</del></l>
+         <l n="10" rend="pencil">                 perforated</l>
+         <l n="11" rend="pencil">  trumpet-terminated trunk</l>
+         <l n="12" rend="pencil">             <del>chambered</del></l>
+         <l n="13" rend="pencil">  elephants columbine <del>chambered</del> trumpet terminated trunk</l>
+         <l n="14" rend="pencil">             tubed, </l>
+         <l n="15" rend="pencil">   held waveringly out</l>
+         <l n="16" rend="pencil">sometimes is </l>
+         <l n="17" rend="pencil"><del>may be a terrific thing</del>          a </l>
+         <l n="18" rend="pencil">  dangerous looking thing, and <del>yet</del> very delicate&gt;</l>
          <l n="19"/>
-         <l n="20">       <hi rend="blue">puppet</hi></l>
-         <l n="21">   <hi rend="blue">or </hi><del>like</del> or <hi rend="pencil" xml:id="nb07_04_07_0046_verso_text_line_21_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0046_verso_text_line_01_color_01" to="#nb07_04_07_0046_verso_text_line_21_color_01"/>-->
-         <l n="22"> <hi rend="blue" xml:id="nb07_04_07_0046_verso_text_line_22_color_01"/><del>like an</del> acrobat walking about </l>
-         <l n="23"> <del>walking about</del> with high steps on his net.<hi rend="blue" xml:id="nb07_04_07_0046_verso_text_line_23_color_01"/></l>
-<!--         <span type="hi" rend="blue" from="#nb07_04_07_0046_verso_text_line_22_color_01" to="#nb07_04_07_0046_verso_text_line_23_color_01"/>-->
-         <l n="24"><hi rend="pencil" xml:id="nb07_04_07_0046_verso_text_line_24_color_01"/>         yielding net</l>
-         <l n="25">     ______________________      have</l>
-         <l n="26">  Those who are live, when they die</l>
-         <l n="27">but live the more</l>
-         <l n="28">    ____________</l>
-         <l n="29">He is a bold outspoken gentleman</l>
-         <l n="30">with out finesse– <del>He</del> who does</l>
-         <l n="31">not know that one does not talk</l>
-         <l n="32">to boatmen about boats or to a</l>
-         <l n="33">  weaver about cloth.</l>
-         <l n="34"> _<hi rend="pencil" xml:id="nb07_04_07_0046_verso_text_line_34_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0046_verso_text_line_24_color_01" to="#nb07_04_07_0046_verso_text_line_34_color_01"/>-->
+         <l n="20" rend="pencil">       <hi rend="blue">puppet</hi></l>
+         <l n="21" rend="pencil">   <hi rend="blue">or </hi><del>like</del> or </l>
+         <l n="22" rend="blue"> <del>like an</del> acrobat walking about </l>
+         <l n="23" rend="blue"> <del>walking about</del> with high steps on his net.</l>
+         <l n="24" rend="pencil">         yielding net</l>
+         <l n="25" rend="pencil">     ______________________      have</l>
+         <l n="26" rend="pencil">  Those who are live, when they die</l>
+         <l n="27" rend="pencil">but live the more</l>
+         <l n="28" rend="pencil">    ____________</l>
+         <l n="29" rend="pencil">He is a bold outspoken gentleman</l>
+         <l n="30" rend="pencil">with out finesse– <del>He</del> who does</l>
+         <l n="31" rend="pencil">not know that one does not talk</l>
+         <l n="32" rend="pencil">to boatmen about boats or to a</l>
+         <l n="33" rend="pencil">  weaver about cloth.</l>
+         <l n="34" rend="pencil"> _</l>
 </lg>
       </div>
    </div>
@@ -1575,51 +1504,44 @@
       <pb facs="nb07_04_07_0047_recto.jpg"/>
       <div type="page" n="r.0047" xml:id="nb07_04_07_0047_recto_text">
       <lg>
-         <l n="01"><!-- IMAGE DECRIPTION: MM cancels lines 20-25 with a wavy line. Two parallel vertical lines run through the whole page of text.--><note>In lines 01-38, MM drafts toward the poem "See in the Midst of Fair Leaves," <title>New Directions in Prose and Poetry</title> (1936).</note>           <hi rend="pencil" xml:id="nb07_04_07_0047_recto_text_line_01_color_01"/>the swan,</l>
-         <l n="02"> one line of the <del>mathematical</del> sign, <del>sign</del> greater <del>than</del></l>
-         <l n="03"> than, drawn</l>
-         <l n="04">to <del>the</del> an apex where the lake</l>
-         <l n="05">  is <del>displaced</del> met, <del>at the weight edge feather</del> edge</l>
-         <l n="06"> <del>on it</del></l>
-         <l n="07">      <del>by the bird's weight on it</del></l>
-         <l n="08"> by the weight on its edge, an angel</l>
-         <l n="09"> standing in the sun, how well</l>
-         <l n="10">    transformed a man</l>
-         <l n="11">     con  <del>evo</del><hi rend="pencil" xml:id="nb07_04_07_0047_recto_text_line_11_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0047_recto_text_line_01_color_01" to="#nb07_04_07_0047_recto_text_line_11_color_01"/>-->
+         <l n="01" rend="pencil"><note>In lines 01-38, MM drafts toward the poem "See in the Midst of Fair Leaves," <title>New Directions in Prose and Poetry</title> (1936).</note>           the swan,</l>
+         <l n="02" rend="pencil"> one line of the <del>mathematical</del> sign, <del>sign</del> greater <del>than</del></l>
+         <l n="03" rend="pencil"> than, drawn</l>
+         <l n="04" rend="pencil">to <del>the</del> an apex where the lake</l>
+         <l n="05" rend="pencil">  is <del>displaced</del> met, <del>at the weight edge feather</del> edge</l>
+         <l n="06" rend="pencil"> <del>on it</del></l>
+         <l n="07" rend="pencil">      <del>by the bird's weight on it</del></l>
+         <l n="08" rend="pencil"> by the weight on its edge, an angel</l>
+         <l n="09" rend="pencil"> standing in the sun, how well</l>
+         <l n="10" rend="pencil">    transformed a man</l>
+         <l n="11" rend="pencil">     con  <del>evo</del></l>
          <l n="12"><hi rend="blue">Judicious genius selecting out for me</hi></l>
          <l n="13">         <hi rend="pencil">evolved</hi></l>
-         <l n="14"> <hi rend="blue" xml:id="nb07_04_07_0047_recto_text_line_14_color_01"/>a short-stemmed rose <del>or two with a few</del></l>
-         <l n="15">                   <del>with too few leaves</del></l>
-         <l n="16"> <del>I</del>           <del>leaves</del></l>
-         <l n="17">              <del>I said</del></l>
-         <l n="18">    flanked by <del>the too</del> widely alternating leaves,</l>
-         <l n="19">             <unclear resp="hcw">above</unclear> oddly</l>
-         <l n="20"> <del>I too am an escaper,</del></l>
-         <l n="21">   amid small a <del>sprig of </del>       leaves</l>
-         <l n="22"> <del>flanked</del> by small widely alternating</l>
-         <l n="23">       a <del> sprout strange</del> unnatural &amp;</l>
-         <l n="24">         stem</l>
-         <l n="25"> I too am an escaper</l>
-         <l n="26">I too try to imagine that what<hi rend="blue" xml:id="nb07_04_07_0047_recto_text_line_26_color_01"/></l>
-<!--         <span type="hi" rend="blue" from="#nb07_04_07_0047_recto_text_line_14_color_01" to="#nb07_04_07_0047_recto_text_line_26_color_01"/>-->
-         <l n="27">  <hi rend="pencil">is not right will do</hi></l>
-         <l n="28"><hi rend="blue">judicious genius</hi><hi rend="pencil">es</hi>,<hi rend="blue" xml:id="nb07_04_07_0047_recto_text_line_28_color_01"/> selecting out for <del>me</del> <hi rend="blue" xml:id="nb07_04_07_0047_recto_text_line_28_color_02"/><hi rend="pencil">us</hi></l>
-<!--         <span type="hi" rend="blue" from="#nb07_04_07_0047_recto_text_line_28_color_01" to="#nb07_04_07_0047_recto_text_line_28_color_02"/>-->
-         <l n="29"><hi rend="blue" xml:id="nb07_04_07_0047_recto_text_line_29_color_01"/>a short-stemmed rose– <del>its shortness</del></l>
-         <l n="30"><del>emphasized by</del> surmounting widely alternated leaves<hi rend="blue" xml:id="nb07_04_07_0047_recto_text_line_30_color_01"/></l>
-<!--         <span type="hi" rend="blue" from="#nb07_04_07_0047_recto_text_line_29_color_01" to="#nb07_04_07_0047_recto_text_line_30_color_01"/>-->
-         <l n="31">         <hi rend="pencil" xml:id="nb07_04_07_0047_recto_text_line_31_color_01"/>    with scarcely any </l>
-         <l n="32"><del>We</del> <hi rend="pencil" xml:id="nb07_04_07_0047_recto_text_line_32_color_01"/><hi rend="blue" xml:id="nb07_04_07_0047_recto_text_line_32_color_02"/>I too am <del>an uneasy casuist</del></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0047_recto_text_line_31_color_01" to="#nb07_04_07_0047_recto_text_line_32_color_01"/>-->
-         <l n="33">         tempted to imagine that what</l>
-         <l n="34">          is not good may do<hi rend="blue" xml:id="nb07_04_07_0047_recto_text_line_34_color_01"/></l>
-<!--         <span type="hi" rend="blue" from="#nb07_04_07_0047_recto_text_line_32_color_02" to="#nb07_04_07_0047_recto_text_line_34_color_01"/>-->
+         <l n="14" rend="blue"> a short-stemmed rose <del>or two with a few</del></l>
+         <l n="15" rend="blue">                   <del>with too few leaves</del></l>
+         <l n="16" rend="blue"> <del>I</del>           <del>leaves</del></l>
+         <l n="17" rend="blue">              <del>I said</del></l>
+         <l n="18" rend="blue">    flanked by <del>the too</del> widely alternating leaves,</l>
+         <l n="19" rend="blue">             <unclear resp="hcw">above</unclear> oddly</l>
+         <l n="20" rend="blue"> <del>I too am an escaper,</del></l>
+         <l n="21" rend="blue">   amid small a <del>sprig of </del>       leaves</l>
+         <l n="22" rend="blue"> <del>flanked</del> by small widely alternating</l>
+         <l n="23" rend="blue">       a <del> sprout strange</del> unnatural &amp;</l>
+         <l n="24" rend="blue">         stem</l>
+         <l n="25" rend="blue"> I too am an escaper</l>
+         <l n="26" rend="blue">I too try to imagine that what</l>
+         <l n="27" rend="pencil">  is not right will do</l>
+         <l n="28" rend="blue">judicious genius<hi rend="pencil">es</hi>,selecting out for <del>me</del> <hi rend="pencil">us</hi></l>
+         <l n="29" rend="blue">a short-stemmed rose– <del>its shortness</del></l>
+         <l n="30" rend="blue"><del>emphasized by</del> surmounting widely alternated leaves</l>
+         <l n="31" rend="pencil">             with scarcely any </l>
+         <l n="32" rend="blue"><hi rend="pencil"><del>We</del></hi> I too am <del>an uneasy casuist</del></l>
+         <l n="33" rend="blue">         tempted to imagine that what</l>
+         <l n="34" rend="blue">          is not good may do</l>
          <l n="35"/>
-         <l n="36"><hi rend="pencil" xml:id="nb07_04_07_0047_recto_text_line_36_color_01"/>promenading in a quagmire</l>
-         <l n="37">  and a swan swimming in a lake</l>
-         <l n="38">peace in difficulties<hi rend="pencil" xml:id="nb07_04_07_0047_recto_text_line_38_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0047_recto_text_line_36_color_01" to="#nb07_04_07_0047_recto_text_line_38_color_01"/>-->
+         <l n="36" rend="pencil">promenading in a quagmire</l>
+         <l n="37" rend="pencil">  and a swan swimming in a lake</l>
+         <l n="38" rend="pencil">peace in difficulties</l>
 </lg>
       </div>
    </div>
@@ -1635,7 +1557,7 @@
       <pb facs="nb07_04_07_0049_recto.jpg"/>
       <div type="page" n="r.0049" xml:id="nb07_04_07_0049_recto_text">
       <lg>
-         <l n="01"><!-- IMAGE DECRIPTION: MM circles the letters "A" and "B" in lines 3 and 9 respectively. She also circles the "an" of "mane" in line 9.-->          A             B</l>
+         <l n="01">          A             B</l>
          <l n="02"><note>In lines 02-13, MM drafts toward the poem first published as "A Glass-Ribbed Nest," <title>The Kenyon Review</title> (Summer 1940).</note>The paper nautilaus &amp; Pheideus</l>
          <l n="03">frieze– A with a change in the direction</l>
          <l n="04">                           pattern</l>
@@ -1655,22 +1577,21 @@
          <l n="18">more like the horns of the big horn</l>
          <l n="19"> sheep.</l>
          <l n="20"/>
-         <l n="21"><hi rend="pencil" xml:id="nb07_04_07_0049_recto_text_line_21_color_01"/> _________ See the earth, our changing</l>
-         <l n="22"> planet.</l>
-         <l n="23">Kangar<hi rend="underline">oo</hi> &amp; em<hi rend="underline">u</hi>  coat of arms</l>
-         <l n="24">  ____________________</l>
-         <l n="25">                <del>in which</del> where nautiluses</l>
-         <l n="26">                       dwell</l>
-         <l n="27">  a few lines –. . . .</l>
-         <l n="28">  steel pitchfork-tines <del>mosaiced</del></l>
-         <l n="29">  <del>and</del> the watermarks on a star tortoiseshell,</l>
-         <l n="30">  and stripes of wheat <del>diamoned</del> well    –//</l>
-         <l n="31">  diamonded                      mosaiced</l>
-         <l n="32">                  tell</l>
-         <l n="33">                                    well</l>
-         <l n="34">Cocatrice, his skin the color of the shower</l>
-         <l n="36"> with fine white spots<hi rend="pencil" xml:id="nb07_04_07_0049_recto_text_line_35_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0049_recto_text_line_21_color_01" to="#nb07_04_07_0049_recto_text_line_35_color_01"/>-->
+         <l n="21" rend="pencil"> _________ See the earth, our changing</l>
+         <l n="22" rend="pencil"> planet.</l>
+         <l n="23" rend="pencil">Kangar<hi rend="underline">oo</hi> &amp; em<hi rend="underline">u</hi>  coat of arms</l>
+         <l n="24" rend="pencil">  ____________________</l>
+         <l n="25" rend="pencil">                <del>in which</del> where nautiluses</l>
+         <l n="26" rend="pencil">                       dwell</l>
+         <l n="27" rend="pencil">  a few lines –. . . .</l>
+         <l n="28" rend="pencil">  steel pitchfork-tines <del>mosaiced</del></l>
+         <l n="29" rend="pencil">  <del>and</del> the watermarks on a star tortoiseshell,</l>
+         <l n="30" rend="pencil">  and stripes of wheat <del>diamoned</del> well    –//</l>
+         <l n="31" rend="pencil">  diamonded                      mosaiced</l>
+         <l n="32" rend="pencil">                  tell</l>
+         <l n="33" rend="pencil">                                    well</l>
+         <l n="34" rend="pencil">Cocatrice, his skin the color of the shower</l>
+         <l n="5" rend="pencil"> with fine white spots</l>
 </lg>
       </div>
    </div>
@@ -1678,7 +1599,7 @@
       <pb facs="nb07_04_07_0050_verso.jpg"/>
       <div type="page" n="v.0050" xml:id="nb07_04_07_0050_verso_text">
       <lg>
-         <l n="01"><!-- IMAGE DECRIPTION: An arrow points from "Reindeer" in line 15 to "did" in line 11. MM cancels lines 21-27 with four parallel vertical lines.--><note>In lines 15-28, MM drafts toward the poem first published as "Rigorists," <title>What Are Years?</title> (1941).</note>   He's a warrior give him armor</l>
+         <l n="01"><note>In lines 15-28, MM drafts toward the poem first published as "Rigorists," <title>What Are Years?</title> (1941).</note>   He's a warrior give him armor</l>
          <l n="02">Knives &amp; daggers of the mind</l>
          <l n="03"> He has journeyed to two wars</l>
          <l n="04">                    the friend</l>
@@ -1699,14 +1620,13 @@
          <l n="19">    are</l>
          <l n="20">   needed to explain for us.</l>
          <l n="21"/>
-         <l n="22">  <hi rend="pencil" xml:id="nb07_04_07_0050_verso_text_line_22_color_01"/>We see Reindeer</l>
-         <l n="23">    drawing sleds not sleighs</l>
-         <l n="24">  &amp; little boys not toys</l>
-         <l n="25"> aesthetic</l>
-         <l n="26"> unecstatic reindeer–</l>
-         <l n="27">    the cold and idle that drag</l>
-         <l n="28">   themselves along.<hi rend="pencil" xml:id="nb07_04_07_0050_verso_text_line_28_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0050_verso_text_line_21_color_01" to="#nb07_04_07_0050_verso_text_line_28_color_01"/>-->
+         <l n="22" rend="pencil">  We see Reindeer</l>
+         <l n="23" rend="pencil">    drawing sleds not sleighs</l>
+         <l n="24" rend="pencil">  &amp; little boys not toys</l>
+         <l n="25" rend="pencil"> aesthetic</l>
+         <l n="26" rend="pencil"> unecstatic reindeer–</l>
+         <l n="27" rend="pencil">    the cold and idle that drag</l>
+         <l n="28" rend="pencil">   themselves along.</l>
 </lg>
       </div>
    </div>
@@ -1714,10 +1634,9 @@
       <pb facs="nb07_04_07_0051_recto.jpg"/>
       <div type="page" n="r.0051" xml:id="nb07_04_07_0051_recto_text">
       <lg>
-         <l n="01"><hi rend="pencil" xml:id="nb07_04_07_0051_recto_text_line_01_color_01"/><note>In lines 01-03, MM drafts toward the poem first published as "A Glass-Ribbed Nest," <title>The Kenyon Review</title> (Summer 1940).</note>Nummulites cornlike</l>
-         <l n="02">       foramenifera</l>
-         <l n="03">of paper Nautilus<hi rend="pencil" xml:id="nb07_04_07_0051_recto_text_line_03_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0051_recto_text_line_01_color_01" to="#nb07_04_07_0051_recto_text_line_03_color_01"/>-->
+         <l n="01" rend="pencil"><note>In lines 01-03, MM drafts toward the poem first published as "A Glass-Ribbed Nest," <title>The Kenyon Review</title> (Summer 1940).</note>Nummulites cornlike</l>
+         <l n="02" rend="pencil">       foramenifera</l>
+         <l n="03" rend="pencil">of paper Nautilus</l>
           </lg>
       </div>
    </div>
@@ -1725,12 +1644,10 @@
       <pb facs="nb07_04_07_0052_verso.jpg"/>
       <div type="page" n="v.0052" xml:id="nb07_04_07_0052_verso_text">
       <lg>
-         <l n="01"><hi rend="pencil" xml:id="nb07_04_07_0052_verso_text_line_01_color_01"/>a small spruce trees, as<note>MM writes "as" directly above a comma.</note> the only vestige</l>
-         <l n="02">  of <del>anything</del></l>
+         <l n="01" rend="pencil">a small spruce trees, as<note>MM writes "as" directly above a comma.</note> the only vestige</l>
+         <l n="02" rend="pencil">  of <del>anything</del></l>
          <l n="03"/>
-         <l n="04">    Two Fast Travellers<hi rend="pencil" xml:id="nb07_04_07_0052_verso_text_line_04_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0052_verso_text_line_01_color_01" to="#nb07_04_07_0052_verso_text_line_04_color_01"/>-->
-      
+         <l n="04" rend="pencil">    Two Fast Travellers</l>
           </lg>
       </div>
    </div>
@@ -1738,15 +1655,14 @@
       <pb facs="nb07_04_07_0053_recto.jpg"/>
       <div type="page" n="r.0053" xml:id="nb07_04_07_0053_recto_text">
       <lg>
-         <l n="01"><hi rend="pencil" xml:id="nb07_04_07_0053_recto_text_line_01_color_01"/>asymptote<note>After "asymptote" in line 1, M draws a graph of two curves on an axis, such that the lines of the axis form the asymptotes of the curves.</note></l>
+         <l n="01" rend="pencil">asymptote<note>After "asymptote" in line 1, M draws a graph of two curves on an axis, such that the lines of the axis form the asymptotes of the curves.</note></l>
          <l n="02"/>
-         <l n="03"> hydration</l>
-         <l n="04"> Atamasco lily or fairy wand</l>
+         <l n="03" rend="pencil"> hydration</l>
+         <l n="04" rend="pencil"> Atamasco lily or fairy wand</l>
          <l n="05"/>
-         <l n="06"> Here &amp; everywhere Hic &amp; ubique</l>
-         <l n="07">       <del>Hartford</del> Courant</l>
-         <l n="08">    Newcastle<hi rend="pencil" xml:id="nb07_04_07_0053_recto_text_line_08_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0053_recto_text_line_01_color_01" to="#nb07_04_07_0053_recto_text_line_08_color_01"/>-->
+         <l n="06" rend="pencil"> Here &amp; everywhere Hic &amp; ubique</l>
+         <l n="07" rend="pencil">       <del>Hartford</del> Courant</l>
+         <l n="08" rend="pencil">    Newcastle</l>
 </lg>
       </div>
    </div>
@@ -1789,13 +1705,12 @@
          <l n="25"/>
          <l n="26"/>
          <l n="27"/>
-         <l n="28"><hi rend="pencil" xml:id="nb07_04_07_0055_recto_text_line_28_color_01"/>        nose </l>
-         <l n="29">    So formed</l>
-         <l n="30">    as to completely close</l>
+         <l n="28" rend="pencil">        nose </l>
+         <l n="29" rend="pencil">    So formed</l>
+         <l n="30" rend="pencil">    as to completely close</l>
          <l n="31"/>
-         <l n="32">           296 <note>Image reoriented in viewer for ease of reading three lines of text appearing on this page. "296" is written near what would be the top of the page. Due to the reorientation of the image in the viewer, "296" appears upside down in the image.</note><!-- How is this note? --><hi rend="pencil" xml:id="nb07_04_07_0055_recto_text_line_32_color_01"/></l>
+         <l n="32" rend="pencil">           296 <note>Image reoriented in viewer for ease of reading three lines of text appearing on this page. "296" is written near what would be the top of the page. Due to the reorientation of the image in the viewer, "296" appears upside down in the image.</note><!-- How is this note? --></l>
          </lg>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0055_recto_text_line_28_color_01" to="#nb07_04_07_0055_recto_text_line_32_color_01"/>-->
       </div>
    </div>
    <div type="image" xml:id="nb07_04_07_0056_text">
@@ -1810,9 +1725,8 @@
       <pb facs="nb07_04_07_0057_verso.jpg"/>
       <div type="page" n="v.0057" xml:id="nb07_04_07_0057_verso_text">
       <lg>
-         <l n="01"><hi rend="pencil" xml:id="nb07_04_07_0057_verso_text_line_01_color_01"/>of <unclear resp="nikolauswasmoen">exercise among</unclear></l>
-         <l n="02"> ust<hi rend="pencil" xml:id="nb07_04_07_0057_verso_text_line_02_color_01"/></l>
-<!--         <span type="hi" rend="pencil" from="#nb07_04_07_0057_verso_text_line_01_color_01" to="#nb07_04_07_0057_verso_text_line_02_color_01"/>-->
+         <l n="01" rend="pencil">of <unclear resp="nikolauswasmoen">exercise among</unclear></l>
+         <l n="02" rend="pencil"> ust</l>
         </lg>
       </div>
    </div>
