@@ -39,8 +39,10 @@
                     <settlement>Philadelphia, PA</settlement>
                     <institution>Rosenbach Museum and Library</institution>
                     <repository>Marianne Moore Collection (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
-                    <idno>VII.01.04</idno>
-                </msIdentifier>
+                    <idno>VII.02.03</idno>
+                </msIdentifier>               
+               <p><ref target="nb07_02_03_intro">Notebook
+                      Editor's Introduction</ref></p>
                <p>Daily Journal for 1938, black leather
                   binding with red leather spine.
                   Pre-printed calendars appear on the inside
@@ -78,6 +80,22 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy source="mmda">
+               <category source="mmda">
+                  <catDesc>notebooks</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="genre">
+                  <catDesc>Reading</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>

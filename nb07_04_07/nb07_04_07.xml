@@ -26,13 +26,15 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Marianne Moore Digital Archive (moorearchive.org)</publisher>
-            <date>[Pub Date]</date>
+            <publisher>Marianne Moore Digital
+               Archive</publisher>
             <availability>
-               <licence>[License info]</licence>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/" type="BY-NC-SA 4.0">
+                  <p>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</p>
+               </licence>
             </availability>
-            <idno>07.01.04</idno>
-            <date>1923</date>
+            <idno>07.04.07</idno>
+            <date>1933 - 1940</date>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -40,44 +42,33 @@
                   <repository> Marianne Moore Collection, Rosenbach Museum and Library,
                      Philadelphia, PA
                      (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
-                  <idno>VII.01.04</idno>
+                  <idno>VII.04.07</idno>
                </msIdentifier>
+               <p><ref target="nb07_04_07_intro">Notebook
+                     Editor's Introduction</ref></p>
+               <p>This notebook has no extant cover or binding but consists of loose pages. The dates run from approximately 1934 to 1940. The genre is poetry throughout, with the exception of several pages (23 recto – 25 recto) of transcription from a source text on Captain John Smith. Several pages have a vertical line drawn straight down through all writing on the page, or varieties of straight or slanted lines, perhaps to indicate that Moore has gone back through this material. The notebook is written predominantly in pencil.</p>
+               <p>Relevant to publications: “A-Glass-Ribbed Nest” (later retitled “The Paper Nautilus”), ” “Camellia Sabina,” “Half Deity,” “He ‘Digesteth Harde Yron,’” “Nine Nectarines and Other Porcelain,” “Pigeons,” “See in the Midst of Fair Leaves,” “Smooth Gnarled Crepe Myrtle!,” “The Buffalo,” “The Frigate Pelican,” “Virginia Britannia,” “What Are Years?”</p>
+            </msDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <!-- <encodingDesc>
-            <classDecl>
-                <taxonomy source="https://arc-staging.dh.tamu.edu/index.php/Submitting_RDF">
-                    <category source="collex" xml:id="discipline">
-                        <catDesc>Literature</catDesc>
-                        <catDesc>Manuscript Studies</catDesc>
-                    </category>
-                    <category source="collex" xml:id="genre">
-                        <catDesc>Advertisement</catDesc>
-                        <catDesc>Criticism</catDesc>
-                        <catDesc>Ephemera</catDesc>
-                        <catDesc>Poetry</catDesc>
-                        <catDesc>Religion</catDesc>
-                        <catDesc>Review</catDesc>
-                        <catDesc>Speech</catDesc>
-                        <catDesc>Visual Art</catDesc>
-                    </category>
-                    <category source="collex" xml:id="thumbnail">
-                        <catDesc>[thumbnail image URL for notebook/object]</catDesc>
-                    </category>
-                    <category source="collex" xml:id="text">
-                        <catDesc>[plain text URL]</catDesc>
-                    </category>
-                    <category source="dc" xml:id="date">
-                        <catDesc>1930-43</catDesc>
-                    </category>
-                    <category source="dcterms" xml:id="hasPart">
-                        <catDesc>[notebook page RDF objects]</catDesc>
-                    </category>
-                </taxonomy>
-            </classDecl>
-        </encodingDesc> -->
+   <encodingDesc>
+      <classDecl>
+         <taxonomy source="mmda">
+            <category source="mmda">
+               <catDesc>notebooks</catDesc>
+            </category>
+         </taxonomy>
+      </classDecl>
+      <classDecl>
+         <taxonomy>
+            <category xml:id="genre">
+               <catDesc>Poetry</catDesc>
+            </category>
+         </taxonomy>
+      </classDecl>
+   </encodingDesc>
    <text xml:space="preserve" xml:id="nb07_04_07.xml">
       <body>
          <div type="image" xml:id="nb07_04_07_0001_text">
