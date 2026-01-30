@@ -45,38 +45,16 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Marianne Moore Digital
-               Archive</publisher>
+            <publisher>Marianne Moore Digital Archive</publisher>
             <availability>
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-                  <p>This work is licensed under a Creative
-                     Commons
-                     Attribution-NonCommercial-ShareAlike
-                     4.0 International License (BY-NC-SA
-                     4.0).</p>
-                  <p>The MMDA does not own the copyright to
-                     material presented on the MMDA. You do
-                     not need permission to use this
-                     material for in-class teaching
-                     purposes, school projects and
-                     assignments, blog posts, or brief
-                     non-commercial uses. Any other copying,
-                     distribution, or publication of
-                     previously unpublished Moore writing
-                     must receive permission from the
-                     Literary Estate of Marianne Moore,
-                     Literary Executor David M. Moore,
-                     dmoore@a1conflictresolver.com.</p>
-                  <p>Commercial use: For images and
-                     transcriptions of manuscripts, please
-                     contact Executor and Administrator of
-                     the Marianne Moore Literary Estate
-                     David M. Moore,
-                     dmoore@a1conflictresolver.com.</p>
+                  <p>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (BY-NC-SA 4.0).</p>
+                  <p>The MMDA does not own the copyright to material presented on the MMDA. You do not need permission to use this material for in-class teaching purposes, school projects and assignments, blog posts, or brief non-commercial uses. Any other copying, distribution, or publication of previously unpublished Moore writing must receive permission from the Literary Estate of Marianne Moore, Literary Executor David M. Moore, dmoore@a1conflictresolver.com.</p>
+                  <p>Commercial use: For images and transcriptions of manuscripts, please contact Executor and Administrator of the Marianne Moore Literary Estate David M. Moore, dmoore@a1conflictresolver.com.</p>
                </licence>
             </availability>
             <idno>07.01.04</idno>
-            <date>1923</date>
+            <date>October 3, 2022</date>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -90,22 +68,16 @@
                </msIdentifier>
                <p><ref target="nb07_01_04_intro">Notebook
                      Editor's Introduction</ref></p>
-               <p>Reading Notebook, 1923, brown leather
-                  binding. Blank grid paper (no
-                  pre-printing); opens in recto-verso
-                  format. First image with MM’s writing is
-                  the inside front cover: RML old number
-                  written by librarian in pencil: 1250-4; MM
-                  dates this page “Jan. 1 1923.” Striking
-                  aspect of this notebook is its detailed
-                  index.</p>
-               <p>Relevant to publications: “Marriage,” “An
-                  Octopus,” “Sea Unicorns and Land
-                  Unicorns,” “Bowls,” “Index” of
-                  Observations.</p>
+               <p>Reading Notebook, 1923, brown leather binding. Blank grid paper (no pre-printing); opens in recto-verso format. First image with MM’s writing is the inside front cover: RML old number written by librarian in pencil: 1250-4; MM dates this page “Jan. 1 1923.” Striking aspect of this notebook is its detailed index.</p>
+               <p>Relevant to publications: “Marriage,” “An Octopus,” “Sea Unicorns and Land Unicorns,” “Bowls,” “Index” of Observations.</p>
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <creation>
+            <origDate from="1923-01-01" to="1923-12-31">1923</origDate>
+         </creation>
+      </profileDesc>
       <encodingDesc>
          <classDecl>
             <taxonomy source="mmda">

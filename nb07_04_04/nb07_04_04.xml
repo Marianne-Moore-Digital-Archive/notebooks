@@ -6,48 +6,57 @@
                 <title>Notebook 07.04.04</title>
                 <author>Marianne Moore</author>
                 <editor>
-                    <persName>Heather Cass White</persName>
+                    <persName>Cristanne Miller</persName>
                     <note>Notebook Editor</note>
                     </editor>
                 <respStmt>
-                    <persName>Cristanne Miller,</persName>
-                    <resp>Proofreader</resp>
+                    <persName>Nikolaus Wasmoen</persName>
+                    <resp>Digital Editor</resp>
                 </respStmt>
                 <respStmt>
-                    <persName>Claire Nashar,</persName>
-                    <resp>Proofreader</resp>
+                    <persName>Robin Schulize and </persName>
+                    <persName>Patricia C. Willis</persName>
+                    <resp>Assistant Editors</resp>
                 </respStmt>
                 <respStmt>
-                    <persName>Heather Cass White,</persName>
-                    <resp>Proofreader</resp>
+                    <persName>Claire Nashar</persName>
+                    <resp>Assistant Project Manager</resp>
+                </respStmt>               
+                <respStmt>
+                    <persName>Patricia C. Willis, </persName>
+                    <persName>Stacy Hubbard, </persName>
+                    <persName>and Claire Nashar</persName>
+                    <resp>Notebook Proofreader</resp>
                 </respStmt>
                 <respStmt>
-                    <persName/>
+                    <persName>Abigale Ramos</persName>
                     <resp>Editorial Assistant</resp>
                 </respStmt>
                 <respStmt>
-                    <persName>Abigale Ramos,</persName>
-                    <resp>Editorial Assistant</resp>
+                    <persName>Stephanie Richter and </persName>
+                    <persName>Kehinde Alonge</persName>
+                    <resp>Project Assistants</resp>
                 </respStmt>
-                <editor>
-                    <persName>Nikolaus Wasmoen,</persName>
-                    <note>Digital Editor</note>
-                </editor>
                 <respStmt>
-                    <persName>Edward J. Sobczak,</persName>
+                    <persName>Sushanta Das and </persName>
+                    <persName>Tejas Sudhir Magar</persName>
+                    <resp>Web Developers</resp>
+                </respStmt> 
+                <respStmt>
+                    <persName>Edward J. Sobczak</persName>
                     <resp>Web Administrator</resp>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Marianne Moore Digital
-                    Archive</publisher>
+                <publisher>Marianne Moore Digital Archive</publisher>
                 <availability>
-                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/" type="BY-NC-SA 4.0">
-                        <p>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</p>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        <p>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (BY-NC-SA 4.0).</p>
+                        <p>The MMDA does not own the copyright to material presented on the MMDA. You do not need permission to use this material for in-class teaching purposes, school projects and assignments, blog posts, or brief non-commercial uses. Any other copying, distribution, or publication of previously unpublished Moore writing must receive permission from the Literary Estate of Marianne Moore, Literary Executor David M. Moore, dmoore@a1conflictresolver.com.</p>
+                        <p>Commercial use: For images and transcriptions of manuscripts, please contact Executor and Administrator of the Marianne Moore Literary Estate David M. Moore, dmoore@a1conflictresolver.com.</p>
                     </licence>
-                </availability>
                 <idno>07.04.04</idno>
-                <date>1922 – 1930</date>
+                <date>February 19, 2020</date>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -60,16 +69,15 @@
                     <p><ref target="nb07_04_04_intro">Notebook
                             Editor's Introduction</ref></p>
                     <p>Hardcover fliptop notebook, with leaf-like mottled design on front and back. Tiny page numbers written in pencil by RML staff on upper right corner of each recto page, following the inside front cover. Old RML notebook number: 1251-7.</p>
-                    <!-- Editorial Note: 
-                        For ease of proofing, I mark passages written vertically or in clusters independent of regular 
-                        horizontal lineation in green, or if additional colors are needed to distinguish, blue, red or 
-                        yellow. MM’s use of ditto marks will be replicated as "—that is, by a single set of quotation 
-                        marks.
-                    -->
                     <p>Relevant to publications: “Marriage,” “An Octopus,” “Silence,” “Sea Unicorns and Land Unicorns,” “Peter,” “People’s Surroundings,” “The Student,” “The Steeplejack,” “The Hero,” “The Jerboa,” “The Plumet Basilisk”. </p>
                 </msDesc>
             </sourceDesc>
-        </fileDesc>    
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <origDate from="1922-01-01" to="1930-12-31">1922 - 1930</origDate>
+            </creation>
+        </profileDesc>
         <encodingDesc>
             <classDecl>
                 <taxonomy source="mmda">

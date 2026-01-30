@@ -6,22 +6,26 @@
             <title>Notebook 07.04.07</title>
             <author>Marianne Moore</author>
             <editor>
-               <persName>Cristanne Miller, Claire Nashar</persName>
-               <note>Notebook Editor, June 12, 2020 - present</note>
+               <persName>Heather Cass White</persName>
             </editor>
             <respStmt>
-               <persName/>
-               <resp>Proofreader</resp>
+               <persName>Nikolaus L. Wasmoen</persName>
+               <resp>Digital Editor</resp>
             </respStmt>
             <respStmt>
-               <persName/>Proofreader</respStmt>
-            <editor>
-               <persName>Nikolaus L. Wasmoen,</persName>
-               <note>Digital Editor</note>
-            </editor>
-            <respStmt> </respStmt>
+               <persName>Claire Nashar</persName>
+               <resp>Assitant Project Manager</resp>
+            </respStmt>
             <respStmt>
-               <persName>Edward J. Sobczak,</persName>
+               <persName>Emily Setina</persName>
+               <resp>Notebook Proofreader</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Allison Vanouse and </persName><persName>Stephanie Richter</persName>
+               <resp>Project Assistants</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Edward J. Sobczak</persName>
                <resp>Web Administrator</resp>
             </respStmt>
          </titleStmt>
@@ -34,7 +38,7 @@
                </licence>
             </availability>
             <idno>07.04.07</idno>
-            <date>1933 - 1940</date>
+            <date>November 6, 2018</date>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -44,15 +48,17 @@
                      (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
                   <idno>VII.04.07</idno>
                </msIdentifier>
-               <p><ref target="nb07_04_07_intro">Notebook
-                     Editor's Introduction</ref></p>
+               <p><ref target="nb07_04_07_intro">Notebook Editor's Introduction</ref></p>
                <p>This notebook has no extant cover or binding but consists of loose pages. The dates run from approximately 1934 to 1940. The genre is poetry throughout, with the exception of several pages (23 recto – 25 recto) of transcription from a source text on Captain John Smith. Several pages have a vertical line drawn straight down through all writing on the page, or varieties of straight or slanted lines, perhaps to indicate that Moore has gone back through this material. The notebook is written predominantly in pencil.</p>
                <p>Relevant to publications: “A-Glass-Ribbed Nest” (later retitled “The Paper Nautilus”), ” “Camellia Sabina,” “Half Deity,” “He ‘Digesteth Harde Yron,’” “Nine Nectarines and Other Porcelain,” “Pigeons,” “See in the Midst of Fair Leaves,” “Smooth Gnarled Crepe Myrtle!,” “The Buffalo,” “The Frigate Pelican,” “Virginia Britannia,” “What Are Years?”</p>
             </msDesc>
-            </msDesc>
          </sourceDesc>
       </fileDesc>
-   </teiHeader>
+      <profileDesc>
+         <creation>
+            <origDate from="1931-01-01" to="1940-12-31">1934 - 1940</origDate>
+         </creation>
+      </profileDesc>   
    <encodingDesc>
       <classDecl>
          <taxonomy source="mmda">
@@ -69,6 +75,7 @@
          </taxonomy>
       </classDecl>
    </encodingDesc>
+   </teiHeader>
    <text xml:space="preserve" xml:id="nb07_04_07.xml">
       <body>
          <div type="image" xml:id="nb07_04_07_0001_text">

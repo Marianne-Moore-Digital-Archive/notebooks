@@ -1,87 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="tei_mmda.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
+   <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Notebook 07.03.11 (Draft Conversion)</title>
+                <title>Notebook 07.03.11</title>
                 <author>Marianne Moore</author>
                 <editor>
                     <persName>Cristanne Miller</persName>
                     <note>Notebook Editor</note>
-                    </editor>
-                <editor>
-                    <persName>Nikolaus Wasmoen,</persName>
-                    <note>Digital Editor</note>
                 </editor>
-                <respStmt>
-                    <persName>Edward J. Sobczak,</persName>
-                    <resp>Web Administrator</resp>
+               <respStmt>
+                  <persName>Nikolaus Wasmoen</persName>
+                  <resp>Digital Editor</resp>
+               </respStmt>
+
+               <respStmt>
+                  <persName>Claire Nashar</persName>
+                  <resp>Assitant Project Manager</resp>
+               </respStmt>
+               <respStmt>
+                  <persName>Heeba Kariapper</persName>
+                  <resp>Project Assistant</resp>
+               </respStmt>
+               <respStmt>
+                  <persName>Alok Asok, </persName>
+                  <persName>Karanjeet Signh, and </persName>
+                  <persName>Chaitanya Dineshkumar Brahmbhatt</persName>
+                  <resp>Web Developers</resp>
+               </respStmt>               
+               <respStmt>
+                  <persName>Edward J. Sobczak</persName>
+                  <resp>Web Administrator</resp>
                 </respStmt>
             </titleStmt>
-            <publicationStmt>
-                <publisher>Marianne Moore Digital Archive
-                    (moorearchive.org)</publisher>
-                <date>[2022]</date>
-                <availability>
-                    <licence>[License info]</licence>
-                </availability>
-                <idno>07.03.11</idno>
-                <date>19XX – 19XX</date>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc>
-                    <msIdentifier>
-                        <repository> Marianne Moore
-                            Collection, Rosenbach Museum and
-                            Library, Philadelphia, PA
-                            (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
-                        <idno>VII.03.11</idno>
-                    </msIdentifier>
-                    <p>TBD</p>
-                    <!-- Editorial Note: 
-                        For ease of proofing, I mark passages written vertically or in clusters independent of regular 
-                        horizontal lineation in green, or if additional colors are needed to distinguish, blue, red or 
-                        yellow. MM’s use of ditto marks will be replicated as "—that is, by a single set of quotation 
-                        marks.
-                    -->
-                    <p>TBD</p>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <!-- ModNets RDF 
-            
-            <encodingDesc>
-            <classDecl>
-                <taxonomy source="https://arc-staging.dh.tamu.edu/index.php/Submitting_RDF">
-                    <category source="collex" xml:id="discipline">
-                        <catDesc>Literature</catDesc>
-                        <catDesc>Manuscript Studies</catDesc>
-                    </category>
-                    <category source="collex" xml:id="genre">
-                        <catDesc>Advertisement</catDesc>
-                        <catDesc>Criticism</catDesc>
-                        <catDesc>Ephemera</catDesc>
-                        <catDesc>Poetry</catDesc>
-                        <catDesc>Religion</catDesc>
-                        <catDesc>Review</catDesc>
-                        <catDesc>Speech</catDesc>
-                        <catDesc>Visual Art</catDesc>
-                    </category>
-                    <category source="collex" xml:id="thumbnail">
-                        <catDesc>[thumbnail image URL for notebook/object]</catDesc>
-                    </category>
-                    <category source="collex" xml:id="text">
-                        <catDesc>[plain text URL]</catDesc>
-                    </category>
-                    <category source="dc" xml:id="date">
-                        <catDesc>1930-43</catDesc>
-                    </category>
-                    <category source="dcterms" xml:id="hasPart">
-                        <catDesc>[notebook page RDF objects]</catDesc>
-                    </category>
-                </taxonomy>
-            </classDecl>
-        </encodingDesc> -->
+           <publicationStmt>
+              <publisher>Marianne Moore Digital Archive</publisher>
+              <availability>
+                 <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                    <p>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (BY-NC-SA 4.0).</p>
+                    <p>The MMDA does not own the copyright to material presented on the MMDA. You do not need permission to use this material for in-class teaching purposes, school projects and assignments, blog posts, or brief non-commercial uses. Any other copying, distribution, or publication of previously unpublished Moore writing must receive permission from the Literary Estate of Marianne Moore, Literary Executor David M. Moore, dmoore@a1conflictresolver.com.</p>
+                    <p>Commercial use: For images and transcriptions of manuscripts, please contact Executor and Administrator of the Marianne Moore Literary Estate David M. Moore, dmoore@a1conflictresolver.com.</p>
+                 </licence>
+              </availability>
+              <idno>07.04.05</idno>
+              <date>June 30, 2016</date>
+           </publicationStmt>
+           <sourceDesc>
+              <msDesc>
+                 <msIdentifier>
+                    <settlement>Philadelphia, PA</settlement>
+                    <institution>Rosenbach Museum and Library</institution>
+                    <repository>Marianne Moore Collection (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
+                    <idno>VII.04.05</idno>
+                 </msIdentifier>
+                 <p><ref target="nb07_03_11_intro">Notebook Editor's Introduction</ref></p>
+                 <p>Yearbook 1921, red leather binding. Includes 8 pages of pre-printed information of various kinds, e.g. Time Differences, Thermometers; Greatest Altitude in Each State; followed by lined calendar pages divided in half so that each leaf contains two dates. First image with MM’s writing is the inside front cover. RML number written in pencil: 1250-27.</p>
+                 <p>Relevant to publications: “The Steeple-Jack,” “Frigate Pelican,” The Buffalo, “The Pangolin,” “Old Tiger,” Camellia Sabina,” “Half-Deity,” “Elephants,” “Rigorists,” “He ‘Digesteth Harde Yron’,” “For February 14th,” “Walking-Sticks and Paperweights and Watermarks,” and Moore’s unpublished novel, “The Way We Live Now”</p>
+              </msDesc>
+           </sourceDesc>
+        </fileDesc>      
+      <profileDesc>
+           <creation>
+              <origDate from="1929-06-26" to="1940-12-31">June 26, 1929 - 1940</origDate>
+           </creation>
+        </profileDesc>        
+      <encodingDesc>
+         <classDecl>
+            <taxonomy source="mmda">
+               <category source="mmda">
+                  <catDesc>notebooks</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="genre">
+                  <catDesc>Miscellaneous</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
     </teiHeader>
    <text xml:space="preserve" xml:id="nb07_03_11.xml" rend="read">
       <body>
