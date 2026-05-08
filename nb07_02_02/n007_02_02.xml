@@ -340,8 +340,8 @@
                 <pb facs="nb07_02_02_0028_recto.jpg" n="0028_recto"/>
                 <lg>
                     <l n="01">Oct 19 1930</l>
-                    <l n="02"><bibl rend="begin"/>Close-Up Oct 1930<note>Herring, Robert. “Conrad Veidt.” Close Up 7.4 (October 1930): 270-72.</note></l>
-                    <l n="03">Conrad Veidt<note>Veidt, Conrad [1893-1943]. German film star of the Expressionist era who worked in Hollywood in the late 1920s.</note> by Rob't Herring.<note>Herring, Robert [1903-1975]. London-based writer known for his commentary and criticism of early cinema who joined Close Up as London correspondent in 1927.</note><bibl rend="end"/></l>
+                    <l n="02"><bibl corresp="nb07_02_02_0028_l2_bibl"/>Close-Up Oct 1930<note>Herring, Robert. “Conrad Veidt.” Close Up 7.4 (October 1930): 270-72.</note></l>
+                    <l n="03">Conrad Veidt<note>Veidt, Conrad [1893-1943]. German film star of the Expressionist era who worked in Hollywood in the late 1920s.</note> by Rob't Herring.<note>Herring, Robert [1903-1975]. London-based writer known for his commentary and criticism of early cinema who joined Close Up as London correspondent in 1927.</note><bibl corresp="#nb07_02_02_0028_l2_bibl"/></l>
                     <l n="04"><quote rend="begin"/>C. V: So many things have happened these</l>
                     <l n="05">last few twenty years, I say “Yes”</l>
                     <l n="06">when you tell me of anything tomorrow.</l>
