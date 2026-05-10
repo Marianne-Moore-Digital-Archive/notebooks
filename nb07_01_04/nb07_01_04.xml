@@ -145,14 +145,14 @@
       <body>
          <div type="image" xml:id="nb07_01_04_0001_text">
             <pb facs="nb07_01_04_0001_recto.jpg"/>
-               <!--               <desc>[Outside front cover.]</desc>-->
+               <!-- <desc>[Outside front cover.]</desc>-->
                <lg>
                   <l n="01">[No handwriting on this page.]</l>
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0002_text">
             <pb facs="nb07_01_04_0002_verso.jpg"/>
-               <!--               <desc>[Inside front cover.]</desc>-->
+               <!-- <desc>[Inside front cover.]</desc>-->
                <lg>
                   <l n="01">            M. Moore</l>
                   <l n="02">             14 St. Luke's Place</l>
@@ -809,8 +809,8 @@
             </div>
          <div type="image" xml:id="nb07_01_04_0031_text">
             <pb facs="nb07_01_04_0031_recto.jpg"/>
-               <desc>MM draws curved lines linking lines 07-15 and lines 16-17, labeling the first
-                  group 2 and the second 1</desc>
+               <!-- <desc>MM draws curved lines linking lines 07-15 and lines 16-17, labeling the first
+                  group 2 and the second 1</desc> -->
                <lg>
                   <l n="01">      <note>Galsworthy, John. <title>Forsyte Saga</title> (see earlier note).</note><quote type="begin"/>they'll think we're doing this on purpose too."</l>
                   <l n="02">        . . . .  It's quite wonderful in there," she said                 14</l>
@@ -2098,7 +2098,7 @@
             </div>
          <div type="image" xml:id="nb07_01_04_0088_text">
             <pb facs="nb07_01_04_0088_verso.jpg"/>
-               <desc>MM draws an upside down triangle of dots; right-side up this is the mathematical symbol for "therefore"</desc>
+               <!-- <desc>MM draws an upside down triangle of dots; right-side up this is the mathematical symbol for "therefore"</desc> -->
                <lg>
                   <l n="01">   <note>Spenser, Edmund. <title>The Poetical Works of Spenser</title> (see earlier note).</note><quote type="begin"/>precisely officious, I make you a present of this</l>
                   <l n="02">   simple pastorall, unworthie of your higher conceipt</l>
@@ -2375,7 +2375,7 @@
             </div>
          <div type="image" xml:id="nb07_01_04_0100_text">
             <pb facs="nb07_01_04_0100_verso.jpg"/>
-               <desc>Lines 05, 07, MM circles 1 and 2</desc>
+              <!-- <desc>Lines 05, 07, MM circles 1 and 2</desc> -->
                <lg>
                   <l n="01"> <note>Fry, Roger. <title>Vision and Design</title> (see earlier note).</note><quote type="begin"/>Christian legend very much what  Pindar did</l>
                   <l n="02">  for  classical mythology.</l>
@@ -2595,8 +2595,8 @@
             </div>
          <div type="image" xml:id="nb07_01_04_0110_text">
             <pb facs="nb07_01_04_0110_verso.jpg"/>
-               <desc>MM draws a curly bracket around the end of the last 4 lines of the quoted
-                  verse, before writing "Prologue"</desc>
+               <!-- <desc>MM draws a curly bracket around the end of the last 4 lines of the quoted
+                  verse, before writing "Prologue"</desc> -->
                <lg>
                   <l n="01">   <note>Tappé, Herman Patrick. <title>Harper's Bazar</title> (see earlier note).</note><quote type="begin"/>all, a cloak of dull plum with a swirling</l>
                   <l n="02">   circular flounce falling from knee to ankle and</l>
@@ -2894,8 +2894,8 @@
             </div>
          <div type="image" xml:id="nb07_01_04_0123_text">
             <pb facs="nb07_01_04_0123_recto.jpg"/>
-               <desc>MM circles two lines of cancelled text on the right-hand side of lines 12 and
-                  13 in black pen. She shades the middle of the circle with blue pencil.</desc>
+               <!-- <desc>MM circles two lines of cancelled text on the right-hand side of lines 12 and
+                  13 in black pen. She shades the middle of the circle with blue pencil.</desc> -->
                <lg>
                   <l n="01"><note>MM writes text across both pages in lines 10 and 12. Text across both pages reads: "Cescinsky chinese furniture 27" and "Chinese painting met. museum 5"</note></l>
                   <l n="02">  D                                                             60</l>
@@ -2921,8 +2921,8 @@
             </div>
          <div type="image" xml:id="nb07_01_04_0124_text">
             <pb facs="nb07_01_04_0124_verso.jpg"/>
-               <desc>MM draws a bracket from "the left of Belasco in line 4 to below "slightly
-                  nervous" in line 9.</desc>
+              <!-- <desc>MM draws a bracket from "the left of Belasco in line 4 to below "slightly
+                  nervous" in line 9.</desc> -->
                <lg>
                   <l n="01">I  Indian art, Coomaraswamy 3      ma double vie–32</l>
                   <l n="02">   Industrial arts   55           Marriage–see George 1–3</l>
@@ -2949,8 +2949,8 @@
             </div>
          <div type="image" xml:id="nb07_01_04_0125_text">
             <pb facs="nb07_01_04_0125_recto.jpg"/>
-               <desc>MM draws a bracket from the right of "Poor man" in line 6 to line 9. On left
-                  bottom margin, MM also draws a small upward arrow.</desc>
+               <!-- <desc>MM draws a bracket from the right of "Poor man" in line 6 to line 9. On left
+                  bottom margin, MM also draws a small upward arrow.</desc> -->
                <lg>
                   <l n="01">    Mediaeval (unicorn) 11             Lawrence Fantasia–33</l>
                   <l n="02">    Traherne–23                       Meynell, A.  prose 19</l>
@@ -2978,8 +2978,8 @@
             </div>
          <div type="image" xml:id="nb07_01_04_0126_text">
             <pb facs="nb07_01_04_0126_verso.jpg"/>
-               <desc>MM draws a line, with bracketed top, in the left margin from line 6 to line
-                  9.</desc>
+              <!-- <desc>MM draws a line, with bracketed top, in the left margin from line 6 to line
+                  9.</desc> -->
                <lg>
                   <l n="01"> Shakespeare–tercentenary 1st folio–21  U</l>
                   <l n="02"> Shelley–Def of poetry  36             Unamuno–30</l>
