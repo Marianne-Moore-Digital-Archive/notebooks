@@ -1,4 +1,5 @@
-<?xml-model href="tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="tei_mmda.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">f <teiHeader>
+<?xml-model href="tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="tei_mmda.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">f <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Notebook 07.01.04</title>
@@ -46,7 +47,8 @@
             <publisher>Marianne Moore Digital
                Archive</publisher>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+               <licence
+                  target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
                   <p>This work is licensed under a Creative
                      Commons
                      Attribution-NonCommercial-ShareAlike
@@ -86,7 +88,10 @@
                      (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
                   <idno>VII.01.04</idno>
                </msIdentifier>
-               <p><ref target="../essays/nb07_01_04_intro.xml">Notebook Editor's Introduction</ref></p>
+               <p><ref
+                     target="../essays/nb07_01_04_intro.xml"
+                     >Notebook Editor's
+                  Introduction</ref></p>
                <p>Reading Notebook, 1923, brown leather
                   binding. Blank grid paper (no
                   pre-printing); opens in recto-verso
@@ -100,12 +105,23 @@
                   Octopus,” “Sea Unicorns and Land
                   Unicorns,” “Bowls,” “Index” of
                   Observations.</p>
+               <p><hi rend="bold">Notebook Contents:</hi> MM
+                  takes notes from various sources and
+                  writes in different genres, sometimes
+                  within a single notebook. When a content
+                  type does not correspond with the genre of
+                  the notebook, it is coded in the margin
+                  as:</p>
+               <p><figure rend="center"><graphic width="15%"
+                        url="resources/images/moore/genreTagging.jpg"
+                     /></figure></p>
             </msDesc>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
          <creation>
-            <origDate from="1923-01-01" to="1923-12-31">1923</origDate>
+            <origDate from="1923-01-01" to="1923-12-31"
+               >1923</origDate>
          </creation>
       </profileDesc>
       <encodingDesc>
@@ -129,14 +145,14 @@
       <body>
          <div type="image" xml:id="nb07_01_04_0001_text">
             <pb facs="nb07_01_04_0001_recto.jpg"/>
-               <desc>[Outside front cover.]</desc>
+               <!--               <desc>[Outside front cover.]</desc>-->
                <lg>
                   <l n="01">[No handwriting on this page.]</l>
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0002_text">
             <pb facs="nb07_01_04_0002_verso.jpg"/>
-               <desc>[Inside front cover.]</desc>
+               <!--               <desc>[Inside front cover.]</desc>-->
                <lg>
                   <l n="01">            M. Moore</l>
                   <l n="02">             14 St. Luke's Place</l>
@@ -171,7 +187,7 @@
             <pb facs="nb07_01_04_0005_recto.jpg"/>
                <lg>
                   <l n="01">                                                                Jan.</l>
-                  <l n="02">W L George<note target="georgeLionel">George, Lionel Walter [1882-1926]. British author known for his popular fiction and writings on feminism. Author of The Intelligence of Woman (1916).</note><bibl>    Art of Courtship.  Harper's 1923</bibl><note>George, Lionel Walter. "The Art of Courtship." <title>Harper's Bazar</title> (January 1923): 212-218.</note></l>
+                  <l n="02">W L George<note target="georgeLionel">George, Lionel Walter [1882-1926]. British author known for his popular fiction and writings on feminism. Author of <title>The Intelligence of Woman</title> (1916).</note><bibl>    Art of Courtship.  Harper's 1923</bibl><note>George, Lionel Walter. "The Art of Courtship." <title>Harper's Bazar</title> (January 1923): 212-218.</note></l>
                   <l n="03">            (Generalizations on courtship)</l>
                   <l n="04"> <quote corresp="nb07_01_04_0005_l04_quote"/>They do not apply to super emotional people,</l>
                   <l n="05">to artists, . . or to the unduly intellectual</l>
