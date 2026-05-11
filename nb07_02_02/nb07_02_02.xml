@@ -4287,7 +4287,7 @@
          </div>
          <div type="image" xml:id="nb07_02_02_0104_text">
             <pb facs="nb07_02_02_0104_verso.jpg"/>
-                        <lg type="sideways">
+            <lg type="sideways">
                <l n="v01"><!--<desc>span lines 10-21, left margin </desc>--><quote>           a common phantasy-value </quote></l>
             </lg>
             <lg>
@@ -4318,7 +4318,6 @@
                <l n="25">he happens to be preeminently</l>
                <l n="26">sensitive (W: this extraord<quote rend="end"/></l>
             </lg>
-
             <pb facs="nb07_02_02_0104_recto.jpg"/>
             <lg>
                <l n="01"><note>Wheelwright, Philip E. Rev. of Dr. Kerkhoven (see earlier note).</note><quote>sensitiveness to moral atmosphere) </quote></l>
@@ -5712,56 +5711,56 @@
             </lg>
             <pb facs="nb07_02_02_0131_recto.jpg"/>
             <lg>
-               <l n="01"><note>Bonar, Horatius. Hymns of Faith &amp; Hope (see earlier note).</note><quote corresp="0131_recto_l01_quote"/>74  Redeem the Time</l>
-               <l n="02"/>
-               <l n="03"> Death worketh </l>
-               <l n="04">     Let me work too;       Repeat </l>
-               <l n="05"> Death undoeth,</l>
-               <l n="06">     Let me do.</l>
-               <l n="07">Busy as death my work I ply,</l>
-               <l n="08">Till I rest in the rest of eternity.</l>
-               <l n="09"/>
-               <l n="10">    Time worketh,</l>
-               <l n="11">       Let me work too;</l>
-               <l n="12">    Time undoeth.</l>
-               <l n="13">       Let me undo.</l>
-               <l n="14"> Busy etc</l>
-               <l n="15">    Sin worketh</l>
-               <l n="16">       Let me work too</l>
-               <l n="17">    Sin undoeth;</l>
-               <l n="18">       Let me do.</l>
-               <l n="19"> Busy etc.[/g]</l>
-               <l n="20"/>
-               <l n="21"> 110 Life &amp; I</l>
-               <l n="22"> 3rd stanza  ones[/g]<quote corresp="#0131_recto_l22_quote"/></l>
+               <l n="01" rend="verse"><note>Bonar, Horatius. Hymns of Faith &amp; Hope (see earlier note).</note><quote corresp="0131_recto_l01_quote"/>74  Redeem the Time</l>
+               <l n="02" rend="verse"/>
+               <l n="03" rend="verse"> Death worketh </l>
+               <l n="04" rend="verse">     Let me work too;       Repeat </l>
+               <l n="05" rend="verse"> Death undoeth,</l>
+               <l n="06" rend="verse">     Let me do.</l>
+               <l n="07" rend="verse">Busy as death my work I ply,</l>
+               <l n="08" rend="verse">Till I rest in the rest of eternity.</l>
+               <l n="09" rend="verse"/>
+               <l n="10" rend="verse">    Time worketh,</l>
+               <l n="11" rend="verse">       Let me work too;</l>
+               <l n="12" rend="verse">    Time undoeth.</l>
+               <l n="13" rend="verse">       Let me undo.</l>
+               <l n="14" rend="verse"> Busy etc</l>
+               <l n="15" rend="verse">    Sin worketh</l>
+               <l n="16" rend="verse">       Let me work too</l>
+               <l n="17" rend="verse">    Sin undoeth;</l>
+               <l n="18" rend="verse">       Let me do.</l>
+               <l n="19" rend="verse"> Busy etc.[/g]</l>
+               <l n="20" rend="verse"/>
+               <l n="21" rend="verse"> 110 Life &amp; I</l>
+               <l n="22" rend="verse"> 3rd stanza  ones[/g]<quote corresp="#0131_recto_l22_quote"/></l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0132_text">
             <pb facs="nb07_02_02_0132_verso.jpg"/>
             <lg>
-               <l n="01"><note>Bonar, Horatius. Hymns of Faith &amp; Hope (see earlier note).</note><quote corresp="0132_verso_l01_quote"/>41     Life &amp; I</l>
-               <l n="02">    3rd st.</l>
-               <l n="03">Life is the mountain lake.</l>
-               <l n="04">    And I a drifting cloud,</l>
-               <l n="05">Or a cloud’s broken shadow on the</l>
-               <l n="06">                              wane</l>
-               <l n="07">    One of the silent multitude that crowd,</l>
-               <l n="08">With ever-varying pace</l>
-               <l n="09">Across the waters’ face!</l>
-               <l n="10"/>
-               <l n="11">184   Lord, thou art mine.</l>
-               <l n="12">Lord, thou art mine,</l>
-               <l n="13">   Send help to me!</l>
-               <l n="14">Christ I am thine,</l>
-               <l n="15">   Deliver me!</l>
-               <l n="16">        Then shall I praise, &amp; sing</l>
-               <l n="17">       “My soul, bless thou thy God</l>
-               <l n="18">                           &amp; King.”</l>
-               <l n="19">Mercies are thine,</l>
-               <l n="20">    Remember me!</l>
-               <l n="21">Sad sins are mine,</l>
-               <l n="22">    Oh pardon me!</l>
-               <l n="23">         Repeat above<quote corresp="#0132_verso_l23_quote"/></l>
+               <l n="01" rend="verse"><note>Bonar, Horatius. Hymns of Faith &amp; Hope (see earlier note).</note><quote corresp="0132_verso_l01_quote"/>41     Life &amp; I</l>
+               <l n="02" rend="verse">    3rd st.</l>
+               <l n="03" rend="verse">Life is the mountain lake.</l>
+               <l n="04" rend="verse">    And I a drifting cloud,</l>
+               <l n="05" rend="verse">Or a cloud’s broken shadow on the</l>
+               <l n="06" rend="verse">                              wane</l>
+               <l n="07" rend="verse">    One of the silent multitude that crowd,</l>
+               <l n="08" rend="verse">With ever-varying pace</l>
+               <l n="09" rend="verse">Across the waters’ face!</l>
+               <l n="10" rend="verse"/>
+               <l n="11" rend="verse">184   Lord, thou art mine.</l>
+               <l n="12" rend="verse">Lord, thou art mine,</l>
+               <l n="13" rend="verse">   Send help to me!</l>
+               <l n="14" rend="verse">Christ I am thine,</l>
+               <l n="15" rend="verse">   Deliver me!</l>
+               <l n="16" rend="verse">        Then shall I praise, &amp; sing</l>
+               <l n="17" rend="verse">       “My soul, bless thou thy God</l>
+               <l n="18" rend="verse">                           &amp; King.”</l>
+               <l n="19" rend="verse">Mercies are thine,</l>
+               <l n="20" rend="verse">    Remember me!</l>
+               <l n="21" rend="verse">Sad sins are mine,</l>
+               <l n="22" rend="verse">    Oh pardon me!</l>
+               <l n="23" rend="verse">         Repeat above<quote corresp="#0132_verso_l23_quote"/></l>
             </lg>
             <pb facs="nb07_02_02_0132_recto.jpg"/>
             <lg>
@@ -6483,43 +6482,7 @@
                <l n="23"><quote corresp="0147_verso_l23_quoteB"/>An old cock just before his end</l>
                <l n="24"> lays a few small, round,<quote corresp="#0147_verso_l24_quoteB"/></l>
             </lg>
-         </div>
-         <div type="image" xml:id="nb07_02_02_0000_recto">
-            <pb facs="nb07_02_02_0000_recto.jpg"/>
-            <lg>
-               <l n="01"/>
-               <l n="02"/>
-               <l n="03"/>
-               <l n="04"/>
-               <l n="05"/>
-               <l n="06"/>
-               <l n="07"/>
-               <l n="08"/>
-               <l n="09"/>
-               <l n="10"/>
-               <l n="11"/>
-               <l n="12"/>
-               <l n="13"/>
-               <l n="14"/>
-               <l n="15"/>
-               <l n="16"/>
-               <l n="17"/>
-               <l n="18"/>
-               <l n="19"/>
-               <l n="20"/>
-               <l n="21"/>
-               <l n="22"/>
-               <l n="23"/>
-               <l n="24"/>
-               <l n="25"/>
-               <l n="26"/>
-               <l n="27"/>
-               <l n="28"/>
-               <l n="29"/>
-            </lg>
-         </div>
-         <div type="image" xml:id="nb07_02_02_0000_verso">
-            <pb facs="nb07_02_02_0000_verso.jpg"/>
+            <pb facs="nb07_02_02_0147_recto.jpg"/>
             <lg>
                <l n="01"/>
                <l n="02"/>
@@ -6886,13 +6849,13 @@
          <div type="image" xml:id="nb07_02_02_0153_recto">
             <pb facs="nb07_02_02_0153_recto.jpg"/>
             <lg>
-               <l n="01">There's not handwriting on this page.</l>
+               <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0154_verso">
             <pb facs="nb07_02_02_0154_verso.jpg"/>
             <lg>
-               <l n="01">There's not handwriting on this page.</l>
+               <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0154_recto">
@@ -6949,6 +6912,10 @@
          </div>
          <div type="image" xml:id="nb07_02_02_0155_recto">
             <pb facs="nb07_02_02_0155_recto.jpg"/>
+            <lg type="sideways">
+               <!-- Editorial description for line v26: span lines 2-10, left margin -->
+               <l n="v28">                                      Feb 16 1935</l>
+            </lg>
             <lg>
                <l n="01"> Print in Ladd's Old Book Shop</l>
                <l n="02">Portrait of a Pouter is Humbly</l>
@@ -6976,10 +6943,6 @@
                <l n="23">and design in my heart were</l>
                <l n="24">to exalt the glory of His name</l>
                <l n="25">and, which is the same thing</l>
-            </lg>
-            <lg type="vertical">
-               <!-- Editorial description for line v26: span lines 2-10, left margin -->
-               <l n="v28">Feb 16 1935</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0156_verso">
@@ -7020,6 +6983,10 @@
          <div type="image" xml:id="nb07_02_02_0156_recto">
             <pb facs="nb07_02_02_0156_recto.jpg"/>
             <!--<desc>On line 23 MM draws a line through the letter J in “Jade” in pencil.</desc>-->
+            <lg type="sideways">
+               <!-- Editorial description for line v28: span lines 1-4, left margin -->
+               <l n="v28"><hi rend="blue">                                                              Mar 25 35</hi></l>
+            </lg>
             <lg>
                <l n="01"><hi rend="blue">  <bibl corresp="0156_recto_l01_bibl"/>NY Sun 23 Mar 1935<bibl corresp="#0156_recto_l01_bibl"/></hi></l>
                <l n="02"><hi rend="blue"><quote corresp="0156_recto_l02_quote"/>p.30 Bowl supported by</hi></l>
@@ -7048,10 +7015,6 @@
                <l n="25"><hi rend="blue"> Feb 17 34 Greyhounds the Book of</hi></l>
                <l n="26"><hi rend="blue">          the Greyhound by Ed. C Ash</hi></l>
                <l n="27"><hi rend="blue">Swift and Sure</hi></l>
-            </lg>
-            <lg type="vertical">
-               <!-- Editorial description for line v28: span lines 1-4, left margin -->
-               <l n="v28"><hi rend="blue">Mar 25 35</hi></l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0157_verso">
@@ -7260,6 +7223,10 @@
          </div>
          <div type="image" xml:id="nb07_02_02_0160_recto">
             <pb facs="nb07_02_02_0160_recto.jpg"/>
+            <lg type="sideways">
+               <!-- Editorial description for line v24: span lines 5-9, right margin -->
+               <l n="v24"><hi rend="pencil">                                     Burne Jones</hi></l>
+            </lg>
             <lg>
                <l n="01"><hi rend="blue"><note>"A Book Exhibition in London" (see earlier note).</note>&amp; in the 19<add>th</add>Bewick Flaxman</hi></l>
                <l n="02"><hi rend="blue">Turner Rowlandson, Cruikshank</hi></l>
@@ -7285,10 +7252,6 @@
                <l n="21"><hi rend="blue"><hi rend="underline">the Countess of Blessington</hi></hi></l>
                <l n="22"><hi rend="blue">Galt's <hi rend="underline">Literary Life</hi></hi></l>
                <l n="23"><hi rend="blue"><hi rend="underline">Journal of a West India Proprietor</hi></hi></l>
-            </lg>
-            <lg type="vertical">
-               <!-- Editorial description for line v24: span lines 5-9, right margin -->
-               <l n="v24"><hi rend="pencil">Burne Jones</hi></l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0161_verso">
@@ -7377,18 +7340,6 @@
                <l n="23"><hi rend="pencil">5</hi><hi rend="blue">Northumberland. Duke of N</hi></l>
                <l n="24"><hi rend="pencil">6</hi><hi rend="blue">Matthews Major Thomas an off,</hi></l>
                <l n="25"><hi rend="blue">                    in Revolution</hi></l>
-            </lg>
-         </div>
-         <div type="image" xml:id="nb07_02_02_0162_recto">
-            <pb facs="nb07_02_02_0162_recto.jpg"/>
-            <lg>
-               <l n="01">There's no handwriting on this page.</l>
-            </lg>
-         </div>
-         <div type="image" xml:id="nb07_02_02_0163_verso">
-            <pb facs="nb07_02_02_0163_verso.jpg"/>
-            <lg>
-               <l n="01">There's no handwriting on this page.</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0163_recto">
@@ -7885,18 +7836,6 @@
                <l n="25"><hi rend="blue">which must not seem excessive,</hi></l>
             </lg>
          </div>
-         <div type="image" xml:id="nb07_02_02_0171_recto">
-            <pb facs="nb07_02_02_0171_recto.jpg"/>
-            <lg>
-               <l n="01">There's no handwriting on this page.</l>
-            </lg>
-         </div>
-         <div type="image" xml:id="nb07_02_02_0172_verso">
-            <pb facs="nb07_02_02_0172_verso.jpg"/>
-            <lg>
-               <l n="01">There's no handwriting on this page.</l>
-            </lg>
-         </div>
          <div type="image" xml:id="nb07_02_02_0172_recto">
             <pb facs="nb07_02_02_0172_recto.jpg"/>
             <lg>
@@ -8031,6 +7970,10 @@
             <!--<desc>MM draws a bracket in the left margin on lines 14-18; on line 18, she draws a
                     peculiarly shaped J, presumably to indicate the typescript used. She draws an
                     arrow from the “J” pointing to the first letter of “John.”</desc>-->
+            <lg type="sideways">
+               <!-- Editorial description for line v27: span lines 19-16, left margin, in two rows of print -->
+               <l n="v27"><hi rend="blue">                  Roman / rest italic</hi></l>
+            </lg>
             <lg>
                <l n="01"><hi rend="blue"><note>Smith, John. <title>An Accidence</title>(see earlier note)</note>I know not: my greatest error</hi></l>
                <l n="02"><hi rend="blue">in this is but a desire to do good;</hi></l>
@@ -8059,10 +8002,6 @@
                <l n="23"><hi rend="blue">doated so much on their Tobacco, on</hi></l>
                <l n="24"><hi rend="blue">whose furnish foundation there is <del>small</del></hi></l>
                <l n="25"><hi rend="blue">small stability: there being so many</hi></l>
-            </lg>
-            <lg type="vertical">
-               <!-- Editorial description for line v27: span lines 19-16, left margin, in two rows of print -->
-               <l n="v27"><hi rend="blue">Roman / rest italic</hi></l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0175_verso">
@@ -8285,6 +8224,10 @@
          <div type="image" xml:id="nb07_02_02_0178_recto">
             <pb facs="nb07_02_02_0178_recto.jpg"/>
             <!--<desc>On line 23 MM underscores the phrase in orange crayon.</desc>-->
+            <lg type="sideways">
+               <!-- Editorial description for line v29: span lines 28-01, left margin, in two rows of print. -->
+               <l n="v29"><hi rend="blue">26 Oct 1935 The wedding of Mr. Stephen Beckingham &amp; Miss Mary Cox / Wm<del>?^</del> Hogarth</hi></l>
+            </lg>
             <lg>
                <l n="01"><hi rend="blue"><note>"The Forum of Decorative Arts" (see earlier note).</note>collection. It was made in Dublin in</hi></l>
                <l n="02"><hi rend="blue">1735 by a silversmith—identified only</hi></l>
@@ -8315,10 +8258,6 @@
                <l n="26"><hi rend="blue">Publd by the Limited Editions Club</hi></l>
                <l n="27"><hi rend="blue">             1933</hi></l>
                <l n="28"><hi rend="blue"> 1200                  Copies</hi></l>
-            </lg>
-            <lg type="vertical">
-               <!-- Editorial description for line v29: span lines 28-01, left margin, in two rows of print. -->
-               <l n="v29"><hi rend="blue">26 Oct 1935 The wedding of Mr. Stephen Beckingham &amp; Miss Mary Cox / Wm<del>?^</del> Hogarth</hi></l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0179_verso">
@@ -8420,18 +8359,6 @@
                <l n="22"><hi rend="blue">little too rigid and square is</hi></l>
                <l n="23"><hi rend="blue">noticeable: can this be remedied</hi></l>
                <l n="24"><hi rend="blue">seriffs perhaps a little too fat</hi><hi rend="pencil">"</hi></l>
-            </lg>
-         </div>
-         <div type="image" xml:id="nb07_02_02_0180_recto">
-            <pb facs="nb07_02_02_0180_recto.jpg"/>
-            <lg>
-               <l n="01">There's no handwriting on this page.</l>
-            </lg>
-         </div>
-         <div type="image" xml:id="nb07_02_02_0181_verso">
-            <pb facs="nb07_02_02_0181_verso.jpg"/>
-            <lg>
-               <l n="01">There's no handwriting on this page.</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0181_recto">
@@ -8621,8 +8548,8 @@
                <l n="21"><hi rend="blue">position.</hi><quote corresp="#0182_recto_l20_quote"/></l>
                <!-- I have added an 'end quote' tag in line 21 and a 'begin quote' tag in line 26. EF! -->
                <l n="22"><hi rend="pencil">________ </hi><hi rend="blue">.p 58</hi></l>
-               <l n="23"><hi rend="blue">  The Characteristics of a good
-                    <l n="24"><hi rend="blue">  Book Type<note>Pottinger, David T. "The Characteristics of a Good Book Type." <title>Dolphin</title>1 (1933): 58-66.</note> David T Pottinger<note target="Pottinger">Pottinger, David [1866-1958]. American publisher, editor, author, and Associate Director of Harvard University Press.  </note></hi></l></hi></l>
+               <l n="23"><hi rend="blue">  The Characteristics of a good</hi></l>
+               <l n="24"><hi rend="blue">  Book Type<note>Pottinger, David T. "The Characteristics of a Good Book Type." <title>Dolphin</title>1 (1933): 58-66.</note> David T Pottinger<note target="Pottinger">Pottinger, David [1866-1958]. American publisher, editor, author, and Associate Director of Harvard University Press.</note></hi></l>
                <l n="25"><hi rend="pencil">________________________</hi></l>
                <l n="26"><hi rend="blue"><quote corresp="0184_verso_l26_quote"/>Mountjoye  Mr Updike has called</hi></l>
                <l n="27"><hi rend="blue">Brimmer   Mr Rogers  " <del>same</del> " </hi></l>
@@ -8755,6 +8682,10 @@
          </div>
          <div type="image" xml:id="nb07_02_02_0186_recto">
             <pb facs="nb07_02_02_0186_recto.jpg"/>
+            <lg type="sideways">
+               <!-- Editorial description for line v27: span lines 17-1, left margin -->
+               <l n="v27"><hi rend="blue">                       Fust and Schoeffer Maintz 1459 Bodleian</hi></l>
+            </lg>
             <lg>
                <l n="01"><hi rend="blue"><note>Pollard, Alfred W. "Margins" (see earlier note).</note>the facts. cf. <hi rend="underline">Margins</hi> in</hi></l>
                <!-- I have replaced the curly bracket in line 2 with a square bracket to match the image description. EF! -->
@@ -8783,10 +8714,6 @@
                <l n="24"><hi rend="blue">as proceeding all round the page,</hi></l>
                <l n="25"><hi rend="blue">the inner &amp; upper margins formed</hi></l>
                <l n="26"><hi rend="blue">one pair &amp; the outer &amp; lower</hi></l>
-            </lg>
-            <lg type="vertical">
-               <!-- Editorial description for line v27: span lines 17-1, left margin -->
-               <l n="v27"><hi rend="blue">Fust and Schoeffer Maintz 1459 Bodleian</hi></l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0187_verso">
@@ -8950,18 +8877,6 @@
                <l n="24"><hi rend="blue">early teachers of bibliography</hi></l>
                <l n="25"><hi rend="blue">who in their lectures or</hi></l>
                <l n="26"><hi rend="blue">manuals, after enunciating the</hi></l>
-            </lg>
-         </div>
-         <div type="image" xml:id="nb07_02_02_0189_recto">
-            <pb facs="nb07_02_02_0189_recto.jpg"/>
-            <lg>
-               <l n="01">There's no handwriting on this page.</l>
-            </lg>
-         </div>
-         <div type="image" xml:id="nb07_02_02_0190_verso">
-            <pb facs="nb07_02_02_0190_verso.jpg"/>
-            <lg>
-               <l n="01">There's no handwriting on this page.</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0190_recto">
@@ -9480,18 +9395,6 @@
                <l n="20"><hi rend="blue">child.<quote corresp="#0198_verso_l16_quote"/></hi></l>
             </lg>
          </div>
-         <div type="image" xml:id="nb07_02_02_0198_recto">
-            <pb facs="nb07_02_02_0198_recto.jpg"/>
-            <lg>
-               <l n="01">There's no handwriting on this page.</l>
-            </lg>
-         </div>
-         <div type="image" xml:id="nb07_02_02_0199_verso">
-            <pb facs="nb07_02_02_0199_verso.jpg"/>
-            <lg>
-               <l n="01">There's no handwriting on this page.</l>
-            </lg>
-         </div>
          <div type="image" xml:id="nb07_02_02_0199_recto">
             <pb facs="nb07_02_02_0199_recto.jpg"/>
             <lg>
@@ -9552,6 +9455,10 @@
          </div>
          <div type="image" xml:id="nb07_02_02_0200_recto">
             <pb facs="nb07_02_02_0200_recto.jpg"/>
+            <lg type="sideways">
+               <!-- Editorial description for line v26: Span lines 06-02, left margin -->
+               <l n="v26"><hi rend="blue">                                                     H. James</hi></l>
+            </lg>
             <lg>
                <l n="01"><hi rend="blue"><bibl corresp="0200_recto_l01_bibl"/>English Years James Whitall</hi></l>
                <l n="02"><hi rend="blue">                        Harcourt<bibl corresp="#0200_recto_l01_bibl"/><note>Whitall, James. <title>English Years</title>. London: Jonathan Cape, 1936.</note></hi></l>
@@ -9578,10 +9485,6 @@
                <l n="23"><hi rend="blue">strike a note, that, while I do</hi></l>
                <l n="24"><hi rend="blue">full justice to the accomplished</hi></l>
                <l n="25"><hi rend="blue">abandonment, sounds harshly</hi></l>
-            </lg>
-            <lg type="vertical">
-               <!-- Editorial description for line v26: Span lines 06-02, left margin -->
-               <l n="v26"><hi rend="blue">H. James</hi></l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0201_verso">
@@ -9799,6 +9702,11 @@
                     two lines, distinguishing the quadrants. At the beginning of line 19, left
                     margin, MM draws a small picture of a crowned lion head, with an arrow pointing
                     toward it, left margin lines 17-18.</desc>-->
+            <lg type="sideways">
+               <!-- Editorial description for line v23: Span lines 19-07, left margin -->
+               <!-- Not sure how to encode the vertical quote tags in line v23? EF! -->
+               <l n="v23">           <hi rend="blue"><quote rend="begin"/>illst lions head at top of seal<quote rend="end"/></hi></l>
+            </lg>
             <lg>
                <l n="01"/>
                <l n="02"><hi rend="blue"><note>"Cavalcade of a Royal Career" (see earlier note).</note>spirited)<note>This phrase begins on 204 recto: "(high spirited)."</note></hi></l>
@@ -9822,11 +9730,6 @@
                <l n="20"><hi rend="blue">wall: <foreign xml:lang="la">duci: aquitan: <del>lancas</del></foreign></hi></l>
                <l n="21"><hi rend="blue"><foreign xml:lang="la">lancastre: cornub: comitis:</foreign></hi></l>
                <l n="22"><hi rend="blue">   celts</hi></l>
-            </lg>
-            <lg type="vertical">
-               <!-- Editorial description for line v23: Span lines 19-07, left margin -->
-               <!-- Not sure how to encode the vertical quote tags in line v23? EF! -->
-               <l n="v23"><hi rend="blue"><quote rend="begin"/>illst lions head at top of seal<quote rend="end"/></hi></l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0205_verso">
@@ -9984,18 +9887,6 @@
                <l n="22"><hi rend="blue">stranger to you; perhaps with too</hi></l>
                <l n="23"><hi rend="blue">much strangeness. . . . I also but</hi></l>
                <l n="24"><hi rend="blue">act the stranger in the Review.</hi></l>
-            </lg>
-         </div>
-         <div type="image" xml:id="nb07_02_02_0207_recto">
-            <pb facs="nb07_02_02_0207_recto.jpg"/>
-            <lg>
-               <l n="01">There's no handwriting on this page.</l>
-            </lg>
-         </div>
-         <div type="image" xml:id="nb07_02_02_0208_verso">
-            <pb facs="nb07_02_02_0208_verso.jpg"/>
-            <lg>
-               <l n="01">There's no handwriting on this page.</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0208_recto">
@@ -10488,18 +10379,6 @@
                <l n="26">outlook there must be—if</l>
                <l n="27">democratic processes are to</l>
                <l n="28"> survive—an intelligent</l>
-            </lg>
-         </div>
-         <div type="image" xml:id="nb07_02_02_0216_recto">
-            <pb facs="nb07_02_02_0216_recto.jpg"/>
-            <lg>
-               <l n="01">There's no handwriting on this page.</l>
-            </lg>
-         </div>
-         <div type="image" xml:id="nb07_02_02_0217_verso">
-            <pb facs="nb07_02_02_0217_verso.jpg"/>
-            <lg>
-               <l n="01">There's no handwriting on this page.</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0217_recto">
@@ -11010,18 +10889,6 @@
                <l n="23">   Bear w a smile upward You</l>
             </lg>
          </div>
-         <div type="image" xml:id="nb07_02_02_0225_recto">
-            <pb facs="nb07_02_02_0225_recto.jpg"/>
-            <lg>
-               <l>There's no handwriting on this page</l>
-            </lg>
-         </div>
-         <div type="image" xml:id="nb07_02_02_0226_verso">
-            <pb facs="nb07_02_02_0226_verso.jpg"/>
-            <lg>
-               <l>There's no handwriting on this page</l>
-            </lg>
-         </div>
          <div type="image" xml:id="nb07_02_02_0226_recto">
             <pb facs="nb07_02_02_0226_recto.jpg"/>
             <lg>
@@ -11055,7 +10922,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0227_verso">
-            <pb facs="nb07_02_02_verso_recto.jpg"/>
+            <pb facs="nb07_02_02_0227_verso.jpg"/>
             <lg>
                <l n="01"><note>"The Sportsman's Charter" (see earlier note).</note>these convictions:</l>
                <l n="02">That sport is something done for the</l>
@@ -11315,10 +11182,8 @@
                <l n="26"> without thought even of a possible reader</l>
                <l n="27"> He says.<quote corresp="#0231_verso_l09_quote"/></l>
             </lg>
-            <lg>
-               <lg type="vertical">
-                  <l n="v28"><quote corresp="#0231_verso_l09_quote"/>We have the assertion<quote corresp="#0231_verso_l09_quote"/></l>
-               </lg>
+            <lg type="vertical">
+               <l n="v28">                                                   <quote corresp="#0231_verso_l09_quote"/>We have the assertion<quote corresp="#0231_verso_l09_quote"/></l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0231_recto">
@@ -11500,18 +11365,6 @@
                <l n="25">Harcourt, brace &amp; Co. Rev. by<bibl corresp="#0234_verso_l19_bibl"/><note>Duffus, R. L. "Lincoln Steffens as He Revealed Himself in His Letters: An Engaging Portrait Emerges From His Lively and Wide-Ranging Correspondence." Rev. of <title>The Letters of Lincoln Steffens</title>, edited by Ella Winter and Granville Hicks. <title>New York Times</title> (23 October 1938): 91.</note></l>
             </lg>
          </div>
-         <div type="image" xml:id="nb07_02_02_0234_recto">
-            <pb facs="nb07_02_02_0234_recto.jpg"/>
-            <lg>
-               <l>There's no handwriting on this page</l>
-            </lg>
-         </div>
-         <div type="image" xml:id="nb07_02_02_0235_verso">
-            <pb facs="nb07_02_02_0235_verso.jpg"/>
-            <lg>
-               <l>There's no handwriting on this page</l>
-            </lg>
-         </div>
          <div type="image" xml:id="nb07_02_02_0235_recto">
             <pb facs="nb07_02_02_0235_recto.jpg"/>
             <!--<desc>In the left margin of lines 1-2, MM's mathematical &lt; sign joins the two
@@ -11571,7 +11424,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0236_recto">
-            <pb facs="nb07_02_02_0028_recto.jpg"/>
+            <pb facs="nb07_02_02_0236_recto.jpg"/>
             <lg>
                <l n="01"><note>"For Beginners: Raising and Falling in Peal" (see earlier note).</note>hears that now. The treble &amp;</l>
                <l n="02">then the other bells are serving so as</l>
@@ -11715,8 +11568,7 @@
                <l n="17">D H Lawrence.<note target="lawrence">Lawrence, David Herbert [1885-1930]. English novelist, short story writer, and poet. MM published Lawrence's poems in <title>The Dial</title>.</note> Martin Secker<bibl corresp="#0238_recto_l16_bibl"/><note>Lawrence, D.H. <title>The Ship of Death and Other Poems</title>. London: Faber and Faber, 1941.</note></l>
                <l n="18">                            drop</l>
                <l n="19">55 <quote corresp="0238_recto_l19_quote"/>Terra Incognita</l>
-               <l n="20" rend="verse">. . . we can but touch, &amp; wonder &amp; make <add>our
- effort</add></l>
+               <l n="20" rend="verse">. . . we can but touch, &amp; wonder &amp; make our effort</l>
                <l n="21" rend="verse">and dangle in a last fastidious fine delight</l>
                <l n="22" rend="verse">as the fuchsia does, dangling her reckless drop</l>
                <l n="23" rend="verse">of purple after so much putting forth</l>
@@ -12000,18 +11852,6 @@
                <l n="25">  that you have mastered the</l>
             </lg>
          </div>
-         <div type="image" xml:id="nb07_02_02_0243_recto">
-            <pb facs="nb07_02_02_0243_recto.jpg"/>
-            <lg>
-               <l>There's no handwriting on this page</l>
-            </lg>
-         </div>
-         <div type="image" xml:id="nb07_02_02_0244_verso">
-            <pb facs="nb07_02_02_0244_verso.jpg"/>
-            <lg>
-               <l>There's no handwriting on this page</l>
-            </lg>
-         </div>
          <div type="image" xml:id="nb07_02_02_0244_recto">
             <pb facs="nb07_02_02_0244_recto.jpg"/>
             <lg>
@@ -12121,6 +11961,9 @@
          <div type="image" xml:id="nb07_02_02_0248_verso">
             <pb facs="nb07_02_02_0248_verso.jpg"/>
             <!--<desc>span lines 23-19, left margin</desc>-->
+            <lg type="sideways">
+               <l n="v01"><hi rend="pencil">See C W Ferguson</hi></l>
+            </lg>
             <lg>
                <l n="01"><hi rend="pencil"><quote corresp="0248_verso_l01_quote"/>Watkins, JR</hi></l>
                <l n="02"><hi rend="pencil">            Camphor</hi></l>
@@ -12145,19 +11988,6 @@
                <l n="21"><hi rend="pencil">  Dale Carnegie Public</hi></l>
                <l n="22"><hi rend="pencil">       Speaking and</hi></l>
                <l n="23"><hi rend="pencil">Influencing Men in Business July 193</hi></l>
-               <l n="24"><hi rend="pencil">See C W Ferguson</hi></l>
-            </lg>
-         </div>
-         <div type="image" xml:id="nb07_02_02_0248_recto">
-            <pb facs="nb07_02_02_0248_recto.jpg"/>
-            <lg>
-               <l>There's no handwriting on this page</l>
-            </lg>
-         </div>
-         <div type="image" xml:id="nb07_02_02_0249_verso">
-            <pb facs="nb07_02_02_0249_verso.jpg"/>
-            <lg>
-               <l>There's no handwriting on this page</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0249_recto">
