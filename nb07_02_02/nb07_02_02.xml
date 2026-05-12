@@ -6,6 +6,10 @@
             <title>Notebook 07.02.02 | Reading 1930 -
                1943</title>
             <author>Marianne Moore</author>
+            <editor>
+               <persName>Jeff Westover</persName>
+               <note>Notebook Editor</note>
+            </editor>
             <respStmt>
                <persName>Cristanne Miller</persName>
                <resp>Proofreader</resp>
@@ -17,6 +21,10 @@
             <respStmt>
                <persName>Juniper Johnson</persName>
                <resp>Associate Digital Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Edward J. Sobczak</persName>
+               <resp>Web Administrator</resp>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -45,26 +53,69 @@
                      (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
                   <idno>VII.02.02</idno>
                </msIdentifier>
-               <p><ref target="nb07_02_02_intro">Notebook
+               <p><ref target="../essays/nb07_02_02_intro.xml">Notebook
                      Editor's Introduction</ref></p>
-               <p><hi rend="bold">Notebook Contents:</hi> MM
-                  takes notes from various sources and
-                  writes in different genres, sometimes
-                  within a single notebook. When a content
-                  type does not correspond with the genre of
-                  the notebook, it is coded in the margin
-                  as:</p>
+               <p>The Standard Diary for 1923, published by
+                  the Standard Diary Company, Cambridgeport,
+                  MA, red leather binding, 460 pages in 230
+                  leaves. Includes 39 pages of pre- printed
+                  information of various kinds, e.g. public
+                  holidays, population of states and cities,
+                  weights and measures, time zones, tide
+                  tables, and important dates of WWI,
+                  followed by lined calendar pages with each
+                  leaf containing one date, such as Mon.
+                  Jan. 1, 1923. First image with MM’s
+                  writing is the Standard Diary for 1923
+                  title page, the first of the 39
+                  pre-printed pages. RML number written in
+                  pencil on inside front cover, 1250/6</p>
+               <p>Relevant to Publications: "The Student,"
+                  "No Swan So Fine," "The Jerboa," "Camellia
+                  Sabina," "The Plumet Basilisk," "The
+                  Frigate Pelican," "The Buffalo," "Nine
+                  Nectarines and Other Porcelain,"
+                  "Walking-Sticks and Paperweights and
+                  Watermarks," "Half Deity," "Smooth Gnarled
+                  Crape Myrtle," "Virginia Britannia," "The
+                  Paper Nautilus" or "A Glass-Ribbed Nest,"
+                  "In Distrust of Merits," "Logic and 'The
+                  Magic Flute'," "O To Be a Dragon,"
+                  "Leonardo da Vinci’s."</p>
+               <p>Notebook Contents: MM takes notes from
+                  various sources and writes in different
+                  genres, sometimes within a single
+                  notebook. When a content type does not
+                  correspond with the genre of the notebook,
+                  it is coded in the margin as:</p>
                <p><figure rend="center">
                      <graphic width="15%"
                         url="resources/images/moore/genreTagging.jpg"
                      />
                   </figure></p>
+               <p>The manuscript notebook has split into
+                  multiple pieces of varying numbers of
+                  pages. The following gaps in the series of
+                  pages in this notebook are a result of how
+                  the Rosenbach numbered the photographs of
+                  separated fragments of the MS, which image
+                  numbering we follow in our MMDA page
+                  numbering: 12v-13r, 19v-20r, 27v-28r,
+                  36v-37r, 45v-46r, 54v-55r, 63v-64r,
+                  72v-73r, 81v-82r, 90v-91r, 99v-100r,
+                  108v-109r, 117v-118r,126v-127r, 135v-136v,
+                  144v-145r, 153v-154r, 162v-163r,
+                  171v-172r, 180v-181r, 189v-190r,
+                  198r-199v, 207v-208r, 216v-217r,
+                  225v-226r, 234v-235r, 243v-244r. These
+                  apparent gaps are not unphotographed or
+                  missing pages.</p>
             </msDesc>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
          <creation>
-            <origDate from="1930-01-01" to="1943-12-31">1930
+            <origDate from="1930-06-21" to="1943-10-10">1930
                - 1943</origDate>
          </creation>
       </profileDesc>
@@ -94,6 +145,10 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0002_text">
+            <pb facs="nb07_02_02_0002_verso.jpg"/>
+            <lg>
+               <l n="01">[No MM handwriting on this page.]<note>Rosenbach librarian has written 722 / 120 / 1250/6</note> </l>
+            </lg>
             <pb facs="nb07_02_02_0002_recto.jpg"/>
             <lg>
                <l n="01">Gems 1 1/2 cup whole wheat flour </l>
@@ -123,13 +178,9 @@
                <l n="25"> 2 eggs stirred in without beating </l>
                <l n="26"> whites beaten stiff &amp; stirred in quickly </l>
             </lg>
-            <pb facs="nb07_02_02_0002_verso.jpg"/>
-            <lg>
-               <l n="01">[No MM handwriting on this page.]<note>Rosenbach librarian has written 722 / 120 / 1250/6</note> </l>
-            </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0003_text">
-            <pb facs="nb07_02_02_0003_recto.jpg"/>
+            <pb facs="nb07_02_02_0003_verso.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
@@ -141,6 +192,10 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0005_text">
+            <pb facs="nb07_02_02_0005_verso.jpg"/>
+            <lg>
+               <l n="01">[No handwriting on this page.]</l>
+            </lg>
             <pb facs="nb07_02_02_0005_recto.jpg"/>
             <!--<desc>MM draws parentheses around the word DIARY in the printed title of the diary
                     and puts an asterisk to the right of the word.</desc>-->
@@ -151,67 +206,63 @@
                <l n="04">Send Illustr. booklet describing</l>
                <l n="05">the Standard Diary line.<quote rend="end"/></l>
             </lg>
-            <pb facs="nb07_02_02_0005_verso.jpg"/>
-            <lg>
-               <l n="01">[No handwriting on this page.]</l>
-            </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0006_text">
-            <pb facs="nb07_02_02_0006_recto.jpg"/>
+            <pb facs="nb07_02_02_0006_verso.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
-            <pb facs="nb07_02_02_0006_verso.jpg"/>
+            <pb facs="nb07_02_02_0006_recto.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0007_text">
-            <pb facs="nb07_02_02_0007_recto.jpg"/>
+            <pb facs="nb07_02_02_0007_verso.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
-            <pb facs="nb07_02_02_0007_verso.jpg"/>
+            <pb facs="nb07_02_02_0007_recto.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0008_text">
-            <pb facs="nb07_02_02_0008_recto.jpg"/>
+            <pb facs="nb07_02_02_0008_verso.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
-            <pb facs="nb07_02_02_0008_verso.jpg"/>
+            <pb facs="nb07_02_02_0008_recto.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0009_text">
-            <pb facs="nb07_02_02_0009_recto.jpg"/>
+            <pb facs="nb07_02_02_0009_verso.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
-            <pb facs="nb07_02_02_0009_verso.jpg"/>
+            <pb facs="nb07_02_02_0009_recto.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0010_text">
-            <pb facs="nb07_02_02_0010_recto.jpg"/>
+            <pb facs="nb07_02_02_0010_verso.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
-            <pb facs="nb07_02_02_0010_verso.jpg"/>
+            <pb facs="nb07_02_02_0010_recto.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0011_text">
-            <pb facs="nb07_02_02_0011_recto.jpg"/>
+            <pb facs="nb07_02_02_0011_verso.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
-            <pb facs="nb07_02_02_0011_verso.jpg"/>
+            <pb facs="nb07_02_02_0011_recto.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
@@ -229,51 +280,51 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0014_text">
-            <pb facs="nb07_02_02_0014_recto.jpg"/>
+            <pb facs="nb07_02_02_0014_verso.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
-            <pb facs="nb07_02_02_0014_verso.jpg"/>
+            <pb facs="nb07_02_02_0014_recto.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0015_text">
-            <pb facs="nb07_02_02_0015_recto.jpg"/>
+            <pb facs="nb07_02_02_0015_verso.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
-            <pb facs="nb07_02_02_0015_verso.jpg"/>
+            <pb facs="nb07_02_02_0015_recto.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0016_text">
-            <pb facs="nb07_02_02_0016_recto.jpg"/>
+            <pb facs="nb07_02_02_0016_verso.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
-            <pb facs="nb07_02_02_0016_verso.jpg"/>
+            <pb facs="nb07_02_02_0016_recto.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0017_text">
-            <pb facs="nb07_02_02_0017_recto.jpg"/>
+            <pb facs="nb07_02_02_0017_verso.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
-            <pb facs="nb07_02_02_0016_verso.jpg"/>
+            <pb facs="nb07_02_02_0017_recto.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0018_text">
-            <pb facs="nb07_02_02_0018_recto.jpg"/>
+            <pb facs="nb07_02_02_0018_verso.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
-            <pb facs="nb07_02_02_0018_verso.jpg"/>
+            <pb facs="nb07_02_02_0018_recto.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
@@ -291,61 +342,61 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0021_text">
-            <pb facs="nb07_02_02_0021_recto.jpg"/>
+            <pb facs="nb07_02_02_0021_verso.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
-            <pb facs="nb07_02_02_0021_verso.jpg"/>
+            <pb facs="nb07_02_02_0021_recto.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0022_text">
-            <pb facs="nb07_02_02_0022_recto.jpg"/>
+            <pb facs="nb07_02_02_0022_verso.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
-            <pb facs="nb07_02_02_0022_verso.jpg"/>
+            <pb facs="nb07_02_02_0022_recto.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0023_text">
-            <pb facs="nb07_02_02_0023_recto.jpg"/>
+            <pb facs="nb07_02_02_0023_verso.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
-            <pb facs="nb07_02_02_0023_verso.jpg"/>
+            <pb facs="nb07_02_02_0023_recto.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0024_text">
-            <pb facs="nb07_02_02_0024_recto.jpg"/>
+            <pb facs="nb07_02_02_0024_verso.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
-            <pb facs="nb07_02_02_0024_verso.jpg"/>
+            <pb facs="nb07_02_02_0024_recto.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0025_text">
-            <pb facs="nb07_02_02_0025_recto.jpg"/>
+            <pb facs="nb07_02_02_0025_verso.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
-            <pb facs="nb07_02_02_0025_verso.jpg"/>
+            <pb facs="nb07_02_02_0025_recto.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0026_text">
-            <pb facs="nb07_02_02_0026_recto.jpg"/>
+            <pb facs="nb07_02_02_0026_verso.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
-            <pb facs="nb07_02_02_0026_verso.jpg"/>
+            <pb facs="nb07_02_02_0026_recto.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
@@ -3018,7 +3069,8 @@
             <pb facs="nb07_02_02_0080_verso.jpg"/>
             <!--<desc>On line 14 MM uses square brackets around the word “bit”</desc>-->
             <lg type="sideways">
-               <l n="v01"><!--<desc>span lines 22-01, left margin, in two rows of print </desc>--><quote rend="begin"/>Wychnor, Staffordshire an oil painting, with a fine distance, by John Ward RA<note>Ward, John RA [1769-1859]. British painter and engraver.</note> / Dated <del>dated</del> 1817</l>
+               <l n="v01"><!--<desc>span lines 22-01, left margin, in two rows of print </desc>--><quote rend="begin"/>Wychnor, Staffordshire an oil painting, with a fine distance, by John Ward RA<note>Ward, John RA [1769-1859]. British painter and engraver.</note></l>
+               <l n="v02">                         Dated <del>dated</del> 1817</l>
             </lg>
             <lg>
                <l n="01">       <bibl rend="begin"/>21 Nov. 31 I.L. News</l>
@@ -6484,35 +6536,30 @@
             </lg>
             <pb facs="nb07_02_02_0147_recto.jpg"/>
             <lg>
-               <l n="01"/>
-               <l n="02"/>
-               <l n="03"/>
-               <l n="04"/>
-               <l n="05"/>
-               <l n="06"/>
-               <l n="07"/>
-               <l n="08"/>
-               <l n="09"/>
-               <l n="10"/>
-               <l n="11"/>
-               <l n="12"/>
-               <l n="13"/>
-               <l n="14"/>
-               <l n="15"/>
-               <l n="16"/>
-               <l n="17"/>
-               <l n="18"/>
-               <l n="19"/>
-               <l n="20"/>
-               <l n="21"/>
-               <l n="22"/>
-               <l n="23"/>
-               <l n="24"/>
-               <l n="25"/>
-               <l n="26"/>
-               <l n="27"/>
-               <l n="28"/>
-               <l n="29"/>
+               <l n="01"><note>Eaton, H. A. “Some Quaint Notions about Animals” (see earlier note).</note>pale eggs; &amp; if a poison snake</l>
+               <l n="02">should sit on brood”  on them in dog</l>
+               <l n="03">days, cockatrices, fearful creatures</l>
+               <l n="04">wld<hi rend="pencil">ld</hi> be hatched from them.   basilisk</l>
+               <l n="05">       The <hi rend="underline">cockatrice</hi> or <del>basilisk</del></l>
+               <l n="06">the king of serpents &amp; is born from</l>
+               <l n="07">the egg of an old cock. He slays snakes</l>
+               <l n="08">w his smell &amp; his teeth; &amp; slays all</l>
+               <l n="09">things that have life with his breath</l>
+               <l n="10">&amp; his look.  But he is overcome by the</l>
+               <l n="11">weasel, if the weasel has eaten</l>
+               <l n="12">of the herb <hi rend="pencil">R</hi><del>r</del>ue.  The cockatrice is</l>
+               <l n="13">half a foot long &amp; has white spots.</l>
+               <l n="14">    “Once our nation was full of</l>
+               <l n="15">cockatrices &amp; a certain man did</l>
+               <l n="16">destroy them by going up &amp; down in</l>
+               <l n="17">glass whereby their own shapes</l>
+               <l n="18">were reflected upon their own faces,</l>
+               <l n="19">&amp; so they died.” This item is too</l>
+               <l n="20">much for the “History of Serpents”</l>
+               <l n="21">(1608) to swallow, although the</l>
+               <l n="22">story is confirmed by the men of the city of</l>
+               <l n="23">Basle, which “was built” in the</l>
+               <l n="24">year 382, having the name</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0148_verso">
@@ -8226,7 +8273,8 @@
             <!--<desc>On line 23 MM underscores the phrase in orange crayon.</desc>-->
             <lg type="sideways">
                <!-- Editorial description for line v29: span lines 28-01, left margin, in two rows of print. -->
-               <l n="v29"><hi rend="blue">26 Oct 1935 The wedding of Mr. Stephen Beckingham &amp; Miss Mary Cox / Wm<del>?^</del> Hogarth</hi></l>
+               <l n="v01"><hi rend="blue">26 Oct 1935 The wedding of Mr. Stephen Beckingham &amp; Miss Mary Cox</hi></l>
+               <l n="v02">      <hi rend="blue">Wm<del>?^</del> Hogarth</hi></l>
             </lg>
             <lg>
                <l n="01"><hi rend="blue"><note>"The Forum of Decorative Arts" (see earlier note).</note>collection. It was made in Dublin in</hi></l>
