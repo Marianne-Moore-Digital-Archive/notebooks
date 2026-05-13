@@ -3,8 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Notebook 07.02.02 | Reading 1930 -
-               1943</title>
+            <title>Notebook 07.02.02 | Reading 1930 - 1943</title>
             <author>Marianne Moore</author>
             <editor>
                <persName>Jeff Westover</persName>
@@ -40,8 +39,8 @@
                      4.0 International License.</p>
                </licence>
             </availability>
-            <idno>07.02.03</idno>
-            <date>[DATE OF PUBLICATION]</date>
+            <idno>07.02.02</idno>
+            <date>May 15, 2026</date>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -53,8 +52,10 @@
                      (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
                   <idno>VII.02.02</idno>
                </msIdentifier>
-               <p><ref target="../essays/nb07_02_02_intro.xml">Notebook
-                     Editor's Introduction</ref></p>
+               <p><ref
+                     target="../essays/nb07_02_02_intro.xml"
+                     >Notebook Editor's
+                  Introduction</ref></p>
                <p>The Standard Diary for 1923, published by
                   the Standard Diary Company, Cambridgeport,
                   MA, red leather binding, 460 pages in 230
@@ -93,23 +94,25 @@
                         url="resources/images/moore/genreTagging.jpg"
                      />
                   </figure></p>
-               <p>The manuscript notebook has split into
-                  multiple pieces of varying numbers of
-                  pages. The following gaps in the series of
-                  pages in this notebook are a result of how
-                  the Rosenbach numbered the photographs of
-                  separated fragments of the MS, which image
-                  numbering we follow in our MMDA page
-                  numbering: 12v-13r, 19v-20r, 27v-28r,
+               <p>In scanning this notebook to create
+                  digital images of its pages, the Rosenbach
+                  was inconsistent in scanning open-face
+                  (verso-recto) or single verso or recto
+                  pages. Consequently, although all pages of
+                  the manuscript are represented here, there
+                  are occasional gaps in the numbering
+                  sequence. Apparent gaps occur for page
+                  numbers: 12v-13r, 19v-20r, 27v-28r,
                   36v-37r, 45v-46r, 54v-55r, 63v-64r,
                   72v-73r, 81v-82r, 90v-91r, 99v-100r,
                   108v-109r, 117v-118r,126v-127r, 135v-136v,
                   144v-145r, 153v-154r, 162v-163r,
                   171v-172r, 180v-181r, 189v-190r,
                   198r-199v, 207v-208r, 216v-217r,
-                  225v-226r, 234v-235r, 243v-244r. These
-                  apparent gaps are not unphotographed or
-                  missing pages.</p>
+                  225v-226r, 234v-235r, 243v-244r. There are
+                  no missing pages, just missing numbers,
+                  following the Rosenbach image
+                  numbering.</p>
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -11985,25 +11988,19 @@
          <div type="image" xml:id="nb07_02_02_0246_verso">
             <pb facs="nb07_02_02_0246_verso.jpg"/>
             <lg>
-               <l>There's no handwriting on this page</l>
+               <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0246_recto">
             <pb facs="nb07_02_02_0246_recto.jpg"/>
             <lg>
-               <l>There's no handwriting on this page</l>
-            </lg>
-         </div>
-         <div type="image" xml:id="nb07_02_02_0247_verso">
-            <pb facs="nb07_02_02_0247_verso.jpg"/>
-            <lg>
-               <l>There's no handwriting on this page</l>
+               <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0247_recto">
             <pb facs="nb07_02_02_0247_recto.jpg"/>
             <lg>
-               <l>There's no handwriting on this page</l>
+               <l n="01">[Blank pages (pages containing no handwriting) have not been scanned.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0248_verso">
