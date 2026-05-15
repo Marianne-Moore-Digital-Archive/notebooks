@@ -1,69 +1,120 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="tei_mmda.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Notebook 07.03.11</title>
-                <author>Marianne Moore</author>
-                <editor>
-                    <persName>Cristanne Miller</persName>
-                    <note>Notebook Editor</note>
-                </editor>
-               <respStmt>
-                  <persName>Nikolaus Wasmoen</persName>
-                  <resp>Digital Editor</resp>
-               </respStmt>
-
-               <respStmt>
-                  <persName>Claire Nashar</persName>
-                  <resp>Assitant Project Manager</resp>
-               </respStmt>
-               <respStmt>
-                  <persName>Heeba Kariapper</persName>
-                  <resp>Project Assistant</resp>
-               </respStmt>
-               <respStmt>
-                  <persName>Alok Asok, </persName>
-                  <persName>Karanjeet Signh, and </persName>
-                  <persName>Chaitanya Dineshkumar Brahmbhatt</persName>
-                  <resp>Web Developers</resp>
-               </respStmt>               
-               <respStmt>
-                  <persName>Edward J. Sobczak</persName>
-                  <resp>Web Administrator</resp>
-                </respStmt>
-            </titleStmt>
-           <publicationStmt>
-              <publisher>Marianne Moore Digital Archive</publisher>
-              <availability>
-                 <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-                    <p>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (BY-NC-SA 4.0).</p>
-                    <p>The MMDA does not own the copyright to material presented on the MMDA. You do not need permission to use this material for in-class teaching purposes, school projects and assignments, blog posts, or brief non-commercial uses. Any other copying, distribution, or publication of previously unpublished Moore writing must receive permission from the Literary Estate of Marianne Moore, Literary Executor David M. Moore, dmoore@a1conflictresolver.com.</p>
-                    <p>Commercial use: For images and transcriptions of manuscripts, please contact Executor and Administrator of the Marianne Moore Literary Estate David M. Moore, dmoore@a1conflictresolver.com.</p>
-                 </licence>
-              </availability>
-              <idno>07.04.05</idno>
-              <date>June 30, 2016</date>
-           </publicationStmt>
-           <sourceDesc>
-              <msDesc>
-                 <msIdentifier>
-                    <settlement>Philadelphia, PA</settlement>
-                    <institution>Rosenbach Museum and Library</institution>
-                    <repository>Marianne Moore Collection (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
-                    <idno>VII.04.05</idno>
-                 </msIdentifier>
-                 <p><ref target="nb07_03_11_intro">Notebook Editor's Introduction</ref></p>
-                 <p>Yearbook 1921, red leather binding. Includes 8 pages of pre-printed information of various kinds, e.g. Time Differences, Thermometers; Greatest Altitude in Each State; followed by lined calendar pages divided in half so that each leaf contains two dates. First image with MM’s writing is the inside front cover. RML number written in pencil: 1250-27.</p>
-                 <p>Relevant to publications: “The Steeple-Jack,” “Frigate Pelican,” The Buffalo, “The Pangolin,” “Old Tiger,” Camellia Sabina,” “Half-Deity,” “Elephants,” “Rigorists,” “He ‘Digesteth Harde Yron’,” “For February 14th,” “Walking-Sticks and Paperweights and Watermarks,” and Moore’s unpublished novel, “The Way We Live Now”</p>
-              </msDesc>
-           </sourceDesc>
-        </fileDesc>      
+      <fileDesc>
+         <titleStmt>
+            <title>Notebook 07.03.11 | Miscellaneous June 26, 1929 - 1940 </title>
+            <author>Marianne Moore</author>
+            <editor>
+               <persName>Cristanne Miller</persName>
+               <note>Notebook Editor</note>
+            </editor>
+            <respStmt>
+               <persName>Nikolaus Wasmoen</persName>
+               <resp>Digital Editor</resp>
+            </respStmt>            
+            <respStmt>
+               <persName>Juniper Johnson</persName>
+               <resp>Associate Digital Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Claire Nashar</persName>
+               <resp>Assitant Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Heeba Kariapper</persName>
+               <resp>Project Assistant</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Alok Asok, </persName>
+               <persName>Karanjeet Signh, and </persName>
+               <persName>Chaitanya Dineshkumar
+                  Brahmbhatt</persName>
+               <resp>Web Developers</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Edward J. Sobczak</persName>
+               <resp>Web Administrator</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Marianne Moore Digital
+               Archive</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  <p>This work is licensed under a Creative
+                     Commons
+                     Attribution-NonCommercial-ShareAlike
+                     4.0 International License (BY-NC-SA
+                     4.0).</p>
+                  <p>The MMDA does not own the copyright to
+                     material presented on the MMDA. You do
+                     not need permission to use this
+                     material for in-class teaching
+                     purposes, school projects and
+                     assignments, blog posts, or brief
+                     non-commercial uses. Any other copying,
+                     distribution, or publication of
+                     previously unpublished Moore writing
+                     must receive permission from the
+                     Literary Estate of Marianne Moore,
+                     Literary Executor David M. Moore,
+                     dmoore@a1conflictresolver.com.</p>
+                  <p>Commercial use: For images and
+                     transcriptions of manuscripts, please
+                     contact Executor and Administrator of
+                     the Marianne Moore Literary Estate
+                     David M. Moore,
+                     dmoore@a1conflictresolver.com.</p>
+               </licence>
+            </availability>
+            <idno>07.04.05</idno>
+            <date>June 30, 2016</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>Philadelphia, PA</settlement>
+                  <institution>Rosenbach Museum and
+                     Library</institution>
+                  <repository>Marianne Moore Collection
+                     (<ref target="https://www.rosenbach.org/collections/marianne-moore">https://www.rosenbach.org/collections/marianne-moore</ref>)</repository>
+                  <idno>VII.04.05</idno>
+               </msIdentifier>
+               <p rend="bold"><ref target="../essays/nb07_03_11_intro.xml">Notebook Editor's Introduction</ref></p>
+               <p>Yearbook 1921, red leather binding.
+                  Includes 8 pages of pre-printed
+                  information of various kinds, e.g. Time
+                  Differences, Thermometers; Greatest
+                  Altitude in Each State; followed by lined
+                  calendar pages divided in half so that
+                  each leaf contains two dates. First image
+                  with MM’s writing is the inside front
+                  cover. RML number written in pencil:
+                  1250-27.</p>
+               <p>Relevant to publications: “The
+                  Steeple-Jack,” “Frigate Pelican,” The
+                  Buffalo, “The Pangolin,” “Old Tiger,”
+                  Camellia Sabina,” “Half-Deity,”
+                  “Elephants,” “Rigorists,” “He ‘Digesteth
+                  Harde Yron’,” “For February 14th,”
+                  “Walking-Sticks and Paperweights and
+                  Watermarks,” and Moore’s unpublished
+                  novel, “The Way We Live Now”</p>
+                <p><hi rend="bold">Notebook Contents:</hi> MM takes notes from various 
+                sources and writes in different genres, sometimes 
+                within a single notebook. When a content type does 
+                not correspond with the genre of the notebook, it 
+                is coded in the margin as:</p>
+                <p><figure rend="center"><graphic width="15%" url="resources/images/moore/genreTagging.jpg"/></figure></p>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
       <profileDesc>
-           <creation>
-              <origDate from="1929-06-26" to="1940-12-31">June 26, 1929 - 1940</origDate>
-           </creation>
-        </profileDesc>        
+         <creation>
+            <origDate from="1929-06-26" to="1940-12-31">June
+               26, 1929 - 1940</origDate>
+         </creation>
+      </profileDesc>
       <encodingDesc>
          <classDecl>
             <taxonomy source="mmda">
@@ -80,7 +131,7 @@
             </taxonomy>
          </classDecl>
       </encodingDesc>
-    </teiHeader>
+   </teiHeader>
    <text xml:space="preserve" xml:id="nb07_03_11.xml" rend="read">
       <body>
          <div type="image" xml:id="nb07_03_11_0001_text">
@@ -204,18 +255,18 @@
          <div type="image" xml:id="nb07_03_11_0014_text">
             <pb facs="nb07_03_11_0014_recto.jpg"/>
             <lg>
-               <l n="01">      <note>This entry spanning lines 1-12 and dated June 26, 1929 was probably written by MM's mother, Mary Warner Moore (hereafter MWM).</note><seg rend="conv" xml:id="nb07_03_11_0014_recto_text_line_01_genre_01"/><hi rend="pencil" xml:id="nb07_03_11_0014_recto_text_line_01_color_01"/>June 26, 1929</l>
-               <l n="02"> A person who attained</l>
-               <l n="03">an inconspicuously</l>
-               <l n="04">triumphant summit of ex-</l>
-               <l n="05">perience, and looking back</l>
-               <l n="06">sees mistakes, digressions</l>
-               <l n="07">un-wisdom, frivolities,</l>
-               <l n="08">selfishness, lack of realness</l>
-               <l n="09">misconceived incentive,</l>
-               <l n="10">and goal;— each part of</l>
-               <l n="11">those<note>Written as "their" then written over to make "those."</note> experiences appearing</l>
-               <l n="12" rend="pencil; conv">rational at the time.</l>
+               <l n="01" rend="pencil">      <note>This entry spanning lines 1-12 and dated June 26, 1929 was probably written by MM's mother, Mary Warner Moore (hereafter MWM).</note><seg rend="conv" xml:id="nb07_03_11_0014_recto_text_line_01_genre_01"/><hi rend="pencil" xml:id="nb07_03_11_0014_recto_text_line_01_color_01"/>June 26, 1929</l>
+               <l n="02" rend="pencil"> A person who attained</l>
+               <l n="03" rend="pencil">an inconspicuously</l>
+               <l n="04" rend="pencil">triumphant summit of ex-</l>
+               <l n="05" rend="pencil">perience, and looking back</l>
+               <l n="06" rend="pencil">sees mistakes, digressions</l>
+               <l n="07" rend="pencil">un-wisdom, frivolities,</l>
+               <l n="08" rend="pencil">selfishness, lack of realness</l>
+               <l n="09" rend="pencil">misconceived incentive,</l>
+               <l n="10" rend="pencil">and goal;— each part of</l>
+               <l n="11" rend="pencil">those<note>Written as "their" then written over to make "those."</note> experiences appearing</l>
+               <l n="12" rend="pencil">rational at the time.</l>
                <l n="13"/>
                <l n="14" rend="read"><bibl corresp="nb07_03_11_0014_recto_l14_bibl"/>Spectator</l>
                <l n="15" rend="read">Types of Holiness review by Evelyn Underhill</l>
@@ -236,7 +287,7 @@
          <div type="image" xml:id="nb07_03_11_0015_text">
             <pb facs="nb07_03_11_0015_verso.jpg"/>
             <lg type="sideways">
-               <l n="v31"> <!-- span  03-06 along left margin --> <hi rend="pencil">Happiness</hi></l>
+               <l n="v01">                                                           <!-- span  03-06 along left margin --> <hi rend="pencil">Happiness</hi></l>
             </lg>
             <lg>
                <l n="01" rend="conv">  July 9, 29</l>
@@ -272,7 +323,7 @@
             </lg>
             <pb facs="nb07_03_11_0015_recto.jpg"/>
             <lg type="sideways">
-               <l n="v32"> <!-- span  26-27 along left margin --> <hi rend="pencil">Bible</hi></l>
+               <l n="v01">   <!-- span  26-27 along left margin --> <hi rend="pencil">Bible</hi></l>
             </lg>
             <lg>
                <l n="01" rend="prose"> Scallops arranged as a<del>s</del> border</l>
@@ -293,7 +344,7 @@
                <l n="16" rend="prose">           <add>tone</add></l>
                <l n="17" rend="prose">  the same color as the pink shrimps</l>
                <l n="18"/>
-               <l n="19" rend="read">  <bibl corresp="nb07_03_11_0015_recto_l19_bibl"/>Dec  16  1931             Dec </l>
+               <l n="19" rend="read">  <bibl corresp="nb07_03_11_0015_recto_l19_bibl"/>Dec  16  1931             Dec</l>
                <l n="20" rend="read">        <add>on C. Chaplin Close up</add><note> <title>Close-Up</title> [1927-1933]. An influential international literary magazine describing itself as "devoted to film art," published by the Pool Group. Kenneth Macpherson was editor-in-chief, with Bryher as assistant editor, and Hilda Doolittle ("H.D.") making regular contributions.</note> <add>1931</add><note>Kenneth MacPherson [K.M.] review of C. A. Lejeune, <title>Cinema: A Review of Thirty Years' Achievement</title> (London: Alexander Maclehose, 1931). In <title>Close-Up</title> 8.1 (December 1931): 333-336. MM quotes from page 335.</note></l>
                <l n="21" rend="read"> K. Macpherson<bibl corresp="#nb07_03_11_0015_recto_l19_bibl"/>—  <quote corresp="nb07_03_11_0015_recto_l21_quote"/>lachrymose</l>
                <l n="22" rend="read">  hysterical drivel that has tried to</l>
@@ -374,7 +425,7 @@
                <l n="25" rend="prose"><hi rend="blue"> In the autumn: the leaves blowing</hi></l>
                <l n="26" rend="prose"><hi rend="blue"> toward one across the pavement</hi></l>
                <l n="27" rend="prose"><hi rend="blue"> with a clatter  <hi rend="pencil">scratching sound</hi></hi></l>
-               <l n="28" rend="prose">            <add>ing</add> </l>
+               <l n="28" rend="prose">            <add>ing</add></l>
                <l n="29" rend="conv"><hi rend="blue">Oct 3/32 K. Boyle<note> Boyle, Kay [1902-1992], a novelist, poet, and political activist, who met MM around 1922 when both lived in the Village. In 1958, Boyle refers in a letter to "my adored Marianne Moore." See <title>Kay Boyle: A Twentieth-Century Life in Letters</title> (University of Illinois, 2015): xxxii.</note> lacks that healthy directive</hi></l>
                <l n="30" rend="conv"><hi rend="blue">force of which we are in need just now</hi></l>
             </lg>
@@ -486,13 +537,13 @@
             </lg>
             <pb facs="nb07_03_11_0018_recto.jpg"/>
             <lg type="sideways">
-               <l n="v29"> <!-- span  6-13, along left margin--> <hi rend="pencil">                              W A L T Z</hi></l>
+               <l n="v01"> <!-- span  6-13, along left margin--> <hi rend="pencil">                                   W A L T Z</hi></l>
             </lg>
             <lg>
                <l n="01" rend="conv">  counteract the leaden xpression</l>
                <l n="02" rend="conv"> that was with it &amp; he added— with</l>
                <l n="03" rend="conv"> real kindness— or perhaps I should say—</l>
-               <l n="04" rend="conv"> when you see her. </l>
+               <l n="04" rend="conv"> when you see her.</l>
                <l n="05" rend="prose">          <add>Inducted into Winding into</add></l>
                <l n="06" rend="prose">     Insinuated through the vortex of</l>
                <l n="07" rend="prose">                <add>somehow</add></l>
@@ -522,7 +573,7 @@
          <div type="image" xml:id="nb07_03_11_0019_text">
             <pb facs="nb07_03_11_0019_verso.jpg"/>            
             <lg type="sideways">
-               <l n="v26"> <!-- span  09-17, along left margin, with arrow pointing from "Zak" to left  margin --> <bibl>                                       The Young acrobat p. 106</bibl></l>
+               <l n="v01"> <!-- span  09-17, along left margin, with arrow pointing from "Zak" to left  margin -->                  <bibl>The Young acrobat p. 106</bibl></l>
             </lg>
             <lg>
                <l n="01" rend="conv">Prof. Phelps.<note>William Lyon Phelps (1865-1943), popular lecturer, literary critic, and Professor of English at Yale University from 1901 to 1933. In Lecture Notebooks, MM writes several pages of notes on lecture series Phelps gave in Brooklyn during 1931 and 1932, dating her notes: 11 January, 15 March, 12 April, 19 April, 11[?] October, 25 October, 8 November, 22 November, 6 December, 1931. In 1932: 3 January, 17 January, 31 January, 8 October, 27 November, 11 December (VII.05.08 and VII.05.09).</note> Some have no</l>
@@ -546,10 +597,10 @@
                <l n="19" rend="prose">&amp; <del>thin</del> scanty skirt &amp; thin</l>
                <l n="20" rend="prose">ringless hands.  Occasional</l>
                <l n="21" rend="prose"><del>quick</del> <del>grave</del> <add>quiet</add> smile and enthusiastic</l>
-               <l n="22" rend="prose"> lively eyes.— </l>
+               <l n="22" rend="prose"> lively eyes.—</l>
                <l n="23"> ___________</l>
                <l n="24" rend="prose"> Two boys at Mildred Dilling</l>
-               <l n="25" rend="prose"> <unclear resp="cristannemiller">the</unclear> Newark ensemble concert<note>MM refers to a concert given by harpist Mildred Dilling and the Newark Foundation Ensemble at the Academy of Music, Brooklyn, on 6 November 1932.</note> </l>
+               <l n="25" rend="prose"> <unclear resp="cristannemiller">the</unclear> Newark ensemble concert<note>MM refers to a concert given by harpist Mildred Dilling and the Newark Foundation Ensemble at the Academy of Music, Brooklyn, on 6 November 1932.</note></l>
             </lg>
             <pb facs="nb07_03_11_0019_recto.jpg"/>
             <lg>
@@ -576,7 +627,7 @@
                <l n="21" rend="prose"> <add>^</add>  revery, almost as if he had</l>
                <l n="22" rend="prose"> gone blind in a steadiness of <hi rend="pencil">acquiescent</hi></l>
                <l n="23" rend="prose"> attention <del>and assent to the</del></l>
-               <l n="24" rend="prose"> <del>substance.</del> </l>
+               <l n="24" rend="prose"> <del>substance.</del></l>
                <l n="25" rend="conv">                  <add>do</add></l>
                <l n="26" rend="conv">I Suppose all poets <del>think</del> some thinking</l>
                <l n="27" rend="conv"> but some do more than others.</l>
@@ -589,7 +640,7 @@
          <div type="image" xml:id="nb07_03_11_0020_text">
             <pb facs="nb07_03_11_0020_verso.jpg"/>
             <lg type="sideways">
-               <l n="v28"><!-- span 01-11, along left margin -->                                 EMBITTERMENT</l>
+               <l n="v01"><!-- span 01-11, along left margin -->                                     EMBITTERMENT</l>
             </lg>
             <lg>
                <l n="01" rend="conv"> <bibl>E. Pounds Gr. Trans cf W H.D</bibl><note>Pound influenced W. H. D. Rouse’s translation of the <title>Odyssey</title> to be more conversational, less rhetorical. He mentions Rouse in his Canto 74, although Rouse did not acknowledge Pound’s assistance with his translation.</note></l>
@@ -730,8 +781,7 @@
                <l n="35" rend="conv">see him everyday but I had never looked to see* him fly".<note>"*him fly" is written vertically slightly above the end of this line.</note></l>
             </lg>
             <lg type="vertical">
-               <l n="v01"> themselves away— </l>
-               <l n="v02"><!-- span 09-35, continues along right margin in 3 vertical lines, each line break marked with | -->out for his airing &amp; these boys <add><hi rend="pencil">/lads/lads</hi><note>MM writes "lads" twice in pencile below the word "boys."</note></add> are so happy they are just throwing </l>
+               <l n="v01">      out for his airing &amp; these boys <add><hi rend="pencil">/lads/lads</hi><note>MM writes "lads" twice in pencile below the word "boys."</note></add> are so happy they are just throwing / themselves away—</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_03_11_0022_text">
@@ -785,7 +835,7 @@
                <l n="09" rend="conv">   the end of the pole, and raising</l>
                <l n="10" rend="conv">  both arms slowly &amp; gracefully let</l>
                <l n="11" rend="conv">  himself fall forward w the ease of</l>
-               <l n="12" rend="conv"> the frigate-bird_ </l>
+               <l n="12" rend="conv"> the frigate-bird_</l>
                <l n="13"/>
                <l n="14" rend="conv"> I’m as destructive as an ape</l>
                <l n="15"/>
@@ -844,7 +894,7 @@
             </lg>
             <pb facs="nb07_03_11_0023_recto.jpg"/>
             <lg type="sideways">
-               <l n="v30"><!-- bracket around lines 20-25 on left margin, indicating that remedies cited pertain to kidneys; span 18-26 along right margin -->when kidneys need attention</l>
+               <l n="v01">    <!-- bracket around lines 20-25 on left margin, indicating that remedies cited pertain to kidneys; span 18-26 along right margin -->when kidneys need attention</l>
             </lg>
             <lg>
                <l n="01" rend="read"><quote corresp="nb07_03_11_0023_recto_l01_quote"/>Printing types</l>
@@ -914,8 +964,8 @@
                <l n="32" rend="conv"> they're at a severe disadvantage in</l>
             </lg>
             <pb facs="nb07_03_11_0024_recto.jpg"/>
-            <lg type="vertical">
-               <l n="v37"><!-- span 02-12 left margin -->they’re under a terrible handicap</l>
+            <lg type="sideways">
+               <l n="v01"><!-- span 02-12 left margin -->                                                                they’re under a terrible handicap</l>
             </lg>
             <lg>
                <l n="01" rend="conv">in having to pretend <del>that</del> to be blind.<note>This line continues both the bottom of the previous page and, more immediately, the left-margin vertical line. The sentence reads: “they’re under a terrible handicap in having to pretend <del>that</del> to be blind.”</note></l>
@@ -949,23 +999,17 @@
                <l n="29" rend="conv">                           <add>in England</add></l>
                <l n="30" rend="conv">They’d made terrible fun of you <add>^</add> if you wore galoshes; I wor wor them<note>This line is continued in margin.</note></l>
                <l n="31" rend="conv">galoshes. My sister has wore them</l>
-               <l n="32" rend="conv">but only in a snowstorm. </l>
+               <l n="32" rend="conv">but only in a snowstorm.</l>
                <l n="33" rend="conv"/>
                <l n="34" rend="conv">Thinking back to that afternoon</l>
                <l n="35" rend="conv">of illegitimate significances— bleeding</l>
                <l n="36" rend="conv">heart—  santo<note>Palo santo is an essential oil. Santolino chamaecyparissus is commonly called lavender cotton.</note> <del>and</del> lavender gauze etc gauze</l>
             </lg>
-            <lg type="vertical">
-               
-            </lg>
          </div>
          <div type="image" xml:id="nb07_03_11_0025_text">
             <pb facs="nb07_03_11_0025_verso.jpg"/>
             <lg type="sideways">
-               <l n="v34"><!-- span 01-31 on left margin, in three rows of script -->Hildegarde Oct 16. My what a nice man. And isn’t he handsome? </l>
-               <l n="v01"> You’re very knowing to find yrself a doctor who writes How did you do that? </l>
-               <l n="v02"> Providence in the person of a Dr. LF <unclear resp="cristannemiller">Crover</unclear></l>
-               <l n="v35"> <!--span 27-30, left side of page, inset from the margin --> <hi rend="pencil">Circus</hi></l>
+               <l n="v01">Hildegarde Oct 16. My what a nice man. And isn’t he handsome? / You’re very knowing to find yrself a doctor who writes How did you do that? / Providence in the person of a Dr. LF <unclear resp="cristannemiller">Crover</unclear> <!--span 27-30, left side of page, inset from the margin -->/ <hi rend="pencil">Circus</hi></l>
             </lg>
             <lg>
                <l n="01" rend="conv">                    <add>g?</add></l>
@@ -974,7 +1018,7 @@
                <l n="04" rend="conv">      Oct 17, 1933 &amp; previous</l>
                <l n="05" rend="conv">                  <hi rend="pencil">or rare</hi>  <add>n impatient</add></l>
                <l n="06" rend="conv">nothing more affecting than a suppressed</l>
-               <l n="07" rend="conv">                       <add>an involuntary partial</add><note>The word "partial" is finished across the fold on the next page.</note> </l>
+               <l n="07" rend="conv">                       <add>an involuntary partial</add><note>The word "partial" is finished across the fold on the next page.</note></l>
                <l n="08" rend="conv">yawn, or a brief sigh</l>
                <l n="09" rend="conv">     <hi rend="pencil">Const<note>Const. (Constance) is MM’s brother Warner’s wife.</note>: Well my dear I am as H James</hi></l>
                <l n="10" rend="conv">Henry James. I am constanty</l>
@@ -983,14 +1027,14 @@
                <l n="13" rend="conv">on the door.</l>
                <l n="14" rend="conv">I felt what I was feeling so</l>
                <l n="15" rend="conv">much I thought if you came</l>
-               <l n="16" rend="conv">back, you might find me dead;  </l>
+               <l n="16" rend="conv">back, you might find me dead;</l>
                <l n="17" rend="conv">The mind under certain circumstances is like</l>
                <l n="18" rend="conv">the hammers of a piano. If you hit them they will</l>
-               <l n="19" rend="conv">rise— but have no independent responsibility . . </l>
+               <l n="19" rend="conv">rise— but have no independent responsibility . .</l>
                <l n="20" rend="conv">    I don’t deserve the honor</l>
                <l n="21" rend="conv">   people confer on me— especially</l>
                <l n="22" rend="conv">    <add>—   —   —   —   — personal matters.<del><hi rend="pencil">personal matters.</hi></del>— </add></l>
-               <l n="23" rend="conv"> in <del>private life</del>. </l>
+               <l n="23" rend="conv"> in <del>private life</del>.</l>
                <l n="24" rend="conv">       Anne: my yr hair looks nice. Have you</l>
                <l n="25" rend="conv">         just had it washed?</l>
                <l n="26" rend="conv"> monkey— has the power</l>
@@ -1004,8 +1048,8 @@
             </lg>
             <pb facs="nb07_03_11_0025_recto.jpg"/>
             <lg type="sideways">
-               <l n="v34"><!--span 14-28 on left margin-->         and thrown to founder w its roots</l>
-               <l n="v35"><!--span 27-30, diagonally on left half of page -->         In <unclear resp="cristannemiller">front</unclear></l>
+               <l n="v01"><!--span 14-28 on left margin-->            and thrown to founder w its roots</l>
+               <l n="v02"><!--span 27-30, diagonally on left half of page -->   In <unclear resp="cristannemiller">front</unclear></l>
             </lg>
             <lg>
                <l n="01" rend="conv">    If you care about me even to any extent there</l>
@@ -1081,7 +1125,7 @@
                <l n="33" rend="conv">                 <add><hi rend="pencil">round</hi> </add></l>
                <l n="34" rend="conv">it <del>would</del> was hopping around</l>
                <l n="35" rend="conv"><del>on</del> the hearth &amp; the door top</l>
-               <l n="36" rend="conv">and I trembled when I saw it  </l>
+               <l n="36" rend="conv">and I trembled when I saw it</l>
             </lg>
             <pb facs="nb07_03_11_0026_recto.jpg"/>
             <lg>
@@ -1089,20 +1133,20 @@
                <l n="02" rend="conv"> W’s lap but she is game &amp;  <del>said</del></l>
                <l n="03" rend="conv"> looking at the marks it made, said</l>
                <l n="04" rend="conv"> "I have some of the best cleaning</l>
-               <l n="05" rend="conv"> fluid in the world." </l>
+               <l n="05" rend="conv"> fluid in the world."</l>
                <l n="06" rend="conv"/>
                <l n="07" rend="conv">   There are some people who feel complimented</l>
                <l n="08" rend="conv"> by hostility—<del>If you  threw</del></l>
                <l n="09" rend="conv"> who wouldn't be discouraged if</l>
                <l n="10" rend="conv"> <del>you threw</del> an ocean of water was</l>
                <l n="11" rend="conv">thrown on them. <add><hi rend="pencil">There has</hi></add><!-- [desc]addition begins on the line and then slants into the right margin, in several short lines[/desc] --></l>
-               <l n="12" rend="conv">           <hi rend="pencil">never been any theory in life that I wished—for myself—as much as this.</hi>                    </l>
+               <l n="12" rend="conv">           <hi rend="pencil">never been any theory in life that I wished—for myself—as much as this.</hi></l>
                <l n="13" rend="conv">Taking his hand slowly &amp; looking at it as if it</l>
                <l n="14" rend="conv">      <add>little</add></l>
                <l n="15" rend="conv"> were a <add>^</add> bird. You’re the only person I have ever</l>
                <l n="16" rend="conv">known who made me feel as if <del>one’s</del>__ work didn’t matter</l>
                <l n="17" rend="conv"><unclear resp="cristannemiller">in</unclear> staring at a speck in the distance &amp;</l>
-               <l n="18" rend="conv">  swallowing with difficulty— . . </l>
+               <l n="18" rend="conv">  swallowing with difficulty— . .</l>
                <l n="19" rend="conv">The Irish say they never see well who haven’t been</l>
                <l n="20" rend="conv"> blind for a time or am I thinking of Synge<note> Edmund John Millington Synge (1871-1909), Irish playwright, poet, travel writer, and collector of folklore, best known for his play <title>The Playboy of the Western World</title> (1907).</note></l>
                <l n="21" rend="conv">     Brahms. Sym No 1     Op. 68</l>
@@ -1122,7 +1166,7 @@
          <div type="image" xml:id="nb07_03_11_0027_text">
             <pb facs="nb07_03_11_0027_verso.jpg"/>
             <lg type="sideways">
-               <l n="v39"> <!-- span 04-30 along left margin --> <hi rend="pencil">precipitately remarking you’re dangerous </hi></l>
+               <l n="v01"> <!-- span 04-30 along left margin -->                   <hi rend="pencil">precipitately remarking you’re dangerous</hi></l>
             </lg>
             <lg>
                <l n="01" rend="conv"> I don't know how we're going to arrange</l>
@@ -1166,7 +1210,7 @@
             </lg>
             <pb facs="nb07_03_11_0027_recto.jpg"/>
             <lg type="sideways">
-               <l n="v39"><!-- span 15-33 -->     collar, showing that the style was intentional</l>
+               <l n="v01"><!-- span 15-33 -->     collar, showing that the style was intentional</l>
             </lg>
             <lg>
                <l n="01" rend="conv"> I like him better than <add><hi rend="pencil">I</hi></add> anybody</l>
@@ -1185,7 +1229,7 @@
                <l n="14" rend="conv"> nothing <add>^</add> myself. I'm being thwarted, I’m</l>
                <l n="15" rend="conv">     <add>not</add></l>
                <l n="16" rend="conv"> <del>from</del> realizing the same thing myself.</l>
-               <l n="17" rend="conv">      <add>experiencing</add> </l>
+               <l n="17" rend="conv">      <add>experiencing</add></l>
                <l n="18" rend="conv">                     <add><hi rend="pencil">VOLTAIR</hi> </add></l>
                <l n="19" rend="conv"> Its rising to the occasion—</l>
                <l n="20" rend="conv"> —————                 <add>not just that__</add></l>
@@ -1220,7 +1264,7 @@
                <l n="06" rend="conv"> "I am as uninterested in fashion, and</l>
                <l n="07" rend="conv"> particularly in dress, as a human</l>
                <l n="08" rend="conv"> being could be but I have managed</l>
-               <l n="09" rend="conv"> to <hi rend="underline">make</hi> myself interested. </l>
+               <l n="09" rend="conv"> to <hi rend="underline">make</hi> myself interested.</l>
                <l n="10"/>
                <l n="11"/>
                <l n="12"/>
@@ -1259,7 +1303,7 @@
                <l n="08" rend="conv"> It’s an odd thing to say about a baby but</l>
                <l n="09" rend="conv">                   <add>so</add></l>
                <l n="10" rend="conv"> I think what makes it winning is its</l>
-               <l n="11" rend="conv"> sincerity—  </l>
+               <l n="11" rend="conv"> sincerity—</l>
                <l n="12" rend="conv">          Feb.18 34</l>
                <l n="13" rend="conv">   Officially noted       <hi rend="pencil">Chapter XXX</hi></l>
                <l n="14" rend="conv"/>
@@ -1267,7 +1311,7 @@
                <l n="16" rend="conv">                      <add><hi rend="pencil">that</hi></add>   <add><hi rend="pencil">to you</hi> </add></l>
                <l n="17" rend="conv"> of hound’s-tooth checks &amp; I said</l>
                <l n="18" rend="conv"> I wish someone would teach me to</l>
-               <l n="19" rend="conv"> write the word hesitate </l>
+               <l n="19" rend="conv"> write the word hesitate</l>
                <l n="20"/>
                <l n="21"> I don’t envy Ravel<note>Maurice Ravel (1875-1937), French composer. In 1932, he had a car accident that exacerbated a latent cerebral condition; after 1933 he stopped composing.</note>— writing things</l>
                <l n="22"> that sound like an accordion</l>
@@ -1322,7 +1366,7 @@
             </lg>
             <pb facs="nb07_03_11_0029_recto.jpg"/>
             <lg type="sideways">
-                <l n="v33">There’s a lot of hard work there emphasized by the | unthinking nature of the <unclear resp="cristannemiller">lines</unclear></l>
+                <l n="v01">                  There’s a lot of hard work there emphasized by the / unthinking nature of the <unclear resp="cristannemiller">lines</unclear></l>
             </lg>
             <lg>
                <l n="01" rend="prose">  a small <del>upward</del> stroke at right</l>
@@ -1331,7 +1375,7 @@
                <l n="04" rend="prose"> <del>of the paper</del>. the left working very</l>
                <l n="05" rend="prose"> slowly so there would no more</l>
                <l n="06" rend="prose">  <hi rend="underline">eradicating</hi> &amp; humiliating delay.</l>
-               <l n="07" rend="prose">                             <hi rend="blue">See next page</hi> </l>
+               <l n="07" rend="prose">                             <hi rend="blue">See next page</hi></l>
                <l n="08" rend="conv"><seg rend="conv" xml:id="nb07_03_11_0029_recto_text_line_08_genre_01"/>The play—<hi rend="pencil"> Escape me never<note><title>Escape Me Never</title>. A play written in 1934 by English writer Margaret Kennedy (1896-1967), based on her 1930 novel <title>The Fool of the Family</title>. It was produced as a film in 1935.</note></hi></l>
                <l n="09" rend="conv">   Nothing can be too decorous to suit</l>
                <l n="10" rend="conv">                              <add>there</add></l>
@@ -1351,15 +1395,15 @@
                <l n="24" rend="conv"> in mind <del>not the object</del> and the</l>
                <l n="25" rend="conv"> conversation &amp; not the <del>play or the</del></l>
                <l n="26" rend="conv"> <del>some specific</del> objective. <hi rend="blue">actual definite</hi></l>
-               <l n="27" rend="conv">                            <hi rend="blue">specified</hi> </l>
+               <l n="27" rend="conv">                            <hi rend="blue">specified</hi></l>
                <l n="28" rend="conv"/>
                <l n="29" rend="conv"> I do an easy thing— for Knowledge</l>
                <l n="30" rend="conv"> of a <del>thing</del> I substitute a love for it</l>
                <l n="31" rend="conv">     <add>subject,</add></l>
-               <l n="32" rend="conv">            <hi rend="pencil">Cf Blake in Bk V</hi><note>In "The Four Zoas," Blake repeats the phrase "It is an easy thing to"; MM owned <title>William Blake: Poetry and Prose</title> ed. Geoffrey Keynes (New York: Random House, 1928).</note> </l>
+               <l n="32" rend="conv">            <hi rend="pencil">Cf Blake in Bk V</hi><note>In "The Four Zoas," Blake repeats the phrase "It is an easy thing to"; MM owned <title>William Blake: Poetry and Prose</title> ed. Geoffrey Keynes (New York: Random House, 1928).</note></l>
             </lg>
-            <lg type="vertical">
-               <l n="v34"> <unclear resp="cristannemiller">(unmentality)</unclear></l>
+            <lg type="sideways">
+               <l n="v02">                              <unclear resp="cristannemiller">(unmentality)</unclear></l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_03_11_0030_text">
@@ -1660,6 +1704,9 @@
                <l n="34"> —— And weather  <del>that</del> useless envelope of thot</l>
             </lg>
             <pb facs="nb07_03_11_0037_recto.jpg"/>
+            <lg type="sideways">
+               <l n="v01">                                                           <hi rend="pencil">Euclid <hi rend="underline">May</hi> / Norfolk man</hi></l>
+            </lg>
             <lg>
                <l n="01"> Sosthenes Behn<note>Behn, Sosthene [1882-1957]. Founder of ITT, International Telephone and Telegraph.</note> Pres Internat. Tel. &amp; Telegraph</l>
                <l n="02">         <hi rend="blue">Names</hi><note>MM frequently thought about names that would be good for characters in her novel, "The Way We Live Now"—some taken from actual people (often but not always marked "real") and others made up. Sebastian Such is a name she made up for a Scofield Thayer character.</note></l>
@@ -1697,11 +1744,9 @@
                <l n="34" rend="pencil"> The Ostrich—  the epiornis etc</l>
                <l n="35" rend="pencil">                 opinicus<note>The opinicus is an imaginary creature used in heraldy, often grouped with the griffin. It has the body and legs of a lion, the head, neck, and wings of an eagle, and the short tail of a camel or bear.</note> provable crocodile</l>
                <l n="36" rend="pencil"> The Reindeer</l>
-               <l n="37" rend="pencil">   <unclear rend="cristannemiller">George Monksy</unclear> </l>
+               <l n="37" rend="pencil">   <unclear rend="cristannemiller">George Monksy</unclear></l>
             </lg>
-            <lg type="vertical">
-               <l n="v38" rend="pencil"> Euclid <hi rend="underline">May</hi> | Norfolk man </l>
-            </lg>
+            
          </div>
          <div type="image" xml:id="nb07_03_11_0038_text">
             <pb facs="nb07_03_11_0038_verso.jpg"/>
@@ -1772,7 +1817,7 @@
                <l n="13" rend="pencil">         July 28</l>
                <l n="14" rend="pencil; conv"> Beaver<note>Beaver is the nickname for Mary Norcross, MWM’s lover during the early years of the twentieth century and mentor and close friend to Marianne. </note> May the mountain be a</l>
                <l n="15" rend="pencil; conv"> rock of defense to her   never</l>
-               <l n="16" rend="pencil; conv"> something to fall on her </l>
+               <l n="16" rend="pencil; conv"> something to fall on her</l>
                <l n="17" rend="pencil"> ____________________</l>
                <l n="18" rend="pencil"> umbel of a flower</l>
             </lg>
