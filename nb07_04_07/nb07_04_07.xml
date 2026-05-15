@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="tei_mmda.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Notebook 07.04.07</title>
+            <title>Notebook 07.04.07 | Poetry 1934 - 1940</title>
             <author>Marianne Moore</author>
             <editor>
                <persName>Heather Cass White</persName>
@@ -11,6 +10,10 @@
             <respStmt>
                <persName>Nikolaus L. Wasmoen</persName>
                <resp>Digital Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Juniper Johnson</persName>
+               <resp>Associate Digital Editor</resp>
             </respStmt>
             <respStmt>
                <persName>Claire Nashar</persName>
@@ -45,12 +48,14 @@
                <msIdentifier>
                   <repository> Marianne Moore Collection, Rosenbach Museum and Library,
                      Philadelphia, PA
-                     (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
+                     (<ref target="https://www.rosenbach.org/collections/marianne-moore">https://www.rosenbach.org/collections/marianne-moore</ref>)</repository>
                   <idno>VII.04.07</idno>
                </msIdentifier>
-               <p><ref target="nb07_04_07_intro">Notebook Editor's Introduction</ref></p>
+               <p><ref target="../essays/nb07_04_07_intro.xml">Notebook Editor's Introduction</ref></p>
                <p>This notebook has no extant cover or binding but consists of loose pages. The dates run from approximately 1934 to 1940. The genre is poetry throughout, with the exception of several pages (23 recto – 25 recto) of transcription from a source text on Captain John Smith. Several pages have a vertical line drawn straight down through all writing on the page, or varieties of straight or slanted lines, perhaps to indicate that Moore has gone back through this material. The notebook is written predominantly in pencil.</p>
                <p>Relevant to publications: “A-Glass-Ribbed Nest” (later retitled “The Paper Nautilus”), ” “Camellia Sabina,” “Half Deity,” “He ‘Digesteth Harde Yron,’” “Nine Nectarines and Other Porcelain,” “Pigeons,” “See in the Midst of Fair Leaves,” “Smooth Gnarled Crepe Myrtle!,” “The Buffalo,” “The Frigate Pelican,” “Virginia Britannia,” “What Are Years?”</p>
+                <p><hi rend="bold">Notebook Contents:</hi> MM takes notes from various sources and writes in different genres, sometimes within a single notebook. When a content type does not correspond with the genre of the notebook, it is coded in the margin as:</p>
+                <p><figure rend="center"><graphic width="15%" url="resources/images/moore/genreTagging.jpg"/></figure></p>
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -198,7 +203,7 @@
       <pb facs="nb07_04_07_0004_verso.jpg"/>
       <div type="page" n="v.0004" xml:id="nb07_04_07_0004_verso_text">
          <lg type="sideways">
-            <l n="36" rendition="vertical" rend="pencil"><!-- span lines 30-16, along left margin-->Satisfaction is lowly. How pure a thing is joy–<note>The phrases "satisfaction is a lowly thing, how pure a thing is joy" appear in MM's unpublished novel, "The Way We Live Now"; they later appear in "What Are Years?" MM may also draft towards "What are years?" on other parts of this page.</note></l>
+            <l n="v01">      <!-- span lines 30-16, along left margin--><hi rend="pencil">Satisfaction is lowly. How pure a thing is joy–</hi><note>The phrases "satisfaction is a lowly thing, how pure a thing is joy" appear in MM's unpublished novel, "The Way We Live Now"; they later appear in "What Are Years?" MM may also draft towards "What are years?" on other parts of this page.</note></l>
          </lg>
       <lg>
          <l n="01" rend="pencil"><hi rend="pencil" xml:id="nb07_04_07_0004_verso_text_line_01_color_01"/>      <note>In lines 01-07, MM drafts toward "The Frigate Pelican," <title>The Criterion</title> (July 1935).</note>Handel</l>
@@ -326,7 +331,8 @@
    <div type="image" xml:id="nb07_04_07_0007_text">
       <pb facs="nb07_04_07_0007_recto.jpg"/>
       <div type="page" n="r.0007" xml:id="nb07_04_07_0007_recto_text">
-         <lg type="sideways">                                                        <l n="42" rendition="vertical"><!-- span left margin, lines 28-23 --><hi rend="pencil">Buffalo</hi></l>
+         <lg type="sideways">                                                        
+         <l n="v01">                                      <!-- span left margin, lines 28-23 --><hi rend="pencil">Buffalo</hi></l>
          </lg>
          <lg>
          <l n="01" rend="pencil"><note>In lines 01-42, MM drafts material toward the poem first published as "Nine Nectarines and Other Porcelain," <title>Poetry</title> (November 1934).</note>    9 Nectarines– the nectarine tree <del>w</del>&amp; a <del>young</del></l>
@@ -541,8 +547,8 @@
          <l n="28" rend="pencil">  or yoke of ^ oxen harvesting the syrup</l>
          <l n="29" rend="pencil">  crop–up to their knees in snow</l>
          </lg>
-         <lg type="vertical">
-            <l n="30" rend="pencil"><!-- span lines 27-15 right margin -->1000 gallons of raw spring sap</l>
+         <lg type="sideways">
+            <l n="v01"><!-- span lines 27-15 right margin --><hi rend="pencil">1000 gallons of raw spring sap</hi></l>
          </lg>
       </div>
    </div>
