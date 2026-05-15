@@ -1,5 +1,4 @@
-<?xml-model href="tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="tei_mmda.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">f <teiHeader>
+<?xml-model href="tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="tei_mmda.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">f <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Notebook 07.01.04</title>
@@ -47,8 +46,7 @@
             <publisher>Marianne Moore Digital
                Archive</publisher>
             <availability>
-               <licence
-                  target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
                   <p>This work is licensed under a Creative
                      Commons
                      Attribution-NonCommercial-ShareAlike
@@ -85,12 +83,10 @@
                   <institution>Rosenbach Museum and
                      Library</institution>
                   <repository>Marianne Moore Collection
-                     (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
+                     (<ref target="https://www.rosenbach.org/collections/marianne-moore">https://www.rosenbach.org/collections/marianne-moore</ref>)</repository>
                   <idno>VII.01.04</idno>
                </msIdentifier>
-               <p><ref
-                     target="../essays/nb07_01_04_intro.xml"
-                     >Notebook Editor's
+               <p><ref target="../essays/nb07_01_04_intro.xml">Notebook Editor's
                   Introduction</ref></p>
                <p>Reading Notebook, 1923, brown leather
                   binding. Blank grid paper (no
@@ -112,16 +108,13 @@
                   type does not correspond with the genre of
                   the notebook, it is coded in the margin
                   as:</p>
-               <p><figure rend="center"><graphic width="15%"
-                        url="resources/images/moore/genreTagging.jpg"
-                     /></figure></p>
+               <p><figure rend="center"><graphic width="15%" url="resources/images/moore/genreTagging.jpg"/></figure></p>
             </msDesc>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
          <creation>
-            <origDate from="1923-01-01" to="1923-12-31"
-               >1923</origDate>
+            <origDate from="1923-01-01" to="1923-12-31">1923</origDate>
          </creation>
       </profileDesc>
       <encodingDesc>
