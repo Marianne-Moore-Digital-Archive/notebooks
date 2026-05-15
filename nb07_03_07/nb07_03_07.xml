@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -37,7 +36,7 @@
                 <msIdentifier>
                     <settlement>Philadelphia, PA</settlement>
                     <institution>Rosenbach Museum and Library</institution>
-                    <repository>Marianne Moore Collection(https://rosenbach.org/collection/marianne-moore-collection/)</repository>
+                    <repository>Marianne Moore Collection (<ref target="https://www.rosenbach.org/collections/marianne-moore">https://www.rosenbach.org/collections/marianne-moore</ref>)</repository>
                     <idno>VII.03.07</idno>
                 </msIdentifier>
                 <p><ref target="nb07_03_07_intro">Notebook Editor's Introduction</ref></p>
@@ -3923,8 +3922,7 @@
                 <l n="02"> <bibl rend="begin"/>The Mystical Element of Religion.<note>Hügel, Friedrich von.
  <title>The Mystical Element of Religion as Studied in Saint Catherine of Genoa and Her Friends</title>, vol. 1 (New York: E. P. Dutton &amp; Co,
                         1909).</note></l>
-                <l n="03"> Frederick von Hugel.<bibl rend="end"/>
-                        <note target="hügel">Hügel, Friedrich, Freiherr von [1852-1925]. Austrian-born Roman-Catholic philosopher.</note></l>
+                <l n="03"> Frederick von Hugel.<bibl rend="end"/><note target="hügel">Hügel, Friedrich, Freiherr von [1852-1925]. Austrian-born Roman-Catholic philosopher.</note></l>
                 <l n="04"> "God, the Divine Spirit, is indeed before,</l>
                 <l n="05"> within, and after all our truest dignity</l>
                 <l n="06"> and deepest disquiet. . . . . . . </l>
@@ -3959,8 +3957,7 @@
             <lg>
                 <l n="01">         <bibl rend="begin"/>Lamps of Western Mysticism.<note>Waite, A. E. <title>Lamps of Western Mysticism: Essays on the Life of the Soul in God</title> (New
                         York: Alfred A. Knopf, 1923).</note></l>
-                <l n="02">         Arthur Edward Waite.<bibl rend="end"/>
-                        <note target="waite">Waite, Arthur Edward [1857-1942].
+                <l n="02">         Arthur Edward Waite.<bibl rend="end"/><note target="waite">Waite, Arthur Edward [1857-1942].
                         English writer on occult traditions. </note> Nov. 15, 1924</l>
                 <l n="03"> It is the paramount duty of all who <hi rend="underline">have loved</hi>                </l>
                 <l n="04"> <hi rend="underline">the highest</hi> to communicate that which comes</l>
@@ -4161,10 +4158,8 @@
             <!--<desc>[Page-level Description]</desc>-->
             <lg>
                 <l n="01">        The Man Nobody Knows </l>
-                <l n="02">        <bibl rend="begin"/>Bruce Barton.<note target="barton">Barton, Bruce Fairchild [1886-1967]. American
-                        advertising executive and inspirational writer known for his book <hi rend="italics">The Man Nobody Knows: Discovery of the Real Jesus</hi>, which was first serialized in <hi rend="italics">Woman's Home Companion</hi>.</note> April 1925 Woman's Home</l>
-                <l n="03"> Companion.<bibl rend="end"/><note>Barton, Bruce. "The Man Nobody Knows,
-                        *: The Founder of Modern Business." <title>Woman's Home Companion</title> *
+                <l n="02">        <bibl rend="begin"/>Bruce Barton.<note target="barton">Barton, Bruce Fairchild [1886-1967]. American advertising executive and inspirational writer known for his book <hi rend="italics">The Man Nobody Knows: Discovery of the Real Jesus</hi>, which was first serialized in <hi rend="italics">Woman's Home Companion</hi>.</note> April 1925 Woman's Home</l>
+                <l n="03"> Companion.<bibl rend="end"/><note>Barton, Bruce. "The Man Nobody Knows: The Founder of Modern Business." <title>Woman's Home Companion</title> *
                         (*, 1925).</note></l>
                 <l n="04"> "Whosoever will be great among you shall be your</l>
                 <l n="05"> <del>servant</del> minister" he said, and whosoever of you</l>
