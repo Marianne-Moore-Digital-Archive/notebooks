@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="tei_mmda.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Notebook 07.04.04</title>
+                <title>Notebook 07.04.04 | Poetry 1922 - 1930</title>
                 <author>Marianne Moore</author>
                 <editor>
                     <persName>Cristanne Miller</persName>
@@ -12,6 +11,10 @@
                 <respStmt>
                     <persName>Nikolaus Wasmoen</persName>
                     <resp>Digital Editor</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Juniper Johnson</persName>
+                    <resp>Associate Digital Editor</resp>
                 </respStmt>
                 <respStmt>
                     <persName>Robin Schulize and </persName>
@@ -55,6 +58,7 @@
                         <p>The MMDA does not own the copyright to material presented on the MMDA. You do not need permission to use this material for in-class teaching purposes, school projects and assignments, blog posts, or brief non-commercial uses. Any other copying, distribution, or publication of previously unpublished Moore writing must receive permission from the Literary Estate of Marianne Moore, Literary Executor David M. Moore, dmoore@a1conflictresolver.com.</p>
                         <p>Commercial use: For images and transcriptions of manuscripts, please contact Executor and Administrator of the Marianne Moore Literary Estate David M. Moore, dmoore@a1conflictresolver.com.</p>
                     </licence>
+                </availability>
                 <idno>07.04.04</idno>
                 <date>February 19, 2020</date>
             </publicationStmt>
@@ -63,13 +67,14 @@
                     <msIdentifier>
                         <settlement>Philadelphia, PA</settlement>
                         <institution>Rosenbach Museum and Library</institution>
-                        <repository>Marianne Moore Collection (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
+                        <repository>Marianne Moore Collection (<ref target="https://www.rosenbach.org/collections/marianne-moore">https://www.rosenbach.org/collections/marianne-moore</ref>)</repository>
                         <idno>VII.04.04</idno>
                     </msIdentifier>
-                    <p><ref target="nb07_04_04_intro">Notebook
-                            Editor's Introduction</ref></p>
+                    <p><ref target="../essays/nb07_04_04_intro.xml">Notebook Editor's Introduction</ref></p>
                     <p>Hardcover fliptop notebook, with leaf-like mottled design on front and back. Tiny page numbers written in pencil by RML staff on upper right corner of each recto page, following the inside front cover. Old RML notebook number: 1251-7.</p>
                     <p>Relevant to publications: “Marriage,” “An Octopus,” “Silence,” “Sea Unicorns and Land Unicorns,” “Peter,” “People’s Surroundings,” “The Student,” “The Steeplejack,” “The Hero,” “The Jerboa,” “The Plumet Basilisk”. </p>
+                    <p><hi rend="bold">Notebook Contents:</hi> MM takes notes from various sources and writes in different genres, sometimes within a single notebook. When a content type does not correspond with the genre of the notebook, it is coded in the margin as:</p>
+                    <p><figure rend="center"><graphic width="15%" url="resources/images/moore/genreTagging.jpg"/></figure></p>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -94,7 +99,7 @@
                 </taxonomy>
             </classDecl>
         </encodingDesc>
-    </teiHeader>       
+    </teiHeader> 
     <text>
         <body>
             <div type="image" xml:id="nb07_04_04_0001_text">
@@ -307,7 +312,7 @@
                     <l n="17">    with scissors dull as the back of any knife</l>
                     <l n="18"> if one exposed in unvarnished words what one thinks of the unvarn'd human</l>
                     <l n="19">       the result would <hi rend="underline">not do</hi> to frame                       being</l>
-                    <l n="20">    well perhaps not <del>he has an aristocratic mind</del>          </l>
+                    <l n="20">    well perhaps not <del>he has an aristocratic mind</del></l>
                     <l n="21">                           he does not protest</l>
                     <l n="22">       weeding is nauseous to annihilation</l>
                     <l n="23">     it is to admit defeat to ack. that an argument has 2 sides—</l>
@@ -517,7 +522,7 @@
                     <l n="19">               a bear doth</l>
                     <l n="20">  causing her husband to sigh<!--[/draft]--></l>
                     <l n="21">__________________________</l>
-                    <l n="22" rend="read">   <bibl>Givler</bibl> 135<quote corresp="nb07_04_04_0013_recto_l22_quote"/><note>Givler, Robert Chenault. Author of <hi rend="italics">Psychology: The Science of Human Behavior</hi> (1922): “These are the animals which preeminently exhibit fear and an irrepressible desire to flee from danger” (136).</note> Emotion is the most elaborate form         </l>
+                    <l n="22" rend="read">   <bibl>Givler</bibl> 135<quote corresp="nb07_04_04_0013_recto_l22_quote"/><note>Givler, Robert Chenault. Author of <hi rend="italics">Psychology: The Science of Human Behavior</hi> (1922): “These are the animals which preeminently exhibit fear and an irrepressible desire to flee from danger” (136).</note> Emotion is the most elaborate form</l>
                     <l n="23" rend="read">   of activity of wh the kinetic system is</l>
                     <l n="24" rend="read">  capable</l>
                     <l n="25" rend="read">_______</l>
@@ -956,7 +961,7 @@
                     <l n="11">    Love <del>&amp;</del>, greed, pride ferocity; sagacity <del>lust</del></l>
                     <l n="12"><del>Sportsmanship</del>           haste,</l>
                     <l n="13">         cowardice &amp; power</l>
-                    <l n="14">   &amp; he re-assorted    The mind of man</l>
+                    <l n="14">   &amp; be re-assorted    The mind of man</l>
                     <l n="15">                         It's a problem</l>
                     <l n="16">   <del>what about the imagin</del> the predatory imagination of these rustics</l>
                     <l n="17">      <del>about</del> this eagle w tigers in its eyes &amp;</l>
@@ -1487,12 +1492,10 @@
             <div type="image" xml:id="nb07_04_04_0041_text">
                 <pb facs="nb07_04_04_0041_recto.jpg"/>
                 <lg type="sideways">
-                    <l n="v01" rend="read"><!--[desc]span lines 25-02, left margin, three rows of print, marked with several parallel lines at lines 25[/desc]-->Exper<del>iences solemn joy in seeing that he has become an idol</del> </l>
-                    <l n="v02" rend="read">See sel<del>dom &amp; cold up &amp; down</del></l>
-                    <l n="v03" rend="read">it is worth <del>the slight affront to privacy</del><note>Part of these cancelled vertical lines appear in “Marriage.”</note><quote corresp="#nb07_04_04_0041_recto_l01_quote"/></l>
+                    <l n="v01">Exper<del>iences solemn joy in seeing that he has become an idol</del>  / See sel<del>dom &amp; cold up &amp; down</del> / it is worth <del>the slight affront to privacy</del><quote corresp="#nb07_04_04_0041_recto_l01_quote"/></l>
                 </lg>
                   <lg>
-                    <l n="01" rend="read"> <note>Baxter, Richard. <hi rend="italics">The Saints’ Everlasting Rest</hi> (see earlier note).</note><quote corresp="nb07_04_04_0041_recto_l01_quote"/>103</l>
+                    <l n="01" rend="read"> <note>Baxter, Richard. <hi rend="italics">The Saints’ Everlasting Rest</hi> (see earlier note).</note><quote corresp="nb07_04_04_0041_recto_l01_quote"/>103<note>Part of the cancelled vertical lines appear in “Marriage.”</note> </l>
                     <l n="02" rend="read">   a senseless heart of rock</l>
                     <l n="03" rend="read">   thru wh the straightened fire shut up <del>in it</del></l>
                     <l n="04" rend="read">        <del>of rock</del>   s                   <del>forever,</del></l>
@@ -1632,7 +1635,7 @@
             <div type="image" xml:id="nb07_04_04_0045_text">
                 <pb facs="nb07_04_04_0045_recto.jpg"/>
                   <lg>
-                    <l n="01">  <note>MM drafts toward “Marriage.” On paper stubs, see Introduction.</note><!--[draft="Marriage"]-->If there is <del>misunderstanding somewhere</del></l>
+                    <l n="01">  <!--[draft="Marriage"]-->If there is <del>misunderstanding somewhere</del><note>MM drafts toward “Marriage.” On paper stubs, see Introduction.</note> </l>
                     <l n="02">  <del>for for</del> it is not here in   in  summing</l>
                     <l n="03">  <del>if</del> accidental statesmanship has <unclear resp="hcw">married</unclear> the</l>
                     <l n="04">  which   matter of <gap extent="3" resp="hcw"/> Daniel Webster<!--[/draft]--></l>
@@ -1641,7 +1644,7 @@
             <div type="image" xml:id="nb07_04_04_0046_text">
                 <pb facs="nb07_04_04_0046_recto.jpg"/>
                   <lg>
-                    <l n="01">        <note>MM drafts toward “Marriage”; this language appears in the poem. On paper stubs, see Introduction.</note><!--[draft="Marriage"]-->Now, &amp; forever</l>
+                    <l n="01">        <!--[draft="Marriage"]-->Now, &amp; forever<note>MM drafts toward “Marriage”; this language appears in the poem. On paper stubs, see Introduction.</note></l>
                     <l n="02">  the book on the writing table.</l>
                     <l n="03">    the hand in the breast pocket<!--[/draft]--></l>
                 </lg>
@@ -1649,14 +1652,14 @@
             <div type="image" xml:id="nb07_04_04_0047_text">
                 <pb facs="nb07_04_04_0047_recto.jpg"/>
                   <lg>
-                    <l n="01">   <note>MM drafts toward “Marriage.” On paper stubs, see Introduction.</note><!--[draft="Marriage"]-->He perceives what <del>he was not</del> that he</l>
+                    <l n="01">   <!--[draft="Marriage"]-->He perceives what <del>he was not</del> that he<note>MM drafts toward “Marriage.” On paper stubs, see Introduction.</note></l>
                     <l n="02">                                 he shd<!--[/draft]--></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0048_text">
                 <pb facs="nb07_04_04_0048_verso.jpg"/>
                   <lg>
-                    <l n="01">   <note>MM drafts toward “Marriage”; this language appears in the poem. On paper stubs, see Introduction.</note><!--[draft="Marriage"]-->as the essence of the matter.</l>
+                    <l n="01">   <!--[draft="Marriage"]-->as the essence of the matter.<note>MM drafts toward “Marriage”; this language appears in the poem. On paper stubs, see Introduction.</note> </l>
                     <l n="02">        Liberty &amp; union</l>
                     <l n="03">        now and forever" ______________<!--[/draft]--></l>
                     <l n="04"/>
@@ -1681,7 +1684,7 @@
                     <l n="11"> a <del>well organized hell</del></l>
                     <l n="12">    It has remarked: "an odd kind of joy which leaves</l>
                     <l n="13">                       one <del>them</del> in fears &amp; uncertainty<!--[/draft]--></l>
-                    <l n="14" rend="read"> <note>Baxter, Richard, <hi rend="italics">The Saints’ Everlasting Rest.</hi></note>quote corresp="nb07_04_04_0049_recto_l14_quote"/&gt;345-256</l>
+                    <l n="14" rend="read"> <note>Baxter, Richard, <hi rend="italics">The Saints’ Everlasting Rest.</hi></note>345-256</l>
                     <l n="15" rend="read"> an odd kind of joy which leaves them</l>
                     <l n="16" rend="read">      in fears &amp; amazement because of its uncertainty<quote corresp="#nb07_04_04_0049_recto_l14_quote"/></l>
                     <l n="18">    <!--[draft="Marriage"]-->With simplicity &amp; not w irony—</l>
@@ -1740,8 +1743,7 @@
             <div type="image" xml:id="nb07_04_04_0051_text">
                 <pb facs="nb07_04_04_0051_recto.jpg"/>
                 <lg type="sideways">
-                    <l n="v01">So careful not to purchase happiness at the expense of freedom <del>eachnd</del></l>
-                    <l n="v02"> insisting w the knowledge of experience that the gentle</l>
+                    <l n="v01">So careful not to purchase happiness at the expense of freedom <del>eachnd</del> insisting w the knowledge / of experience that the gentle</l>
                 </lg>
                   <lg>
                     <l n="01">   <!--[draft="Marriage"]-->Sobriety— assuredly<note>MM drafts toward “Marriage”; some phrases are used in the published poem.</note></l>
@@ -1885,7 +1887,7 @@
             <div type="image" xml:id="nb07_04_04_0057_text">
                 <pb facs="nb07_04_04_0057_recto.jpg"/>
                   <lg>
-                    <l n="01">                       <note>MM drafts toward “Marriage”; this language appears in the poem. On paper stubs, see Introduction.</note><!--[draft="Marriage"]-->entirely graceful</l>
+                    <l n="01">                       <!--[draft="Marriage"]-->entirely graceful<note>MM drafts toward “Marriage”; this language appears in the poem. On paper stubs, see Introduction.</note> </l>
                     <l n="02">         <hi rend="underline">Marriage</hi> <!--[/draft]--></l>
                 </lg>
             </div>
@@ -1926,7 +1928,7 @@
             <div type="image" xml:id="nb07_04_04_0062_text">
                 <pb facs="nb07_04_04_0062_verso.jpg"/>
                   <lg>
-                    <l n="01">   <note>On paper stubs, see Introduction. Most letters at top of fragment are illegible.</note>you   </l>
+                    <l n="01">   <note>On paper stubs, see Introduction. Most letters at top of fragment are illegible.</note>you</l>
                     <l n="02">                         for</l>
                     <l n="03">    <del>good are honest pretexts</del></l>
                 </lg>
@@ -2083,7 +2085,7 @@
                     <l n="05" rend="read">                     left in someones left human foot <unclear resp="hcw">mak</unclear></l>
                     <l n="06" rend="read">   thin sheet of ice forming on summer nights</l>
                     <l n="07" rend="read">                                   of shin<del>y</del>ing quartz</l>
-                    <l n="08" rend="read"> <del>15</del>17<note>Wilcox, W. D. <hi rend="italics">The Rockies of Canada</hi> (see earlier note).</note> cliffs disposed in horizontal layers of a hard</l>
+                    <l n="08" rend="read"> <del>15</del>17<note>Wilcox, W. D. <hi rend="italics">The Rockies of Canada</hi> (see earlier note).</note> cliffs disposed in horizontal layers of a hard</l>
                     <l n="09" rend="read">   shiny quartz sandstone, stained red &amp; orange</l>
                     <l n="10" rend="read">   transversely by iron &amp; vertically banded</l>
                     <l n="11" rend="read">   purple &amp; black where the water drips down fr</l>
@@ -2119,8 +2121,11 @@
             </div>
             <div type="image" xml:id="nb07_04_04_0068_text">
                 <pb facs="nb07_04_04_0068_verso.jpg"/>
-                  <lg>
-                    <l n="01" rend="read">  <note>Wilcox, W. D. <hi rend="italics">The Rockies of Canada</hi> (see earlier note).</note><quote corresp="nb07_04_04_0068_verso_l01_quote"/>28         the</l>
+                  <lg type="sideways">
+                    <l n="33"><!--[desc]left margin, span lines 31-10[/desc]-->in spite of my earnest resolve to keep a straight course<quote corresp="#nb07_04_04_0068_verso_l01_quote"/></l>
+                </lg>
+                <lg>
+                    <l n="01" rend="read">  <note>Wilcox, W. D. <hi rend="italics">The Rockies of Canada</hi> (see earlier note).</note><quote corresp="nb07_04_04_0068_verso_l01_quote"/>28         the</l>
                     <l n="02" rend="read">w colors on of <del>sea</del> sea          <hi rend="black">draughts</hi></l>
                     <l n="03" rend="read"> delicate shades— faint rainbow hues</l>
                     <l n="04" rend="read">               trans</l>
@@ -2153,14 +2158,12 @@
                     <l n="31" rend="read"> 50 a committee of one to gather the hats &amp; the</l>
                     <l n="32" rend="read">     ice hacks &amp; personal <del>property</del> objects</l>
                     </lg>
-                <lg type="sideways">
-                    <l n="33" rend="read"><!--[desc]left margin, span lines 31-10[/desc]-->in spite of my earnest resolve to keep a straight course<quote corresp="#nb07_04_04_0068_verso_l01_quote"/></l>
-                </lg>
+                
             </div>
             <div type="image" xml:id="nb07_04_04_0069_text">
                 <pb facs="nb07_04_04_0069_recto.jpg"/>
                   <lg>
-                    <l n="01" rend="read">    <note>Wilcox, W. D. <hi rend="italics">The Rockies of Canada</hi> (see earlier note). Some phrases appear in “An Octopus,” especially as first published.</note><quote corresp="nb07_04_04_0069_recto_l01_quote"/>comes staring at us as we passed along.</l>
+                    <l n="01" rend="read">    <note>Wilcox, W. D. <hi rend="italics">The Rockies of Canada</hi> (see earlier note). Some phrases appear in “An Octopus,” especially as first published.</note><quote corresp="nb07_04_04_0069_recto_l01_quote"/>comes staring at us as we passed along.</l>
                     <l n="02" rend="read">  52 usual obstacles of fallen timber</l>
                     <l n="03" rend="read">full of     deterrent</l>
                     <l n="04" rend="read">    Indian sarcasm</l>
@@ -2198,7 +2201,7 @@
             <div type="image" xml:id="nb07_04_04_0070_text">
                 <pb facs="nb07_04_04_0070_verso.jpg"/>
                   <lg>
-                    <l n="01" rend="read">     <note>Wilcox, W. D. <hi rend="italics">The Rockies of Canada</hi> (see earlier note). Some phrases appear in “An Octopus.”</note><quote corresp="nb07_04_04_0070_verso_l01_quote"/>ice hacks   no Greek wld have it as a gift</l>
+                    <l n="01" rend="read">     <note>Wilcox, W. D. <hi rend="italics">The Rockies of Canada</hi> (see earlier note). Some phrases appear in “An Octopus.”</note><quote corresp="nb07_04_04_0070_verso_l01_quote"/>ice hacks   no Greek wld have it as a gift</l>
                     <l n="02" rend="read">93 raisins &amp; hard tack vs a vertical</l>
                     <l n="03" rend="read">   wall of rock 500 feet high</l>
                     <l n="04" rend="read">95  a garden of bluebells &amp; asters</l>
@@ -2225,7 +2228,7 @@
             <div type="image" xml:id="nb07_04_04_0071_text">
                 <pb facs="nb07_04_04_0071_recto.jpg"/>
                   <lg>
-                    <l n="01" rend="read">      <note>Wilcox, W. D. <hi rend="italics">The Rockies of Canada</hi> (see earlier note).</note><quote corresp="nb07_04_04_0071_recto_01_quote"/>the Greeks liked smoothness</l>
+                    <l n="01" rend="read">      <note>Wilcox, W. D. <hi rend="italics">The Rockies of Canada</hi> (see earlier note).</note><quote corresp="nb07_04_04_0071_recto_01_quote"/>the Greeks liked smoothness</l>
                     <l n="02" rend="read"> 117  a geographical blank</l>
                     <l n="03" rend="read"> 119 2 prs of trousers one over the other the</l>
                     <l n="04" rend="read">   outer one older— deteriorating in relays</l>
@@ -2261,7 +2264,7 @@
             <div type="image" xml:id="nb07_04_04_0072_text">
                 <pb facs="nb07_04_04_0072_verso.jpg"/>
                   <lg>
-                    <l n="01" rend="read">             <note>Wilcox, W. D. <hi rend="italics">The Rockies of Canada</hi> (see earlier note).</note><quote corresp="nb07_04_04_0072_verso_l01_quote"/><del>hot</del></l>
+                    <l n="01" rend="read">             <note>Wilcox, W. D. <hi rend="italics">The Rockies of Canada</hi> (see earlier note).</note><quote corresp="nb07_04_04_0072_verso_l01_quote"/><del>hot</del></l>
                     <l n="02" rend="read"> 185  <hi rend="underline">the sun</hi><del>light brilliant</del> on the snow</l>
                     <l n="03" rend="read">                  <hi rend="underline">full</hi>     <del>the sun</del> dyeing the</l>
                     <l n="04" rend="read">        see <hi rend="underline">toy</hi>  rainbow    white creature like a</l>
@@ -2296,11 +2299,11 @@
             <div type="image" xml:id="nb07_04_04_0073_text">
                 <pb facs="nb07_04_04_0073_recto.jpg"/>
                 <lg type="sideways">
-                    <l n="v01"><!--[/draft]--><!--[desc] left margin, lines 17-09, written in 2 rows, with alternative words written in above or below the text line[/desc]-->tills one’s <del>imagination</del> <del>unreason</del> interest has been captured  </l>
+                    <l n="v01"><!--[/draft]--><!--[desc] left margin, lines 17-09, written in 2 rows, with alternative words written in above or below the text line[/desc]-->tills one’s <del>imagination</del> <del>unreason</del> interest has been captured</l>
                     <l n="v02">by a <del>particular</del> single region</l>
                 </lg>
                   <lg>
-                    <l n="01" rend="read">   <note>Wilcox, W. D. <hi rend="italics">The Rockies of Canada</hi> (see earlier note). MM drafts toward “An Octopus” toward the bottom of the page.</note><quote corresp="nb07_04_04_0073_recto_l01_quote"/>Slides. (the wan green (sky) the <del>gorgeous</del></l>
+                    <l n="01" rend="read">   <note>Wilcox, W. D. <hi rend="italics">The Rockies of Canada</hi> (see earlier note). MM drafts toward “An Octopus” toward the bottom of the page.</note><quote corresp="nb07_04_04_0073_recto_l01_quote"/>Slides. (the wan green (sky) the <del>gorgeous</del></l>
                     <l n="02" rend="read">                       air       giant</l>
                     <l n="03" rend="read"> 236  blue &amp; grey limestone     cuttlefish</l>
                     <l n="04" rend="read"> 237  porcupine infested places   octapus<note>According to Patricia C. Willis, MM misspells “octopus” even on the typed manuscript she sent to the Dial (personal correspondence, 26 February 2017).</note></l>
@@ -2420,7 +2423,7 @@
                     <l n="15">    <del>it isn't his decorum its</del> restraint</l>
                     <l n="16">                     his h<del>e</del>is</l>
                     <l n="17">    his self control; (a bent for doing hard things wears them out)</l>
-                    <l n="18">   <del>ability to do</del> hard things <del>sanely</del>            </l>
+                    <l n="18">   <del>ability to do</del> hard things <del>sanely</del></l>
                     <l n="19"> a <del>gift</del>talent for doing    so securely</l>
                     <l n="20">   wears them out.</l>
                     <l n="21">  and what is this— the novel you have written?</l>
@@ -2579,7 +2582,7 @@
             <div type="image" xml:id="nb07_04_04_0081_text">
                 <pb facs="nb07_04_04_0081_recto.jpg"/>
                 <lg type="sideways">
-                    <l n="31">Calypso, the goats flower.</l>
+                    <l n="31">                                                Calypso, the goats flower.</l>
                 </lg>
                   <lg>
                     <l n="01">      <!-- [draft="An Octopus"]-->has forgotten that Ulysses was<note>MM drafts toward “An Octopus”; some phrases are used in the published poem.</note></l>
@@ -2610,12 +2613,11 @@
                     <l n="26">in <del>potu</del>   to <del>conquer basalt peaks</del></l>
                     <l n="27">  in easy       the <del>main</del></l>
                     <l n="28"><del>to</del> posture on the <del>s<gap extent="3" resp="hcw"/> of</del> peaks</l>
-                    <l n="29">                <del>si<gap extent="2" resp="hcw"/>d</del> volcanically unadjusted</l>
+                    <l n="29">                <del>fil<gap extent="1" resp="hcw"/>d</del> volcanically unadjusted</l>
                     <l n="30">      vol<del>canic fickle vapored heads</del> peaks</l>
                     </lg>
                 <lg type="vertical">
-                    <l n="32"><!--[desc]right margin, lines 02-25 in three rows of script [/desc]-->was / an embroider * enammeled <hi rend="underline">an</hi> <hi rend="underline strikethrough"> embroider</hi> as a marble classic Greek</l>
-                    <l n="v02"> / a <del>marble</del></l>
+                    <l n="32"><!--[desc]right margin, lines 02-25 in three rows of script [/desc]-->was / an embroider * enammeled <hi rend="underline">an</hi> <hi rend="underline strikethrough"> embroider</hi> as a marble classic Greek / a <del>marble</del></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0082_text">
@@ -2641,12 +2643,12 @@
                     <l n="18">    dissatisfied with marble</l>
                     <l n="19">    Calypso</l>
                     <l n="20"> ^ has forgotten that Ulysses was a Greek</l>
-                    <l n="21">Calypso             <del>Calpso presupposes</del>                  </l>
+                    <l n="21">Calypso             <del>Calpso presupposes</del></l>
                     <l n="22">   <del>the goats flower  assumes</del> that</l>
                     <l n="23">   implying in good sadness that Ulysses is not here</l>
                     <l n="24"> <del>that</del> the age comes back to mountains</l>
                     <l n="25">        <del>cycle</del>summer after <del>cycle</del>summer we traverse</l>
-                    <l n="26">    hobnailed &amp; <del>drawn by magnets</del>                    </l>
+                    <l n="26">    hobnailed &amp; <del>drawn by magnets</del></l>
                     <l n="27">           <del>to</del>upon the cuttlefish</l>
                     <l n="28">      its <del>conformity</del> cut by the</l>
                     <l n="29">             claw      avalanche</l>
@@ -2658,7 +2660,7 @@
             <div type="image" xml:id="nb07_04_04_0083_text">
                 <pb facs="nb07_04_04_0083_recto.jpg"/>
                   <lg>
-                    <l n="01">  <!-- [draft="An Octopus"]-->with the crack of a rifle—<note>MM drafts and takes notes toward “An Octopus”; some phrases appear in published poem.</note></l>
+                    <l n="01">  <!-- [draft="An Octopus"]-->with the crack of a rifle<note>MM drafts and takes notes toward “An Octopus”; some phrases appear in published poem.</note>— </l>
                     <l n="02">  a curtain of powdered ice</l>
                     <l n="03">  loosed like a waterfall—</l>
                     <l n="04">No Greek looks into the goats looking glass</l>
@@ -2683,7 +2685,7 @@
                     <l n="23" rend="read">   <note>Johnson, Clifton. <hi rend="italics">What to See in America.</hi> New York: Macmillan, 1919. <!-- https://archive.org/details/whattoseeinameri00john --></note><quote corresp="nb07_04_04_0083_recto_l23_quote"/>dumps of gold &amp; silver ore</l>
                     <l n="24" rend="read">  410 the same species of trees which lower down are tall</l>
                     <l n="25" rend="read">   &amp; straight are here dwarfed &amp; twisted. These</l>
-                    <l n="26" rend="read">  stunted trees grow very slowly—<del>about a</del>                    </l>
+                    <l n="26" rend="read">  stunted trees grow very slowly—<del>about a</del></l>
                     <l n="27" rend="read">   the average trunk increases in diameter</l>
                     <l n="28" rend="read">      about an inch in a century, yet some<quote corresp="#nb07_04_04_0083_recto_l23_quote"/></l>
                 </lg>
@@ -2741,14 +2743,14 @@
                     <l n="11" rend="read">    Big Snow Mountain ^ heaped by furious</l>
                     <l n="12" rend="read">                                winds</l>
                     <l n="13" rend="read"> 532 Mt R. The Mountain has <del>those</del> the</l>
-                    <l n="14" rend="read"><del>showing</del>       wh prove it a volcano <del>show</del>                    </l>
+                    <l n="14" rend="read"><del>showing</del>       wh prove it a volcano <del>show</del></l>
                     <l n="15" rend="read">with those graceful lines <del>wh proclaim it</del> volcanic</l>
                     <l n="16" rend="read">                of the volcano</l>
                     <l n="17" rend="read">  origin        liquid</l>
                     <l n="18" rend="read"> 534 28 rivers of ice pour slowly down the gashed slopes</l>
                     <l n="19" rend="read"> 537 bands puny bustling swearing men w <del>saws</del></l>
                     <l n="20" rend="read">     accompanied by the          <del>and</del> axes</l>
-                    <l n="21" rend="read"> 538  A characteristic <del>perfume of Everett</del>                    </l>
+                    <l n="21" rend="read"> 538  A characteristic <del>perfume of Everett</del></l>
                     <l n="22" rend="read">                   <del>is newly</del> sawn lumber</l>
                     <l n="23" rend="read">                       of new sawn lumber</l>
                     <l n="24" rend="read">    4 mile gorge of azure</l>
@@ -2758,8 +2760,8 @@
                     <l n="28" rend="read">   face of the western hem—</l>
                     <l n="29" rend="read">    for immensity &amp; chaotic</l>
                     <l n="30" rend="read">               sublimity</l>
-                    <l n="31" rend="read"> <del>534 28</del>                    </l>
-                    <l n="32" rend="read"> 539 where sometimes a living tree <del>is</del> stands<del>ing</del>                    </l>
+                    <l n="31" rend="read"> <del>534 28</del></l>
+                    <l n="32" rend="read"> 539 where sometimes a living tree <del>is</del> stands<del>ing</del></l>
                     <l n="33" rend="read">     on a fallen one<quote corresp="#nb07_04_04_0085_recto_l01_quote"/></l>
                 </lg>
             </div>
@@ -2767,7 +2769,7 @@
                 <pb facs="nb07_04_04_0086_verso.jpg"/>
                   <lg>
                     <l n="01" rend="read">  <note>Johnson, Clifton. <hi rend="italics">What to See in America</hi> (see earlier note).</note><quote corresp="nb07_04_04_0086_verso_l01_quote"/>540 roaring falls &amp; loud cascades</l>
-                    <l n="02" rend="read">the brooks crowded w trout  <del>&amp; many</del>                    </l>
+                    <l n="02" rend="read">the brooks crowded w trout  <del>&amp; many</del></l>
                     <l n="03" rend="read">                           scores of</l>
                     <l n="04" rend="read">   elk bear deer wolf lynx ott<del>er &amp;</del> beavers</l>
                     <l n="05" rend="read">       &amp; the resort of the bald eagle imulating</l>
@@ -2775,15 +2777,15 @@
                     <l n="07" rend="read"> 540 riffles &amp; "white water" meadows in their dome</l>
                     <l n="08" rend="read"> 541 american Pacific Whaling Co tows in whales</l>
                     <l n="09" rend="read">    humpbacks, finbacks, sulphur bottoms,</l>
-                    <l n="10" rend="read">   &amp; sperms—<quote corresp="#nb07_04_04_0086_verso_l01_quote"/>                   </l>
+                    <l n="10" rend="read">   &amp; sperms—<quote corresp="#nb07_04_04_0086_verso_l01_quote"/></l>
                     <l n="11"> ______________________________________________</l>
                     <l n="12"> <!-- [draft="An Octopus"]-->perched like the eagle with tigers in its eyes &amp; feet<note>MM drafts toward “An Octopus” from beneath the first horizontal line to the bottom of the page.</note></l>
                     <l n="13">          w the                        with</l>
                     <l n="14">   the eagle a <del>the combination of angles  <hi rend="underline">its</hi></del> <hi rend="underline">angular eyes</hi></l>
-                    <l n="15">   "contrasting w the prominent eyes    <hi rend="underline">in contrast w</hi>                    </l>
+                    <l n="15">   "contrasting w the prominent eyes    <hi rend="underline">in contrast w</hi></l>
                     <l n="16">   un<del>like the spheroid eyes &amp; general</del>    appearance</l>
-                    <l n="17">as over against and genl  <hi rend="underline">bearing of the ostrich w that</hi>                    </l>
-                    <l n="18">          <del>a kind</del>                    </l>
+                    <l n="17">as over against and genl  <hi rend="underline">bearing of the ostrich w that</hi></l>
+                    <l n="18">          <del>a kind</del></l>
                     <l n="19">   <del>w its kind of</del> droll intelligent look</l>
                     <l n="20">   a <del>kind of antidote to harshness that is</del> characteristic</l>
                     <l n="21">   <del>of the</del>  camels, of penguins of lizards newts</l>
@@ -2793,15 +2795,15 @@
                     <l n="25">  used to doing what people don't want them to do <del>w a gay look</del></l>
                     <l n="26">            —as uniformly cylindrical <del>like some parrots</del> as galvanized</l>
                     <l n="27"> the white wampum ^ w lavender edges                 wire</l>
-                    <l n="28">            <del>occasionally</del>  and      <hi rend="underline">washers</hi>                    </l>
-                    <l n="29">         and <del>washers of</del>     azurite <del><gap extent="2" resp="hcw"/>om</del>                     </l>
-                    <l n="30">     <del>dividing setting off the collection in</del>by <del>groups.</del>                     </l>
-                    <l n="31">              <del>dividing the string into groups</del>                     </l>
+                    <l n="28">            <del>occasionally</del>  and      <hi rend="underline">washers</hi></l>
+                    <l n="29">         and <del>washers of</del>     azurite <del><gap extent="2" resp="hcw"/>om</del></l>
+                    <l n="30">     <del>dividing setting off the collection in</del>by <del>groups.</del></l>
+                    <l n="31">              <del>dividing the string into groups</del></l>
                     <l n="32">                           sum</l>
                     <l n="33"><del>these</del> separating the string into groups</l>
                     <l n="34"> <del>waterfalls</del></l> 
                     <l n="35">            of the continent— these waterfalls</l>
-                    <l n="36">                         over ledges of <del>azure</del>                    </l>
+                    <l n="36">                         over ledges of <del>azure</del></l>
                     <l n="37">                                    turquoise<!--[/draft]--></l>
                 </lg>
             </div>
@@ -2828,7 +2830,7 @@
                     <l n="18">                       muffled      faint</l>
                     <l n="19">OK       one hears the muted       unending</l>
                     <l n="20">                                   muted</l>
-                    <l n="21">                one hears the clink of <del>waterfalls</del> <unclear resp="hcw">inpouri</unclear>                    </l>
+                    <l n="21">                one hears the clink of <del>waterfalls</del> <unclear resp="hcw">inpouri</unclear></l>
                     <l n="22">                       <del>which fall in an unending</del> stream</l>
                     <l n="23">   since pleasure must be had, it still falling</l>
                     <l n="24">                                in a steady stream</l>
@@ -2851,7 +2853,7 @@
             <div type="image" xml:id="nb07_04_04_0088_text">
                 <pb facs="nb07_04_04_0088_verso.jpg"/>
                   <lg>
-                    <l n="01" rend="read"><note>MM takes notes and drafts toward “An Octopus.”</note><note><hi rend="italics">Rules and Regulations, Mount Rainier National Park</hi> (see earlier note).</note><quote corresp="nb07_04_04_0088_verso_l01_quote"/>11 doubling back &amp; forth upon itself</l>
+                    <l n="01" rend="read"><note><hi rend="italics">Rules and Regulations, Mount Rainier National Park</hi> (see earlier note).</note><quote corresp="nb07_04_04_0088_verso_l01_quote"/>11 doubling back &amp; forth upon itself<note>MM takes notes and drafts toward “An Octopus.”</note> </l>
                     <l n="02" rend="read">    the road winds thru the canyon like the groove</l>
                     <l n="03" rend="read">Ponies around a snail shell, up to its very lip</l>
                     <l n="04" rend="read">     clinging closely to the road they did not make that takes them</l>
@@ -3016,8 +3018,8 @@
                     <l n="13">  no little consternation has been caused</l>
                     <l n="14">   by its advance <del>w all</del> its many suckers</l>
                     <l n="15">   combining strength w unimagined delicacy</l>
-                    <l n="16">   thick at the base &amp; tapering <del>to the finest</del>                    </l>
-                    <l n="17">          elegant <del>hair</del> point     to <del>a fine</del>                    </l>
+                    <l n="16">   thick at the base &amp; tapering <del>to the finest</del></l>
+                    <l n="17">          elegant <del>hair</del> point     to <del>a fine</del></l>
                     <l n="18">                                the sharpest possible</l>
                     <l n="19">  like the sensitive tongue of the woodpecke      point</l>
                     <l n="20"> combining strength &amp; delicacy</l>
@@ -3026,7 +3028,7 @@
                     <l n="23">                        to sensitive sharp point<del>s</del></l>
                     <l n="24">   of</l>
                     <l n="25">        unimagined delicacy</l>
-                    <l n="26">     like <del>the</del> the woodpeckers tongues<!-- [draft="An Octopus"]-->                    </l>
+                    <l n="26">     like <del>the</del> the woodpeckers tongues<!-- [draft="An Octopus"]--></l>
                     <l n="27"/>
                     <l n="28">          <!-- [draft="Silence"]--><!-- first published The Dial 77 (October 1924)] -->the cat</l>
                     <l n="29">   the only domestic an that has not lost its</l>
@@ -3066,18 +3068,17 @@
             </div>
             <div type="image" xml:id="nb07_04_04_0094_text">
                 <pb facs="nb07_04_04_0094_verso.jpg"/><lg type="sideways">
-                    <l n="v01"><!--[desc] left margin from lines 26-06, in two rows of script[\desc]-->One <del>never</del> cannot then be <del>un</del>grateful to them, when they <del>finally</del></l>
-                    <l n="v02"> / go away   have gon</l>
+                    <l n="v01"><!--[desc] left margin from lines 26-06, in two rows of script[\desc]-->One <del>never</del> cannot then be <del>un</del>grateful to them, when they <del>finally</del> / go away   have gon</l>
                 </lg>
                   <lg>
                     <l n="01"> <!-- [draft="Silence"]-->The innocuous       descendent of nice people<note>MM drafts toward “Silence”; several phrases appear in published poem.</note></l>
                     <l n="02">  He was     Silence  as absolute <del>he</del> was fearless <del>&amp; was</del> &amp; as</l>
-                    <l n="03">Silent like the cat— <del>the disappearing strategist</del>                    </l>
-                    <l n="04">      <del>as</del>                    </l>
+                    <l n="03">Silent like the cat— <del>the disappearing strategist</del></l>
+                    <l n="04">      <del>as</del></l>
                     <l n="05"> The only domestic animal that has not lost its</l>
                     <l n="06">  <del>wild quality inspired him</del>—      wild quaty</l>
                     <l n="07"> that hastens off (to <del>find</del> privacy) hastens off to privacy</l>
-                    <l n="08">  &amp; <del>was absolutely fearless</del>                    </l>
+                    <l n="08">  &amp; <del>was absolutely fearless</del></l>
                     <l n="09">      goes ways to settle things</l>
                     <l n="10"> that disappears</l>
                     <l n="11">     its victims limp tail hanging like a shoelace fr its</l>
@@ -3086,7 +3087,7 @@
                     <l n="14">   have to be shown Longfellows grave</l>
                     <l n="15"> or the glass flowers at Harvard</l>
                     <l n="16">  &amp; then one is not grateful to them when at last</l>
-                    <l n="17">          <del>people are</del>                    </l>
+                    <l n="17">          <del>people are</del></l>
                     <l n="18">       <del>He said one time</del>       they are gone—</l>
                     <l n="19">     He was <del>absolute</del> fearless</l>
                     <l n="20"> The deepest feeling ought to show itself</l>
@@ -3096,20 +3097,20 @@
                     <l n="24">               my house yr inn—</l>
                     <l n="25">  Inns are not residences</l>
                     <l n="26"> OK                    foreign</l>
-                    <l n="27">     Silence of <unclear resp="hcw">distinguest</unclear> <del>Irish</del> parents <del>parents</del>                    </l>
-                    <l n="28">                           <del>illustrious</del>                    </l>
+                    <l n="27">     Silence of <unclear resp="hcw">distinguest</unclear> <del>Irish</del> parents <del>parents</del></l>
+                    <l n="28">                           <del>illustrious</del></l>
                     <l n="29">   The innocuous descendent of <del>good</del> people</l>
                     <l n="30"> — like the cat—,</l>
                     <l n="31">   the only domestic animal that has not</l>
                     <l n="32">                 lost its wild quality,</l>
-                    <l n="33">                              ,     </l>
+                    <l n="33">                              ,</l>
                     </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0095_text">
                 <pb facs="nb07_04_04_0095_recto.jpg"/>
                   <lg>
                     <l n="01">     <!-- [draft="Silence"]--><del>that hastens off to privacy</del> <note>MM drafts toward “Silence”; several phrases appear in published poem.</note></l>
-                    <l n="02">    <del>its victims limp tail hanging like a shoelace</del>                    </l>
+                    <l n="02">    <del>its victims limp tail hanging like a shoelace</del></l>
                     <l n="03">                    <del>from its mouth,</del>—</l>
                     <l n="04"> my father used to say</l>
                     <l n="05"> Superior people never make long visits</l>
@@ -3121,7 +3122,7 @@
                     <l n="11">   (but enjoy their finds in privacy)</l>
                     <l n="12">    you are not then so grateful to them</l>
                     <l n="13">   you <del>cannot then be grateful to</del> them</l>
-                    <l n="14">   <del>when they'<del>ve</del>re gone away</del>                    </l>
+                    <l n="14">   <del>when they'<del>ve</del>re gone away</del></l>
                     <l n="15">        <del>at last</del></l>
                     <l n="16"> Like the cat <del>Then</del> When they go away</l>
                     <l n="17">     <del>that is</del> and Like the cat that in hastening</l>
@@ -3129,7 +3130,7 @@
                     <l n="19">                  is absolutely fearless</l>
                     <l n="20"> <del>Absolutely fearless</del> its victim's limp tail hanging</l>
                     <l n="21">In <del>ye the</del> hastening off to privacy</l>
-                    <l n="22">  <del>will yet, hasten off</del>                    </l>
+                    <l n="22">  <del>will yet, hasten off</del></l>
                     <l n="23">  its <del>lim</del>victims limp tail hanging like a</l>
                     <l n="24"><del>he was absolutely fearless</del> Shoelace fr its mouth</l>
                     <l n="25">  He said one time</l>
@@ -3140,9 +3141,9 @@
                 <pb facs="nb07_04_04_0096_verso.jpg"/>
                   <lg>
                     <l n="01">           <!-- [draft="Silence"]--> <hi rend="underline">Silence</hi>       fearless parents<note>MM drafts toward “Silence”; some phrases are used in published poem.</note></l>
-                    <l n="02">                 child of  <del>good parents</del>                    </l>
-                    <l n="03">   The innocuous descendent of <del>good peo parents</del>                    </l>
-                    <l n="04">                illustrious ancestors <del>like the cat's</del>                    </l>
+                    <l n="02">                 child of  <del>good parents</del></l>
+                    <l n="03">   The innocuous descendent of <del>good peo parents</del></l>
+                    <l n="04">                illustrious ancestors <del>like the cat's</del></l>
                     <l n="05">   Like the cat—</l>
                     <l n="06">    the only domestic animal that has not lost its wild</l>
                     <l n="07">   <del>my father used to say</del>                   quality</l>
@@ -3151,7 +3152,7 @@
                     <l n="10">my f Superior people never make long visits</l>
                     <l n="11">used to say have to be shown Longfellows grave</l>
                     <l n="12">   <del>have to be shown</del>  nor the glass flowers at Harvard</l>
-                    <l n="13">   <del>Then you cannot be so grateful to them</del>                    </l>
+                    <l n="13">   <del>Then you cannot be so grateful to them</del></l>
                     <l n="14">   You are not then so grateful to them</l>
                     <l n="15">   When they go away</l>
                     <l n="16">           And</l>
@@ -3171,8 +3172,7 @@
             <div type="image" xml:id="nb07_04_04_0097_text">
                 <pb facs="nb07_04_04_0097_recto.jpg"/>
                 <lg type="sideways">
-                    <l n="31">         <!--[desc: span lines 27-18, left margin]--> <del>as a self evident</del> <!--[/draft]--></l>
-                    <l n="32">          <!--[desc: span lines 16-01, left margin, in two rows of script] -->announc<del>ed</del> without expecting opposition or attack / as <del>not</del> unexposed to <del>surprise</del></l>
+                    <l n="v01"><del>as a self evident</del> / announc<del>ed</del> without expecting opposition or attack / as <del>not</del> unexposed to <del>surprise</del></l>
                 </lg>
                   <lg>
                     <l n="01">  <!-- [draft="Silence"]-->The innocuous child of fearless parents<note>MM drafts toward “Silence”; some phrases are used in published poem.</note></l>
@@ -3183,17 +3183,17 @@
                     <l n="06"> Superior people never make long visits</l>
                     <l n="07">   <del>hmust be</del> have to be shown Longfellows grave</l>
                     <l n="08">  or the glass flowers at Harvard</l>
-                    <l n="09">    <del>then</del>                    </l>
+                    <l n="09">    <del>then</del></l>
                     <l n="10">  You are not <del>then</del> so grateful to them</l>
                     <l n="11">And when they go away— Why not be</l>
                     <l n="12">Tenacious             self sufficient</l>
-                    <l n="13">     <del>And fading one we each</del>                    </l>
+                    <l n="13">     <del>And fading one we each</del></l>
                     <l n="14">    <del>In nat</del>ure like the cat</l>
                     <l n="15">     that takes its prey to privacy</l>
                     <l n="16">   its victims limptail hanging like a</l>
                     <l n="17">                   shoelace fr its mouth</l>
-                    <l n="18">        <del>went on </del>                    </l>
-                    <l n="19">   <del>he persevered: exacting keen attention</del>                    </l>
+                    <l n="18">        <del>went on </del></l>
+                    <l n="19">   <del>he persevered: exacting keen attention</del></l>
                     <l n="20">       <del>said one day time</del>,</l>
                     <l n="21"> <del>"The deepest feeling ought to show</del> its self</l>
                     <l n="22">                   <del>hazarded</del>  announced as</l>
@@ -3269,7 +3269,7 @@
                     <l n="22">  by <del>means</del> which ha<del>ve</del>s delighted them</l>
                     <l n="23">         The <del>deepest feeling</del> always shows itself in silence</l>
                     <l n="24">                                       Not in silence but</l>
-                    <l n="25">     Nor was he insincere in saying make my house    </l>
+                    <l n="25">     Nor was he insincere in saying make my house</l>
                     <l n="26">                                     your inn     restraint</l>
                     <l n="27">     Inns are not residences</l>
                     <l n="28"/>
@@ -3311,8 +3311,11 @@
             </div>
             <div type="image" xml:id="nb07_04_04_0101_text">
                 <pb facs="nb07_04_04_0101_recto.jpg"/>
+                   <lg type="sideways">
+                    <l n="v01">Virgin mary blue<!--[/draft]--></l>
+                </lg>
                   <lg>
-                    <l n="01">      <!-- [draft="Sea Unicorns and Land Unicorns"]-->&amp; fearless of      which<note>MM drafts and takes notes toward “Sea Unicorns and Land Unicorns.”</note>      45 </l>
+                    <l n="01">      <!-- [draft="Sea Unicorns and Land Unicorns"]-->&amp; fearless of      which<note>MM drafts and takes notes toward “Sea Unicorns and Land Unicorns.”</note>      45</l>
                     <l n="02" rend="read">  157<note>Wilson, Violet A. <hi rend="italics">Queen Elizabeth's Maids of Honour and Laides of the Privy Chamber</hi>. London: John Lane, 1922.</note> <quote corresp="nb07_04_04_0101_recto_l02_quote"/>the sea serpent—<del>this</del> snake</l>
                     <l n="03" rend="read">                    disquiets shippers</l>
                     <l n="04" rend="read">  153 a sea unicorn's horn as a</l>
@@ -3338,9 +3341,7 @@
                     <l n="23">     as tall &amp; slender as the crest</l>
                     <l n="24">       the antlet of the one beamed beast</l>
                     </lg>
-                <lg type="sideways">
-                    <l n="25">Virgin mary blue<!--[/draft]--></l>
-                </lg>
+               
             </div>
             <div type="image" xml:id="nb07_04_04_0102_text">
                 <pb facs="nb07_04_04_0102_verso.jpg"/>
@@ -3433,7 +3434,7 @@
             <div type="image" xml:id="nb07_04_04_0105_text">
                 <pb facs="nb07_04_04_0105_recto.jpg"/>
                   <lg>
-                    <l n="01" rend="read">  <note>Wilson, Violet A. <hi rend="italics">Queen Elizabeth's Maids of Honour</hi> (see earlier note).</note><quote corresp="nb07_04_04_0105_recto_l01_quote"/>betray'd w trees. —jewellers trying to get       47 </l>
+                    <l n="01" rend="read">  <note>Wilson, Violet A. <hi rend="italics">Queen Elizabeth's Maids of Honour</hi> (see earlier note).</note><quote corresp="nb07_04_04_0105_recto_l01_quote"/>betray'd w trees. —jewellers trying to get       47</l>
                     <l n="02" rend="read">  the precious horn have been killed</l>
                     <l n="03" rend="read">  by the the unicorn—</l>
                     <l n="04" rend="read">                           (mendoza)<note>Mendoza, Pedro ode (1487-1537). Spanish conquistador and explorer, primarily of South America.</note></l>
@@ -3492,6 +3493,9 @@
             </div>
             <div type="image" xml:id="nb07_04_04_0107_text">
                 <pb facs="nb07_04_04_0107_recto.jpg"/>
+                  <lg type="sideways">                    
+                    <l n="v01"><!--[desc]left margin, lines 29-19, in 8 rows of script[/desc] -->the raving / <del>a decent</del> madman / of good taste / <del>It is the</del> / that eats when it is in the mood / as much as any more than some / it is the choicest &amp; / the worst</l>
+                  </lg>
                   <lg>
                     <l n="01">      Vienna</l>
                     <l n="02"> <del>I</del>          <del>A Cat</del>     on Viennese striped silk</l>
@@ -3525,8 +3529,7 @@
                     <l n="30" rend="read">       adorns the blowballs frizzled crown—<quote corresp="#nb07_04_04_0107_recto_l29_quote"/></l>
                     </lg>
                 <lg type="sideways">
-                    <l n="31" rend="read"><!--[desc]left margin, lines 29-19, in 8 rows of script[/desc] -->the raving / <del>a decent</del> madman / of good taste / <del>It is the</del> / that eats when it is in the mood / as much as any more than some / it is the choicest &amp; / the worst</l>
-                    <l n="32" rend="read"><!--[desc]right margin, lines 27-21. In 2 rows of script[/desc] -->the silver cushioned / chair</l>
+                    <l n="v02">                                                                   <!--[desc]right margin, lines 27-21. In 2 rows of script[/desc] -->the silver cushioned / chair</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0108_text">
@@ -3577,14 +3580,14 @@
                     <l n="11" rend="read">                                      bay</l>
                     <l n="12" rend="read">   shafts of bay</l>
                     <l n="13" rend="read">133   myrtle rods &amp; shafts of bay</l>
-                    <l n="14" rend="read">     +          &amp; polished spikes, of yew                    </l>
+                    <l n="14" rend="read">     +          &amp; polished spikes, of yew</l>
                     <l n="15" rend="read">132  the blue <del>of the</del> water paled by <del>the</del> foam</l>
                     <l n="16" rend="read">      &amp; there the color of the peacocks neck</l>
-                    <l n="17" rend="read">Seagulls  in its body — by their tails<quote corresp="#nb07_04_04_0109_recto_l10_quote"/> </l>
+                    <l n="17" rend="read">Seagulls  in its body — by their tails<quote corresp="#nb07_04_04_0109_recto_l10_quote"/></l>
                     <l n="18"> ____________________________________________</l>
                     <l n="19"> <!-- [draft="The Plumet Basilisk," first published Active Anthology 1933]-->The <del>Local</del> Native basilisk<note>For the rest of the page, MM drafts toward “The Plumet Basilisk,” first published in <hi rend="italics">Active Anthology</hi>, 1933.</note></l>
                     <l n="20"> Sculptured              In the old summer house</l>
-                    <l n="21">    prehistoric monster  shaped <del>s</del> like a sugar bowl—made all of <del>withes</del>                    </l>
+                    <l n="21">    prehistoric monster  shaped <del>s</del> like a sugar bowl—made all of <del>withes</del></l>
                     <l n="22">                        lattice like</l>
                     <l n="23">             <hi rend="underline">The Basilisk</hi>  lattice <del>bent like</del> &amp; inter weaved</l>
                     <l n="24">         beside its      like willow withes         wove</l>
@@ -3592,7 +3595,7 @@
                     <l n="26">  The basilisk  <del>so</del> p anting w emotion        hole <del>that</del> it seems</l>
                     <l n="27">   the perfect reptile                            to smile—</l>
                     <l n="28"> the crocodile-like miniature  licking up live men  great</l>
-                    <l n="29">  the basilisk destroying wicked men   as <del>an</del> the ^ anteater <del>gathers</del>                    </l>
+                    <l n="29">  the basilisk destroying wicked men   as <del>an</del> the ^ anteater <del>gathers</del></l>
                     <l n="30">  exhibiting its tongue like a live lizard           lily     the ants</l>
                     <l n="31">licking <del>leaping at</del> ones eye lashes like a leaping leopard  to me</l>
                     <l n="32">                  at                           saying</l>
@@ -3606,7 +3609,7 @@
                   <lg>
                     <l n="01">                               October</l>
                     <l n="02">                <hi rend="underline">A <del>Crucifix</del> </hi><note>This draft, which never leads to a published poem by either title proposed here, shares some elements with “The Steeple-Jack,” first published <hi rend="italics">Poetry</hi> 1932.</note></l>
-                    <l n="03">                <hi rend="underline">The Land</hi>                     </l>
+                    <l n="03">                <hi rend="underline">The Land</hi></l>
                     <l n="04">         laid</l>
                     <l n="05">  The land ^ like a <del>recumbent</del> crucifix</l>
                     <l n="06">  against <del>resists</del> the rising sea</l>
@@ -3619,11 +3622,11 @@
                     <l n="13"><del>upon Its  upon</del> its iron corroded fo <del>it rests on</del> the</l>
                     <l n="14">                                 <del>upon</del>      rising</l>
                     <l n="15">      the white gull on the cross like surf      sea</l>
-                    <l n="16">                  <del>body</del>                    </l>
-                    <l n="17">    the black ducks <del>on the sea</del>                    </l>
+                    <l n="16">                  <del>body</del></l>
+                    <l n="17">    the black ducks <del>on the sea</del></l>
                     <l n="18">     like  a        on the sea</l>
-                    <l n="19">  <del>beyond the</del> resting boat <del>upon at peace</del>                    </l>
-                    <l n="20">            upon the rising sea  <del>where it is flat</del>                    </l>
+                    <l n="19">  <del>beyond the</del> resting boat <del>upon at peace</del></l>
+                    <l n="20">            upon the rising sea  <del>where it is flat</del></l>
                     <l n="21">  its iron-corroded foot <del>resists</del> against</l>
                     <l n="22">      the</l>
                     <l n="23">  th<del>e</del>at curiously rounded sea</l>
@@ -3652,7 +3655,7 @@
                     <l n="09">         the scattered opposition of the crumbled stone</l>
                     <l n="10">   <del>this</del> of surf flown out like eagle's</l>
                     <l n="11">                          wings</l>
-                    <l n="12">             hits its graveyard of <del>stones</del>                    </l>
+                    <l n="12">             hits its graveyard of <del>stones</del></l>
                     <l n="13">                              stone</l>
                     <l n="14"/>
                     <l n="15"> <!-- [draft="The Student," first published Poetry 1932]-->Ref<del>lexive</del>  Here, everybody should have a degree<note>MM drafts toward “The Student,” first published in <hi rend="italics">Poetry</hi> 1932.</note></l>
@@ -3682,7 +3685,7 @@
                     <l n="16"/>
                     <l n="17"/>
                     <l n="18">    <!-- [draft="The Steeple-Jack," first published Poetry 1932]-->a seaport town such as this is<note>MM drafts toward “The Steeple-Jack.”</note></l>
-                    <l n="19">                                             &amp; <hi rend="underline">big</hi>                    </l>
+                    <l n="19">                                             &amp; <hi rend="underline">big</hi></l>
                     <l n="20"><del>a picture</del> painted in the colors of the sergeant fish &amp; <del>the</del></l>
                     <l n="21">     blue crab &amp; grapefine black<!--[/draft]--></l>
                 </lg>
@@ -3714,7 +3717,7 @@
                     <l n="22">     The spirit travels not on the ground</l>
                     <l n="23">    &amp; in the earth the clue to <del>him</del> is to befound</l>
                     <l n="24"><unclear resp="hcw">Awestruck</unclear>           stranger</l>
-                    <l n="25">        this young man <del>whom we know less</del>                    </l>
+                    <l n="25">        this young man <del>whom we know less</del></l>
                     <l n="26">       more unknown to us</l>
                     <l n="27">who is <del>more unknown to us</del> than before we knew him</l>
                     <l n="28">      more a stranger</l>
@@ -3803,7 +3806,7 @@
             <div type="image" xml:id="nb07_04_04_0116_text">
                 <pb facs="nb07_04_04_0116_verso.jpg"/>
                 <lg type="sideways">
-                    <l n="38"><!--[desc] lines 13-01, left margin, in three rows of script[/desc]-->water front view paled by foam— / &amp; further off, the color of the peacocks / neck</l>
+                    <l n="38">                  <!--[desc] lines 13-01, left margin, in three rows of script[/desc]-->the water front view paled by foam— / &amp; further off, the color of the peacocks / neck</l>
                     <l n="39"><!--[desc] lines 34-25, left margin, in four rows[/desc]-->we study some say / partly to be able to help / <del>those who</del> the perplexed / who are in difficulties</l>
                 </lg>
                   <lg>
@@ -3856,9 +3859,9 @@
                     <l n="01">                 <!-- [draft="The Hero," first published Poetry 1932]-->voracious           go<note>On this page MM uses language that suggests drafting toward, first, “The Hero,” then “The Steeple-Jack” and, with the phrase “cf Basilisk,” also toward “The Plumet Basilisk.”</note></l>
                     <l n="02">    where the <del><unclear resp="hcw">stupendous</unclear></del> ones hungry <del>snarl</del></l>
                     <l n="03">                                 won't</l>
-                    <l n="04">    the ground is sour &amp; <unclear resp="hcw"><del>here</del></unclear> love grow<del>s</del>                    </l>
+                    <l n="04">    the ground is sour &amp; <unclear resp="hcw"><del>here</del></unclear> love grow<del>s</del></l>
                     <l n="05">           able to grow   <del>no</del>     grows not</l>
-                    <l n="06">       in the fens <del>&amp;</del> growsing webs  <del>love &amp; liking do not grow</del>                    </l>
+                    <l n="06">       in the fens <del>&amp;</del> growsing webs  <del>love &amp; liking do not grow</del></l>
                     <l n="07">            but between the toes</l>
                     <l n="08">                not to make things delicate &amp; pleasant reciprocity <del>wont</del> is show</l>
                     <l n="09">   tho' not going where one likes to go—</l>
@@ -3870,7 +3873,7 @@
                     <l n="15">               the pen is the snake's tongue  protruding</l>
                     <l n="16">    Sober harbor view                <!-- [draft="The Plumet Basilisk"]-->cf Basilisk</l>
                     <l n="17">  __________________________________________________</l>
-                    <l n="18">                     the reptile itself <del>of antiquity</del>                    </l>
+                    <l n="18">                     the reptile itself <del>of antiquity</del></l>
                     <l n="19">     itself (like the penguin)— the gift in of antiquity</l>
                     <l n="20">    and the snake pen— the heirloom of ivory</l>
                     <l n="21">    studded w silver the pen, <del>stuck</del> in its mouth</l>
@@ -3892,11 +3895,11 @@
                     <l n="37">     and these better ones— so touching the ichneumon</l>
                     <l n="38">       there we had                  of this <del>pr</del> man</l>
                     <l n="39">  technical skill;</l>
-                    <l n="40">    now emotional skill,  <unclear resp="hcw">mamaricosion</unclear>                    </l>
+                    <l n="40">    now emotional skill,  <unclear resp="hcw">mamaricosion</unclear></l>
                     <l n="41"> <del>the thing that is so touching</del> so true, so touching</l>
                     <l n="42">     Deftness in appreciation— the thing which likes or dislikes</l>
                     <l n="43">                         an organism</l>
-                    <l n="44">    a thing for the inherent quality that is in <hi rend="underline">it</hi>                    </l>
+                    <l n="44">    a thing for the inherent quality that is in <hi rend="underline">it</hi></l>
                     <l n="45">     makes one dangerous &amp; look dangerous like</l>
                     <l n="46">  the cobra extending cobra ribs—<!-- [draft="The Plumet Basilisk"]--><!-- [draft="The Steeple-Jack"]--></l>
                     </lg>
@@ -3904,9 +3907,9 @@
             <div type="image" xml:id="nb07_04_04_0118_text">
                 <pb facs="nb07_04_04_0118_verso.jpg"/>
                 <lg type="sideways">
-                    <l n="v01" rend="read"><quote corresp="#nb07_04_04_0118_verso_l43_quote"/><!-- [desc]lines 38-01 in four rows of script[/desc]-->the <hi rend="underline">C</hi>ley Marshes, Aldersfen, the <hi rend="underline">S</hi>tarch grass marsh </l>
-                    <l n="v02" rend="read">have been acquired by Norfolk / Naturalists’ Trusts<note>The Norfolk Naturalists Trust (now known as the Norfolk Wildlife Trust) was initiated in 1926 and included 435 acres of marsh at Cley, the Alderfen fen, and the Starch grass marsh.</note> </l>
-                    <l n="v03" rend="read">before the money for the purchase was in sight / thinks in time &amp; lets the prisoner go<quote corresp="#nb07_04_04_0118_verso_l43_quote"/></l>
+                    <l n="v01">        <quote corresp="#nb07_04_04_0118_verso_l43_quote"/><!-- [desc]lines 38-01 in four rows of script[/desc]-->the <hi rend="underline">C</hi>ley Marshes, Aldersfen, the <hi rend="underline">S</hi>tarch grass marsh</l>
+                    <l n="v02">                   have been acquired by Norfolk / Naturalists’ Trusts<note>The Norfolk Naturalists Trust (now known as the Norfolk Wildlife Trust) was initiated in 1926 and included 435 acres of marsh at Cley, the Alderfen fen, and the Starch grass marsh.</note></l>
+                    <l n="v03">before the money for the purchase was in sight / thinks in time &amp; lets the prisoner go<quote corresp="#nb07_04_04_0118_verso_l43_quote"/></l>
                 </lg>
                   <lg>
                     <l n="01">                   1008</l>
@@ -3916,7 +3919,7 @@
                     <l n="05">  in the scallops of the wave—      Jacob &amp; Joseph</l>
                     <l n="06">  in the monastery nave            Regulus</l>
                     <l n="07">             Heroes— Jacob, <hi rend="underline">Moses</hi>, <del>Androcles</del>, Cincinnatus</l>
-                    <l n="08">                                     <unclear resp="hcw">poor</unclear>                    </l>
+                    <l n="08">                                     <unclear resp="hcw">poor</unclear></l>
                     <l n="09">         A Hero  Cincinnatus         the present President</l>
                     <l n="10">                                  beset w the sin driven</l>
                     <l n="11">     Not a Clydesdale nor Pecheron w so rich <del>in</del> senators</l>
@@ -3931,10 +3934,10 @@
                     <l n="20">                       <del>blind red eyes</del> of</l>
                     <l n="21">     <del>like the blind eyeballs in</del> the marble bust</l>
                     <l n="22">     <del>not</del> look</l>
-                    <l n="23">              <del>seeing it here it will but seeing what it must</del>                    </l>
-                    <l n="24">  that says <del>with the blind eye unroving eyeball</del>                    </l>
+                    <l n="23">              <del>seeing it here it will but seeing what it must</del></l>
+                    <l n="24">  that says <del>with the blind eye unroving eyeball</del></l>
                     <l n="25">    we <del>should</del> be able to smile on people if we can do no more</l>
-                    <l n="26">        <del>must</del>                    </l>
+                    <l n="26">        <del>must</del></l>
                     <l n="27">        shld be able to    "   "         Self restraint</l>
                     <l n="28">    Androcles &amp; Cincinnatus</l>
                     <l n="29">    Cincinnatus the millionaire grown poor</l>
@@ -3955,6 +3958,9 @@
             </div>
             <div type="image" xml:id="nb07_04_04_0119_text">
                 <pb facs="nb07_04_04_0119_recto.jpg"/>
+                  <lg type="sideways">
+                    <l n="v01">cf Books / <hi rend="underline">1st editions</hi>            the hopeful cripple</l>
+                </lg>
                   <lg>
                     <l n="01">                 <!-- [draft="The Hero"]-->3<note>This number 3 follows phrases numbered 1 and 2 on the previous page, suggesting the sequence, “the untainted smile of the Negro not the <del>triumphant</del> Ego.”</note> not the <del>triumphant</del> Ego<note>Until the vertical line near the bottom of the page, MM drafts toward “The Hero,” then toward “The Student.”</note></l>
                     <l n="02">                             arrogant</l>
@@ -3987,21 +3993,18 @@
                     <l n="29">   _____________</l>
                     <l n="30">  <!-- [draft="The Student"]-->Students— Tree of Knowledge, Tree of Life</l>
                     <l n="31">                           our first parents</l>
-                    <l n="32">  the indistinguishable pair though Adam <del>&amp; Eve</del>                    </l>
-                    <l n="33">    were         <del>much</del>                     </l>
+                    <l n="32">  the indistinguishable pair though Adam <del>&amp; Eve</del></l>
+                    <l n="33">    were         <del>much</del></l>
                     <l n="34">  were <del>troubled by the</del> disturbed by the destruction</l>
                     <l n="35">    Adam &amp; Eve's <unclear resp="hcw">aperns</unclear> the first things are</l>
                     <l n="36">       not always the best<!--[/draft="The Student"]--></l>
                     </lg>
-                <lg type="sideways">
-                    <l n="37"> cf Books / lst editions            the hopeful cripple</l>
-                    <l n="38"> <hi rend="underline">lst editions</hi></l>
-                </lg>
+                
             </div>
             <div type="image" xml:id="nb07_04_04_0120_text">
                 <pb facs="nb07_04_04_0120_verso.jpg"/>
                 <lg type="sideways">
-                    <l n="50"><!--[desc]lines 42-06, left margin[/desc]-->Clearly schooling education has some connexion with sobriety.</l>
+                    <l n="50">                   <!--[desc]lines 42-06, left margin[/desc]-->Clearly schooling education has some connexion with sobriety.</l>
                 </lg>
                   <lg>
                     <l n="01"><!--<note>MM circles “bout” and “out” in lines 10 and 11, perhaps as rhyme words, and “swinging” in line 16. She partially cancels lines 39-44 in a wavy line, and draws a half-circle around the first word of the left-hand margin.</note>-->  <!-- [draft="The Student"]-->Childe only the<note>MM drafts toward “The Student,” including several phrases used in the published poem, and then at “Hero” toward “The Hero,” including some phrases that appear in “The Steeple-Jack.”</note></l>
@@ -4024,18 +4027,18 @@
                     <l n="18" rend="read">   <quote corresp="nb07_04_04_0120_verso_l18_quote"/>And Harry our king has gone hunting<quote corresp="#nb07_04_04_0120_verso_l18_quote"/><note>MM quotes a ballad, “The King’s Hunt Is Up,” by William Gray of Reading (1514-1554), a popular professional ballad writer.</note></l>
                     <l n="19">  The stag in a built-up arena the marksman the triumph of skill</l>
                     <l n="20">  It leads to sarcasm— for  might       over intelligence</l>
-                    <l n="21">                         <del>would be</del>                    </l>
+                    <l n="21">                         <del>would be</del></l>
                     <l n="22"> Five awards for superiority <del>perhaps</del> are ostentatious</l>
                     <l n="23">       <hi rend="black">But one degree is not too much</hi> might be too many</l>
-                    <l n="24">  <hi rend="black"><del>Tree of knowledge</del> The student is modest &amp; reserved</hi>                    </l>
-                    <l n="25"> <hi rend="black">Dr Valentiver— has the typical reserve of the student</hi>                    </l>
-                    <l n="26">          <hi rend="black">He does not enjoy the active battle of opinion</hi>                    </l>
-                    <l n="27">     <del>wich</del>                    </l>
-                    <l n="28">    <hi rend="black">which rages when a decision is announced that</hi>                    </l>
-                    <l n="29">   <hi rend="black">can be weighed in great sums of money. He gives his</hi>                    </l>
+                    <l n="24">  <hi rend="black"><del>Tree of knowledge</del> The student is modest &amp; reserved</hi></l>
+                    <l n="25"> <hi rend="black">Dr Valentiver— has the typical reserve of the student</hi></l>
+                    <l n="26">          <hi rend="black">He does not enjoy the active battle of opinion</hi></l>
+                    <l n="27">     <del>wich</del></l>
+                    <l n="28">    <hi rend="black">which rages when a decision is announced that</hi></l>
+                    <l n="29">   <hi rend="black">can be weighed in great sums of money. He gives his</hi></l>
                     <l n="30">  <hi rend="black">opinion firmly &amp; rests upon that. It is not the</hi><note>MM completes this line vertically: “It is not the red white &amp; blue one . . .”</note></l>
                     <l n="31">       arb<del>or vitae</del>—we say lightly arbor vitae</l>
-                    <l n="32">&amp; give it a casual glance. But <del>as if the a dried</del>                    </l>
+                    <l n="32">&amp; give it a casual glance. But <del>as if the a dried</del></l>
                     <l n="33">how can a dead      renewed</l>
                     <l n="34">    a <del>dry</del> leaf <del>can</del> be made new? The leaf</l>
                     <l n="35">  must not wither           again<!-- [draft="The Student"]--></l>
@@ -4045,7 +4048,7 @@
                     <l n="39">             theme &amp; authority</l>
                     <l n="40">   <!-- [draft="The Steeple-Jack"]--> waifs children animals, prisoners &amp; presidents</l>
                     <l n="41">          disregarded by the <del>what</del> Romes white haired fathers</l>
-                    <l n="42">    in <del>their flock of</del>                    </l>
+                    <l n="42">    in <del>their flock of</del></l>
                     <l n="43">          - ᴗ our sin driven senators<!-- [draft="The Steeple-Jack"]--></l>
                     <l n="44">          army           Capitoline</l>
                     <l n="45"> with their parks</l>
@@ -4055,7 +4058,7 @@
                     <l n="49">   can shout<!-- [draft="The Hero"]--></l>
                     </lg>
                 <lg type="vertical">
-                    <l n="51"><!--[desc] continuation of line 30, along right margin and then in 6 additional rows vertically at foot of the sheet [/desc][from line 30: “it is not the”]-->red white &amp; blue one tires of but / the onyx &amp; the / silver / &amp; the peculiar / tall <unclear resp="cm">small</unclear> / this giraffe / Characters</l>
+                    <l n="51">                       <!--[desc] continuation of line 30, along right margin and then in 6 additional rows vertically at foot of the sheet [/desc][from line 30: “it is not the”]-->red white &amp; blue one tires of but / the onyx &amp; the / silver / &amp; the peculiar / tall <unclear resp="cm">small</unclear> / this giraffe / Characters</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0121_text">
@@ -4072,7 +4075,7 @@
                     <l n="09">       to those who don't know human nature who  upon that</l>
                     <l n="10">    it is not that he has no feeling            cannot see</l>
                     <l n="11">    but <del>that he has</del> too much</l>
-                    <l n="12">          For one <del>who is punctilious a Soldier</del>                    </l>
+                    <l n="12">          For one <del>who is punctilious a Soldier</del></l>
                     <l n="13">                                  one who is a</l>
                     <l n="14">   It is easier to keep ones word</l>
                     <l n="15">      not   not          not       a</l>
@@ -4081,21 +4084,21 @@
                     <l n="18">   than to be not allowed to keep it &amp; make no</l>
                     <l n="19">     is the man of self-restraint     explanation—</l>
                     <l n="20"> the hero: one of those</l>
-                    <l n="21">     <del>like the friends</del> who <del>never</del> give one <del>something</del>                    </l>
+                    <l n="21">     <del>like the friends</del> who <del>never</del> give one <del>something</del></l>
                     <l n="22">                                    nothing—</l>
                     <l n="23">     not because they have no feeling but because they</l>
                     <l n="24">          less               have too much</l>
                     <l n="25">     It is <del>not so</del> hard to keep ones word</l>
                     <l n="26"> <del>but is</del>,            than</l>
                     <l n="27">    <del>or to be compelled</del> to break it</l>
-                    <l n="28">     &amp; <del>give no explanation</del>                    </l>
+                    <l n="28">     &amp; <del>give no explanation</del></l>
                     <l n="29">     if one is a man of <del>conscience</del> resolution</l>
                     <l n="30">     <del>than</del> &amp; give no kind of explanation.</l>
-                    <l n="31">                  <del>sort</del>                    </l>
-                    <l n="32">               <del>converted</del>                     </l>
+                    <l n="31">                  <del>sort</del></l>
+                    <l n="32">               <del>converted</del></l>
                     <l n="33">      Emotion compelled to be unemotion <!-- [draft="The Student"]--></l>
                     <l n="34">Heroism is Emotion (thus<del>now</del> made) un emotion</l>
-                    <l n="35">  The man of      <del>become</del>                    </l>
+                    <l n="35">  The man of      <del>become</del></l>
                     <l n="36">        gives his opinion firmly, resting upon that</l>
                     <l n="37">                a warrior</l>
                     <l n="38">   Hero (Webster)  patient under suffering</l>
@@ -4106,6 +4109,9 @@
             </div>
             <div type="image" xml:id="nb07_04_04_0122_text">
                 <pb facs="nb07_04_04_0122_verso.jpg"/>
+                  <lg type="sideways">
+                    <l n="40">                                                                     <!--[desc]span lines 14-10, left margin[/desc]-->Hermetic</l>
+                </lg>
                   <lg>
                     <l n="01">        <!-- [draft="The Hero"]-->who the<note>MM drafts toward “The Hero”; a few phrases are used in published poem.</note></l>
                     <l n="02"> nor <del>the</del> half draped beardless Hermes</l>
@@ -4113,8 +4119,8 @@
                     <l n="04"> author of the magical, astrological</l>
                     <l n="05"> &amp; alchemical books—</l>
                     <l n="06">   who    the                 it</l>
-                    <l n="07"> <del>if he</del> plants aconite <del>he do plants the</del>                    </l>
-                    <l n="08"><del>roots</del>                    </l>
+                    <l n="07"> <del>if he</del> plants aconite <del>he do plants the</del></l>
+                    <l n="08"><del>roots</del></l>
                     <l n="09">  where children will not eat <del>them must</del></l>
                     <l n="10"> it mistaking it for parsley</l>
                     <l n="11">  who puts                    Trismegist<del>u</del>is</l>
@@ -4125,37 +4131,38 @@
                     <l n="16">                                        I am</l>
                     <l n="17"> ______________________________________________</l>
                     <l n="18">   the  unjustly accused &amp; justified at last?</l>
-                    <l n="19">               it is <del>to</del>                    </l>
+                    <l n="19">               it is <del>to</del></l>
                     <l n="20">  <del>on the stage but</del> <del>on</del> <del>it says So</del> <del>No</del>  we say so</l>
                     <l n="21">          that hero— sometimes knowing</l>
                     <l n="22">    <del>But sometimes aware that we shall</del> never know</l>
                     <l n="23">Unjudging But Smiling        some will</l>
                     <l n="24"> |  Scared  for those who p<del>ear</del>ardon</l>
                     <l n="25"> &amp; not keeping his word the warrior who wins no decorations</l>
-                    <l n="26">     <del>self</del>                    </l>
+                    <l n="26">     <del>self</del></l>
                     <l n="27">&amp;  <del>unjustified</del>  the    unjustified <del><gap extent="1" resp="hcw"/></del> den<hi rend="underline">ied</hi> by the white</l>
                     <l n="28">  <del>&amp;</del> cold <del>&amp; unjustified</del> &amp; cold                  haired</l>
                     <l n="29">      insanely          not                 fathers</l>
                     <l n="30">   unsoundly hopeful hope being hope until all</l>
                     <l n="31">   ground for hope has vanished</l>
                     <l n="32">  un wholesomely</l>
-                    <l n="33"> <del>uncivically</del> compassionate looking upon <del>others</del>                    </l>
-                    <l n="34">    <del>scientifically</del>     the unpermissable in <del>an</del>other<del>s</del>                    </l>
+                    <l n="33"> <del>uncivically</del> compassionate looking upon <del>others</del></l>
+                    <l n="34">    <del>scientifically</del>     the unpermissable in <del>an</del>other<del>s</del></l>
                     <l n="35">w compassionat     <del>rudeness</del> &amp; unreason with the</l>
                     <l n="36">  unreason | feelings of a mother— be it <del>of</del> a woman</l>
                     <l n="37">                     the unconventionness or a cat</l>
                     <l n="38">    negligent of power    compassional</l>
                     <l n="39">                 mysterious smile of the Buddha<!--[/draft]--></l>
                     </lg>
-                <lg type="sideways">
-                    <l n="40"><!--[desc]span lines 14-10, left margin[/desc]-->Hermetic</l>
-                </lg>
+                
             </div>
             <div type="image" xml:id="nb07_04_04_0123_text">
                 <pb facs="nb07_04_04_0123_recto.jpg"/>
-                  <lg>
+                  <lg type="sideways">
+                    <l n="38">   <!--[desc] lines 34-31, left margin[/desc]-->looks the</l>
+                </lg>
+                <lg>
                     <l n="01">                           <!-- [draft="The Hero"]-->waits and so<note>MM drafts toward “The Hero” above the first horizontal line, using some phrases in the published poem, and toward “The Steeple-Jack” for the rest of the page; several lines appear in “The Steeple-Jack.”</note></l>
-                    <l n="02">   <del>or— love wont grow</del>                    </l>
+                    <l n="02">   <del>or— love wont grow</del></l>
                     <l n="03">              <del>its</del>I live</l>
                     <l n="04">    abstentions— deprivation</l>
                     <l n="05">      It is not what I eat that is my natural</l>
@@ -4169,7 +4176,7 @@
                     <l n="13">    on a fine day, from water etched with waves</l>
                     <l n="14">    as formal as <del>the</del> scales on a fish</l>
                     <l n="15"/>
-                    <l n="16"><del>soft fresh</del> Durer would have <del>been</del> been willing to live</l>
+                    <l n="16"><del><hi rend="pencil">soft fresh</hi></del> Durer would have <del>been</del> been willing to live</l>
                     <l n="17">   in a sea port town like this</l>
                     <l n="18"> __________________________________________</l>
                     <l n="19"> Durer would have seen a reason for living</l>
@@ -4177,24 +4184,22 @@
                     <l n="21">     <del>with</del> to look at;  <del>on a fine day</del> with the sweet sea air</l>
                     <l n="22">                   on a fine day</l>
                     <l n="23">     coming into yr house ^ fr water etched with waves (as)</l>
-                    <l n="24">      <del>similar</del>                    </l>
+                    <l n="24">      <del>similar</del></l>
                     <l n="25">     formal as scales</l>
-                    <l n="26">     on a fish.     <del>No</del>                    </l>
+                    <l n="26">     on a fish.     <del>No</del></l>
                     <l n="27">   It is a privilege to see <del>&amp; hear</del> so much confusion</l>
                     <l n="28">   no one can object to such fantastic's</l>
                     <l n="29">   the water front now paled by foam &amp; farther off the</l>
                     <l n="30">       color of the peacocks neck</l>
                     <l n="31"/>
-                    <l n="32">   on the pier. The whirlwind fife &amp; drum of the <del>storm</del>                    </l>
+                    <l n="32">   on the pier. The whirlwind fife &amp; drum of the <del>storm</del></l>
                     <l n="33">  <del>storm bends</del> the salt marsh grass, disturbs the star</l>
                     <l n="34">      in the sky &amp; the star on the steeple &amp; breaks the</l>
                     <l n="35">    breaks up the sea's moonstone steel sergeant</l>
                     <l n="36">        fish smooth green, to black</l>
                     <l n="37">             silver<!--[/draft="The Steeple-Jack"]--></l>
                     </lg>
-                <lg type="sideways">
-                    <l n="38"><!--[desc] lines 34-31, left margin[/desc]-->looks the</l>
-                </lg>
+                
             </div>
             <div type="image" xml:id="nb07_04_04_0124_text">
                 <pb facs="nb07_04_04_0124_verso.jpg"/>
@@ -4222,7 +4227,7 @@
                     <l n="21">   They are not all college boys in France.</l>
                     <l n="22">            <del>sometimes</del> shld be</l>
                     <l n="23">   The backward <del>often have been</del> able to (study &amp;) advance</l>
-                    <l n="24">fr rudeness. "What does someone think?" <del>Are we to grow up or not?</del>                    </l>
+                    <l n="24">fr rudeness. "What does someone think?" <del>Are we to grow up or not?</del></l>
                     <l n="25">      are we to grow up or not?</l> 
                     <l n="26">They are not all college boys in France.</l>
                     <l n="27"/>
@@ -4241,7 +4246,7 @@
                     <l n="04">   He faints upon the air. His eyes are</l>
                     <l n="05">  not the eyelids of the marble bust.</l>
                     <l n="06"> He is not</l>
-                    <l n="07">  <del>of</del> history without a qualm— <del>It's not</del>                    </l>
+                    <l n="07">  <del>of</del> history without a qualm— <del>It's not</del></l>
                     <l n="08">           and         He</l>
                     <l n="09">  Diogenes<note>Diogenes (412 or 404 – 323 BCE). A Greek philosopher, was one of the founders of the Cynic philosophy, which advocated living a simple life free of possessions and desire for wealth, power, or fame.</note> <del>nor</del> Regulus. <del>It</del> is the docile</l>
                     <l n="10">  Citizen <del>that</del> takes the 5:15</l>
@@ -4253,9 +4258,9 @@
                     <l n="16">    intimations of w sharklike gracefulness</l>
                     <l n="17">                      energy</l>
                     <l n="18">  <del>what is it</del>                  tremor</l>
-                    <l n="19">  How express it— the volcanic <del>shiver</del>                    </l>
+                    <l n="19">  How express it— the volcanic <del>shiver</del></l>
                     <l n="20">  the locomotive gaining <del>way</del> speed</l>
-                    <l n="21">  the coral <del>coloured</del> tissue <del>of the</del>                    </l>
+                    <l n="21">  the coral <del>coloured</del> tissue <del>of the</del></l>
                     <l n="22">                 old fashioned</l>
                     <l n="23">  inset of <del>the 1830</del> valentine</l>
                     <l n="24">  the vitreous hemispheres celestial &amp; terrestial</l>
@@ -4269,18 +4274,21 @@
             </div>
             <div type="image" xml:id="nb07_04_04_0126_text">
                 <pb facs="nb07_04_04_0126_verso.jpg"/>
+                  <lg type="sideways">
+                    <l n="51">juice fr / gum / the frankincense tree a twig of camellia tree / we dont wish to be he / who has nothing but plenty</l>
+                </lg>
                   <lg>
                     <l n="01">    pierced</l>
-                    <l n="02">             <hi rend="underline">The Signer of the Valentine</hi>                    </l>
+                    <l n="02">             <hi rend="underline">The Signer of the Valentine</hi></l>
                     <l n="03">    perforated     thing    oval                        t ground</l>
                     <l n="04"> a  a paper <del>lace affair</del> with conch pink tissue paper insert <del>at the back</del></l>
-                    <l n="05">                    <del>over</del>                    </l>
+                    <l n="05">                    <del>over</del></l>
                     <l n="06">  <del>beneath a below underneath</del> a glazed bouquet,</l>
                     <l n="07">             &amp;     below</l>
                     <l n="08">  <del>with a white</del> scroll that says "<del>I don't d</del> "Despair<del>"</del>? No"</l>
                     <l n="09">   <del>beneath a sheet of well <del>rymes</del>rhymed</del> &amp; verses</l>
                     <l n="10">   <del>below an outer sheet written</del> by the man himself</l>
-                    <l n="11">                          <del>outside</del>                    </l>
+                    <l n="11">                          <del>outside</del></l>
                     <l n="12">   in ink— <del>inside a</del> below an <del>outer</del> sheet; —</l>
                     <l n="13">  a man <del>purporting to be</del>    outer</l>
                     <l n="14">   self contained &amp; studious with quick decisive smile</l>
@@ -4294,9 +4302,9 @@
                     <l n="22">   Scepticism is rude</l>
                     <l n="23">    a kind of wantonness</l>
                     <l n="24">   the opposite of philosophic that in solitude</l>
-                    <l n="25">        was he <del>cld after all he has been</del>                    </l>
+                    <l n="25">        was he <del>cld after all he has been</del></l>
                     <l n="26"><del>But was that young man</del> ^<del>tha</del> the well contrived thing after all?</l>
-                    <l n="27">         <del>the noted</del>   <del>defeated</del>                    </l>
+                    <l n="27">         <del>the noted</del>   <del>defeated</del></l>
                     <l n="28"> &amp; not Bottom<note>Character from Shakespeare’s <hi rend="italics">A Midsummer Night’s Dream.</hi></note> <del>&amp;</del>nor a diplomat? I wonder—</l>
                     <l n="29">        <!-- [draft="The Jerboa," first published Hound &amp; Horn 1932]-->In Subtlety <del>&amp;</del><note>MM drafts toward “The Jerboa,” first published <hi rend="italics">Hound &amp; Horn</hi> 1932.</note> starvation  Plenty &amp; poverty. The triumphant of</l>
                     <l n="30"> Sacred    fuzzy like     <del>unbent</del>                starvling</l>
@@ -4316,20 +4324,17 @@
                     <l n="44">                                       or shower</l>
                     <l n="45">     or drop of water       <del>showers or flowers</del> or 8 cornered</l>
                     <l n="46">                         or sumptuous 8 <del>Cleopatra</del> tent</l>
-                    <l n="47" xml:id="nb07_04_04_0126_verso_text_line_210">                                    cornered <del>Nero</del>                    </l>
-                    <l n="48">  True subtlety is the Unseen   exotic      Roman <del>silk</del>                    </l>
+                    <l n="47" xml:id="nb07_04_04_0126_verso_text_line_210">                                    cornered <del>Nero</del></l>
+                    <l n="48">  True subtlety is the Unseen   exotic      Roman <del>silk</del></l>
                     <l n="49"> the smile that steals over the face  sumptuary laws</l>
                     <l n="50"> unconsciously<!--[/draft]--></l>
                     </lg>
-                <lg type="sideways">
-                    <l n="51"><!--[desc]lines 50-47 in two rows of print, left margin [/desc]-->juice / fr gum</l>
-                    <l n="52"><!--[desc]lines 48-12, in part in three rows of print, left margin[/desc]-->the frankincense tree a twig of camellia tree / we dont wish to be he / who has nothing but plenty</l>
-                </lg>
+                
             </div>
             <div type="image" xml:id="nb07_04_04_0127_text">
                 <pb facs="nb07_04_04_0127_recto.jpg"/>
                   <lg>
-                    <l n="01">                      <!-- [draft="The Jerboa"]-->with the flying hop, of the bird<note>MM drafts toward “The Jerboa”; a few phrases appear in published poem. She refers to “the mother’s grave” and Cinderella in “Nine Nectarines,” first published in <hi rend="italics">Poetry</hi>, November 1934.</note>                       </l>
+                    <l n="01">                      <!-- [draft="The Jerboa"]-->with the flying hop, of the bird<note>MM drafts toward “The Jerboa”; a few phrases appear in published poem. She refers to “the mother’s grave” and Cinderella in “Nine Nectarines,” first published in <hi rend="italics">Poetry</hi>, November 1934.</note></l>
                     <l n="02">    this cage for lungs</l>
                     <l n="03">   &amp; with the slim bird whose question is not answered</l>
                     <l n="04">   Those whose question is not answered</l>
@@ -4343,7 +4348,7 @@
                     <l n="12">                front</l>
                     <l n="13">  — laughter at the paws on the chest</l>
                     <l n="14">   one after the other— here there, everywhere</l>
-                    <l n="15">      <del>not one of thos</del>                    </l>
+                    <l n="15">      <del>not one of thos</del></l>
                     <l n="16">   like the magic willow on the grave of the</l>
                     <l n="17">                             moonlit</l>
                     <l n="18">    stepdaughter's true mother</l>
@@ -4352,11 +4357,11 @@
                     <l n="21">   an imaginary mouse   &amp; escaped to its burrow</l>
                     <l n="22">  Ethiope the giraffe                    the</l>
                     <l n="23">        the gazelle &amp; the monkey— &amp; even asp</l>
-                    <l n="24">        &amp; the oniger—  the wild ass </l>
-                    <l n="25">        &amp; the ostrich— but not it </l>
-                    <l n="26"> the blue <del>sha</del> cedar, the pine cone of the pompey,</l>
-                    <l n="27">                        not <del>w</del> the    fir</l>
-                    <l n="28"> the hidden fragrance of the pine     onager</l>
+                    <l n="24">        &amp; the oniger—  the wild ass</l>
+                    <l n="25">        &amp; the ostrich— but not it</l>
+                    <l n="26"> the blue <del>sha</del> cedar,     the pine cone of the pompey,</l>
+                    <l n="27">                not <del>w</del> the       fir</l>
+                    <l n="28"> the hidden fragrance of the pine  onager</l>
                     <l n="29">            pleasantness</l>
                     <l n="30">the <hi rend="underline">moonlight garden</hi> ethiope— the apes easy lope  Cheetah</l>
                     <l n="31">       not</l>
@@ -4399,7 +4404,7 @@
                     <l n="31"> purple &amp; white and silent          to glean</l>
                     <l n="32">                   leaping slant   to the ladder lean</l>
                     <l n="33">  Title     <hi rend="underline">Reluctant</hi>           The Jerboa</l>
-                    <l n="34">                    one?</l>
+                    <l n="34">                   one?</l>
                     <l n="35">   <del>reluctant</del> to leave me?</l>
                     <l n="36">     Nothing like that—&amp; speedy when freed</l>
                     <l n="37">  Cf Cinnius<note>Publius Cincius Salvius cast the colossal bronze pine cone and left his name on the base: “P. Cincius P.I. Salvius fecit”—as MM quotes in her notes to the poem. It was originally part of a Roman fountain called the Fontana della Pigna (fountain of the pine cone).</note> the freedman who made the</l>
@@ -4572,6 +4577,9 @@
             </div>
             <div type="image" xml:id="nb07_04_04_0133_text">
                 <pb facs="nb07_04_04_0133_recto.jpg"/>
+                  <lg type="sideways">
+                    <l n="v01"><!--[desc] lines 48-27, left margin, in 2 rows of script[/desc]-->with 3 part plume along his back / 3 plumed crest along his back                               w magic green fire / falling on the water</l>
+                </lg>
                   <lg>
                     <l n="01">                  <!-- [draft="The Plumet Basilisk"]-->flowers like<note>The word “like” is written on the seam between pages; “clam shell” continues the phrase from the previous page: “the inside of a / clam shell.”</note>     clam shell<note>MM drafts toward “The Plumet Basilisk”; a few phrases appear in the published poem.</note></l>
                     <l n="02">                  ______________________________</l>
@@ -4585,10 +4593,10 @@
                     <l n="10">    amethyst brown angelskin &amp; gold &amp; silver <hi rend="underline">jaguars</hi>  the best of <del>the</del></l>
                     <l n="11">     emeralds black opals topazes &amp; pearls         Chin<del>ese</del>a's</l>
                     <l n="12">             can train a little<note>The diagonally written phrases in several rows of script appear to build incomplete phrases: “the small but wealthy country fears live emeralds upon it some ladies chain the king a little green one And on water existing chameleons to walk to ornament the neck to walk around the neck.” To simplify reading, some of the diagonally written words are combined on a single row of transcription.</note>           unknown dragons</l>
-                    <l n="13">   the lizard prince       the living emerald— rarer than          </l>
-                    <l n="14">the small but wealthy country fears live emeralds upon it        </l>
-                    <l n="15">          some ladies chain the king a little green one And </l>
-                    <l n="16">                    Mexico's the gilded diving king of Mexico   fashion # </l>
+                    <l n="13">   the lizard prince       the living emerald— rarer than</l>
+                    <l n="14">the small but wealthy country fears live emeralds upon it</l>
+                    <l n="15">          some ladies chain the king a little green one And</l>
+                    <l n="16">                    Mexico's the gilded diving king of Mexico   fashion #</l>
                     <l n="17">           <del>or</del>on water existing chameleons to walk to ornament the neck   golden "fish<del>y</del>"</l>
                     <l n="18">                                      to walk around the neck of</l>
                     <l n="19">  This wealthy land has living emeralds those                    but modest</l>
@@ -4621,10 +4629,7 @@
                     <l n="46">     This land is not Peru  falling fr a tree upon the water under glass</l>
                     <l n="47">       The king is     <del>l<gap extent="5" resp="hcw"/>s that</del>a little green one</l>
                     </lg>
-                <lg type="sideways">
-                    <l n="48"><!--[desc]lines 12-5, left margin, in 2 rows of script[/desc]-->w magic green fire / falling on the water</l>
-                    <l n="49"><!--[desc] lines 48-27, left margin, in 2 rows of script[/desc]-->with 3 part plume along his back / 3 plumed crest along his back</l>
-                </lg>
+                
             </div>
             <div type="image" xml:id="nb07_04_04_0134_text">
                 <pb facs="nb07_04_04_0134_verso.jpg"/>
@@ -4786,8 +4791,8 @@
                     <l n="25">                    the leopard's <del>pu<gap extent="1" resp="hcw"/>fe</del>hard-thin     of stumbling</l>
                     <l n="26">                             fox glove</l>
                     <l n="27">     A Strange one                    spotted skin</l>
-                    <l n="28">   a bird from <del>from</del> Africa                          he's stumbling on        </l>
-                    <l n="29">   primrose, w dark  no doubt     </l>
+                    <l n="28">   a bird from <del>from</del> Africa                          he's stumbling on</l>
+                    <l n="29">   primrose, w dark  no doubt</l>
                     <l n="30">               <del>kind of</del></l>
                     <l n="31">  above the leg, a lark we think</l>
                     <l n="32">   w power to s<hi rend="underline">ing</hi> when fly<hi rend="underline">ing</hi>     singing</l>
@@ -4859,6 +4864,9 @@
             </div>
             <div type="image" xml:id="nb07_04_04_0139_text">
                 <pb facs="nb07_04_04_0139_verso.jpg"/>
+                  <lg type="sideways">
+                    <l n="v01"><!--[desc]left margin, lines 43-15[/desc]-->as <unclear>it</unclear> falls down the air as the green lizard lights on on the water                                            subtlety</l>
+                </lg>
                   <lg>
                     <l n="01">       De mocking-bird de lawyer De alligator,<note>William Cullen Bryant quotes this song heard at a corn shucking in his “A Tour in the Old South,” <hi rend="italics">New York Evening Post</hi> (1843): “De cooter is de boatman. / John John Crow. / De red-bird de soger. / John John Crow. / De mocking-bird de lawyer / John John Crow. / De alligator sawyer. / John John Crow.” The song was popular; for example, <hi rend="italics">Griswold’s Sixth School Reader</hi> quotes it as “Corn-Shucking in South Carolina” (ed. Noble Butler, Kentucky: Morton &amp; Griswold, 1857: 413). It appears in several of Bryant’s books and collections.</note>    night</l>
                     <l n="02">De cooter is the boatman—John John Crow      sawyer</l>
@@ -4909,13 +4917,9 @@
                     <l n="47">     <unclear resp="hcw">myristien fragons</unclear>, in <del>lizard</del> slang, the untried.</l>
                     <l n="48">    the telltale ch<gap extent="3" resp="hcw"/> of <gap extent="2" resp="hcw"/>ctr<gap extent="1" resp="hcw"/> for invisibility. Art is very<note>The phrase in the right margin continues from the last line: “Art is very exact—&amp; certain critics have nothing to do w art.”</note></l>
                 </lg>
+                
                 <lg type="sideways">
-                    <l n="49"><!--[desc]left margin, lines 43-15[/desc]-->as <unclear>it</unclear> falls down the air as the green lizard lights on on the water</l>
-                    <l n="50"><!--[desc]left margin, lines 09-06[/desc]-->subtlety</l>
-                </lg>
-                <lg type="vertical">
-                    <l n="51"><!--[desc] right margin, lines 35-31, in two rows of script, the second intersecting VER52 [/desc]-->mere carelessness / has nothing to do w it</l>
-                    <l n="52"><!--[desc]right margin, lines 45-12[/desc]-->exact— &amp; certain critics have nothing to do w art.</l>
+                    <l n="v02"><!--[desc] right margin, lines 35-31, in two rows of script, the second intersecting VER52 [/desc]-->mere carelessness / has nothing to do w it / exact— &amp; certain critics have nothing to do w art.</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_04_0140_text">
@@ -4941,7 +4945,7 @@
                     <l n="18" rend="prose"> <hi rend="black">Stevens recoils from admitting the force of basic emotions</hi></l>
                     <l n="19" rend="prose">    obliquely treats of it thru <del>the</del> interacting vi<del>brations</del></l>
                     <l n="20" rend="prose">    <del>of</del> allusive imagery</l>
-                    <l n="21" rend="prose">    cf Sidney.<note>Sidney, Philip (1554-1586). An English poet, courtier, scholar, and soldier. </note> the Greeks &amp;     Joyce, Eliot <!-- omitted notes to Stevens, Joyce, &amp; Eliot because they seemed too obvious; we should list in the glossary that they are mentioned on this page, but I don't think we need to say "Modernist poet/novelist" etc. Also note on V. Woolf image 0141?--> <!-- line not displaing correctly --></l>
+                    <l n="21" rend="prose">    cf Sidney.<note>Sidney, Philip (1554-1586). An English poet, courtier, scholar, and soldier. </note> the Greeks &amp;     Joyce, Eliot <!-- omitted notes to Stevens, Joyce, &amp; Eliot because they seemed too obvious; we should list in the glossary that they are mentioned on this page, but I don't think we need to say "Modernist poet/novelist" etc. Also note on V. Woolf image 0141?--> <!-- line not displaing correctly --></l>
                     <l n="22" rend="prose">                             James Campbell.<note>Possibly: Campbell, James Edwin (1867-1896). An African-American poet, editor, short story writer and educator.</note> <seg rend="prose"/></l>
                     <l n="23"><!-- [draft="The Plumet Basilisk"]--> Basilisk  Basil, the Harmless<note>MM drafts toward the “Plumet Basilisk” in the first line and from the word “Basilisk” for the rest of the page.</note></l>
                     <l n="24">    the dragon flying—</l>
@@ -5130,7 +5134,9 @@
             </div>
             <div type="image" xml:id="nb07_04_04_0147_text">
                 <pb facs="nb07_04_04_0147_recto.jpg"/>
-                  <lg>
+                  <lg type="sideways">
+                    <l n="23" rendition="sideways"> <!--[desc] left margin, lines 20-16[/desc]--> <unclear>Pharaoh</unclear></l>
+                </lg><lg>
                     <l n="01"> <!-- [draft="The Jerboa"]-->accurséd Sumatrans<note>MM drafts toward towards “The Jerboa.”</note></l>
                     <l n="02">    capturing gibbons              clear pendant longish stones</l>
                     <l n="03">   sumatran gibbon            <del>ape</del> monkey</l>
@@ -5154,9 +5160,7 @@
                     <l n="21">  where the <del>more beautiful</del> it is it is more the mind of Pharoah</l>
                     <l n="22">  <gap extent="4" resp="hcw"/> let it  wilder          strange one <gap extent="3" resp="hcw"/></l>
                     </lg>
-                <lg type="sideways">
-                    <l n="23" rendition="sideways"> <!--[desc] left margin, lines 20-16[/desc]--> <unclear>Pharaoh</unclear></l>
-                </lg>
+                
             </div>
             <div type="image" xml:id="nb07_04_04_0148_text">
                 <pb facs="nb07_04_04_0148_verso.jpg"/>
