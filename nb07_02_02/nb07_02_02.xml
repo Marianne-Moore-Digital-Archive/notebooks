@@ -1,5 +1,4 @@
-<?xml-model href="tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="tei_mmda.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="tei_mmda.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -10,8 +9,8 @@
                <note>Notebook Editor</note>
             </editor>
             <respStmt>
-               <persName>Cristanne Miller</persName>
-               <resp>Proofreader</resp>
+               <persName>Cristanne Miller, </persName> <persName>Claire Nashar, and </persName> <persName>Katie Naughton</persName>
+               <resp>Proofreaders</resp>
             </respStmt>
             <respStmt>
                <persName>Nikolaus Wasmoen</persName>
@@ -22,6 +21,14 @@
                <resp>Associate Digital Editor</resp>
             </respStmt>
             <respStmt>
+               <persName>Emma Felin and </persName><persName>Jennifer Shen</persName>
+               <resp>Editorial Assistants</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Luke Heister &amp; Robin G. Schulze</persName>
+               <resp>Iniial Transcription of Some Pages</resp>
+            </respStmt>
+            <respStmt>
                <persName>Edward J. Sobczak</persName>
                <resp>Web Administrator</resp>
             </respStmt>
@@ -30,9 +37,7 @@
             <publisher>Marianne Moore Digital
                Archive</publisher>
             <availability>
-               <licence
-                  target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-                  type="BY-NC-SA 4.0">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/" type="BY-NC-SA 4.0">
                   <p>This work is licensed under a Creative
                      Commons
                      Attribution-NonCommercial-ShareAlike
@@ -52,9 +57,7 @@
                      (<ref target="https://www.rosenbach.org/collections/marianne-moore">https://www.rosenbach.org/collections/marianne-moore</ref>)</repository>
                   <idno>VII.02.02</idno>
                </msIdentifier>
-               <p><ref
-                     target="../essays/nb07_02_02_intro.xml"
-                     >Notebook Editor's
+               <p><ref target="../essays/nb07_02_02_intro.xml">Notebook Editor's
                   Introduction</ref></p>
                <p>The Standard Diary for 1923, published by
                   the Standard Diary Company, Cambridgeport,
@@ -90,9 +93,7 @@
                   correspond with the genre of the notebook,
                   it is coded in the margin as:</p>
                <p><figure rend="center">
-                     <graphic width="15%"
-                        url="resources/images/moore/genreTagging.jpg"
-                     />
+                     <graphic width="15%" url="resources/images/moore/genreTagging.jpg"/>
                   </figure></p>
                <p>In scanning this notebook to create
                   digital images of its pages, the Rosenbach
