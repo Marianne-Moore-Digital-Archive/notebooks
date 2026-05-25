@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="tei_mmda.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -204,11 +205,16 @@
             <!--<desc>MM draws parentheses around the word DIARY in the printed title of the diary
                     and puts an asterisk to the right of the word.</desc>-->
             <lg>
-               <l n="01"><bibl>Lit. Digest 6 Dec 1930</bibl></l>
-               <l n="02">x <quote rend="begin"/>Dept F-2, 26 Blackstone St. Cambridge Mass</l>
-               <l n="03">Ad</l>
-               <l n="04">Send Illustr. booklet describing</l>
-               <l n="05">the Standard Diary line.<quote rend="end"/></l>
+               <l n="01">  <bibl>Lit. Digest 6 Dec 1930</bibl></l>
+               <l n="02">  x <quote rend="begin"/>Dept F-2, 26 Blackstone St. Cambridge Mass</l>
+               <l n="03"/>
+               <l n="04"/>
+               <l n="05"/>
+               <l n="06"/>
+               <l n="07"/>
+               <l n="08">Ad</l>
+               <l n="09">  Send Illustr. booklet describing</l>
+               <l n="10">  the Standard Diary line.<quote rend="end"/></l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0006_text">
@@ -414,7 +420,7 @@
          <div type="image" xml:id="nb07_02_02_0028_text">
             <pb facs="nb07_02_02_0028_recto.jpg"/>
             <lg>
-               <l n="01">Oct 19 1930</l>
+               <l n="01">     Oct 19 1930</l>
                <l n="02"><bibl rend="begin"/>Close-Up Oct 1930<note>Herring, Robert. “Conrad Veidt.” Close Up 7.4 (October 1930): 270-72.</note></l>
                <l n="03">Conrad Veidt<note>Veidt, Conrad [1893-1943]. German film star of the Expressionist era who worked in Hollywood in the late 1920s.</note> by Rob't Herring.<note>Herring, Robert [1903-1975]. London-based writer known for his commentary and criticism of early cinema who joined Close Up as London correspondent in 1927.</note><bibl rend="end"/></l>
                <l n="04"><quote rend="begin"/>C. V: So many things have happened these</l>
@@ -512,7 +518,7 @@
             <lg>
                <l n="01"/>
                <l n="02"><bibl rend="begin"/>The West Country</l>
-               <l n="03">By Maxwell Fraser<note>Fraser, Dorothy May (“Maxwell Fraser”)[1902-1980]. A prolific English author of popular travel books, who wrote a regular feature on the west of England..</note></l>
+               <l n="03">By Maxwell Fraser<note>Fraser, Dorothy May (“Maxwell Fraser”)[1902-1980]. A prolific English author of popular travel books, who wrote a regular feature on the west of England.</note></l>
                <l n="04">Ill. London News 21 June 1930<bibl rend="end"/></l>
             </lg>
          </div>
