@@ -2,7 +2,7 @@
       <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Notebook 07.02.03 | Reading 1938 - 1942</title>
+            <title>Notebook 07.02.03 | Reading 1942 - 1943</title>
             <author>Marianne Moore</author>
             <editor>
                <persName>Luke Carson</persName>
@@ -40,7 +40,7 @@
                     <repository>Marianne Moore Collection (<ref target="https://www.rosenbach.org/collections/marianne-moore">https://www.rosenbach.org/collections/marianne-moore</ref>)</repository>
                     <idno>VII.02.03</idno>
                 </msIdentifier>               
-               <p><ref target="nb07_02_03_intro">Notebook Editor's Introduction</ref></p>
+               <p><ref target="../essays/nb07_02_03_intro.xml">Notebook Editor's Introduction</ref></p>
                <p>Daily Journal for 1938, black leather binding with red leather spine. Pre-printed calendars appear on the inside front and back covers; pre-printed information also appears on 6 pages: calendar and publishing information on 2 preliminary pages; 2 pages advertising the company’s services in the last third of the notebook; and the 2 final pages printed with legal holidays and postage rates. The 183 pages dedicated to the calendar year are lined pages divided in half so that, except for the page for December 31, each leaf contains two dates. Following this are 7 pre-printed pages headed "Memoranda" and 24 pre-printed pages for bookkeeping: the first 12 of these, each headed with the month, is dedicated to cash received and paid; the second 12, each again headed with the month, are dedicated to “Bills Payable” and “Receivable.” First image with MM's writing is the inside front cover. RML number written in pencil: 1250/7.</p>
                <p>Relevant to publications: "Comment" in <hi rend="italics">The Dial</hi> 80 (February 1926); "Emily Dickinson" (1933); "We Will Walk Like the Tapir" (1943); "There is a War That Never Ends" (1943); "Feeling and Precision" (1944); "Humility, Concentration, and Gusto" (1949); "E. McKnight Kauffer" (1949); "W.H. Auden" (1952); note to "To a Snail" in <hi rend="italics">Collected Poems</hi> (1951).</p>
                 <p><hi rend="bold">Notebook Contents:</hi> MM takes notes from various sources and writes in different genres, sometimes within a single notebook. When a content type does not correspond with the genre of the notebook, it is coded in the margin as:</p>
@@ -50,7 +50,7 @@
       </fileDesc>
             <profileDesc>
          <creation>
-            <origDate from="1938-01-01" to="1942-12-31">1938 - 1942</origDate>
+            <origDate from="1942-01-01" to="1943-12-31">1942 - 1943</origDate>
          </creation>
       </profileDesc> 
       <encodingDesc>
@@ -132,7 +132,7 @@
                <l n="08">   really graduated in literary criticism. He valued art for its moral effect on</l>
                <l n="09">   conduct . . . But he valued it too for its own sake.</l>
                <l n="10">   <hi rend="pencil">|</hi><hi rend="underline">[The artist’s] power is a spiritual magnetism . . . . . This fascination—a</hi></l>
-               <l n="11">        <foreign xml:lang="grc">ψυχαγωγία</foreign> <hi rend="underline">or conjuring of the soul—is the object of Art</hi>.<note>MM cites these phrases in "Feeling and Precision. "<hi rend="italics">Sewanee Review</hi> 52 (Autumn 1944): 499-507.</note>  Plato</l>
+               <l n="11">        <foreign xml:lang="grc">ψυχαγωγία</foreign> <hi rend="underline">or conjuring of the soul—is the object of Art</hi>.<note>MM cites these phrases in "Feeling and Precision. <hi rend="italics">Sewanee Review</hi> 52 (Autumn 1944): 499-507.</note>  Plato</l>
                <l n="12">   Wonderful creatures, these poets, but out they must go. They endanger the ideals</l>
                <l n="13">   of citizenship . . . . . "Art does not deal in truth. It is 3 removes fr. truth."</l>
                <l n="14"> <add>. . . .</add> What do we want with an imitation of an imitation? And in the <hi rend="underline">Phaedrus</hi>—</l>
@@ -204,7 +204,7 @@
                         the two phrases beginning "partly by" that end lines 07 and
                         08.</desc> -->
             <lg>
-               <l n="01"> POETICS Plato: <note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note> <add>describes</add>mere technical display as “a beastly noise.”<note>MM cites this in "Feeling and Precision."</note> <hi rend="pencil">||</hi></l>
+               <l n="01"> POETICS Plato: <note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note> <add>describes</add>mere technical display as “a beastly noise.”<note>MM cites this in "Feeling and Precision." <hi rend="italics">Sewanee Review</hi> 52 (Autumn 1944): 499-507.</note> <hi rend="pencil">||</hi></l>
                <l n="02">      4. mimesis: Life “presents” the phenomena of sense, which the</l>
                <l n="03">         artist re-presents in his own medium, designing a pattern</l>
                <l n="04">     ||  comedy represents people as <add>worse</add> <del>better</del> than they are; tragedy as better than they are.</l>
@@ -654,9 +654,9 @@
                <l n="14">         down by use of connectives, it falls flat. . . . as</l>
                <l n="15">         <hi rend="underline">you deprive runners of their speed if you tie them</hi></l>
                <l n="16">         <hi rend="underline">together.</hi>       It loses its freedom of motion &amp; its effect</l>
-               <l n="17">         of coming like a bolt from a <hi rend="underline">catapult</hi>.<note>MM cites two phrases of this sentence in "Feeling and Precision."</note></l>
+               <l n="17">         of coming like a bolt from a <hi rend="underline">catapult</hi>.<note>MM cites two phrases of this sentence in "Feeling and Precision." <hi rend="italics">Sewanee Review</hi> 52 (Autumn 1944): 499-507.</note></l>
                <l n="18"> 193    <hi rend="underline">Inversion</hi> bears the genuine stamp of vehement emotion.</l>
-               <l n="19">         like a ship before a veering wind,<note>MM cites this in "Feeling and Precision."</note>—first on one tack</l>
+               <l n="19">         like a ship before a veering wind,<note>MM cites this in "Feeling and Precision." <hi rend="italics">Sewanee Review</hi> 52 (Autumn 1944): 499-507.</note>—first on one tack</l>
                <l n="20">         then another. , . . altering the natural order of sequence</l>
                <l n="21">         into innumerable variations.</l>
                <l n="22">         Art is only perfect when it looks like nature</l>
@@ -731,7 +731,7 @@
             </lg>
             <lg>
                <l n="01">217 <note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note><hi rend="underline">But which is better, in poetry &amp; in prose, grandeur</hi></l>
-               <l n="02">    <hi rend="underline">with a few flaws or mediocrity that is impeccable?</hi><note>MM cites phrases from the preceding two sentences in "Feeling and Precision."</note></l>
+               <l n="02">    <hi rend="underline">with a few flaws or mediocrity that is impeccable?</hi><note>MM cites phrases from the preceding two sentences in "Feeling and Precision." <hi rend="italics">Sewanee Review</hi> 52 (Autumn 1944): 499-507.</note></l>
                <l n="03">     the largest number of merits or the merits that are greatest in themselves.</l>
                <l n="04"/>
                <l n="05">    Faults make an ineradicable impression, but beauties slip from our memory.</l>
@@ -739,7 +739,7 @@
                <l n="07">    call them oversights)</l>
                <l n="08"/>
                <l n="09">241  Weak rhythm. They sometimes foresee the ending &amp; keep time with</l>
-               <l n="10">     their feet.<note>MM cites this in "Feeling and Precision."</note>             <add>too</add>               <add>cripples the sense</add></l>
+               <l n="10">     their feet.<note>MM cites this in "Feeling and Precision." <hi rend="italics">Sewanee Review</hi> 52 (Autumn 1944): 499-507.</note>             <add>too</add>               <add>cripples the sense</add></l>
                <l n="11">241  Extreme conciseness again has a lowering effect <hi rend="superscript">^</hi> not compression</l>
                <l n="12">.    but too short sentences,—the small change of literature.</l>
                <l n="13"/>
@@ -4852,7 +4852,7 @@
                <l n="16">              statesmanship.</l>
                <l n="17">          325  The most conspicuous qualities of the style (of Andrewes) are three:</l>
                <l n="18">                   ordonnance, or arrangement &amp; structure,</l>
-               <l n="19">                   <hi rend="underline">precision in the use of words</hi>,<note>MM refers to this comment on Andrewes' precision in "Feeling and Precision."</note></l>
+               <l n="19">                   <hi rend="underline">precision in the use of words</hi>,<note>MM refers to this comment on Andrewes' precision in "Feeling and Precision." <hi rend="italics">Sewanee Review</hi> 52 (Autumn 1944): 499-507.</note></l>
                <l n="20">                   &amp; relevant intensity.</l>
                <l n="21"/>
                <l n="22">           335   F. E. Brightman <hi rend="underline">Pieces Privatae</hi> Methuen   1903</l>
@@ -5080,7 +5080,7 @@
                <l n="22">          Review by <bibl corresp="nb07_02_03_0122_verso_l22_bibl"/>Crowe Ransom:<note>Ransom, John Crowe [1888-1974]. American poet and literary critic; influential figure in the founding of the New Criticism in the 1930s.</note> <hi rend="underline">The Use of Poetry</hi> (Harvard U. Press)<bibl corresp="#nb07_02_03_0122_verso_l22_bibl"/></l>
                <l n="23">          he does not quite profess to principles; <del>but</del> he is</l>
                <l n="24">          the most particularistic critic that English poetry</l>
-               <l n="25">          and English criticism have met with.<note>Ransom, John Crowe. "T. S. Eliot on Criticism." <hi rend="italics">Saturday Review of Literature</hi> 10 (24 March 1934): 574. MM cites this sentence in "Feeling and Precision."</note></l>
+               <l n="25">          and English criticism have met with.<note>Ransom, John Crowe. "T. S. Eliot on Criticism." <hi rend="italics">Saturday Review of Literature</hi> 10 (24 March 1934): 574. MM cites this sentence in "Feeling and Precision." <hi rend="italics">Sewanee Review</hi> 52 (Autumn 1944): 499-507.</note></l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0123_text">
@@ -5168,7 +5168,7 @@
                <l n="28">             what is there truly done, that is not prayer?</l>
                <l n="29">          <add>country house near</add></l>
                <l n="30" rend="prose"><hi rend="pencil">humanitarian</hi>   Göteborg &amp; visited the Samskola, modern community</l>
-               <l n="31" rend="prose"><hi rend="pencil">cf Miss Frazier<note>Frazier, Katherine [18??-1944]. Founder and Director of the progressive Cummington School of the Arts.</note> </hi> school for boys &amp; girls—“an encouragement goes</l>
+               <l n="31" rend="prose"><hi rend="pencil">cf Miss Frazier<note>Frazier, Katherine [1882-1944]. Founder and Director of the progressive Cummington School of the Arts.</note> </hi> school for boys &amp; girls—“an encouragement goes</l>
                <l n="32">             forth from it.<hi rend="pencil">”</hi></l>
                <l n="33"/>
                <l n="34">         126 Capri, Berlin, Dresden Prague, Vienna, Venice</l>
@@ -5629,7 +5629,7 @@
                <l n="13">           reader comes to it w recollection of other contexts, . . .</l>
                <l n="14" rend="prose"><hi rend="pencil">Auden</hi>     in the greatest poetry, although there may be layers of meaning,</l>
                <l n="15" rend="prose"><hi rend="pencil">immediate</hi>  the primary meaning is always immediately apparent:</l>
-               <l n="16" rend="prose"><hi rend="pencil">meaning &amp; possible<note>MM refers to W. H. Auden's distinction between immediate and possible meaning in "Humility, Concentration, and Gusto" and "E. McKnight Kauffer." </note></hi>                                                                                              <hi rend="pencil">Last</hi></l>
+               <l n="16" rend="prose"><hi rend="pencil">meaning &amp; possible<note>MM refers to W. H. Auden's distinction between immediate and possible meaning in "Humility, Concentration, and Gusto," <hi rend="italics">Grolier Club Gazette</hi> 2 (May 1949): 289-300, and "E. McKnight Kauffer," <hi rend="italics">Drawings for the Ballet and the Original Illustrations for Edgar Allan Poe by W. McKnight Kauffer </hi>. New York: The Gallery, Batsford House (1949), p. 2. He explored the distinction in an unpublished April 1940 lecture on "The Lyric of Condensed Experience," one of a series he delivered at the New School for Social Research. MM's notes on this lecture are in Lecture Notebook 7.06.05.</note></hi>                                                                                              <hi rend="pencil">Last</hi></l>
                <l n="17">         <hi rend="pencil">___________________________________________</hi></l>
                <l n="18">       18  Jacobsen once wrote, he confided to Frau Wanderly-Volkart</l>
                <l n="19">           in 1920 that       <add>Rilke?</add>     he had not liked calling</l>
@@ -8843,7 +8843,7 @@
                <l n="19" rend="verse">               This <del>write</del> truth now clear</l>
                <l n="20" rend="verse">               When life’s short scene is o’er</l>
                <l n="21" rend="verse">                  Man dies to live</l>
-               <l n="22" rend="verse">               &amp; <unclear>&amp;</unclear> &amp; lives to die no more<note>MM transcribes the inscription on a headstone in the Dawes Cemetery in Cummington, Massachusetts; her angel drawing renders the headstone itself.</note></l>
+               <l n="22" rend="verse">               &amp; <unclear>&amp;</unclear> &amp; lives to die no more<note>MM transcribes the inscription on a headstone in the Dawes Cemetery in Cummington, Massachusetts; her angel drawing renders a carved outline on the headstone itself.</note></l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0217_text">
@@ -8885,7 +8885,7 @@
             <pb facs="nb07_02_03_0218_verso.jpg" n="0218-verso"/>
             <lg>
                <l n="01" rend="poetry"> <hi rend="pencil">world wise &amp; world foolish</hi></l>
-               <l n="02" rend="poetry"> <hi rend="pencil">chipmunk head on the sacred spread</hi></l>
+               <l n="02" rend="poetry"> <hi rend="pencil">chipmunk head on the sacred spread</hi><note>In a letter of October 4, 1942, MM writes to Katherine Frazier, the director of the Cummington School of the Arts, of "the supreme beauty of August" at Cummington, noting in particular "your snow-drop buds &amp; bending fruit-trees and your 2 russet chipmunks" (Rosenbach V:20:56).</note></l>
                <l n="03" rend="poetry">    <hi rend="pencil">: the choice lamb &amp; the          resting ram </hi></l>
                <l n="04">  all is uphill &amp; down—hard earth &amp; stone; grace that is almost</l>
                <l n="05" rend="prose">      grandeur, &amp; the hills (perhaps mountains) and the great</l>
@@ -8898,7 +8898,7 @@
                <l n="01">   <bibl corresp="nb07_02_03_0219_recto_l01_bibl"/>The Foundations of Modern Art: Amedee Ozenfant<note>Ozenfant, Amédée [1886-1966]. French Cubist and then Purist painter who moved to New York in 1938 and in 1939 opened the Ozenfant School of Fine Arts.</note></l>
                <l n="02">  trans. by John Rodker     Brewer Warren, &amp; Putnam 1931<bibl corresp="#nb07_02_03_0219_recto_l01_bibl"/><note>Ozenfant, Amédée. <hi rend="italics">Foundations of Modern Art</hi>. John Rodker, trans. New York: Brewer, Warren and Putnam, 1931.</note></l>
                <l n="03">     [Boston Book &amp; Art shop 472 Boylston St. (Mr. Barnstein)]</l>
-               <l n="04">225  Talent in art is the innate awareness of what is great.<note>MM cites this line in "We Will Walk Like the Tapir."</note></l>
+               <l n="04">225  Talent in art is the innate awareness of what is great.<note>MM cites this line in "We Will Walk Like the Tapir." <hi rend="italics">The Nation</hi> 156 (19 June 1943): 866-67.</note></l>
                <l n="05">289      art is the rendering perceptible of mystery.</l>
             </lg>
          </div>
@@ -8943,7 +8943,7 @@
                <l n="32">       composed, which is never the same, so nobility is a force . . . .</l>
                <l n="33">       It is a violence from within that protects us from a violence</l>
                <l n="34">       without. It is the imagination pressing back against the pressure</l>
-               <l n="35">       of reality.<note>MM cites the preceding five lines in "There is a War That Never Ends." <hi rend="italics">Kenyon Review</hi> 5 (Winter 1943): 144-147. </note> It seems . . . to have something to do with our</l>
+               <l n="35">       of reality.<note>MM cites the preceding five lines in "There is a War That Never Ends." <hi rend="italics">Kenyon Review</hi> 5 (Winter 1943): 144-147.</note> It seems . . . to have something to do with our</l>
                <l n="36">       self-preservation; &amp; that, no doubt, is why the expression of it,</l>
             </lg>
          </div>
