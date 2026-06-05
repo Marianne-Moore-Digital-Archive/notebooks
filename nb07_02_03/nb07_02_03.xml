@@ -6434,9 +6434,9 @@
                03-05 before the note in the right margin on
                lines 07-11.!&amp;gt;</desc>-->
             <lg type="sideways">
-               <l n="v01" rend="verse"><!-- desc: lines 16-08, left margin, written as 3 rows of script-->                                    Auden 15<del>7 Dunciad</del> Ozell</l>
-               <l n="v02" rend="verse"><!-- desc: lines 14-02, left margin, written as 3 rows of script-->                                       And in his left a huge green bag he held,</l>
-               <l n="v03" rend="verse"><!-- desc: lines 14-02, left margin, written as 3 rows of script-->                                        With Mortals Cases &amp; Addresses fill’d.</l>
+               <l n="v01"><!-- desc: lines 16-08, left margin, written as 3 rows of script-->                                    Auden 15<del>7 Dunciad</del> Ozell</l>
+               <l n="v02"><!-- desc: lines 14-02, left margin, written as 3 rows of script-->                                       And in his left a huge green bag he held,</l>
+               <l n="v03"><!-- desc: lines 14-02, left margin, written as 3 rows of script-->                                        With Mortals Cases &amp; Addresses fill’d.</l>
             </lg>
             <lg>
                <l n="01">   <note>Tillotson, Geoffrey. <hi rend="italics">On the Poetry of Pope</hi> (see earlier note).</note>After Pope, the other satirists of the century seem to wield</l>
