@@ -421,8 +421,8 @@
             <pb facs="nb07_02_02_0028_recto.jpg"/>
             <lg>
                <l n="01">     Oct 19 1930</l>
-               <l n="02"><bibl rend="begin"/>Close-Up Oct 1930<note>Herring, Robert. “Conrad Veidt.” Close Up 7.4 (October 1930): 270-72.</note></l>
-               <l n="03">Conrad Veidt<note>Veidt, Conrad [1893-1943]. German film star of the Expressionist era who worked in Hollywood in the late 1920s.</note> by Rob't Herring.<note>Herring, Robert [1903-1975]. London-based writer known for his commentary and criticism of early cinema who joined Close Up as London correspondent in 1927.</note><bibl rend="end"/></l>
+               <l n="02"><bibl corresp="nb07_02_02_0028_recto_n02_bibl"/>Close-Up Oct 1930<note>Herring, Robert. “Conrad Veidt.” Close Up 7.4 (October 1930): 270-72.</note></l>
+               <l n="03">Conrad Veidt<note>Veidt, Conrad [1893-1943]. German film star of the Expressionist era who worked in Hollywood in the late 1920s.</note> by Rob't Herring.<note>Herring, Robert [1903-1975]. London-based writer known for his commentary and criticism of early cinema who joined Close Up as London correspondent in 1927.</note><bibl corresp="#nb07_02_02_0028_recto_n02_bibl"/></l>
                <l n="04">C. V: So many things have happened these</l>
                <l n="05">last few twenty years, I say “Yes”</l>
                <l n="06">when you tell me of anything tomorrow.</l>
@@ -437,12 +437,12 @@
                <l n="15">not speak English, only the language</l>
                <l n="16">I picked up in Hollywood.”</l>
                <l n="17">__________________________________________</l>
-               <l n="18"><bibl rend="begin"/>A Book of Make-up by Eric Ward</l>
-               <l n="19">Samuel French, Ltd. 3/6<bibl rend="end"/><note>Ward, Eric. A Book of Make-up. New York: Samuel French, 1930. Volume is a how-to book for theater professionals that explains techniques for applying stage make-up. Reviewed in Close Up 7.4 (October 1930) by Oswell Blakeston (284-85). Blakeston writes, “A make-up book with colour illustrations, every colour in the charts being make-up. This is tantamount to genius!”(284).</note></l>
-               <l n="20"><bibl rend="begin"/> 12th July 1930 Ill London News</l>
+               <l n="18"><bibl corresp="nb07_02_02_0028_recto_n18_bibl"/>A Book of Make-up by Eric Ward</l>
+               <l n="19">Samuel French, Ltd. 3/6<bibl corresp="#nb07_02_02_0028_recto_n18_bibl"/><note>Ward, Eric. A Book of Make-up. New York: Samuel French, 1930. Volume is a how-to book for theater professionals that explains techniques for applying stage make-up. Reviewed in Close Up 7.4 (October 1930) by Oswell Blakeston (284-85). Blakeston writes, “A make-up book with colour illustrations, every colour in the charts being make-up. This is tantamount to genius!”(284).</note></l>
+               <l n="20"><bibl corresp="nb07_02_02_0028_recto_n20_bibl"/> 12th July 1930 Ill London News</l>
                <l n="21">Lost Treasure: True Tales of Hidden</l>
                <l n="22">Hoards<note>H., L.P. “Inestimable Stones, Unvalued Jewels.” Rev. of Lost Treasure: True Tales of Hidden Hoards, by A. Hyatt Verrill. Illustrated London News (12 July 1930): 60.</note> A Hyatt Verrill<note>Verrill, Alpheus Hyatt [1871-1954]. American zoologist, anthropologist, explorer, and author of over one hundred volumes of travel writing, adventure literature, and fiction.</note> (Appleton)</l>
-               <l n="23">reviewed by <del>A</del> L. P. H<note>Hartley, Leslie Poles [1895-1972]. English novelist, short-story writer, and critic whose novels were known for their psychological nuance.</note>.<bibl rend="end"/>   over</l>
+               <l n="23">reviewed by <del>A</del> L. P. H<note>Hartley, Leslie Poles [1895-1972]. English novelist, short-story writer, and critic whose novels were known for their psychological nuance.</note>.<bibl corresp="#nb07_02_02_0028_recto_n20_bibl"/>   over</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0029_text">
@@ -467,9 +467,9 @@
                <l n="14">waters of El Dorado: Kg anointed </l>
                <l n="15">in gold dust; plunging fr a raft</l>
                <l n="16">into Lake Guatavita.<note>MM refers to this figure in “The Plumet Basilisk,” first published Hound and Horn, October 1933, citing Verrill in her “Notes” for the poem. L. P. H. writes of Verrill's account of the myth of “El Dorado”: “Very lovely and romantic is the story of ‘El Dorado,’ the ‘Gilded Man,’ who gave his name to the great city. Every year the King and his people visited Lake Guatavita, to make sacrifice to its presiding deity; the people bearing their most precious possessions, the King smeared with gum and anointed with gold dust. Embarking on a raft, the King was rowed to the middle of the lake. Then he plunged in and washed off his golden coat, while the multitudes around stand <!--Editor's note: CHECK!-->and threw their offerings in the waters. How ignoble, by comparison seems the action of the British company which, in 1903, obtained permission to drain the lake!”</note></l>
-               <l n="17"><bibl rend="begin"/>19 July 1930 I L News <add>By</add></l>
+               <l n="17"><bibl corresp="nb07_02_02_0029_verso_n17_bibl"/>19 July 1930 I L News <add>By</add></l>
                <l n="18">A Page for Collectors Frank Davis<note>Davis, Frank Cecil [1892-1990]. English art critic, author of numerous books about the art market and collecting, and of the recurring Illustrated London News feature, “A Page for Collectors.”</note></l>
-               <l n="19">The Story of Tapestry.<bibl rend="end"/><note>Davis, Frank. “A Page for Collectors: The Story of Tapestry.-1. The Beginnings.” Illustrated London News (19 July 1930): 128. MM quotes the caption for a large photograph that pictures a tapestry containing an elaborate array of lavishly dressed characters: “One of the Finest Gothic Tapestries at Present in England: A Piece Believed to Have Been Made in Touraine for John Le Greffier, Who is Shown Kneeling on the Left. (Dated 1512.) John le Greffier was a member of the order of St. Clement Morrone. His punning coat of arms (three [lang=french] griffes [/lang], or claws) is to be seen at the top, in the centre. The colours of the tapestry are extraordinarily brilliant.”</note> Piece believed</l>
+               <l n="19">The Story of Tapestry.<bibl corresp="#nb07_02_02_0029_verso_n17_bibl"/><note>Davis, Frank. “A Page for Collectors: The Story of Tapestry.-1. The Beginnings.” Illustrated London News (19 July 1930): 128. MM quotes the caption for a large photograph that pictures a tapestry containing an elaborate array of lavishly dressed characters: “One of the Finest Gothic Tapestries at Present in England: A Piece Believed to Have Been Made in Touraine for John Le Greffier, Who is Shown Kneeling on the Left. (Dated 1512.) John le Greffier was a member of the order of St. Clement Morrone. His punning coat of arms (three [lang=french] griffes [/lang], or claws) is to be seen at the top, in the centre. The colours of the tapestry are extraordinarily brilliant.”</note> Piece believed</l>
                <l n="20">to have been made in Touraine</l>
                <l n="21">for John Le Greffier. (1512)</l>
                <l n="22">See punning coat of arms (3<foreign xml:lang="fr">griffes</foreign></l>
@@ -494,8 +494,8 @@
                <l n="12">present of a set for a room containing</l>
                <l n="13">pictures of tall women &amp; little children.</l>
                <l n="14">______________________________________________________</l>
-               <l n="15"><bibl rend="begin"/>5 July 1930 Stag Hunt Lucas Cranach</l>
-               <l n="16">the Elder <add>dated</add> 1545<bibl rend="end"/><note>Chesterton, G.K. “Our Note Book.” Illustrated London News (5 July 1930): 6. MM quotes from the caption for a photograph illustration of a painting, inset in Chesterton’s article. Caption reads: “Containing Portraits of the Emperor Charles V., the King of the Romans, and Other Princes of the Empire, and the Electress of Saxony: ‘Stag Hunt,’ by Lucas Cranach the Elder at the Magnasco Society's Exhibition.”</note></l>
+               <l n="15"><bibl corresp="nb07_02_02_0029_recto_n15_bibl"/>5 July 1930 Stag Hunt Lucas Cranach</l>
+               <l n="16">the Elder <add>dated</add> 1545<bibl corresp="nb07_02_02_0029_recto_n15_bibl"/><note>Chesterton, G.K. “Our Note Book.” Illustrated London News (5 July 1930): 6. MM quotes from the caption for a photograph illustration of a painting, inset in Chesterton’s article. Caption reads: “Containing Portraits of the Emperor Charles V., the King of the Romans, and Other Princes of the Empire, and the Electress of Saxony: ‘Stag Hunt,’ by Lucas Cranach the Elder at the Magnasco Society's Exhibition.”</note></l>
                <l n="17"> ______________________________________________________</l>
             </lg>
          </div>
@@ -517,9 +517,9 @@
                     v.0030.</desc>-->
             <lg>
                <l n="01"/>
-               <l n="02"><bibl rend="begin"/>The West Country</l>
+               <l n="02"><bibl corresp="nb07_02_02_0030_recto_n02_bibl"/>The West Country</l>
                <l n="03">By Maxwell Fraser<note>Fraser, Dorothy May (“Maxwell Fraser”)[1902-1980]. A prolific English author of popular travel books, who wrote a regular feature on the west of England.</note></l>
-               <l n="04">Ill. London News 21 June 1930<bibl rend="end"/></l>
+               <l n="04">Ill. London News 21 June 1930<bibl corresp="#nb07_02_02_0030_recto_n02_bibl"/></l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0031_text">
@@ -591,9 +591,9 @@
          <div type="image" xml:id="nb07_02_02_0033_text">
             <pb facs="nb07_02_02_0033_verso.jpg"/>
             <lg>
-               <l n="01"><bibl rend="begin"/>Ill London News 23 Aug 1930</l>
+               <l n="01"><bibl corresp="nb07_02_02_0033_verso_n01_bibl"/>Ill London News 23 Aug 1930</l>
                <l n="02">A Page for Collectors. Frank Davis</l>
-               <l n="03">The Chinese dragon.<bibl rend="end"/><note>Davis, Frank. “A Page for Collectors: The Chinese Dragon.” Illustrated London News (23 August 1930): 346. MM quotes from this essay twice, in “The Plumet Basilisk” and in “O To Be a Dragon,” first published Sequoia, Autumn 1957.</note>  only second to man</l>
+               <l n="03">The Chinese dragon.<bibl corresp="#nb07_02_02_0033_verso_n01_bibl"/><note>Davis, Frank. “A Page for Collectors: The Chinese Dragon.” Illustrated London News (23 August 1930): 346. MM quotes from this essay twice, in “The Plumet Basilisk” and in “O To Be a Dragon,” first published Sequoia, Autumn 1957.</note>  only second to man</l>
                <l n="04">in the order of the universe. He is the</l>
                <l n="05">god of Rain &amp; the Ruler of Rivers, Lakes</l>
                <l n="06">and Seas. For 6 mos of the year</l>
@@ -684,8 +684,8 @@
                <l n="05"/>
                <l n="06"/>
                <l n="07"/>
-               <l n="08"><bibl rend="begin"/>        Ill L. News</l>
-               <l n="09">          6 Sept 1930<bibl rend="end"/></l>
+               <l n="08"><bibl corresp="nb07_02_02_0034_recto_n08_bibl"/>        Ill L. News</l>
+               <l n="09">          6 Sept 1930<bibl corresp="#nb07_02_02_0034_recto_n08_bibl"/></l>
                <l n="10">1/2 in longer</l>
             </lg>
          </div>
@@ -708,10 +708,10 @@
             </lg>
             <pb facs="nb07_02_02_0035_recto.jpg"/>
             <lg>
-               <l n="01"><bibl rend="begin"/>Ill. London News 20 Sept 1930</l>
+               <l n="01"><bibl corresp="nb07_02_02_0035_recto_n01_bibl"/>Ill. London News 20 Sept 1930</l>
                <l n="02">Treasures found in an earthenware</l>
                <l n="03">jar: Fine Seljuk<note>Seljuk Empire and Dynasty. Medieval empire ruled by the Seljuk Turks which, at its height, included present day Iraq and Iran, formerly known as Persia.</note> silver<note>Pope, Arthur Upham. “Treasures Found in an Earthenware Jar: Fine Seljuk Silver.” Illustrated London News (20 September 1930): 480-482.</note></l>
-               <l n="04">By Arthur Upham Pope<note>Pope, Arthur Upham [1881-1969]. American author and educator frequently credited with popularizing Persian art through his curation of the International Exhibition of Persian Art at London's Burlington House, 1931. Author of the illustrated six-volume A Survey of Persian Art from Prehistoric Times to the Present (London: Oxford University Press, 1938-39).</note><bibl rend="end"/></l>
+               <l n="04">By Arthur Upham Pope<note>Pope, Arthur Upham [1881-1969]. American author and educator frequently credited with popularizing Persian art through his curation of the International Exhibition of Persian Art at London's Burlington House, 1931. Author of the illustrated six-volume A Survey of Persian Art from Prehistoric Times to the Present (London: Oxford University Press, 1938-39).</note><bibl corresp="#nb07_02_02_0035_recto_n01_bibl"/></l>
                <l n="05">The 3 great Seljuk monarchs,</l>
                <l n="06">Alp Arslan, Toghrul Beg, &amp;</l>
                <l n="07">Malek Shah, who would have honored</l>
@@ -766,8 +766,8 @@
                     page</desc>-->
             <lg>
                <l n="01">                Feb 13 1931</l>
-               <l n="02"><bibl rend="begin"/>Ill London News 13 Sept. 1931</l>
-               <l n="03">Cormorants.<note>Pycraft, W. P. “The World of Science: Cormorants.” Illustrated London News (13 September 1930): 430. MM incorrectly notes the year of this source as 1931.</note> WP Pycraft.<note>Pycraft, W.P. [1868-1942]. English osteologist and zoologist.</note><bibl rend="end"/> (3)?</l>
+               <l n="02"><bibl corresp="nb07_02_02_0037_recto_n02_bibl"/>Ill London News 13 Sept. 1931</l>
+               <l n="03">Cormorants.<note>Pycraft, W. P. “The World of Science: Cormorants.” Illustrated London News (13 September 1930): 430. MM incorrectly notes the year of this source as 1931.</note> WP Pycraft.<note>Pycraft, W.P. [1868-1942]. English osteologist and zoologist.</note><biblcorresp="#nb07_02_02_0037_recto_n02_bibl"/> (3)?</l>
                <l n="04">. . . For the cormorant, &amp; its near relation</l>
                <l n="05">the shag &amp; the gannet, are the only</l>
                <l n="06">representatives among our British birds</l>
@@ -789,8 +789,8 @@
                <l n="22">by chasing other sea-birds till they</l>
                <l n="23">disgorge their last meal which is</l>
                <l n="24">caught before it reaches the sea.<note>MM mentions such behavior in the second stanza of “The Frigate Pelican,” first published Criterion 13 (July 1934).</note></l>
-               <l n="25"><bibl rend="begin"/>Spectator 27 Dec 1930</l>
-               <l n="26">Pax Domini<note>Underhill, Evelyn. “Pax Domini.” The Spectator (27 December 1930): 1003-1004.</note> Evelyn Underhill<note>Underhill, Evelyn [1875-1941]. Author and theological editor for The Spectator who wrote extensively about mysticism.</note><bibl rend="end"/></l>
+               <l n="25"><bibl corresp="nb07_02_02_0037_recto_n25_bibl"/>Spectator 27 Dec 1930</l>
+               <l n="26">Pax Domini<note>Underhill, Evelyn. “Pax Domini.” The Spectator (27 December 1930): 1003-1004.</note> Evelyn Underhill<note>Underhill, Evelyn [1875-1941]. Author and theological editor for The Spectator who wrote extensively about mysticism.</note><bibl corresp="#nb07_02_02_0037_recto_n25_bibl"/></l>
                <l n="27">. . . . . . . . . . .</l>
                <l n="28">another strange fact is that none of those</l>
                <l n="29">who have felt competent to pronounce</l>
@@ -842,13 +842,13 @@
                <l n="02">Johnnie Walker sees a quaint encounter</l>
                <l n="03">issued by John Walker &amp; Sons Ltd at Kilmarnock</l>
                <l n="04"/>
-               <l n="05"><bibl rend="begin"/> Nov. 29/1930 <add>p. 964</add> London Ill. News</l>
+               <l n="05"><bibl corresp="nb07_02_02_0038_recto_n05_bibl"/> Nov. 29/1930 <add>p. 964</add> London Ill. News</l>
                <l n="06">“The Phoenix of the Deep.” Being an</l>
                <l n="07">appreciation of</l>
                <l n="08">The Case for the Sea-Serpent by R T Gould<note>Gould, Rupert Thomas [1890-1948]. English navel officer who wrote books about reallife mysteries and unexplained oddities.</note></l>
                <l n="09">Lieut Commander R T Gould, R. N. (Retired)</l>
                <l n="10">Philip Allan: 12s 6d net.</l>
-               <l n="11"> Reviewed by L. P. H.<bibl rend="end"/><note>Hartley, Leslie Poles (L. P. H.). “The Phoenix of the Deep.” Rev. of The Case of the Sea-Serpent, by R. T. Gould (London: Philip Allan, 1930). Illustrated London News (29 November 1930): 964, 990.</note></l>
+               <l n="11"> Reviewed by L. P. H.<bibl corresp="#nb07_02_02_0038_recto_n05_bibl"/><note>Hartley, Leslie Poles (L. P. H.). “The Phoenix of the Deep.” Rev. of The Case of the Sea-Serpent, by R. T. Gould (London: Philip Allan, 1930). Illustrated London News (29 November 1930): 964, 990.</note></l>
                <l n="12">Before I read "The Case for the Sea-Serpent,</l>
                <l n="13">I was convinced that <del>ir does</del> such</l>
                <l n="14">a creature did not xist. I do not</l>
@@ -880,9 +880,9 @@
                <l n="08">humps. The colouring is in</l>
                <l n="09">general, dark brown above and white</l>
                <l n="10">below.”</l>
-               <l n="11"><bibl rend="begin"/>29 Nov 1931</l>
+               <l n="11"><bibl corresp="nb07_02_02_0039_verso_n11_bibl"/>29 Nov 1931</l>
                <l n="12">p. 981 A Page for Collectors</l>
-               <l n="13">Frank Davis.<bibl rend="end"/><note>Davis, Frank. “A Page for Collectors: Glass Decanters.” Illustrated London News (29 November 1930): 981.</note></l>
+               <l n="13">Frank Davis.<bibl corresp="#nb07_02_02_0039_verso_n11_bibl"/><note>Davis, Frank. “A Page for Collectors: Glass Decanters.” Illustrated London News (29 November 1930): 981.</note></l>
                <l n="14">Fig. 5. Perhaps the finest cut glass</l>
                <l n="15">that any country has produced: one</l>
                <l n="16">of a remarkable pair of Irish</l>
@@ -931,9 +931,9 @@
          <div type="image" xml:id="nb07_02_02_0040_text">
             <pb facs="nb07_02_02_0040_verso.jpg"/>
             <lg>
-               <l n="01"><bibl rend="begin"/>Ill. London News 13 Dec '30</l>
+               <l n="01"><bibl corresp="nb07_02_02_0040_verso_n01_bibl"/>Ill. London News 13 Dec '30</l>
                <l n="02">A Page for Collectors: More caricatures</l>
-               <l n="03"> etc. Frank Davis<bibl rend="end"/><note>Davis, Frank. “A Page for Collectors: More Caricatures, the March of Invention, and a Court Scandal.” Illustrated London News (13 December 1930): 1088. The March 1819 work that Davis quotes (and MM quotes below) is the European Magazine and London Review, which had a regular feature entitled “Description of New Patent Inventions.”</note></l>
+               <l n="03"> etc. Frank Davis<bibl corresp="#nb07_02_02_0040_verso_n01_bibl"/><note>Davis, Frank. “A Page for Collectors: More Caricatures, the March of Invention, and a Court Scandal.” Illustrated London News (13 December 1930): 1088. The March 1819 work that Davis quotes (and MM quotes below) is the European Magazine and London Review, which had a regular feature entitled “Description of New Patent Inventions.”</note></l>
                <l n="04">In a recent article on a humorous</l>
                <l n="05">publication of the Regency—Alken's<note>Alken, Henry [1785-1851]. Artist, engraver, illustrator, and author of Symptoms of Being Amused (Thomas McLean, 1822), a collection of 200 vignettes and 40 hand-colored plates depicting sporting scenes.</note></l>
                <l n="06">Symptoms of Being Amused—reference</l>
@@ -978,8 +978,8 @@
                <l n="14">White Holly. 25 1/17/6</l>
                <l n="15"> 50 2/10/0 G 2128</l>
                <l n="16"> 100 2/17/6</l>
-               <l n="17"><bibl rend="begin"/>Advt cigarettes</l>
-               <l n="18">p. 1101.<bibl rend="end"/><note>“Practical Gifts for Every Taste.” Illustrated London News. (13 December 1930): 1101.</note>9. A gift of Lasting Value</l>
+               <l n="17"><bibl corresp="nb07_02_02_0040_recto_n17_bibl"/>Advt cigarettes</l>
+               <l n="18">p. 1101.<bibl corresp="#nb07_02_02_0040_recto_n17_bibl"/><note>“Practical Gifts for Every Taste.” Illustrated London News. (13 December 1930): 1101.</note>9. A gift of Lasting Value</l>
                <l n="19">2. Delicacies fr the North: attractive</l>
                <l n="20">Boxes of Biscuits &amp; shortbread from</l>
                <l n="21">Carr &amp; Co of Carlisle who are</l>
@@ -995,13 +995,13 @@
          <div type="image" xml:id="nb07_02_02_0041_text">
             <pb facs="nb07_02_02_0041_verso.jpg"/>
             <lg>
-               <l n="01"><bibl rend="begin"/>Ill. London News 3 Jan '31</l>
+               <l n="01"><bibl corresp="nb07_02_02_0041_verso_n01_bibl"/>Ill. London News 3 Jan '31</l>
                <l n="02">A Page for Collectors. An Island of the Pacific</l>
                <l n="03"><foreign xml:lang="fr">Les Arts Indigènes en</foreign></l>
                <l n="04"><foreign xml:lang="fr">Nouvelle-Guinée</foreign> by Stephen Chauvet<note>Chauvet, Stéphen [1885-1950]. French doctor, anthropologist, ethnographer, and collector of indigenous art.</note></l>
                <l n="05"><foreign xml:lang="fr">Sie<note>“Sie”: abbreviation of the French word “Société” (English: Society).</note> d'Editions Géographique, Maritimes</foreign></l>
                <l n="06"><foreign xml:lang="fr">et Coloniales</foreign> 184 Boulevard</l>
-               <l n="07">Saint-Germain, Paris. 1930; 280 francs.<bibl rend="end"/><note>Davis, Frank. “A Page for Collectors: An Island of the Pacific.” Illustrated London News (3 January 1931): 24.</note></l>
+               <l n="07">Saint-Germain, Paris. 1930; 280 francs.<bibl corresp="nb07_02_02_0041_verso_n01_bibl"/><note>Davis, Frank. “A Page for Collectors: An Island of the Pacific.” Illustrated London News (3 January 1931): 24.</note></l>
                <l n="08">It is bound in paper only. . . and falls</l>
                <l n="09">to pieces as soon as the pages are cut.</l>
                <l n="10">Let no one however lose heart at this</l>
@@ -1040,10 +1040,10 @@
                <l n="13">A human “Tiger” &amp; his assistant “Tiger.”</l>
                <l n="14">itinerant performers in striking         <add>cub</add></l>
                <l n="15">attire at local festivities near Madras</l>
-               <l n="16"><bibl rend="begin"/>p. 66. advt. Peter Davies Persia</l>
+               <l n="16"><bibl corresp="nb07_02_02_0041_recto_n16_bibl"/>p. 66. advt. Peter Davies Persia</l>
                <l n="17">an Introduc. to Persian Art—Since the</l>
                <l n="18">7th century A. D. By Arthur</l>
-               <l n="19">Upham Pope.<bibl rend="end"/><note>Ad. for Arthur Upham Pope’s book An Introduction to Persian Art Since the Seventh Century A. D. (London: Peter Davies, 1931). Illustrated London News (10 January 1931): 66.</note>Director of the</l>
+               <l n="19">Upham Pope.<bibl corresp="#nb07_02_02_0041_recto_n16_bibl"/><note>Ad. for Arthur Upham Pope’s book An Introduction to Persian Art Since the Seventh Century A. D. (London: Peter Davies, 1931). Illustrated London News (10 January 1931): 66.</note>Director of the</l>
                <l n="20">International Ex of Persian Art.</l>
                <l n="21">Honorary adviser in art to the Persian</l>
                <l n="22">Government, etc. </l>
@@ -1058,9 +1058,9 @@
                <l n="v02">  Hunting scene—Shah Ismail of the Safavi Dynasty1499</l>
             </lg>
             <lg>
-               <l n="01"><bibl rend="begin"/>A Page for Collectors. Persian art:</l>
+               <l n="01"><bibl corresp="nb07_02_02_0042_verso_n01_bibl"/>A Page for Collectors. Persian art:</l>
                <l n="02">The small collectors point of view.</l>
-               <l n="03">By Frank Davis.<bibl rend="end"/><note>Davis, Frank. “A Page for Collectors: Persian Art, the Small Collector's Point of View.” Illustrated London News (10 January 1931): 67.</note></l>
+               <l n="03">By Frank Davis.<bibl corresp="#nb07_02_02_0042_verso_n01_bibl"/><note>Davis, Frank. “A Page for Collectors: Persian Art, the Small Collector's Point of View.” Illustrated London News (10 January 1931): 67.</note></l>
                <l n="04">Arab conquest bet 638 &amp; 642 A. D.</l>
                <l n="05">Abbasid Caliphate 750-949</l>
                <l n="06">Seljuk Dynasty, of Turkish origin,</l>
@@ -1072,9 +1072,9 @@
                <l n="12">rulers, finest &amp; most famous of Per.</l>
                <l n="13">carpets made.</l>
                <l n="14">_______________________________</l>
-               <l n="15"><bibl rend="begin"/>Page 65</l>
+               <l n="15"><bibl corresp="nb07_02_02_0042_verso_n15_bibl"/>Page 65</l>
                <l n="16">A Dramatic Review of the Art of</l>
-               <l n="17">Persia. By Arthur Upham Pope<bibl rend="end"/><note>Pope, Arthur Upham. “A Dramatic Review of the Art of Persia: The Exhibition at the Burlington House.” Illustrated London News (10 January 1931): 65.</note></l>
+               <l n="17">Persia. By Arthur Upham Pope<bibl corresp="#nb07_02_02_0042_verso_n15_bibl"/><note>Pope, Arthur Upham. “A Dramatic Review of the Art of Persia: The Exhibition at the Burlington House.” Illustrated London News (10 January 1931): 65.</note></l>
                <l n="18">Room 3 Persian mediaeval arts</l>
                <l n="19">turquoise &amp; cobalt—</l>
                <l n="20">Persian armours (pants) lent by</l>
@@ -1099,10 +1099,10 @@
                <l n="10"> aquamanile in form of a <del>ball</del> bull</l>
                <l n="11">14th c. lent by Gulistan Museum</l>
                <l n="12">Teheran</l>
-               <l n="13">  <bibl rend="begin"/><foreign xml:lang="fr">1er Fevrier 1931</foreign></l>
+               <l n="13">  <bibl corresp="nb07_02_02_0042_recto_n13_bibl"/><foreign xml:lang="fr">1er Fevrier 1931</foreign></l>
                <l n="14">  <foreign xml:lang="fr">La Revue du Cinéma</foreign></l>
                <l n="15">Maurice Henry writes on <foreign xml:lang="fr">La Féerie du Jazz</foreign></l>
-               <l n="16"><foreign xml:lang="fr">par </foreign>John Murray Anderson (Universal, 1930)<bibl rend="end"/><note>Henry, Maurice. “La Féerie du jazz.” La Revue du Cinéma 18 (1 February 1931): 54. Originally entitled The King of Jazz (1930), directed by John Murray Anderson, this is an early talking picture loosely about the life of Paul Whiteman (1890-1967), an American bandleader, composer, and orchestral director. His more than 3000 orchestrated arrangements of jazz tunes earned him the nickname the “King of Jazz.”</note></l>
+               <l n="16"><foreign xml:lang="fr">par </foreign>John Murray Anderson (Universal, 1930)<bibl corresp="#nb07_02_02_0042_recto_n13_bibl"/><note>Henry, Maurice. “La Féerie du jazz.” La Revue du Cinéma 18 (1 February 1931): 54. Originally entitled The King of Jazz (1930), directed by John Murray Anderson, this is an early talking picture loosely about the life of Paul Whiteman (1890-1967), an American bandleader, composer, and orchestral director. His more than 3000 orchestrated arrangements of jazz tunes earned him the nickname the “King of Jazz.”</note></l>
                <l n="17"> <foreign xml:lang="fr"> une revue de music-hall dont l'étoile ne</foreign></l>
                <l n="18"><foreign xml:lang="fr">serait plus seulement la célèbre chef</foreign></l>
                <l n="19"><foreign xml:lang="fr">d'orchestre (Paul Whiteman), mais</foreign></l>
@@ -1136,9 +1136,9 @@
                <l n="11"><foreign xml:lang="fr">lèvres, et un luxueux scintillement</foreign></l>
                <l n="12"><foreign xml:lang="fr">dans les yeux. (En partie parlant) </foreign></l>
                <l n="13">______________________________</l>
-               <l n="14"><bibl rend="begin"/>7 Seas Feb. 1931</l>
+               <l n="14"><bibl corresp="nb07_02_02_0043_verso_n14_bibl"/>7 Seas Feb. 1931</l>
                <l n="15">Museum Piece (miniatures</l>
-               <l n="16">in the Persian Exhibition.)<bibl rend="end"/><note>The Seven Seas Magazine (February 1931).</note>The <del>tiltes</del></l>
+               <l n="16">in the Persian Exhibition.)<bibl corresp="#nb07_02_02_0043_verso_n14_bibl"/><note>The Seven Seas Magazine (February 1931).</note>The <del>tiltes</del></l>
                <l n="17">titles of two were particularly disarming</l>
                <l n="18">for the wandering dilettante. One of</l>
                <l n="19">them was “The Abortive Attempt <del>to</del></l>
@@ -1149,8 +1149,8 @@
                <l n="24">at the beauty of Joseph cut their fingers</l>
                <l n="25">w fruit knives in their confusion."</l>
                <l n="26">__________________________________</l>
-               <l n="27"><bibl rend="begin"/>Ill London News 24 Jan 31</l>
-               <l n="28">p. 125<bibl rend="end"/><note>“More Grotesques of the Animal World: Weird Insects and Fish.” Illustrated London News (24 January 1931): 125. MM quotes the caption for a photograph of Capricorn Beetle that reads, “Like a Decorative Scarab: The South American Capricorn Beetle with Long Fore-Legs, and Wing-Sheaths Patterned in Red on Olive-Green.”</note> The S. American</l>
+               <l n="27"><bibl corresp="nb07_02_02_0043_verso_n27_bibl"/>Ill London News 24 Jan 31</l>
+               <l n="28">p. 125<bibl corresp="#nb07_02_02_0043_verso_n27_bibl"/><note>“More Grotesques of the Animal World: Weird Insects and Fish.” Illustrated London News (24 January 1931): 125. MM quotes the caption for a photograph of Capricorn Beetle that reads, “Like a Decorative Scarab: The South American Capricorn Beetle with Long Fore-Legs, and Wing-Sheaths Patterned in Red on Olive-Green.”</note> The S. American</l>
                <l n="29">Capricorn Beetle (Acrocinus</l>
                <l n="30">Longimanus L.) w long fore-legs &amp;</l>
                <l n="31">wing-sheaths pattered in red on</l>
@@ -1168,9 +1168,9 @@
          <div type="image" xml:id="nb07_02_02_0044_text">
             <pb facs="nb07_02_02_0044_verso.jpg"/>
             <lg>
-               <l n="01"><bibl rend="begin"/>24 Jan Ill. L. News p 144</l>
+               <l n="01"><bibl corresp="nb07_02_02_0044_verso_n01_bibl"/>24 Jan Ill. L. News p 144</l>
                <l n="02">x-ray photos as aids to science.</l>
-               <l n="03">Studies of antarctic birds<bibl rend="end"/><note>“X-Ray Photographs as Aids to Science: Studies of Antarctic Birds.” Illustrated London News (24 January 1931): 141.</note></l>
+               <l n="03">Studies of antarctic birds<bibl corresp="#nb07_02_02_0044_verso_n01_bibl"/><note>“X-Ray Photographs as Aids to Science: Studies of Antarctic Birds.” Illustrated London News (24 January 1931): 141.</note></l>
                <l n="04">1 The structure of a bird which, in</l>
                <l n="05">contrast to the penguin, is nearly</l>
                <l n="06">always on the wing: the Wilson</l>
@@ -1182,14 +1182,14 @@
                <l n="12">show primitive characters.</l>
                <l n="13">They are backward rather than</l>
                <l n="14">degenerate<note>In the first published version of “The Student,” MM writes, “The penguin wing is / ancient, not degenerate.”</note></l>
-               <l n="15"><bibl rend="begin"/>Ill. London News. 7 Feb 31</l>
+               <l n="15"><bibl corresp="nb07_02_02_0044_verso_n15_bibl"/>Ill. London News. 7 Feb 31</l>
                <l n="16">A Page for Collectors. The Changing</l>
                <l n="17">West.</l>
                <l n="18">Pattern: A Study of Ornament</l>
                <l n="19">in Western Europe. 1180-1900</l>
                <l n="20">by Joan Evans.<note>Evans, Joan [1893-1977]. Dame Joan Evans was a British historian of French and English mediaeval art, especially Early Modern and medieval jewelry.</note> (Oxford: The</l>
                <l n="21">Clarendon Press; 2 vols 7 guineas)</l>
-               <l n="22">Reviewed by Frank B. Davis<bibl rend="end"/><note>Davis, Frank. “A Page for Collectors: The Changing West.” Rev. of Pattern: A Study of Ornament in Western Europe, 1180-1900, by Joan Evans. Illustrated London News (7 February 1931): 224.</note></l>
+               <l n="22">Reviewed by Frank B. Davis<bibl corresp="#nb07_02_02_0044_verso_n15_bibl"/><note>Davis, Frank. “A Page for Collectors: The Changing West.” Rev. of Pattern: A Study of Ornament in Western Europe, 1180-1900, by Joan Evans. Illustrated London News (7 February 1931): 224.</note></l>
                <l n="23">The instances of birds &amp; beasts</l>
                <l n="24">appearing as decoration in stone or on</l>
             </lg>
@@ -1273,13 +1273,13 @@
                <l n="09">and Magical Jewels of the</l>
                <l n="10">Middle Ages.<note>MM notes two of Evans’s earlier book titles: Magical Jewels of the Middle Ages and the Renaissance, particularly in England (Oxford: Clarendon Press, 1922) and Life in Mediaeval France (Oxford: Oxford University Press, 1925).</note></l>
                <l n="11">__________________________</l>
-               <l n="12"><bibl rend="begin"/> Ill. London News 31 Jan 31</l>
+               <l n="12"><bibl corresp="nb07_02_02_0046_recto_n12_bibl"/> Ill. London News 31 Jan 31</l>
                <l n="13">The Cat in the Mysteries of</l>
                <l n="14">Religion and Magic. By M. <del>Oldfield</del></l>
                <l n="15">Oldfield Howey—author of</l>
                <l n="16">the Horse in Magic &amp; Myth &amp;</l>
                <l n="17">the Encircled Serpent. Ill. Rider.</l>
-               <l n="18">18 Shillings.). C. E. B.<bibl rend="end"/><note>B., C. E. “Books of the Day.” Illustrated London News (31 January 1931): 168.</note></l>
+               <l n="18">18 Shillings.). C. E. B.<bibl corresp="#nb07_02_02_0046_recto_n12_bibl"/><note>B., C. E. “Books of the Day.” Illustrated London News (31 January 1931): 168.</note></l>
                <l n="19">Mummified cats, Mr Howey mentions</l>
                <l n="20">later were found in such countless</l>
                <l n="21">numbers as to prove embarrassing.</l>
@@ -1299,10 +1299,10 @@
                <l n="04">less than a single specimen of a</l>
                <l n="05">mummied cat would fetch today.</l>
                <l n="06"> </l>
-               <l n="07"><bibl rend="begin"/>  Ill London News 7 Mar 1931</l>
+               <l n="07"><bibl corresp="nb07_02_02_0047_verso_n07_bibl"/>  Ill London News 7 Mar 1931</l>
                <l n="08">A Page for Collectors. The unnatural history</l>
                <l n="09">of China: The Lives of Buddha</l>
-               <l n="10">    By Frank Davis<bibl rend="end"/><note>Davis, Frank. “A Page for Collectors: The Unnatural History of China, the Lions of Buddha.” Illustrated London News (7 March 1931): 384.</note> (in trade catalogues</l>
+               <l n="10">    By Frank Davis<bibl corresp="#nb07_02_02_0047_verso_n07_bibl"/><note>Davis, Frank. “A Page for Collectors: The Unnatural History of China, the Lions of Buddha.” Illustrated London News (7 March 1931): 384.</note> (in trade catalogues</l>
                <l n="11">Chinese lions known to the trade as Kylins<note>MM refers to a kylin in “Nine Nectarines and Other Porcelain,” first published Poetry 45 (November 1934).</note></l>
                <l n="12">but . . . the Kylin is an entirely <del>creature</del></l>
                <l n="13">different creature. It has the body</l>
@@ -1345,8 +1345,8 @@
                <l n="22">art. Buddha himself is often represented</l>
                <l n="23">thus, &amp; so is St. Thomas, who tradition</l>
                <l n="24">says, brought Christianity to India.</l>
-               <l n="25">             <bibl rend="begin"/>Ill L. News</l>
-               <l n="26"><gap extent="4"/> p. 359 March 7 issue)<bibl rend="end"/><note>“‘Starring’ Museum Treasures: The First to Be Isolated.” Illustrated London News (7 March 1931): 359. The article describes a new mode of exhibiting undertaken by the Victoria and Albert Museum, isolating objects so that they might be judged on their own merits. The Egyptian rock crystal jug was the first object so isolated.</note></l>
+               <l n="25">             <bibl corresp="nb07_02_02_0047_recto_n25_bibl"/>Ill L. News</l>
+               <l n="26"><gap extent="4"/> p. 359 March 7 issue)<bibl corresp="#nb07_02_02_0047_recto_n25_bibl"/><note>“‘Starring’ Museum Treasures: The First to Be Isolated.” Illustrated London News (7 March 1931): 359. The article describes a new mode of exhibiting undertaken by the Victoria and Albert Museum, isolating objects so that they might be judged on their own merits. The Egyptian rock crystal jug was the first object so isolated.</note></l>
                <l n="27"> 10th cent. Egyptian rock crystal jug.</l>
                <l n="28">cut fr a solid block of crystal, the core</l>
                <l n="29">of which has been drilled out by hand.</l>
@@ -1356,18 +1356,18 @@
          <div type="image" xml:id="nb07_02_02_0048_text">
             <pb facs="nb07_02_02_0048_verso.jpg"/>
             <lg>
-               <l n="01"><bibl rend="begin"/>Ill. London News. Mar 21 1931</l>
+               <l n="01"><bibl corresp="nb07_02_02_0048_verso_n01_bibl"/>Ill. London News. Mar 21 1931</l>
                <l n="02">Review by L. P. H.<note>Hartley, Leslie Poles [1895-1972]. English novelist, short-story writer, and critic whose novels were known for their psychological nuance.</note> of Catching Wild</l>
                <l n="03">Beasts alive: by Joseph Delmont<note>Delmont, Joseph [1873-1935]. Austrian film director noted for his innovative and sensationalized filming of wild animals, specifically beasts of prey.</note></l>
-               <l n="04">Hutchinson 18.s<bibl rend="end"/><note>H., L. P. “Recollections of a Super Trapper: Being an Appreciation of Catching Wild Beasts Alive by Joseph Delmont.” Illustrated London News (21 March 1931): 456-57.</note></l>
+               <l n="04">Hutchinson 18.s<bibl corresp="#nb07_02_02_0048_verso_n01_bibl"/><note>H., L. P. “Recollections of a Super Trapper: Being an Appreciation of Catching Wild Beasts Alive by Joseph Delmont.” Illustrated London News (21 March 1931): 456-57.</note></l>
                <l n="05">Insect eating bats. creatures whose</l>
                <l n="06">massed-formation flights suggests</l>
                <l n="07">a steamer's smoke—</l>
                <l n="08">a Brown Monkey wading.  hippo feeding</l>
                <l n="09"> lion &amp; lioness story etc.</l>
-               <l n="10"><bibl rend="begin"/> Ill. London News 4 Apr. 1931</l>
+               <l n="10"><bibl corresp="nb07_02_02_0048_verso_n10_bibl"/> Ill. London News 4 Apr. 1931</l>
                <l n="11">Page for Collectors More about the</l>
-               <l n="12">Unicorn. By Frank Davis<bibl rend="end"/><note>Davis, Frank. “A Page for Collectors: More About the Unicorn.” Illustrated London News (4 April 1931): 572.</note></l>
+               <l n="12">Unicorn. By Frank Davis<bibl corresp="#nb07_02_02_0048_verso_n10_bibl"/><note>Davis, Frank. “A Page for Collectors: More About the Unicorn.” Illustrated London News (4 April 1931): 572.</note></l>
                <l n="13">Purchas His Pilgrims<note>Purchas, Samuel. Purchas His Pilgrimes. Glasgow: University of Glasgow Press, 1625. Also known as Hakluytus Posthumous, a wide ranging survey of world exploration. Purchas, an Anglican priest, was a friend of Richard Hakluyt, one of the principal promoters of the colonization of the New World.</note>--</l>
                <l n="14">quotes the 4th voyage of James</l>
                <l n="15">Hall<note>Hall, James [?-1612]. An English explorer. Hall piloted three of King Christian IV's Expeditions to Greenland.</note>to Groeneland, 1612. Written</l>
@@ -1448,18 +1448,18 @@
             </lg>
             <pb facs="nb07_02_02_0049_recto.jpg"/>
             <lg>
-               <l n="01">   <bibl rend="begin"/>2 May 31 Ill L. News</l>
+               <l n="01">   <bibl corresp="nb07_02_02_0049_recto_n01_bibl"/>2 May 31 Ill L. News</l>
                <l n="02">Nature Studies Extraordinary: A</l>
-               <l n="03">crocodile comes to be fed.<bibl rend="end"/><note>“Nature-Studies Extraordinary: A Crocodile Comes to Be Fed.” Illustrated London News (2 May 1931): 729.</note></l>
+               <l n="03">crocodile comes to be fed.<bibl corresp="#nb07_02_02_0049_recto_n01_bibl"/><note>“Nature-Studies Extraordinary: A Crocodile Comes to Be Fed.” Illustrated London News (2 May 1931): 729.</note></l>
                <l n="04">. . . On the northwestern coast</l>
                <l n="05">of Africa a pair of tame crocodiles</l>
                <l n="06">were kept in a pond by priests dressed</l>
                <l n="07">in white garments, who fed their</l>
                <l n="08">charges w snow-white fowls.</l>
                <l n="09"> </l>
-               <l n="10">  <bibl rend="begin"/>Ill London News 10 Jan 1931</l>
+               <l n="10">  <bibl corresp="nb07_02_02_0049_recto_n10_bibl"/>Ill London News 10 Jan 1931</l>
                <l n="11">The Collector &amp; Persian Art. By</l>
-               <l n="12">W. G. Menzies<bibl rend="end"/><note>Menzies, W. G. “The Collector and Persian Art.” Illustrated London News (10 January 1931): 68.</note>—specimen</l>
+               <l n="12">W. G. Menzies<bibl corresp="#nb07_02_02_0049_recto_n10_bibl"/><note>Menzies, W. G. “The Collector and Persian Art.” Illustrated London News (10 January 1931): 68.</note>—specimen</l>
                <l n="13">dating fr the <del>17th</del> 17th c.</l>
                <l n="14">A Blue Persian Carpet of great</l>
                <l n="15">merit</l>
@@ -1484,8 +1484,8 @@
                <l n="05">argent, 3 bactricia, sable</l>
                <l n="06">Botraux of Cornwall (Boscastle?)</l>
                <l n="07"> </l>
-               <l n="08">  <bibl rend="begin"/><add>17</add></l>
-               <l n="09"><del>10.</del> Jan   1931<bibl rend="end"/><note>B., C. E. “Books of the Day.” Illustrated London News (17 January 1931): 86. MM notes two books, both titled Persian Painting, one by Basil Gray the other by Bulk Raj Anand.</note></l>
+               <l n="08">  <bibl corresp="nb07_02_02_0050_verso_n08_bibl"/><add>17</add></l>
+               <l n="09"><del>10.</del> Jan   1931<bibl corresp="#nb07_02_02_0050_verso_n08_bibl"/><note>B., C. E. “Books of the Day.” Illustrated London News (17 January 1931): 86. MM notes two books, both titled Persian Painting, one by Basil Gray the other by Bulk Raj Anand.</note></l>
                <l n="10">Persian Painting. Basil Gray<note>Gray, Basil [1904-1989]. An English art historian, Islamicist, author, and the head of the British Museum’s Oriental department.</note></l>
                <l n="11">Benn 6 Shillings 6</l>
                <l n="12"><del>Persian Painting Basil Gray</del></l>
@@ -1536,9 +1536,9 @@
                <l n="05">has always been the ideal of</l>
                <l n="06">the Persian dyers.</l>
                <l n="07"> </l>
-               <l n="08"><bibl rend="begin"/><hi rend="underline">Sat Ev. Postp</hi> 4 Apr. 1931</l>
+               <l n="08"><bibl corresp="nb07_02_02_0051_verso_n08_bibl"/><hi rend="underline">Sat Ev. Postp</hi> 4 Apr. 1931</l>
                <l n="09">                <add>By</add></l>
-               <l n="10">Tennis impressions. Helen Wills<bibl rend="end"/><note>Willis, Helen. “Tennis Impressions.” Saturday Evening Post (4 April 1931): 13, 66, 69-70.</note></l>
+               <l n="10">Tennis impressions. Helen Wills<bibl corresp="#nb07_02_02_0051_verso_n08_bibl"/><note>Willis, Helen. “Tennis Impressions.” Saturday Evening Post (4 April 1931): 13, 66, 69-70.</note></l>
                <l n="11"> </l>
                <l n="12">Many times you cannot remember having</l>
                <l n="13">made a <del>shot</del> particular shot at</l>
@@ -1748,9 +1748,9 @@
             <pb facs="nb07_02_02_0055_recto.jpg"/>
             <!--<desc>MM draws a squiggly line in the left margin, spanning lines 21-22</desc>-->
             <lg>
-               <l n="01"><bibl rend="begin"/>Lit Digest 14 Mar 31</l>
+               <l n="01"><bibl corresp="nb07_02_02_0055_recto_n01_bibl"/>Lit Digest 14 Mar 31</l>
                <l n="02">The Road to Culture by Prof. Char. Gray Shaw</l>
-               <l n="03">of N. Y. Univ.<bibl rend="end"/><note>“The Road to Culture.” The Literary Digest (14 March 1931): 16-17.</note></l>
+               <l n="03">of N. Y. Univ.<bibl corresp="#nb07_02_02_0055_recto_n01_bibl"/><note>“The Road to Culture.” The Literary Digest (14 March 1931): 16-17.</note></l>
                <l n="04">Culture (acc to Prof Shaw) is not</l>
                <l n="05">a mere decoration of the mind,</l>
                <l n="06">but a means of interpreting</l>
@@ -1785,11 +1785,11 @@
                <l n="04">cognizing life as it passes by wh.</l>
                <l n="05">is the important factor in culture</l>
                <l n="06">by writing.</l>
-               <l n="07">                   <bibl rend="begin"/>Ill L News</l>
+               <l n="07">                   <bibl corresp="nb07_02_02_0056_verso_n07_bibl"/>Ill L News</l>
                <l n="08"> 23 May 1931</l>
                <l n="09">Photos by Harry Burton<note>Burton, Harry [1879–1940]. An English Egyptologist and archaeological photographer best known for his photographs of excavations in Egypt's Valley of the Kings. He took 1400 photographs documenting Howard Carter's excavation of Tutankhamen's tomb in 1922.</note> of Metropol.</l>
                <l n="10">Mus. of art world copyright</l>
-               <l n="11">strictly reserved.<bibl rend="end"/><note>“New Treasures from Tutankhamen's Tomb.” Illustrated London News (23 May 1931): 856+.</note></l>
+               <l n="11">strictly reserved.<bibl corresp="#nb07_02_02_0056_verso_n07_bibl"/><note>“New Treasures from Tutankhamen's Tomb.” Illustrated London News (23 May 1931): 856+.</note></l>
                <l n="12"/>
                <l n="13">Fig. 7 Decoration on the seat of</l>
                <l n="14">  Tutankhamen's “faldstool”<note>Archaeologist Howard Carter referred to an ornate chair in Tutankhamen’s tomb, made in the form of a folding stool with a rigid back, as a “faldstool.”</note> (eccles</l>
@@ -1802,9 +1802,9 @@
                <l n="21">on the tread} 9 traditional</l>
                <l n="22">alien foes of Egypt</l>
                <l n="23"/>
-               <l n="24"> <bibl rend="begin"/>ILL. London News</l>
+               <l n="24"> <bibl corresp="nb07_02_02_0056_verso_n24_bibl"/>ILL. London News</l>
                <l n="25">   13 June 1931</l>
-               <l n="26">“Mayflies.” W P Pycraft:<bibl rend="end"/><note>Pycraft, W. P., FZS. “The World of Science: Mayflies.” Illustrated London News (13 June 1931): 1018. FZS stands for Fellow of the Zoological Society of London.</note></l>
+               <l n="26">“Mayflies.” W P Pycraft:<bibl corresp="#nb07_02_02_0056_verso_n24_bibl"/><note>Pycraft, W. P., FZS. “The World of Science: Mayflies.” Illustrated London News (13 June 1931): 1018. FZS stands for Fellow of the Zoological Society of London.</note></l>
             </lg>
             <pb facs="nb07_02_02_0056_recto.jpg"/>
             <lg>
@@ -1877,8 +1877,8 @@
                <l n="06">French illuminated ms. of Livy,<note>Livius, Titus (“Livy”)[64 or 59 BC–AD 17). Roman historian who wrote a monumental history of Rome, Ab Urbe Condita Libri, covering the period from the earliest legends of Rome before the traditional foundation in 753 BC through the reign of Augustus in Livy's own time.</note> once</l>
                <l n="07">owned by the Grand Bastard of Burgandy.<note>Anthony (“Bastard of Burgundy” or “Le grand bâtard”) [1421-1504], was the natural son (and second child) of Philip III, Duke of Burgundy, and one of his mistresses, Jeanne de Presle.</note></l>
                <l n="08">__________________________</l>
-               <l n="09"><bibl rend="begin"/>Ill. London News 6 June 1931</l>
-               <l n="10">A Page for the Epicure.<bibl rend="end"/><note>“A Page for the Epicure.” Illustrated London News (6 June 1931): 987.</note></l>
+               <l n="09"><bibl corresp="nb07_02_02_0057_recto_n09_bibl"/>Ill. London News 6 June 1931</l>
+               <l n="10">A Page for the Epicure.<bibl corresp="#nb07_02_02_0057_recto_n09_bibl"/><note>“A Page for the Epicure.” Illustrated London News (6 June 1931): 987.</note></l>
                <l n="11">Jermyn St., Clarges Street, Shaftesbury</l>
                <l n="12">Ave., Soho Square:</l>
                <l n="13">Cotelette Kievsky—at Kasbek.</l>
@@ -1990,12 +1990,12 @@
             </lg>
             <pb facs="nb07_02_02_0059_recto.jpg"/>
             <lg>
-               <l n="01">  <bibl rend="begin"/>4 July 31 Ill. L. News</l>
+               <l n="01">  <bibl corresp="nb07_02_02_0059_recto_n01_bibl"/>4 July 31 Ill. L. News</l>
                <l n="02">“Almost more happiness than one</l>
                <l n="03">man can Bear.” being an appr. of</l>
                <l n="04">Albert Einstein;<note>Einstein, Albert [1879-1955]. German-born theoretical physicist. He developed the general theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics).</note> By Anton Reiser</l>
                <l n="05">w a forward by Einstein. Thornton</l>
-               <l n="06">Butterworth.<bibl rend="end"/><note>Reiser, Anton, and L. P. H. “‘Almost More Happiness Than One Man Can Bear’.” Illustrated London News (4 July 1931): 32+.</note></l>
+               <l n="06">Butterworth.<bibl corresp="#nb07_02_02_0059_recto_n01_bibl"/><note>Reiser, Anton, and L. P. H. “‘Almost More Happiness Than One Man Can Bear’.” Illustrated London News (4 July 1931): 32+.</note></l>
                <l n="07">It is recorded, however, that when,</l>
                <l n="08">at the age of four his father</l>
                <l n="09">demonstrated to him the mystery</l>
@@ -2018,8 +2018,8 @@
          <div type="image" xml:id="nb07_02_02_0060_text">
             <pb facs="nb07_02_02_0060_verso.jpg"/>
             <lg>
-               <l n="01">   <bibl rend="begin"/>31 Jan 1931 Frank Davis</l>
-               <l n="02">Familiar &amp; unfamiliar woods in old furniture<bibl rend="end"/><note>Davis, Frank. “A Page for Collectors: Familiar and Unfamiliar Woods in Old Furniture.” Illustrated London News (31 January 1931): 188.</note></l>
+               <l n="01">   <bibl corresp="nb07_02_02_0060_verso_n01_bibl"/>31 Jan 1931 Frank Davis</l>
+               <l n="02">Familiar &amp; unfamiliar woods in old furniture<bibl corresp="#nb07_02_02_0060_verso_n01_bibl"/><note>Davis, Frank. “A Page for Collectors: Familiar and Unfamiliar Woods in Old Furniture.” Illustrated London News (31 January 1931): 188.</note></l>
                <l n="03">____________________________</l>
                <l n="04">furniture fashions moved from oak</l>
                <l n="05">to walnut fr walnut to mahog.</l>
@@ -2101,9 +2101,9 @@
             </lg>
             <pb facs="nb07_02_02_0061_recto.jpg"/>
             <lg>
-               <l n="01"><bibl rend="begin"/>  The Principles of Film Form</l>
+               <l n="01"><bibl corresp="nb07_02_02_0061_recto_n01_bibl"/>  The Principles of Film Form</l>
                <l n="02">Sir Eisenstein<note>Eisenstein, Sergei Mikhailovich (Serge)[1898-1948]. Soviet film director and film theorist, a pioneer in the theory and practice of montage.</note> trans. by Ivor Montagu<note>Montagu, Ivor Goldsmid Samuel [1904-1984]. English filmmaker, screenwriter, producer, film critic, writer, table tennis player, and Communist activist in the 1930s.</note>                    </l>
-               <l n="03">Close Up Sept. 1931 Vol VIII No 3<bibl rend="end"/><note>Eisenstein, S. M. “Principles of Film Form.,” trans. Ivor Montagu, Close Up 8.3 (September 1931): 167-181.</note></l>
+               <l n="03">Close Up Sept. 1931 Vol VIII No 3<bibl corresp="#nb07_02_02_0061_recto_n01_bibl"/><note>Eisenstein, S. M. “Principles of Film Form.,” trans. Ivor Montagu, Close Up 8.3 (September 1931): 167-181.</note></l>
                <l n="04"> Translation made at Beverly Hills.</l>
                <l n="05">Hollywood 2nd Nov. 1930</l>
                <l n="06">see The Cinematic Principle &amp; Japanese</l>
@@ -2298,8 +2298,8 @@
                <l n="20"><hi rend="pencil"><note>“News from Czechoslovakia.” Close Up 8.3 (September 1931): 239.</note>The society Sonar film has</hi></l>
                <l n="21"><hi rend="pencil">produced Steel—the material</hi></l>
                <l n="22"><hi rend="pencil">of the future.</hi></l>
-               <l n="23"><hi rend="pencil"><bibl rend="begin"/>Star Gazing By June Head</hi></l>
-               <l n="24"><hi rend="pencil">Peter Davies. 6s 173 pages<bibl rend="end"/><note>M., K. (Kenneth Macpherson). Rev. of Star Gazing, by June Head. Close Up 8.3 (September 1931): 243-244.</note></hi></l>
+               <l n="23"><hi rend="pencil"><bibl corresp="nb07_02_02_0065_recto_n23_bibl"/>Star Gazing By June Head</hi></l>
+               <l n="24"><hi rend="pencil">Peter Davies. 6s 173 pages<bibl corresp="#nb07_02_02_0065_recto_n23_bibl"/><note>M., K. (Kenneth Macpherson). Rev. of Star Gazing, by June Head. Close Up 8.3 (September 1931): 243-244.</note></hi></l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0066_text">
@@ -2314,12 +2314,12 @@
                <l n="07">Married Couples on <unclear>u<gap extent="2"/>gs</unclear></l>
                <l n="08">Flirting Monkeys &amp; Fighting</l>
                <l n="09">Cats.</l>
-               <l n="10"><bibl rend="begin"/> Little Known England.</l>
+               <l n="10"><bibl corresp="nb07_02_02_0066_verso_n10_bibl"/> Little Known England.</l>
                <l n="11">Harold Donald Eberlein</l>
                <l n="12">BT. Batsford Ltd., 94 High Holborn</l>
                <l n="13">Joint author: The English Inn</l>
                <l n="14">Past &amp; Present, &amp; The Practical</l>
-               <l n="15">Book of Period Furniture.<bibl rend="end"/><note>Mortimer Leland, quoted in Eberlein, Harold Donaldson. Little Known England (B. T. Batsford, Ltd, 1930).</note></l>
+               <l n="15">Book of Period Furniture.<bibl corresp="#nb07_02_02_0066_verso_n10_bibl"/><note>Mortimer Leland, quoted in Eberlein, Harold Donaldson. Little Known England (B. T. Batsford, Ltd, 1930).</note></l>
                <l n="16"><add>Leland</add></l>
                <l n="17">Cleobury: Its lord was once</l>
                <l n="18">Q. Elizabeth’s “sweet Robin” Robt</l>
@@ -2372,12 +2372,12 @@
                <l n="11">that they could neither toll nor</l>
                <l n="12">ringe.”;<note>MM tells this story in “Walking-Sticks, Paperweights, and Watermarks,” first published in Poetry 49 (November 1936). She cites the source in her notes to the poem.</note></l>
                <l n="13"> </l>
-               <l n="14"><bibl rend="begin"/>Essays &amp; addresses</l>
+               <l n="14"><bibl corresp="nb07_02_02_0067_verso_n14_bibl"/>Essays &amp; addresses</l>
                <l n="15">By the Right Hon. Arthur James</l>
                <l n="16">Balfour MP. LLD. FRS.</l>
                <l n="17">Edinburgh: David Douglas 1893</l>
                <l n="18"> </l>
-               <l n="19">The Pleasures of Reading.<bibl rend="end"/><note>“The Pleasures of Reading” is the first chapter in Arthur James Balfour, Essays and Addresses (Edinburgh: David Douglas, 1893).</note></l>
+               <l n="19">The Pleasures of Reading.<bibl corresp="#nb07_02_02_0067_verso_n14_bibl"/><note>“The Pleasures of Reading” is the first chapter in Arthur James Balfour, Essays and Addresses (Edinburgh: David Douglas, 1893).</note></l>
                <l n="20">p. 4 Nor do I address myself</l>
                <l n="21">to the professed student, to the</l>
                <l n="22">  fortunate individual w whom</l>
@@ -2419,10 +2419,10 @@
          <div type="image" xml:id="nb07_02_02_0068_text">
             <pb facs="nb07_02_02_0068_verso.jpg"/>
             <lg>
-               <l n="01">    <bibl rend="begin"/>11 July 1931</l>
+               <l n="01">    <bibl corresp="nb07_02_02_0068_verso_n01_bibl"/>11 July 1931</l>
                <l n="02">    Ill. London News</l>
                <l n="03">A Page for Collectors: <hi rend="underline">European</hi> Lacquer</l>
-               <l n="04">          By Frank Davis.<bibl rend="end"/><note>Davis, Frank. “A Page for Collectors: European Lacquer.” Illustrated London News (11 July 1931): 76.</note></l>
+               <l n="04">          By Frank Davis.<bibl corresp="#nb07_02_02_0068_verso_n01_bibl"/><note>Davis, Frank. “A Page for Collectors: European Lacquer.” Illustrated London News (11 July 1931): 76.</note></l>
                <l n="05">. . . whereas the oriental material is</l>
                <l n="06">made from the sap of a tree indigenous</l>
                <l n="07">to China, the European process,</l>
@@ -2465,9 +2465,9 @@
                <l n="17">class taste of the period. (produced</l>
                <l n="18">wholesale at Birmingham.)</l>
                <l n="19"> </l>
-               <l n="20">    <bibl rend="begin"/>8 Aug 1931 Ill. London News</l>
+               <l n="20">    <bibl corresp="nb07_02_02_0068_recto_n20_bibl"/>8 Aug 1931 Ill. London News</l>
                <l n="21">CEB. 12 century cotes for</l>
-               <l n="22"> Hawks<bibl rend="end"/><note>B., C. E. “Books of the Day.” Illustrated London News (8 Aug 1931): 228. Includes two photos of 12th-century cotes for hawks at Orbiston House.</note>: cf(<hi rend="underline">Orbiston  House</hi> asso’d w.</l>
+               <l n="22"> Hawks<bibl corresp="#nb07_02_02_0068_recto_n20_bibl"/><note>B., C. E. “Books of the Day.” Illustrated London News (8 Aug 1931): 228. Includes two photos of 12th-century cotes for hawks at Orbiston House.</note>: cf(<hi rend="underline">Orbiston  House</hi> asso’d w.</l>
                <l n="23"><add>Scotland</add></l>
                <l n="24">which replaced the 12 c orbiston</l>
                <l n="25">castle <del>wos</del> (<hi rend="underline">Wellington</hi> Sir W Scott</l>
@@ -2481,8 +2481,8 @@
                <l n="v01"><!--<desc>span lines 23-01, left margin</desc>-->      model <del>r</del> remains of original in Museum of the Arsenal of Venice</l>
             </lg>
             <lg>
-               <l n="01">    <bibl rend="begin"/>8 Aug 1931 L. I. News</l>
-               <l n="02"> A model of a Bucentaur<bibl rend="end"/><note>“A Model of a ‘Bucentaur’ in Which Venice Wedded the Sea.” Illustrated London News (8 Aug 1931): 231.</note></l>
+               <l n="01">    <bibl corresp="nb07_02_02_0069_verso_n01_bibl"/>8 Aug 1931 L. I. News</l>
+               <l n="02"> A model of a Bucentaur<bibl corresp="#nb07_02_02_0069_verso_n01_bibl"/><note>“A Model of a ‘Bucentaur’ in Which Venice Wedded the Sea.” Illustrated London News (8 Aug 1931): 231.</note></l>
                <l n="03">in which Venice wedded the sea.</l>
                <l n="04">The state ship of the Doges of Venice</l>
                <l n="05">The first built in 1391 &amp; fr that</l>
@@ -2514,9 +2514,9 @@
                     83 in A History of Fishes, by J. R. Norman (1931); on the fish between the moray
                     and the butterfly fish, a line points to end of tail.</desc>-->
             <lg>
-               <l n="01">  <bibl rend="begin"/>WP Pycraft Ill. L. News 8 Aug 1931</l>
+               <l n="01">  <bibl corresp="nb07_02_02_0069_recto_n01_bibl"/>WP Pycraft Ill. L. News 8 Aug 1931</l>
                <l n="02"> reviewing J R Norman Ernest Benn</l>
-               <l n="03"><hi rend="underline">The History of Fishes.</hi><bibl rend="end"/><note>Pycraft, W. P., FZS. Rev. of J. R. Norman, A History of Fishes (Ernest Benn Limited, London: Bouverie House, 1931) Illustrated London News (8 Aug 1931): 216.</note></l>
+               <l n="03"><hi rend="underline">The History of Fishes.</hi><bibl corresp="#nb07_02_02_0069_recto_n01_bibl"/><note>Pycraft, W. P., FZS. Rev. of J. R. Norman, A History of Fishes (Ernest Benn Limited, London: Bouverie House, 1931) Illustrated London News (8 Aug 1931): 216.</note></l>
                <l n="04">      Muraena or Moray <hi rend="pencil">Moray</hi></l>
                <l n="05">      gymnothorax Petelli</l>
                <l n="06"/>
@@ -2543,14 +2543,14 @@
          <div type="image" xml:id="nb07_02_02_0070_text">
             <pb facs="nb07_02_02_0070_verso.jpg"/>
             <lg>
-               <l n="01">  <bibl rend="begin"/>Aug 15 1931 Ill L. News</l>
+               <l n="01">  <bibl corresp="nb07_02_02_0070_verso_n01_bibl"/>Aug 15 1931 Ill L. News</l>
                <l n="02">Blow pipes, spears, Bows &amp;</l>
                <l n="03">Arrows &amp; ‘Clubs.’ weapons of</l>
                <l n="04">the aboriginals of Guiana</l>
-               <l n="05">By K H. Cregan<note>K. H. Cregan was an administrator in the colonial government of British Guiana (now Guyana).</note><bibl rend="end"/></l>
+               <l n="05">By K H. Cregan<note>K. H. Cregan was an administrator in the colonial government of British Guiana (now Guyana).</note><bibl corresp="#nb07_02_02_0070_verso_n01_bibl"/></l>
                <l n="06"> </l>
-               <l n="07"><bibl rend="begin"/>22 Aug 1931 I L. N.</l>
-               <l n="08">Chinese phoenix headdress ornaments<bibl rend="end"/><note>“Gems from the Collector’s World: Master Craftsmanship from China, Italy, France, and Germany.” Illustrated London News (22 Aug 1931): 303.</note></l>
+               <l n="07"><bibl corresp="nb07_02_02_0070_verso_n07_bibl"/>22 Aug 1931 I L. N.</l>
+               <l n="08">Chinese phoenix headdress ornaments<bibl corresp="#nb07_02_02_0070_verso_n07_bibl"/><note>“Gems from the Collector’s World: Master Craftsmanship from China, Italy, France, and Germany.” Illustrated London News (22 Aug 1931): 303.</note></l>
                <l n="09">the phoenix w pearl tail.</l>
                <l n="10">See Leslie Richardson in Bull.</l>
                <l n="11">Metropolitan Mus. of Art.</l>
@@ -2575,8 +2575,8 @@
                <l n="03">peacocks, swans, cranes, beavers,</l>
                <l n="04">{mermaid and apple tree} by the stream</l>
                <l n="05"><add>By Philip Lauraine</add></l>
-               <l n="06">   <bibl rend="begin"/>Ill London News 3 Oct 31</l>
-               <l n="07">The snake-charming Sisters of Holy Popa<bibl rend="end"/><note>Lauraine, Philip. “The Snake-Charming Sisters of Holy Popa.” Illustrated London News (3 October 1931): 528-29.</note></l>
+               <l n="06">   <bibl corresp="nb07_02_02_0070_recto_n06_bibl"/>Ill London News 3 Oct 31</l>
+               <l n="07">The snake-charming Sisters of Holy Popa<bibl corresp="#nb07_02_02_0070_recto_n06_bibl"/><note>Lauraine, Philip. “The Snake-Charming Sisters of Holy Popa.” Illustrated London News (3 October 1931): 528-29.</note></l>
                <l n="08">women as hereditary handlers of cobras</l>
                <l n="09">  Snakes play a very important</l>
                <l n="10">part in the life of the average native</l>
@@ -2721,13 +2721,13 @@
                <l n="08">cobras, &amp; are cannibals, since</l>
                <l n="09">they feed largely on other snakes.</l>
                <l n="10"/>
-               <l n="11">      <bibl rend="begin"/>NY Herald Tribune</l>
+               <l n="11">      <bibl corresp="nb07_02_02_0074_verso_n11_bibl"/>NY Herald Tribune</l>
                <l n="12">          8 Nov 1931</l>
                <l n="13">Life was worth <del>living</del> Living</l>
                <l n="14">By W. Graham Robertson<note>Robertson, Walter Graham [1866-1948]. British painter, illustrator, and author.</note> $5</l>
                <l n="15">Harper &amp; Bros<note>Eaton, Walter Prichard. “Life and People in the ’80s and ’90s” Rev. of Life Was Worth Living by W. Graham Robertson (Harper &amp; Bros, 1931). New York Herald Tribune. 8 Nov. 1931: J7.</note>
                     </l>
-               <l n="16">Reviewed by Walter P. Eaton.<note>Eaton, Walter P. [1878-1957]. American theater critic and author.</note><bibl rend="end"/></l>
+               <l n="16">Reviewed by Walter P. Eaton.<note>Eaton, Walter P. [1878-1957]. American theater critic and author.</note><bibl corresp="#nb07_02_02_0074_verso_n11_bibl"/></l>
                <l n="17">Frederick Sandys, when</l>
                <l n="18">several friends, gathered in</l>
                <l n="19">Rossettis house, planned to</l>
@@ -2743,17 +2743,17 @@
                <l n="02"><unclear>?fs</unclear>got that money to go away</l>
                <l n="03"><unclear>with</unclear> I could stay here.”</l>
                <l n="04"/>
-               <l n="05">  <bibl rend="begin"/>Spectator 27 June 1931</l>
+               <l n="05">  <bibl corresp="nb07_02_02_0074_recto_n05_bibl"/>Spectator 27 June 1931</l>
                <l n="06">A Hospital for Animals The Amer.</l>
-               <l n="07">Fondouk<note>American Fondouk is a full-service equine hospital offering free veterinary care to poor owners of working animals in Morocco, since 1927. It also serves as an educational institution by providing information to local people about animal care.</note> by A.<bibl rend="end"/><note>“A Hospital for Animals.” The Spectactor (27 June 1931): 11. <!--Editor's note: this note may not be complete, but title of Spectator essay doesn’t refer to Fondouk or “A.”--></note>“‘The Beasts</l>
+               <l n="07">Fondouk<note>American Fondouk is a full-service equine hospital offering free veterinary care to poor owners of working animals in Morocco, since 1927. It also serves as an educational institution by providing information to local people about animal care.</note> by A.<bibl corresp="#nb07_02_02_0074_recto_n05_bibl"/><note>“A Hospital for Animals.” The Spectactor (27 June 1931): 11. <!--Editor's note: this note may not be complete, but title of Spectator essay doesn’t refer to Fondouk or “A.”--></note>“‘The Beasts</l>
                <l n="08">of the field &amp; the birds of the air, are</l>
                <l n="09">all a People like unto you, and unto</l>
                <l n="10">Allah shall they return.’ (The Karan.)”</l>
                <l n="11">                       <add>A.</add></l>
                <l n="12">       700 known Rembrandts—</l>
                <l n="13">120 owned in this country</l>
-               <l n="14">   <bibl rend="begin"/> N.Y. Sun 12 Dec 1931</l>
-               <l n="15">H. McBride.<note>Henry McBride. New York Sun (12 December 1931). Moore quotes from this passage in “The Student,” first published Poetry 40 (June 1932).</note><bibl rend="end"/>Dr Valentiner</l>
+               <l n="14">   <bibl corresp="nb07_02_02_0074_recto_n14_bibl"/> N.Y. Sun 12 Dec 1931</l>
+               <l n="15">H. McBride.<note>Henry McBride. New York Sun (12 December 1931). Moore quotes from this passage in “The Student,” first published Poetry 40 (June 1932).</note><bibl corresp="#nb07_02_02_0074_recto_n14_bibl"/>Dr Valentiner</l>
                <l n="16">in private life is a man with great</l>
                <l n="17">charm of manner &amp; has the typical</l>
                <l n="18">reserve of the student. He does not</l>
@@ -2768,9 +2768,9 @@
          <div type="image" xml:id="nb07_02_02_0075_text">
             <pb facs="nb07_02_02_0075_verso.jpg"/>
             <lg>
-               <l n="01">  <bibl rend="begin"/>T. Mann <hi rend="underline">The Magic Mount</hi></l>
+               <l n="01">  <bibl corresp="nb07_02_02_0075_verso_n01_bibl"/>T. Mann <hi rend="underline">The Magic Mount</hi></l>
                <l n="02"><hi rend="underline">ain</hi> Knopf</l>
-               <l n="03">Vol II 756<bibl rend="end"/><note>Mann, Thomas. The Magic Mountain, vol. 2. New York: Knopf, 1927.</note>—</l>
+               <l n="03">Vol II 756<bibl corresp="#nb07_02_02_0075_verso_n01_bibl"/><note>Mann, Thomas. The Magic Mountain, vol. 2. New York: Knopf, 1927.</note>—</l>
                <l n="04">In the most raging as in the most</l>
                <l n="05">reverent passion, there must be <hi rend="underline">caritas</hi>,</l>
                <l n="06">The meaning of the word varies? In</l>
@@ -2779,9 +2779,9 @@
                <l n="09">human; it would be a regrettable lack</l>
                <l n="10">of “depth” to trouble over the fact.</l>
                <l n="11">         Feb 25 32</l>
-               <l n="12"><bibl rend="begin"/>Ernest Maltravers: B. Lytton</l>
+               <l n="12"><bibl corresp="nb07_02_02_0075_verso_n12_bibl"/>Ernest Maltravers: B. Lytton</l>
                <l n="13"><del>p. 42</del> P. F. Collier &amp; Son. Pub. .</l>
-               <l n="14">     Mc M I<bibl rend="end"/><note>Lytton, Edward Bulwer. The Works of Edward Bulwer Lytton, vol. 17. New York: P.F. Collier &amp; Sons, 1901.</note></l>
+               <l n="14">     Mc M I<bibl corresp="#nb07_02_02_0075_verso_n12_bibl"/><note>Lytton, Edward Bulwer. The Works of Edward Bulwer Lytton, vol. 17. New York: P.F. Collier &amp; Sons, 1901.</note></l>
                <l n="15">p. 42. Ch. V. a vulgar boy requires</l>
                <l n="16">Heaven knows what assiduity to</l>
                <l n="17">make three steps—I do not say</l>
@@ -2817,13 +2817,13 @@
                <l n="20">carnations fr his or my garden, a</l>
                <l n="21">duck’s egg or so, once one of my own</l>
                <l n="22">books that had pictures in it.</l>
-               <l n="23">   <bibl rend="begin"/>Spectator 6 June 1931</l>
+               <l n="23">   <bibl corresp="nb07_02_02_0075_recto_n23_bibl"/>Spectator 6 June 1931</l>
                <l n="24">(March 1932)</l>
                <l n="25"> noted</l>
                <l n="26">          India: Two points of View</l>
                <l n="27"> review of Volume Two by Katherine</l>
                <l n="28"> Mayo. Cape 7/6 rev’d by Edward</l>
-               <l n="29"> Thompson.<bibl rend="end"/><note>Thompson, Edward. “India: Two Points of View.” Spectator (6 June 1931): 901. Rev. of Katherine Mayo, Mother India, Volume 2. London: Jonathan Cape, 1931. Mother India was a polemical attack against Indian self-rule.</note></l>
+               <l n="29"> Thompson.<bibl corresp="#nb07_02_02_0075_recto_n23_bibl"/><note>Thompson, Edward. “India: Two Points of View.” Spectator (6 June 1931): 901. Rev. of Katherine Mayo, Mother India, Volume 2. London: Jonathan Cape, 1931. Mother India was a polemical attack against Indian self-rule.</note></l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0076_text">
@@ -2849,10 +2849,10 @@
                <l n="17">and if ill, I shall be cursed—</l>
                <l n="18">whether any bless me or not</l>
                <l n="19"/>
-               <l n="20">28 April 1932 <bibl rend="begin"/>E.B.</l>
+               <l n="20">28 April 1932 <bibl corresp="nb07_02_02_0076_verso_n20_bibl"/>E.B.</l>
                <l n="21">    Wuthering Heights 1900</l>
                <l n="22">Haworth edition. Harper &amp; Bros.</l>
-               <l n="23">p.6<bibl rend="end"/><note>Bronte, Emily. Wuthering Heights. New York: Harper &amp; Brothers, 1900. First published 1847.</note></l>
+               <l n="23">p.6<bibl corresp="#nb07_02_02_0076_verso_n20_bibl"/><note>Bronte, Emily. Wuthering Heights. New York: Harper &amp; Brothers, 1900. First published 1847.</note></l>
             </lg>
             <pb facs="nb07_02_02_0076_recto.jpg"/>
             <lg type="sideways">
@@ -2867,10 +2867,10 @@
                <l n="05">watch the operation so intently that</l>
                <l n="06">puss’s neglect of one ear would put</l>
                <l n="07">you seriously out of temper?</l>
-               <l n="08">   <bibl rend="begin"/>The Life of Charlotte Brontë</l>
+               <l n="08">   <bibl corresp="nb07_02_02_0076_recto_n08_bibl"/>The Life of Charlotte Brontë</l>
                <l n="09">  By Mrs. Gaskell intro &amp; notes</l>
                <l n="10">   by Clement K. Shorter. Harper &amp; Bros</l>
-               <l n="11">1900.          Haworth Edition.<bibl rend="end"/><note>Gaskell, Elizabeth. The Life of Charlotte Brontë. New York: Harper &amp; Brothers, 1900. First published 1857.</note></l>
+               <l n="11">1900.          Haworth Edition.<bibl corresp="#nb07_02_02_0076_recto_n08_bibl"/><note>Gaskell, Elizabeth. The Life of Charlotte Brontë. New York: Harper &amp; Brothers, 1900. First published 1857.</note></l>
                <l n="12">p. 86.</l>
                <l n="13">      Tales of the Islanders.</l>
                <l n="14">                   June the 31st, 1829</l>
@@ -2913,17 +2913,17 @@
                <l n="18">the kitchen, or the buzzing of a fly</l>
                <l n="19">in the parlour, all over the house.</l>
                <l n="20"/>
-               <l n="21"><bibl rend="begin"/>C Bronte<note>Vertical line is Charlotte Brontë on her sister, Emily. For modern reference, see: Charlotte Brontë’s “Biographical Notice of Ellis and Acton Bell” in Emily Brontë. Wuthering Heights, ed. Ian Jack. Oxford: Oxford University Press, 2009: 306.</note> 1816-1916</l>
+               <l n="21"><bibl corresp="nb07_02_02_0077_verso_n21_bibl"/>C Bronte<note>Vertical line is Charlotte Brontë on her sister, Emily. For modern reference, see: Charlotte Brontë’s “Biographical Notice of Ellis and Acton Bell” in Emily Brontë. Wuthering Heights, ed. Ian Jack. Oxford: Oxford University Press, 2009: 306.</note> 1816-1916</l>
                <l n="22">Centenary memorial edited by</l>
-               <l n="23">Butler Wood. Fisher Unwin<bibl rend="end"/><note>Wood, Butler, ed. Charlotte Brontë 1816-1916. A Centenary Memorial. London: T. Fisher Unwin, 1917.</note></l>
+               <l n="23">Butler Wood. Fisher Unwin<bibl corresp="#nb07_02_02_0077_verso_n21_bibl"/><note>Wood, Butler, ed. Charlotte Brontë 1816-1916. A Centenary Memorial. London: T. Fisher Unwin, 1917.</note></l>
             </lg>
             <pb facs="nb07_02_02_0077_recto.jpg"/>
             <lg type="sideways">
                <l n="v01"><!--<desc>span lines 22-18, left margin</desc>-->  kitchen sink.</l>
             </lg>
             <lg>
-               <l n="01"> p. 306 – <bibl rend="begin"/>The B’s as artists &amp;</l>
-               <l n="02">Prophets by J. Keighly Snowden<bibl rend="end"/><note>Snowden, J.K. “The Brontës As Artists and Prophets,” in Butler Wood, ed., Charlotte Brontë 1816-1916 (see earlier note): 285-311.</note></l>
+               <l n="01"> p. 306 – <bibl corresp="nb07_02_02_0077_recto_n01_bibl"/>The B’s as artists &amp;</l>
+               <l n="02">Prophets by J. Keighly Snowden<bibl corresp="#nb07_02_02_0077_recto_n01_bibl"/><note>Snowden, J.K. “The Brontës As Artists and Prophets,” in Butler Wood, ed., Charlotte Brontë 1816-1916 (see earlier note): 285-311.</note></l>
                <l n="03"><add>C.B.</add></l>
                <l n="04">One likes to think that she did know</l>
                <l n="05">happiness before she died. But it</l>
@@ -2931,10 +2931,10 @@
                <l n="07">consoling, it had not the ecstasy of</l>
                <l n="08">her imagination.</l>
                <l n="09"/>
-               <l n="10">      <bibl rend="begin"/><hi rend="underline">Pierre Roy</hi><note>Roy, Pierre [1880-1950]. French painter, illustrator, and designer with Surrealist tendencies. Work premiered in New York by Brummer Gallery, the exhibition Lloyd Goodrich reviews.</note></l>
+               <l n="10">      <bibl corresp="nb07_02_02_0077_recto_n10_bibl"/><hi rend="underline">Pierre Roy</hi><note>Roy, Pierre [1880-1950]. French painter, illustrator, and designer with Surrealist tendencies. Work premiered in New York by Brummer Gallery, the exhibition Lloyd Goodrich reviews.</note></l>
                <l n="11"/>
                <l n="12">Lloyd Goodrich<note>Goodrich, Lloyd [1897-1987]. American art historian, associated with the Whitney Museum of American Art in New York City.</note> The Arts Dec 1930</l>
-               <l n="13">Exhibitions:<bibl rend="end"/><note>Goodrich, Lloyd. “Exhibitions.” The Arts 17.3 (December 1930):173-189.</note> more genuine</l>
+               <l n="13">Exhibitions:<bibl corresp="#nb07_02_02_0077_recto_n10_bibl"/><note>Goodrich, Lloyd. “Exhibitions.” The Arts 17.3 (December 1930):173-189.</note> more genuine</l>
                <l n="14">exponent of metaphysical painting</l>
                <l n="15">than Chirico<note>de Chirico, Giorgio [1888-1978]. Italian artist and writer, who had profound influence on the surrealists.</note>. . . . A gold watch</l>
                <l n="16">hanging on a gold chain, in which</l>
@@ -2952,8 +2952,8 @@
             <pb facs="nb07_02_02_0078_verso.jpg"/>
             <!--<desc>On line 002 MM circles May. 1</desc>-->
             <lg>
-               <l n="01">   <bibl rend="begin"/> Lit. Digest 23 Ap 1932</l>
-               <l n="02">May. 1 Golden Rule—Lex: E<add>asy</add>. chair<bibl rend="end"/><note>“The Lexicographer’s Easy Chair.” Literary Digest (23 April 1932): 46.</note></l>
+               <l n="01">   <bibl corresp="nb07_02_02_0078_verso_n01_bibl"/> Lit. Digest 23 Ap 1932</l>
+               <l n="02">May. 1 Golden Rule—Lex: E<add>asy</add>. chair<bibl corresp="#nb07_02_02_0078_verso_n01_bibl"/><note>“The Lexicographer’s Easy Chair.” Literary Digest (23 April 1932): 46.</note></l>
                <l n="03">Matthew vii 12 First referred</l>
                <l n="04">to by Robt. Godfrey in his Physics</l>
                <l n="05"> 1674 as <hi rend="underline">The Golden Law</hi></l>
@@ -2967,14 +2967,14 @@
                <l n="13">edition, he explained the rule</l>
                <l n="14">of Proportion whiche for his</l>
                <l n="15">excellencie is called the</l>
-               <l n="16"><hi rend="underline">Golden Rule</hi>. <bibl rend="begin"/>Fea<del>t</del><add>tl</add>y<note>Daniel Featley [1582-1645]. English Calvinist theologian.</note> in</l>
-               <l n="17">Clavis Mystica<bibl rend="end"/><note>Featley, Daniel. Clavis mystica a key opening divers difficult and mysterious texts of Holy Scripture; handled in seventy sermons, preached at solemn and most celebrious assemblies, upon special occasions, in England and France. London: Printed by R[obert] Y[oung] for Nicolas Bourne, at the south entrance of the royall Exchange, 1636.</note>—ch 21 p. 279</l>
+               <l n="16"><hi rend="underline">Golden Rule</hi>. <bibl corresp="nb07_02_02_0078_verso_n16_bibl"/>Fea<del>t</del><add>tl</add>y<note>Daniel Featley [1582-1645]. English Calvinist theologian.</note> in</l>
+               <l n="17">Clavis Mystica<bibl corresp="#nb07_02_02_0078_verso_n16_bibl"/><note>Featley, Daniel. Clavis mystica a key opening divers difficult and mysterious texts of Holy Scripture; handled in seventy sermons, preached at solemn and most celebrious assemblies, upon special occasions, in England and France. London: Printed by R[obert] Y[oung] for Nicolas Bourne, at the south entrance of the royall Exchange, 1636.</note>—ch 21 p. 279</l>
                <l n="18">wrote: The rule of three or</l>
                <l n="19"><hi rend="underline">golden rule</hi>, as it is called in</l>
                <l n="20">sacred algebray.”</l>
                <l n="21">          <del>June</del> May 31 1932</l>
-               <l n="22"><bibl rend="begin"/>Wessex edition Hardy (Harper)</l>
-               <l n="23">Life’s Little Ironies<bibl rend="end"/><note>Hardy, Thomas. Life’s Little Ironies. New York: Harper &amp; Brothers, 1894.</note></l>
+               <l n="22"><bibl corresp="nb07_02_02_0078_verso_n22_bibl"/>Wessex edition Hardy (Harper)</l>
+               <l n="23">Life’s Little Ironies<bibl corresp="#nb07_02_02_0078_verso_n22_bibl"/><note>Hardy, Thomas. Life’s Little Ironies. New York: Harper &amp; Brothers, 1894.</note></l>
             </lg>
             <pb facs="nb07_02_02_0078_recto.jpg"/>
             <lg type="sideways">
@@ -3083,26 +3083,26 @@
                <l n="v02">                         Dated <del>dated</del> 1817</l>
             </lg>
             <lg>
-               <l n="01">       <bibl rend="begin"/>21 Nov. 31 I.L. News</l>
+               <l n="01">       <bibl corresp="nb07_02_02_0080_verso_n01_bibl"/>21 Nov. 31 I.L. News</l>
                <l n="02">The Etiquette of a cup of Tea: The Tea</l>
-               <l n="03">ceremony of Japan.<bibl rend="end"/><note>“The Etiquette of a Cup of Tea.” Illustrated London News (21 November 1931): 822-823.</note></l>
+               <l n="03">ceremony of Japan.<bibl corresp="#nb07_02_02_0080_verso_n01_bibl"/><note>“The Etiquette of a Cup of Tea.” Illustrated London News (21 November 1931): 822-823.</note></l>
                <l n="04">Only a true host knows how to</l>
                <l n="05">entertain his guests with a twig of</l>
                <l n="06">camellia-tree with one bud half-open</l>
                <l n="07">&amp; a few leaves in a small vase severely</l>
                <l n="08"> plain.</l>
-               <l n="09">       <bibl rend="begin"/>Nov 23, 31</l>
+               <l n="09">       <bibl corresp="nb07_02_02_0080_verso_n09_bibl"/>Nov 23, 31</l>
                <l n="10">         Christmas number</l>
                <l n="11">The Etiquette of a Cup of Tea</l>
-               <l n="12">By Yasunosuke Fukukita<note>Yasunosuke Fukukita [1874-1944]. Author of Tea Cult of Japan: An Aesthetic Pasttime. Tokyo: Board of Tourist Industry - Japanese Government Railways, 1934.</note><bibl rend="end"/></l>
+               <l n="12">By Yasunosuke Fukukita<note>Yasunosuke Fukukita [1874-1944]. Author of Tea Cult of Japan: An Aesthetic Pasttime. Tokyo: Board of Tourist Industry - Japanese Government Railways, 1934.</note><bibl corresp="#nb07_02_02_0080_verso_n09_bibl"/></l>
                <l n="13">(bad article)</l>
                <l n="14">  p. 28 Flowers a little {bit} early in</l>
                <l n="15"> the season may be appropriate, but</l>
                <l n="16">anything grown in a hot-house is to</l>
                <l n="17"> be avoided.</l>
-               <l n="18">      <bibl rend="begin"/>21 Nov 31 I.L.N.</l>
+               <l n="18">      <bibl corresp="nb07_02_02_0080_verso_n18_bibl"/>21 Nov 31 I.L.N.</l>
                <l n="19">New Light on Sporting Painters</l>
-               <l n="20">                  Frank Davis<bibl rend="end"/><note>Davis, Frank. “New Light on Sporting Painters.” Illustrated London News (21 November 1931): 828.</note></l>
+               <l n="20">                  Frank Davis<bibl corresp="#nb07_02_02_0080_verso_n18_bibl"/><note>Davis, Frank. “New Light on Sporting Painters.” Illustrated London News (21 November 1931): 828.</note></l>
                <l n="21">An epic figure of a country gentleman</l>
                <l n="22">John Levett<note>Levett, John [1721-1799]. English landowner and investor, and Tory politician.</note> hunting in the park at</l>
             </lg>
@@ -3120,8 +3120,8 @@
                     bowl-like shape with a lid depictinga single geometric flower shape covering the
                     whole of the lid, on the bottom quarter of the page.</desc>-->
             <lg>
-               <l n="01"><note>Vertical lines on this page rendered horizontally for ease of reading; see image for orientation and layout.</note>             <bibl rend="begin"/>21 Nov. 31</l>
-               <l n="02">                I.L.N.<bibl rend="end"/><note>Schaeffer, F. A. C. “A New Chapter in Ancient History.” Illustrated London News (21 November 1931): 806-809.</note></l>
+               <l n="01"><note>Vertical lines on this page rendered horizontally for ease of reading; see image for orientation and layout.</note>             <bibl corresp="nb07_02_02_0080_recto_n01_bibl"/>21 Nov. 31</l>
+               <l n="02">                I.L.N.<bibl corresp="#nb07_02_02_0080_recto_n01_bibl"/><note>Schaeffer, F. A. C. “A New Chapter in Ancient History.” Illustrated London News (21 November 1931): 806-809.</note></l>
                <l n="03">Circular with a movable engraved lid—</l>
                <l n="04">others in the form of ducks with reverted heads</l>
                <l n="05">&amp; the lid formed of the wings pivoting on a knob<note>MM refers to a similar figure in “The Jerboa.”</note></l>
@@ -3143,12 +3143,12 @@
             <!--<desc> in line 09, MM makes ellipses vertical on the page after “follows:”; line 01,
                     she draws a diagonal line between June 3 and 1931, in left corner</desc>-->
             <lg>
-               <l n="01">June 3/<add>1931</add><bibl rend="begin"/> 21 Nov 1931 ILN.</l>
+               <l n="01">June 3/<add>1931</add><bibl corresp="nb07_02_02_0081_verso_n01_bibl"/> 21 Nov 1931 ILN.</l>
                <l n="02">New Light on Sporting painters. Being</l>
                <!--double check begin source tags-->
                <l n="03">an apprec. of A Book of Sporting Painters</l>
                <l n="04">by Walter Shaw Sparrow. By Frank</l>
-               <l n="05"><add>Aug 24 1724</add>               Davis<bibl rend="end"/><note>Davis, Frank. “New Light on Sporting Painters.” Rev. of A Book of Sporting Painters by Walter Shaw Sparrow. Illustrated London News (21 November 1931): 828.</note></l>
+               <l n="05"><add>Aug 24 1724</add>               Davis<bibl corresp="#nb07_02_02_0081_verso_n01_bibl"/><note>Davis, Frank. “New Light on Sporting Painters.” Rev. of A Book of Sporting Painters by Walter Shaw Sparrow. Illustrated London News (21 November 1931): 828.</note></l>
                <l n="06">(George Stubbs) Mr Sparrow</l>
                <l n="07">has discovered that the correct date is Aug 25</l>
                <l n="08">This epoch making contribution to history</l>
@@ -3187,8 +3187,8 @@
                <l n="06">&amp; a useful reminder of the way in which</l>
                <l n="07">various artists acted as publicity agents</l>
                <l n="08">to the activities of cattle-breeders.</l>
-               <l n="09"><bibl rend="begin"/>Ill London News 28 Nov 31</l>
-               <l n="10">Concerning Ribs WP Pycraft<bibl rend="end"/><note>Pycraft, W. P., FZS. “The World of Science: Concerning Ribs” Illustrated London News (28 November 1931): 846. MM takes notes toward “The Plumet Basilisk.”</note></l>
+               <l n="09"><bibl corresp="nb07_02_02_0082_recto_n09_bibl"/>Ill London News 28 Nov 31</l>
+               <l n="10">Concerning Ribs WP Pycraft<bibl corresp="#nb07_02_02_0082_recto_n09_bibl"/><note>Pycraft, W. P., FZS. “The World of Science: Concerning Ribs” Illustrated London News (28 November 1931): 846. MM takes notes toward “The Plumet Basilisk.”</note></l>
                <l n="11">    <add>Indo Malayan lizards</add></l>
                <l n="12">2. Draco. ribs project beyond<add>c</add> the body</l>
                <l n="13">&amp; stretch between them a fold of skin</l>
@@ -3233,9 +3233,9 @@
                <l n="17">J. Foot &amp; Son, 168 grt Portland</l>
                <l n="18">Street. West.</l>
                <l n="19"><bibl>5 Dec. 1931</bibl> The Spotted Aloe.</l>
-               <l n="20">(in) <bibl rend="begin"/>Tasks involved in preparing</l>
+               <l n="20">(in) <bibl corresp="nb07_02_02_0083_verso_n20_bibl"/>Tasks involved in preparing</l>
                <l n="21">exhibits such as the new gorillas</l>
-               <l n="22">group for the Nat. Hist. Museum.<bibl rend="end"/><note>“Tasks Involved in Preparing Exhibits Such As the New Gorilla Group for the Natural History Museum.” Illustrated London News (5 December 1931): 904-905.</note></l>
+               <l n="22">group for the Nat. Hist. Museum.<bibl corresp="#nb07_02_02_0083_verso_n20_bibl"/><note>“Tasks Involved in Preparing Exhibits Such As the New Gorilla Group for the Natural History Museum.” Illustrated London News (5 December 1931): 904-905.</note></l>
                <l n="23">Impalla in an acacia forest.</l>
                <l n="24">     {hind quarters even higher than</l>
                <l n="25">       the front}</l>
@@ -3291,9 +3291,9 @@
                <l n="07">                         clasped hands</l>
                <l n="08">                         above London</l>
                <l n="09">                             etc.<note>MM quotes the motto “By Peace Plenty By Wisdom Peace” in “Smooth Gnarled Crape Myrtle”; her note to this poem refers to “encircling two horns of plenty, one at either side of the caduceus, above clasped hands, on the title-page of the first edition of the Thomas Lodge Rosalynde—to which she refers on the previous page.</note></l>
-               <l n="10">       <bibl rend="begin"/>12 Dec 31</l>
+               <l n="10">       <bibl corresp="nb07_02_02_0084_verso_n10_bibl"/>12 Dec 31</l>
                <l n="11">   Photos &amp; Description by Mr. FO.</l>
-               <l n="12">                            Church<bibl rend="end"/><note>Church, F. O. “The African Tusker Can Be Tamed! A Congo Elephant Farm.” Illustrated London News (12 December 1931): 946.</note></l>
+               <l n="12">                            Church<bibl corresp="#nb07_02_02_0084_verso_n10_bibl"/><note>Church, F. O. “The African Tusker Can Be Tamed! A Congo Elephant Farm.” Illustrated London News (12 December 1931): 946.</note></l>
                <l n="13">Elephant farm at Wando,</l>
                <l n="14">or Api, in the Belgian Congo–</l>
                <l n="15">w a long stick<del>s</del> scratches the animal’s</l>
@@ -3314,9 +3314,9 @@
                <l n="01">    26 Dec Owl</l>
                <l n="02">The <hi rend="underline">Men</hi> of the Last Frontier: By <add>grey</add> owl</l>
                <l n="03">Country Life Ltd. 10<add>s</add> /6d.<note>Owl, Grey. The Men of the Last Frontier. London: Country Life Ltd., 1931.</note></l>
-               <l n="04">    <bibl rend="begin"/> 2 Jan 32. <add>A</add> Page for Collectors</l>
+               <l n="04">    <bibl corresp="nb07_02_02_0084_recto_n04_bibl"/> 2 Jan 32. <add>A</add> Page for Collectors</l>
                <l n="05">     Frank Davis.</l>
-               <l n="06">An English Cartographer—John Speed<bibl rend="end"/><note>Davis, Frank. “A Page for Collectors: An English Cartographer—John Speed.” Illustrated London News (2 Jan. 1932): 180.</note></l>
+               <l n="06">An English Cartographer—John Speed<bibl corresp="#nb07_02_02_0084_recto_n04_bibl"/><note>Davis, Frank. “A Page for Collectors: An English Cartographer—John Speed.” Illustrated London News (2 Jan. 1932): 180.</note></l>
                <l n="07">The Isle of Man. Described by</l>
                <l n="08">THO Durham Ano 1595</l>
                <l n="09"><del>Described by</del> Performed by John Speed</l>
@@ -3345,8 +3345,8 @@
                <l n="03">nor is his work so fine as that of the</l>
                <l n="04">Blau family and other 17th century</l>
                <l n="05">Dutchmen.</l>
-               <l n="06">      <bibl rend="begin"/>19 Dec 31   I. L. News</l>
-               <l n="07">  The World of Science. W P. Pycraft<bibl rend="end"/><note>Pycraft, W. P. “The World of Science.” Illustrated London News (19 Dec 1931): 996.</note></l>
+               <l n="06">      <bibl corresp="nb07_02_02_0085_verso_n06_bibl"/>19 Dec 31   I. L. News</l>
+               <l n="07">  The World of Science. W P. Pycraft<bibl corresp="#nb07_02_02_0085_verso_n06_bibl"/><note>Pycraft, W. P. “The World of Science.” Illustrated London News (19 Dec 1931): 996.</note></l>
                <l n="08">The Smithfield Cattle Show</l>
                <l n="09">The Herefords &amp; West Highland</l>
                <l n="10">kyloes represent the aristocracy</l>
@@ -3390,8 +3390,8 @@
                <l n="19"><foreign xml:lang="la">depressicornis</foreign>) Photo by D. Seth-Smith</l>
                <l n="20"><unclear><gap extent="2"/>tise</unclear> of Celebes</l>
                <l n="21"> ________________________________</l>
-               <l n="22">      <bibl rend="begin"/> Natnl Geographic</l>
-               <l n="23">           May 1918 <bibl rend="end"/></l>
+               <l n="22">      <bibl corresp="nb07_02_02_0085_recto_n22_bibl"/> Natnl Geographic</l>
+               <l n="23">           May 1918 <bibl corresp="#nb07_02_02_0085_recto_n22_bibl"/></l>
                <l n="24">           over</l>
             </lg>
          </div>
@@ -3399,13 +3399,13 @@
             <pb facs="nb07_02_02_0086_verso.jpg"/>
             <!--<desc>The O and W of Old World are double underlined on line 22</desc>-->
             <lg>
-               <l n="01"><bibl rend="begin"/><hi rend="underline">Natnl Geographic May</hi> 1918</l>
+               <l n="01"><bibl corresp="nb07_02_02_0086_verso_n01_bibl"/><hi rend="underline">Natnl Geographic May</hi> 1918</l>
                <l n="02">      May 1918</l>
                <l n="03">Smaller mammals of N. America</l>
                <l n="04">     By <hi rend="underline">Edward W. Nelson</hi></l>
                <l n="05">    is ills. in color fr printings by LA. Fuentes<note>Nelson, Edward W. “Smaller Mammals of North America.” National Geographic (May 1918).</note>
                     </l>
-               <l n="06">                                 Fuertes<note>Louis Aggasiz Fuertes [1874-1927]. American ornithologist, illustrator, and artist.</note><bibl rend="end"/></l>
+               <l n="06">                                 Fuertes<note>Louis Aggasiz Fuertes [1874-1927]. American ornithologist, illustrator, and artist.</note><bibl corresp="#nb07_02_02_0086_verso_n01_bibl"/></l>
                <l n="07">cf Larger N. A Mammals Nov. 1916.</l>
                <l n="08"/>
                <l n="09">neat storage chambers dug for the<note>MM takes notes toward “The Jerboa."</note></l>
@@ -3596,9 +3596,9 @@
                <l n="15">break into a clumsy gallop.</l>
                <l n="16">has been accused of robbing hens’</l>
                <l n="17">nests etc all of which needs confirmation</l>
-               <l n="18">        <bibl rend="begin"/> Ill. London News.</l>
+               <l n="18">        <bibl corresp="nb07_02_02_0089_verso_n18_bibl"/> Ill. London News.</l>
                <l n="19">  9 Jan 32 Fine Feathers. C.K.A</l>
-               <l n="20">Paradise quest. by Lee S. Crandall.<bibl rend="end"/><note>A., C. K. “Fine Feathers.” Illustrated London News (9 January 1932): n.p. Rev. of Crandall, Lee S. Paradise Quest: A Naturalist’s Experiences in New Guinea. Scribner’s Sons, 1931.</note></l>
+               <l n="20">Paradise quest. by Lee S. Crandall.<bibl corresp="#nb07_02_02_0089_verso_n18_bibl"/><note>A., C. K. “Fine Feathers.” Illustrated London News (9 January 1932): n.p. Rev. of Crandall, Lee S. Paradise Quest: A Naturalist’s Experiences in New Guinea. Scribner’s Sons, 1931.</note></l>
                <l n="21">A Prince Rudolph’s Blue <add>C Scribners’ Sons</add></l>
                <l n="22">Bird of Paradise. (the lesser superb)</l>
                <l n="23">Count Raggi’s six plumes “Magnificents”</l>
@@ -3629,9 +3629,9 @@
                <l n="17"/>
                <l n="18"/>
                <l n="19"/>
-               <l n="20"><bibl rend="begin"/>9 Jan 32</l>
+               <l n="20"><bibl corresp="nb07_02_02_0089_recto_n20_bibl"/>9 Jan 32</l>
                <l n="21">Sights to be seen on the London-Cape-town</l>
-               <l n="22">Air-mail route<bibl rend="end"/><note>“Sights To Be Seen on the London Cape-Town Air-Mail Route.” Illustrated London News (9 June 1932): 55.</note>—an unusually</l>
+               <l n="22">Air-mail route<bibl corresp="#nb07_02_02_0089_recto_n20_bibl"/><note>“Sights To Be Seen on the London Cape-Town Air-Mail Route.” Illustrated London News (9 June 1932): 55.</note>—an unusually</l>
                <l n="23">large herd of ostriches, numbering fourteen</l>
                <l n="24">or fifteen birds, going at full tilt</l>
                <l n="25">across the sand— (Are 17)</l>
@@ -3652,8 +3652,8 @@
                <l n="10">person to distinguish articles in a dark</l>
                <l n="11">room, &amp; to read small print at a</l>
                <l n="12">distance of 6 inches.</l>
-               <l n="13"><bibl rend="begin"/>30 Jan. 32 French Art Exhibition</l>
-               <l n="14">    at Burlington House<bibl rend="end"/><note>Exhibition of French Art 1200-1900, Burlington House, Royal Academy of the Arts. 30 January 1932 Illustrated London News features several photographs with lengthy captions from this exhibition.</note></l>
+               <l n="13"><bibl corresp="nb07_02_02_0090_verso_n13_bibl"/>30 Jan. 32 French Art Exhibition</l>
+               <l n="14">    at Burlington House<bibl corresp="#nb07_02_02_0090_verso_n13_bibl"/><note>Exhibition of French Art 1200-1900, Burlington House, Royal Academy of the Arts. 30 January 1932 Illustrated London News features several photographs with lengthy captions from this exhibition.</note></l>
                <l n="15">The Wilton Diptych reproduced by</l>
                <l n="16">arr. w “Apollo” magazine: once</l>
                <l n="17">owned by Chas. I &amp; bought for the</l>
@@ -3691,8 +3691,8 @@
                <l n="19">in Brizen<note>MM misspells Brixen Cathedral, located in northern Italy; in Italian, this is Bressanone Cathedral.</note> Cathedral, Tyrol.</l>
                <l n="20">Satan compelled to hold a saint’s</l>
                <l n="21">prayer-book.</l>
-               <l n="22">       <bibl rend="begin"/>6 Feb ’32   Ill. L. News.</l>
-               <l n="23">   The Frilled Lizard W.P. Pycraft<bibl rend="end"/><note>Pycraft, W.P. “The World of Science.” Illustrated London News (6 February 1932): 210. MM reads toward “The Plumet Basilisk.”</note></l>
+               <l n="22">       <bibl corresp="nb07_02_02_0091_recto_n22_bibl"/>6 Feb ’32   Ill. L. News.</l>
+               <l n="23">   The Frilled Lizard W.P. Pycraft<bibl corresp="#nb07_02_02_0091_recto_n22_bibl"/><note>Pycraft, W.P. “The World of Science.” Illustrated London News (6 February 1932): 210. MM reads toward “The Plumet Basilisk.”</note></l>
                <l n="24">cf. Seville Kent’s book on the</l>
                <l n="25">Australian Barrier Reef<note>Kent, William Saville. The Great Barrier Reef of Australia. W.H. Allen, 1893.</note></l>
             </lg>
@@ -3875,14 +3875,14 @@
                <l n="11">     <foreign xml:lang="la">Tria juncta in uno</foreign></l>
                <l n="12">     <foreign xml:lang="la">mens conscia rectis?</foreign><note>The phrase is an adaptation. MM has apparently mistranscribed rectis for recti. Mens conscia recti means “a mind aware of what is right.” The phrase is adapted from the Aeneid 1.604.</note></l>
                <l n="13"/>
-               <l n="14">    <bibl rend="begin"/> Ill. London News</l>
+               <l n="14">    <bibl corresp="nb07_02_02_0094_recto_n14_bibl"/> Ill. London News</l>
                <l n="15">       26 March 1932</l>
-               <l n="16">p. 165<bibl rend="end"/><note>“The Odd Side of Things: Birds, Beasts, and Insects.” Illustrated London News (26 March 1932): 465.</note> Builders of a wire nest: a</l>
+               <l n="16">p. 165<bibl corresp="#nb07_02_02_0094_recto_n14_bibl"/><note>“The Odd Side of Things: Birds, Beasts, and Insects.” Illustrated London News (26 March 1932): 465.</note> Builders of a wire nest: a</l>
                <l n="17">N. Zealand “Magpie.” Built</l>
                <l n="18">chiefly of wire stolen from a workshop</l>
                <l n="19">w a lining of rug wool.</l>
-               <l n="20">    <bibl rend="begin"/>Ill. London News    <add><hi rend="blue">Natnil. Geog.</hi></add></l>
-               <l n="21">       2 April 1932<bibl rend="end"/><note>“The Camera as Spy Upon the Wild.” Illustrated London News (2 April 1932): 501.</note>     <add><hi rend="blue">Feb. 32</hi></add></l>
+               <l n="20">    <bibl corresp="nb07_02_02_0094_recto_n20_bibl"/>Ill. London News    <add><hi rend="blue">Natnil. Geog.</hi></add></l>
+               <l n="21">       2 April 1932<bibl corresp="#nb07_02_02_0094_recto_n20_bibl"/><note>“The Camera as Spy Upon the Wild.” Illustrated London News (2 April 1932): 501.</note>     <add><hi rend="blue">Feb. 32</hi></add></l>
                <l n="22">p. 501 <hi rend="underline">The camera as spy upon the wild</hi></l>
                <l n="23">Photographs by Dr. Spencer R. Atkinson</l>
                <l n="24">Reproduced by courtesy of Ntnil Geographic</l>
@@ -3896,10 +3896,10 @@
                <l n="01"><note>“The Camera as Spy Upon the Wild” (see earlier note). This image appears in “Camellia Sabina,” first published Active Anthology, ed., Ezra Pound, (Faber &amp; Faber, 1933).</note>wood rat, or “Pack-rat”: A</l>
                <l n="02">mother carrying her baby in her</l>
                <l n="03">mouth, &amp; a grape in her forepaw.</l>
-               <l n="04">     <bibl rend="begin"/>Ill. L. News</l>
+               <l n="04">     <bibl corresp="nb07_02_02_0095_verso_n04_bibl"/>Ill. L. News</l>
                <l n="05">        2 April 32</l>
                <l n="06">Zulu Magic; Love Charm; Cattle-</l>
-               <l n="07">cure; Criminology; Spells—<bibl rend="end"/><note>“Zulu Magic: Love-Charm; Cattle-Cure; Criminology; and Spells.” Illustrated London News (2 February 1932): 524. MM uses this image in “Camellia Sabina.”</note></l>
+               <l n="07">cure; Criminology; Spells—<bibl corresp="#nb07_02_02_0095_verso_n04_bibl"/><note>“Zulu Magic: Love-Charm; Cattle-Cure; Criminology; and Spells.” Illustrated London News (2 February 1932): 524. MM uses this image in “Camellia Sabina.”</note></l>
                <l n="08">Zulu black magic: A warrior</l>
                <l n="09">cutting a tuft from his sleeping enemy’s</l>
                <l n="10">hair, wh. he can make use of in</l>
@@ -3918,9 +3918,9 @@
             </lg>
             <pb facs="nb07_02_02_0095_recto.jpg"/>
             <lg>
-               <l n="01"><bibl rend="begin"/>Life &amp; Letters W.D. Howells</l>
+               <l n="01"><bibl corresp="nb07_02_02_0095_recto_n01_bibl"/>Life &amp; Letters W.D. Howells</l>
                <l n="02">Doubleday Doran &amp; Co. Inc. 1928</l>
-               <l n="03">p. 318<bibl rend="end"/><note>Howells, William Dean. Life in Letters. Doubleday, Doran &amp; Co.,1928.</note>H James to W D. H.<note>Howells, William Dean [1837-1920]. American novelist, editor of The Atlantic Monthly 1871-1881, and influential critic—especially through his definition of “realism.” MM quotes at length from Howells’ My Mark Twain in “Idiosyncrasy and Technique,” first published in A Marianne Moore Reader. University of California Press, 1958.</note> was 27 <add>'12</add></l>
+               <l n="03">p. 318<bibl corresp="#nb07_02_02_0095_recto_n01_bibl"/><note>Howells, William Dean. Life in Letters. Doubleday, Doran &amp; Co.,1928.</note>H James to W D. H.<note>Howells, William Dean [1837-1920]. American novelist, editor of The Atlantic Monthly 1871-1881, and influential critic—especially through his definition of “realism.” MM quotes at length from Howells’ My Mark Twain in “Idiosyncrasy and Technique,” first published in A Marianne Moore Reader. University of California Press, 1958.</note> was 27 <add>'12</add></l>
                <l n="04">You are misinformed as to my having</l>
                <l n="05">sat on an anti-suffrage platform. But</l>
                <l n="06">Mrs. Humphrey Ward wrote &amp; asked</l>
@@ -3946,13 +3946,13 @@
          <div type="image" xml:id="nb07_02_02_0096_text">
             <pb facs="nb07_02_02_0096_verso.jpg"/>
             <lg>
-               <l n="01">     <bibl rend="begin"/>Ill London News</l>
-               <l n="02">     23 Apr. 1932<bibl rend="end"/><note>“The Illustrated London News is Ninety Years Old This Year.” Illustrated London News.(23 April 1932): 606. Ad. in the 23 April 1932 Illustrated London News announced this “Ninetieth Birthday Special Number.”</note></l>
+               <l n="01">     <bibl corresp="nb07_02_02_0096_verso_n01_bibl"/>Ill London News</l>
+               <l n="02">     23 Apr. 1932<bibl corresp="#nb07_02_02_0096_verso_n01_bibl"/><note>“The Illustrated London News is Ninety Years Old This Year.” Illustrated London News.(23 April 1932): 606. Ad. in the 23 April 1932 Illustrated London News announced this “Ninetieth Birthday Special Number.”</note></l>
                <l n="03">Advt. The beautiful, full</l>
                <l n="04">colour cover of the 90th Birthday</l>
                <l n="05">issue 1842-1932</l>
-               <l n="06">     <bibl rend="begin"/>I. L. News</l>
-               <l n="07"> 30 April 32<bibl rend="end"/><note>MM quotes from two advertisments in the Illustrated London News (April 30, 1932).</note></l>
+               <l n="06">     <bibl corresp="nb07_02_02_0096_verso_n06_bibl"/>I. L. News</l>
+               <l n="07"> 30 April 32<bibl corresp="#nb07_02_02_0096_verso_n06_bibl"/><note>MM quotes from two advertisments in the Illustrated London News (April 30, 1932).</note></l>
                <l n="08">write it w a silver wonder, the</l>
                <l n="09">world’s smoothest pen.</l>
                <l n="10">Perry &amp; Co Ltd Dept. L.N.</l>
@@ -3980,11 +3980,11 @@
                <l n="07">extermination of Daisies &amp; other</l>
                <l n="08">Shallowrooted weeds on Lawns,</l>
                <l n="09">Putting greens, etc. Price per cut 27/<gap extent="1"/></l>
-               <l n="10">        <bibl rend="begin"/>Ill. London News</l>
+               <l n="10">        <bibl corresp="nb07_02_02_0096_recto_n10_bibl"/>Ill. London News</l>
                <l n="11">       19 March 1932</l>
                <l n="12">New Relics of the Heretical Pharaoh</l>
                <l n="13">Tell El Amarna described by</l>
-               <l n="14">Mr. J D S Pendlebury<bibl rend="end"/><note>Pendlebury, J. D. S. “New Relics of the Heretical Pharaoh at Tell El Amarna.” Illustrated London News (19 March 1932): 427.</note>Akhenaten<note>Akhenaten was an ancient Egyptian pharaoh of the 18th Dynasty, who ruled for 17 years and died perhaps in 1336 or 1334 BC. MM takes notes toward “The Jerboa.”</note></l>
+               <l n="14">Mr. J D S Pendlebury<bibl corresp="#nb07_02_02_0096_recto_n10_bibl"/><note>Pendlebury, J. D. S. “New Relics of the Heretical Pharaoh at Tell El Amarna.” Illustrated London News (19 March 1932): 427.</note>Akhenaten<note>Akhenaten was an ancient Egyptian pharaoh of the 18th Dynasty, who ruled for 17 years and died perhaps in 1336 or 1334 BC. MM takes notes toward “The Jerboa.”</note></l>
                <l n="15"> Fig 4. A wooden Ushabti-holder</l>
                <l n="16">used as a temporary receptacle which</l>
                <l n="17">last<add><hi rend="pencil">ed</hi></add> some 3000 yrs. for 2 ivory</l>
@@ -4021,8 +4021,8 @@
                <l n="20"/>
                <l n="21"/>
                <l n="22"/>
-               <l n="23"><bibl rend="begin"/>19 March 1932</l>
-               <l n="24"> Ill. London News<bibl rend="end"/></l>
+               <l n="23"><bibl corresp="nb07_02_02_0097_verso_n23_bibl"/>19 March 1932</l>
+               <l n="24"> Ill. London News<bibl corresp="#nb07_02_02_0097_verso_n23_bibl"/></l>
             </lg>
             <pb facs="nb07_02_02_0097_recto.jpg"/>
             <!--<desc>MM draws the “dragonlike monster,” spanning line 7 to end of page. The neck
@@ -4031,8 +4031,8 @@
                     Sweeping down are several lines suggesting the bow of a ship. The dragon’s short
                     forearm extends at the base of the bow.</desc>-->
             <lg>
-               <l n="01">  <bibl rend="begin"/>Ill. London News</l>
-               <l n="02">    7 May 1932 755 <bibl rend="end"/><note>“Red-Letter Days in the History of Siam. The 150th Anniversary of the Chakri Dynasty and of Bangkok as the Capital.” Illustrated London News (7 May 1932): 754-55.</note></l>
+               <l n="01">  <bibl corresp="nb07_02_02_0097_recto_n01_bibl"/>Ill. London News</l>
+               <l n="02">    7 May 1932 755 <bibl corresp="#nb07_02_02_0097_recto_n01_bibl"/><note>“Red-Letter Days in the History of Siam. The 150th Anniversary of the Chakri Dynasty and of Bangkok as the Capital.” Illustrated London News (7 May 1932): 754-55.</note></l>
                <l n="03"/>
                <l n="04">Prow of the Royal Barge: the head</l>
                <l n="05">of a winged dragonlike monster.</l>
@@ -4160,10 +4160,10 @@
                <l n="04"/>
                <l n="05"/>
                <l n="06"/>
-               <l n="07"> <bibl rend="begin"/>Sat. Rev. of Lit 30 July 32</l>
-               <l n="08">Trade Winds by PEG. Quercus<bibl rend="end"/><note>“Trade Winds” is the title of a serial of miscellaneous commentary on the publicity and bookselling trade, published by Christopher Morley under the pseudonym P. E. G. Quercus in the Saturday Review, irregularly from 1925 through 1940.</note></l>
-               <l n="09"><bibl rend="begin"/>Geoffrey Bret Harte: Pastimes</l>
-               <l n="10">of the Roman Gentleman.<bibl rend="end"/><note>Harte, Geoffrey Bret. The Villas of Pliny: Pastimes of a Roman Gentleman. Houghton Mifflin, 1928. MM compares a reviewer’s description of Charlotte Bronte’s prose with Bret Harte’s, in “Charlotte Bronte,” The Criterion 11 (July 1932): 716-19.</note></l>
+               <l n="07"> <bibl corresp="nb07_02_02_0100_recto_n07_bibl"/>Sat. Rev. of Lit 30 July 32</l>
+               <l n="08">Trade Winds by PEG. Quercus<bibl corresp="#nb07_02_02_0100_recto_n07_bibl"/><note>“Trade Winds” is the title of a serial of miscellaneous commentary on the publicity and bookselling trade, published by Christopher Morley under the pseudonym P. E. G. Quercus in the Saturday Review, irregularly from 1925 through 1940.</note></l>
+               <l n="09"><bibl corresp="nb07_02_02_0100_recto_n09_bibl"/>Geoffrey Bret Harte: Pastimes</l>
+               <l n="10">of the Roman Gentleman.<bibl corresp="#nb07_02_02_0100_recto_n09_bibl"/><note>Harte, Geoffrey Bret. The Villas of Pliny: Pastimes of a Roman Gentleman. Houghton Mifflin, 1928. MM compares a reviewer’s description of Charlotte Bronte’s prose with Bret Harte’s, in “Charlotte Bronte,” The Criterion 11 (July 1932): 716-19.</note></l>
                <l n="11">   fruit trees &amp; buds of violets</l>
                <l n="12"> . . . bath or pool fed <del>by</del> unceasingly</l>
                <l n="13">w running water; every</l>
@@ -4176,8 +4176,8 @@
          <div type="image" xml:id="nb07_02_02_0101_text">
             <pb facs="nb07_02_02_0101_verso.jpg"/>
             <lg>
-               <l n="01"><bibl rend="begin"/>Reminiscences of Lord Kilbracken</l>
-               <l n="02"> Macmillan 1931<bibl rend="end"/><note>Godley, Arthur. Reminiscences of Lord Kilbracken. Macmillan, 1931. John Arthur Godley [1847-1932] was the first Baron of Kilbracken and a British civil servant. He was the longest serving Permanent Under-Secretary of State for India.</note></l>
+               <l n="01"><bibl corresp="nb07_02_02_0101_verso_n01_bibl"/>Reminiscences of Lord Kilbracken</l>
+               <l n="02"> Macmillan 1931<bibl corresp="#nb07_02_02_0101_verso_n01_bibl"/><note>Godley, Arthur. Reminiscences of Lord Kilbracken. Macmillan, 1931. John Arthur Godley [1847-1932] was the first Baron of Kilbracken and a British civil servant. He was the longest serving Permanent Under-Secretary of State for India.</note></l>
                <l n="03"> . . . .</l>
                <l n="04">p. 103., Lord Granville.</l>
                <l n="05">&amp; his family stayed for some months</l>
@@ -4195,10 +4195,10 @@
                <l n="17">Freddie’s butler?</l>
                <l n="18"/>
                <l n="19"><hi rend="pencil"><add>Woodbury</add></hi></l>
-               <l n="20"><hi rend="pencil"><add>Aug 23 32</add><bibl rend="begin"/>Natnl Geographic</hi></l>
+               <l n="20"><hi rend="pencil"><add>Aug 23 32</add><bibl corresp="nb07_02_02_0101_verso_n20_bibl"/>Natnl Geographic</hi></l>
                <l n="21"><hi rend="pencil">    <hi rend="underline">May</hi> 1932</hi></l>
                <l n="22"><hi rend="pencil">Our Friend the Frog by</hi></l>
-               <l n="23"><hi rend="pencil">Doris M. Cochran<bibl rend="end"/><note>Cochran, Doris M. “Our Friend the Frog.” National Geographic (May 1932): 628-54. Doris Cochran [1898-1968] was an American herpetologist, scientific illustrator, and curator at the Smithsonian Institution in Washington.</note>Assistant</hi></l>
+               <l n="23"><hi rend="pencil">Doris M. Cochran<bibl corresp="#nb07_02_02_0101_verso_n20_bibl"/><note>Cochran, Doris M. “Our Friend the Frog.” National Geographic (May 1932): 628-54. Doris Cochran [1898-1968] was an American herpetologist, scientific illustrator, and curator at the Smithsonian Institution in Washington.</note>Assistant</hi></l>
                <l n="24"><hi rend="pencil">Curator—Div of Reptiles &amp;</hi></l>
             </lg>
             <pb facs="nb07_02_02_0101_recto.jpg"/>
@@ -4285,8 +4285,8 @@
                <l n="16">  serving the feast</l>
                <l n="17">The Kyng was one, apparayled all in</l>
                <l n="18"> one sewte of shorte garments.</l>
-               <l n="19"><bibl rend="begin"/>The English Mediaeval Feast</l>
-               <l n="20">Wm. Ed. Mead Houghton <add>m.</add> 1931<bibl rend="end"/><note>Mead, William Edward. The English Medieval Feast. Houghton &amp; Gunn, 1931. William Edward Mead [1860-1949] was a professor at Wesleyan University and an author of numerous books.</note></l>
+               <l n="19"><bibl corresp="nb07_02_02_0102_recto_n19_bibl"/>The English Mediaeval Feast</l>
+               <l n="20">Wm. Ed. Mead Houghton <add>m.</add> 1931<bibl corresp="#nb07_02_02_0102_recto_n19_bibl"/><note>Mead, William Edward. The English Medieval Feast. Houghton &amp; Gunn, 1931. William Edward Mead [1860-1949] was a professor at Wesleyan University and an author of numerous books.</note></l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0103_text">
@@ -4306,8 +4306,8 @@
                <l n="12"><hi rend="blue">is unhampered, is the best in wh</hi></l>
                <l n="13"><hi rend="blue">to review in fancy the pageant</hi></l>
                <l n="14"><hi rend="blue">of vanished London, . . . </hi></l>
-               <l n="15"><hi rend="blue"><bibl rend="begin"/>English Summer by Cornelia</hi></l>
-               <l n="16"><hi rend="blue">Stratton Parker Horace Liveright Inc<bibl rend="end"/><note>Parker, Cornelia Stratton. English Summer. Liveright, 1931. Cornelia Stratton Parker [1888-1972] was the author of several books and served on the board of the MacDowell Colony artists colony.</note></hi></l>
+               <l n="15"><hi rend="blue"><bibl corresp="nb07_02_02_0103_verso_n15_bibl"/>English Summer by Cornelia</hi></l>
+               <l n="16"><hi rend="blue">Stratton Parker Horace Liveright Inc<bibl corresp="#nb07_02_02_0103_verso_n15_bibl"/><note>Parker, Cornelia Stratton. English Summer. Liveright, 1931. Cornelia Stratton Parker [1888-1972] was the author of several books and served on the board of the MacDowell Colony artists colony.</note></hi></l>
                <l n="17"><hi rend="blue">41. A 15th c Bohemian <add>Sandwich</add></hi></l>
                <l n="18"><hi rend="blue">chronicler describes the host.</hi></l>
                <l n="19"><hi rend="blue">Here I first beheld fleets of <del>ships</del></hi></l>
@@ -4339,12 +4339,12 @@
                <l n="17"><hi rend="blue">Bodiam, Bodgem, but nothing</hi></l>
                <l n="18"><hi rend="blue">seems to happen if you don’t.</hi></l>
                <l n="19">______________________________</l>
-               <l n="20">      <bibl rend="begin"/>Symposium April 1932</l>
+               <l n="20">      <bibl corresp="nb07_02_02_0103_recto_n20_bibl"/>Symposium April 1932</l>
                <l n="21">         100 Wash Sq E</l>
                <l n="22">      <del>277</del> ed. by <add>James</add>Burnham<note>James Burnham [1905-1987] was an American philosopher and political theorist, teaching at New York University and coediting the journal Symposium with Philip E. Wheelwright. In the 1930s he was affiliated with Troskyism but later renounced this school of thought and became associated with conservative American politics, later founding the conservative National Review.</note> &amp;</l>
                <l n="23">          Philip Wheelright</l>
                <l n="24">p. 277 Dr. Kerkhoven by J Wassermann<note>Jakob Wassermann [1873-1934] was a German writer and novelist of Jewish descent.</note></l>
-               <l n="25">reviewed by Philip Wheelright<bibl rend="end"/><note>Philip E. Wheelwright. Rev. of Dr. Kerkhoven (1931) by Jacob Wassermann 1931. Symposium (April 1931): 271. Philip E. Wheelwright [1901-1970] was an American philosopher, classical scholar, and literary theorist. He was a professor art Dartmouth College and the University of California. The original German title of Dr. Kerkhoven is Etzel Andergast.</note></l>
+               <l n="25">reviewed by Philip Wheelright<bibl corresp="#nb07_02_02_0103_recto_n20_bibl"/><note>Philip E. Wheelwright. Rev. of Dr. Kerkhoven (1931) by Jacob Wassermann 1931. Symposium (April 1931): 271. Philip E. Wheelwright [1901-1970] was an American philosopher, classical scholar, and literary theorist. He was a professor art Dartmouth College and the University of California. The original German title of Dr. Kerkhoven is Etzel Andergast.</note></l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_02_0104_text">
@@ -4353,9 +4353,9 @@
                <l n="v01"><!--<desc>span lines 10-21, left margin </desc>-->           a common phantasy-value </l>
             </lg>
             <lg>
-               <l n="01"> <note>Wheelwright, Philip E. Rev. of Dr. Kerkhoven (see earlier note).</note><bibl rend="begin"/><del>p. 277</del> from J. Wass<add>ermann</add><foreign xml:lang="de">||Versuch eines</foreign></l>
+               <l n="01"> <note>Wheelwright, Philip E. Rev. of Dr. Kerkhoven (see earlier note).</note><bibl corresp="nb07_02_02_0104_verso_n01_bibl"/><del>p. 277</del> from J. Wass<add>ermann</add><foreign xml:lang="de">||Versuch eines</foreign></l>
                <l n="02"> <del>The problem</del><foreign xml:lang="de">geistigen Autobiographie.</foreign></l>
-               <l n="03"><foreign xml:lang="de"> Die Literarische Welt </foreign> June 26, 1931.<bibl rend="end"/></l>
+               <l n="03"><foreign xml:lang="de"> Die Literarische Welt </foreign> June 26, 1931.<bibl corresp="#nb07_02_02_0104_verso_n01_bibl"/></l>
                <l n="04"> “A resolve must be taken and generally at an</l>
                <l n="05">early point in one’s career</l>
                <l n="06">p. 277 the problem that confronts</l>
@@ -4384,8 +4384,8 @@
             <lg>
                <l n="01"><note>Wheelwright, Philip E. Rev. of Dr. Kerkhoven (see earlier note).</note>sensitiveness to moral atmosphere) </l>
                <l n="02">       18 Oct. 32</l>
-               <l n="03"><bibl rend="begin"/>Memories of Victorian London</l>
-               <l n="04">L. B Walford. (Ed. Arnold, 1912)<bibl rend="end"/><note>Walford, Lucy Bethia. Memories of Victorian London. (E. Arnold, 1912). Lucy Bethia Walford [1845-1915]. Scottish novelist and artist.</note></l>
+               <l n="03"><bibl corresp="nb07_02_02_0104_recto_n03_bibl"/>Memories of Victorian London</l>
+               <l n="04">L. B Walford. (Ed. Arnold, 1912)<bibl corresp="#nb07_02_02_0104_recto_n03_bibl"/><note>Walford, Lucy Bethia. Memories of Victorian London. (E. Arnold, 1912). Lucy Bethia Walford [1845-1915]. Scottish novelist and artist.</note></l>
                <l n="05">p. 7-8 <del>There we sat &amp; sipped</del></l>
                <l n="06">. . . we went to parties in the afternoon,</l>
                <l n="07">differently dressed, &amp; seated aloft</l>
@@ -4472,8 +4472,8 @@
          <div type="image" xml:id="nb07_02_02_0106_text">
             <pb facs="nb07_02_02_0106_verso.jpg"/>
             <lg>
-               <l n="01">      <bibl rend="begin"/>The Ill. L. News 30 July 32</l>
-               <l n="02">The World of Music—the Haslemere Festival<bibl rend="end"/><note>Turner, W. J. “The World of Music.” Illustrated London News (30 July 1932): 186.</note></l>
+               <l n="01">      <bibl corresp="nb07_02_02_0106_verso_n01_bibl"/>The Ill. L. News 30 July 32</l>
+               <l n="02">The World of Music—the Haslemere Festival<bibl corresp="#nb07_02_02_0106_verso_n01_bibl"/><note>Turner, W. J. “The World of Music.” Illustrated London News (30 July 1932): 186.</note></l>
                <l n="03">Antonio de Cabeçon, c 1550 &amp; Juan</l>
                <l n="04">de Cabeçon: (Juan’s) Fantasy for</l>
                <l n="05">Five Viols—<foreign xml:lang="es">Quién llamó al partir</foreign></l>
@@ -4485,9 +4485,9 @@
                <l n="11">frequent, closing cadences.</l>
                <l n="12"/>
                <l n="13">      (Unauthentic)</l>
-               <l n="14"><bibl rend="begin"/>Symposium Apr 1932</l>
+               <l n="14"><bibl corresp="nb07_02_02_0106_verso_n14_bibl"/>Symposium Apr 1932</l>
                <l n="15">N. Eng Culture &amp; Emily Dickinson</l>
-               <l n="16">Allen Tate.<note>Tate, Allen [1899-1979]. American poet, critic, and essayist. Tate recommended MM for the Harriet Monroe Memorial Prize in 1944 and later for a Guggenheim.</note> p. 213-4.<bibl rend="end"/>James</l>
+               <l n="16">Allen Tate.<note>Tate, Allen [1899-1979]. American poet, critic, and essayist. Tate recommended MM for the Harriet Monroe Memorial Prize in 1944 and later for a Guggenheim.</note> p. 213-4.<bibl corresp="#nb07_02_02_0106_verso_n14_bibl"/>James</l>
                <l n="17">Mastery of the world by rejecting</l>
                <l n="18">the world is the doctrine, even if</l>
                <l n="19">it was not always the practice</l>
@@ -4503,9 +4503,9 @@
                <l n="01"><note>Tate, Allen. “New England Culture and Emily Dickinson” (see earlier note).</note>only take his Americans to</l>
                <l n="02">Europe upon the vain quest of</l>
                <l n="03">something they had lost at home.</l>
-               <l n="04">   <bibl rend="begin"/>Creative Art April ‘33</l>
+               <l n="04">   <bibl corresp="nb07_02_02_0106_recto_n04_bibl"/>Creative Art April ‘33</l>
                <l n="05">Dynamic Detroit an interp by</l>
-               <l n="06">Diego Rivera.<bibl rend="end"/><note>Rivera, Diego. “Dynamic Detroit: An Interpretation.” Creative Art vol. 12, no. 4 (April 1933): 289-95.</note></l>
+               <l n="06">Diego Rivera.<bibl corresp="#nb07_02_02_0106_recto_n04_bibl"/><note>Rivera, Diego. “Dynamic Detroit: An Interpretation.” Creative Art vol. 12, no. 4 (April 1933): 289-95.</note></l>
                <l n="07">   If my Detroit frescoes are</l>
                <l n="08">destroyed I shall be profoundly</l>
                <l n="09">distressed as I put into them a year of</l>
@@ -4562,8 +4562,8 @@
             </lg>
             <pb facs="nb07_02_02_0107_recto.jpg"/>
             <lg>
-               <l n="01"><bibl rend="begin"/>Ill L. News 30 July</l>
-               <l n="02">         1932<bibl rend="end"/><note>B, C. E.“Books of the Day” (see earlier note).</note></l>
+               <l n="01"><bibl corresp="nb07_02_02_0107_recto_n01_bibl"/>Ill L. News 30 July</l>
+               <l n="02">         1932<bibl corresp="#nb07_02_02_0107_recto_n01_bibl"/><note>B, C. E.“Books of the Day” (see earlier note).</note></l>
                <l n="03"/>
                <l n="04"/>
                <l n="05"/>
@@ -4589,8 +4589,8 @@
          <div type="image" xml:id="nb07_02_02_0108_text">
             <pb facs="nb07_02_02_0108_verso.jpg"/>
             <lg>
-               <l n="01"><bibl rend="begin"/>Guatemala. By Wm T Brigham,</l>
-               <l n="02">Scrib’s<add>Sons,</add> N.Y. 1887.<bibl rend="end"/><note>Brigham, William Tufts. Guatemala, Land of the Quetzal: A Sketch. Charles Scribner’s Sons, 1887. William Tufts Brigham [1841-1926] was an American geologist, botanist, ethnologist, and first director of the Bernice P. Bishop Museum in Honolulu.</note>     <add>AM</add><note>“AM” refers to “A.M.,” the degree ascribed to Brigham on the title page of his book.</note></l>
+               <l n="01"><bibl corresp="nb07_02_02_0108_verso_n01_bibl"/>Guatemala. By Wm T Brigham,</l>
+               <l n="02">Scrib’s<add>Sons,</add> N.Y. 1887.<bibl corresp="#nb07_02_02_0108_verso_n01_bibl"/><note>Brigham, William Tufts. Guatemala, Land of the Quetzal: A Sketch. Charles Scribner’s Sons, 1887. William Tufts Brigham [1841-1926] was an American geologist, botanist, ethnologist, and first director of the Bernice P. Bishop Museum in Honolulu.</note>     <add>AM</add><note>“AM” refers to “A.M.,” the degree ascribed to Brigham on the title page of his book.</note></l>
                <l n="03">p. 44 w the drift floating</l>
                <l n="04">downstream we noticed</l>
                <l n="05">queer green things which were</l>
@@ -4620,9 +4620,9 @@
                <l n="05">wish for something abstract? If so, I</l>
                <l n="06">would wish to hear the language of the</l>
                <l n="07">animals.</l>
-               <l n="08">   <bibl rend="begin"/><add>FW</add>Hutton &amp; James Drummond: <del>The</del></l>
+               <l n="08">   <bibl corresp="nb07_02_02_0109_recto_n08_bibl"/><add>FW</add>Hutton &amp; James Drummond: <del>The</del></l>
                <l n="09">Animals of N. Zealand. <add>Melbourne</add> &amp; London<add>1909</add></l>
-               <l n="10">Whitcombe &amp; Tombs Ltd.<bibl rend="end"/><note>Hutton, Frederick Wollastan and James Drummond. Animals of New Zealand: An Account of the Colony’s Air-Breathing Vertebrates. Whitcombe &amp; Tombs, 1909. Frederick Wollanstan Hutton [1836-1905] was an English geologist and biologist who emigrated to New Zealand and became a prominent naturalist there. James Mackay Drummond [1869-1940] was a journalist and science writer from New Zealand.</note>The Tuatara<note>MM takes notes toward “The Plumet Basilisk.”</note></l>
+               <l n="10">Whitcombe &amp; Tombs Ltd.<bibl corresp="#nb07_02_02_0109_recto_n08_bibl"/><note>Hutton, Frederick Wollastan and James Drummond. Animals of New Zealand: An Account of the Colony’s Air-Breathing Vertebrates. Whitcombe &amp; Tombs, 1909. Frederick Wollanstan Hutton [1836-1905] was an English geologist and biologist who emigrated to New Zealand and became a prominent naturalist there. James Mackay Drummond [1869-1940] was a journalist and science writer from New Zealand.</note>The Tuatara<note>MM takes notes toward “The Plumet Basilisk.”</note></l>
                <l n="11">or Ngarara 380. <foreign xml:lang="la">Sphenodon</foreign></l>
                <l n="12"><foreign xml:lang="la">Punctatus</foreign>—yellowish, or greenish olive</l>
                <l n="13">w. yellow spots. up to 20 inches. few</l>
@@ -4662,12 +4662,12 @@
                <l n="11">girl sang the Soldiers of the Queen</l>
                <l n="12">prefer a good rousing chorus rather</l>
                <l n="13">than solo.</l>
-               <l n="14">   <bibl rend="begin"/><foreign xml:lang="fr">Monographie du Genre</foreign></l>
+               <l n="14">   <bibl corresp="nb07_02_02_0110_verso_n14_bibl"/><foreign xml:lang="fr">Monographie du Genre</foreign></l>
                <l n="15"><foreign xml:lang="fr">Camellia traité complet</foreign></l>
                <l n="16"><foreign xml:lang="fr">sur sa culture par Abbé-Berlèse</foreign></l>
                <l n="17"><foreign xml:lang="fr">Paris. chez H. Cousin, Libraire-</foreign></l>
                <l n="18"><foreign xml:lang="fr">editeur rue Jacob No. 21</foreign> 1895</l>
-               <l n="19">                              <add>1885??</add><bibl rend="end"/><note>Berlèse, L’Abbé. Monographie du Genre Camellia: Traité Complet sur sa Culture. Troisième Edition. Paris: H. Cousin, 1845.</note></l>
+               <l n="19">                              <add>1885??</add><bibl corresp="#nb07_02_02_0110_verso_n14_bibl"/><note>Berlèse, L’Abbé. Monographie du Genre Camellia: Traité Complet sur sa Culture. Troisième Edition. Paris: H. Cousin, 1845.</note></l>
                <l n="20"><foreign xml:lang="fr">au dessus de mes forces sans<note>MM takes notes toward “Camellia Sabina.”</note></foreign></l>
                <l n="21"><foreign xml:lang="fr">doubte</foreign>(This labor was unquestionably above</l>
                <l n="22">my abilities but your encouragement</l>
@@ -4727,8 +4727,8 @@
                <l n="16" rend="verse"><hi rend="blue"><foreign xml:lang="fr">Tire sa langue à double fil</foreign> </hi></l>
                <l n="17" rend="verse"><hi rend="blue"><foreign xml:lang="fr">Bête je suis, mais bête aigue.<note>The French text reads: “To wander dangerously the Garden, / And my triangle of emerald / Darts and retracts its double edge . . . / A beast I am, but a sharp beast” –translation by Nathaniel Rudavsky-Brody, The Idea of Perfection: The Poetry and Prose of Paul Valery. Farrar, Straus and Giroux, 2020.</note></foreign></hi></l>
                <l n="18"><hi rend="blue"> </hi></l>
-               <l n="19"><hi rend="blue">  <bibl rend="begin"/><hi rend="underline">Poetry</hi> Aug. 1932 review of</hi></l>
-               <l n="20"><hi rend="blue">Gemini by John Collier.<bibl rend="end"/><note>Bunting, Basil. “Valentine and Orson.” Rev. of Gemini by John Collier. Poetry (August 1932): 293-95. Basil Bunting [1900-1985] was a British modernist poet also loosely affiliated with the American Objectivists.</note>Edith</hi></l>
+               <l n="19"><hi rend="blue">  <bibl corresp="nb07_02_02_0111_verso_n19_bibl"/><hi rend="underline">Poetry</hi> Aug. 1932 review of</hi></l>
+               <l n="20"><hi rend="blue">Gemini by John Collier.<bibl corresp="#nb07_02_02_0111_verso_n19_bibl"/><note>Bunting, Basil. “Valentine and Orson.” Rev. of Gemini by John Collier. Poetry (August 1932): 293-95. Basil Bunting [1900-1985] was a British modernist poet also loosely affiliated with the American Objectivists.</note>Edith</hi></l>
                <l n="21"><hi rend="blue">Sitwell<note>Edith Sitwell [1887-1964] was a British poet from a literary family known for experimental work in the modernist period.</note> says, “A writer of whom</hi></l>
                <l n="22"><hi rend="blue">the gentle &amp; insipid word ‘talent’</hi></l>
                <l n="23"><hi rend="blue">cannot be applied, but a greater</hi></l>
@@ -4771,19 +4771,19 @@
             <!--<desc>On line 18 MM encloses the phrase “excessively contemporary” in square
                     brackets</desc>-->
             <lg>
-               <l n="01"><hi rend="blue">    <bibl rend="begin"/>H. Tribune Institute (NY H.T)</hi></l>
+               <l n="01"><hi rend="blue">    <bibl corresp="nb07_02_02_0112_verso_n01_bibl"/>H. Tribune Institute (NY H.T)</hi></l>
                <l n="02"><hi rend="blue">       1 January 1933</hi></l>
                <l n="03"><hi rend="blue">p. 12 A Hobby that’s practiced by</hi></l>
-               <l n="04"><hi rend="blue">Mrs. George Thompson.<bibl rend="end"/><note>“A Hobby That’s Practiced by Mrs. George Thompson” New York Herald Tribune (1 January 1933): 12.</note></hi></l>
+               <l n="04"><hi rend="blue">Mrs. George Thompson.<bibl corresp="#nb07_02_02_0112_verso_n01_bibl"/><note>“A Hobby That’s Practiced by Mrs. George Thompson” New York Herald Tribune (1 January 1933): 12.</note></hi></l>
                <l n="05"><hi rend="blue">2 graceful brown marble ^<add>glass</add> bowls— ….</hi></l>
                <l n="06"><hi rend="blue">Right Westward Ho—covered d.’86</hi></l>
                <l n="07"><hi rend="blue">w designs of buffalo, log cabins &amp;</hi></l>
                <l n="08"><hi rend="blue">pines, &amp; topped w a crouching</hi></l>
                <l n="09"><hi rend="blue">Indian.</hi></l>
-               <l n="10"><hi rend="blue">   <bibl rend="begin"/>N.Y.Times</hi><add><hi rend="pencil">MUSIC</hi></add></l>
+               <l n="10"><hi rend="blue">   <bibl corresp="nb07_02_02_0112_verso_n10_bibl"/>N.Y.Times</hi><add><hi rend="pencil">MUSIC</hi></add></l>
                <l n="11"><hi rend="blue">               16 Jan 33</hi></l>
                <l n="12"><hi rend="blue">Young Composers presented. p. 12</hi></l>
-               <l n="13"><hi rend="blue">by H. H. <bibl rend="end"/><note>Downes, Olin, H.T., W.B., H.H. “Mme. Supervia Sings Spanish Songs with Piquancy and Charm—Hoffman Plays with Philharmonic.” New York Times (16 January 1933): 12.</note></hi></l>
+               <l n="13"><hi rend="blue">by H. H. <bibl corresp="#nb07_02_02_0112_verso_n10_bibl"/><note>Downes, Olin, H.T., W.B., H.H. “Mme. Supervia Sings Spanish Songs with Piquancy and Charm—Hoffman Plays with Philharmonic.” New York Times (16 January 1933): 12.</note></hi></l>
                <l n="14"><hi rend="blue">    moreover, in an art whose</hi></l>
                <l n="15"><hi rend="blue">idiom is changing as rapidly</hi></l>
                <l n="16"><hi rend="blue">as the harmonic lang, one must</hi></l>
@@ -4888,8 +4888,8 @@
                     from lines 11 through 22; she numbers these passages to reverse their order: 2
                     then 1. </desc>-->
             <lg>
-               <l n="01"><hi rend="blue"><bibl rend="begin"/><foreign xml:lang="de">Illustrierte Tier und Menschenwelt</foreign></hi></l>
-               <l n="02"><hi rend="blue">   (Illustrated Animal &amp; Human World)<bibl rend="end"/></hi></l>
+               <l n="01"><hi rend="blue"><bibl corresp="nb07_02_02_0114_verso_n01_bibl"/><foreign xml:lang="de">Illustrierte Tier und Menschenwelt</foreign></hi></l>
+               <l n="02"><hi rend="blue">   (Illustrated Animal &amp; Human World)<bibl corresp="#nb07_02_02_0114_verso_n01_bibl"/></hi></l>
                <l n="03"><hi rend="blue">issued monthly price per number 50 Pf</hi></l>
                <l n="04"><hi rend="blue">Annual subs. RM 6.</hi></l>
                <l n="05"><hi rend="blue"> Apply for a sample copy.</hi></l>
@@ -4897,8 +4897,8 @@
                <l n="07"><hi rend="blue">the Publishers Köhler &amp; Krüger</hi></l>
                <l n="08"><hi rend="blue">Hamburg 36—Germany<note>Illustrierte Tier und Menschenwelt. A journal edited by Carl Hagenbeck and first published in 1926 (Hamburg: Köhler &amp; Krüger).</note></hi></l>
                <l n="09"><hi rend="blue"> </hi></l>
-               <l n="10"><hi rend="blue">      <bibl rend="begin"/>16 Jan 33 NYT</hi></l>
-               <l n="11"><hi rend="blue">p. 17.<bibl rend="end"/><note>“Wood Says Cancer Awaits Its Darwin.” New York Times (16 January 1933): 17.</note> Dr Francis Carter Wood</hi></l>
+               <l n="10"><hi rend="blue">      <bibl corresp="nb07_02_02_0114_verso_n10_bibl"/>16 Jan 33 NYT</hi></l>
+               <l n="11"><hi rend="blue">p. 17.<bibl corresp="#nb07_02_02_0114_verso_n10_bibl"/><note>“Wood Says Cancer Awaits Its Darwin.” New York Times (16 January 1933): 17.</note> Dr Francis Carter Wood</hi></l>
                <l n="12"><hi rend="blue">ed. Amer Journal of Cancer.</hi></l>
                <l n="13"><hi rend="blue"><add>2</add> asked what was needed to solve</hi></l>
                <l n="14"><hi rend="blue">the cancer problem.</hi></l>
@@ -4924,9 +4924,9 @@
                <l n="09"><hi rend="blue">same way that the German</hi></l>
                <l n="10"><hi rend="blue">chemist was able to produce a</hi></l>
                <l n="11"><hi rend="blue">dye of a given color upon request.</hi></l>
-               <l n="12"><hi rend="blue">   <bibl rend="begin"/>Landmark Jan  1933</hi></l>
+               <l n="12"><hi rend="blue">   <bibl corresp="nb07_02_02_0114_recto_n12_bibl"/>Landmark Jan  1933</hi></l>
                <l n="13"><hi rend="blue">p. 8. Pocahontas’s Grave by T.E.</hi></l>
-               <l n="14"><hi rend="blue">Elias.<bibl rend="end"/><note>Elias, T. E. “Pocahontas’s Grave.” Landmark:The Monthly Magazine of the English-Speaking Union (January 1933): 8.</note>   daughter of Powhatan,<note>MM may be taking notes toward “Virginia Britannia,” first published in Life and Letters Today (December 1935).</note></hi></l>
+               <l n="14"><hi rend="blue">Elias.<bibl corresp="#nb07_02_02_0114_recto_n12_bibl"/><note>Elias, T. E. “Pocahontas’s Grave.” Landmark:The Monthly Magazine of the English-Speaking Union (January 1933): 8.</note>   daughter of Powhatan,<note>MM may be taking notes toward “Virginia Britannia,” first published in Life and Letters Today (December 1935).</note></hi></l>
                <l n="15"><hi rend="blue">the I chieftain, of Virginia.</hi></l>
                <l n="16"><hi rend="blue">Married a young British colonist from</hi></l>
                <l n="17"><hi rend="blue">Norfolk, <add>Eng</add> John Rolfe, &amp; she was a great</hi></l>
@@ -4954,11 +4954,11 @@
                <l n="09"><hi rend="blue">before her death by the name of</hi></l>
                <l n="10"><hi rend="blue">Antoinette O Whou, O Qua.</hi></l>
                <l n="11"><hi rend="blue"> . . . .</hi></l>
-               <l n="12"><hi rend="blue"><bibl rend="begin"/>Where There is Nothing—<del>W. B. Yeats</del></hi></l>
+               <l n="12"><hi rend="blue"><bibl corresp="nb07_02_02_0115_verso_n12_bibl"/>Where There is Nothing—<del>W. B. Yeats</del></hi></l>
                <l n="13"><hi rend="blue">Being volume one of plays for an</hi></l>
                <l n="14"><hi rend="blue">Irish Theatre: by W B Yeats<note>Yeats, William Butler [1865-1939]. MM was a great admirer of Yeats, reviewed his poetry, and mentioned or wrote of him frequently in her prose.</note></hi></l>
                <l n="15"><hi rend="blue">London: A H. Bullen, 47 Great</hi></l>
-               <l n="16"><hi rend="blue">Russell St. WC. 1903<bibl rend="end"/><note>Yeats, William Butler. Where There is Nothing: Being Volume I of Plays for an Irish Theatre. London: A.H. Bullen, 1903.</note></hi></l>
+               <l n="16"><hi rend="blue">Russell St. WC. 1903<bibl corresp="#nb07_02_02_0115_verso_n12_bibl"/><note>Yeats, William Butler. Where There is Nothing: Being Volume I of Plays for an Irish Theatre. London: A.H. Bullen, 1903.</note></hi></l>
                <l n="17"><hi rend="blue">   <hi rend="pencil">Where there is Nothing?</hi></hi></l>
                <l n="18"><hi rend="blue">55 Paddy Cockfight It was a man</hi></l>
                <l n="19"><hi rend="blue">below Mullingar owned this one.</hi></l>
@@ -4971,12 +4971,12 @@
             <pb facs="nb07_02_02_0115_recto.jpg"/>
             <!--<desc>MM draws diagonal arrow after “132,” rising upward to the right</desc>-->
             <lg>
-               <l n="01"><hi rend="pencil"><bibl rend="begin"/>Alice Morse Earl</hi>  <hi rend="blue">Feb 7 33</hi></l>
-               <l n="02"><hi rend="pencil">Sun Dials &amp; Roses of Yesterday</hi><bibl rend="end"/><note>Earle, Alice Morse. Sundials and Roses of Yesterday. Macmillan, 1902. Alice Morse Earl [1851-1911] was an Amercan social historian.</note></l>
+               <l n="01"><hi rend="pencil"><bibl corresp="nb07_02_02_0115_recto_n01_bibl"/>Alice Morse Earl</hi>  <hi rend="blue">Feb 7 33</hi></l>
+               <l n="02"><hi rend="pencil">Sun Dials &amp; Roses of Yesterday</hi><bibl corresp="#nb07_02_02_0115_recto_n01_bibl"/><note>Earle, Alice Morse. Sundials and Roses of Yesterday. Macmillan, 1902. Alice Morse Earl [1851-1911] was an Amercan social historian.</note></l>
                <l n="03"><hi rend="blue">Loggans<note>David Loggan [1634-1692] was an English baroque engraver, draughtsman, and painter, known for his drawings and engravings of Oxford and Cambridge Universities.</note><hi rend="underline">Views of the English Universities</hi></hi></l>
                <l n="04"><hi rend="blue">cf. Anthony á Wood<note>Anthony Wood [1632-1695] was an English antiquary who catalogued the history and antiquities of the University of Oxford.</note>.</hi></l>
-               <l n="05"><hi rend="blue"><bibl rend="begin"/>Skeat: Chaucer’s Treatise on the</hi></l>
-               <l n="06"><hi rend="blue">Astrolabe;<note>Chaucer, Geoffrey. Treatise on the Astrolabe. Ed. Walter Skeat. John Childs and Son,1872. MM refers to Chaucer as the “perfection of naturalness” in “conveying emotion intact”; “Feeling and Precision,” Sewanee Review (Autumn 1944).</note> also Bread &amp; Milk for Babes <bibl rend="end"/></hi></l>
+               <l n="05"><hi rend="blue"><bibl corresp="nb07_02_02_0115_recto_n05_bibl"/>Skeat: Chaucer’s Treatise on the</hi></l>
+               <l n="06"><hi rend="blue">Astrolabe;<note>Chaucer, Geoffrey. Treatise on the Astrolabe. Ed. Walter Skeat. John Childs and Son,1872. MM refers to Chaucer as the “perfection of naturalness” in “conveying emotion intact”; “Feeling and Precision,” Sewanee Review (Autumn 1944).</note> also Bread &amp; Milk for Babes <bibl corresp="#nb07_02_02_0115_recto_n05_bibl"/></hi></l>
                <l n="07"><hi rend="blue">132 Litell Lowys my son,</hi></l>
                <l n="08"><hi rend="blue">. . .; and as well, I consider th<del>e</del>y</hi></l>
                <l n="09"><hi rend="blue">bisi pr<del>a</del><add>e</add>yer in special to lern</hi></l>
@@ -5085,15 +5085,15 @@
          <div type="image" xml:id="nb07_02_02_0118_text">
             <pb facs="nb07_02_02_0118_recto.jpg"/>
             <lg>
-               <l n="01"><hi rend="blue">      <bibl rend="begin"/>Ill. London News</hi></l>
-               <l n="02"><hi rend="blue">   15 Oct 1932<bibl rend="end"/><note>Pycraft, W. P. “The World of Science.” Illustrated London News (15 October 1932): 574.</note></hi></l>
+               <l n="01"><hi rend="blue">      <bibl corresp="nb07_02_02_0118_recto_n01_bibl"/>Ill. London News</hi></l>
+               <l n="02"><hi rend="blue">   15 Oct 1932<bibl corresp="#nb07_02_02_0118_recto_n01_bibl"/><note>Pycraft, W. P. “The World of Science.” Illustrated London News (15 October 1932): 574.</note></hi></l>
                <l n="03"><hi rend="blue">The Flower in the Crannied Wall.</hi></l>
                <l n="04"><hi rend="blue"><del>Ivy leafe</del> Ivy-leaved toad-flax:</hi></l>
                <l n="05"><hi rend="blue"><foreign xml:lang="la">(Linaria cymbalaria)</foreign></hi></l>
                <l n="06"><hi rend="blue"> </hi></l>
-               <l n="07"><hi rend="blue"><bibl rend="begin"/>Why God Loves the Irish</hi></l>
+               <l n="07"><hi rend="blue"><bibl corresp="nb07_02_02_0118_recto_n07_bibl"/>Why God Loves the Irish</hi></l>
                <l n="08"><hi rend="blue">Humphrey J Desmond 1918 Devon—</hi></l>
-               <l n="09"><hi rend="blue">Adair Co. N.Y.<bibl rend="end"/><note>Desmond, Humphrey J. Why God Loves the Irish. New York: Devin-Adair, 1918. Humphrey Joseph Desmond [1858-1932] was an American lawyer, writer, newspaper editor, and politician from Wisconsin.</note></hi></l>
+               <l n="09"><hi rend="blue">Adair Co. N.Y.<bibl corresp="#nb07_02_02_0118_recto_n07_bibl"/><note>Desmond, Humphrey J. Why God Loves the Irish. New York: Devin-Adair, 1918. Humphrey Joseph Desmond [1858-1932] was an American lawyer, writer, newspaper editor, and politician from Wisconsin.</note></hi></l>
                <l n="10"><hi rend="blue"> </hi></l>
                <l n="11"><hi rend="blue">8.  the Irishman &amp; the Jew have</hi></l>
                <l n="12"><hi rend="blue">not been adequately appreciated.</hi></l>
@@ -5116,8 +5116,8 @@
          <div type="image" xml:id="nb07_02_02_0119_text">
             <pb facs="nb07_02_02_0119_verso.jpg"/>
             <lg>
-               <l n="01">   <bibl rend="begin"/>June 1933 Close-Up</l>
-               <l n="02">620<bibl rend="end"/></l>
+               <l n="01">   <bibl corresp="nb07_02_02_0119_verso_n01_bibl"/>June 1933 Close-Up</l>
+               <l n="02">620<bibl corresp="#nb07_02_02_0119_verso_n01_bibl"/></l>
                <l n="03">   to the still more blatant</l>
                <l n="04">mendacity of the pseudo-classic</l>
                <l n="05">tirades of O’Neill’s heroes</l>
@@ -5152,8 +5152,8 @@
                <l n="07">Ernest Jones: it is difficult to</l>
                <l n="08">over estimate the quantity of sadism</l>
                <l n="09">present in infants.</l>
-               <l n="10"><bibl rend="begin"/>The Traveling Camera Erno</l>
-               <l n="11">Metzner Budapest.<bibl rend="end"/><note>Metzner, Ernő. “The Travelling Camera.” Close-Up (June 1933): 182-187. Ernő Metzner [1892-1953] was a Hungarian film director and production designer who emigrated to Germany and later the United States. MM published an essay and a film review in subsequent 1933 issues of Close Up.</note></l>
+               <l n="10"><bibl corresp="nb07_02_02_0119_recto_n10_bibl"/>The Traveling Camera Erno</l>
+               <l n="11">Metzner Budapest.<bibl corresp="#nb07_02_02_0119_recto_n10_bibl"/><note>Metzner, Ernő. “The Travelling Camera.” Close-Up (June 1933): 182-187. Ernő Metzner [1892-1953] was a Hungarian film director and production designer who emigrated to Germany and later the United States. MM published an essay and a film review in subsequent 1933 issues of Close Up.</note></l>
                <l n="12"/>
                <l n="13">By their continual flow moving</l>
                <l n="14">camera shots have much</l>
@@ -5173,8 +5173,8 @@
          <div type="image" xml:id="nb07_02_02_0120_text">
             <pb facs="nb07_02_02_0120_verso.jpg"/>
             <lg>
-               <l n="01">200 <bibl rend="begin"/>Manchester film Society</l>
-               <l n="02">P.A. Le Neve Foster.<bibl rend="end"/><note>Foster, P. A. Le Neve. “Manchester Film Society.” Close-Up (June 1933): 200. Peter le Neve Foster [1809-1879] was an early amateur photographer in England who founded the Photographic Society of London and organized the first photography exhibition at the Royal Society of the Arts.</note></l>
+               <l n="01">200 <bibl corresp="nb07_02_02_0120_verso_n01_bibl"/>Manchester film Society</l>
+               <l n="02">P.A. Le Neve Foster.<bibl corresp="#nb07_02_02_0120_verso_n01_bibl"/><note>Foster, P. A. Le Neve. “Manchester Film Society.” Close-Up (June 1933): 200. Peter le Neve Foster [1809-1879] was an early amateur photographer in England who founded the Photographic Society of London and organized the first photography exhibition at the Royal Society of the Arts.</note></l>
                <l n="03"/>
                <l n="04">Manchester is a documentary</l>
                <l n="05">film of the town, . . thru the</l>
@@ -5216,11 +5216,11 @@
                <l n="14">2. pusillanimity &amp; mediocrity</l>
                <l n="15">of contemporary France</l>
                <l n="16"/>
-               <l n="17">      <bibl rend="begin"/>N Y Sun. 1 July 1933</l>
+               <l n="17">      <bibl corresp="nb07_02_02_0120_recto_n17_bibl"/>N Y Sun. 1 July 1933</l>
                <l n="18"/>
                <l n="19">As N.Y. was—</l>
                <l n="20">Wonders of the Animal World</l>
-               <l n="21">Brought to City.<bibl rend="end"/><note>“As New York Was: Wonders of the Animal World Brought to City.” The New York Sun (1 July 1933).</note></l>
+               <l n="21">Brought to City.<bibl corresp="#nb07_02_02_0120_recto_n17_bibl"/><note>“As New York Was: Wonders of the Animal World Brought to City.” The New York Sun (1 July 1933).</note></l>
                <l n="22"> The N.Y. Mercury Aug 1, 1768</l>
                <l n="23">For one shilling one could view</l>
             </lg>
@@ -5264,9 +5264,9 @@
                <l n="09">natural history, and every other</l>
                <l n="10">curious person.”</l>
                <l n="11"/>
-               <l n="12">  <bibl rend="begin"/>Natn’l Geographic M. April 1928</l>
+               <l n="12">  <bibl corresp="nb07_02_02_0121_recto_n12_bibl"/>Natn’l Geographic M. April 1928</l>
                <l n="13">Holidays Among the Hill Towns of</l>
-               <l n="14"> Umbria &amp; Tuscany by Paul Wilstach<bibl rend="end"/><note>Wilstach, Paul. “Holidays Among the Hill Towns of Tuscany and Umbria.” National Geographic Magazine (April 1928): 401-42. Paul Wilstach [1870-1952] was a writer and playwright.</note></l>
+               <l n="14"> Umbria &amp; Tuscany by Paul Wilstach<bibl corresp="#nb07_02_02_0121_recto_n12_bibl"/><note>Wilstach, Paul. “Holidays Among the Hill Towns of Tuscany and Umbria.” National Geographic Magazine (April 1928): 401-42. Paul Wilstach [1870-1952] was a writer and playwright.</note></l>
                <l n="15">425. Legend ascribes to Senius,</l>
                <l n="16">son of Remus &amp; nephew of Romulus,</l>
                <l n="17">the founding of Siena. Fr. him the</l>
@@ -5308,18 +5308,18 @@
             </lg>
             <pb facs="nb07_02_02_0122_recto.jpg"/>
             <lg>
-               <l n="01">  <bibl rend="begin"/>Natnl G. M.   May 1928</l>
+               <l n="01">  <bibl corresp="nb07_02_02_0122_recto_n01_bibl"/>Natnl G. M.   May 1928</l>
                <l n="02">To Bogota and Back by Air</l>
                <l n="03">By. Col. C. H Lindbergh</l>
-               <l n="04">546. <bibl rend="end"/><note>Lindbergh, Charles. “To Bogotá and Back by Air.” National Geographic Magazine (May 1928): 529-601. Charls Lindbergh [1902-1974] was an American aviator and military officer known for making the first solo transatlantic flight.</note>In Lindy’s hands war’s most</l>
+               <l n="04">546. <bibl corresp="#nb07_02_02_0122_recto_n01_bibl"/><note>Lindbergh, Charles. “To Bogotá and Back by Air.” National Geographic Magazine (May 1928): 529-601. Charls Lindbergh [1902-1974] was an American aviator and military officer known for making the first solo transatlantic flight.</note>In Lindy’s hands war’s most</l>
                <l n="05">terrible weapon turns to a dove of peace</l>
                <l n="06">says a banner carried by Mexican workmen</l>
                <l n="07"> - - <foreign xml:lang="es">Arma Mas Terrible la</foreign></l>
                <l n="08"><foreign xml:lang="es">Guerra se convirtas en Paloma</foreign></l>
                <l n="09"><foreign xml:lang="es">Messajera de _______z en <del>Manoe</del></foreign></l>
                <l n="10"><foreign xml:lang="es">Manos de “Lindy” </foreign></l>
-               <l n="11"><bibl rend="begin"/>The Home of the First Farmer</l>
-               <l n="12">of America. By Worth E Shoults<bibl rend="end"/><note>Shoults, Worth E. “The Home of the First Farmer of America.” National Geographic Magazine (May 1928): 602-28.</note></l>
+               <l n="11"><bibl corresp="nb07_02_02_0122_recto_n11_bibl"/>The Home of the First Farmer</l>
+               <l n="12">of America. By Worth E Shoults<bibl corresp="#nb07_02_02_0122_recto_n11_bibl"/><note>Shoults, Worth E. “The Home of the First Farmer of America.” National Geographic Magazine (May 1928): 602-28.</note></l>
                <l n="13">  604</l>
                <l n="14">In general W’s day mules were not</l>
                <l n="15">commonly used in amer, &amp; those that were</l>
@@ -5358,9 +5358,9 @@
                <l n="19">the sole purpose of breeding them,</l>
                <l n="20">upwards of twenty of my best mares.”</l>
                <l n="21"/>
-               <l n="22">     <bibl rend="begin"/>Sept. 1929 N. G. Mag.</l>
+               <l n="22">     <bibl corresp="nb07_02_02_0123_verso_n22_bibl"/>Sept. 1929 N. G. Mag.</l>
                <l n="23">Into Primeval Papua by Seaplane</l>
-               <l n="24">       By EW. Brandes Ph.D. <bibl rend="end"/><note>Brandes, Elmer Walker. “Into Primeval Papua by Seaplane.” National Geographic Magazine (September 1929): 253-332. Elmer Walker Brandes [1891-1965] was a plant pathologist leading divisions at United States department of Agriculture and was the director of various scientific expeditions.</note></l>
+               <l n="24">       By EW. Brandes Ph.D. <bibl corresp="#nb07_02_02_0123_verso_n22_bibl"/><note>Brandes, Elmer Walker. “Into Primeval Papua by Seaplane.” National Geographic Magazine (September 1929): 253-332. Elmer Walker Brandes [1891-1965] was a plant pathologist leading divisions at United States department of Agriculture and was the director of various scientific expeditions.</note></l>
                <l n="25">p.306.</l>
                <l n="26"> New Guinea Leaf Hoppers, not</l>
                <l n="27">   Butterflies</l>
@@ -5403,12 +5403,12 @@
                <l n="02">si<add><del>r</del></add>nense &amp; saccharum</l>
                <l n="03">spontaneum, wild sugar cane—</l>
                <l n="04"> </l>
-               <l n="05"><bibl rend="begin"/>N.Y. Herald-Tribune 10 Sept. 33</l>
+               <l n="05"><bibl corresp="nb07_02_02_0124_verso_n05_bibl"/>N.Y. Herald-Tribune 10 Sept. 33</l>
                <l n="06">      Books</l>
                <l n="07">Styles of the South Seas. <hi rend="underline">The Cruise</hi></l>
                <l n="08"><hi rend="underline">of the Zaca</hi> By Templeton Crocker</l>
                <l n="09">N.Y. Harper &amp; Bros. $3</l>
-               <l n="10">Reviewed by Arthur Warner<bibl rend="end"/><note>Warner, Arthur. “Styles of the South Seas.” Rev. of The Cruise of the Zaca by Templeton Crocker. New York Herald Tribune (10 September 1933).</note></l>
+               <l n="10">Reviewed by Arthur Warner<bibl corresp="#nb07_02_02_0124_verso_n05_bibl"/><note>Warner, Arthur. “Styles of the South Seas.” Rev. of The Cruise of the Zaca by Templeton Crocker. New York Herald Tribune (10 September 1933).</note></l>
                <l n="11">- - - -</l>
                <l n="12">He does not pose as an encrusted</l>
                <l n="13">old salt, but says w pleasant</l>
@@ -5417,13 +5417,13 @@
                <l n="16">mysterious reason the same wind</l>
                <l n="17">will permit two boats to travel in opposite directions.”</l>
                <l n="18"/>
-               <l n="19"><bibl rend="begin"/>Fanny Burney<note>Frances (Fanny) Burney [1752-1840] was an English satirical novelist, diarist and playwright.</note> &amp; Her Friends</l>
+               <l n="19"><bibl corresp="nb07_02_02_0124_verso_n19_bibl"/>Fanny Burney<note>Frances (Fanny) Burney [1752-1840] was an English satirical novelist, diarist and playwright.</note> &amp; Her Friends</l>
                <l n="20">   select passages fr her diary &amp; other</l>
                <l n="21">   writings</l>
                <l n="22">edited by L. B. Seeley, M.A.</l>
                <l n="23">    w 9 ill.s after Reynolds,^<add>Gains.</add> Copley, &amp;</l>
                <l n="24">West.</l>
-               <l n="25">                 4th edition<bibl rend="end"/><note>Fanny Burney and Her Friends. Ed. L.B. Seeley. New York: Scribner’s, 1892. Leonard Benton Seeley [1831-1893] was a writer and editor; his other works include edited collections of letters and diaries by Horace Walpole and Hester Thrale.</note></l>
+               <l n="25">                 4th edition<bibl corresp="#nb07_02_02_0124_verso_n19_bibl"/><note>Fanny Burney and Her Friends. Ed. L.B. Seeley. New York: Scribner’s, 1892. Leonard Benton Seeley [1831-1893] was a writer and editor; his other works include edited collections of letters and diaries by Horace Walpole and Hester Thrale.</note></l>
             </lg>
             <pb facs="nb07_02_02_0124_recto.jpg"/>
             <lg>
@@ -5537,7 +5537,7 @@
                <l n="20">acted as foster-mother to ten</l>
                <l n="21">ducklings . . . .</l>
                <l n="22"> </l>
-               <l n="23">   <bibl rend="begin"/><bibl corresp="0126_verso_l23_bibl"/>Sea-Shore Life</l>
+               <l n="23">   <bibl corresp="nb07_02_02_0126_verso_n23_bibl"/><bibl corresp="0126_verso_l23_bibl"/>Sea-Shore Life</l>
                <l n="24">   The Invertebrates of the NY<bibl corresp="#0126_verso_l23_bibl"/><note>Mayer, Alfred Goldborough. Sea-Shore Life: The Invertebrates of the New York Coast and the Adjacent Coast Region. New York: New York Zoological Society, 1905. Alfred Goldborough Mayer [1868-1922] was an American marine biologist and zoologist and popular science writer.</note></l>
             </lg>
          </div>
