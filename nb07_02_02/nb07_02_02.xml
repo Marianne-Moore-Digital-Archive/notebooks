@@ -154,6 +154,8 @@
             <lg>
                <l n="01">[No MM handwriting on this page.]<note>Rosenbach librarian has written 722 / 120 / 1250/6</note> </l>
             </lg>
+         </div>
+         <div type="image" xml:id="nb07_02_02_0002_text">
             <pb facs="nb07_02_02_0002_recto.jpg"/>
             <lg>
                <l n="01">Gems 1 1/2 cup whole wheat flour </l>
@@ -201,6 +203,8 @@
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
+         </div>
+         <div type="image" xml:id="nb07_02_02_0005_text">
             <pb facs="nb07_02_02_0005_recto.jpg"/>
             <!--<desc>MM draws parentheses around the word DIARY in the printed title of the diary
                     and puts an asterisk to the right of the word.</desc>-->
@@ -222,6 +226,8 @@
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
+         </div>
+         <div type="image" xml:id="nb07_02_02_0006_text">
             <pb facs="nb07_02_02_0006_recto.jpg"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
@@ -767,7 +773,7 @@
             <lg>
                <l n="01">                Feb 13 1931</l>
                <l n="02"><bibl corresp="nb07_02_02_0037_recto_l02_bibl"/>Ill London News 13 Sept. 1931</l>
-               <l n="03">Cormorants.<note>Pycraft, W. P. “The World of Science: Cormorants.” Illustrated London News (13 September 1930): 430. MM incorrectly notes the year of this source as 1931.</note> WP Pycraft.<note>Pycraft, W.P. [1868-1942]. English osteologist and zoologist.</note><biblcorresp="#nb07_02_02_0037_recto_l02_bibl"/> (3)?</l>
+               <l n="03">Cormorants.<note>Pycraft, W. P. “The World of Science: Cormorants.” Illustrated London News (13 September 1930): 430. MM incorrectly notes the year of this source as 1931.</note> WP Pycraft.<note>Pycraft, W.P. [1868-1942]. English osteologist and zoologist.</note><bibl corresp="#nb07_02_02_0037_recto_l02_bibl"/> (3)?</l>
                <l n="04">. . . For the cormorant, &amp; its near relation</l>
                <l n="05">the shag &amp; the gannet, are the only</l>
                <l n="06">representatives among our British birds</l>
@@ -5493,11 +5499,11 @@
                <l n="06">damaged net, but the tree never</l>
                <l n="07">repairs its leaves.</l>
                <l n="08"/>
-               <l n="09"><bibl corresp="0125_recto_l09_biblA"/>Animals I Have Known</l>
+               <l n="09"><bibl corresp="nb07_02_02_0125_recto_l09_bibl"/>Animals I Have Known</l>
                <l n="10">         By </l>
                <l n="11">  Arthur H. Beavan</l>
                <l n="12">  N.Y. Frederick A. Stokes Co.</l>
-               <l n="13">        publishers<bibl corresp="#0125_recto_l13_biblA"/><note>Beavan, Arthur Henry. Animals I Have Known. New York: Frederick A. Stokes, 1905. Arthur Henry Beavan [1844-1907] was a writer of histories and biographies. Similar titles include Birds I Have Known (1905) and Fishes I Have Known (1905).</note></l>
+               <l n="13">        publishers<bibl corresp="#nb07_02_02_0125_recto_l09_bibl"/><note>Beavan, Arthur Henry. Animals I Have Known. New York: Frederick A. Stokes, 1905. Arthur Henry Beavan [1844-1907] was a writer of histories and biographies. Similar titles include Birds I Have Known (1905) and Fishes I Have Known (1905).</note></l>
                <l n="14">  see Hedgehog p. 78</l>
                <l n="15">      Koala p. 202</l>
                <l n="16">      Native cats 214</l>
